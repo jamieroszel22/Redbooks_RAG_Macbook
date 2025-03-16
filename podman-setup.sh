@@ -1,5 +1,5 @@
 #!/bin/bash
-# Setup script for Podman on Linux/Mac
+# Setup script for Podman on macOS
 
 echo "Setting up IBM Redbooks RAG System with Podman..."
 
@@ -11,9 +11,45 @@ mkdir -p data/processed_redbooks/ollama
 mkdir -p data/openwebui
 
 # Create Podman-compatible compose file
-if [ ! -f "podman-compose.yml" ]; then
-  echo "Creating Podman-compatible compose file..."
-  cp docker-compose.yml podman-compose.yml
+echo "Creating Podman-compatible compose file..."
+cat > podman-compose.yml << 'EOL'
+version: '3'
+
+services:
+  redbooks-rag:
+    build: .
+    container_name: redbooks-rag
+    volumes:
+      - ./scripts:/app/scripts:Z
+      - ./data/pdfs:/data/pdfs:Z
+      - ./data/processed_redbooks:/data/processed_redbooks:Z
+      - ./data/openwebui:/data/openwebui:Z
+    environment:
+      - OLLAMA_BASE_URL=http://redbooks-ollama:11434
+    depends_on:
+      - ollama
+    ports:
+      - "8000:8000"
+    tty: true
+    stdin_open: true
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: redbooks-ollama
+    volumes:
+      - ollama_data:/root/.ollama:Z
+    ports:
+      - "11434:11434"
+
+volumes:
+  ollama_data:
+EOL
+
+# Ensure Podman machine is running
+echo "Checking Podman machine status..."
+if ! podman machine list | grep -q "Currently running"; then
+  echo "Starting Podman machine..."
+  podman machine start
 fi
 
 # Build and start containers with Podman

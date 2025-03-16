@@ -8,11 +8,39 @@ mkdir data\processed_redbooks\chunks 2>nul
 mkdir data\processed_redbooks\ollama 2>nul
 mkdir data\openwebui 2>nul
 
-:: Create Podman-compatible compose file if it doesn't exist
-if not exist podman-compose.yml (
-    echo Creating Podman-compatible compose file...
-    copy docker-compose.yml podman-compose.yml
-)
+:: Create Podman-compatible compose file
+echo Creating Podman-compatible compose file...
+
+@echo version: '3' > podman-compose.yml
+@echo. >> podman-compose.yml
+@echo services: >> podman-compose.yml
+@echo   redbooks-rag: >> podman-compose.yml
+@echo     build: . >> podman-compose.yml
+@echo     container_name: redbooks-rag >> podman-compose.yml
+@echo     volumes: >> podman-compose.yml
+@echo       - ./scripts:/app/scripts:Z >> podman-compose.yml
+@echo       - ./data/pdfs:/data/pdfs:Z >> podman-compose.yml
+@echo       - ./data/processed_redbooks:/data/processed_redbooks:Z >> podman-compose.yml
+@echo       - ./data/openwebui:/data/openwebui:Z >> podman-compose.yml
+@echo     environment: >> podman-compose.yml
+@echo       - OLLAMA_BASE_URL=http://redbooks-ollama:11434 >> podman-compose.yml
+@echo     depends_on: >> podman-compose.yml
+@echo       - ollama >> podman-compose.yml
+@echo     ports: >> podman-compose.yml
+@echo       - "8000:8000" >> podman-compose.yml
+@echo     tty: true >> podman-compose.yml
+@echo     stdin_open: true >> podman-compose.yml
+@echo. >> podman-compose.yml
+@echo   ollama: >> podman-compose.yml
+@echo     image: ollama/ollama:latest >> podman-compose.yml
+@echo     container_name: redbooks-ollama >> podman-compose.yml
+@echo     volumes: >> podman-compose.yml
+@echo       - ollama_data:/root/.ollama:Z >> podman-compose.yml
+@echo     ports: >> podman-compose.yml
+@echo       - "11434:11434" >> podman-compose.yml
+@echo. >> podman-compose.yml
+@echo volumes: >> podman-compose.yml
+@echo   ollama_data: >> podman-compose.yml
 
 :: Build and start containers with Podman
 echo Building and starting containers with Podman...

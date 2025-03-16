@@ -243,6 +243,17 @@ For this project, simply replace `docker` with `podman` in any command.
 - **Volume Mounts**: When specifying volume paths in podman-compose.yml, use absolute paths for better compatibility
 - **SELinux**: If running on RHEL/Fedora with SELinux enabled, use the `:z` suffix for volume mounts
 
+### Podman on macOS Notes
+
+The repository includes a special `podman-compose.yml` file with macOS-compatible volume definitions. The `podman-setup.sh` script will:
+
+1. Create necessary directories
+2. Generate a compatible podman-compose.yml file
+3. Check if the Podman machine is running and start it if needed
+4. Build and start the containers
+
+This approach resolves common volume mounting issues seen on macOS with Podman.
+
 ## Configuration
 
 Edit the `.env` file to configure:
@@ -312,6 +323,7 @@ This project uses GitHub Actions for continuous integration. Each push to the ma
 - **Resource Limits**: Increase memory/CPU allocation in container settings
 - **M1/M2 Chips**: Be aware that containers will run in emulation mode which may impact performance
 - **Filesystem Performance**: For better performance, store data in locations not synced with iCloud
+- **Podman Volume Issues**: If you encounter `unknown mount option` errors, use the provided `podman-setup.sh` script which creates a compatible compose file
 
 #### Linux
 - **Permission Issues**: If using Podman in rootless mode and encountering permission errors:
