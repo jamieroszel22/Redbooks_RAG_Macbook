@@ -1,3 +1,11 @@
+#!/bin/bash
+# Fix for timestamp overflow issue in Podman containers
+
+echo "Stopping all running Podman containers..."
+podman stop $(podman ps -a -q) 2>/dev/null
+
+echo "Creating Dockerfile with timestamp fix..."
+cat > Dockerfile.fix << 'EOF'
 FROM python:3.10-slim
 
 WORKDIR /app
@@ -34,5 +42,17 @@ ENV PYTHONMAXINT=9223372036854775807
 # Volume for persistent data
 VOLUME ["/data"]
 
-# Command to run when container starts
+# Command to run when container starts - using a large but finite sleep time
 CMD ["python", "-c", "import time; print('Container started. Use docker exec to run specific scripts.'); time.sleep(86400 * 365)"]
+EOF
+
+echo "Building container with fixed Dockerfile..."
+podman build -t redbooks-rag-fixed -f Dockerfile.fix .
+
+echo "Starting containers with the fixed image..."
+podman-compose down
+sed -i 's/build: \./image: redbooks-rag-fixed/g' podman-compose.yml
+podman-compose up -d
+
+echo "Fix completed. Your containers should now run without timestamp errors."
+echo "To use your container, run: podman exec -it redbooks-rag {script path}"
