@@ -212,6 +212,54 @@ Windows with an NVIDIA GPU provides the best performance for this system.
    ./setup.sh
    ```
 
+## MacBook Specific Setup
+
+The repository includes special setup scripts to address common issues when running on macOS:
+
+### Using Podman on MacBook (Recommended for IBM environments)
+
+If you encounter issues with Podman on macOS, use the `macbook-podman-reset.sh` script:
+
+```bash
+chmod +x macbook-podman-reset.sh
+./macbook-podman-reset.sh
+```
+
+This script will:
+1. Clean up any existing Podman containers and pods
+2. Ensure the Podman machine is running
+3. Create a macOS-compatible Podman configuration
+4. Build and restart the containers
+
+### Using Docker on MacBook (Alternative approach)
+
+For a more reliable experience on macOS, Docker may be a better option:
+
+```bash
+chmod +x macbook-docker-setup.sh
+./macbook-docker-setup.sh
+```
+
+This script will:
+1. Clean up any existing Docker containers
+2. Create a macOS-compatible Docker configuration  
+3. Build and restart the containers
+
+### Troubleshooting MacBook Setup
+
+Common issues on macOS:
+
+1. **Pod/Container Conflicts**: If you get "container already in use" or pod-related errors, use the reset script to clean up.
+
+2. **Volume Mount Issues**: macOS uses a different filesystem than Linux. The provided scripts adjust volume mounts for compatibility.
+
+3. **Performance on Apple Silicon**: If you're using an M1/M2 Mac, containers will run in emulation mode, which may be slower.
+
+For best results on Apple Silicon Macs, consider:
+- Increasing Docker/Podman memory allocation (8GB+ recommended)
+- Using Docker instead of Podman
+- Being patient with initial container builds
+
 ## Important Podman Considerations
 
 Podman, developed by Red Hat, offers several advantages over Docker especially in IBM environments:

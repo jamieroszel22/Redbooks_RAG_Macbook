@@ -1,5 +1,26 @@
 #!/bin/bash
-# Setup script for Podman on macOS
+# Setup script for Podman on macOS/Linux
+
+# Detect if running on macOS
+if [[ "$OSTYPE" == "darwin"* ]]; then
+  echo "macOS detected, using macOS-specific setup script..."
+  # Check if macbook-podman-reset.sh exists and is executable
+  if [ -f "./macbook-podman-reset.sh" ] && [ -x "./macbook-podman-reset.sh" ]; then
+    ./macbook-podman-reset.sh
+    exit $?
+  else
+    echo "macbook-podman-reset.sh not found or not executable."
+    echo "Making it executable and running it..."
+    chmod +x macbook-podman-reset.sh 2>/dev/null
+    if [ -x "./macbook-podman-reset.sh" ]; then
+      ./macbook-podman-reset.sh
+      exit $?
+    else
+      echo "WARNING: Could not find or execute macbook-podman-reset.sh"
+      echo "Continuing with standard setup, but you may encounter issues."
+    fi
+  fi
+fi
 
 echo "Setting up IBM Redbooks RAG System with Podman..."
 
@@ -45,11 +66,13 @@ volumes:
   ollama_data:
 EOL
 
-# Ensure Podman machine is running
-echo "Checking Podman machine status..."
-if ! podman machine list | grep -q "Currently running"; then
-  echo "Starting Podman machine..."
-  podman machine start
+# Ensure Podman machine is running if on macOS
+if [[ "$OSTYPE" == "darwin"* ]]; then
+  echo "Checking Podman machine status..."
+  if ! podman machine list | grep -q "Currently running"; then
+    echo "Starting Podman machine..."
+    podman machine start
+  fi
 fi
 
 # Build and start containers with Podman
