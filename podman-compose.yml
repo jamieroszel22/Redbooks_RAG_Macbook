@@ -5,10 +5,10 @@ services:
     build: .
     container_name: redbooks-rag
     volumes:
-      - ./scripts:/app/scripts:Z
-      - ./data/pdfs:/data/pdfs:Z
-      - ./data/processed_redbooks:/data/processed_redbooks:Z
-      - ./data/openwebui:/data/openwebui:Z
+      - ./scripts:/app/scripts:z
+      - ./data/pdfs:/data/pdfs:z
+      - ./data/processed_redbooks:/data/processed_redbooks:z
+      - ./data/openwebui:/data/openwebui:z
     environment:
       - OLLAMA_BASE_URL=http://redbooks-ollama:11434
     depends_on:
@@ -22,7 +22,7 @@ services:
     image: ollama/ollama:latest
     container_name: redbooks-ollama
     volumes:
-      - ollama_data:/root/.ollama:Z
+      - ollama_data:/root/.ollama:z
     ports:
       - "11434:11434"
 

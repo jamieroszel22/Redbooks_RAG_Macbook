@@ -33,4 +33,4 @@ ENV PYTHONUNBUFFERED=1
 VOLUME ["/data"]
 
 # Command to run when container starts
-CMD ["python", "-c", "import time; print('Container started. Use docker exec to run specific scripts.'); time.sleep(infinity)"]
+CMD ["python", "-c", "import time; print('Container started. Use docker exec to run specific scripts.'); time.sleep(float('inf'))"]
