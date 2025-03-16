@@ -1,0 +1,20 @@
+00BASE-T, OSA-Express7S 1.1 (25 GbE) Adapters
+- /SM590000 Coupling Express2 LR Adapter
+- /SM590000 32 Gbps 2-port FICON Adapter
+- /SM590000 Coupling facility scalability and performance improvements
+
+For more information about supported functions and their minimum required support levels, see 7.3, 'IBM z16 features and function support overview' on page 252.
+
+7.2.3  z/VSE
+
+IBM z16 support is provided by z/VSE V6R2 and later, with the following considerations:
+
+- /SM590000 z/VSE runs in z/Architecture mode only
+- /SM590000 z/VSE supports 64-bit real and virtual addressing
+
+For more information about supported functions and their minimum required support levels, see 7.3, 'IBM z16 features and function support overview' on page 252.
+
+7.2.4  21 st Century Software z/VSE n V6.3
+
+21 st Century Software VSE n  V6.3 was announced in March 2022 and is based on an IBM licensed copy of IBM z/VSE. For more information about this product, visit see the 21 st Century Software website.
+

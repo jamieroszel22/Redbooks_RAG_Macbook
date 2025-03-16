@@ -1,0 +1,14 @@
+e way as they do a nonmainframe environment.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+HiperSockets network traffic analyzer for Linux on IBM Z
+
+HiperSockets network traffic analyzer (HS NTA) provides support for tracing Layer2 and Layer3 HiperSockets network traffic in Linux on IBM Z. This support allows Linux on IBM Z to control the trace for the internal virtual LAN to capture the records into host memory and storage (file systems).
+
+Linux on IBM Z tools can be used to format, edit, and process the trace records for analysis by system programmers and network administrators.
+
+OSA-Express7S 1.2 25 GbE LR and SR features
+
+OSA-Express7S 1.2 features are an Ethernet technology refresh introduced with IBM z16.
+

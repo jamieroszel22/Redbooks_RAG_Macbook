@@ -1,0 +1,7 @@
+
+- /SM590000 New and revised Transition Charges for Sysplexes or Multiplexes TTOs for actively coupled Parallel Sysplexes (z/OS), Loosely Coupled Complexes (z/TPF), and Multiplexes (z/OS and z/TPF).
+
+Technology Update Pricing for the IBM z16 extends the software price and performance that is provided by AWLC for IBM z16 servers. The new and revised Transition Charges for Sysplexes offerings provide a transition to Technology Update Pricing for the IBM z16 for customers who have not fully migrated to IBM z16 servers. This transition ensures that aggregation benefits are maintained and phases in the benefits of Technology Update Pricing for the IBM z16 pricing as customers migrate.
+
+When an IBM z16 server is in an actively coupled Parallel Sysplex or a Loosely Coupled Complex, you might choose aggregated Advanced Workload License Charges (AWLC) pricing or aggregated Parallel Sysplex License Charges (PSLC) pricing (subject to all applicable terms and conditions).
+

@@ -1,0 +1,19 @@
+bility in password selection, the password limit was increased to 64 characters and special characters are allowed for IBM z16.
+
+For more information about HMC networks, see the following resources:
+
+- /SM590000 The HMC and SE Driver 51/Version 2.16.0 console help system
+- /SM590000 IBM Resource Link. At this web page, select Library , the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide .
+- /SM590000 IBM Z 3931 Installation Manual for Physical Planning, GC28-7015.
+
+10.3.4  Hardware considerations
+
+The following hardware considerations are important for IBM z16:
+
+- /SM590000 IBM does not provide Ethernet cables with the system
+- /SM590000 IBM does not provide Ethernet switches with the system for HMC and SE communication
+
+Ethernet switches
+
+Ethernet switches for HMC and SE connectivity are provided by the customer. Existing supported switches can still be used.
+

@@ -1,0 +1,16 @@
+re processors to an LPAR than the target operating system supports.
+
+The number of processors that are supported by various operating systems releases are listed in Table 8-3.
+
+<!-- missing-text -->
+
+- a. Supported Linux on IBM Z distributions (for more information, see Chapter 7, 'Operating system support' on page 247).
+
+Software charges, which are based on the total capacity of the system on which the software is installed, are adjusted to the new capacity after the MES upgrade.
+
+Software products that use Workload License Charges (WLC) or Taylor Fit Pricing (TFP) might not be affected by the system upgrade. Their charges are based on partition usage, not on the system total capacity. For more information about WLC, see 7.8, 'Software licensing' on page 323.
+
+8.4.2  MES upgrades for memory
+
+MES upgrades for memory can concurrently add memory in the following ways:
+

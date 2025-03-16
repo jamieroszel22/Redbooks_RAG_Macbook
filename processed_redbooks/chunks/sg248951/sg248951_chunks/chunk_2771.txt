@@ -1,0 +1,14 @@
+m branches) = 12 K
+- /SM590000 BTB2: Second Level Branch Target Buffer, also variable capacity (variable directory), up to 260 k branches
+
+Branch prediction also implements auxiliary predictors for:
+
+- /SM590000 Direction:
+- -Two table TAGE 4  Pattern History Table (PHT): A two-level table (with different history lengths). Branch direction is predicted based on history.
+- -Perceptron: Called a Perceptron because this is a neural network algorithm that learns to correlate branch history over time and predicts direction of branches that the other mechanisms cannot catch with sufficient accuracy
+- /SM590000 Target:
+- -Two table TAGE Changing Target Buffer (CTB): A two-level table (with different history lengths). Branches are remembered that have different targets depending on history.
+- -Return Address Table Call/Return Stack (RAT CRS): Multi-level CRS that is implemented as a table lookup
+
+3.4.4  Superscalar processor
+

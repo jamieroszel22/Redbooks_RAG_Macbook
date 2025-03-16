@@ -1,0 +1,19 @@
+GbE RoCE Express2 feature uses SR optics and supports the use of a multimode fiber optic cable that ends with an LC Duplex connector.
+
+Note: Consider the following 10 GbE RoCE Express2 requirements:
+
+- /SM590000 The 10 GbE RoCE Express2 feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+- /SM590000 25 GbE and 10 GbE RoCE features should not be mixed in a z/OS SMC-R Link Group.
+
+Point-to-point connections and switched connections with an enterprise-class switch are supported (ports running at matching speeds).
+
+Shared Memory Communications functions
+
+The Shared Memory Communication (SMC) capabilities of the IBM z16 help optimize the communications between applications for server-to-server (SMC-R) or LPAR-to-LPAR (SMC-D) connectivity.
+
+Shared Memory Communications Version 1
+
+The following versions of SMC are available:
+
+- /SM590000 SMC-R
+

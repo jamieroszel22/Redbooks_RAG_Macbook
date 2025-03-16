@@ -1,0 +1,13 @@
+ you also must sign an Amendment (US form #Z125-8145) with IBM to allow you to run production workload on a CBU upgrade during your CBU tests. More 10-day tests can be purchased with the CBU record.
+
+- /SM590000 CPE is a concurrent and temporary activation of extra CPs, ICFs, zIIPs, IFLs, and SAPs; or an increase of the model capacity identifier; or both.
+
+The CPE offering is used to replace temporary lost capacity within a client's enterprise for planned downtime events, such as data center changes.
+
+Notes: Consider the following points:
+
+- /SM590000 CPE cannot be used for peak load management of client workload or for a disaster situation.
+- /SM590000 CPE is available only as carry forward on IBM z16.
+
+The CPE feature requires unused capacity to be available on installed processor drawers of the backup system. The capacity must be available as unused PUs, as a possibility to increase the model capacity identifier on a sub-capacity system, or as both.
+

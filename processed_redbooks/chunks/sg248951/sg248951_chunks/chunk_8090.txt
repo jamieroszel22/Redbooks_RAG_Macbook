@@ -1,0 +1,6 @@
+ost expedites planned operating system shutdown processing, operating system Initial Program Load (IPL), middleware and workload restart and recovery, and the client workload execution that follows.
+
+It enables businesses to return their systems to work faster, not just from catastrophes, but after all kinds of disruptions (planned and unplanned). Another aspect of System Recovery Boost is to expedite and streamline the execution of GDPS recovery scripts that perform reconfiguration actions during various planned and unplanned operational scenarios.
+
+7.5.5  z/OS V2.R3
+

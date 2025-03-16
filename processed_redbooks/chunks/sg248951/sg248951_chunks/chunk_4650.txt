@@ -1,0 +1,10 @@
+ritical reporting and analytic workloads. The accelerator transforms the mainframe into a hybrid transaction and analytic processing (HTAP) environment.
+
+For more information, see this IBM web page.
+
+- /SM590000 IBM Cloud Hyper Protect Data Base as a Service (DBaaS) for PostgreSQL or MongoDB offers enterprise cloud database environments with high availability for sensitive data workloads.
+- For more information, see this IBM Cloud web page.
+- /SM590000 IBM Cloud Hyper Protect Crypto Services is a key management service and cloud hardware security module (HSM) that supports industry standards such as PKCS #11.
+
+For more information, see this IBM Cloud web page.
+

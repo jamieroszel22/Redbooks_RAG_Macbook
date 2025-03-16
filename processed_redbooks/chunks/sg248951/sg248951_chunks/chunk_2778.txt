@@ -1,0 +1,18 @@
+d issues I/O by using EADMF for asynchronous execution.
+
+Asynchronous execution maintains the current user experience and provides a transparent implementation for existing authorized users of zEDC.
+
+The On-Chip data compression implements compression as defined by RFC1951 (DEFLATE).
+
+Figure 3-12 shows the nest compression accelerator (NXU) for On-Chip Compression acceleration.
+
+<!-- missing-text -->
+
+For more information about sizing, migration considerations, and software support, see Appendix C, 'IBM Integrated Accelerator for zEnterprise Data Compression' on page 507.
+
+Coprocessor units (on-core)
+
+A data compression coprocessor and a cryptography coprocessor unit is available on each core in the IBM Telum chip.
+
+The compression engine uses static dictionary compression and expansion that is based on CMPSC instruction. The compression dictionary uses the level 1 (L1) cache (instruction cache).
+

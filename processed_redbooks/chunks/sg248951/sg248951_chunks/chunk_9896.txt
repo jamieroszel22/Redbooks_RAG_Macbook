@@ -1,0 +1,14 @@
+90000 Remove a cryptographic coprocessor
+- /SM590000 Enable I/O connections
+- /SM590000 Swap processor types
+
+By addressing the elimination of planned outages, the following tasks also are possible:
+
+- /SM590000 Concurrent driver upgrades
+- /SM590000 Concurrent and flexible customer-initiated upgrades
+
+For more information about the flexible upgrades that are started by customers, see 8.3.2, 'Customer Initiated Upgrade facility' on page 336.
+
+- /SM590000 STP management of concurrent CTN Split and Merge
+- /SM590000 Dynamic I/O for stand-alone CF, Linux on Z and z/TPF running on IBM z16
+

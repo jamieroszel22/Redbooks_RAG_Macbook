@@ -1,0 +1,6 @@
+luding Certified IT Architect, Systems Software developer, and Systems Programming. He has extensive experience developing and documenting high availability solutions for IBM's enterprise customers.
+
+AndrØ Spahni is an IBM Z Client Technical Specialist based in Zurich, Switzerland. He has 20 years of experience working with and supporting IBM Z clients. AndrØ has worked for EMEA 2nd level supporter and national Top Gun. His areas of expertise include IBM Z hardware, HMC/SE, and connectivity.
+
+Anna Shugol is a mainframe technical specialist with IBM UK. She has over 8 years of Mainframe experience and has worked with clients in various geographies. Large system performance is one of her key areas of expertise. Anna holds a Computer Science degree from Bauman Moscow State Technical University.
+

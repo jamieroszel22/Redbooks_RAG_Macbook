@@ -1,0 +1,14 @@
+nce across heterogeneous systems
+
+The NTP server becomes the single time source (the ETS) for STP and other servers that are not IBM Z (such as AIXfi and Microsoft Windows) that include NTP clients.
+
+The HMC can act as an NTP server. With this support, the IBM z15 can receive the time from the HMC without accessing a LAN other than the HMC and SE network. When the HMC is used as an NTP server, it can be configured to receive the NTP source from the internet. For this type of configuration, a LAN that is separate from the HMC/SE LAN can be used.
+
+Note: For IBM z16, STP External Time Source (Ethernet) is connected directly to the CPC drawer by using a dedicated LAN port. When HMC is configured as an NTP server, it must be connected to the same client network with the dedicated CPC LAN port.
+
+HMC NTP broadband authentication support
+
+HMC NTP authentication can be used since HMC Driver 15 (zEC12/zBC12).
+
+Authentication support with a proxy
+

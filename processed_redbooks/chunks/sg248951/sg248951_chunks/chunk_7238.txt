@@ -1,0 +1,10 @@
+available to the operating system and in the case of z/VM, to its guests.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+Dynamic LPAR memory upgrade
+
+An LPAR can be defined with an initial and a reserved amount of memory. At activation time, the initial amount is made available to the partition and the reserved amount can be added later, partially or totally. Although these two memory zones do not have to be contiguous in real memory, they appear as logically contiguous to the operating system that runs in the LPAR.
+
+z/OS can take advantage of this support and nondisruptively acquire and release memory from the reserved area. z/VM V7R1 and later can acquire memory nondisruptively and immediately make it available to guests.
+

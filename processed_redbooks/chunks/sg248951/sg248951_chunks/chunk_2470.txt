@@ -1,0 +1,12 @@
+Ie I/O drawers (0 - 10), and I/O features that are installed in the PCIe+ I/O drawers.
+
+A schematic view of a maximum configured system with BPA power is shown in Figure 2-28.
+
+<!-- missing-text -->
+
+Each installed BPA requires a customer-supplied power feed. The number of power cords that are required depends on the system configuration. The total loss of one BPA does not affect system operation.
+
+Note: For initial installation, all power sources are required to run the system checkout diagnostics successfully.
+
+BPAs are installed in pairs (2 or 4), depending on the configuration. Consider the following points:
+

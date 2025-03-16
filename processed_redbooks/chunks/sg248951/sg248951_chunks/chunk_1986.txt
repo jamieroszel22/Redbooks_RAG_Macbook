@@ -1,0 +1,13 @@
+ modules.
+
+<!-- missing-text -->
+
+Table 2-9 on page 42 lists the physical memory plugging configurations by feature code from manufacturing when the system is ordered. Consider the following points:
+
+- /SM590000 The CPC drawer columns for the specific feature contain the Memory Plug Drawer Configuration number that us referenced in Table 2-8 on page 39 and the Population by DIMM Bank that is listed in Table 2-9 on page 42.
+- /SM590000 Dial Max indicates the maximum memory that can be enabled by way of the LICC concurrent upgrade.
+
+If more storage is ordered by using other feature codes, such as Virtual Flash Memory or Flexible Memory, the extra storage is installed and plugged as necessary.
+
+For example, a customer orders FC 2857 that features 9472 GB customer memory and FC 0669 Max125 (3 CPC drawers). The drawer configurations include the following components:
+

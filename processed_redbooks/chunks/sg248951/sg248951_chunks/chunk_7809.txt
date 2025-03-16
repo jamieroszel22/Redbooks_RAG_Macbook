@@ -1,0 +1,16 @@
+loads.
+
+- /SM590000 EE (Enterprise Extender / SNA traffic)
+
+IWQ for the OSA-Express features is enhanced to differentiate and separate inbound Enterprise Extender traffic to a dedicated input queue.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+GARP VLAN Registration Protocol
+
+All OSA-Express features support VLAN prioritization, which is a component of the IEEE 802.1 standard. GARP VLAN Registration Protocol (GVRP) support allows an OSA-Express port to register or unregister its VLAN IDs with a GVRP-capable switch and dynamically update its table as the VLANs change. This process simplifies the network administration and management of VLANs because manually entering VLAN IDs at the switch is no longer necessary.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Link aggregation support for z/VM
+

@@ -1,0 +1,11 @@
+escribed in RFC 1305, which was made available in NTP Version 3. Symmetric key encryption uses the same key for encryption and decryption. Users that are exchanging data keep this key to themselves.
+
+Messages that are encrypted with a secret key can be decrypted only with the same secret key. Symmetric key authentication supports network address translation (NAT).
+
+- /SM590000 Symmetric key autokey (NTP V4) authentication
+
+This autokey uses public key cryptography, as described in RFC 5906, which was made available in NTP Version 4. You can generate keys for the HMC NTP by clicking Generate Local Host Key in the Autokey Configuration window. This option issues the ntp-keygen command to generate the specific key and certificate for this system. Autokey authentication is not available with the NAT firewall.
+
+- /SM590000 Issue NTP commands
+- NTP command support is added to display the status of remote NTP servers and the current NTP server (HMC).
+

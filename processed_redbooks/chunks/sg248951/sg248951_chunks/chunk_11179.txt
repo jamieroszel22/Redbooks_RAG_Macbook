@@ -1,0 +1,14 @@
+tored with a new Flexible Capacity record. Another Flexible Capacity record is installed on System B to increase the capacity to the amount of MIPS that the customer licensed.
+
+<!-- missing-text -->
+
+The IBM Flex Capacity record on System A then is activated until the machine's HWM. On System B, the Flexible Capacity record is installed, but not activated. The setup process is now complete (see Figure D-6).
+
+<!-- missing-text -->
+
+Transferring capacity
+
+After the set up is complete, it is possible to transfer capacity and workload from Site A to Site B. This process can be automated by using GDPS technology.
+
+GCP (general-purpose processor) capacity is transferred by using licensed MIPS. However, you cannot activate half a CP. Therefore, it is the customer's responsibility to stay under the licensed amount of MIPS; otherwise, extra charges are incurred for the use that is greater than the licensed MIPS.
+

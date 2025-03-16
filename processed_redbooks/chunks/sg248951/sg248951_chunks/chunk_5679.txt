@@ -1,0 +1,8 @@
+ays the data with a new message and display command. For Linux on IBM Z, z/VM, and z/VSE, and LPARs that use FCP channels, this diagnostic data is available in a new window in the SAN Explorer tool.
+
+N\_Port ID Virtualization
+
+N\_Port ID Virtualization (NPIV) allows multiple system images (in LPARs or z/VM guests) to use a single FCP channel as though each were the sole user of the channel. First introduced with IBM z9fi EC, this feature can be used with earlier FICON features that were carried forward from earlier servers.
+
+By using the FICON Express16S (or newer) as an FCP channel with NPIV enabled, the maximum numbers of the following aspects for one FCP physical channel are doubled:
+

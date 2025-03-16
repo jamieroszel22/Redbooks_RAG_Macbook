@@ -1,0 +1,14 @@
+ available, each being a combination of a Base Management (BMC) card and an Oscillator Card (OSC) card. Each BMC/OSC card features one PPS port and one ETS port (RJ45 Ethernet) for both PTP and NTP.
+
+An I/O connection diagram is shown in Figure 4-3 on page 152.
+
+4.4.1  PCIe+ Generation 3 fan-out (FC 0175)
+
+The PCIe+ Gen3 fan-out card provides connectivity to a PCIe+ I/O drawer by using a copper cable. This PCIe fan-out card supports a link rate of 16 GBps (with two links per card).
+
+A 16x PCIe copper cable of 1.5 meters (4.92 feet) - 4.0 meters (13.1 feet) is used for connection to the PCIe switch card in the PCIe+ I/O drawer. PCIe fan-out cards are always plugged in pairs and provide redundancy for I/O domains within the PCIe+ I/O drawer.
+
+Note: The PCIe fan-out is used exclusively for I/O and cannot be shared for any other purpose.
+
+4.4.2  Integrated Coupling Adapter (FC 0172 and FC 0176)
+

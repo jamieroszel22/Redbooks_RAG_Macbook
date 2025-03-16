@@ -1,0 +1,10 @@
+g systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Shared Memory Communications Version 2
+
+Shared Memory Communications v2 is available in z/OS V2R4 (with PTFs) and z/OS V2R5.
+
+Because the initial version of SMC was limited to TCP/IP connections over the same layer 2 network, it was not routable across multiple IP subnets. The associated TCP/IP connection was limited to hosts within a single IP subnet that required the hosts to have direct access to the same physical layer 2 network (that is, the same Ethernet LAN over a single VLAN ID). The scope of eligible TCP/IP connections for SMC was limited to and defined by the single IP subnet.
+
+SMC Version 2 (SMCv2) provides support for SMC over multiple IP subnets for both SMC-D and SMC-R and is referred to as SMC-Dv2 and SMC-Rv2. SMCv2 requires updates to the underlying network technology. SMC-Dv2 requires ISMv2 and SMC-Rv2 requires RoCEv2.
+

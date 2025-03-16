@@ -1,0 +1,8 @@
+ased virtual servers with sensitive data and applications delivering a confidential computing environment to address your top security concerns.
+
+For more information, see this IBM Cloudfi web page.
+
+- /SM590000 IBM Db2 Analytics Accelerator (IDAA) is a high-performance component that is tightly integrated with Db2 for z/OS. It delivers high-speed processing for complex Db2 queries to support business-critical reporting and analytic workloads. The accelerator transforms the mainframe into a hybrid transaction and analytic processing (HTAP) environment.
+
+For more information, see this IBM web page.
+

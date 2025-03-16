@@ -1,0 +1,8 @@
+ Each port supports up to 127 Virtual Functions (VFs), with one or more VFs/PFIDs being assigned to each LPAR. This support gives a maximum of 254 VFs per adapter.
+
+I/O feature cables and connectors
+
+The IBM Facilities Cabling Services fiber transport system offers a total cable solution service to help with cable ordering requirements. These services can include the requirements for all of the protocols and media types that are supported (for example, FICON, Coupling Links, and OSA). The services can help whether the focus is the data center, SAN, LAN, or the end-to-end enterprise.
+
+Cables: All fiber optic cables, cable planning, labeling, and installation are client responsibilities for new IBM z16 installations and upgrades. Fiber optic conversion kits and mode conditioning patch cables are not orderable as features on IBM z16 servers. All other cables must be sourced separately.
+

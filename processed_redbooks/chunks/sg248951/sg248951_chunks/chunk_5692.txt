@@ -1,0 +1,10 @@
+. The sending and receiving transceivers must be the same (SR to SR).
+
+The OSA-Express7S 1.2 25 GbE SR feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+
+A 50 µm multimode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature to the selected device.
+
+OSA-Express7S 1.2 25 GbE LR (FC 0460)
+
+The OSA-Express7S 1.2 25 Gigabit Ethernet (GbE) Long Reach (LR) feature includes one PCIe Gen3 adapter and one port per feature. The port supports CHPID types OSD. The 25 GbE feature is designed to support attachment to a single-mode fiber 25 Gbps Ethernet LAN or Ethernet switch that is capable of 25 Gbps. The port can be defined as a spanned channel and can be shared among LPARs within and across logical channel subsystems.
+

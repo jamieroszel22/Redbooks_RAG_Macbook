@@ -1,0 +1,8 @@
+ window (24 hours). If that criteria is not met, no extra resources are activated from the record.
+
+If necessary, more LPARs can be activated concurrently to use the newly added processor resources.
+
+Consideration: On/Off CoD provides a concurrent hardware upgrade that results in more capacity being made available to a system configuration. Extra planning tasks are required for nondisruptive upgrades. For more information, see 'Guidelines to avoid disruptive upgrades' on page 377.
+
+To participate in this offering, you must accept contractual terms for purchasing capacity through the Resource Link, establish a profile, and install an On/Off CoD enablement feature on the system. Later, you can concurrently install temporary capacity up to the limits in On/Off CoD and use it for up to 180 days.
+

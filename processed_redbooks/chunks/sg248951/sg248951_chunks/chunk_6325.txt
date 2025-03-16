@@ -1,0 +1,6 @@
+s/Counter Mode (AES GCM), the XEX-based tweaked-codebook mode with ciphertext stealing (AES XTS), and CMAC are supported.
+- /SM590000 MD5, SHA-1, SHA-2, or SHA-3 4  (224, 256, 384, and 512), and HMAC
+- The Secure Hash Algorithm (SHA-1 and the enhanced SHA-2 or SHA-3 for different block sizes), the older message-digest (MD5) algorithm, and the advanced keyed-hash method authentication code (HMAC) are used for verifying the data integrity and the authentication of a message.
+- /SM590000 VFPE
+- A method of encryption in which the resulting cipher text features the same form as the input clear text, which is developed for use with credit cards.
+

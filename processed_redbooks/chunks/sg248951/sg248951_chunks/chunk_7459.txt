@@ -1,0 +1,6 @@
+covery boosts support subcapacity CPs speed boost and entitled (purchased) customer zIIPs only; zIIPs that are provided by FC 9930 and FC 6802 cannot be used for process recovery boosts.
+
+Automation
+
+The client's automation product can be used to automate and control the following System Recovery Boost activities:
+

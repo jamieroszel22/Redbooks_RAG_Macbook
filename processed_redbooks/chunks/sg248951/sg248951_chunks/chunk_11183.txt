@@ -1,0 +1,18 @@
+ regardless of the order in which temporary records or TFP-Hardware were activated.
+
+The example that is shown in Figure D-10 shows an active Sysplex across Site A and Site B.
+
+<!-- missing-text -->
+
+System A has a Base capacity of 401 and the Flexible Capacity Record is partially activated up to a 710. On top of the active Flexible Capacity sits a TFP-Hardware capacity of two extra CPs to a maximum of 712. The inactive part of the Flexible Capacity record floats on top of the TFP-Hardware capacity.
+
+System A is in a Sysplex with System B that has the same configuration.
+
+Now, the data-center operator decides to perform maintenance on System A and transfers its active Flexible Capacity to System B.
+
+Figure D-11shows the configuration of both machines after the transfer.
+
+<!-- missing-text -->
+
+System A transferred all of its Flexible Capacity to System B and is left with only the base capacity of 401. On top of the base capacity sits the TFP-Hardware capacity.
+

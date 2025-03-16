@@ -1,0 +1,11 @@
+
+- /SM590000 A time condition is when provisioning is allowed:
+- -Start time indicates when provisioning can begin.
+- -Deadline indicates that provisioning of more capacity is no longer allowed.
+- -End time indicates that deactivation of capacity must begin.
+- /SM590000 A workload condition is which work qualifies for provisioning. It can have the following parameters:
+- -The z/OS systems that can run eligible work.
+- -The importance filter indicates eligible service class periods, which are identified by WLM importance.
+- -Performance Index (PI) criteria:
+- GLYPH&lt;129&gt; Activation threshold: PI of service class periods must exceed the activation threshold for a specified duration before the work is considered to be suffering.
+- GLYPH&lt;129&gt; Deactivation threshold: PI of service class periods must fall below the deactivation threshold for a specified duration before the work is considered to no longer be suffering.

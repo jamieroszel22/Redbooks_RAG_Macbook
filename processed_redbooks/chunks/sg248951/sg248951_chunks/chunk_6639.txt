@@ -1,0 +1,19 @@
+ digitally signing documents and verifying those signatures.
+
+Edwards curves are less susceptible to side channel attacks when compared to Prime and Brainpool curves.
+
+- /SM590000 ECC Protected Keys
+
+Crypto Express8S and Crypto Express7S provide support in CCA coprocessors to take advantage of fast DES and AES data encryption speeds in CPACF while maintaining high levels of security for the secure key material. The key remains encrypted and the key encrypting key never appears in host storage.
+
+When CCA ECC services are used, ICSF can now take advantage of ECC support in CPACF (protected key support) for the following curves:
+
+- -Prime: P256, P384, P521
+- -Edwards: ED25519, ED448
+
+CPACF can achieve much faster crypto speeds compared to the coprocessor.
+
+The translation to protected key happens automatically after the attribute is set in the key token. No application change is required.
+
+- /SM590000 New signatures
+

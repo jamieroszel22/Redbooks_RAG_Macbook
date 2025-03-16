@@ -1,0 +1,15 @@
+o ensure uniqueness.
+
+An SE can have the following IP addresses:
+
+- /SM590000 Statically assigned IPv4 or statically assigned IPv6
+- /SM590000 Auto-configured IPv6 as link-local or router-advertised
+
+IP addresses on the SE cannot be dynamically assigned through DHCP to ensure repeatable address assignments. DHCP privacy extensions are not used on the SE.
+
+The HMC uses IPv4 and IPv6 multi-casting 1  to automatically discover the SEs. The HMC Network Diagnostic Information task can be used to identify the IP addresses (IPv4 and IPv6), which are used by the HMC to communicate to the SEs (of a CPC).
+
+IPv6 addresses are easily identified. A fully qualified IPV6 address features 16 bytes. It is written as eight 16-bit hexadecimal blocks that are separated by colons, as shown in the following example:
+
+2001:0db8:0000:0000:0202:b3ff:fe1e:8329
+

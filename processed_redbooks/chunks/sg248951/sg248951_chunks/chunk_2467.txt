@@ -1,0 +1,15 @@
+ng features:
+
+- /SM590000 CPC Drawers, PCIe+ I/O drawers, Radiators, and Support Elements
+- /SM590000 The redundancy for each component is achieved by plugging the power cables into the paired PDUs.
+
+For example, the top Support Element (1), has one power supply plugged into PDU A1 and the second power supply plugged into the paired PDU A2 for redundancy.
+
+Note: Customer power sources should always maintain redundancy across PDU pairs; that is, one power source or distribution panel supplies power for PDU A1 and the separate power source or distribution panel supplies power for PDU A2.
+
+As a best practice, connect the odd-numbered PDUs (A1, B1, C1, and D1) to one power source or distribution panel, and the even-numbered PDUs (A2, B2, C2, and D2) to a separate power source or distribution panel.
+
+The frame count rules (number of frames) for IBM z16 A01 are listed in Table 2-14.
+
+<!-- missing-text -->
+

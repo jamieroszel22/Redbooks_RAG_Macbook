@@ -1,0 +1,19 @@
+AS are associated with new features and functions to ensure that IBM Z servers deliver exceptional value to clients.
+
+The following overriding RAS requirements are principles as shown in Figure 9-1:
+
+- /SM590000 Include existing (or equivalent) RAS characteristics from previous generations.
+- /SM590000 Learn from current field issues and addressing the deficiencies.
+- /SM590000 Understand the trend in technology reliability (hard and soft) and ensure that the RAS design points are sufficiently robust.
+- /SM590000 Invest in RAS design enhancements (hardware and firmware) that provide IBM Z and Customer valued differentiation.
+
+<!-- missing-text -->
+
+9.2  Technology
+
+This section introduces some of the RAS features that are incorporated in the IBM z16 design.
+
+9.2.1  Processor Unit chip
+
+IBM z16 uses the Processor Unit (PU) chip with the following technical changes:
+

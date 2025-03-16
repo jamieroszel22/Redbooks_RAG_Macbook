@@ -1,0 +1,8 @@
+ in this case is 512 GB. Memory can be upgraded up to 10 TB of memory (9984 GB client addressable). An upgrade changes the DIMM sizes and adding DIMMs in all available slots in the processor drawer.
+
+You also can add memory by concurrently adding a second processor drawer with sufficient memory into the configuration and then, using LICCC to enable that memory. Changing DIMMs in a single CPC drawer system is disruptive.
+
+An LPAR can dynamically take advantage of a memory upgrade if reserved storage is defined to that LPAR. The reserved storage is defined to the LPAR as part of the image profile.
+
+Reserved memory can be configured online to the LPAR by using the LPAR dynamic storage reconfiguration (DSR) function. DSR allows a z/OS operating system image and z/VM partitions to add reserved storage to their configuration if any unused storage exists.
+

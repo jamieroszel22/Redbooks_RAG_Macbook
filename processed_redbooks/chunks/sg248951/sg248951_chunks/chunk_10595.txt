@@ -1,0 +1,11 @@
+eters menu.
+- /SM590000 The initial window was changed to display status information of all OSA PCHIDs (see Figure 10-21 on page 429).
+
+<!-- missing-text -->
+
+10.3.8  HMC multi-factor authentication
+
+MFA is an optional and configurable feature on per-user, per-template basis. It enhances security by requiring what you know (the first factor) and what you have available, which means that only a person who owns a specific phone number can log in.
+
+The MFA first factor is the combination of login ID and password; the second factor is TOTP (Time-based One-Time Password) that is sent to your smartphone, desktop, or application (for example, Google Authenticator or IBM Verify). This TOTP is defined in RFC 6238 standard and uses a cryptographic hash function that combines a secret key with the current time to generate a one-time password.
+

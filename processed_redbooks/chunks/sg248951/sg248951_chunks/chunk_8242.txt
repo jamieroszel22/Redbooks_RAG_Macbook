@@ -1,0 +1,19 @@
+lume applications
+- /SM590000 Enabling 24 x 7 application availability
+- /SM590000 Enabling capacity growth during lockdown periods
+- /SM590000 Enabling planned downtime without availability effects
+
+8.2  Permanent and Temporary Upgrades
+
+The terminology for CoD and the types of upgrades for an IBM z16 are described in this section.
+
+8.2.1  Overview
+
+Upgrades can be categorized as described in this section.
+
+Permanent versus temporary upgrades
+
+Deciding whether to perform a permanent or temporary upgrade depends on the situation. For example, a growing workload might require more memory, I/O cards, or processor capacity. However, to handle a peak workload or to temporarily replace a system that is down during a disaster or data center maintenance, might require only a temporary upgrade.
+
+IBM z16 servers offer the following solutions:
+

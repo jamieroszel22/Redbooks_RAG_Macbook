@@ -1,0 +1,14 @@
+ng capability is a redundant N+1 design, a single working pump and blower can support the entire load. The replacement of one pump or blower can be done concurrently and does not affect performance.
+
+Each RCU contains up to four independent fan assemblies that can be concurrently serviced. The number of fans present depends on the number of CPC drawers that are installed in the frame.
+
+The water pumps, manifold assembly, radiator assembly (which includes the heat exchanger), and fan assemblies are the main components of the IBM z16 RCU, as shown in Figure 2-30.
+
+<!-- missing-text -->
+
+The closed water loop in the radiator unit is shown in Figure 2-31. The warm water that is exiting from the PU DCMs cold plates enters pumps through a common manifold and is pumped through a heat exchanger where heat is extracted by the air flowing across the heat exchanger fins. The cooled water is then recirculated back into the PU DCMs cold plates.
+
+<!-- missing-text -->
+
+2.10  Summary
+

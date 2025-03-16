@@ -1,0 +1,17 @@
+ailable on IBM HMC Mobile.
+
+For more information about HMC Mobile, see the following resources:
+
+- /SM590000 This IBM video
+- /SM590000 The HMC Mobile website
+
+10.5.4  Operating system communication
+
+The Operating System Messages task displays messages from an LPAR. You also can enter operating system commands and interact with the system. This feature is especially valuable for entering Coupling Facility Control Code (CFCC) commands.
+
+The HMC also provides integrated 3270 and ASCII consoles. These consoles allow an operating system to be accessed without requiring other network or network devices, such as TCP/IP or control units.
+
+Updates to x3270 support
+
+The Configure 3270 Emulators task on the HMC and TKE consoles was enhanced with Driver 15 to verify the authenticity of the certificate that is returned by the 3270 server when a secure and encrypted SSL connection is established to an IBM host. This 3270 Emulator with encrypted connection is also known as Secure 3270 .
+

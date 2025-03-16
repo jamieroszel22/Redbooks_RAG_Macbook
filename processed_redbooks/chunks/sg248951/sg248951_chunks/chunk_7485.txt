@@ -1,0 +1,14 @@
+ageable large (1 MB) pages.
+
+VFM can help organizations meet their most demanding service level agreements and compete more effectively. VFM is easily configurable, and provides rapid time to value.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+Guarded Storage Facility
+
+Also known as less-pausing garbage collection , Guarded Storage Facility (GSF) is an architecture that was introduced with IBM z14to enable enterprise scale Java applications to run without periodic pause for garbage collection on larger heaps.
+
+z/OS
+
+GSF support allows an area of storage to be identified such that an Exit routine assumes control if a reference is made to that storage. GSF is managed by new instructions that define Guarded Storage Controls and system code to maintain that control information across undispatch and redispatch.
+

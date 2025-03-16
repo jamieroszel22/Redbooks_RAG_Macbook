@@ -1,0 +1,18 @@
+
+
+- /SM590000 Analysis
+
+In analysis mode, CPM processes capacity-provisioning policies and informs the operator when a provisioning or deprovisioning action is required according to policy criteria.
+
+Also, the operator determines whether to ignore the information or to manually upgrade or downgrade the system by using the HMC, SE, or available CPM commands.
+
+- /SM590000 Confirmation
+
+In this mode, CPM processes capacity provisioning policies and interrogates the installed temporary offering records. Every action that is proposed by the CPM must be confirmed by the operator.
+
+- /SM590000 Autonomic
+
+This mode is similar to the confirmation mode, but no operator confirmation is required.
+
+Several reports are available in all modes that contain information about the workload, provisioning status, and the rationale for provisioning guidelines. User interfaces are provided through the z/OS console and the CPMC application.
+

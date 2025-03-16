@@ -1,0 +1,8 @@
+ factors often are influencing the RNI of the workload. The interaction of all these factors results in a net RNI for the workload, which in turn directly relates to the performance of the workload.
+
+These factors are tendencies, not absolutes. For example, a workload might have a low I/O rate, intensive processor use, and a high locality of reference, which all suggest a low RNI. However, it might be competing with many other applications within the same LPAR and many other LPARs on the processor, which tends to create a higher RNI. It is the net effect of the interaction of all these factors that determines the RNI.
+
+The traditional factors that were used to categorize workloads in the past are shown with their RNI tendency in Figure 12-4.
+
+<!-- missing-text -->
+

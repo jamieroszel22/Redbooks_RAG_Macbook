@@ -1,0 +1,10 @@
+ of firmware components. For example, when you are upgrading the microcode of a FICON feature, enhancements are implemented to avoid any unwanted side effects that were detected on previous systems.
+
+- /SM590000 Server Time Protocol (STP) recovery enhancement. IBM z16 updated the clocking structure:
+- -System uses a mesosynchronous clocking structure (similar to IBM z15)
+- -Two redundant oscillator cards in each drawer with dynamic oscillator switchover
+- -STP now has external clock reference support, separate Ethernet ports for ETS
+- -PTP and NTP (Ethernet cabling) are now directly connected to the CPC (no SE ETS connection needed)
+- -Oscillator card shares FRU package with drawer' Base Control Card (BMC)
+- -Concurrent repair of oscillator or control card
+

@@ -1,0 +1,12 @@
+
+- /SM590000 Load-store unit (LSU): The LSU contains the data cache. It is responsible for handling all types of operand accesses of all lengths, modes, and formats as defined in the z/Architecture.
+
+- /SM590000 Instruction fetch and branch (IFB) (prediction) and Instruction cache and merge (ICM). These two sub units (IFB and ICM) contain the instruction cache, branch prediction logic, instruction fetching controls, and buffers. Its relative size is the result of the elaborate branch prediction.
+- /SM590000 L1 data and L1 instruction are incorporated into the LSU and ICM, respectively.
+
+COBOL enhancements
+
+IBM z16 core implements new instructions for the compiler to accelerate numeric formatting, and hardware support for new numeric conversion instructions (exponents and arithmetic common in financial applications).
+
+3.4.5  On-chip coprocessors and accelerators
+

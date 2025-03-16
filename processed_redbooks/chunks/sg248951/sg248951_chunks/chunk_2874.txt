@@ -1,0 +1,17 @@
+nges to relinquish control of the processor when all available pending work is exhausted, or when the LPAR undispatches it off the shared processor, whichever comes first.
+
+CF processor combinations
+
+A CF image can have one of the following combinations that are defined in the image profile:
+
+- /SM590000 Dedicated ICFs
+- /SM590000 Shared ICFs
+- /SM590000 Dedicated CPs
+- /SM590000 Shared CPs
+
+Shared ICFs add flexibility. However, running only with shared coupling facility PUs (ICFs or CPs) is not a preferable production configuration. It is preferable for a production CF to operate by using dedicated ICFs.
+
+In Figure 3-18, the CPC on the left has two environments that are defined (production and test), and each has one z/OS and one coupling facility image. The coupling facility images share an ICF.
+
+<!-- missing-text -->
+

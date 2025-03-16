@@ -1,0 +1,4 @@
+awer, the remaining logical processors spill to another CPC drawer. When that overlap occurs, PR/SM stripes the memory (if possible) across the CPC drawers where the logical processors are assigned.
+
+The process of reallocating memory is based on the memory copy/reassign function, which is used to allow enhanced drawer availability (EDA) and concurrent drawer replacement (CDR) 13 . This process was enhanced starting with z13 and IBM z13sfi to provide more efficiency and speed to the process without affecting system performance.
+

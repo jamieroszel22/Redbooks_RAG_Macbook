@@ -1,0 +1,6 @@
+optional, and require unused capacity to be available on installed processor drawers of the backup system. They can be available as unused PUs, an increase in the model capacity identifier, or both.
+
+A CBU contract must be in place before the special code that enables this capability can be loaded on the system. The standard CBU contract provides for five 10-day tests (the CBU test activation ) and one 90-day activation over a five-year period. For more information, contact your IBM representative.
+
+You can run production workload on a CBU upgrade during a CBU test. At least an equivalent amount of production capacity must be shut down during the CBU test. If you signed CBU contracts, you also must sign an Amendment (US form #Z125-8145) with IBM to allow you to run production workload on a CBU upgrade during your CBU tests. More 10-day tests can be purchased with the CBU record.
+

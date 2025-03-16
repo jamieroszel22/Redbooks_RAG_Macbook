@@ -1,0 +1,8 @@
+
+- /SM590000 The IBM z16 A01 server provides a true N+1 pumps and N+1 fans for the cooling function.
+- /SM590000 The Power/Thermal Subsystem is continued from IBM z15 T01 to IBM z16 A01. It uses switchable, intelligent Power Distribution Units (PDUs), or Bulk Power Assemblies.
+- /SM590000 Redundant (N+1), number of PDUs (up to four pairs, configuration dependent) or BPAs (also configuration-dependent - 2 or 4)
+- /SM590000 CPC drawer is packaged to fit in the 19-inch frame. CPC drawer power and cooling includes the following components:
+- -PSUs: AC to 12 V bulk/standby (N+1 redundant). The PSU FRU includes the fan. CPC drawers have three PSUs for BPA-based configurations or four PSUs for PDU-based configurations.
+- -N+2 Voltage Regulation Module (VRM): On-point of load cards (POL) or voltage regulation sticks (VRS).
+- -Power Processor Control Card: Power control card to control CPC fans (N+1 redundant) and are available in quantities of two.

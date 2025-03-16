@@ -1,0 +1,9 @@
+ remembered that have different targets depending on history.
+- -Return Address Table Call/Return Stack (RAT CRS): Multi-level CRS that is implemented as a table lookup
+
+3.4.4  Superscalar processor
+
+A scalar processor is a processor that is based on a single-issue architecture, which means that only a single instruction is run at a time. A superscalar processor allows concurrent (parallel) execution of instructions by adding resources to the microprocessor in multiple pipelines, each working on its own set of instructions to create parallelism.
+
+A superscalar processor is based on a multi-issue architecture. However, when multiple instructions can be run during each cycle, the level of complexity is increased because an operation in one pipeline stage might depend on data in another pipeline stage. Therefore, a superscalar design demands careful consideration of which instruction sequences can successfully operate in a long pipeline environment.
+

@@ -1,0 +1,15 @@
+ed forward from earlier servers.
+
+By using the FICON Express16S (or newer) as an FCP channel with NPIV enabled, the maximum numbers of the following aspects for one FCP physical channel are doubled:
+
+- /SM590000 Maximum number of NPIV hosts defined: Increased from 32 to 64
+- /SM590000 Maximum number of remote N\_Ports communicated: Increased from 512 to 1024
+- /SM590000 Maximum number of addressable LUNs: Increased from 4096 to 8192
+- /SM590000 Concurrent I/O operations: Increased from 764 to 1528
+
+For more information about operating systems that support NPIV, see 'N\_Port ID Virtualization' on page 296.
+
+Export and import physical port WWPNs for FCP Channels
+
+IBM Z automatically assign worldwide port names (WWPNs) to the physical ports of an FCP channel that is based on the PCHID. This WWPN assignment changes when an FCP channel is moved to a different physical slot position.
+

@@ -1,0 +1,10 @@
+ing). When the rolling four-hour average returns below the defined capacity, the soft cap is removed.
+
+For more information about WLM, see System Programmer's Guide to: Workload Manager , SG24-6472.
+
+For more information about software licensing, see 7.8, 'Software licensing' on page 323.
+
+Weight settings: When defined capacity is used to define an uncapped LPAR's capacity, carefully consider the weight settings of that LPAR. If the weight is much smaller than the defined capacity, PR/SM uses a discontinuous cap pattern to achieve the defined capacity setting. This configuration means PR/SM alternates between capping the LPAR at the MSU value that corresponds to the relative weight settings, and no capping at all. It is best to avoid this scenario and instead attempt to establish a defined capacity that is equal or close to the relative weight.
+
+/SM590000 Memory
+

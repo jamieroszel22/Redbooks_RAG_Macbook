@@ -1,0 +1,20 @@
+o 10 km (6.21 miles) between IBM Z platforms. ICA SR features provide sysplex and timing connectivity direct to the CPC drawer, while Coupling Express2 LR features connect into the PCIe+ I/O Drawer.
+
+Coupling links also can carry timing information (such as Server Time Protocol [STP]) for synchronizing time across multiple IBM Z CPCs in a Coordinated Time Network (CTN).
+
+For more information about coupling and clustering features, see 4.5, 'I/O features' on page 158.
+
+1.2.7  Cryptography
+
+IBM z16 provides two main cryptographic functions: CP Assist for Cryptographic Functions (CPACF) and Crypto-Express8S.
+
+CPACF
+
+CPACF is a high-performance, low-latency coprocessor that performs symmetric key encryption operations and calculates message digests (hashes) in hardware. The following algorithms are supported:
+
+- /SM590000 AES
+- /SM590000 Data Encryption Standard (DES) and Triple Data Encryption Standard (TDES)
+- /SM590000 Secure Hash Algorithm (SHA)-1
+- /SM590000 SHA-2
+- /SM590000 SHA-3
+

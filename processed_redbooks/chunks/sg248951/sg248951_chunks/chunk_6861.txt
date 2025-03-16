@@ -1,0 +1,5 @@
+ical sets of registers or queue registers, which corresponds to the maximum number of LPARs that are running on an IBM z16 A01, which is also 85. Each of these sets belongs to the following domains:
+
+- /SM590000 A cryptographic domain index, in the range of 0 - 84 for IBM z16 A01, is allocated to a logical partition in its image profile. The same domain also must be allocated to the ICSF instance that is running in the logical partition that uses the Options data set.
+- /SM590000 Each ICSF instance accesses only the Master Keys or queue registers that correspond to the domain number that is specified in the logical partition image profile at the SE and in its Options data set. Each ICSF instance sees a logical cryptographic coprocessor that consists of the physical cryptographic engine and the unique set of registers (the domain) that is allocated to this logical partition.
+

@@ -1,0 +1,8 @@
+orkloads, database query processing, and utility processing. The amount of data that is stored and processed on IBM Z continues to grow at a high rate, which drives an ever-increasing sort workload.
+
+Introduced on IBM z15 was the sort accelerator that is known as the IBM Integrated Accelerator for Z Sort (see Figure 3-13 on page 87). The SORTL hardware instruction that is implemented on each core is used by DFSORT and the Db2 utilities for z/OS Suite to allow the use of a hardware-accelerated approach to sorting.
+
+The IBM Integrated Accelerator for Z Sort feature termed as 'ZSORT' helps to reduce the CPU costs and improve the elapsed time for eligible workloads. One of the primary requirements for ZSORT is providing enough virtual, real, and auxiliary storage.
+
+Sort jobs that run in memory-constrained environments in which the amount of memory that is available to be used by DFSORT jobs is restricted might not achieve optimal performance results or might not be able to use ZSORT.
+

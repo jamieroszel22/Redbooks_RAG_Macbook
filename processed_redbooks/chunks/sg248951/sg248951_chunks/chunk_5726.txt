@@ -1,0 +1,10 @@
+features should not be mixed in a z/OS SMC-R Link Group.
+
+Point-to-point connections and switched connections with an enterprise-class 10 GbE switch are supported.
+
+10 GbE RoCE Express3 LR (FC 0441)
+
+10 GbE RoCE Express3 LR(FC 0441) is installed in the PCIe+ I/O drawer and is supported on IBM z16 servers only. The 10 GbE RoCE Express3 LR is a native PCIe feature. It does not use a CHPID. It is defined by using the IOCP FUNCTION statement or in the HCD.
+
+- /SM590000 The RoCE Express3 LR (FC 0441) feature on the IBM z16 requires single-mode (SM) 9-micron fiber optic cable for a maximum connection distance of 10 kilometers (6.2 miles). A client-supplied cable is required.
+

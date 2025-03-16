@@ -1,0 +1,4 @@
+ Supported I/O features
+
+The following I/O features are supported on an IBM z16 A01 system (maximum for each individual adapter type):
+

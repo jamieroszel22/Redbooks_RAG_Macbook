@@ -1,0 +1,16 @@
+y removed and replaced individually.
+- -5x 12v distribution point-of-load (POL) that plug in slots that divide the memory banks.
+- -3x Voltage Regulator Modules that plug outside of the memory DIMMs.
+- -Two Processor Power Control cards to control the five CPC fans at the front of the CPC drawer, and contain the ambient temperature sensors.
+- /SM590000 Six SMP9 connectors (three pairs for redundancy) that provide the CPC drawer to CPC drawer SMP/NUMA communication.
+
+The front view of the CPC drawer, which includes the cooling fans, BMC/OSC and processor power cards (PPC), is shown in Figure 2-7.
+
+<!-- missing-text -->
+
+The rear view of a fully populated CPC Drawer is shown in Figure 2-8.
+
+<!-- missing-text -->
+
+Dual port I/O fan-outs and ICA SR adapters are plugged in specific slots for best performance and availability. Redundant power supplies and six SMP9 ports also are shown. Each pair of SMP9 ports is redundant. If a single cable fails, the repair can be performed concurrently.
+

@@ -1,0 +1,23 @@
+nd plugged as necessary.
+
+For example, a customer orders FC 2857 that features 9472 GB customer memory and FC 0669 Max125 (3 CPC drawers). The drawer configurations include the following components:
+
+- /SM590000 CPC0 (3584 GB), CPC2 (3584 GB) - Configuration #27 and CPC1 (3072 GB) Configuration #26 (from Table 2-8 on page 39)
+- /SM590000 Total 3584 + 3584 + 3072 - 256 HSA= 9984 GB (Dial Max)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+2.5.4  Memory upgrades
+
+Memory upgrades can be ordered and enabled by LIC, upgrading the DIMM cards, adding DIMM cards, or adding a CPC drawer.
+
+For a model upgrade that results in the addition of a CPC drawer, the minimum memory increment is added to the system. Each CPC drawer has a minimum physical memory size of 1024 GB.
+
+Memory allowed upgrades for Max200 models
+
+Once a model Max200 is shipped, then the memory upgrades via MES are limited dependent on what configuration exists in the installed CPC drawers.
+

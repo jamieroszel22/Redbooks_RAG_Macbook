@@ -1,0 +1,7 @@
+ed during LPAR shutdown or start to make the running operating system and services available in a shorter period.
+
+The System Recovery Boost provides the following options for the capacity increase:
+
+- GLYPH&lt;129&gt; Subcapacity CP speed boost: During the boost period, subcapacity engines that are allocated to the boosted LPAR are transparently activated at their full capacity (CP engines).
+- GLYPH&lt;129&gt; zIIP Capacity Boost: During the boost period, all active zIIPs that are assigned to an LPAR are used to extend the CP capacity (CP workload is dispatched to zIIP processors during the boost period).
+

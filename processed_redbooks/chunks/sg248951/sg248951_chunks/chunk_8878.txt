@@ -1,0 +1,14 @@
+ to use the newly added processors.
+
+The Coupling Facility Control Code (CFCC) also can configure more processors online to coupling facility LPARs by using the CFCC image operations window.
+
+Memory
+
+Memory can be added concurrently up to the physical installed memory limit. More processor drawers can be installed concurrently, which allows further memory upgrades by LICCC, and enables memory capacity on the new processor drawers.
+
+By using the previously defined reserved memory, z/OS operating system images, and z/VM partitions, you can dynamically configure more memory online. This process allows nondisruptive memory upgrades. Linux on Z supports Dynamic Storage Reconfiguration.
+
+I/O
+
+I/O features can be added concurrently if all the required infrastructure (I/O slots and PCIe Fan-outs) is present in the configuration. PCIe+ I/O drawers can be added concurrently without planning if free space is available in one of the frames and the configuration permits.
+

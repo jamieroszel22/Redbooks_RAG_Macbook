@@ -1,0 +1,2 @@
+wer causes no performance effect.
+

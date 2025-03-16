@@ -1,0 +1,10 @@
+ociated with temporary hardware capacity, IBM software, and IBM maintenance. The test can be used to validate the processes to download, stage, install, activate, and deactivate On/Off CoD capacity.
+
+This test can have a maximum duration of 24 hours, which commences upon the activation of any capacity resource that is contained in the On/Off CoD record. Activation levels of capacity can change during the 24-hour test period. The On/Off CoD test automatically stops at the end of the 24-hour period.
+
+You also can perform administrative testing. Although capacity is not added to the system, you can test all of the procedures and automation for the management of the On/Off CoD facility.
+
+An example of an On/Off CoD order on the Resource Link web page is shown in Figure 8-11.
+
+<!-- missing-text -->
+

@@ -1,0 +1,12 @@
+ysplex supports connectivity between systems that differ by up to two generations (n-2). For example, an IBM z16 can participate in an IBM Parallel Sysplex cluster with IBM z15, and IBM z14 systems.
+
+Only Integrated Coupling Adapter Short Reach (ICA SR) and Coupling Express2 Long Reach (CE2 LR) features are supported on IBM z16.
+
+Figure 4-4 shows the supported Coupling Link connections for the IBM z16. Only ICA SR and CE LR links are supported on IBM z16, IBM z15, and IBM z14 ZR1 systems.
+
+<!-- missing-text -->
+
+The coupling link options are listed in Table 4-10. Also listed is the coupling link support for each IBM Z platform. Restrictions on the maximum numbers can apply, depending on the configuration. Always check with your IBM support team for more information.
+
+<!-- missing-text -->
+

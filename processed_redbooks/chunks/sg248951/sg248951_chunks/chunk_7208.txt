@@ -1,0 +1,19 @@
+ support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. PTFs might be required for toleration support or use of IBM z16 features and functions.
+- b. Planned GA for z/VM V7.3 is 3rd Q 2022.
+- c. 80-way without multithreading; 40-way with multithreading enabled.
+- d. With Service.
+- e. Statement of Direction: In a future IBM Z hardware system family, the transactional execution and constrained transactional execution facility will no longer be supported. Users of the facility on current servers should always check the facility indications before use.
+- f. Guests are informed that TX facility is available for use.
+- g. Guests are informed that SIMD is available for use.
+- h. Guest Exploitation support.
+- i. With PTFs for use.
+- j. Transparent for Guest support use of the gzip acceleration; guest support for z/OS Storage Compression.
+- k. With Exploitation PTFs
+- l. With Required PTFs
+

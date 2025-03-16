@@ -1,0 +1,10 @@
+uirements and hardware space limitations. Because memory sizes recently increased significantly as a result of the introduction of 64-bit addressing, a smaller working set is represented by the TLB.
+
+To increase the working set representation in the TLB without enlarging the TLB, large (1 MB) page and giant page (2 GB) support is available and can be used when suitable. For more information, see 'Large page support' on page 114.
+
+With the enhanced DAT-2 (EDAT-2) improvements, the IBM Z servers support 2 GB page frames.
+
+IBM z16 TLB
+
+IBM z16 switches to a logical-tagged L1 directory and inline TLB2. Each L1 cache directory entry contains the virtual address and Address Space Control Element (ASCE) because it no longer must access TLB for L1 cache hit. TLB2 is accessed in parallel to L2, which saves significant latency compared to TLB1-miss.
+

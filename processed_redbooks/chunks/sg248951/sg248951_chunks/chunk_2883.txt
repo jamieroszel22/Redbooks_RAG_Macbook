@@ -1,0 +1,10 @@
+s available (all busy), the z/OS dispatcher allows the Java task to run on a standard CP. This process depends on the option that is used in the OPT statement in the IEAOPTxx member of SYS1.PARMLIB.
+
+A zIIP runs IBM authorized code only. This IBM authorized code includes the z/OS JVM in association with parts of system code, such as the z/OS dispatcher and supervisor services. A zIIP cannot process I/O or clock comparator interruptions. It also does not support operator controls, such as IPL.
+
+Java application code can run on a CP or a zIIP. The installation can manage the use of CPs so that Java application code runs only on CPs or zIIPs, or on both.
+
+The following execution options for zIIP-eligible code execution are available and supported for z/OS 8 . These options are user-specified in IEAOPTxx and can be dynamically altered by using the SET OPT command:
+
+- /SM590000 Option 1: Java dispatching by priority (IIPHONORPRIORITY=YES)
+

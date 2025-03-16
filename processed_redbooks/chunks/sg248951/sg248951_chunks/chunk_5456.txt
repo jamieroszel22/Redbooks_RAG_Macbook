@@ -1,0 +1,18 @@
+imum number of feature cards, and the maximum number of channels for each feature type. The CHPID definitions that are used in the IOCDS also are listed
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. Maximum number depends on system power option (PDU or BPA).
+- b. Both ports must be defined with the same CHPID type.
+- c. These features are defined by using Virtual Functions IDs (FIDs).
+- d. On IBM z16, the OSX and OSM type CHPIDs cannot be defined. IBM z16 cannot be part of an ensemble that is managed by zManager.
+- e. IBM z16 is planned to be the last IBM Z server generation to support OSA-Express 1000BASE-T adapters.
+- f. Installed in the CPC drawer.
+- g. ICA SR 1.1 and ICA SR features are characterized by Adapter ID (AID).
+
+At least one I/O feature (FICON) or one coupling link feature (ICA SR or CE LR) must be present in the minimum configuration.
+
+The following features can be shared and spanned:
+

@@ -1,0 +1,8 @@
+ystems, crypto workload separation can be complex in customer environments where the number of LPARs was larger than 16. These customers mapped a large set of LPARs to a small set of crypto domains.
+
+Starting with IBM z14, the IBM Z crypto architecture can support up to 256 domains in an adjunct processor (AP) with the AP extended addressing (APXA) facility that is installed. As such, the Crypto Express adapters are enhanced to handle 256 domains.
+
+The IBM Z firmware provides up to 85 domains for IBM z16 to customers (to match the current LPAR maximum). Customers can map individual LPARs to unique crypto domains or continue to share crypto domains across LPARs.
+
+The following requirements must be met to support 85 domains:
+

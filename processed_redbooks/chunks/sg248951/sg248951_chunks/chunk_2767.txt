@@ -1,0 +1,10 @@
+g-text -->
+
+Memory address generation and memory accesses can occur out of (program) order. This capability can provide a greater use of the IBM z16 superscalar core, and improve system performance.
+
+The IBM z16 A01 processor unit core is a superscalar, out-of-order, SMT processor with eight execution units. Up to six instructions can be decoded per cycle, and up to 12 instructions or operations can be started to run per clock cycle (0.192 ns). The execution of the instructions can occur out of program order and memory address generation and memory accesses can also occur out of program order. Each core includes special circuitry to display execution and memory accesses in order to the software.
+
+The IBM z16 superscalar PU core can have up to 10 instructions or operations that are running per cycle. This technology results in shorter workload runtime.
+
+Enhanced branch prediction
+

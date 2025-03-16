@@ -1,0 +1,3 @@
+ that continue to simplify and modernize the z/OS environment for a better user experience and improved productivity by reducing the level of IBM Z specific skills that are required to maintain z/OS.
+- /SM590000 Ongoing industry-wide simplification improvements to help companies install and configure software by using a common and modern method. These installation improvements range from the packaging of software through the configuration so that faster time to value can be realized throughout the enterprise.
+- /SM590000 IBM Open Data Analytics for z/OS provides enhancements to simplify data analysis by combining open source run times and libraries with analysis of z/OS data at its source,

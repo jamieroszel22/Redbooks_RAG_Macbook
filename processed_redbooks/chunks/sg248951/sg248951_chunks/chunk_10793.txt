@@ -1,0 +1,16 @@
+time is incurred between the system checkstop and the start of CAR processing. Because the request is generated from the PTS before system logging, it avoids the potential of recovery being held up.
+
+Attention: IBM z16, IBM z15, and IBM z14 ZR1 do not support InfiniBand connectivity. Although IBM z14 M0x supports InfiniBand, InfiniBand coupling and timing links cannot be configured in a Syspex/CTN with IBM z16.
+
+For more information about planning and setup, see IBM Z Server Time Protocol Guide , SG24-8480.
+
+10.5.9  CTN split and merge
+
+IBM z16, IBM z15, IBM z14 ZR1, and IBM z14 support CTN split and CTN merge.
+
+For more information, see IBM Z Server Time Protocol Guide , SG24-8480.
+
+CTN split
+
+The HMC menus for Server Time Protocol (STP) provide support when one or more systems must be split in to a separate CTN without interruption in the clock source.
+

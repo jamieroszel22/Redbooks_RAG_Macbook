@@ -1,0 +1,12 @@
+ntrol unit does not distinguish between suffixes and user data. The suffix is transparent to the access method and database.
+
+In addition to reliability, EF data sets enable the following functions:
+
+- /SM590000 DFSMS striping
+- /SM590000 Access method compression
+- /SM590000 Extended addressability (EA)
+
+EA is useful for creating large Db2 partitions (larger than 4 GB). Striping can be used to increase sequential throughput, or to spread random I/Os across multiple logical volumes. DFSMS striping is useful for the use of multiple channels in parallel for one data set. The Db2 logs are often striped to optimize the performance of Db2 sequential inserts.
+
+Processing an I/O operation to an EF data set normally requires at least two CCWs with data chaining. One CCW is used for the 32-byte suffix of the EF data set. With MIDAW, the extra CCW for the EF data set suffix is eliminated.
+

@@ -1,0 +1,12 @@
+vector facility. If you do not specify a MACHMIG statement, which is the default, the system not limited in its use of the Vector Facility for z/Architecture (SIMD).
+
+Hardware decimal floating point
+
+Industry support for decimal floating point is growing, with IBM leading the open standard definition. Examples of support for the draft standard IEEE 754r include Java BigDecimal, C#, XML, C/C++, GCC, COBOL, and other key software vendors, such as Microsoft and SAP.
+
+IBM z16 introduces COBOL optimization for Hexadecimal Floating Point (HFP) &lt;--&gt; Binary Coded Decimal (BCD) conversion, and Numeric Editing, and Zoned Decimal operations.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254. For more information, see 7.5.8, 'z/OS XL C/C++ considerations' on page 321.
+
+Out-of-order execution
+

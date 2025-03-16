@@ -1,0 +1,28 @@
+ for SYSPROG and SERVICE no longer include this task by default.
+
+- /SM590000 View only HMC tasks
+
+The following tasks can be assigned as View only for a specific role with Driver 51/Version 2.16.0:
+
+- -Hardware Messages
+- -Operating System Messages
+- -Manage Coupling Facility Port Enablement
+- -OSA Advanced Facilities
+- -Cryptographic Configuration
+- -Cryptographic Management
+- -Change LPAR Controls
+- -Change LPAR Group Controls
+- -Configure Channel Path On/Off
+- -Advanced Facilities
+- -Configure On/Off
+- -Manage System Time
+- -View Activation Profiles
+
+Figure 10-3 shows how you can change the permission from Edit to View only for a task in User Management.
+
+<!-- missing-text -->
+
+/SM590000 New HMC Dashboard
+
+A new dashboard is available in the Home tab. It is the first page that appears when you log in to the HMC. It replaces the Welcome window that was used in previous HMC drivers and versions. Initially, the following widgets are available:
+

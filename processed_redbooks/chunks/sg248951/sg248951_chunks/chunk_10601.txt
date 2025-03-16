@@ -1,0 +1,8 @@
+ for the Broadband RSF connection, see Integrating the HMC Broadband Remote Support Facility into Your Enterprise , SC28-7026.
+
+10.4.2  RSF connections to IBM and Enhanced IBM Service Support System
+
+To have the best availability and redundancy and to be prepared for the future, the HMC must access IBM by using the internet through RSF in the following manner: Transmission to the enhanced IBM Support System requires a domain name server (DNS). The DNS must be configured on the HMC if a proxy for RSF is not used. If a proxy for RSF is used, the proxy must provide the DNS.
+
+The following hostnames and IP addresses are used and your network infrastructure must allow the HMC to access RSF:
+

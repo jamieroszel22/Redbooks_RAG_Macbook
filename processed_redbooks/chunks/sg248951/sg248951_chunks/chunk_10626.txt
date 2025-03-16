@@ -1,0 +1,16 @@
+ncy Statistics
+
+The Environmental Efficiency Statistics is part of the Monitor group. It provides historical power consumption and thermal information for the IBM Z CPC, and is available on the HMC.
+
+The data is presented in table format and graphical 'histogram' format. The data also can be exported to a . csv -formatted file so that the data can be imported into a spreadsheet. For this task, you must use a web browser to connect to an HMC.
+
+Monitor System Events
+
+The Monitor System Events task allows you to create and manage event monitors. An event monitor listens for events from managed objects. When an event is received, the monitor tests it with user-defined criteria. If the event passes the tests, the monitor enables an email to be sent to interested users.
+
+An example of the settings for Event Monitor Summary can be see on Figure 10-30.
+
+<!-- missing-text -->
+
+10.5.7  Capacity on-demand support
+

@@ -1,0 +1,12 @@
+mands.
+
+With coverage of both MLC and capacity-based IPLA products, the Software Consumption Model offers a single and comprehensive software solution to IBM Z customers.
+
+Hardware Consumption Model
+
+IBM introduced a hardware solution that provides added flexibility to the IBM Z IT infrastructure pricing and is a natural and valuable extension to the Tailored Fit Pricing models for IBM Z software.
+
+To meet the demands of modern workloads, IBM Z hardware can now include, in addition to the base capacity, a subscription-based corridor of pay for use capacity. This always on corridor of consumption-priced capacity helps alleviate the effect of short unpredictable spikes in workload that are becoming more common in today's digital world.
+
+The use charges feature a granularity of 1 hour and are based on MSUs that are used as measured by the subcapacity reporting Tool (SCRT), not full engine capacity.
+

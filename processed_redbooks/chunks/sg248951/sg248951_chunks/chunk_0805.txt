@@ -1,0 +1,17 @@
+ower options include PDU-based power or BPA-based power. The IBM z16 A01 system is designed as a radiator (air) cooled system.
+
+The IBM z16 A01 includes the following basic hardware building blocks:
+
+- /SM590000 19-inch 42u frame (1 - 4)
+- /SM590000 CPC (Processor) drawers (1 - 4)
+- /SM590000 PCIe+ Gen3 I/O drawers (up to 12)
+- /SM590000 Radiator cooling assembly (RCA) for CPC drawers cooling
+- /SM590000 Power, with choice of:
+- -Intelligent Power Distribution Units (iPDU) pairs (2 - 4 per frame, maximum 8, depending on the configuration).
+- -Bulk Power Regulators (1 - 6 pairs, depending on the configuration)
+- /SM590000 Support Elements combined with optional Hardware Management Appliance (two):
+- -Single Keyboard, Mouse, Monitor (KMM) device (USB-C connection)
+- -Optional IBM Hardware Management Appliance feature
+- /SM590000 24-port 1 GbE Switches (two or four, depending on the system configuration)
+- /SM590000 Hardware for cable management at the rear of the system
+

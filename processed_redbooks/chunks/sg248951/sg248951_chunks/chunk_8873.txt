@@ -1,0 +1,17 @@
+
+After all workload is transferred (within 24 hours), the capacity of the Site A machine is reduced to the base level. Workload can continue to run at Site B for up to a year.
+
+<!-- missing-text -->
+
+Capacity transfer is shown in Figure 8-17. Flexible Capacity Record is ACTIVE in both sites for up to 24 hours.
+
+<!-- missing-text -->
+
+After the site swap (capacity active in both sites for up to 24 hours), workload can stay in Site B for up to one year (see Figure 8-18 on page 372).
+
+<!-- missing-text -->
+
+8.12  Planning for nondisruptive upgrades
+
+Continuous availability is an important requirement for customers, and planned outages are no longer acceptable. Although Parallel Sysplex clustering technology is the best continuous availability solution for z/OS environments, nondisruptive upgrades within a single system can avoid system outages and cover non-z/OS operating systems.
+

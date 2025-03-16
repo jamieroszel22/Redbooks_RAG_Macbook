@@ -1,0 +1,20 @@
+specific PTFs that enable compliance data collection, see 'IBM Fix Category Values and Descriptions'.
+
+For more information about z/OS collection sources and enablement, see the following resources:
+
+- /SM590000 Software Announcement 222-005, IBM Z Security and Compliance Center.
+- /SM590000 Software Announcement 222-092, CICS Transaction Server for z/OS 6.1.
+- /SM590000 Software Announcement 222-003, Db2 13 for z/OS powered by AI innovations provides industry scalability, business resiliency and intelligence.
+
+Linux support for compliance
+
+Linux on IBM Z supports the collection of compliance data from the Linux environment.
+
+The following prerequisite operating system versions are supported for the collection of compliance data:
+
+- /SM590000 Red Hat Enterprise Linux 8.0 (RHEL) on IBM Z, or later
+- /SM590000 SUSE Linux Enterprise Server (SLES) on IBM Z 15
+- /SM590000 Ubuntu Server LTS for IBM Z 22.04
+
+The following optional software is available for collecting compliance data:
+

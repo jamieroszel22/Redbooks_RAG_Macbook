@@ -1,0 +1,8 @@
+e advantage of this support and nondisruptively acquire and release memory from the reserved area. z/VM V7R1 and later can acquire memory nondisruptively and immediately make it available to guests.
+
+z/VM virtualizes this support to its guests, which now also can increase their memory nondisruptively if supported by the guest operating system. Currently, releasing memory from z/VM is supported on z/VM V7.2 with PTFs 3 . Releasing memory from the z/VM guest depends on the guest's operating system support.
+
+Linux on IBM Z also supports acquiring and releasing memory nondisruptively. This feature is enabled for SUSE Linux Enterprise Server 12 and RHEL 7.9and later releases.
+
+LPAR group absolute capping
+

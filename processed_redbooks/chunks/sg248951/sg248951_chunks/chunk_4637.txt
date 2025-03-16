@@ -1,0 +1,2 @@
+nformation (debug memory dump data, logs, and so on) are encrypted and do not contain any user or application data.
+

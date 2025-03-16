@@ -1,0 +1,16 @@
+PU polarization support in Linux on IBM Z, see this IBM Documentation web page.
+
+z/TPF
+
+z/TPF on IBM z16 can use more processors immediately without reactivating the LPAR or IPLing the z/TPF system.
+
+When z/TPF is running in a shared processor configuration, the achieved MIPS is higher when z/TPF uses a minimum set of processors.
+
+In low-use periods, z/TPF minimizes the processor footprint by compressing TPF workload onto a minimal set of I-streams (engines), which reduces the effect on other LPARs and allows the entire CPC to operate more efficiently.
+
+As a consequence, z/OS and z/VM experience less contention from the z/TPF system when the z/TPF system is operating at periods of low demand.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+zIIP support
+

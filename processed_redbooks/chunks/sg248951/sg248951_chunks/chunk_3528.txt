@@ -1,0 +1,14 @@
+CC can run in CF mode.
+
+- /SM590000 Linux only
+
+In Linux only mode, storage addressing can be 31-bit or 64-bit, depending on the operating system architecture and the operating system configuration.
+
+Only Linux and z/VM operating systems can run in Linux only mode. Linux on IBM Z 64-bit distributions (SUSE Linux Enterprise Server 12 SP5, SLES 15 SP3, Red Hat RHEL 7.9, RHEL 8.4, and Ubuntu 20.04.1 LTS and later) use 64-bit addressing and operate in z/Architecture mode. z/VM also uses 64-bit addressing and operates in z/Architecture mode.
+
+Note: For information about the (kernel) supported amount of memory, check the Linux Distribution specific documentation.
+
+/SM590000 z/VM
+
+In z/VM mode, specific types of processor units can be defined within one LPAR. This feature increases flexibility and simplifies systems management by allowing z/VM to run the following tasks in the same z/VM LPAR:
+

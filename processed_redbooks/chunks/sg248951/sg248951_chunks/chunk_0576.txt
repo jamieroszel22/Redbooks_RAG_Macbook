@@ -1,0 +1,10 @@
+d it is the preferred technology for new systems.
+
+zHyperLink Express
+
+zHyperLink was created to provide fast access to data by way of low-latency connections between the IBM Z platform and storage.
+
+The zHyperLink Express1.1 feature allows you to make synchronous requests for data that is in the storage cache of the IBM DS8900F. This process is done by directly connecting the zHyperLink Express1.1 port in the IBM z16 to an I/O Bay port of the IBM DS8000. This short distance (up to 150 m [492 feet), direct connection is designed for low-latency reads and writes, such as with IBM DB2fi for z/OS synchronous I/O reads and log writes.
+
+Working with the FICON SAN Infrastructure, zHyperLink can improve application response time, which cuts I/O-sensitive workload response time in half without requiring application changes. 3
+

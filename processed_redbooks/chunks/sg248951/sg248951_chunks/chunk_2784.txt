@@ -1,0 +1,8 @@
+mory-constrained environments in which the amount of memory that is available to be used by DFSORT jobs is restricted might not achieve optimal performance results or might not be able to use ZSORT.
+
+The 64-bit memory objects (above-the-bar-storage) can use the ZSORT accelerator for sort workloads for optimal results. Because ZSORT is part of the CPU and memory latency is much less than disk latency, sorting in memory is more efficient than sorting with memory and disk workspace. By allowing ZSORT to process the input completely in memory, it can achieve the best results in elapsed time and CPU time.
+
+Because the goal of ZSORT is to reduce CPU time and elapsed time, it can require more storage than a DFSORT application that does not use ZSORT.
+
+Note: Not all sorts are eligible to use ZSORT. IBM's zBNA tool provides modeling support for identifying potential ZSORT-eligible candidate jobs and estimates the benefits of ZSORT. The tool uses information in the SMF type 16 records.
+

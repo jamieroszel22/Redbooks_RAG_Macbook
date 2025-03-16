@@ -1,0 +1,18 @@
+a cryptographic functions library that is running on Linux on IBM Z also can start CPACF synchronous functions.
+
+The following tools might benefit from the throughput improvements for IBM z16 CPACF:
+
+- /SM590000 Db2/IMS encryption tool
+- /SM590000 Db2 built-in encryption
+- /SM590000 z/OS Communication Server: IPsec/IKE/AT-TLS
+- /SM590000 z/OS System SSL
+- /SM590000 z/OS Network Authentication Service (Kerberos)
+- /SM590000 DFDSS Volume encryption
+- /SM590000 z/OS Java SDK
+- /SM590000 z/OS Encryption Facility
+- /SM590000 Linux on IBM Z: Kernel, openSSL, openCryptoki, and GSKIT
+
+The IBM z16 hardware includes the implementation of algorithms as hardware synchronous operations. This configuration holds the PU processing of the instruction flow until the operation completes.
+
+IBM z16 offers the following synchronous functions:
+

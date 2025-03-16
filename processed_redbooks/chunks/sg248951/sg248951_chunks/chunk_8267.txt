@@ -1,0 +1,8 @@
+ CIU facility, a customer must be registered and the system must be set up. After you complete the CIU registration, access to the CIU application is available through the IBM Resource Link website.
+
+As part of the setup, provide one resource link ID for configuring and placing CIU orders and, if required, a second ID as an approver. The IDs are then set up for access to the CIU support. The CIU facility allows upgrades to be ordered and delivered much faster than through the regular MES process.
+
+To order and activate the upgrade, log on to the IBM Resource Link website, and start the CIU application to upgrade a system for processors or memory. You can request a client order approval to conform to your operational policies. You also can allow the definition of more IDs to be authorized to access the CIU. More IDs can be authorized to enter or approve CIU orders, or only view orders.
+
+Permanent upgrades
+

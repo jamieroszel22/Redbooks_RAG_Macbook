@@ -1,0 +1,12 @@
+ugging rules apply (see Figure 2-11 on page 28):
+- -Single CPC drawer plugs left and right OSC PPS coaxial connectors.
+- -Multi-drawer plug CPC0 left OSC PPS and CPC1 left OSC PPS coaxial connectors.
+- -Cables are routed from rear to front by using a pass-through hole in the frame, and under the CPC bezel by using a right-angle Bayonet Neill-Concelman (BNC) connector that provides the pulse per second (PPS) input for synchronization to an external time source with PPS output.
+- -Cables are supplied by the customer.
+
+- -Connected PPS ports must be assigned in the Manage System Time menus on the HMC.
+
+<!-- missing-text -->
+
+Tip: STP is available as FC 1021. It is implemented in the Licensed Internal Code (LIC), and allows servers to maintain time synchronization with each other and synchronization to an ETS. In a multi-server STP Coordinated Timing Network (CTN) coupling/timing links are required for STP communication
+

@@ -1,0 +1,10 @@
+the initial connection.
+
+z/OS and Linux on IBM Z support SMC-R and SMC-D. Now, data can be shared by way of memory-to-memory transfer between z/OS and Linux on IBM Z.
+
+1.2.6  Clustering connectivity
+
+A Parallel Sysplex is an IBM Z clustering technology that is used to make applications that are running on logical and physical IBM Z platforms highly reliable and available. The IBM Z platforms in a Parallel Sysplex are interconnected by way of coupling links.
+
+Coupling connectivity on the IBM z16 use Coupling Express2 Long Reach (CE2 LR) and Integrated Coupling Adapter Short Reach (ICA SR and ICA SR1.1) features. The ICA SR feature supports distances up to 150 meters (492 feet); the CE2 LR feature supports unrepeated distances of up to 10 km (6.21 miles) between IBM Z platforms. ICA SR features provide sysplex and timing connectivity direct to the CPC drawer, while Coupling Express2 LR features connect into the PCIe+ I/O Drawer.
+

@@ -1,0 +1,20 @@
+s document as IBM z16, unless otherwise specified.
+
+For more information about the processor unit, see z/Architecture Principles of Operation, SA22-7832.
+
+This chapter includes the following topics:
+
+- /SM590000 3.1, 'Overview' on page 68
+- /SM590000 3.2, 'Design highlights' on page 69
+- /SM590000 3.3, 'CPC drawer design' on page 71
+- /SM590000 3.4, 'Processor unit design' on page 77
+- /SM590000 3.5, 'Processor unit functions' on page 98
+- /SM590000 3.6, 'Memory design' on page 113
+- /SM590000 3.7, 'Logical partitioning' on page 117
+- /SM590000 3.8, 'Intelligent Resource Director' on page 128
+- /SM590000 3.9, 'Clustering technology' on page 130
+- /SM590000 3.10, 'Virtual Flash Memory' on page 140
+- /SM590000 3.11, 'IBM Secure Service Container' on page 141
+
+3.1  Overview
+

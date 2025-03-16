@@ -1,0 +1,17 @@
+he installation as a Secure IBM Common Cryptographic Architecture (CCA) coprocessor, as a Secure IBM Enterprise Public Key Cryptography Standards (PKCS) #11 (EP11) coprocessor, or as an accelerator.
+
+The tamper-resistant hardware security module, which is contained on the Crypto Express6S feature, conforms to the Federal Information Processing Standard (FIPS) 140-2 Level 4 Certification. It supports UDX services to implement cryptographic functions and algorithms (when defined as an IBM CCA coprocessor).
+
+The following CCA compliance levels are available:
+
+- /SM590000 Noncompliant (default)
+- /SM590000 PCI-HSM 2016
+- /SM590000 PCI-HSM 2016 (migration, key tokens while migrating to compliant)
+
+The following EP11 compliance levels are available (Crypto Express6S and Crypto Express5S):
+
+- /SM590000 FIPS 2009 (default)
+- /SM590000 FIPS 2011
+- /SM590000 BSI 2009
+- /SM590000 BSI 2011
+

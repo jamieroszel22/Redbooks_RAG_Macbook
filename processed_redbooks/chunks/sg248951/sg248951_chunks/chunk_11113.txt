@@ -1,0 +1,10 @@
+ nonprivileged Complex Instruction Set Computer (CISC) memory-to-memory instruction that operates on tensor objects that are in user programs' memory. AI functions and macros are abstracted by NNPA.
+
+Figure B-2 shows the AI accelerator and its components: the data movers that surround the compute arrays are composed of the Processor Tiles (PT), Processing Elements (PE), and Special Function Processors (SFP).
+
+<!-- missing-text -->
+
+Intelligent data movers and prefetchers are connected to the chip by way of a ring interface for high-speed, low-latency, read/write cache operations (200+ GBps read/store bandwidth, and 600+GBps bandwidth between engines).
+
+Compute Arrays consist of 128 processor tiles with 8-way FP-16 FMA SIMD, which are optimized for matrix multiplication and convolution, and 32 processor tiles with 8-way FP-16/FP-32 SIMD, which is optimized for activation functions and complex functions.
+

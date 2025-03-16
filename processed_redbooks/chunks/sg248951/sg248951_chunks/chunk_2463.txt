@@ -1,0 +1,15 @@
+ider the following points:
+
+- /SM590000 The power subsystem is based on the following offerings:
+- -Power Distribution Units (PDUs) that are mounted at the rear of the system in pairs
+- -Bulk Power Assembly (BPA), as with previous systems
+- /SM590000 The system uses 3-phase power:
+- -Low voltage 4 wire 'Delta'
+- -High voltage 5 wire 'Wye'
+- /SM590000 No EPO (emergency power off) switch.
+- IBM z16 has a support element task to simulate the EPO function (used only when necessary to perform a System Reset Function).
+- /SM590000 No DC input feature is available.
+- /SM590000 The IBM z16 A01 system has a radiator unit (RU) with N+1 design for the pumps and blowers.
+- /SM590000 The 19-inch frame is capable of top or bottom exit of power. All power cords are 4.26 meters (14 feet). Combined with the Top Exit I/O Cabling feature, more options are available when you are planning your computer room cabling.
+- /SM590000 The new PSCN structure uses industry standard Ethernet switches (up to four).
+

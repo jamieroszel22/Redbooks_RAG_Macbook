@@ -1,0 +1,6 @@
+n the IBM z16.
+
+IBM z16 servers support dynamic provisioning features to give clients exceptional flexibility and control over system capacity and costs.
+
+This chapter includes the following topics:
+

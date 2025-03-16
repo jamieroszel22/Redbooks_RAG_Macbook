@@ -1,0 +1,12 @@
+ the On/Off CoD right-to-use feature is simultaneously removed. Reactivating the right-to-use feature subjects the client to the terms and fees that apply then.
+
+Upgrade capability during On/Off CoD
+
+Upgrades that involve physical hardware are supported while an On/Off CoD upgrade is active on a specific IBM z16 server. LICCC-only upgrades can be ordered and retrieved from IBM Resource Link, and can be applied while an On/Off CoD upgrade is active. LICCC-only memory upgrades can be retrieved and applied while an On/Off CoD upgrade is active.
+
+Repair capability during On/Off CoD
+
+If the IBM z16 requires service while an On/Off CoD upgrade is active, the repair can occur without affecting the temporary capacity.
+
+Monitoring
+

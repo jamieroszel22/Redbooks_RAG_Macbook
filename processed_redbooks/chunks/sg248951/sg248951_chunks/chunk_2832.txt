@@ -1,0 +1,4 @@
+ions, and supply chain operations. All of these operations are done in real time and fully integrated in transactional workloads. As a result, valuable insights are gained from their data instantly.
+
+The integrated accelerator for AI delivers AI inference in real time, at large scale, and high throughput rate, with no transaction left behind. The AI capability applies directly to the running transaction. It shifts the traditional paradigm of applying AI to the transactions that were completed. This innovative technology also can be used for intelligent IT workloads placement algorithms, which contributes to the better overall system performance.
+

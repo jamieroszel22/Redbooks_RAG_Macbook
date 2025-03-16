@@ -1,0 +1,8 @@
+ssor is preserved. The application continues processing on a newly assigned CP, IFL, ICF, zIIP, SAP, or IFP (allocated to one of the spare PUs) without client intervention.
+
+Application preservation
+
+If no spare PU is available, application preservation (z/OS only) is started. The state of the failing processor is passed to another active processor that is used by the operating system. Through operating system recovery services, the task is resumed successfully (in most cases, without client intervention).
+
+Dynamic SAP and IFP sparing and reassignment
+

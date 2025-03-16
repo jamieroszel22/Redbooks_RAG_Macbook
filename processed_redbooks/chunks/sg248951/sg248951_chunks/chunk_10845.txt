@@ -1,0 +1,20 @@
+stand the requirements for power and cooling, monitoring and trending, and reducing power consumption.
+
+The energy management structure for the server is shown in Figure 11-9.
+
+<!-- missing-text -->
+
+The hardware components in the IBM z16 are monitored and managed by the energy management component in the Support Element (SE) and HMC. The graphical user interfaces (GUIs) of the SE and HMC provide views, such as the Monitors Dashboard, Environmental Efficiency Statistics, and Energy Optimization Advisor.
+
+The following tools are available to plan and monitor the energy consumption of IBM z16 servers:
+
+- /SM590000 Power estimation tool on Resource Link
+- /SM590000 Energy Optimization Advisor task for maximum potential power on HMC and SE
+- /SM590000 Monitors Dashboard and Environmental Efficiency Statistics tasks on HMC and SE
+
+11.5.1  Environmental monitoring
+
+This section describes energy monitoring HMC and SE tasks.
+
+Energy Optimization Advisor
+

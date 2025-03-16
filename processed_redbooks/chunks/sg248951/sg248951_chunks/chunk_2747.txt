@@ -1,0 +1,8 @@
+ is bundled in a function that is called HiperDispatch . HiperDispatch uses the IBM z16 cache topology, which features reduced cross-cluster 'help' and better locality for multi-task address spaces.
+
+PR/SM can use dynamic PU reassignment to move processors (CPs, ZIIPs, IFLs, ICFs, and spares) to a different chip and drawer to improve the reuse of shared caches by processors of the same partition. It can use dynamic memory relocation (DMR) to move a running partition's memory to different physical memory to improve the affinity and reduce the distance between the memory of a partition and the processors of the partition.
+
+For more information about HiperDispatch, see 3.7, 'Logical partitioning' on page 117.
+
+3.3.2  CPC drawer interconnect topology
+

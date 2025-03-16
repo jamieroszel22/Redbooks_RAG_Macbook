@@ -1,0 +1,8 @@
+hat are attached through control units, and channel paths between the subsystem and control units. For more information about the channel subsystem, see 5.1.1, 'Multiple logical channel subsystems'.
+
+The design of IBM Z servers offers considerable processing power, memory size, and I/O connectivity. In support of the larger I/O capability, the CSS structure is scaled up by introducing the multiple logical channel subsystem (LCSS) since IBM z990, and multiple subchannel sets (MSS) since IBM z9.
+
+An overview of the channel subsystem for IBM z16 servers is shown in Figure 5-1. IBM z16 A01 systems are designed to support up to six logical channel subsystems, each with four subchannel sets and up to 256 channels.
+
+<!-- missing-text -->
+

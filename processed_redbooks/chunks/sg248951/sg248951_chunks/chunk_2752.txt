@@ -1,0 +1,8 @@
+IBM Integrated Accelerator for AI. For more information, see Chapter 2, 'Central processor complex hardware components' on page 15, and Appendix B, 'IBM Z Integrated Accelerator for AI' on page 503.
+
+Because of these enhancements, the IBM z16 processor full speed z/OS single-thread performance is on average 1.11 times faster than the IBM z15 at equal N-way. For more information about performance, see Chapter 12, 'Performance and capacity planning' on page 473.
+
+z13 servers introduced architectural extensions with instructions that reduce processor quiesce effects, cache misses, and pipeline disruption, and increase parallelism with instructions that process several operands in a single instruction (SIMD). The processor architecture was further developed for IBM z14 and IBM z15.
+
+IBM z16 includes the following enhancements:
+

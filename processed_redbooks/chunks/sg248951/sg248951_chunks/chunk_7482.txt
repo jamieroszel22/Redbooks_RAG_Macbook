@@ -1,0 +1,8 @@
+be reviewed to use more frames if applicable (for example, Java and Db2).
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+AI accelerator exploitation
+
+With the IBM z16 Integrated Accelerator for AI, customers can benefit from the acceleration of AI operations, such as fraud detection, customer behavior predictions, and streamlining of supply chain operations; all in real time. AI accelerator is designed to deliver AI inference in real time, at large scale and rate, with no transaction left behind so that customers can instantly derive the valuable insights from their data.
+

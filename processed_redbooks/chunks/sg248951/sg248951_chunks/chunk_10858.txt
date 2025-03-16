@@ -1,0 +1,6 @@
+ in production workloads. CPU MF data helps LSPR to adjust workload capacity curves that are based on the underlying hardware sensitivities; in particular, the processor access to caches and memory.
+
+This processor access to caches and memory is called Relative Nest Intensity (for more information, see 12.4, 'Relative Nest Intensity' on page 479). By using this data, LSPR introduces three workload capacity categories that replace all older primitives and mixes.
+
+LSPR contains the internal throughput rate ratios (ITRRs) for the IBM z16 and the previous generation processor families. These ratios are based on measurements and projections that use standard IBM benchmarks in a controlled environment.
+

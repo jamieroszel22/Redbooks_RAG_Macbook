@@ -1,0 +1,6 @@
+eduled, scheduled, planned, and unplanned outages. IBM Z technology has a long history of demonstrated RAS improvements. This effort continues with changes that reduce service touches on the system.
+
+Firmware was updated to improve filtering and resolution of errors that do not require action. Enhanced integrated sparing in processor cores, cache relocates, N+1 SEEPROM and Point of load (POL) N+2 redundancies, and DRAM marking also are incorporated to reduce touches.
+
+The following RAS enhancements reduce service touches:
+

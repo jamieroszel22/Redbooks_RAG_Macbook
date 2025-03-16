@@ -1,0 +1,11 @@
+thm. System administrators can authorize the TCP/IP stack to enable a dynamic setting that previously was static.
+
+The blocking algorithm is modified based on the following application requirements:
+
+- /SM590000 For latency-sensitive applications, the blocking algorithm is modified considering latency.
+- /SM590000 For streaming (throughput-sensitive) applications, the blocking algorithm is adjusted to maximize throughput.
+
+In all cases, the TCP/IP stack determines the best setting that is based on the current system and environmental conditions, such as inbound workload volume, processor use, and traffic patterns. It can then dynamically update the settings.
+
+Supported OSA-Express features adapt to the changes, which avoids thrashing and frequent updates to the OAT. Based on the TCP/IP settings, OSA holds the packets before presenting them to the host. A dynamic setting is designed to avoid or minimize host interrupts.
+

@@ -1,0 +1,6 @@
+e introduction of the IBM System/360 in 1964. Over time, the design was adapted to the changing requirements that were dictated by the shift toward new types of applications on which clients depend.
+
+IBM Z servers offer high levels of reliability, availability, serviceability (RAS), resilience, and security. The IBM z16 fits into the IBM strategy in which mainframes play a central role in creating an infrastructure for cloud, artificial intelligence, and analytics, which is underpinned by security. The IBM z16 server is designed so that everything around it, such as operating systems, middleware, storage, security, and network technologies that support open standards, helps you achieve your business goals.
+
+The IBM z16 extends the platform's capabilities and adds value with breakthrough technologies, such as the following examples:
+

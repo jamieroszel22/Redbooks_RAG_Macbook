@@ -1,0 +1,6 @@
+iance data to new SMF 1154 records that are associated with its unique subtype. These new SMF 1154 records can be integrated into solutions, such as the IBM z16 IBM Z Security and Compliance Center.
+
+This support requires PTFs for z/OS 2.4 and z/OS 2.5. The PTFs are identified by a fix category that is designated specifically for Compliance data collection support named IBM.Function.Compliance.DataCollection. For more information about how to use this fix category to identify and install the specific PTFs that enable compliance data collection, see 'IBM Fix Category Values and Descriptions'.
+
+For more information about z/OS collection sources and enablement, see the following resources:
+

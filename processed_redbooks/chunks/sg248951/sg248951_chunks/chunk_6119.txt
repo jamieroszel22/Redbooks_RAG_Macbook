@@ -1,0 +1,6 @@
+ss the adapter. In IBM z16, up to 85 LPARs are supported per adapter (HSM). Accessing the adapter requires a setup in the image profile for each partition. The adapter must be in the candidate list.
+
+Each IBM z16 A01 supports up to 60 HSMs in total (combination of Crypto Express8S (1 or 2 HSMs), Crypto Express7S (1 or 2 ports, and Crypto Express6S). Crypto Express7S (1 or 2 ports) and Crypto Express6S features (single HSM) are not orderable for a new build IBM z16 A01 system, but can be carried forward from an IBM z14 or IBM z15 by using an MES. Configuration information for Crypto Express8S is listed in Table 6-2.
+
+<!-- missing-text -->
+

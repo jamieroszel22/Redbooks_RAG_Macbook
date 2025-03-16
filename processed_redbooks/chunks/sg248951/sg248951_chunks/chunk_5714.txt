@@ -1,0 +1,12 @@
+e of an industry standard small form factor LC Duplex connector. Ensure that the attaching or downstream device includes an LR transceiver. The transceivers at both ends must be the same (LR to LR).
+
+The OSA-Express6S 10 GbE LR feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+
+A 9 µm single-mode fiber optic cable that ends with an LC Duplex connector is required for connecting this feature to the selected device.
+
+For more information about supported distances, see Table 4-8 on page 179.
+
+OSA-Express6S Gigabit Ethernet SX (FC 0423)
+
+The OSA-Express6S GbE SX feature includes one PCIe adapter and two ports. The two ports share a channel path identifier (CHPID type OSD). The ports support attachment to a 1 Gbps Ethernet LAN. Each port can be defined as a spanned channel and shared among LPARs and across logical channel subsystems.
+

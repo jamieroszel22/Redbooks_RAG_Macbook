@@ -1,0 +1,12 @@
+ttempts to recover the error. If the second attempt is unsuccessful (that is, a permanent fault exists), a relocation process is started that restores the full capacity by moving work to another PU.
+
+Relocation under hardware control is possible because the R-unit has the full designed state in its buffer. PU error detection and recovery are shown in Figure 3-17.
+
+<!-- missing-text -->
+
+3.4.10  Branch prediction
+
+Because of the ultra-high frequency of the PUs, the penalty for a wrongly predicted branch is high. Therefore, a multi-pronged strategy for branch prediction is implemented on each core based on gathered branch history that is combined with other prediction mechanisms.
+
+The BHT (Branch History Table) implementation on processors provides a large performance improvement. Originally introduced on the IBM ES/9000 9021 in 1990, the BHT is continuously improved.
+

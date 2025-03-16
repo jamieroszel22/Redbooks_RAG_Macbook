@@ -1,0 +1,12 @@
+rallelism that is present in the workload at startup (for example, starting middleware regions) and shutdown (for example, performing an orderly shutdown of middleware).
+
+Simultaneous multithreading
+
+SMT is the hardware capability to process up to two simultaneous threads in a single core, which shares the resources of the core, such as cache, translation lookaside buffer (TLB), and execution resources. This sharing improves system capacity and efficiency by reducing processor delays, which increases the overall throughput of the system.
+
+SMT 5  is supported for zIIPs and IFLs.
+
+Note: For zIIPs and IFLs, SMT must be enabled on z/OS, z/VM, or Linux on IBM Z instances. An operating system with SMT support can be configured to dispatch work to a thread on a zIIP (for eligible workloads in z/OS) or an IFL (for z/VM) core in single-thread or SMT mode.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+

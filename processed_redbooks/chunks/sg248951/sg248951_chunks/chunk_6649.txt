@@ -1,0 +1,14 @@
+ of various kinds. Updating a system to use PCI-HSM compliant HSMs is expected to reduce the risk of loss for the institution and its clients.
+
+The following requirements must be met to use PCI-HSM:
+
+- /SM590000 Hardware: IBM z16 7  systems and Crypto Express8S, Crypto Express7S, or Crypto Express6S
+- /SM590000 Operating systems:
+- -z/OS - ICSF Web deliverable 19 (HCR77D1), unless otherwise noted. WD19 supports z/OS V2R2, V2R3, and V2R4.
+- WD 20 supports z/OS V2R5 (base, which is HCR77D2)
+- -z/VM Version 7.1 or newer for guest use
+
+Visa Format Preserving Encryption
+
+VFPE refers to a method of encryption in which the resulting cipher text features the same form as the input clear text. The form of the text can vary according to use and application.
+

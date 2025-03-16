@@ -1,0 +1,20 @@
+
+- /SM590000 Up to 384 FICON Express32S channels
+- /SM590000 Up to 384 FICON Express16SA channels
+- /SM590000 Up to 320 FICON Express16S+ channels
+- /SM590000 Up to 48 OSA-Express7S 1.2 25 GbE ports
+- /SM590000 Up to 48 OSA-Express7S 1.2 10 GbE ports
+- /SM590000 Up to 96 OSA-Express7S 1.2 GbE ports
+- /SM590000 Up to 96 OSA-Express7S 1.2 1000BASE-T ports
+- /SM590000 Up to 48 OSA-Express7S 25 GbE SR1.1 ports
+- /SM590000 Up to 48 OSA-Express7S 25 GbE SR ports
+- /SM590000 Up to 48 OSA-Express7S 10 GbE ports
+- /SM590000 Up to 96 OSA-Express7S GbE ports
+- /SM590000 Up to 96 OSA-Express7S 1000BASE-T ports
+- /SM590000 Up to 48 OSA-Express6S 10 GbE ports
+- /SM590000 Up to 96 OSA-Express6S GbE ports
+- /SM590000 Up to 96 OSA-Express6S 1000BASE-T ports
+- /SM590000 Up to 16 25 GbE RoCE Express3 features
+- /SM590000 Up to 16 25 GbE RoCE Express2.1 features
+- /SM590000 Up to 16 25 GbE RoCE Express2 features
+- /SM590000 Up to 16 10 GbE RoCE Express3 features

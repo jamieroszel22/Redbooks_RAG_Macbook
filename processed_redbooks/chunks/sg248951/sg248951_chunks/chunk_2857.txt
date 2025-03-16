@@ -1,0 +1,12 @@
+of IBM. Information regarding potential future products is intended to outline general product direction and should not be relied on in making a purchasing decision.
+
+3.4.17  Runtime Instrumentation
+
+Runtime Instrumentation (RI) is a hardware facility for managed run times, such as the Java Runtime Environment (JRE). RI allows dynamic optimization of code generation as it is being run. It requires fewer system resources than the current software-only profiling, and provides information about hardware and program characteristics. RI also enhances JRE in making the correct decision by providing real-time feedback.
+
+3.5  Processor unit functions
+
+The PU functions are described in this section.
+
+3.5.1  Overview
+

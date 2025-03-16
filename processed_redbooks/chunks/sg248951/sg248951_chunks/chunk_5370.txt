@@ -1,0 +1,4 @@
+atures with up to 64 ports
+
+Notes: Consider the following points:
+

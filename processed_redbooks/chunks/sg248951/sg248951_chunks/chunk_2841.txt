@@ -1,0 +1,7 @@
+54-2008, which is intended to supersede the ANSI/IEEE Standard 754-1985.
+- /SM590000 Allows COBOL programs that use zoned-decimal operations to take advantage of the z/Architecture DFP instructions.
+
+IBM z16 servers have two DFP accelerator units per core, which improve the decimal floating point execution bandwidth. The floating point instructions operate on newly designed vector registers (32 new 128-bit registers).
+
+IBM z16 servers include decimal floating point packed conversion facility support with the following benefits:
+

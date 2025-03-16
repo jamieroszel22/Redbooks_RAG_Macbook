@@ -1,0 +1,10 @@
+ccess method provides the channel program (CCWs). How zHPF (transport mode) manages channel program operations is different from the CCW operation for the existing FICON architecture (command mode).
+
+While in command mode, each CCW is sent to the control unit for execution. In transport mode, multiple channel commands are packaged together and sent over the link to the control unit in a single control block. Fewer processors are used compared to the existing FICON architecture. Specific complex CCW chains are not supported by zHPF.
+
+The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+For more information about FICON channel performance, see the performance technical papers that are available at the IBM Z I/O connectivity page of the IBM IT infrastructure website.
+
+Modified Indirect Data Address Word facility
+

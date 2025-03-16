@@ -1,0 +1,14 @@
+
+- /SM590000 Embedded Artificial Intelligence Acceleration
+- -Designed to reduce the overall time required to execute CPU operations for neural networking processing functions, and help support real-time applications, such as fraud detection.
+- /SM590000 Compliance-ready CPACF Counters support
+- -Provides a means for guests to track crypto compliance and instruction usage.
+- /SM590000 Breaking Event Address Register (BEAR) Enhancement Facility;
+- -Facilitates debugging wild branches.
+- /SM590000 Vector Packed Decimal Enhancements 2
+- -New instructions intended to provide performance improvements.
+- /SM590000 Reset DAT protection Facility
+- -Provides a more efficient way to disable DAT protection, such as during copy-on-write or page change tracking operations.
+- /SM590000 RoCE Express3 adapter
+- -Allows guests to use Routable RoCE, Zero Touch RoCE, and SMC-R V2 support.
+- /SM590000 Guest Enablement for the CEX8S crypto adapter and assorted crypto enhancements

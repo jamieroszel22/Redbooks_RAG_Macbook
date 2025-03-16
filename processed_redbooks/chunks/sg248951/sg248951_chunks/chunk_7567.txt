@@ -1,0 +1,14 @@
+ reduced to 256, which increased the number of subchannels that are available. Reserved subchannels exist in subchannel set 0 only. One subchannel is reserved in each of subchannel sets 1, 2, and 3.
+
+The informal name, 63.75-K subchannels , represents 65280 subchannels, as shown in the following equation:
+
+63 x 1024 + 0.75 x 1024 = 65280
+
+This equation is applicable for subchannel set 0. For subchannel sets 1, 2 and 3, the available subchannels are derived by using the following equation:
+
+(64 X 1024) -1=65535
+
+The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+Multiple subchannel sets
+

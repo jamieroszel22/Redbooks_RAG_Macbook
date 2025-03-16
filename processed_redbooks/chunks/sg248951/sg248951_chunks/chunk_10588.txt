@@ -1,0 +1,25 @@
+t switches with the system for HMC and SE communication
+
+Ethernet switches
+
+Ethernet switches for HMC and SE connectivity are provided by the customer. Existing supported switches can still be used.
+
+Ethernet switches and hubs often include the following characteristics:
+
+- /SM590000 A total of 16 auto-negotiation ports
+- /SM590000 100/1000 Mbps data rate
+- /SM590000 Full or half duplex operation
+- /SM590000 Auto medium-dependent interface crossover (MDIX) on all ports
+- /SM590000 Port status LEDs
+- /SM590000 Copper RJ45 connections
+
+Note: It is recommendation an Ethernet switch with 1000 Mbps/Full duplex support is used.
+
+10.3.5  TCP/IP Version 6 on the HMC and SE
+
+The HMC and SE can communicate by using IPv4, IPv6, or both.
+
+IPv6 link-local addresses feature the following characteristics:
+
+- /SM590000 Every IPv6 network interface is assigned a link-local IP address.
+

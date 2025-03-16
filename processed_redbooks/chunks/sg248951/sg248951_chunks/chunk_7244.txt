@@ -1,0 +1,22 @@
+ subsystems. It also includes detailed information for each channel and path assignment, control unit, and device in the configuration.
+
+IOCP for IBM z16 provides support for the following features:
+
+- /SM590000 IBM z16 Base machine definition
+- /SM590000 PCI function adapter for zHyperLink (HYL)
+- /SM590000 PCI function adapter for RoCE Express3 (CX6)
+- /SM590000 New hardware (announced with Driver 51)
+- /SM590000 IOCP Dynamic I/O support for stand-alone CF, Linux on Z and z/TPF, running on z16 CPCs.
+
+IOCP required level for IBM z16 servers:
+
+- /SM590000 z/OS V2.R4 and older releases use the same IOCP FMID HIO1104
+- /SM590000 z/OS V2.R5 uses IOCP FMID HIO1105
+
+For more information, see the following publications:
+
+- /SM590000 Stand-Alone Input/Output Configuration Program User's Guide , SB10-7180
+- /SM590000 Input/Output Configuration Program User's Guide for ICP IOCP , SB10-7177
+
+Dynamic Partition Manager V5.0
+

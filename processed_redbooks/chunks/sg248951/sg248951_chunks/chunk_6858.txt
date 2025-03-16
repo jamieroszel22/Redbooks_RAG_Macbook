@@ -1,0 +1,12 @@
+590000 EP11 for CEX8S (5.8.x) only
+- -Three new compliance modes: FIPS2021, FIPS2024, and Administrative FIPS2021 (first of its kind)
+- -Enhanced concurrent update support now includes kernel modules
+- -Enhanced maximum performance for digest and random number generation
+- -Allow for regular extractable keys to be tagged as protected key exportable
+
+6.5.4  Crypto Express8S as an accelerator
+
+A Crypto Express8S adapter that is running in accelerator mode supports only RSA clear key and SSL Acceleration. A request is processed fully in hardware.
+
+The Crypto Express accelerator is a coprocessor that is reconfigured by the installation process so that it uses only a subset of the coprocessor functions at a higher speed. Reconfiguration is disruptive to coprocessor and accelerator operations. The coprocessor or accelerator must be deactivated before you begin the reconfiguration.
+

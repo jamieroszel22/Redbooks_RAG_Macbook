@@ -1,0 +1,7 @@
+nt. This issue reduces the efficiency of the cache. For more information about the number of Logical CPs defined for an LPAR, please refer to this document: Number of Logical CPs Defined for an LPAR.
+- /SM590000 The server capacity declines relative to the LCP:RCP ratio (sum of logical CPs that is defined in all LPARs: the number of physical CPs on your configuration). Therefore, assigning the correct number of logical CPs to an LPAR is important.
+- /SM590000 Utilize IBM zPCR to size IBM Processors. (Don't use MIPS tables to do capacity sizing).
+- /SM590000 Design your LPARs to 'fit' in a single drawer with room to grow.
+- -When the number of logicals exceeds the drawer boundary all physics come into play, slowing down, and that CPU time is clocked to your applications and to your bill.
+- /SM590000 For the larger partitions, start the strategy to split them into smaller partitions.
+- -Use IBM zPCR to show potential capacity savings for 'more smaller' LPARs.

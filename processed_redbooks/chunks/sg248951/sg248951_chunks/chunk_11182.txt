@@ -1,0 +1,12 @@
+y incurs charged. Monitoring to ensure compliance is done by way of Call Home data that IBM receives periodically.
+
+Tailored fit pricing for hardware and IBM Z Flexible Capacity for Cyber Resiliency
+
+IBM Z Flexible Capacity for Cyber Resiliency can be used with TFP-Hardware. The Flexible Capacity limit is always based on the Base capacity. The presence or activation of TFP-Hardware does not affect the amount of capacity that can be activated by a Flexible Capacity Transfer record.
+
+The Flexible Capacity Transfer record always is considered to be the first record that was activated, regardless of the order in which temporary records or TFP-Hardware were activated.
+
+The example that is shown in Figure D-10 shows an active Sysplex across Site A and Site B.
+
+<!-- missing-text -->
+

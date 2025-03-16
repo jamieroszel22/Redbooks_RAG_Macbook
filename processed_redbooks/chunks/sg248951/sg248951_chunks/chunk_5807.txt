@@ -1,0 +1,26 @@
+oup 4 (RG 4). This configuration provides redundancy if one of the features or resource groups needs maintenance or fails.
+
+The IFP and RGs support the following infrastructure management functions:
+
+- /SM590000 Firmware update of adapters and resource groups
+- /SM590000 Error recovery and failure data collection
+- /SM590000 Diagnostic and maintenance tasks
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Chapter 5.
+
+Central processor complex channel subsystem
+
+This chapter describes the concepts of the IBM z16 A01 channel subsystem, including multiple channel subsystems and multiple subchannel sets. It also describes the technology, terminology, and implementation aspects of the channel subsystem.
+
+This chapter includes the following topics:
+
+- /SM590000 5.1, 'Channel subsystem' on page 198
+- /SM590000 5.2, 'I/O configuration management' on page 206
+- /SM590000 5.3, 'Channel subsystem summary' on page 207
+
+5.1  Channel subsystem
+

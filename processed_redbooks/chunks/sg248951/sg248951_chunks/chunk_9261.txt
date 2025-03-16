@@ -1,0 +1,8 @@
+he CoD infrastructure and its offerings are based on client requirements for more flexibility, granularity, and better business control over the IBM Z infrastructure, operationally, and financially.
+
+One major client requirement was to eliminate the need for a client authorization connection to the IBM Resource Link system when activating an offering. This requirement is met by the IBM z14, IBM z15, and IBM z16 servers.
+
+After the offerings are installed on the IBM z16 SE, they can be activated at any time at the customer's discretion. No intervention by IBM or IBM personnel is necessary. In addition, the activation of CBU does not require a password.
+
+The IBM z16 A01 can have up to eight offerings that are installed at the same time, with the limitation that only one of them can be an On/Off CoD offering, and only one can be an SRB Upgrade record. The others can be any combination.
+

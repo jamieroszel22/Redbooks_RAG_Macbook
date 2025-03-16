@@ -1,0 +1,6 @@
+iguration file. Multithreading is enabled only if z/VM is configured to run with the HiperDispatch vertical polarization mode enabled and with the dispatcher work distribution mode set to reshuffle.
+
+The default in z/VM is multithreading disabled. Dynamic SMT enables dynamically varying the active threads per core. The number of active threads per core can be changed dynamically without a system outage and potential capacity gains going from SMT-1 to SMT-2 (one to two threads per core) can be achieved dynamically.
+
+z/VM V7R3, V7R2, and V7R1 support up to 40 multithreaded cores (80 threads) for IFLs, and each thread is treated as an independent processor. z/VM dispatches virtual IFLs on the IFL logical processor so that the same or different guests can share a core. Each core has a single dispatch vector, and z/VM attempts to place virtual sibling IFLs on the same dispatch vector to maximize cache reuses.
+

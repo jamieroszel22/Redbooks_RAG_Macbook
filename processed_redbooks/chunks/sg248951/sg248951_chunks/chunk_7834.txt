@@ -1,0 +1,15 @@
+owntime).
+
+Pervasive encryption for Linux on IBM Z
+
+Pervasive encryption for Linux on IBM Z combines the full power of Linux with IBM z16 capabilities by using the support of the following features:
+
+- /SM590000 Kernel Crypto: IBM z16 CPACF
+- /SM590000 LUKS dm-crypt Protected-Key CPACF
+- /SM590000 Libica and openssl: IBM z16 CPACF and acceleration of RSA handshakes by using SIMD
+- /SM590000 Secure Service Container: High security virtual appliance deployment infrastructure
+
+Protection of data at-rest
+
+By using the integration of industry-unique hardware accelerated CPACF encryption into the standard Linux components, users can achieve optimized encryption transparently to prevent raw key material from being visible to operating systems and applications.
+

@@ -1,0 +1,11 @@
+ section introduces some of the RAS features that are incorporated in the IBM z16 design.
+
+9.2.1  Processor Unit chip
+
+IBM z16 uses the Processor Unit (PU) chip with the following technical changes:
+
+- /SM590000 A PU chip is implemented by using EUV process with 7 nm FinFET lithography, and has eight cores (PUs) per chip (design) that are running at 5.2 GHz.
+- /SM590000 Each core has private L1 (instruction and data) caches and a semi-private L2 cache, which are 32 MB. The eight cores and L2 caches on the chip communicate through bidirectional high-speed on-chip ring and with all SMP, I/O, and memory interfaces (see Figure 9-2 on page 381).
+
+<!-- missing-text -->
+

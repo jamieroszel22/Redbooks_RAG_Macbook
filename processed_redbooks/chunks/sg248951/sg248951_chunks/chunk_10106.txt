@@ -1,0 +1,8 @@
+ scrubbing calls for replacement on the third DRAM failure is available.
+
+For more information about the memory system on IBM z16 A01, see 2.5, 'Memory' on page 37.
+
+- /SM590000 Soft-switch firmware
+
+IBM z16 is equipped with the capabilities of soft-switching firmware. Enhanced logic in this function ensures that every affected circuit is powered off during the soft-switching of firmware components. For example, when you are upgrading the microcode of a FICON feature, enhancements are implemented to avoid any unwanted side effects that were detected on previous systems.
+

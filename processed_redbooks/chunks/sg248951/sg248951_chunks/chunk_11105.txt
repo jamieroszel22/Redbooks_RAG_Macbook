@@ -1,0 +1,10 @@
+the PU resources are distributed according to the Table 12-2 on page 493, and are shown in the Estimated Distribution of RCPs Across Drawers graph in Figure 12-15 on page 497.
+
+<!-- missing-text -->
+
+The Partition Detail Report in Figure 12-14 above highlights the partition GP-02 to indicate it is within 10% of the maximum drawer size in the number of CPs. The GP-02 partition and the 'Note' at the bottom are shaded with the same violet color.
+
+<!-- missing-text -->
+
+IBM z16 continues the IBM z14 and IBM z15 NUMA 9  design. IBM z16 has two clusters and four DCMs per drawer (refer to Table 12-2 on page 493 for the number of Configurable PUs per drawer). In the case where a single partition spans from one drawer into a second, the cross-drawer penalty has increased on IBM z16. However, this is offset by more cores per drawer and higher capacity than IBM z15, which allows more work to 'fit' on a single drawer.
+

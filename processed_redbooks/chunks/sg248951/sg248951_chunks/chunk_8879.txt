@@ -1,0 +1,14 @@
+ slots and PCIe Fan-outs) is present in the configuration. PCIe+ I/O drawers can be added concurrently without planning if free space is available in one of the frames and the configuration permits.
+
+Dynamic I/O configuration changes are supported by specific operating systems (z/OS and z/VM), which allows for nondisruptive I/O upgrades. Dynamic I/O reconfiguration on a stand-alone coupling facility system also is possible by using the Dynamic I/O activation for stand-alone CF CPCs features.
+
+Cryptographic adapters
+
+Crypto Express8S features can be added concurrently if all the required infrastructure is in the configuration.
+
+Special features
+
+Special features, such as zHyperlink, Coupling Express2 LR, and RoCE features can be added concurrently if all infrastructure is available in the configuration.
+
+8.12.2  Concurrent upgrade considerations
+

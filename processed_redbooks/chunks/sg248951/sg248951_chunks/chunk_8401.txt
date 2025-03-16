@@ -1,0 +1,6 @@
+model and model capacity identifiers that are returned by the STSI instruction are updated to coincide with the upgrade. For more information, see 'Store System Information instruction' on page 375.
+
+Upgrades: An MES provides the physical upgrade, which results in more enabled processors, different capacity settings for the CPs, and more memory, I/O ports, I/O adapters, and I/O drawers. Extra planning tasks are required for nondisruptive logical upgrades. For more information, see 'Guidelines to avoid disruptive upgrades' on page 377.
+
+8.4.1  MES upgrade for processors
+

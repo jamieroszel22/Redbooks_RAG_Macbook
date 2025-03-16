@@ -1,0 +1,15 @@
+r so that the same or different guests can share a core. Each core has a single dispatch vector, and z/VM attempts to place virtual sibling IFLs on the same dispatch vector to maximize cache reuses.
+
+z/VM guests have no awareness of SMT, and cannot use it directly. z/VM SMT use does not include guest support for multithreading. The value of this support for guests is that the first-level z/VM host of the guests can achieve higher throughput from the multi-threaded IFL cores.
+
+Linux on IBM Z and the KVM hypervisor
+
+The Linux kernel features SMT functions that were developed by the Linux on IBM Z development team. SMT is supported on LPAR only (not as a second-level guest).
+
+The following minimum releases of Linux on IBM Z distributions are supported on IBM z16 (native SMT support):
+
+- /SM590000 SUSE:
+- -SLES 16
+- -SLES 15 SP3 with service
+- -SUSE SLES 12 SP5 with service
+

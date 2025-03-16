@@ -1,0 +1,46 @@
+unction of these programs. The sample programs are provided 'AS IS', without warranty of any kind. IBM shall not be liable for any damages arising out of your use of the sample programs.
+
+Trademarks
+
+IBM, the IBM logo, and ibm.com are trademarks or registered trademarks of International Business Machines Corporation, registered in many jurisdictions worldwide. Other product and service names might be trademarks of IBM or other companies. A current list of IBM trademarks is available on the web at 'Copyright and trademark information' at http://www.ibm.com/legal/copytrade.shtml
+
+The following terms are trademarks or registered trademarks of International Business Machines Corporation, and might also be trademarks or registered trademarks in other countries.
+
+<!-- missing-text -->
+
+AIXfi
+
+CICSfi
+
+Connect:Directfi
+
+DB2fi
+
+Db2fi
+
+DS8000fi
+
+FICONfi
+
+FlashCopyfi
+
+GDPSfi
+
+Guardiumfi
+
+HyperSwapfi
+
+IBMfi
+
+IBM Blockchain™
+
+IBM Cloudfi
+
+IBM Securityfi
+
+IBM Sterlingfi
+
+IBM Watsonfi
+
+IBM Zfi
+

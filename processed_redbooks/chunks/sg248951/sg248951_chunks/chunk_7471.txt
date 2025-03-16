@@ -1,0 +1,8 @@
+rallel computing that can accelerate code with string, character, integer, and floating point data types. The SIMD instructions allow many operands to be processed with a single complex instruction.
+
+IBM z16 is equipped with a set of instructions to improve the performance of complex mathematical models and analytic workloads through vector processing and complex instructions, which can process numerous data with a single instruction. This set of instructions, which is known as SIMD, enables more consolidation of analytic workloads and business transactions on IBM Z servers.
+
+SIMD on IBM z16 has support for enhanced math libraries that provide performance improvements for analytical workloads by processing more information with a single CPU instruction.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254. Operating System support includes the following features 6 :
+

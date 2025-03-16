@@ -1,0 +1,12 @@
+and the Model Permanent Capacity Rating contain the base capacity of the system. The Model Temporary Capacity Identifier and Model Temporary Capacity Rating contain the base capacity and On/Off CoD.
+
+For more information about the STSI instruction, see z/Architecture Principles of Operation , SA22-7832.
+
+Store CPU ID instruction
+
+The Store CPU ID (STIDP) instruction returns information about the processor type, serial number, and LPAR identifier, as shown in Figure 8-20.
+
+<!-- missing-text -->
+
+Consider the following points:
+

@@ -1,0 +1,14 @@
+pports z/VM 7.3 16 , z/VM 7.2, and z/VM 7.1. z/VM is moving to continuous delivery model. For more information, see this web page.
+
+7.6.1  IBM z/VM 7.3
+
+IBM z/VM 7.3 includes the following features:
+
+- /SM590000 8-Member SSI: increases the maximum size of a Single System Image (SSI) cluster from four members to eight, which enables customers to grow their SSI clusters to allow for more workload. It also provides more flexibility to use live guest relocation (LGR) for nondisruptive upgrades and workload balancing.
+- /SM590000 New Architecture Level Set of IBM z14 and IBM z14 ZR1.
+- /SM590000 All new functions are made available in z/VM 7.2 throughout the continuous delivery process.
+
+7.6.2  IBM z/VM 7.2
+
+z/VM 7.2 is available since September, 2020. It includes the following features:
+

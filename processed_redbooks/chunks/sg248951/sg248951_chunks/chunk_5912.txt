@@ -1,0 +1,4 @@
+ or 4096 bits.
+
+In modern cryptography, keys must be kept secret. Depending on the effort that is made to protect the key, keys are classified into the following levels:
+

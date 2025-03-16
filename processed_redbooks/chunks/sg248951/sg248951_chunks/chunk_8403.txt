@@ -1,0 +1,8 @@
+d ICFs, zIIPs, unassigned zIIPs, IFLs, unassigned IFLs, and SAPs cannot exceed the maximum limit of PUs available for client use. The number of zIIPs cannot exceed twice the number of purchased CPs.
+
+An example of an MES upgrade for processors (with two upgrade steps) is shown in Figure 8-3.
+
+<!-- missing-text -->
+
+An IBM z16 model A01 Max39 (one processor drawer), model capacity identifier 708 (eight CPs), is concurrently upgraded to a model A01 Max82 (two processor drawers), with MCI 742 (42 CPs). The model upgrade requires adding a processor drawer and assigning and activating 42 PUs as CPs. Then, model Max82, MCI 742, is concurrently upgraded to a capacity identifier 743 (43 CPs) with two IFLs. This process is done by assigning and activating three more unassigned PUs (one as CP and two as IFLs). If needed, LPARs can be created concurrently to use the newly added processors.
+

@@ -1,0 +1,20 @@
+ adapter manually off/on.
+
+The Figure 10-11 and Figure 10-12 on page 418 show examples of the automatic firmware activation for Crypto and OSA adapters.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- /SM590000 Default HMC and SE users security changes
+
+With IBM z16, default users ADVANCED, OPERATOR, STORAGEADMIN, and SYSPROG no longer are preinstalled on the new shipped HMCs and SEs.
+
+Default user roles for ADVANCED, OPERATOR, STORAGEADMIN, and SYSPROG are shipped and the corresponding user IDs can be created from those roles.
+
+Any default user ID that was part of a previous HMC can be carried forward to the new HMCs as part of a MES upgrade or by using the tasks User Profile Data for the Save/Restore Customizable Console Data or Configure Data Replication.
+
+At first log-on, the default password for the ACSADMIN and SERVICE user must be changed.
+
+Note: Consider the following points:
+

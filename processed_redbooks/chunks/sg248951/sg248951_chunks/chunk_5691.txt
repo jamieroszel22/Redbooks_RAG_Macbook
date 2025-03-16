@@ -1,0 +1,10 @@
+459) is installed in the PCIe+ I/O Drawer.
+
+OSA-Express7S 1.2 25 Gigabit Ethernet Short Reach (SR) feature includes one PCIe Gen3 adapter and one port per feature. The port supports CHPID types OSD.
+
+The OSA-Express7S 1.2 25 GbE SR feature supports attachment to a multimode fiber 25 Gbps Ethernet LAN or Ethernet switch that is capable of 25 Gbps. The port can be defined as a spanned channel and shared among LPARs within and across logical channel subsystems.
+
+The OSA-Express7S 1.2 25 GbE SR feature supports the use of an industry standard small form factor (SFP+) LC Duplex connector. Ensure that the attaching or downstream device includes an SR transceiver. The sending and receiving transceivers must be the same (SR to SR).
+
+The OSA-Express7S 1.2 25 GbE SR feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+

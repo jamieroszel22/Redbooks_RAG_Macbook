@@ -1,0 +1,14 @@
+F (FC 1974). When the system is later upgraded with another ICF, the system recognizes that an ICF was purchased and is present.
+
+The allowable number of zIIPs for each model is listed in Table 3-3.
+
+<!-- missing-text -->
+
+zIIPs are orderable by using FC 1961. Up to two zIIPs can be ordered for each CP or marked CP configured in the system. If the installed CPC drawer has no remaining unassigned PUs, the assignment of the next zIIP might require the installation of another CPC drawer.
+
+PUs that are characterized as zIIPs within a configuration are grouped into the zIIP pool. This configuration allows zIIPs to have their own processing weights, independent of the weight of parent CPs. The zIIP pool can be seen on the hardware console.
+
+The number of permanent zIIPs plus temporary zIIPs cannot exceed twice the number of purchased CPs plus temporary CPs. Also, the number of temporary zIIPs cannot exceed the number of permanent zIIPs.
+
+zIIPs and logical partition definitions
+

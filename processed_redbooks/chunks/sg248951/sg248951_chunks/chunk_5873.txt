@@ -1,0 +1,8 @@
+ommon Criteria for Information Technology Security Evaluation, the PCI HSM criteria, and the criteria for German Banking Industry Commission (formerly known as Deutsche Kreditwirtschaft evaluation).
+
+The cryptographic functions include the full range of cryptographic operations that are necessary for local and global business and financial institution applications. User Defined Extensions (UDX) allow you to add custom cryptographic functions to the functions that IBM z16 systems offer.
+
+6.2  Cryptography overview
+
+Throughout history, a need existed for secret communication between people that cannot be understood by outside parties.
+

@@ -1,0 +1,14 @@
+rogram User's Guide for ICP IOCP , SB10-7177. HCD is available on the z/OS and z/VM operating systems. Review the suitable 3931DEVICE Preventive Service Planning (PSP) buckets before implementation.
+
+Fibre Channel connection (FICON) channels can be managed by the Dynamic CHPID Management (DCM) function of the Intelligent Resource Director. DCM enables the system to respond to ever-changing channel requirements by moving channels from lesser-used control units to more heavily used control units, as needed.
+
+Modes of operation
+
+The modes of operation are listed in Table 3-6. All available mode combinations, including their operating modes and processor types, operating systems, and addressing modes, also are listed. Only the currently supported versions of operating systems are considered.
+
+<!-- missing-text -->
+
+- a. General mode uses 64-bit z/Architecture
+- b. IBM Secure Service Container
+- c. IBM Db2 Analytics Accelerator (IDAA), Hyper Protect Virtual Servers (HPVS), and others
+

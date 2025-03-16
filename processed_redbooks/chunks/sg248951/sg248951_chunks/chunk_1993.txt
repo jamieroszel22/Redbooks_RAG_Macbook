@@ -1,0 +1,12 @@
+cur when collecting diagnostic data.
+
+VFM also can be used by coupling facility images to provide extended capacity and availability for workloads that use IBM WebSphere MQ Shared Queues structures.
+
+VFM can help organizations meet their most demanding service level agreements and compete more effectively. VFM is easy to configure in the LPAR Image Profile and provides rapid time to value.
+
+2.5.7  Flexible Memory Option
+
+With the Flexible Memory Option, more physical memory is supplied to support the activation of the purchased memory entitlement in a single CPC drawer that is out of service during activation (POR), or in a scheduled concurrent drawer upgrade (memory add) or drawer maintenance (n+1 repair) with the use of enhanced drawer availability.
+
+When you order memory, you can request extra flexible memory. The extra physical memory, (if required) is calculated by the configuration and priced accordingly.
+

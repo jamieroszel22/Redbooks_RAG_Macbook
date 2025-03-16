@@ -1,0 +1,14 @@
+6c4:200:129:42:60:189
+
+Note: All other previous IP addresses are no longer supported.
+
+10.5  HMC and SE capabilities
+
+The HMC and SE features many capabilities. This section describes the key areas.
+
+For more information about these capabilities, see the HMC and SE Driver 51/Version 2.16.0 console help system or see the IBM Resource Link. At this web page, select Library , the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide .
+
+With the introduction of the DPM mode mainly for LinuxONE management, the user interface and user interaction with the HMC changed significantly, although the capabilities are remained the same. The figures and descriptions in this section cover only the traditional Processor Resource/Systems Manager (PR/SM) mode.
+
+10.5.1  Central processor complex management
+

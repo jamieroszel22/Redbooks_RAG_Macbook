@@ -1,0 +1,12 @@
+ment Mode, regardless of the HIPERDISPATCH=YES/NO specification. That is, even if the LPAR has the HIPERDISPATCH=NO specification, that LPAR is converted to operate in HiperDispatch Management Mode.
+
+- /SM590000 An LPAR with more than 64 logical processors that are running in HiperDispatch Management Mode cannot be reverted to run in non-HiperDispatch Management Mode.
+
+HiperDispatch on IBM z16 systems uses chip and CPC drawer configuration to improve the access cache performance. It optimizes the system PU allocation with Chip/cluster/drawer cache structure on IBM Z servers.
+
+The base support for IBM z16 is provided by PTFs that are identified by:
+
+IBM.device.server.IBM z16-3931.requiredservice
+
+PR/SM on IBM z16 servers preferentially assigns memory for a system in one CPC drawer that is striped across the clusters of that drawer to take advantage of the lower latency memory access in a drawer. Also, PR/SM tries to consolidate storage onto drawers with the most processor entitlement.
+

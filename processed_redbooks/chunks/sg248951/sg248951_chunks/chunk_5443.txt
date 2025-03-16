@@ -1,0 +1,17 @@
+Express3
+- /SM590000 10 GbE RoCE Express3
+- /SM590000 Crypto Express8S (one or two HSMs)
+- /SM590000 Coupling Express2 Long Reach (CE2 LR)
+- /SM590000 zHyperLink Express1.1
+
+4.4  CPC drawer fan-outs
+
+The IBM z16 server uses PCIe+ Gen3 fan-out cards to connect the I/O subsystem in the CPC drawer to the PCIe+ I/O drawers. The fan-out cards also include the ICA SR (ICA SR and ICA SR1.1) coupling links for Parallel Sysplex. All fan-out cards support concurrent add, remove, and move.
+
+The IBM z16 CPC drawer I/O infrastructure consists of the following features:
+
+- /SM590000 The PCIe+ Generation 3 fan-out cards: Two ports per card (feature) that connect to PCIe+ I/O drawers.
+- /SM590000 ICA SR (ICA SR and ICA SR1.1) fan-out cards: Two ports per card (feature) that connect to other (external) CPCs.
+
+Note: IBM z16 does not support Parallel Sysplex InfiniBand (PSIFB) links.
+

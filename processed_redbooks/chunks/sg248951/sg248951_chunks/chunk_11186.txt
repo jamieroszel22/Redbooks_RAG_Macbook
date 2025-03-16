@@ -1,0 +1,25 @@
+lexible Capacity for Cyber Resilience versus Capacity Back Up
+
+Flexible Capacity and Capacity Back Up (CBU) feature different purposes and limitations, as listed in Table D-2.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix E.
+
+Frame configurations Power Distribution Units and Bulk Power Assembly-based systems
+
+This appendix describes the various frame configurations for Power Distribution Units (PDUs) and Bulk Power Assembly (BPA)-based systems. All of the figures that are included here are views from the rear of the system.
+
+The common building blocks are displayed and range from 1 - 4 frames, with various numbers of CPC drawers and PCIe+ I/O drawers.
+
+This chapter includes the following topics:
+
+- /SM590000 'Power Distribution Unit configurations' on page 530
+- /SM590000 'Bulk Power Assembly configurations' on page 533
+
+Power Distribution Unit configurations
+
+The various PDU-based system configurations are shown in Figure E-1 - Figure E-6 on page 532.
+

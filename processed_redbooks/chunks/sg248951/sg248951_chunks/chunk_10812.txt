@@ -1,0 +1,12 @@
+ographic controls
+- /SM590000 Dynamically adding a Crypto feature to a partition:
+- -For the first time
+- -That already uses Crypto
+- /SM590000 Dynamically removing a Crypto feature from a partition
+
+The Crypto Express8S, which is a new Peripheral Component Interconnect Express (PCIe) cryptographic coprocessor, is an optional IBM z16 exclusive feature. Crypto Express8S provides a secure programming and hardware environment on which crypto processes are run.
+
+Each Crypto Express8S adapter can be configured by the installation as a Secure IBM CCA coprocessor, a Secure IBM Enterprise Public Key Cryptography Standards (PKCS) #11 (EP11) coprocessor, or an accelerator.
+
+When EP11 mode is selected, a unique Enterprise PKCS #11 firmware is loaded into the cryptographic coprocessor. It is separate from the Common Cryptographic Architecture (CCA) firmware that is loaded when a CCA coprocessor is selected. CCA firmware and PKCS #11 firmware cannot coexist in a card.
+

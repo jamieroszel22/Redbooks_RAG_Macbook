@@ -1,0 +1,10 @@
+deletion or moving of these features does not require planning. Support is provided in z/OS, z/VM, z/VSE, IBM SSC (based on appliance requirements), and Linux on IBM Z.
+
+LPAR dynamic PU reassignment
+
+The system configuration is enhanced to optimize the PU-to-CPC drawer assignment of physical processors dynamically. The initial assignment of client-usable physical processors to physical processor drawers can change dynamically to better suit the LPAR configurations that are in use.
+
+For more information, see 3.5.9, 'Processor unit assignment' on page 110.
+
+Swapping of specialty engines and general processors with each other, with spare PUs, or with both, can occur as the system attempts to compact LPAR configurations into physical configurations that span the least number of processor drawers.
+

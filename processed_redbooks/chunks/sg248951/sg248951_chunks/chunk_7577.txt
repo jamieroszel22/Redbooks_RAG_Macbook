@@ -1,0 +1,14 @@
+of FB data on a logical volume.
+
+IBM Z support applies to FCP channels only. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+N\_Port ID Virtualization
+
+N\_Port ID Virtualization (NPIV) allows multiple system images (in LPARs or z/VM guests) to use a single FCP channel as though each were the sole user of the channel. First introduced with z9 EC, this feature can be used with supported FICON features on IBM z16 servers. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+Worldwide port name tool
+
+Part of the IBM z16 system installation is the planning of the SAN environment. IBM includes a stand-alone tool to assist with this planning before the installation.
+
+The capabilities of the WWPN are extended to calculate and show WWPNs for virtual and physical ports ahead of system installation.
+

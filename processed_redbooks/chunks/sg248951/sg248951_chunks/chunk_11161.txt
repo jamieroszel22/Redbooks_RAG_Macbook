@@ -1,0 +1,9 @@
+ of the hardware infrastructure they own.
+- /SM590000 Any form of growth (from a new workload to a 30-year-old COBOL application that is used more often) qualifies for a much-improved Price per MSU.
+
+One key concept in a Software Consumption Model is the customer baseline. The IBM team works with the customer to review their previous 12 months production MSU consumption and billing to determine an effective price per MSU and establish a predictable price for all growth at discounted rate (see Figure D-1).
+
+<!-- missing-text -->
+
+With the Software Consumption model, no concept of peaks or white space is used that previously were integral to the sub-capacity-based model. Therefore, customers are free to remove capping and can use all of the owned capacity without worrying about penalties for peaking or spiking.
+

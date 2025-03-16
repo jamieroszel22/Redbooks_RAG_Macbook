@@ -1,0 +1,12 @@
+writes.
+
+Working with the FICON SAN Infrastructure, zHyperLink can improve application response time, which cuts I/O-sensitive workload response time in half without requiring application changes. 3
+
+Note: The zHyperLink channels complement FICON channels, but they do not replace FICON channels. FICON remains the main data driver and is mandatory for zHyperLink usage.
+
+1.2.5  Network connectivity
+
+The IBM z16 is a fully virtualized platform that can support many system images at once. Therefore, network connectivity covers not only the connections between the platform and external networks with Open Systems Adapter-Express (OSA-Express) and RoCE Express features, it supports specialized internal connections for intra-system communication through IBM HiperSockets and Internal Shared Memory (ISM).
+
+OSA-Express
+

@@ -1,0 +1,14 @@
+re Codes (see Table 2-3) for cables that are entering the frames from above the floor, below the floor, or both, and if the Top Exit feature is wanted, which provides Top Hat.
+
+<!-- missing-text -->
+
+A vertical cable management guide ('spine') can assist with proper cable management for fiber, copper, and coupling cables. A top to bottom spine is present from manufacturing with cable organizer clips that are installed for frames Z and C when present. Frames A and B contain mini-spines that serve the same purpose.
+
+The cable retention clips can be relocated for best usage. All external cabling to the system (from top or bottom) can use the spines to minimize interference with the PDUs that are mounted on the sides of the rack.
+
+The rack with the spine mounted and the optional fiber cable organizer hoops is shown in Figure 2-5. If necessary, the spine, and organizer hoops can be easily relocated for service procedures.
+
+<!-- missing-text -->
+
+2.2  CPC drawer
+

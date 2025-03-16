@@ -1,0 +1,6 @@
+ty to IBM z16, IBM z15, and IBM z14 servers.
+
+- /SM590000 One, two, or three pairs of redundant SMP9 connectors provide connectivity to the other one, two, or three CPC drawers in the configuration.
+
+When configured for availability, the channels and coupling links are balanced across CPC drawers. In a system that is configured for maximum availability, alternative paths maintain access to critical I/O devices, such as disks and networks. The CHPID Mapping Tool can be used to assist with configuring a system for high availability.
+

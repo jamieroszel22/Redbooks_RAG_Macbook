@@ -1,0 +1,4 @@
+ controller are the same size
+- -4 - 6 memory controllers per drawer are populated (up to 48 DIMMs)
+- -Different memory controllers can have different size DIMMs
+

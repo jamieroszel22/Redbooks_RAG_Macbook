@@ -1,0 +1,21 @@
+00 AES PIN support for the German banking industry.
+- /SM590000 PKA Translate UDX function into CCA.
+- /SM590000 Verb Algorithm Currency.
+
+CCA improvements
+
+The following CCA improvements were made:
+
+- /SM590000 CCA Quantum Safe Algorithm enhancements:
+- -Updated support for Dilithium signatures:
+- GLYPH&lt;129&gt; Round 2: Level 2 (6 5) and 3 (8 7)
+- GLYPH&lt;129&gt; Round 3: Level 3 (6 5) and 5 (8 7)
+- -Added support for Kyber key encapsulation in Round 2: Level 5 (1024)
+- /SM590000 Quantum Safe protected key support for CCA
+
+Host Firmware and CCA now employ a hybrid scheme combining ECDH and Kyber to accomplish a quantum safe transport key exchange for protected key import.
+
+CCA 8.0
+
+The following CCA 8.0 improvements were made:
+

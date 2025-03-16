@@ -1,0 +1,10 @@
+ around the world. He is the author of several IBM publications.
+
+Bill White is an IBM Redbooks Project Leader and Senior Networking and Connectivity Specialist at IBM Redbooks, Poughkeepsie Center.
+
+Ewerson Palacio is an IBM Redbooks Project Leader. He holds Bachelor's degree in Math and Computer Science. Ewerson worked for IBM Brazil for over 40 years and retired in 2017 as an IBM Distinguished Engineer. Ewerson co-authored many IBM Z Redbooks, and created and presented ITSO seminars around the globe.
+
+Authors
+
+John Troy is an IBM Z and storage hardware National Top Gun in the northeast area of the US. He has over 40 years of experience in the service field. His areas of expertise include IBM Z servers and high-end storage systems technical and customer support and services. John has also been an IBM Z hardware technical support course designer, developer, and instructor for the last eight generations of IBM high-end servers.
+

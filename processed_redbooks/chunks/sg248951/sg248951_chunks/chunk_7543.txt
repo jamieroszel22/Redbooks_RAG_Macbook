@@ -1,0 +1,8 @@
+90000 Fibre Channel Framing and Signaling standard (FC-FS)
+- /SM590000 Fibre Channel Switch Fabric and Switch Control Requirements (FC-SW)
+- /SM590000 Fibre Channel Single-Byte-4 (FC-SB-4) standards
+
+For example, the zHPF channel programs can be used by the z/OS OLTP I/O workloads, Db2, VSAM, the partitioned data set extended (PDSE), and the z/OS file system (zFS).
+
+At the zHPF announcement, zHPF supported the transfer of small blocks of fixed size data (4 K) from a single track. This capability was extended, first to 64 KB, and then to multi-track operations. The 64 KB data transfer limit on multi-track operations was removed by z196. This improvement allows the channel to fully use the bandwidth of FICON channels, which results in higher throughputs and lower response times.
+

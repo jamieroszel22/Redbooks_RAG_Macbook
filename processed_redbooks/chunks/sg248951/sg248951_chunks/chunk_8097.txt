@@ -1,0 +1,11 @@
+z16 instructions:
+
+- /SM590000 High-performance math libraries
+- /SM590000 MASS
+- /SM590000 Replace Atlas with OpenBLAS
+- /SM590000 Metal C for modernizing HLASM applications and systems programming
+
+To enable the use of new functions, specify ARCH(14) and VECTOR for compilation. The binaries that are produced by the compiler on IBM z16 can be run only on IBM z16 and above because it uses the vector facility on IBM z16 for new functions. The use of older versions of the compiler on IBM z16 does not enable new functions.
+
+z/OS V2R4 can use the latest level (14) of the following C/C++ compiler options:
+

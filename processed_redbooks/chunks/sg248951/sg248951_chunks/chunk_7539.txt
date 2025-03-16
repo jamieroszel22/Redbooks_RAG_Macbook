@@ -1,0 +1,8 @@
+ to position your SAN for even higher performance, which helps you to prepare for an end-to-end 16 Gbps infrastructure to meet the lower latency and increased bandwidth demands of your applications.
+
+The new FICON Express16S+ channel works with your fiber optic cabling environment (single mode and multimode optical cables). The FICON Express16S+ feature running at end-to-end 16 Gbps link speeds provides reduced latency for large read/write operations and increased bandwidth compared to the FICON Express8S feature.
+
+The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+Extended distance FICON
+

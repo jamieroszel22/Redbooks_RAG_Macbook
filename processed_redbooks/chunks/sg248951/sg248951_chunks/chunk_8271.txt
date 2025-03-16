@@ -1,0 +1,8 @@
+e control over the temporary offerings. The activation and deactivation can be driven manually or under the control of an application through a documented application programming interface (API) 3 .
+
+By using the API approach, you can customize at activation time the resources that are necessary to respond to the current situation up to the maximum that is specified in the order record. If the situation changes, you can add or remove resources without having to return to the base configuration. This process eliminates the need for temporary upgrade specifications for all possible scenarios.
+
+For a CPE record, only the ordered configuration can be activated.
+
+This approach also enables you to update and replenish temporary upgrades, even in situations where the upgrades are active. Likewise, depending on the configuration, permanent upgrades can be performed while temporary upgrades are active. Examples of the activation sequence of multiple temporary upgrades are shown in Figure 8-2.
+

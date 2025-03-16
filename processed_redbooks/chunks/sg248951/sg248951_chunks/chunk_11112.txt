@@ -1,0 +1,10 @@
+ta instantly.
+
+AI accelerator delivers AI inference in real time, at large scale and rate, with no transaction left behind without the need to offload data off the IBM Z for performing AI inference.
+
+The AI capability is applied directly into the running transaction, shifting the traditional paradigm of applying AI to the transactions that were completed. This innovative technology can be used for intelligent IT workloads placement algorithms, which contributes to the better overall system performance. The co-processor is driven by the new Neural Networks Processing Assist (NNPA) instruction.
+
+NNPA and IBM z16 Hardware
+
+NNPA is a new nonprivileged Complex Instruction Set Computer (CISC) memory-to-memory instruction that operates on tensor objects that are in user programs' memory. AI functions and macros are abstracted by NNPA.
+

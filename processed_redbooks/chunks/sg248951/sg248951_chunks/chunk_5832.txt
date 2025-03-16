@@ -1,0 +1,10 @@
+at manner means that the LPAR is defined in LCSS1, with the MIF image ID A.
+
+5.2  I/O configuration management
+
+The following tools are available to help maintain and optimize the I/O configuration:
+
+- /SM590000 IBM Configurator for e-business (eConfig)
+- The eConfig tool is used by your IBM representative. It is used to create configurations or upgrades of a configuration, and maintains tracking to the installed features of those configurations. eConfig produces reports that help you understand the changes that are being made for a new system, or a system upgrade, and what the target configuration looks like.
+- /SM590000 Hardware configuration definition (HCD)
+

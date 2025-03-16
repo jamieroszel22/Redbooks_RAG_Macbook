@@ -1,0 +1,16 @@
+of effective throughput up to the limit of 16 ICF processors.
+
+- /SM590000 Request latency/performance improvements
+
+CFCC and coupling link firmware and hardware improvements to reduce link latency.
+
+- /SM590000 Elimination of VSAM RLS orphaned cast-out lock problems and improved VSAM RLS Structure Full recovery processing.
+
+Addresses reoccurring problems that are encountered by installations running VSAM RLS data sharing.
+
+Retry Buffer support that is used on list and lock commands is extended to nonidempotent cache commands and optimized lock commands.
+
+The new support also allows connectors to lock structures to specify a percentage of record data entries to be reserved. These reserved entries are off limits to normal requests to the coupling facility and can be used only if a new keyword is used on lock requests that generate record data entries.
+
+- /SM590000 Cache residency time metrics
+

@@ -1,0 +1,12 @@
+ hardware implementation.
+
+No option is available for VFM plan ahead. The only option is to always include VFM plan ahead when Flexible Memory option is selected.
+
+3.11  IBM Secure Service Container
+
+Client applications are subject to several security risks in a production environment. These risks might include external risks (cyber hacker attacks) or internal risks (malicious software, system administrators that use their privileged rights for unauthorized access and many others).
+
+The IBM Secure Service Container (SSC) is a container technology through which you can more quickly and securely deploy software appliances on IBM z16.
+
+An IBM SSC partition is a specialized container for installing and running specific appliances. An appliance is an integration of operating system, middleware, and software components that work autonomously and provide core services and infrastructures that focus on usability and security.
+

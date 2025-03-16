@@ -1,0 +1,6 @@
+model. On z16 there are no specific rules to place them. Any 'unassigned PU' in any drawer can be assigned as spare. For additional information about spare PUs use, refer to 3.5.10, 'Sparing rules'.
+
+These rules are intended to isolate processors that are used by different operating systems as much as possible on different CPC drawers and even on different PU chips. This configuration ensures that different operating systems do not use the same shared caches. For example, CPs and zIIPs are all used by z/OS, and can benefit by using the same shared caches. However, IFLs are used by z/VM and Linux, and ICFs are used by CFCC.
+
+This initial PU assignment, which is done at POR, can be dynamically rearranged by an LPAR by swapping an active core to a core in a different PU chip in a different CPC drawer to improve system performance. For more information, see 'LPAR dynamic PU reassignment' on page 122.
+

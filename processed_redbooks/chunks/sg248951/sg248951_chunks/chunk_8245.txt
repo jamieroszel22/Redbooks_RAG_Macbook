@@ -1,0 +1,20 @@
+hich can be used for short-term capacity requirements and are pre-paid or post-paid.
+
+The two replacement capacity offerings available are Capacity Backup (CBU) and Capacity for Planned Event (CPE).
+
+Note: CPE is available only when carried forward to IBM z16.
+
+System Recovery Boost zIIP capacity is a pre-paid offering that is available on IBM z15 T01 and IBM z16 A01. It is intended to provide temporary zIIP capacity to be used to boost CPU performance for boost events. For more information, see Introducing IBM X System Recovery Boost , REDP-5563.
+
+Flexible Capacity for Cyber Resiliency is new type of temporary record that is introduced with IBM z16. This record holds the Flexible Capacity Entitlements for IBM z16 machines across two or more sites.
+
+8.2.2  CoD for IBM z16 systems-related terminology
+
+The most frequently used terms that are related to CoD for IBM z16 systems are listed in Table 8-1.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

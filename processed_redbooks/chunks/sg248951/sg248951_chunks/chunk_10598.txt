@@ -1,0 +1,20 @@
+he RSA authentication server. This authentication is supported on HMC only, not on the SE.
+
+The following support was added with IBM z16 Driver 51/Version 2.16.0:
+
+- /SM590000 Enhanced MFA functions
+
+MFA by way of Time-based One-time Password (TOTP) or IBM Z MFA (z/OS) and RSA Secure ID is possible on the HMC.
+
+New with Driver 51/Version 2.16.0 the following further MFA possibilities are supported:
+
+- -Certificates:
+- GLYPH&lt;129&gt; Personal Identity Verification (PIV)
+- GLYPH&lt;129&gt; Common Access Card (CAC)
+- GLYPH&lt;129&gt; Certificates on USB keys
+- -Generic Remote Authentication Dia-In User Service (RADIUS) allows for support of all various RADIUS factor types. Involves customer provided RADIUS server.
+
+Also, Driver 51/Version 2.16.0 provides support of IBM Z MFA for Red Hat Enterprise Linux Server or SUSE Linux Enterprise Server that is running on z/VM or native in an LPAR.
+
+10.4  Remote Support Facility
+

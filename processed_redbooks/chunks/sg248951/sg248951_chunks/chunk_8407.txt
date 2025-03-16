@@ -1,0 +1,8 @@
+eature to remove a processor drawer and add DIMM memory cards. It also can be used to upgrade the installed memory cards to a larger capacity size. You can then use LICCC to enable the extra memory.
+
+With suitable planning, memory can be added nondisruptively to z/OS partitions and z/VM partitions. If necessary, new LPARs can be created nondisruptively to use the newly added memory.
+
+Concurrency: Upgrades that require DIMM changes can be concurrent by using the EDA feature. Planning is required to see whether this option is a viable for your configuration. The use of the flexible memory option ensures that EDA can work with the least disruption.
+
+The one-processor drawer feature Max39 requires a minimum of 1024 GB addressable memory. The client addressable storage in this case is 512 GB. Memory can be upgraded up to 10 TB of memory (9984 GB client addressable). An upgrade changes the DIMM sizes and adding DIMMs in all available slots in the processor drawer.
+

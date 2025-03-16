@@ -1,0 +1,5 @@
+
+- /SM590000 By using an SE function that is called Logical Processor add, which is under Operational Customization tasks, CPs and zIIPs can be added concurrently to a running partition. The CP and zIIP and initial or reserved number of processors can be changed dynamically.
+- /SM590000 The operating system that runs in the targeted LPAR must support the dynamic addition of resources and to configure processors online. The total number of defined and reserved CPs cannot exceed the number of CPs that are supported by the operating system.
+- z/OS V2.R5, V2.R4, and V2.R3 support 200 PUs per z/OS LPAR in non-SMT mode and 128 PUs per z/OS LPAR in SMT mode. For both, the PU total is the sum of CPs and zIIPs . z/VM supports up to 64 processors.
+- /SM590000 Configure reserved storage to LPARs.

@@ -1,0 +1,14 @@
+uted to the Primary SE of the IBM z16. The SE then issues those commands to their CPC.
+
+Note: The new Driver level for HMC and SE for IBM z16 is Driver 51. Driver 51 is equivalent to Version 2.16.0.
+
+With HMC and SE Driver 41/Version 2.15.0, several 'traditional' SE-only functions were moved to HMC tasks. On HMC and SE Driver 41/Version 2.15.0 and Driver 51/Version 2.16.0, these functions appear as native HMC tasks, but run on the SE. These HMC functions run in parallel with Single Object Operations (SOOs), which simplifies and streamlines system management.
+
+For more information about SOOs, see 'Single Object Operations' on page 435.
+
+For more information about the HMC, see the IBM Z Hardware Management Console Videos.
+
+Note: HMC 2.16.0 supports managing IBM z14, IBM z15, and IBM z15 IBM Z server generations (N-2),
+
+10.2  HMC and SE changes and new features
+

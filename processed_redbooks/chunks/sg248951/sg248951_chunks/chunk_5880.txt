@@ -1,0 +1,12 @@
+ey, so the key must be kept secret. Therefore, the secure management of keys is the primal task of modern cryptographic systems.
+
+Adhering to Kerckhoffs' Principle is done for the following reasons:
+
+- /SM590000 It is much more difficult to keep an algorithm secret than a key.
+- /SM590000 It is harder to exchange a compromised algorithm than to exchange a compromised key.
+- /SM590000 Secret algorithms can be reconstructed by reverse engineering software or hardware implementations.
+- /SM590000 Errors in public algorithms can generally be found more easily, when many experts examine it.
+- /SM590000 In history, most secret encryption methods proved to be weak and inadequate.
+- /SM590000 When a secret encryption method is used, it is possible that a back door was built in.
+- /SM590000 If an algorithm is public, many experts can form an opinion about it. Also, the method can be more thoroughly investigated for potential weaknesses and vulnerabilities.
+

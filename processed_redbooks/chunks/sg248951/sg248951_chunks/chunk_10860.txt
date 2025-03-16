@@ -1,0 +1,16 @@
+ajor factors:
+
+- /SM590000 Instruction path length
+- /SM590000 Instruction complexity
+- /SM590000 Memory hierarchy and memory nest
+
+These factors are described next.
+
+12.3.1  Instruction path length
+
+A transaction or job runs a set of instructions to complete its task. These instructions are composed of various paths through the operating system, subsystems, and application. The total count of instructions that are run across these software components is referred to as the transaction or job path length .
+
+The path length varies for each transaction or job, and depends on the complexity of the tasks that must be run. For a specific transaction or job, the application path length tends to stay the same, assuming that the transaction or job is asked to run the same task each time.
+
+However, the path length that is associated with the operating system or subsystem can vary based on the following factors:
+

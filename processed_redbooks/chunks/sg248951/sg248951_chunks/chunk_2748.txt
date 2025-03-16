@@ -1,0 +1,20 @@
+etween the memory of a partition and the processors of the partition.
+
+For more information about HiperDispatch, see 3.7, 'Logical partitioning' on page 117.
+
+3.3.2  CPC drawer interconnect topology
+
+CPC drawers are interconnected in a point-to-point topology that allows a CPC drawer to communicate with every CPC drawer. Data transfer does not always have to go through another CPC drawer to address the requested data or control information.
+
+The IBM z16 A01 inter-CPC drawer communication structure is shown in Figure 3-6.
+
+<!-- missing-text -->
+
+A simplified topology of a four-CPC drawer system is shown in Figure 3-7.
+
+<!-- missing-text -->
+
+Inter-CPC drawer communication occurs at the Level 4 virtual cache level, which is implemented on the semi-private part of one of the Level 2 caches in a chip module. The Level 4 cache function regulates coherent drawer-to-drawer traffic.
+
+3.4  Processor unit design
+

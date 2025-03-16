@@ -1,0 +1,4 @@
+, and up to 48 memory DIMMs.
+
+Depending on the feature, the IBM z16 A01 contains the following CPC components:
+

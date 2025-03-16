@@ -1,0 +1,6 @@
+
+- /SM590000 Asynchronous cross-invalidate (XI) of CF cache structures. Requires PTF support for z/OS and explicit data manager support (Db2 V12 with PTFs). Consider the following points:
+- -Instead of performing XI signals synchronously on every cache update request that causes them, data managers can 'opt in' for the CF to perform these XIs asynchronously (and then sync them up with the CF at or before transaction completion). Data integrity is maintained if all XI signals complete by the time transaction locks are released.
+- -Results in faster completion of cache update CF requests, especially with cross-site distance involved.
+- -Provides improved cache structure service times and coupling efficiency.
+- /SM590000 Coupling Facility hang detect enhancements provide a significant reduction in failure scope and client disruption (CF-level to structure-level), with no loss of FFDC collection capability:

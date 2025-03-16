@@ -1,0 +1,10 @@
+e yellow bars hold a measured million of service units (MSU) value. If the total MSU use of the yellow bars is 250 MSU, the customer receives an invoice of 250 times the hourly usage charge per MSU.
+
+Also, the right column in Figure D-3 represents one calendar day, where 18 spikes above the Base capacity are measured. The spike that is counted for invoicing is the red bar (the highest within the calendar day). The red bar is considered because it was measured that the TFP-Hardware corridor was used for more than 4 hours during the calendar day.
+
+The red bar also holds a measured MSU value for that calendar day. If the total MSU use of the red bar is 100 MSU, the customer receives an invoice of 100 times the daily usage charge per MSU.
+
+Efficiency benefits of TFP-Hardware
+
+Even if no use measured, the following benefits are realized resulting from having the extra capacity activated:
+

@@ -1,0 +1,8 @@
+docling
+requests
+python-dotenv
+ollama
+numpy
+langchain
+langchain-community
+sentence-transformers

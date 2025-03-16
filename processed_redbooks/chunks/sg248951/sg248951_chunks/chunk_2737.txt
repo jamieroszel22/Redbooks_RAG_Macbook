@@ -1,0 +1,8 @@
+s (MCUs) for a Max200 feature (one MCU per PU chip, and up to six MCUs populated per CPC drawer). The MCU configuration uses eight channels Reed-Solomon redundant array of independent memory (RAIM).
+
+The RAIM design is new compared to the IBM z15 T01, moving from a 4+1 DIMM structure that is based on 5-channel RAIM design on IBM z15 to an 8-channel R-S RAIM design on the IBM z16. The new memory architecture provides approximately 15% DRAM reduction for a similar RAS, but a higher memory bandwidth at drawer level.
+
+The DIMM sizes (32, 64, 128, or 256 GB) include RAIM overhead. An IBM z16 CPC drawer can have up to 48 memory DDR4 DIMMs (populated with 32, 40, or 48 DIMMs).
+
+The IBM z16 microprocessor chip (called IBM Telum) integrates a new cache hierarchy design with only two levels of physical cache (L1 and L2). The cache hierarchy (L1, L2) is implemented with dense static random access memory (SRAM).
+

@@ -1,0 +1,14 @@
+must be one specification per CPC that is part of the CPD and are specified in MSUs.
+
+The maximum provisioning scope is the maximum extra capacity that can be activated for all the rules in the CPD.
+
+In the specified time interval, the provisioning rule is that up to the defined extra capacity can be activated if the specified workload is behind its objective.
+
+The rules and conditions are named and stored in the Capacity Provisioning Policy.
+
+For more information about z/OS Capacity Provisioning functions, see z/OS MVS Capacity Provisioning User's Guide , SC34-2661.
+
+Planning considerations for using automatic provisioning
+
+Although only one On/Off CoD offering can be active at any one time, several On/Off CoD offerings can be present on the system. Changing from one offering to another requires stopping the active offering before the inactive one can be activated. This operation decreases the current capacity during the change.
+

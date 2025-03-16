@@ -1,0 +1,14 @@
+ capabilities, which are vital to any digital transformation. The IBM z16 is designed for enhanced modularity, which is in an industry standard footprint.
+
+This system excels at the following tasks:
+
+- /SM590000 Providing AI inference with Integrated Accelerator for Artificial Intelligence
+- /SM590000 Making use of multicloud integration services
+- /SM590000 Securing data with pervasive encryption
+- /SM590000 Accelerating digital transformation with agile service delivery
+- /SM590000 Transforming a transactional platform into a data powerhouse
+- /SM590000 Getting more out of the platform with IT Operational Analytics
+- /SM590000 Accelerating digital transformation with agile service delivery
+- /SM590000 Revolutionizing business processes
+- /SM590000 Blending open source and IBM Z technologies
+

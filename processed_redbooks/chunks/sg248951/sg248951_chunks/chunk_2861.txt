@@ -1,0 +1,10 @@
+le only if the CPE feature code was carried forward from a previous IBM z14 or IBM z15 machine)
+- /SM590000 System Recovery Boost upgrades
+- /SM590000 Flexible Capacity for Cyber Resilience upgrades
+
+If the PU chips in the installed CPC drawers have no available remaining PUs, an upgrade results in a feature upgrade and the installation of an extra CPC drawer. Field add (MES) of a CPC drawer is possible for IBM z16 Model A01 features Max39 and Max82 only. These features can be upgraded to a Max125 provided initial order for the CPC Reserve features FC 2981 or FC 2982. CPC drawer installation is nondisruptive, but takes more time than a simple LIC upgrade. Features Max68 and Max200 are factory build only.
+
+For more information about Capacity on Demand, see Chapter 8, 'System upgrades' on page 327.
+
+PU sparing
+

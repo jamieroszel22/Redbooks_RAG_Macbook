@@ -1,0 +1,8 @@
+d is available. Up to 12 PCIe fan-out cards per CPC drawer are available for IBM z16 servers. An IBM z16 Model A01 feature Max168 and Max200 hold four CPC drawers and can have 48 PCIe fan out slots.
+
+Internal I/O paths from the CPC drawer fan-out ports to a PCIe drawer or an I/O drawer are spread across multiple CPC drawers (for feature Max71, Max108, Max145, and Max190) and across different nodes within a single CPC drawer Feature Max34. During an outage, a fan-out card that is used for I/O can be repaired concurrently while redundant I/O interconnect ensures that no I/O connectivity is lost.
+
+- /SM590000 Redundant I/O interconnect
+
+Redundant I/O interconnect helps maintain critical connections to devices. IBM z16 A01 allows a single drawer in a multi-drawer system to be removed and reinstalled concurrently during an upgrade or repair. Connectivity to the system I/O resources is maintained through a second path from a different drawer.
+

@@ -1,0 +1,3 @@
+0 VFPE
+- A method of encryption in which the resulting cipher text features the same form as the input clear text, which is developed for use with credit cards.
+

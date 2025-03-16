@@ -1,0 +1,14 @@
+a CPC drawer is removed. ICA SR1.1 (and ICA SR) can also be installed for coupling and timing links redundancy.
+
+2.7.1  Redundant I/O interconnect
+
+Redundancy is provided for PCIe I/O interconnects.
+
+The PCIe+ I/O drawer supports up to 16 PCIe features, which are organized in two hardware domains (for each drawer). The infrastructure for the fan-out to I/O drawers and external coupling is shown in Figure 2-23.
+
+<!-- missing-text -->
+
+The PCIe+ Gen3 fan-out cards are used to provide the connection from the PU DCM PCIe Bridge Unit (PBU), which uses split the PCIe Gen4 (@32GBps) processor busses into two PCIe Gen3 x16 (@16 GBps) interfaces to the PCIe switch card in the PCIe+ I/O drawer.
+
+The PCIe switch card spreads the x16 PCIe bus to the PCIe I/O slots in the domain.
+

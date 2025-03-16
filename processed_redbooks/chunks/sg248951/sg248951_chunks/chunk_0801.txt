@@ -1,0 +1,19 @@
+our requirements.
+
+Naming: The IBM z16 Model A01, Machine Type (M/T) 3931, is further identified in this document as IBM z16, unless otherwise specified.
+
+This chapter includes the following topics:
+
+- /SM590000 2.1, 'Frames and configurations' on page 16
+- /SM590000 2.2, 'CPC drawer' on page 22
+- /SM590000 2.3, 'Dual chip modules' on page 30
+- /SM590000 2.4, 'PCIe+ I/O drawer' on page 34
+- /SM590000 2.5, 'Memory' on page 37
+- /SM590000 2.6, 'Reliability, availability, and serviceability' on page 48
+- /SM590000 2.7, 'Connectivity' on page 51
+- /SM590000 2.8, 'Model configurations' on page 55
+- /SM590000 2.9, 'Power and cooling' on page 59
+- /SM590000 2.10, 'Summary' on page 66
+
+2.1  Frames and configurations
+

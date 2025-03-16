@@ -1,0 +1,6 @@
+ink, select how many tokens of each type to create for an offering record. Each engine type must include tokens for that engine type to be activated. Capacity that has no tokens cannot be activated.
+
+When resources from an On/Off CoD offering record that contains capacity tokens are activated, a billing window is started. A billing window is always 24 hours. Billing occurs at the end of each billing window.
+
+The resources that are billed are the highest resource use inside each billing window for each capacity type. An activation period is one or more complete billing windows. The activation period is the time from the first activation of resources in a record until the end of the billing window in which the last resource in a record is deactivated.
+

@@ -1,0 +1,11 @@
+xtended to provide the user interface for managing the Coordinated Timing Network (CTN).
+
+Consider the following points:
+
+- /SM590000 IBM Z CPCs rely on STP for time synchronization, and continue to provide support of a pulse per second (PPS) port. Consider the following points:
+- -STP can be configured to use Precision Time Protocol (PTP, IEEE 1588) as external time source. Current implementation requires that the support element is connected to a PTP-capable network infrastructure and can access a PTP server.
+- -An STP that uses Network Time Protocol (NTP) or PTP as ETS server with PPS maintains an accuracy of 10 ms.
+- -An STP that uses ETS without PPS maintains accuracy of 100 ms.
+- /SM590000 The IBM z16 cannot be in the same CTN with z13, z12s, or earlier systems and cannot become member of a mixed CTN.
+- /SM590000 The Primary Time Server and the Backup Time Server must be IBM z16 to use the failover mechanism that is triggered by the n-mode STP Imminent Disruption Signal option.
+

@@ -1,0 +1,15 @@
+ compiler to tune for any IBM z16 micro-architecture.
+
+Vector programming support is extended for IBM z16 to provide access to the new instructions that were introduced by the VEF 2 7 specification.
+
+Older levels of z/OS XL C/C++ compilers do not provide IBM z16 exploitation; however, the z/OS V2R5 XL C/C++ compiler can be used to generate code for the older levels of z/OS running on IBM z16.
+
+The followings compilers include built-in functions for SIMD:
+
+- /SM590000 IBM Java
+- /SM590000 XL C/C++
+- /SM590000 Enterprise COBOL
+- /SM590000 Enterprise PL/I
+
+Code must be developed to use the SIMD functions. Applications with SIMD instructions abend if they run on a lower hardware level system that do not support SIMD. Some mathematical function replacement can be done without code changes by including the scalar MASS library before the standard math library.
+

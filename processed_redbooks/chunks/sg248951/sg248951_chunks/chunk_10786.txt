@@ -1,0 +1,5 @@
+er of a mixed CTN.
+- /SM590000 The Primary Time Server and the Backup Time Server must be IBM z16 to use the failover mechanism that is triggered by the n-mode STP Imminent Disruption Signal option.
+
+An STP-only CTN can be managed by using different HMCs. However, the HMC must be at the same driver level (or later) than any SE that is to be managed. Also, all SEs to be managed must be known (defined) to that HMC.In a STP-only CTN, the HMC can be used to perform the following tasks:
+

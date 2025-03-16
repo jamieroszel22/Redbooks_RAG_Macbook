@@ -1,0 +1,14 @@
+/O cabling and power cords can exit the frame. The plates should be removed to install the Top Exit cabling feature as shown in Figure 11-5.
+
+<!-- missing-text -->
+
+11.4.3  Top or bottom exit cables
+
+Features allow for Top Exit Cabling (FC 7917) or Bottom Exit Cabling (FC 7919) cabling, or a combination of both. These features are independent of raised floor or nonraised floor installations and offer flexible possibilities for the data center.
+
+All external cabling enters the rear of the rack from under floor or from above the rack. Different from previous IBM Z, no cabling access or cable plugging is available at the front of the rack. The top view of the rack with and without FC 7917 is shown in Figure 11-6.
+
+<!-- missing-text -->
+
+The Top Exit Cabling feature provides new hardware. The new hardware resembles a rectangular box with an open side that faces the front or rear of the rack. It includes other hardware to organize and fasten cables.
+

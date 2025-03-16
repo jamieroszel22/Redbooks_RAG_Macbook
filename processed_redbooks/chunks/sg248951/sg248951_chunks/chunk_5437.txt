@@ -1,0 +1,11 @@
+an be installed is 16; that is, any combination of 25 GbE RoCE Express3, 25 GbE RoCE Express2.1, 25 GbE RoCE Express2, 10 GbE RoCE Express3, 10 GbE RoCE Express2.1, and 10 GbE RoCE Express2 features.
+- /SM590000 The 25 GbE RoCE Express feature should not be configured in the same SMC-R link group with 10 GbE RoCE Express features.
+
+4.3  PCIe+ I/O drawer
+
+The PCIe+ I/O drawers (see Figure 4-1) are attached to the CPC drawer through a PCIe cable and use PCIe Gen3 as the infrastructure bus within the drawer. The PCIe Gen3 I/O bus infrastructure data rate is up to 16 GBps.
+
+<!-- missing-text -->
+
+PCIe switch application-specific integrated circuits (ASICs) are used to fan out the host bus from the CPC drawer through the PCIe+ I/O drawer to the individual I/O features. Maximum 16 PCIe I/O features (up to 32 channels) per PCIe+ I/O drawer are supported.
+

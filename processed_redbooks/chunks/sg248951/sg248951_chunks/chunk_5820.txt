@@ -1,0 +1,12 @@
+bers of subchannels that are supported by the subchannel set. Therefore, a subchannel number is always unique within a subchannel set of a channel subsystem and depends on the sequence of assigning.
+
+With the subchannel numbers, a program that is running on an LPAR (for example, an operating system) can specify all I/O functions relative to a specific I/O device by designating a subchannel that is assigned to the I/O devices.
+
+Normally, subchannel numbers are used only in communication between the programs and the channel subsystem.
+
+Subchannel set identifier
+
+While introducing the MSS, the channel subsystem is extended to assign a value 0 - 3 for each subchannel set, which is the SSID. A subchannel can be identified by its SSID and subchannel number.
+
+Device number
+

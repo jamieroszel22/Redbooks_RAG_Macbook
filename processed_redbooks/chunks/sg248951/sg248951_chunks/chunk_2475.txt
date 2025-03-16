@@ -1,0 +1,12 @@
+Ie+ I/O drawers are air cooled by redundant fans. Airflow of the system is directed from front (cool air) to the back of the system (hot air).
+
+Radiator-cooled (air-cooled) models (FC 4040, FC 4041)
+
+The IBM z16 A01 PU DCMs in the CPC drawers are cooled by closed loop water. The internal closed water loop removes heat from PU DCMs by circulating water between the radiator heat exchanger and the cold plate that is mounted on the PU DCMs.
+
+For more information, see 2.9.5, 'Radiator Cooling Unit' on page 64.
+
+Although the PU DCMs are cooled by water, the heat is exhausted into the room from the radiator heat exchanger by forced air with blowers. At the system level, these IBM z16 A01 are still air-cooled systems.
+
+2.9.5  Radiator Cooling Unit
+

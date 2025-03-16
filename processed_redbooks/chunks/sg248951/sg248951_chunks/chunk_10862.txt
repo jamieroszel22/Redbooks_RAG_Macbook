@@ -1,0 +1,17 @@
+y are run interacts with the design of a microprocessor to affect a performance component. This factor is defined as instruction complexity . The following design alternatives affect this component:
+
+- /SM590000 Cycle time (GHz)
+- /SM590000 Instruction architecture
+- /SM590000 Pipeline
+- /SM590000 Superscalar
+- /SM590000 Out-of-order execution
+- /SM590000 Branch prediction
+- /SM590000 Translation Look-aside Buffer (TLB)
+- /SM590000 Transactional Execution (TX)
+- /SM590000 Single instruction multiple data instruction set (SIMD)
+- /SM590000 Simultaneous multi-threading (SMT) 5
+
+As workloads are moved between microprocessors with various designs, performance varies. However, when on a processor, this component tends to be similar across all models of that processor.
+
+12.3.3  Memory hierarchy and memory nest
+

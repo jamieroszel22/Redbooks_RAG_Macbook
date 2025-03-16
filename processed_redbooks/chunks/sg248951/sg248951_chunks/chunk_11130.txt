@@ -1,0 +1,20 @@
+ /SM590000 IBM customers can obtain zBNA and other CPS tools at the IBM Z Batch Network Analyzer (zBNA) Tool web page of the IBM Techdoc Library website.
+
+Compression acceleration and Linux on IBM Z
+
+The zEDC I/O adapter use is limited in many Linux on IBM Z environments because SR-IOV does not provide a high degree of virtualization; therefore, the user must pick and choose which guests are granted access to the accelerator.
+
+The IBM z16 On-Chip Compression accelerator solves these virtualization limitations because the function is no longer an I/O device and is available as a problem state instruction to all Linux on IBM Z guests without constraints.
+
+This feature enables pervasive usage in highly virtualized environments.
+
+IBM z16 On-Chip Compression is available to open source applications by way of zlib.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix D.
+
+Tailored Fit Pricing and IBM Z Flexible Capacity for Cyber Resiliency
+

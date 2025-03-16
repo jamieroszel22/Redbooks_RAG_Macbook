@@ -1,0 +1,15 @@
+ six MCUs populated)
+- /SM590000 Host-side Memory Encryption
+
+Encryption occurs post-RAIM encoding, decryption pre-RAIM decoding (support unique key per memory channel)
+
+2.5.3  Memory configurations
+
+Memory sizes in each CPC drawer do not have to be similar. RAIM is now built into the bank of eight DIMMs (included in the reported memory; no longer be part of the RAIM memory equation). Consider the following points:
+
+- /SM590000 A total of 14 configurations that support memory is available per drawer (numbered 22 - 35.
+- /SM590000 Different CPC drawers can contain different amounts of memory.
+- /SM590000 A drawer can have a mix of DIMM sizes (see Table 2-8).
+- /SM590000 Total memory includes HSA. Customer memory is remaining memory that is available to customer after HSA is subtracted.
+- /SM590000 Each drawer contains minimum 1024 GB of memory.
+

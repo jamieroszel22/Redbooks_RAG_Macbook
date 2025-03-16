@@ -1,0 +1,4 @@
+o a protected key token (protected by the system wrapping key). This support allows for faster AES encryption speeds when variable-length tokens are used while maintaining strong levels of security.
+
+The Crypto Express8S feature does not include external ports and does not use optical fiber or other cables. It does not use channel path identifiers (CHPIDs), but requires one slot in the PCIe I/O drawer and one physical channel ID (PCHID) for each PCIe cryptographic adapter. Removal of the feature or adapter zeroizes its content. Access to the PCIe cryptographic adapter is controlled through the setup in the image profiles on the SE.
+

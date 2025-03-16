@@ -1,0 +1,10 @@
+nfrastructure data rate of up to 128 GBps 1  per system (12 PCIe+ Gen3 fan-out slots).
+
+For more information about coupling link connectivity, see 4.6.4, 'Parallel Sysplex connectivity' on page 187.
+
+- /SM590000 Connectivity options:
+- -IBM z16 servers can be connected to an extensive range of interfaces, such as FICON/FCP for SAN connectivity, OSA features for LAN connectivity, and zHyperLink Express for storage connectivity (low latency compared to FICON).
+- -For CPC to CPC connections, IBM z16 servers use Integrated Coupling Adapter (ICA SR and ICA SR 1.1) and the Coupling Express2 Long Reach (CE2 LR).
+- The Parallel Sysplex InfiniBand is not supported.
+- -The 25 GbE and 10 GbE RoCE Express3, 25 GbE and 10 GbE RoCE Express2.1, and 25 GbE and 10 GbE RoCE Express2 provide high-speed memory-to-memory data exchange to a remote CPC by using the Shared Memory Communications over RDMA (SMC-R) protocol for TCP (socket-based) communications.
+

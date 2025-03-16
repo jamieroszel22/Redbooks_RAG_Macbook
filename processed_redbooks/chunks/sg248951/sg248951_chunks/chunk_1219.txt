@@ -1,0 +1,14 @@
+transparently, and continues to provide the clock signal to the CPC.
+
+Manage System Time
+
+HMC level 2.16.0 (Driver 51) is required to manage system time for IBM z16 Model A01.
+
+Network Time Protocol
+
+The SEs provide the Simple Network Time Protocol (SNTP) client function. When Server Time Protocol (STP) is used, the time of an STP-only Coordinated Timing Network (CTN) can be synchronized to the time that is provided by a Network Time Protocol (NTP) server. This configuration allows time-of-day (TOD) synchronization in a heterogeneous platform environment and throughout the LPARs running on the CPC.
+
+Precision Time Protocol
+
+For IBM z16 Model A01, Precision Time Protocol (PTP, IEEE 1588) also can be used as an external time source for IBM Z Server Time Protocol (STP) for an IBM Z Coordinated Timing Network (CTN). The initial implementation for PTP connectivity is provided by using the IBM Z Support Element (SE).
+

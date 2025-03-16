@@ -1,0 +1,10 @@
+to pay software license fees that are based on the processor utilization of the LPAR on which the product is running, rather than on the total capacity of the system.
+
+Consider the following points:
+
+- -In support of WLC, the user can specify a defined capacity in millions of service units (MSUs) per hour. The defined capacity sets the capacity of an individual LPAR when soft capping is selected.
+- The defined capacity value is specified on the Options tab in the Customize Image Profiles window.
+- -WLM keeps a four-hour rolling average of the processor usage of the LPAR. When the four-hour average processor consumption exceeds the defined capacity limit, WLM dynamically activates LPAR capping (soft capping). When the rolling four-hour average returns below the defined capacity, the soft cap is removed.
+
+For more information about WLM, see System Programmer's Guide to: Workload Manager , SG24-6472.
+

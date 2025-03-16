@@ -1,0 +1,13 @@
+to Express8S HSM
+- -Can apply data from a pre-Crypto Express8S HSM.
+- /SM590000 New default wrapping method for the Crypto Express8S HSM
+- /SM590000 New AES DUKPT key attribute on AES DKYGENKY parts
+
+Tip: For more information about handling a TKE, see the TKE Introduction video.
+
+6.6.1  Logical partition, TKE host, and TKE target
+
+If one or more LPARs are configured to use Crypto Express coprocessors, the TKE workstation can be used to manage DES, AES, ECC, and PKA master keys. This management can be done for all cryptographic domains of each Crypto Express coprocessor feature that is assigned to the LPARs that are defined to the TKE workstation.
+
+Each LPAR in the same system that uses a domain that is managed through a TKE workstation connection is a TKE host or TKE target. An LPAR with a TCP/IP connection to the TKE is referred to as the TKE host ; all other partitions are TKE targets .
+

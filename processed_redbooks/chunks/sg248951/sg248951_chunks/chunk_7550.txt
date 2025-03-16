@@ -1,0 +1,12 @@
+MIDAW is supported on FICON channels that are configured as CHPID type FC. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+MIDAW technical description
+
+An IDAW is used to specify data addresses for I/O operations in a virtual environment. 10 The IDAW design allows the first IDAW in a list to point to any address within a page. Subsequent IDAWs in the same list must point to the first byte in a page. Also, IDAWs (except the first and last IDAW) in a list must manage complete 2 K or 4 K units of data.
+
+Figure 7-2 shows a single CCW that controls the transfer of data that spans noncontiguous 4 K frames in main storage. When the IDAW flag is set, the data address in the CCW points to a list of words (IDAWs). Each IDAW contains an address that designates a data area within real storage.
+
+<!-- missing-text -->
+
+The number of required IDAWs for a CCW is determined by the following factors:
+

@@ -1,0 +1,12 @@
+4  Relative Nest Intensity
+
+The most performance-sensitive area of the memory hierarchy is the activity to the memory nest. This area is the distribution of activity to the shared caches and memory.
+
+The term Relative Nest Intensity (RNI) indicates the level of activity to this part of the memory hierarchy. By using data from CPU MF, the RNI of the workload that is running in an LPAR can be calculated. The higher the RNI, the deeper into the memory hierarchy the processor must go to retrieve the instructions and data for that workload.
+
+RNI reflects the distribution and latency of sourcing data from shared caches and memory, as shown in Figure 12-3.
+
+<!-- missing-text -->
+
+Many factors influence the performance of a workload. However, these factors often are influencing the RNI of the workload. The interaction of all these factors results in a net RNI for the workload, which in turn directly relates to the performance of the workload.
+

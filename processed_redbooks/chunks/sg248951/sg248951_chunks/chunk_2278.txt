@@ -1,0 +1,6 @@
+orts removal of a CPC drawer with minimal effect on the workload, consider the flexible memory option. Any CPC drawer can be replaced, including the first CPC drawer that initially contains the HSA.
+
+Removal of a CPC drawer also removes the CPC drawer connectivity to the PCIe I/O drawers, and coupling links. The effect of the removal of the CPC drawer on the system is limited by the use of redundant I/O interconnect. (For more information, see 2.7.1, 'Redundant I/O interconnect' on page 52.) However, all ICA SR1.1 links that are installed in the removed CPC drawer must be configured offline.
+
+If the enhanced drawer availability and flexible memory options are not used when a CPC drawer must be replaced, the memory in the failing drawer also is removed. This process might be necessary during an upgrade or a repair action.
+

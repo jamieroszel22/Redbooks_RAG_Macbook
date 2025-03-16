@@ -1,0 +1,13 @@
+f:
+- -39 PUs are configured on the Max39
+- -82 PUs are configured on the Max82
+- -125 PUs are configured on the Max125
+- -168 PUs are configured on the Max168
+- -200 PUs are configured on the Max200
+
+- /SM590000 No special feature codes are required for PU and model configuration.
+- /SM590000 Feature Max39 to Max168 each have 5 SAPs in each drawer. Max200 has in total 24 standard SAPs.
+- /SM590000 The flexible memory option delivers physical memory so that 100% of the purchased memory increment can be activated even when one drawer is fenced.
+
+The system configuration must have sufficient dormant resources on the remaining drawers in the system for the evacuation of the drawer that is to be replaced or upgraded. Dormant resources include the following possibilities:
+

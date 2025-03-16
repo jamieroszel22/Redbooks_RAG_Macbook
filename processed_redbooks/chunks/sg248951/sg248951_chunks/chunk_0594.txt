@@ -1,0 +1,8 @@
+uent errors. It also improves nondisruptive replace, repair, and upgrade functions for memory, drawers, and I/O adapters. IBM z16 supports the nondisruptive download and installation of LIC updates.
+
+IBM z16 RAS features provide unique high-availability and nondisruptive operational capabilities that differentiate IBM Z in the marketplace. IBM z16 RAS enhancements are made on many components of the CPC (processor chip, memory subsystem, I/O, and service) in areas, such as error checking, error protection, failure handling, error checking, faster repair capabilities, sparing, and cooling.
+
+The ability to cluster multiple systems in a Parallel Sysplex takes the commercial strengths of the z/OS platform to higher levels of system management, scalable growth, and continuous availability.
+
+The IBM z16 builds on the RAS of the IBM z15™ family with the following RAS improvements:
+

@@ -1,0 +1,18 @@
+o move CPU capacity between machines across two or more sites. Capacity can be moved between sites a maximum of 12 times per year for a maximum of 12 months per move.
+
+Consider the following points:
+
+- /SM590000 CBU, CPE, and System Recovery Boost Records can be ordered by using the CIU application through Resource Link or by contacting your IBM marketing representative.
+- /SM590000 Flexible Capacity can be ordered by contacting your IBM representative.
+- /SM590000 Temporary upgrade capacity changes might be billable or a replacement.
+
+Billable capacity
+
+To handle a peak workload, you can activate up to double the purchased capacity of any processor unit (PU) type temporarily. You are charged daily.
+
+This billable capacity offering is On/Off CoD.
+
+Replacement capacity
+
+When processing capacity is lost in part of an enterprise, replacement capacity can be activated. It allows you to activate any PU type up to your authorized limit.
+

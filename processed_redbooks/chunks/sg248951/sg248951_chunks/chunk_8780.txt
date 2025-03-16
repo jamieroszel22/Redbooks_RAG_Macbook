@@ -1,0 +1,2 @@
+d setup: The new Flexible Capacity Record is installed and set up on each participating IBM z16 system. Consider the following points:
+

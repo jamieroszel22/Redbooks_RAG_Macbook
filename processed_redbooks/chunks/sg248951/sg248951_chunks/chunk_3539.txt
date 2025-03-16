@@ -1,0 +1,10 @@
+of a Parallel Sysplex as implemented within the z/Architecture are shown in Figure 3-22. The example in Figure 3-22 shows one of many possible Parallel Sysplex configurations.
+
+<!-- missing-text -->
+
+Figure 3-22 shows an IBM z16 model A01system that contains multiple z/OS sysplex partitions. It contains an internal CF, an IBM z15 model T02 system that contains a stand-alone CF, and an IBM z14 model M03 that contains multiple z/OS sysplex partitions.
+
+STP over coupling links provides time synchronization to all systems. Selecting the suitable CF link technology Coupling Express2 Long Reach (CE2 LR) or Integrate Coupling Adapter Short Reach (ICA SR and SR1.1) depends on the system configuration and how distant they are physically.
+
+For more information about link technologies, see 'Coupling links' on page 187.
+

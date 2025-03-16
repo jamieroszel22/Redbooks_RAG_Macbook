@@ -1,0 +1,14 @@
+d logical CPs are also affected similarly.
+
+<!-- missing-text -->
+
+The HiperDispatch window shown in Figure 12-7 on page 488, contains most of the information from the Partition Detail Report, plus:
+
+- /SM590000 Engines by Weight: Partition Weight % times the number of real CPs in the pool
+- /SM590000 VHs: Number of LCPs categorized as Vertical High
+- /SM590000 VMs: Number of LCPs categorized as Vertical Medium.
+- /SM590000 VM %: Percent of time the partition's Vertical Medium LCPs are committed
+- /SM590000 VLs: Number of LCPs categorized as Vertical Low
+- /SM590000 VL Nvr Pk: Number of LCPs categorized as Vertical Low Never Parked
+- /SM590000 VL Nvr Pk%: Percent of time the partition's Vertical Low Never Parked LCPs are committed.
+

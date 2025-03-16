@@ -1,0 +1,4 @@
+ternal Time Source (ETS). Devices with PPS output are available from several vendors that offer network timing solutions.
+
+Consider the following points:
+

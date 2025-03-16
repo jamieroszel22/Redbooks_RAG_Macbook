@@ -1,0 +1,12 @@
+ccelerator required one. Customers can run zDNN under z/OS (in zCX) and Linux on IBM Z.
+
+A Deep Learning Compiler (DLC) for z/OS and for Linux on IBM Z provides the AI functions to the applications.
+
+3.4.7  Decimal floating point accelerator
+
+The decimal floating point (DFP) accelerator function is on each of the microprocessors (cores) on the 8-core chip. Its implementation meets business application requirements for better performance, precision, and function.
+
+Base 10 arithmetic is used for most business and financial computation. Floating point computation that is used for work that is typically done in decimal arithmetic involves frequent data conversions and approximation to represent decimal numbers. This process makes floating point arithmetic complex and error-prone for programmers who use it for applications in which the data is typically decimal.
+
+Hardware DFP computational instructions provide the following features:
+

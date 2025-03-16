@@ -1,0 +1,5 @@
+are defined as CS5 or CL5
+- /SM590000 HiperSockets that are defined as IQD
+
+The following features are plugged into a PCIe+ I/O drawer and do not require the definition of a CHPID and CHPID type:
+

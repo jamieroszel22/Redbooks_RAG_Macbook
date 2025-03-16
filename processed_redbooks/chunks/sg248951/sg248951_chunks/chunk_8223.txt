@@ -1,0 +1,13 @@
+es New Function APARs shipped for z/VM 7.1, such as VSwitch Priority Queuing, EAV Paging, 80 Logical Processors, Dynamic Crypto, and System Recovery Boost support (subcapacity CPs speed boost only).
+
+7.6.3  IBM z/VM 7.1
+
+z/VM 7.1 can be installed directly on IBM z16. z/VM V7R1 and includes the following new features:
+
+- /SM590000 Single System Image and Live Guest Relocation is included in the base. In z/VM 6.4, this feature was the VMSSI-priced feature.
+- /SM590000 Enhances the dump process to reduce the time that is required to create and process dumps.
+- /SM590000 Upgrades to a new Architecture Level Set. This feature requires an IBM zEnterprise EC12 or BC12, or later.
+- /SM590000 Provides the base for more functions to be delivered as service Small Program Enhancements (SPEs) after general availability.
+
+7.6.4  Capacity
+

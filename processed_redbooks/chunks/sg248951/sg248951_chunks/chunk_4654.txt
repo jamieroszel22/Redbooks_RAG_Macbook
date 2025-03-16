@@ -1,0 +1,12 @@
+rs only.
+
+I/O cage, I/O drawer, and PCIe I/O drawer are not supported.
+
+Note: Throughout this chapter, the terms adapter and card refer to a PCIe I/O feature that is installed in a PCIe+ I/O drawer.
+
+4.1.1  IBM z16 I/O infrastructure at a glance
+
+IBM Z I/O is based on industry-standard Peripheral Component Interconnect Express Generation 3 (PCIe Gen3) I/O infrastructure. The PCIe I/O infrastructure that is provided by the central processor complex (CPC) enhances I/O capability and flexibility, while allowing for the future integration of PCIe adapters and features.
+
+The PCIe I/O infrastructure in IBM z16 A01 consists of the following components:
+

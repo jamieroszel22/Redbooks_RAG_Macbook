@@ -1,0 +1,14 @@
+e Top Exit I/O Cabling feature, more options are available when you are planning your computer room cabling.
+- /SM590000 The new PSCN structure uses industry standard Ethernet switches (up to four).
+
+2.9.1  PDU-based configurations
+
+The IBM Z operate with redundant power infrastructure. The IBM z16 A01 is designed with a new power infrastructure that is based on intelligent PDUs that are mounted vertically on the rear side of the 19-inch racks and Power Supply Units for the internal components. The PDU configuration supports radiator-cooled systems only.
+
+The PDUs are controlled by using an Ethernet port and support the following input:
+
+- /SM590000 3-phase 200 - 240 V AC (4-wire 'Delta')
+- /SM590000 3-phase 380 - 415 V AC (5-wire 'Wye')
+
+The power supply units convert the AC power to DC power that is used as input for the Point of Loads (POLs) in the CPC drawer and the PCIe+ I/O drawers.
+

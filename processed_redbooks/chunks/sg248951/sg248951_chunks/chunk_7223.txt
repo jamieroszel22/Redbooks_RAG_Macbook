@@ -1,0 +1,12 @@
+e features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document.
+
+<!-- missing-text -->
+
+- a. PTFs are required for toleration support or use of IBM z16 features and functions.
+- b. CFCC Level 25 with Driver 51 (IBM z16).
+- c. CFCC Level 24 with Driver 41 (IBM z15).
+- d. CFCC Level 23 with Driver 36 (IBM z14).
+- e. With APAR OA60650.
+- f. Requires HMC 2.14.1(Driver 36) or newer and various OS fixes (HCD, HCM, IOS, IOCP)
+- g. Requires 2.3 or higher z/OS partition with APAR OA65559 applied, be running on an IBM z16, and Linux on Z and z/TPF also running on IBM z16. Both z16 CPCs require proper firmware level (Bundle S24 or higher). This configuration continues to support stand-alone CF Dynamic I/O activations.
+

@@ -1,0 +1,7 @@
+VM 7.2 is available since September, 2020. It includes the following features:
+
+- /SM590000 Centralized Service Management for non-SSI environments to deploy service to multiple systems, regardless of geographic location, from a centralized primary location.
+- /SM590000 Multiple Subchannel Set (MSS) for Multi-Target Peer-To-Peer Remote Copy (MT-PPRC) z/VM support in the GDPS environment, supports a primary device and up to three secondary devices, each defined in a separate alternative subchannel set (supporting up to three alternative subchannel sets). Also provides the necessary CP updates for VM/HCD support of alternative subchannel sets.
+- /SM590000 New Architecture Level Set of IBM z13, IBM z13s (LinuxONE Emperor or Rockhopper), or newer processor families.
+- /SM590000 z/VM 7.2 includes New Function APARs shipped for z/VM 7.1, such as VSwitch Priority Queuing, EAV Paging, 80 Logical Processors, Dynamic Crypto, and System Recovery Boost support (subcapacity CPs speed boost only).
+

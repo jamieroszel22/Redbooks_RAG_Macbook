@@ -1,0 +1,8 @@
+that the CFCC is always running (processing or searching for service) and never enters a wait state. Therefore, the CF Control Code uses all the processor capacity that is available for the CF LPAR.
+
+If the LPAR that is running the CFCC includes only dedicated processors (CPs or ICFs), the use of all processor capacity (cycles) is not an issue. However, this configuration can be an issue if the LPAR that is running the CFCC includes shared processors. On IBM z16, Thin Interrupts is the only valid option for shared engines in a CF LPAR (Thin Interrupts is the default option on IBM z15).
+
+Performance consideration: Dedicated processor CF still provides the best CF image performance for production environments.
+
+CF structure sizing changes are expected when moving to CFCC Level 25. Always review the CF structure size by using the CFSizer tool when changing CFCC levels.
+

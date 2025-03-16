@@ -1,0 +1,15 @@
+k support for each IBM Z platform. Restrictions on the maximum numbers can apply, depending on the configuration. Always check with your IBM support team for more information.
+
+<!-- missing-text -->
+
+The maximum number of combined external coupling links (active CE LR, ICA SR links) is 160 per IBM z16 A01 system. IBM z16 systems support up to 384 coupling CHPIDs per CPC. An IBM z16 coupling link support summary is shown in Table 4-10.
+
+Consider the following points:
+
+- /SM590000 The maximum supported links depends on the IBM Z model or capacity feature code.
+- /SM590000 IBM z16 ICA SR maximum depends on the number of CPC drawers. A total of 12 PCIe+ fan-outs are used per CPU drawer, which gives a maximum of 24 ICA SR ports. IBM z16 supports up to 96 ICA SR1.1 and ICA SR ports combined.
+
+For more information about distance support for coupling links, see IBM Z End-to-End Extended Distance Guide , SG24-8047.
+
+Internal Coupling link
+

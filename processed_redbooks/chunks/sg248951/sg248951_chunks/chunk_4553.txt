@@ -1,0 +1,6 @@
+provide disk encryption. SSC encrypts all data with a key that is stored within the appliance.
+- -Protected memory: Up to 16 TB can be defined per IBM SSC LPAR.
+- /SM590000 Encrypted Diagnostic Data
+
+All diagnostic information (debug memory dump data, logs, and so on) are encrypted and do not contain any user or application data.
+

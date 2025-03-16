@@ -1,0 +1,22 @@
+BM Z. At the IBM Resource Link web page, click Tools → Machine Information , select your IBM Z system and then, click EC/MCL .
+
+Microcode terms
+
+The microcode features the following characteristics:
+
+- /SM590000 The driver contains engineering change (EC) streams.
+- /SM590000 Each EC stream covers the code for a specific component of IBM z16. It includes a specific name and an ascending number.
+- /SM590000 The EC stream name and a specific number are one MCL.
+- /SM590000 MCLs from the same EC stream must be installed in sequence.
+- /SM590000 MCLs can include installation dependencies on other MCLs.
+- /SM590000 Combined MCLs from one or more EC streams are in one Bundle.
+- /SM590000 An MCL contains one or more Microcode Fixes (MCFs).
+
+How the driver, bundle, EC stream, MCL, and MCFs interact with each other, is shown in Figure 10-27.
+
+<!-- missing-text -->
+
+MCL Activation
+
+By design and with planning, MCLs can be activated concurrently. Consider the following points:
+

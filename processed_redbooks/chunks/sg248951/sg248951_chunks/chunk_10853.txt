@@ -1,0 +1,22 @@
+butes and design points of IBM z16 contribute to overall performance and throughput improvements as compared to the IBM z15. The following major items contribute to IBM z16 performance improvements:
+
+- /SM590000 IBM z16 microprocessor architecture:
+- -7 nm technology
+- -New Core-Nest Interface
+- -Brand new branch prediction design that is implemented SRAM
+- -Significant architecture changes: COBOL compiler and more
+- -On chip Artificial Intelligence (AI): Deep learning focus for inference
+- -Forth-generation SMT processing for zIIPs, IFLs, and SAPs
+- /SM590000 Cache:
+- -L2 Private cache (unified) increased to 32 MB
+- -Virtual L3 cache up to 8x32 = 256 MB per CP chip
+- -Virtual L4 cached up to 8x32x8 = 2048 MB per drawer
+
+- /SM590000 Software and hardware:
+- -z/OS HiperDispatch Optimizations
+- -PR/SM Algorithm Improvements (including LPAR Resource Placement)
+- -Quantum safe Encryption
+- -New System Recovery Boost functions
+
+12.2  IBM z16 Large System Performance Reference ratio
+

@@ -1,0 +1,51 @@
+30
+- /SM590000 'Bulk Power Assembly configurations' on page 533
+
+Power Distribution Unit configurations
+
+The various PDU-based system configurations are shown in Figure E-1 - Figure E-6 on page 532.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Bulk Power Assembly configurations
+
+The BPA-based system configurations are shown in Figure E-7 - Figure E-17 on page 538.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Related publications
+
+The publications that are listed in this section are considered particularly suitable for a more detailed discussion of the topics that are covered in this book.
+
+IBM Redbooks
+

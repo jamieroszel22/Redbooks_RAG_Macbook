@@ -1,0 +1,13 @@
+ation costs for disaster recovery applications, IBM Geographically Dispersed Parallel Sysplex (GDPS), and remote copy.
+
+IBM z16 servers support 32 K devices per FICON channel for all FICON features.
+
+Each FICON Express channel can be defined independently for connectivity to servers, switches, directors, disks, tapes, and printers, by using the following CHPID types:
+
+- /SM590000 CHPID type FC: The FICON, zHPF, and FCTC protocols are supported simultaneously.
+- /SM590000 CHPID type FCP: Fibre Channel Protocol that supports attachment to SCSI devices directly or through Fibre Channel switches or directors.
+
+FICON channels (CHPID type FC or FCP) can be shared among LPARs and defined as spanned. All ports on a FICON feature must be of the same type (LX or SX). The features are connected to a FICON capable control unit (point-to-point or switched point-to-point) through a Fibre Channel switch.
+
+FICON Express32S
+

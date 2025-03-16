@@ -1,0 +1,14 @@
+1 with 200 client usable processors is an IBM z16 7K0. The model capacity identifier describes how many CPs are characterized ( xx , yy , or nn ) and the capacity setting (4, 5, 6, or 7) of the CPs.
+
+A hardware configuration upgrade always requires more physical hardware (processor drawers, PCIe+ I/O drawers, or both). A system upgrade can change the system model or the MCI.
+
+Consider the following points regarding model upgrades:
+
+- /SM590000 LICCC upgrade:
+- -Can add memory or Virtual Flash Memory (VFM) up to the amount that is physically installed
+- -Can change the model capacity identifier, the capacity setting, or both
+- /SM590000 Hardware installation upgrade:
+- -Can change the CPC drawer feature by adding one or more drawers
+- -Can change the model capacity identifier, the capacity setting, or both
+- -Can add physical memory, PCIe+ I/O drawers, and other hardware features
+

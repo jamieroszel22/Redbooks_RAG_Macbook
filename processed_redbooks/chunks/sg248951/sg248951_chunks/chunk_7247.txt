@@ -1,0 +1,9 @@
+tithreading' on page 273.
+
+Also, any LPAR that is running with more than 64 logical processors is required to operate in HiperDispatch Management Mode.
+
+The following rules control this environment:
+
+- /SM590000 If an LPAR is defined at IPL with more than 64 logical processors, the LPAR automatically operates in HiperDispatch Management Mode, regardless of the HIPERDISPATCH= specification.
+- /SM590000 If logical processors are added to an LPAR that has 64 or fewer logical processors and the extra logical processors raise the number of logical processors to more than 64, the LPAR automatically operates in HiperDispatch Management Mode, regardless of the HIPERDISPATCH=YES/NO specification. That is, even if the LPAR has the HIPERDISPATCH=NO specification, that LPAR is converted to operate in HiperDispatch Management Mode.
+

@@ -1,0 +1,17 @@
+nt instructions operate on newly designed vector registers (32 new 128-bit registers).
+
+IBM z16 servers include decimal floating point packed conversion facility support with the following benefits:
+
+- /SM590000 Reduces code path length because extra instructions to format conversion are no longer needed.
+- /SM590000 Packed data is operated in memory by all decimal instructions without general-purpose registers, which were required only to prepare for decimal floating point packed conversion instruction.
+- /SM590000 Converting from packed can now force the input packed value to positive instead of requiring a separate OI, OILL, or load positive instruction.
+- /SM590000 Converting to packed can now force a positive zero result instead of requiring ZAP instruction.
+
+Cobol and PL/I compilers were updated to support the new IBM z16 enhancements:
+
+- /SM590000 BCD to HFP conversions
+- /SM590000 Numeric editing operation
+- /SM590000 Zoned decimal operations
+
+Software support
+

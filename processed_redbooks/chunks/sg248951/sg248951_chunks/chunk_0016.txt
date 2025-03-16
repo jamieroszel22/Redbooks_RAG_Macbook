@@ -1,0 +1,8 @@
+iable, and secure environment that improves operations and lessens business risk.
+
+This book was produced by a team of specialists from around the world working at IBM Redbooks, Poughkeepsie Center.
+
+Octavian Lascu is an IBM Redbooks Project Leader with over 25 years of IT infrastructure experience. He specializes in designing, implementing, and supporting complex IT infrastructure environments (systems, storage, and networking), including high availability and disaster recovery solutions and high-performance computing deployments. He has developed materials for and taught over 50 workshops for technical audiences around the world. He is the author of several IBM publications.
+
+Bill White is an IBM Redbooks Project Leader and Senior Networking and Connectivity Specialist at IBM Redbooks, Poughkeepsie Center.
+

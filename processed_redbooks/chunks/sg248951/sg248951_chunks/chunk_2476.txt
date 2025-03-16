@@ -1,0 +1,12 @@
+r, the heat is exhausted into the room from the radiator heat exchanger by forced air with blowers. At the system level, these IBM z16 A01 are still air-cooled systems.
+
+2.9.5  Radiator Cooling Unit
+
+A total of 1 - 2 Radiator Cooling Units (RCUs) are used in the system: One in Frame A and one in Frame B in support of water cooling of the PU DCMs within the CPC drawers. The unit includes N+1 pumps and N+1 fans. Water loops to each drawer are directly delivered by way of hoses to each drawer from manifolds.
+
+The RCU discharges heat from the internal frame water loop to the customer's data center.
+
+Each RCU provides cooling to PU DCMs with closed loop water within the respective frame. No connection to an external chilled water supply is required. For the IBM z16 A01 server, the internal circulating water is conditioned water (BTA) that is added to the radiator unit during system installation with the Fill and Drain Tool (FC 3393).
+
+Fill and Drain Tool
+

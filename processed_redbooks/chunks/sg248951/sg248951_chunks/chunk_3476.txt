@@ -1,0 +1,7 @@
+16 A01 memory design also provides flexibility, high availability, and the following upgrades:
+
+- /SM590000 Concurrent memory upgrades if the physically installed capacity is not yet reached
+- IBM z16 servers can have more physically installed memory than the initial available capacity. Memory upgrades within the physically installed capacity can be done concurrently by LIC, and no hardware changes are required. However, memory upgrades cannot be done through CBU or On/Off CoD.
+- /SM590000 Concurrent memory upgrades if the physically installed capacity is reached
+- Physical memory upgrades require a processor drawer to be removed and reinstalled after replacing the memory cards in the processor drawer. Except for the feature Max39, the combination of enhanced drawer availability and the flexible memory option allows you to concurrently add memory to the system. For more information, see 2.5.5, 'Drawer replacement and memory' on page 45, and 2.5.7, 'Flexible Memory Option' on page 46.
+

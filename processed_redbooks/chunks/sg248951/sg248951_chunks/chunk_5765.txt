@@ -1,0 +1,8 @@
+e connectivity that is necessary in a Parallel Sysplex. Therefore, a potential benefit can be realized of minimizing the number of cross-site links that is required in a multi-site Parallel Sysplex.
+
+Between any two servers that are intended to exchange STP messages, configure each server so that at least two coupling links exist for communication between the servers. This configuration prevents the loss of one link from causing the loss of STP communication between the servers. If a server does not have a CF LPAR, timing-only links can be used to provide STP connectivity.
+
+IBM z16 Precision Time Protocol support
+
+Precision Time Protocol (PTP) is introduced as an alternative to NTP. Consider the following points:
+

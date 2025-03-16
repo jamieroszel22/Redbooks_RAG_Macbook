@@ -1,0 +1,4 @@
+ LIC Driver level anywhere in the maintenance stream is not possible. Specific LIC updates do not allow a concurrent update or upgrade.
+
+Consider the following key points about CDM:
+

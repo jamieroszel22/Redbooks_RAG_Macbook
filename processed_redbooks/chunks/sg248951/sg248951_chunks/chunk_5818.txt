@@ -1,0 +1,10 @@
+ment. In the simplest case, an I/O device is attached to one control unit and is accessible through one or more channel paths that are connected to the control unit.
+
+5.1.2  Multiple subchannel sets
+
+A subchannel set is a collection of subchannels within a channel subsystem. The maximum number of subchannels of a subchannel set determines how many I/O devices that a channel subsystem can access. This number also determines the number of addressable devices to the program (for example, an operating system) that is running in the LPAR.
+
+Each subchannel has a unique four-digit hexadecimal number 0x0000 - 0xFFFF. Therefore, a single subchannel set can address and access up to 64 K I/O devices.
+
+The IBM z16 A01 systems support four subchannel sets for each logical channel subsystem. The IBM z16 A01 system can access a maximum of 255.74 K devices for a logical channel subsystem and a logical partition and the programs that are running on it.
+

@@ -1,0 +1,6 @@
+ink Express 1.1 feature is available with new IBM z16 systems and is designed to help bring data close to processing power, increase the scalability of transaction processing, and lower I/O latency.
+
+zHyperLink Express is designed for up to 5x lower latency than High-Performance FICON for IBM Z (zHPF) by directly connecting the IBM Z central processor complex (CPC) to the I/O Bay of the DS8000 (DS8880 or later). This short distance (up to 150 m [492.1 feet]), direct connection is intended to speed Db2 for z/OS transaction processing and improve active log throughput.
+
+The improved performance of zHyperLink Express allows the Processing Unit (PU) to make a synchronous request for the data that is in the DS8000 cache. This process eliminates the undispatch of the running request, the queuing delays to resume the request, and the PU cache disruption.
+

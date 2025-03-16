@@ -1,0 +1,17 @@
+ and SAPs. To use the CBU process, a CBU enablement feature (FC 9910) must be ordered and installed. You must order the quantity and type of PU that you require by using the following feature codes:
+
+- /SM590000 FC 6805: More CBU test activations
+- /SM590000 FC 6817: Total CBU years ordered
+- /SM590000 FC 6818: CBU records that are ordered
+- /SM590000 FC 6820: Single CBU CP-year
+- /SM590000 FC 6821: 25 CBU CP-year
+- /SM590000 FC 6822: Single CBU IFL-year
+- /SM590000 FC 6823: 25 CBU IFL-year
+- /SM590000 FC 6824: Single CBU ICF-year
+- /SM590000 FC 6825: 25 CBU ICF-year
+- /SM590000 FC 6828: Single CBU zIIP-year
+- /SM590000 FC 6829: 25 CBU zIIP-year
+- /SM590000 FC 6830: Single CBU SAP-year
+- /SM590000 FC 6831: 25 CBU SAP-year
+- /SM590000 FC 6832: CBU replenishment
+

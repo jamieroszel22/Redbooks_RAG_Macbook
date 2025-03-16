@@ -1,0 +1,8 @@
+nondisruptively configure online more logical processors after more CPs, IFLs, ICFs, and zIIPs are made available concurrently. They can be made available with one of the capacity on-demand options.
+
+The maximum number of reserved processors that can be defined to an LPAR depends on the number of logical processors that are defined. A maximum of 300 logical processors plus reserved processors can be used. If the operating system in the LPAR supports the logical processor add function, reserved processors are no longer needed.
+
+Do not define more active and reserved processors than the operating system for the LPAR can support. For more information about logical processors and reserved processors and their definitions, see 3.7, 'Logical partitioning' on page 117.
+
+3.5.8  Integrated firmware processors
+

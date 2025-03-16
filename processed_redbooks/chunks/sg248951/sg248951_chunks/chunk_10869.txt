@@ -1,0 +1,4 @@
+oked but can have a direct effect on RNI. This term refers to the number of address spaces (such as CICS application-owning regions [AORs] or batch initiators) that are needed to support a workload.
+
+This factor always existed, but its sensitivity is higher with the current high frequency microprocessors. Spreading the same workload over more address spaces than necessary can raise a workload's RNI. This increase occurs because the working set of instructions and data from each address space increases the competition for the processor caches.
+

@@ -1,0 +1,20 @@
+ systems management API. Starting with IBM z14, the CIM support is removed.
+
+For more information about APIs, see SNMP Application Programming Interfaces , SB10-7179.
+
+10.5.14  Cryptographic support
+
+This section describes the cryptographic management and control functions that are available in the HMC and SE.
+
+Cryptographic hardware
+
+IBM z16 systems include standard cryptographic hardware and optional cryptographic features for flexibility and growth capability.
+
+The HMC/SE interface provides the following capabilities:
+
+- /SM590000 Defining the cryptographic controls
+- /SM590000 Dynamically adding a Crypto feature to a partition:
+- -For the first time
+- -That already uses Crypto
+- /SM590000 Dynamically removing a Crypto feature from a partition
+

@@ -1,0 +1,24 @@
+l usage. It produces data that includes power monitoring information, power consumption, and the air input temperature for the server.
+
+An example of the Monitors Dashboard task is shown in Figure .
+
+<!-- missing-text -->
+
+Environmental Efficiency Statistics task
+
+The Environmental Efficiency Statistics task (see Figure 11-12) is part of the Monitor task group. It provides historical power consumption and thermal information for the CPC.
+
+The data is presented in table format and graphical 'histogram' format. The data also can be exported to a . csv -formatted file so that the data can be imported into a spreadsheet. For this task, you must use a web browser to connect to an HMC.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Chapter 12.
+
+Performance and capacity planning
+
+This chapter describes the performance and capacity planning of IBM z16.
+
+Note: Throughout this chapter, IBM z16 refers to IBM z16 Model A01 (Machine Type 3931) unless otherwise specified.
+

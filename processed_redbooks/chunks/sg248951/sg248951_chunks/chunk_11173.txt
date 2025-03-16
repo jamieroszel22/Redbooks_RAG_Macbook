@@ -1,0 +1,13 @@
+00 Improved balance between physical and logical Central Processor (CPs)
+- /SM590000 Reduced Processor Resource/System Manager (PR/SM) logical partitions (LPAR) management, less overhead
+
+Conclusion
+
+The combination of TFP for the hardware and software is a powerful one for our customers to maximize their investment in IBM Z. For eligible customers, it allows them to use their hardware for their general capacity requirements with a consumption-based corridor on top.
+
+When this TFP for hardware is combined with the TFP-SW solutions, it allows customers to unleash the full power of their IBM Z machine.
+
+IBM Z Flexible Capacity for Cyber Resiliency
+
+Resiliency continues to be a hot topic for clients and a key value driver for IBM Z, especially for the largest IBM Z clients in regulated industries.
+

@@ -1,0 +1,14 @@
+ware and CCA now employ a hybrid scheme combining ECDH and Kyber to accomplish a quantum safe transport key exchange for protected key import.
+
+CCA 8.0
+
+The following CCA 8.0 improvements were made:
+
+- /SM590000 Performance enhancement for mixed workloads: better performance when one partition focuses on RSA/ECC and another partition focuses on AES/DES/TDES or financial operations
+- /SM590000 Hardware accelerated key unwrap for AES wrapped keys
+- -Trusted Key Entry workstation (TKE) controlled selection of WRAPENH3 as the default TDES key token wrapping method for easier management.
+
+CCA 7.2 and CCA 6.5
+
+The following CCA 7.2 and 6.5 improvements were made:
+

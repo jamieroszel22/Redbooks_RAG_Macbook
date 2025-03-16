@@ -1,0 +1,12 @@
+/SM590000 DS8000 Performance Monitoring and Tuning , SG24-8013
+
+ICKDSF
+
+Device Support Facilities, ICKDSF, Release 17 is required on all systems that share disk subsystems with an IBM z16 processor.
+
+ICKDSF supports a modified format of the CPU information field that contains a two-digit LPAR identifier. ICKDSF uses the CPU information field instead of CCW reserve/release for concurrent media maintenance. It prevents multiple systems from running ICKDSF on the same volume, and at the same time allows user applications to run while ICKDSF is processing. To prevent data corruption, ICKDSF must determine all sharing systems that might run ICKDSF. Therefore, this support is required for IBM z16.
+
+Remember: The need for ICKDSF Release 17 also applies to systems that are not part of the same sysplex, or are running an operating system other than z/OS, such as z/VM.
+
+z/OS Discovery and Auto-Configuration
+

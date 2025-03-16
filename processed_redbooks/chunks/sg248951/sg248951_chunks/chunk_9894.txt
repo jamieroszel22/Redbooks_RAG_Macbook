@@ -1,0 +1,10 @@
+ must be done to the system in a timely fashion. A scheduled outage can be caused by a disruptive patch that must be installed, or other changes that must be made to the system.
+
+- /SM590000 Planned
+
+This outage is caused by changes or updates that must be done to the system. A planned outage can be caused by a capacity upgrade or a driver upgrade. A planned outage usually is requested by the customer, and often requires planning. The IBM z16 design phase focuses on enhancing planning to simplify or eliminate planned outages.
+
+The difference between scheduled outages and planned outages might not be obvious. The general consensus is that scheduled outages occur sometime soon. The timeframe is approximately two weeks.
+
+Planned outages are outages that are planned well in advance and go beyond this approximate two-week timeframe. This chapter does not distinguish between scheduled and planned outages.
+

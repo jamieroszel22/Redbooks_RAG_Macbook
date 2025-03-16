@@ -1,0 +1,18 @@
+iver. The sending and receiving transceivers must be the same (SR to SR).
+
+The OSA-Express7S 25 GbE SR feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+
+A 50 µm multimode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature to the selected device.
+
+The following other OSA-Express7S features can be installed on IBM z16 servers (when carried forward):
+
+- /SM590000 OSA-Express7S 10 Gigabit Ethernet LR, FC 0444
+- /SM590000 OSA-Express7S 10 Gigabit Ethernet SR, FC 0445
+- /SM590000 OSA-Express7S Gigabit Ethernet LX, FC 0442
+- /SM590000 OSA-Express7S Gigabit Ethernet SX, FC 0443
+- /SM590000 OSA-Express7S 1000BASE-T Ethernet, FC 0446
+
+The supported OSA-Express7S features are listed in Table 4-5 on page 161.
+
+OSA-Express7S 10 Gigabit Ethernet LR (FC 0444)
+

@@ -1,0 +1,18 @@
+ to select only those upgrade options that are deemed valid by the order process. It also allows upgrades only within the bounds of the currently installed hardware.
+
+8.5.2  Retrieval and activation
+
+After an order is placed and processed, the suitable upgrade record is passed to the IBM support system for download.
+
+When the order is available for download, you receive an email that contains an activation number. You can then retrieve the order by using the Perform Model Conversion task from the SE, or through the Single Object Operation to the SE from an HMC.
+
+In the Perform Model Conversion window, select Permanent upgrades to start the process, as shown in Figure 8-8.
+
+<!-- missing-text -->
+
+The window provides several possible options. If you select the Retrieve and apply data option, you are prompted to enter the order activation number to start the permanent upgrade, as shown in Figure 8-9.
+
+<!-- missing-text -->
+
+8.6  On/Off Capacity on Demand
+

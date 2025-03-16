@@ -1,0 +1,11 @@
+this solution can automate evidence collection of compliant-relevant facts from IBM Z platforms, including the new CPACF usage counters that demonstrate crypto algorithm strength and key protection.
+
+The IBM Z Security and Compliance Center enables clients to:
+
+- /SM590000 Generate detailed reports to enable executives, administrators, and auditors to understand compliance metrics with ease.
+- /SM590000 Track compliance drift over time with dashboard visualizations that include historical compliance information.
+- /SM590000 Use compliance evidence generation facilities from IBM Z software stack (for example, z/OS, z/OS Middleware, z/OS Compliance Integration Manager, Oracle on Linux on IBM Z, and PostgreSQL on Linux on IBM Z).
+- /SM590000 Provide an interactive view of the compliance posture and details around the severity of control deviations from regulations, such as PCI-DSS v3.2.1, NIST SP800-53, and CIS Benchmarks.
+
+z/OS support for compliance
+

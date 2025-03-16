@@ -1,0 +1,18 @@
+on, see 6.4, 'CP Assist for Cryptographic Functions' on page 219.
+
+The supported operating systems are listed in Table 7-10 on page 263 and Table 7-11 on page 264.
+
+Crypto Express8S (new on IBM z16)
+
+Crypto Express8S includes a single- or dual- HSM adapter (single or dual IBM 4770 PCIe Cryptographic Co-processor [PCIeCC]) and complies with the following Physical Security Standards:
+
+- /SM590000 FIPS 140-3 level 4
+- /SM590000 Common Criteria EP11 EAL4+
+- /SM590000 Payment Card Industry (PCI) HSM
+- /SM590000 German Banking Industry Commission (GBIC, formerly DK)
+- /SM590000 AusPayNet (APN)
+
+Support of Crypto Express8S functions varies by operating system and release and by the way that the card is configured as a coprocessor or an accelerator. The supported operating systems are listed in Table 7-10 on page 263 and Table 7-11 on page 264.
+
+Crypto Express7S (carry forward on IBM z16)
+

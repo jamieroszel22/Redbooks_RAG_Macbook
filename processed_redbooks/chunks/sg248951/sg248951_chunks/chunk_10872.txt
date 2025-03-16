@@ -1,0 +1,18 @@
+COBOL, and utilities, to produce capacity curves that span the typical range of RNI.
+
+The following workload categories are represented in the LSPR tables:
+
+- /SM590000 LOW (relative nest intensity)
+
+A workload category that represents light use of the memory hierarchy.
+
+- /SM590000 AVERAGE (relative nest intensity)
+
+A workload category that represents average use of the memory hierarchy. This category is expected to represent most production workloads.
+
+- /SM590000 HIGH (relative nest intensity)
+
+A workload category that represents a heavy use of the memory hierarchy.
+
+These categories are based on the L1MP and the RNI. The RNI is influenced by many variables, such as application type, I/O rate, application mix, processor usage, data reference patterns, LPAR configuration, and the software configuration that is running. CPU MF data can be collected by z/OS System Measurement Facility on SMF 113 records or by z/VM Monitor starting with z/VM V5R4.
+

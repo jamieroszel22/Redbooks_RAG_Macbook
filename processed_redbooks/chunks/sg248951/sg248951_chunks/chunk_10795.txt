@@ -1,0 +1,13 @@
+TNs must be merged in to the single CTN without interruption in the clock source, the system administrator must perform the Join existing CTN action, which is available in the Advanced Actions menu.
+
+Note: After joining the selected CTN, all systems within the current CTN are synchronized with the Current Time Server of the selected CTN. A coupling link must be in place that connects the CTS of the selected CTN and the CTS of the current CTN.
+
+During the transition state, most of the STP actions for the two affected CTNs are disabled. After the merge is completed, STP actions are enabled again.
+
+For more information about planning and understanding STP server roles, see the following publications:
+
+- /SM590000 IBM Z Server Time Protocol Guide , SG24-8480
+- /SM590000 Server Time Protocol Planning Guide , SG24-7280
+- /SM590000 Server Time Protocol Implementation Guide , SG24-7281
+- /SM590000 Server Time Protocol Recovery Guide, SG24-7380
+

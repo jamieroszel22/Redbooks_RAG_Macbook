@@ -1,0 +1,9 @@
+outages faster than on any previous IBM Z with no extra software cost. It also provides faster site switching changeover between systems active in different sites (in a GDPS configured environment).
+
+Service restoration involves speeding up IPL and shutdown operations of an image (LPAR), and short-duration recovery process boosts for specific sysplex and operating system events. For more information see Introducing IBM Z System Recovery Boost , REDP-5563.
+
+Important: The base System Recovery Boost capability is built into IBM z16 firmware and does not require ordering of extra features. For IBM z16 A01, System Recovery Boost Upgrade (FC 9930 + FC 6804) is an optional, orderable feature that provides more temporary zIIP capacity for use during boost periods. Consider the following points:
+
+- /SM590000 FC 9930 is not required to use the base System Recovery Boost capability.
+- /SM590000 FC 9930 AND FC 6804 are needed only if more zIIP temporary capacity is required.
+

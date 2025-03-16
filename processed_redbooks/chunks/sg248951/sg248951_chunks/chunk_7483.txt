@@ -1,0 +1,8 @@
+I accelerator is designed to deliver AI inference in real time, at large scale and rate, with no transaction left behind so that customers can instantly derive the valuable insights from their data.
+
+The AI capability is applied directly into the running transaction, shifting the traditional paradigm of applying AI to the transactions that were completed. This innovative technology can be used for intelligent IT workloads placement algorithms and contribute to better overall system performance.  The co-processor is driven by the new Neural Networks Processing Assist (NNPA) instruction.
+
+NNPA is a new nonprivileged Complex Instruction Set Computer (CISC) memory-to-memory instruction that operates on tensor objects that are in client application program memory. AI functions and macros are abstracted by way of NNPA.
+
+Virtual Flash Memory
+

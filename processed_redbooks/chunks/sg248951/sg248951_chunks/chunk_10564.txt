@@ -1,0 +1,16 @@
+ an HMC with the Replica role is shown in Figure 10-10.
+
+<!-- missing-text -->
+
+Also, the wizard that is used to manage the settings for Data Replication were improved.
+
+- /SM590000 Remote Code Load
+
+The Remote Code Load (RCL) for IBM Z allows IBM to upgrade a machine remotely by working with the customer to schedule a date and time for the code load and monitor the process to ensure that it completes successfully.
+
+This feature allows you to schedule one or multiple Single Step Code Loads for an HMC or SE.
+
+On an IBM z16 system with the HMA feature, RCL can be scheduled to update both HMCs. The firmware automatically manages Alternative SE switches to ensure that each HMC can be updated without the Primary SE being present.
+
+In general, you first must generate a token on the HMC task Manage Remote Firmware Updates. Then, you can schedule an RCL on IBM Resource Link by selecting Fixes → Licensed internal code → Remote Code Load request .
+

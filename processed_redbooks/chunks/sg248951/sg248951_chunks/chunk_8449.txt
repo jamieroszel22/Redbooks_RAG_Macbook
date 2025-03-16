@@ -1,0 +1,9 @@
+rocessor capacity.
+
+Capacity tokens were introduced to provide better control over resource consumption when On/Off CoD offerings are activated. Tokens represent the following resource consumptions:
+
+- /SM590000 For CP capacity, each token represents the amount of CP capacity that results in one MSU of software cost for one day (an MSU-day token ).
+- /SM590000 For specialty engines, each token is equivalent to one specialty engine capacity for one day (an engine-day token ).
+
+Each specialty engine type features its own tokens, and each On/Off CoD record includes separate token pools for each capacity type. During the ordering sessions on IBM Resource Link, select how many tokens of each type to create for an offering record. Each engine type must include tokens for that engine type to be activated. Capacity that has no tokens cannot be activated.
+

@@ -1,0 +1,22 @@
+on page 482
+- /SM590000 12.8, 'Workload performance variation' on page 483
+- /SM590000 12.9 'Capacity planning considerations for IBM z16', on page 487
+
+12
+
+12.1  IBM z16 performance characteristics
+
+The IBM z16 Model A01 Feature Max200 (7K0) is designed to offer up to 17% more capacity compared to an IBM z15 Model T01 (7H0) system.
+
+Uniprocessor performance also increased. On average, an IBM z16 model 701 offers performance improvements almost 10% over the IBM z15 Model 701. Figure 12-1 shows a system performance comparison of successive IBM Z servers.
+
+<!-- missing-text -->
+
+12.1.1  IBM z16 single-thread capacity
+
+Note: The acronym PCI stands for Processor Capacity Index .
+
+Operating system support varies for the number of 'engines' that are supported.
+
+The IBM z16 processor chip runs at 5.2 GHz clock speed, which is the same as the IBM z15 processor chip, but the performance is increased. For N-way processors model, it increases 1.11x on average at equal N-way configuration.
+

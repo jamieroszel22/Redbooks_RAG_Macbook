@@ -1,0 +1,12 @@
+with two IFLs. This process is done by assigning and activating three more unassigned PUs (one as CP and two as IFLs). If needed, LPARs can be created concurrently to use the newly added processors.
+
+The example that is shown in Figure 8-3 shows how the addition of PUs as CPs and IFLs and the addition of a processor drawer works. The addition of a processor drawer to an IBM z16 Max 39 upgrades the machine to Max82.
+
+After the second CPC drawer addition, CPC drawer 0 has 39 configurable PUs and CPC drawer 1 has 43 configurable PUs, which allows 82 PUs to be characterized on the new Max82 configuration.
+
+Consideration: All available processors on a server (including reserved processors) can be defined to an LPAR. However, do not define more processors to an LPAR than the target operating system supports.
+
+The number of processors that are supported by various operating systems releases are listed in Table 8-3.
+
+<!-- missing-text -->
+

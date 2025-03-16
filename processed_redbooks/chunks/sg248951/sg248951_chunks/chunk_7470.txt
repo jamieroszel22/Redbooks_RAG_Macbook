@@ -1,0 +1,24 @@
+e following minimum releases of Linux on IBM Z distributions are supported on IBM z16 (native SMT support):
+
+- /SM590000 SUSE:
+- -SLES 16
+- -SLES 15 SP3 with service
+- -SUSE SLES 12 SP5 with service
+
+- /SM590000 Red Hat:
+- -Red Hat RHEL 9.0
+- -Red Hat RHEL 8.4 with service
+- -Red Hat RHEL 7.9 with service
+- /SM590000 Ubuntu:
+- -Ubuntu 22.04 LTS
+- -Ubuntu 21.10
+- -Ubuntu 20.04.1 LTS with service
+
+The KVM hypervisor is supported on the same Linux on IBM Z distributions in this list.
+
+For more information about the most current support, see the Linux on IBM Z Tested platforms website.
+
+Single-instruction multiple-data
+
+The SIMD feature introduces a new set of instructions to enable parallel computing that can accelerate code with string, character, integer, and floating point data types. The SIMD instructions allow many operands to be processed with a single complex instruction.
+

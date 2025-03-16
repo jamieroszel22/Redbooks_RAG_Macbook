@@ -1,0 +1,6 @@
+
+
+The IBM z16 Model A01 5u CPC drawer always contains four Processor Unit (PU) DCMs, and up to 48 memory DIMMs.
+
+Depending on the feature, the IBM z16 A01 contains the following CPC components:
+

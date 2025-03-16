@@ -1,0 +1,10 @@
+ty, the last address from which a successful branch instruction was run is kept. z/OS uses this information with debugging aids, such as the SLIP command, to determine from where a wild branch came.
+
+It also can collect data from that storage location. This approach decreases the number of debugging steps that are necessary when you want to know from where the branch came.
+
+3.4.12  Translation lookaside buffer
+
+The TLB in the instruction and data L1 caches use a secondary TLB to enhance performance.
+
+The size of the TLB is kept as small as possible because of its short access time requirements and hardware space limitations. Because memory sizes recently increased significantly as a result of the introduction of 64-bit addressing, a smaller working set is represented by the TLB.
+

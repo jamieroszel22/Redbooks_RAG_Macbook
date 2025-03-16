@@ -1,0 +1,16 @@
+ supported on IBM z16 by operating system, see Chapter 7, 'Operating system support' on page 247.
+
+1.1.4  Supported IBM compilers
+
+The following IBM compilers for IBM Z can be used with the IBM z16:
+
+- /SM590000 Enterprise COBOL for z/OS
+- /SM590000 Enterprise PL/I for z/OS
+- /SM590000 Automatic Binary Optimizer
+- /SM590000 z/OS XL C/C++
+- /SM590000 XL C/C++ for Linux on IBM Z
+
+The compilers increase the return on your investment in IBM Z hardware by maximizing application performance by using the compilers' advanced optimization technology for IBM z/Architecturefi.
+
+Through their support of web services, XML, and Java, they allow for the modernization of assets in web-based applications. They also support the latest IBM middleware products (CICSfi, Db2, and IMS), which allows applications to use their latest capabilities.
+

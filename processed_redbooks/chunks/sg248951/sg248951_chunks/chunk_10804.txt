@@ -1,0 +1,12 @@
+lable. The offloading can be manually started by the new Audit and Log Management task or scheduled by the Customize Scheduled Operations task. The data can be offloaded in the HTML and XML formats.
+
+HMC user ID templates and LDAP user authentication
+
+Lightweight Directory Access Protocol (LDAP) user authentication and HMC user ID templates enable the addition and removal of HMC users according to your own corporate security environment. These processes use an LDAP server as the central authority.
+
+Each HMC user ID template defines the specific authorization levels for the tasks and objects for the user who is mapped to that template. The HMC user is mapped to a specific user ID template by user ID pattern matching. The system then obtains the name of the user ID template from content in the LDAP server schema data.
+
+Default HMC user IDs
+
+For HMC V2.16.0 the default user IDs are limited to ACSADMIN and SERVICE.
+

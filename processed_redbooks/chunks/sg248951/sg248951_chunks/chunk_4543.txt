@@ -1,0 +1,8 @@
+preserved, for compatibility, but a warning message will be issued to indicate that these options are no longer supported, and that DYNDISP=THIN behavior will be used.
+
+3.9.3  Dynamic CF dispatching
+
+With the introduction of the Coupling Thin Interrupt support (only available option on IBM z16), which is used only when the CF partition uses shared engines, the CFCC code is changed to handle these interrupts correctly. CFCC was also changed to relinquish voluntarily control of the processor whenever it runs out of work to do. It relies on Coupling Thin Interrupts to dispatch the image again in a timely fashion when new work (or new signals) arrives at the CF to be processed.
+
+With IBM z16, DYNDISP=THIN is the only mode of operation for CF images that use shared processors.
+

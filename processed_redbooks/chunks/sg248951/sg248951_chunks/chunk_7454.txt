@@ -1,0 +1,9 @@
+stem Recovery Boost.
+- /SM590000 Approved third-party vendor products.
+
+The use of a zIIP is transparent to application programs. The supported operating systems are listed in Table 7-3 on page 253.
+
+On IBM z16 servers, the zIIP processor is designed to run in SMT mode, with up to two threads per processor. This function is designed to help improve throughput for zIIP workloads and provide appropriate performance measurement, capacity planning, and SMF accounting data. zIIP support is available on all currently supported z/OS versions.
+
+Use the PROJECTCPU option of the IEAOPTxx parmlib member to help determine whether zIIPs can be beneficial to the installation. Setting PROJECTCPU=YES directs z/OS to record the amount of eligible work for zIIPs in SMF record type 72 subtype 3.
+

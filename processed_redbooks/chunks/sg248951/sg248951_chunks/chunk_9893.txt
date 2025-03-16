@@ -1,0 +1,18 @@
+implify management of their SAN fabrics by using static routing policies that assign different ISL routes with each power-on-reset (POR), which makes the SAN fabric performance difficult to predict.
+
+Customers must ensure that all devices in their FICON SAN support FICON Dynamic Routing before they implement this feature.
+
+9.7  IBM z16 RAS functions
+
+Hardware RAS function improvements focus on addressing all sources of outages. Sources of outages feature the following classifications:
+
+- /SM590000 Unscheduled
+
+This outage occurs because of an unrecoverable malfunction in a hardware component of the system.
+
+- /SM590000 Scheduled
+
+This outage is caused by changes or updates that must be done to the system in a timely fashion. A scheduled outage can be caused by a disruptive patch that must be installed, or other changes that must be made to the system.
+
+- /SM590000 Planned
+

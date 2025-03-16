@@ -1,0 +1,12 @@
+riginal clear message when the correct key is used. Therefore, the receiver of a ciphered message must know which algorithm and key must be used to decrypt the message.
+
+6.2.2  Kerckhoffs' principle
+
+In modern cryptography, the algorithm is published and known to everyone, whereas the keys are kept secret. This configuration corresponds to Kerckhoffs' principle, which is named after Auguste Kerckhoffs, a Dutch cryptographer, who formulated it in 1883:
+
+'A system should not depend on secrecy, and it should be able to fall into the enemy's hands without disadvantage.'
+
+In other words, the security of a cryptographic system should depend on the security of the key, so the key must be kept secret. Therefore, the secure management of keys is the primal task of modern cryptographic systems.
+
+Adhering to Kerckhoffs' Principle is done for the following reasons:
+

@@ -1,0 +1,8 @@
+e more capacity online. z/OS operating systems include this capability. z/VM can concurrently configure new processors and I/O devices online, and memory can be dynamically added to z/VM partitions.
+
+If the concurrent upgrade is intended to satisfy the need for more operating system images, more LPARs can be created concurrently on the IBM z16 system. These LPARs include all resources that are needed. These extra LPARs can be activated concurrently.
+
+These enhanced configuration options are available through the HSA, which is an IBM reserved area in system memory.
+
+In general, Linux operating systems cannot add more resources concurrently. However, Linux and other types of virtual machines that run under z/VM can benefit from the z/VM capability to nondisruptively configure more resources online (processors and I/O).
+

@@ -1,0 +1,22 @@
+
+- -MERGE FIELDS
+- -MODS(EXITS) statements
+- -OUTREC
+- -OUTFIL
+- -SUM FIELDS
+- /SM590000 Program started sorts
+- /SM590000 Memory objects cannot be created
+
+- /SM590000 Insufficient memory object storage available (required more than currently available)
+- /SM590000 Unsupported sort fields specified (examples Unicode, Locale, and ALTSEQ)
+- /SM590000 Unknown file size or file size=0.
+- /SM590000 SIZE/FILSZ=Uxxxxxx is specified
+- /SM590000 SORTIN/SORTOUT is a VSAM Cluster
+- /SM590000 Sort control field positions are beyond 4092 and VLSHRT is specified
+- /SM590000 Use of EXCP access method was requested
+- /SM590000 Insufficient storage (for example, above or below the line)
+- /SM590000 Sorting key greater than 4088 bytes or greater than 4080 bytes if EQUALS is specified
+- /SM590000 For variable records, the record length (LRECL) must be greater than 24
+- /SM590000 zHPF is unavailable for a sort that cannot be performed entirely in memory
+- /SM590000 Insufficient amount of sort workspace
+

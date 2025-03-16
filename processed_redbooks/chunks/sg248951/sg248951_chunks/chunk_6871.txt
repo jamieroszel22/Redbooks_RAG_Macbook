@@ -1,0 +1,18 @@
+eature on IBM z16, IBM z15, IBM z14 systems, and the Crypto adapters on older, still supported systems.
+
+The TKE 10.0 LIC (FC 0882) feature requires a 4770 HSM. The following features are supported:
+
+- /SM590000 Managing the Crypto Express8S HSMs (CCA normal mode, CCA PCI mode, and EP11)
+- /SM590000 Quantum Safe Cryptography (QSC) used when:
+- -TKE authenticates Crypto Express8S HSMs
+- -Deriving a Transport Key between TKE's HSM and target Crypto Express8S HSM
+- -On-demand HSM dual validation check.
+- /SM590000 Domain groups limitations All HSM in group must:
+- -Support QSC (can include Crypto Express8S HSMs only)
+- -Not support QSC (cannot include Crypto Express8S HSMs)
+- /SM590000 Configuration migration tasks support:
+- -Can collect and apply data to a Crypto Express8S HSM
+- -Can apply data from a pre-Crypto Express8S HSM.
+- /SM590000 New default wrapping method for the Crypto Express8S HSM
+- /SM590000 New AES DUKPT key attribute on AES DKYGENKY parts
+

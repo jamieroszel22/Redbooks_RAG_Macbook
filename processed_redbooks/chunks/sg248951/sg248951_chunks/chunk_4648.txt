@@ -1,0 +1,11 @@
+fied by EAL5+ Common Criteria Standard, which is the highest level that ensures workload separation and isolation.
+- -Horizontal workload isolation: Separation from the rest of the host environment.
+
+IBM z16 technology provides built-in data encryption with excellent vertical scalability and performance that protects against data breach threats and data manipulation by privileged users. IBM SSC is a powerful IBM technology for providing the extra protection of the most sensitive workloads.
+
+The following IBM solutions and offerings, and more to come, can be deployed in an IBM SSC environment:
+
+- /SM590000 IBM Hyper Protect Virtual Servers (HPVS) solution is available for running Linux-based virtual servers with sensitive data and applications delivering a confidential computing environment to address your top security concerns.
+
+For more information, see this IBM Cloudfi web page.
+

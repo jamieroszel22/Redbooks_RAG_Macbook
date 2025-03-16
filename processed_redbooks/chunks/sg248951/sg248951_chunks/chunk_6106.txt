@@ -1,0 +1,6 @@
+keys are processed on the PCIeCC adapters (HSMs) 3 . This process requires an asynchronous operation to move the data and keys from the general-purpose central processor (CP) to the crypto adapters.
+
+Clear keys process faster than secure keys because the process is done synchronously on the CPACF. Protected keys blend the security of Crypto Express8S, Crypto Express7S, or Crypto Express6S coprocessors and the performance characteristics of the CPACF. This process allows it to run closer to the speed of clear keys.
+
+CPACF facilitates the continued privacy of cryptographic key material when used for data encryption. In Crypto Express8S, Crypto Express7S, or Express6S coprocessors, a secure key is encrypted under a master key. However, a protected key is encrypted under a wrapping key that is unique to each LPAR.
+

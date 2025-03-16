@@ -1,0 +1,16 @@
+a public key is associated with a host address and to use the Secure FTP interface with the suitable public key for a host. Tasks that use FTP now provide a selection for the secure host connection.
+
+When selected, the task verifies that a public key is associated with the specified hostname. If a public key is not provided, a message window opens that points to the Manage SSH Keys task to enter a public key. The following tasks provide this support:
+
+- /SM590000 Import/Export IOCDS
+- /SM590000 Advanced Facilities FTP IBM Content Collector Load
+- /SM590000 Audit and Log Management (Scheduled Operations only)
+- /SM590000 FCP Configuration Import/Export
+
+- /SM590000 OSA view Port Parameter Export
+- /SM590000 OSA-Integrated Console Configuration Import/Export
+
+10.5.12  System Input/Output Configuration Analyzer on the SE and HMC
+
+The System Input/Output Configuration Analyzer supports the system I/O configuration function.
+

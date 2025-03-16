@@ -1,0 +1,10 @@
+r updates that are performed in support of new features and functions. IBM z16 supports the concurrent activation of a selected new driver level.
+
+- /SM590000 Plan Ahead for Balanced Power (FC 3003)
+
+This feature allows you to order the maximum number of bulk power regulators (BPRs) on any server configuration. This feature helps to ensure that your configuration is in a balanced power environment if you intend to add CPC drawers and I/O drawers to your server in the future. The feature is available with Bulk Power Adapters (BPA) only.
+
+- /SM590000 Concurrent fan-out addition or replacement
+
+A PCIe+ fan-out card provides the path for data between memory and I/O through PCIe cables. With IBM z16, a hot-pluggable and concurrently upgradeable fan-out card is available. Up to 12 PCIe fan-out cards per CPC drawer are available for IBM z16 servers. An IBM z16 Model A01 feature Max168 and Max200 hold four CPC drawers and can have 48 PCIe fan out slots.
+

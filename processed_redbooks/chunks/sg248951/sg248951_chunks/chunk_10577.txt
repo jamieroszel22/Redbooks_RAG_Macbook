@@ -1,0 +1,20 @@
+. z/TPF does not use the HMC for code load.
+
+10.2.6  SE driver and version support with the HMC Driver 51/Version 2.16.0
+
+The driver of the HMC and SE is equivalent to a specific HMC and SE version:
+
+- /SM590000 Driver 36 is equivalent to Version 2.14.1
+- /SM590000 Driver 41 is equivalent to Version 2.15.0
+- /SM590000 Driver 51 is equivalent to version 2.16.0
+
+An HMC with Driver 51/Version 2.16.0 supports N-2 IBM Z server generations. Some functions that are available on Driver 51/Version 2.16.0 and later are supported only when the HMC is connected to an IBM Z with Driver 51/Version 2.16.0.
+
+The SE drivers and versions that are supported by the HMC Driver 51/Version 2.16.0 are listed in Table 10-1.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10.2.7  HMC feature codes
+

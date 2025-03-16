@@ -1,0 +1,16 @@
+er that uses symmetric key techniques. The key is exchanged in the standard TR-31 key block format, which can be used by any crypto system that supports the standard.
+
+CCA Version 6.3 improvements 6
+
+The following CCA Version 6.3 improvements were made:
+
+- /SM590000 Compliance support for:
+- -All DES services
+- -AES services
+- -RSA services, including full use of X.509 certificates
+- /SM590000 TR-34 Remote Key Load
+
+Greater than 16 domains support
+
+IBM z16 A01 supports up to 85 LPARs. The IBM Z crypto architecture supports 16 domains, which matched the LPAR maximum at the time. Before z13 systems, crypto workload separation can be complex in customer environments where the number of LPARs was larger than 16. These customers mapped a large set of LPARs to a small set of crypto domains.
+

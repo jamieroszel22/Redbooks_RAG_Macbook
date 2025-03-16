@@ -1,0 +1,14 @@
+ore the expiration date can cause the system to degrade gracefully back to its original configuration. The system does not deactivate dedicated engines or the last in-use shared engine.
+
+CBU example
+
+An example of a CBU operation is shown in Figure 8-15. The permanent configuration is a 504, and a record contains seven CP CBU features. During an activation, multiple target configurations are available. With 7 CP CBU features, you can add up to 7CPs within the same MCI, which allows the activation of a 506, 507, through to a 511(the blue path).
+
+Alternatively, 4 CP CBU features can be used to change the MCI (in the example from a 504 to a 704) and then add the remaining 3 CP CBU features to upgrade to a 707 (the red path).
+
+<!-- missing-text -->
+
+Note: System Recovery Boost record does not affect model capacity identifier.
+
+8.10.3  Automatic CBU enablement for GDPS
+

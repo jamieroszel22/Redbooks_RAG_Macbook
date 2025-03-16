@@ -1,0 +1,7 @@
+ty on IBM z16 for new functions. The use of older versions of the compiler on IBM z16 does not enable new functions.
+
+z/OS V2R4 can use the latest level (14) of the following C/C++ compiler options:
+
+- /SM590000 ARCHITECTURE : This option selects the minimum level of system architecture on which the program can run. Specific features that are provided by the compiler require a minimum architecture level. ARCH(14) uses instructions that are available on the IBM z16.
+- /SM590000 TUNE : This option allows optimization of the application for a specific system architecture within the constraints that are imposed by the ARCHITECTURE option. The TUNE level must not be lower than the setting in the ARCHITECTURE option.
+

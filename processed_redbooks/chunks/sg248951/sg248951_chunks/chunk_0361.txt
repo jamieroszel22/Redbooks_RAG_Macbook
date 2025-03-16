@@ -1,0 +1,4 @@
+nced I/O capabilities over its predecessor, the IBM z15 T01. This capacity is achieved by increasing the number of PUs per system, redesigning the system cache, and introducing new I/O technologies.
+
+The IBM z16 feature Max200 is estimated to provide up to 17% more total system capacity than the IBM z15 Model Max190, with the same amount of memory and power requirements. With up to 40 TB of main storage and enhanced SMT, the performance of the IBM z16 A01 processors deliver considerable improvement. Uniprocessor performance also increased significantly. An IBM z16 Model 701 offers average performance improvements of up to 11% over the IBM z15 Model 701. 2
+

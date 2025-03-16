@@ -1,0 +1,10 @@
+ht encryption).
+
+- /SM590000 Select DS8000 storage
+- /SM590000 Supporting infrastructure: IBM Security Guardium Key Lifecycle Manager
+- /SM590000 CPACF enablement (FC 3863)
+
+Forward Error Correction
+
+Forward Error Correction (FEC) is a technique that is used for reducing data errors when transmitting over unreliable or noisy communication channels (improving signal to noise ratio). By adding redundancy error-correction code (ECC) to the transmitted information, the receiver can detect and correct several errors without requiring retransmission. This process features improve signal reliability and bandwidth use by reducing retransmissions because of bit errors, especially for connections across long distance, such as an inter-switch link (ISL) in a GDPS Metro Mirror environment.
+

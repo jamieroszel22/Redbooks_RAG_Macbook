@@ -1,0 +1,8 @@
+plugged. Plug detection ensures correct location, and custom latches ensure retention. Further improvements to the fabric bus include symmetric multiprocessing (SMP) cables that connect the drawers.
+
+To improve field-replaceable unit (FRU) isolation, advanced continuity checking techniques are applied to the SMP cables (Concurrent Cable Repair), with the new SMP cable plugging and unplugging tool.
+
+The thermal RAS design also was improved for the field-replaceable water manifold for PU cooling.
+
+The IBM z16 includes the following characteristics:
+

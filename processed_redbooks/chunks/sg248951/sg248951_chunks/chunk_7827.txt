@@ -1,0 +1,16 @@
+sted in Table 7-10 on page 263.
+
+z/OS Data Set Encryption
+
+Aligned with IBM Z Pervasive Encryption initiative, IBM provides application-transparent, policy-controlled dataset encryption in IBM z/OS.
+
+Policy-driven z/OS Data Set Encryption enables users to perform the following tasks:
+
+- /SM590000 De-couple encryption from data classification; encrypt data automatically independent of labor-intensive data classification work.
+- /SM590000 Encrypt data immediately and efficiently at the time that it is written.
+- /SM590000 Reduce risks that are associated with mis-classified or undiscovered sensitive data.
+- /SM590000 Help protect digital assets automatically.
+- /SM590000 Achieve application transparent encryption.
+
+IBM Db2 for z/OS and IBM Information Management System (IMS) intend to use z/OS Data Set Encryption.
+

@@ -1,0 +1,12 @@
+ned outages for driver-level upgrades. Upgrades might require a system level or a functional element scheduled outage to activate the new LIC. The following circumstances require a scheduled outage:
+
+- /SM590000 Specific complex code changes might dictate a disruptive driver upgrade. You are alerted in advance so that you can plan for the following changes:
+- -Design data or hardware initialization data fixes
+- -CFCC release level change
+- /SM590000 OSA CHPID code changes might require PCHID Vary OFF/ON to activate new code.
+- /SM590000 Crypto code changes might require PCHID Vary OFF/ON to activate new code.
+
+Note: zUDX clients should contact their User Defined Extensions (UDX) provider before installing Microcode Change Levels (MCLs). Any changes to Segments 2 and 3 from a previous MCL level might require a change to the customer's UDX. Attempting to install an incompatible UDX at this level results in a Crypto checkstop.
+
+9.9.1  Resource Group and native PCIe features MCLs
+

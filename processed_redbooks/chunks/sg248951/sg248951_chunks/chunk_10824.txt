@@ -1,0 +1,24 @@
+s that are listed in Table 11-2.
+
+<!-- missing-text -->
+
+A rear view of a maximum configured PDU-powered system with four CPC drawers and 12 PCIe+ I/O drawers is shown in Figure 11-1 on page 456.
+
+:
+
+<!-- missing-text -->
+
+The number of PDUs and power cords that are required based on the number of CPC drawers and PCIe+ I/O drawers are in Table 11-3.
+
+<!-- missing-text -->
+
+Power consumption
+
+The utility power consumption for the IBM z16 for PDU option is listed in Table 11-4.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: Consider the following points:
+

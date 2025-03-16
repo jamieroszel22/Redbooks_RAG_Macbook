@@ -1,0 +1,10 @@
+ operating system images that are coupled through one or more CFs.
+
+This section describes coupling link features supported in a Parallel Sysplex in which an IBM z16 can participate.
+
+Coupling links
+
+The type of coupling link that is used to connect a CF to an operating system LPAR is important. The link performance significantly affects response times and coupling processor usage. For configurations that extend over large distances, the time that is spent on the link can be the largest part of the response time.
+
+IBM z16, IBM z15, and IBM z14 13  support the following coupling link types:
+

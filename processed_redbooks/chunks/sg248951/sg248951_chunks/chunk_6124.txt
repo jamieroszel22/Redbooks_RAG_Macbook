@@ -1,0 +1,10 @@
+ be defined more than once across multiple LPARs. However, the PCIe cryptographic adapter number that is coupled with the usage domain index that is specified must be unique across all active LPARs.
+
+The same PCIe cryptographic adapter number and usage domain index combination can be defined for more than one LPAR (up to 85 for IBM z16). For example, you might define a configuration for backup situations. However, only one of the LPARs can be active at a time.
+
+For more information, see 6.5.5, 'Managing Crypto Express8S' on page 236.
+
+6.5.1  Cryptographic asynchronous functions
+
+The Crypto Express8S feature provides asynchronous cryptographic functions to IBM z16. More than 300 Cryptographic algorithms and modes are supported, including the following examples:
+

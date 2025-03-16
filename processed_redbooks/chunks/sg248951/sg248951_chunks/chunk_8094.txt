@@ -1,0 +1,10 @@
+r IML) to be taken to instantiate those configuration changes, reducing, or completely eliminating the client workload impact that would otherwise have resulted from taking these disruptive actions.
+
+IBM z16 provide a supported capability to drive these hardware-only I/O configuration changes from a driving z/OS HCD instance to a remote target CPC which is a Coupling facility of hosts IBM Linux on Z and z/TPF.
+
+This new support is applicable only when boththe driving CPC and the target CPC are z16s with the required firmware support (Bundle S24 or higher) and when the driving system's z/OS level is 2.3 or higher with APA OA65559.
+
+7.5.7  Coupling links
+
+IBM z16 servers support only active participation in the same Parallel Sysplex with IBM z15 and IBM z14. Configurations with z/OS on one of these servers can add an IBM z16 Server to their Sysplex for a z/OS or a Coupling Facility image.
+

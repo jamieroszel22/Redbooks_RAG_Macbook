@@ -1,0 +1,16 @@
+placement; not available on Max39 feature).
+
+The memory granularity, which is based on the installed customer memory, is listed in Table 2-7.
+
+<!-- missing-text -->
+
+2.5.1  Memory subsystem topology
+
+The IBM z16 memory subsystem uses high-speed, differential-ended communications memory channels to link a host memory to the main memory storage devices.
+
+The CPC drawer memory topology of an IBM z16 is shown in Figure 2-20.
+
+<!-- missing-text -->
+
+Consider the following points regarding the topology:
+

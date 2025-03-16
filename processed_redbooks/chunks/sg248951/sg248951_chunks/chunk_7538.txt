@@ -1,0 +1,8 @@
+ure to meet the lower latency and increased bandwidth demands of your applications.
+
+The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+FICON Express16S+
+
+FICON Express16S+ (carry forward to IBM z16) supports a link data rate of 16 Gbps and auto negotiation to 4 or 8 Gbps for synergy with switches, directors, and storage devices. With support for native FICON, High-Performance FICON for Z (zHPF), and Fibre Channel Protocol (FCP), the IBM Z enable you to position your SAN for even higher performance, which helps you to prepare for an end-to-end 16 Gbps infrastructure to meet the lower latency and increased bandwidth demands of your applications.
+

@@ -1,0 +1,12 @@
+o known as Integrated Coupling Adapter Short Reach (ICA SR, ICA SR1.1), supports a maximum distance of 150 meters (492 feet) and is defined as CHPID type CS5 in IOCP.
+
+Coupling Express2 Long Reach 8
+
+The CE LR link provides point-to-point coupling connectivity at distances of 10 km (6.21 miles) unrepeated and defined as CHPID type CL5 in IOCP. The supported operating systems are listed in Table 7-5 on page 256.
+
+Virtual Flash Memory use by CFCC
+
+VFM can be used in coupling facility images to provide extended capacity and availability for workloads that use WebSphere MQ Shared Queues structures. The use of VFM can help availability by reducing latency from paging delays that can occur at the start of the workday or during other transitional periods. It is also helps to eliminate delays that can occur when diagnostic data during failures is collected.
+
+CFCC Coupling Thin Interrupts (required for IBM z16)
+

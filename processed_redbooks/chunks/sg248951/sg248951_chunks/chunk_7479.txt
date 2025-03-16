@@ -1,0 +1,20 @@
+ V2.R3 with PTFs for APAR PH03207.
+
+The sort jobs must meet certain eligibility criteria. For the full list and other considerations, see the DFSORT User Guide for PH03207.
+
+CPU Measurement Facility
+
+Also known as Hardware Instrumentation Services (HIS), CPU Measurement Facility (CPUMF) data can be collected by z/OS System Measurement Facility on SMF 113 records to gain insight into the interaction of workload and hardware on which it runs.
+
+The supported operating systems are listed in Table 7-3 on page 253.
+
+For more information about this function, see this IBM Support web page.
+
+For more information about the CPU Measurement Facility, see this IBM Support web page.
+
+For more information, see '12.2, 'IBM z16 Large System Performance Reference ratio' on page 476.
+
+z/OS SMF Enhancements for CPACF
+
+SMF 0 records were enhanced to indicate the number of crypto counters that are supported by the current IBM Z hardware.
+

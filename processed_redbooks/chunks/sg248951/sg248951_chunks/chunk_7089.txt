@@ -1,0 +1,2 @@
+patibility Support enables guest use for several new facilities:
+

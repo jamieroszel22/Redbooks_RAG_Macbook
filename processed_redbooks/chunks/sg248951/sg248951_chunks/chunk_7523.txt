@@ -1,0 +1,16 @@
+d customer shared-engine coupling facility configurations.
+
+Therefore, IBM z15 made DYNDISP=THIN the default mode of operation for coupling facility images that use shared processors.
+
+CFCC Level 23
+
+CFCC Level 23 is delivered on IBM IBM z14 servers with driver level 36. In addition to CFCC Level 22 enhancements, it introduces the following enhancements:
+
+- /SM590000 Asynchronous cross invalidation (XI) for CF cache structures
+
+This enhancement requires z/OS fixes for APARs OA54688 (exploitation) and OA54985 (toleration). It also requires specific data manager support (Db2 V12 with PTFs).
+
+- /SM590000 Coupling Facility hang detection
+
+These enhancements provide a significant reduction in failure scope and client disruption (CF-level to structure-level), with no loss of FFDC collection capability. With this support, the CFCC dispatcher significantly reduces the CF hang detection interval to only 2 seconds, which allows more timely detection and recovery from such events.
+

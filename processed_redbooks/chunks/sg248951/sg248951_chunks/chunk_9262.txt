@@ -1,0 +1,16 @@
+ offerings that are installed at the same time, with the limitation that only one of them can be an On/Off CoD offering, and only one can be an SRB Upgrade record. The others can be any combination.
+
+The installed offerings can be activated fully or partially, and in any sequence and any combination. The offerings can be controlled manually through command interfaces on the HMC, or programmatically through a number of APIs. IBM applications, ISV programs, and client-written applications can control the use of the offerings.
+
+Resource usage (and therefore, financial exposure) can be controlled by using capacity tokens in the On/Off CoD offering records.
+
+The CPM is an example of an application that uses the CoD APIs to provision On/Off CoD capacity that is based on the requirements of the workload. The CPM cannot control other offerings.
+
+For more information about any of the topics in this chapter, see Capacity on Demand User's Guide , SC28-6943.
+
+<!-- missing-text -->
+
+Chapter 9.
+
+9
+

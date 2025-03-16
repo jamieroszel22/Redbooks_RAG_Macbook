@@ -1,0 +1,10 @@
+ real memory per z/OS image. This support allows new workloads that require more storage than is available.
+
+For more information about this release, see this announcement letter.
+
+7.5.4  z/OS V2.R4
+
+IBM z/OS, Version 2 Release 4, was made generally available on 30 September 2019. This release delivers innovation through an agile, optimized, and resilient platform that helps companies build applications and services that are based on a highly scalable and secure infrastructure. This infrastructure provides the performance and availability for on-premises or provisioned as-a-service workloads.
+
+z/OS V2.R4 delivers many capabilities, including the following examples:
+

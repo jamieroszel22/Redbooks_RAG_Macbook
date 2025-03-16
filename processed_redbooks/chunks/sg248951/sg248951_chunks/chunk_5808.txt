@@ -1,0 +1,14 @@
+topics:
+
+- /SM590000 5.1, 'Channel subsystem' on page 198
+- /SM590000 5.2, 'I/O configuration management' on page 206
+- /SM590000 5.3, 'Channel subsystem summary' on page 207
+
+5.1  Channel subsystem
+
+Channel subsystem (CSS) is a collective name of facilities that IBM Z servers use to control I/O operations.
+
+The channel subsystem directs the flow of information between I/O devices and main storage. It allows data processing to proceeded concurrently with I/O processing, which relieves data processors (central processor (CP) and Integrated Facility for Linux [IFL]) of the task of communicating directly with I/O devices.
+
+The channel subsystem includes subchannels, I/O devices that are attached through control units, and channel paths between the subsystem and control units. For more information about the channel subsystem, see 5.1.1, 'Multiple logical channel subsystems'.
+

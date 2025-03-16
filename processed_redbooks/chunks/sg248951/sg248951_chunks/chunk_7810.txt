@@ -1,0 +1,14 @@
+se manually entering VLAN IDs at the switch is no longer necessary.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Link aggregation support for z/VM
+
+Link aggregation (IEEE 802.3ad) that is controlled by the z/VM Virtual Switch (VSWITCH) allows the dedication of an OSA-Express port to the z/VM operating system. The port must be participating in an aggregated group that is configured in Layer 2 mode.
+
+Link aggregation (trunking) combines multiple physical OSA-Express ports into a single logical link. This configuration increases throughput, and provides nondisruptive failover if a port becomes unavailable. The target links for aggregation must be of the same type.
+
+Link aggregation is applicable to CHPID type OSD (QDIO). The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Multi-VSwitch Link Aggregation
+

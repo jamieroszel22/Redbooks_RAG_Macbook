@@ -1,0 +1,6 @@
+ forced to run as enabled, and you cannot disable HiperDispatch. The PROCVIEW statement cannot be changed dynamically; therefore, you must re-IPL after changing it to make the new setting effective.
+
+The MT\_ZIIP\_MODE parameter in the IEAOPTxx controls zIIP SMT mode. It can be 1 (the default), where only one thread can be running in a core, or 2 , where up two threads can be running in a core. If PROCVIEW CPU is specified, the MT\_ZIIP\_MODE is always 1 . Otherwise, the use of SMT to dispatch two threads in a single zIIP logical processor ( MT\_ZIIP\_MODE=2 ) can be changed dynamically by using the SET OPT=xx setting in the IEAOPTxx parmlib. Changing the MT mode for all cores can take some time to complete.
+
+PROCVIEW CORE requires DISPLAY M=CORE and CONFIG CORE to display the core states and configure an entire core.
+

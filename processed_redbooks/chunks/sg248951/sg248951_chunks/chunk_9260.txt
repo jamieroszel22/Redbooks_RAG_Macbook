@@ -1,0 +1,15 @@
+r the flexible memory options.
+- Use a convenient entry point for memory capacity, and select memory options that allow future upgrades within the memory cards that are installed on the CPC drawers.
+
+For more information about the offerings, see 2.5.7, 'Flexible Memory Option' on page 46.
+
+Considerations when installing CPC drawers
+
+During an upgrade, a second and third processor drawer can be installed concurrently if they are planned. Depending on the number of processor drawers in the upgrade and your I/O configuration, a fan-out rebalancing might be needed for availability reasons.
+
+A fourth or fifth processor drawer can be installed at the IBM Manufacturing plant only.
+
+8.13  Summary of Capacity on-Demand offerings
+
+The CoD infrastructure and its offerings are based on client requirements for more flexibility, granularity, and better business control over the IBM Z infrastructure, operationally, and financially.
+

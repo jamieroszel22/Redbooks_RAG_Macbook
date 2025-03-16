@@ -1,0 +1,12 @@
+introduced the capability to define (in the image profile for shared processors) the absolute processor capacity that the image is allowed to use (independent of the image weight or other cappings).
+
+To indicate that the LPAR can use the nondedicated processors absolute capping, select Absolute capping on the Image Profile Processor settings to specify an absolute number of processors at which to cap the LPAR's activity. The absolute capping value can be 'None' or a value for the number of processors (0.01 - 255.0).
+
+Following on to LPAR absolute capping, LPAR group absolute capping uses a similar method to enforce the following components:
+
+- /SM590000 Customer licensing
+- /SM590000 Non-z/OS partitions where group soft capping is not an option
+- /SM590000 z/OS partitions where ISV does not support software capping
+
+A group name, processor capping value, and partition membership are specified at the hardware console, along with the following properties:
+

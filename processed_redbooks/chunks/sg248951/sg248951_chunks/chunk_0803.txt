@@ -1,0 +1,11 @@
+cture also lower power consumption, reduces the footprint, and allows installation in virtually any data center. The IBM z16 server is rated for ASHRAE class A3 1  data center operating environment.
+
+The IBM z16 server is similar to IBM z15, but differentiates itself from previous IBM Z server generations through the following significant changes to the modular hardware:
+
+- /SM590000 All external cabling (power, I/O, and management) is performed at the rear of the system
+- /SM590000 Flexible configurations: Frame quantity is determined by the system configuration (1 - 4 frames)
+- /SM590000 Choice of power Intelligent Power Distribution Unit (iPDU or PDU) or Bulk Power Assembly (BPA)
+- /SM590000 Feature codes that reserve slots for plan-ahead CPC drawers
+- /SM590000 Internal water cooling plumbing for systems with more than three CPC drawers (Frames A and B)
+- /SM590000 PCIe+ Gen3 I/O drawers (19-inch format) supporting 16 PCIe adapters
+

@@ -1,0 +1,8 @@
+l time source for IBM Z Server Time Protocol (STP) for an IBM Z Coordinated Timing Network (CTN). The initial implementation for PTP connectivity is provided by using the IBM Z Support Element (SE).
+
+On IBM z16, the external time source (PTP or NTP) is connected directly to the CPC and bypasses the SE connection. This IBM z16 feature allows more accurate sync with the external time source.
+
+The accuracy of an STP-only CTN is improved by using an NTP or PTP server with the PPS output signal as the External Time Source (ETS). Devices with PPS output are available from several vendors that offer network timing solutions.
+
+Consider the following points:
+

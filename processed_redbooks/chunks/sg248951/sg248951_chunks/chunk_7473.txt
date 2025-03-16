@@ -1,0 +1,9 @@
+ to support the disassembly of the new vector instructions, and to display and set vector registers.
+- /SM590000 XML SS exploitation to use new vector processing instructions to improve performance.
+
+MASS and ATLAS can reduce the time and effort for middleware and application developers. IBM provides compiler built-in functions for SIMD that software applications can use as needed, such as for using string instructions.
+
+The use of new hardware instructions require the z/OS V2R5 XL C/C++ compiler with ARCH(14) and TUNE(14) options for targeting IBM z16 instructions. The ARCH(14) compiler option allows the compiler to use any new IBM z16 instructions where suitable. The TUNE(14) compiler option allows the compiler to tune for any IBM z16 micro-architecture.
+
+Vector programming support is extended for IBM z16 to provide access to the new instructions that were introduced by the VEF 2 7 specification.
+

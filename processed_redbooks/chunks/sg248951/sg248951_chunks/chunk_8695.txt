@@ -1,0 +1,12 @@
+ible capacity record activation on the target machine. Capacity shifts can be done under full customer control without IBM intervention and can be fully automated by using IBM GDPS automation tools.
+
+Flexible Capacity for Cyber Resiliency supports a broad set of scenarios and can be combined with other IBM On-Demand offerings.
+
+For more information, see 'IBM Z Flexible Capacity for Cyber Resiliency' on page 520.
+
+8.10  Capacity Backup
+
+CBU provides reserved emergency backup processor capacity for unplanned situations in which capacity is lost in another part of your enterprise. It allows you to recover by adding the reserved capacity on a designated IBM z16 server.
+
+CBU is the quick, temporary activation of PUs:
+

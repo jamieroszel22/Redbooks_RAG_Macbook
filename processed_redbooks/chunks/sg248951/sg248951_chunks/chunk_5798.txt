@@ -1,0 +1,10 @@
+d sensitive data on any attempt to tamper with the device. The security features of the HSM are designed to meet the requirements of FIPS 140-2, Level 4, which is the highest security level defined.
+
+The Crypto Express7S (2 port), FC 0898 includes two IBM PCIe Cryptographic Coprocessors (PCIeCC) per feature. The IBM PCIeCC is an HSM.
+
+The Crypto Express7S (1 port), FC 0899 includes one IBM PCIe Cryptographic Coprocessors (PCIeCC) per feature. For availability reasons, a minimum of two features is required for the one port feature.
+
+Up to 30 Crypto Express7S (2 port) features are supported on IBM z15 T01. The maximum number of the one-port features is 16. The total number of HSMs supported on IBM z16 A01 is 60 in a combination of Crypto Express8S (2 HSM), Crypto Express8S (1 HSM), Crypto Express7S (2 port), Crypto Express7S (1 port), or Crypto Express6S.
+
+The Crypto Express7S feature occupies one I/O slot in a PCIe+ I/O drawer.
+

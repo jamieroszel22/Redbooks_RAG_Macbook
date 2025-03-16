@@ -1,0 +1,18 @@
+ IBM z Processor Capacity Reference (IBM zPCR) tool supports the following workload categories:
+
+- /SM590000 Low
+- /SM590000 Low-Average
+- /SM590000 Average
+- /SM590000 Average-high
+- /SM590000 High
+
+For more information about the no-charge IBM zPCR tool (which reflects the latest IBM LSPR measurements), see the Getting Started with IBM z Processor Capacity Reference.
+
+As described in 12.5, 'LSPR workload categories based on L1MP and RNI' on page 481, the underlying performance sensitive factor is how a workload interacts with the processor hardware.
+
+12.7  CPU MF counter data and LSPR workload type
+
+Beginning with the z10 processor, the hardware characteristics can be measured by using CPU MF (SMF 113) counters data. A production workload can be matched to an LSPR workload category through these hardware characteristics.
+
+For more information about RNI, see 12.5, 'LSPR workload categories based on L1MP and RNI' on page 481.
+

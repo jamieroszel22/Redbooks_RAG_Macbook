@@ -1,0 +1,14 @@
+on on the HMC.
+
+With IBM z16, further improvements were made in the wizards to guide you though the different configuration possibilities. Most of the changes are visual to provide clearer guidance.
+
+/SM590000 System Availability Data changes
+
+Transmit System Availability Data (TSAD) contains important data for the client and IBM. For example, this task sends data to IBM Resource Link to have MCL and configuration information available. Also, Capacity on Demand (CoD) information is exchanged. IBM proactive monitors Reliability, Availability, and Serviceability (RAS) data for potential actions or improvements for the system.
+
+Users sometimes wanted to modify the execution time of this TSAD and accidentally deleted this TSAD Scheduled Operation.
+
+With previous IBM Z generations, TSAD was scheduled in the Customize Scheduled Operation task for the HMC and the SE/CPC.
+
+With IBM z16, this TSAD function moved to the Customize Console Services task, as shown in Figure 10-6.
+

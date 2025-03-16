@@ -1,0 +1,8 @@
+operating system image (without operator intervention) to register link incident reports. The supported operating systems are listed in Table 7-6 on page 257.
+
+Health Check for FICON Dynamic routing
+
+Starting with IBM z13, the channel microcode was changed to support FICON dynamic routing. Although change is required in z/OS to support dynamic routing, I/O errors can occur if the FICON switches are configured for dynamic routing despite the missing support in the processor or storage controllers. Therefore, a health check is provided that interrogates the switch to determine whether dynamic routing is enabled in the switch fabric.
+
+No action is required on z/OS to enable the health check; it is automatically enabled at IPL and reacts to changes that might cause problems. The health check can be disabled by using the PARMLIB or SDSF modify commands.
+

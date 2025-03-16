@@ -1,0 +1,10 @@
+ known are maintained.
+
+With the IBM DS8870 or newer, IBM z16 servers can extend the use of FEC to the fabric N\_Ports for a completed end-to-end coverage of 32 Gbps FC links.
+
+FICON dynamic routing
+
+With the IBM z14 and newer servers, FICON channels are no longer restricted to the use of static SAN routing policies for ISLs for cascaded FICON directors. The IBM Z servers now support dynamic routing in the SAN with the FICON Dynamic Routing (FIDR) feature. It is designed to support the dynamic routing policies that are provided by the FICON director manufacturers; for example, Brocade's exchange-based routing (EBR) and Cisco's originator exchange ID (OxID) 8  routing.
+
+A static SAN routing policy normally assigns the ISL routes according to the incoming port and its destination domain (port-based routing), or the source and destination ports pairing (device-based routing).
+

@@ -1,0 +1,18 @@
+es that an IFL was purchased and is present.
+
+The allowable number of IFLs and Unassigned IFLs per feature is listed in Table 3-1.
+
+<!-- missing-text -->
+
+3.5.4  Internal Coupling Facility (FC 1960)
+
+An Internal Coupling Facility (ICF) is a PU that is used to run the CFCC for Parallel Sysplex environments. Within the sum of all unassigned PUs in up to four CPC drawers, up to 200 ICFs can be characterized, depending on the model. However, the maximum number of ICFs that can be defined on a coupling facility LPAR is limited to 16. ICFs are orderable by using FC 1960.
+
+Unassigned ICFs
+
+New on IBM z16, an ICF that is purchased but not activated is registered as an unassigned ICF (FC 1974). When the system is later upgraded with another ICF, the system recognizes that an ICF was purchased and is present.
+
+The allowable number of ICFs and Unassigned ICFs for each model is listed in Table 3-2.
+
+<!-- missing-text -->
+

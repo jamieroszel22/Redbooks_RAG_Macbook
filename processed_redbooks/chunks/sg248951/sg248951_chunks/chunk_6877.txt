@@ -1,0 +1,18 @@
+e best option for you.
+
+The TKE 10.0 LIC requires the 4770 crypto adapter. The TKE 9.x and TKE 8.x workstations can be upgraded to the TKE 10.0 tower workstation by purchasing a 4770 crypto adapter.
+
+The Omnikey Cardman 3821 smart card readers can be carried forward to any TKE 10.0 workstation. Smart cards 45D3398, 74Y0551, and 00JA710 can be used on TKE 10.0.
+
+When performing a MES upgrade from TKE 8.x, or TKE 9.x to a TKE 10.0 installation, the following steps must be completed:
+
+- 1. Save Upgrade Data on an old TKE to USB memory to save client data.
+- 2. Replace the 4767 crypto adapter with the 4768 crypto adapter.
+- 3. Upgrade the firmware to TKE 10.0.
+- 4. Install the Frame Roll to apply Save Upgrade Data (client data) to the TKE 10.0 system.
+- 5. Run the TKE Workstation Setup wizard.
+
+TKE upgrade considerations
+
+The TKE LIC does not need to be upgraded if you are migrating your configuration with Crypto Express6S and TKE Release 9.x to an IBM z16.
+

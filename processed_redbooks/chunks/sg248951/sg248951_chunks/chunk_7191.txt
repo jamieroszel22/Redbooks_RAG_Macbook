@@ -1,0 +1,6 @@
+ended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

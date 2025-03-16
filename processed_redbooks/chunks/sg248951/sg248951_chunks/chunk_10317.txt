@@ -1,0 +1,8 @@
+
+- /SM590000 Review of the IBM z16 configuration to determine the following values:
+- -Number of drawers that are installed and the number of PUs enabled. Consider the following points:
+- GLYPH&lt;129&gt; Use the Resource Link machine information or the HMA to determine the model, number, and types of PUs (CPs, IFLs, ICFs, and zIIPs).
+- GLYPH&lt;129&gt; Determine the amount of memory (physically installed and LICCC-enabled).
+- GLYPH&lt;129&gt; Work with your IBM Service Support Representative (IBM SSR) to determine the memory card size in each drawer. The memory card sizes and the number of cards that are installed for each drawer can be viewed from the SE under the CPC configuration task list. Use the View Hardware Configuration option.
+- ICA SR fan-out layouts and ICA to ICA connections. process is a normal part of the I/O connectivity planning. The alternative paths must be
+- -

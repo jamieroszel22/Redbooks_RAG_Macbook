@@ -1,0 +1,12 @@
+ mixed in the same drawer.
+- /SM590000 The eight DIMMs per MCU must be the same size.
+- /SM590000 Addressable memory is required for partitions and HSA.
+
+2.5.2  Redundant array of independent memory
+
+The IBM z16 Model A01 server uses the enhanced RAIM design. Installed Physical Memory (DIMM capacity) in configuration reports is addressable memory size. Memory is protected by RAIM. DIMM size includes RAIM overhead.
+
+Servers are configured with the most efficient configuration of memory DIMMs that can support Addressable Memory that is required for Customer Ordered Memory plus HSA. In some cases, Available Addressable Memory might be available to support one or more concurrent LIC CC Customer Memory upgrades with no DIMM changes.
+
+IBM z16 implements enhanced RAIM design that includes the following features:
+

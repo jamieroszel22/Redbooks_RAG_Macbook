@@ -1,0 +1,11 @@
+objects are still in use).
+- -Specific deletions of these objects do not factor into the residency time metrics.
+- -These metrics were implemented as new fields within the CF Storage Class controls:
+
+They are retrieved by using the IXLCACHE READ\_STGSTATS command or IXLMG/IXLYAMDA services that are requesting CF Storage Class controls.
+
+They are also available in CF structure memory dumps that capture CF Storage Class controls.
+
+- -The metrics are included in Db2 Performance Manager statistics and used for improved cache structure management (cache sizing, castout processing, reclaim management, and so on). The inclusion of these metrics in sysplex SMF/RMF data is not planned, but can be added later. APAR OA60650 is required on z/OS V2R3, V2R4, and V2R5 to support the new metrics.
+- /SM590000 New cache retry buffer support was added for IFCC retry idempotency:
+

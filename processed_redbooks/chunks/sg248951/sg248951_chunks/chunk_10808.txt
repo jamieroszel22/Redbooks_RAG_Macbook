@@ -1,0 +1,14 @@
+ole Configuration Import/Export
+
+10.5.12  System Input/Output Configuration Analyzer on the SE and HMC
+
+The System Input/Output Configuration Analyzer supports the system I/O configuration function.
+
+The information that is needed to manage a system's I/O configuration must be obtained from many separate sources. The System Input/Output Configuration Analyzer task enables the system hardware administrator to access, from one location, the information from those sources. Managing I/O configurations then becomes easier, particularly across multiple systems.
+
+The System Input/Output Configuration Analyzer runs the following functions:
+
+- /SM590000 Analyzes the current active IOCDS on the SE.
+- /SM590000 Extracts information about the defined channel, partitions, link addresses, and control units.
+- /SM590000 Requests the channels' node ID information. The Fibre Channel connection (FICON) channels support remote node ID information, which is also collected.
+

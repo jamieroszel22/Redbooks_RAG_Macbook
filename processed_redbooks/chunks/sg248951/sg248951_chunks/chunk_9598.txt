@@ -1,0 +1,4 @@
+tual L4 (shared victim) caches (see Figure 9-4).
+
+<!-- missing-text -->
+

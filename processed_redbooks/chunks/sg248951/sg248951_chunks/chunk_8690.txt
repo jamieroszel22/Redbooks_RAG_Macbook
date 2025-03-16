@@ -1,0 +1,14 @@
+ used by the z/OS systems to run general CP work during the boost periods.
+
+The System Recovery Boost Upgrade requires the following feature codes:
+
+- /SM590000 FC 6802: System Recovery Boost Record
+
+This feature code provides extra zIIP capacity (20 zIIP records for 1 - 5 years, orderable by FC 6799, and must be renewed if expired) for use in System Recovery Boost events (shutdown, restart/IPL, and stand-alone memory dumps).
+
+Note: At least one permanent zIIP record must be present for ordering System Recovery Boost Upgrade (FC 6802).
+
+- /SM590000 FC 9930: Boost Authorization contract
+
+This code enables the ordering of On/Off CoD for System Recovery Boost through Resource Link.
+

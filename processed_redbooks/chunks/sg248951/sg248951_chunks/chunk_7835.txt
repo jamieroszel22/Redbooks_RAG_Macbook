@@ -1,0 +1,8 @@
+erated CPACF encryption into the standard Linux components, users can achieve optimized encryption transparently to prevent raw key material from being visible to operating systems and applications.
+
+Because of the potential costs and overhead, most of the organizations avoid the use of host-based network encryption today. By using enhanced CPACF and SIMD on IBM z16, TLS and IPsec can use hardware performance gains while benefiting from transparent enablement. Reduced cost of encryption enables broad use of network encryption.
+
+IBM Z Security and Compliance Center
+
+The IBM Z Security and Compliance Center is a modern, browser-based application that provides compliance capability mapping, fact collection, and validation. Designed for use with minimal technical skills, this solution can automate evidence collection of compliant-relevant facts from IBM Z platforms, including the new CPACF usage counters that demonstrate crypto algorithm strength and key protection.
+

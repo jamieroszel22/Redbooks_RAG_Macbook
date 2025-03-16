@@ -1,0 +1,10 @@
+ RoCE Express2 feature also is used by Linux on IBM Z for applications that are coded to the native RoCE verb interface or use Ethernet (such as TCP/IP). This native use does not require a peer OSA.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Shared Memory Communication - Direct Memory Access
+
+First introduced with IBM z13 servers, the Shared Memory Communication - Direct Memory Access (SMC-D) feature maintains the socket-API transparency aspect of SMC-R so that applications that use TCPI/IP communications can benefit immediately without requiring application software to undergo IP topology changes.
+
+Similar to SMC-R, this protocol uses shared memory architectural concepts that eliminate TCP/IP processing in the data path, yet preserve TCP/IP Qualities of Service for connection management purposes.
+

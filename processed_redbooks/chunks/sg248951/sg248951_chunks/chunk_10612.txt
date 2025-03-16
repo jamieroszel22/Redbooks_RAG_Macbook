@@ -1,0 +1,12 @@
+ installed to support IBM z16. Also, Driver 51/Version 2.16.0 can be installed on the two HMCs that are provided with the HMA FC 0100 on IBM z15. With these HMCs, you can still work local at an HMC.
+
+Note: Remote web browser access is the default for the HMA HMCs.
+
+Access to the USB Device on HMC and SE requires physical access to the HMC/SE.
+
+Log-on security for a web browser is provided by the local HMC user log-on procedures. Certificates for secure communications are provided and can be changed by the user.
+
+Web browser access can be limited by specifying an IP address from the Customize Console Services task. To enable or disable the Remote operation service, click Change ... in the Customize Console Services window, as shown in Figure 10-23.
+
+<!-- missing-text -->
+

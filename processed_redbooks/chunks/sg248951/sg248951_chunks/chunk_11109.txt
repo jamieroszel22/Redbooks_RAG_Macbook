@@ -1,0 +1,24 @@
+n sharing the switch across two RoCE Express features.
+
+The unrepeated distances for different multimode (MM) fiber optic types for zHyperLink Express are listed in Table A-2.
+
+<!-- missing-text -->
+
+The maximum unrepeated distances for FICON SX features are listed in Table A-3.
+
+<!-- missing-text -->
+
+- a. Fibre Channel Standard (not certified for Ethernet)
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix B.
+
+IBM Z Integrated Accelerator for AI
+
+This appendix provides a short overview of the new IBM Z Integrated Accelerator for Artificial Intelligence that is implemented in the IBM z16 processor (Telum).
+
+Overview
+

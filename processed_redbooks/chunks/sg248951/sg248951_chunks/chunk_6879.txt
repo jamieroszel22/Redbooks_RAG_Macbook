@@ -1,0 +1,16 @@
+ of a Crypto Express adapter in EP 11 mode always requires the use of a TKE.
+
+<!-- missing-text -->
+
+- a. The TKE workstation can be upgraded to TKE LIC V10.0 by adding a 4770 cryptographic adapter.
+
+Attention: The TKE is unaware of the CPC type where the host crypto module is installed. That is, the TKE does not consider whether a Crypto Express is running on IBM z16, IBM 15, or IBM z14 system. Therefore, the LIC can support any CPC where the coprocessor is supported, but the TKE LIC must support the specific crypto module.
+
+6.7  Cryptographic functions comparison
+
+The functions or attributes on IBM z16 for the two cryptographic hardware features are listed in Table 6-4, where 'X' indicates that the function or attribute is supported.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

@@ -1,0 +1,16 @@
+takes more time than a simple LIC upgrade. Features Max68 and Max200 are factory build only.
+
+For more information about Capacity on Demand, see Chapter 8, 'System upgrades' on page 327.
+
+PU sparing
+
+If a PU failure occurs, the failed PU's characterization is dynamically and transparently reassigned to a spare PU. IBM z16 servers have two spare PUs. PUs that are not characterized on a CPC configuration also can be used as extra spare PUs.
+
+For more information about PU sparing, see 3.5.10, 'Sparing rules' on page 111.
+
+PU pools
+
+PUs that are defined as CPs, IFLs, ICFs, and zIIPs are grouped in their own pools from where they can be managed separately. This configuration significantly simplifies capacity planning and management for LPARs. The separation also affects weight management because CP and zIIP weights can be managed separately.
+
+For more information, see 'PU weighting' on page 99.
+

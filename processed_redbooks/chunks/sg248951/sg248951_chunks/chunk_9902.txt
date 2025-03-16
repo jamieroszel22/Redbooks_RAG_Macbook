@@ -1,0 +1,10 @@
+ons. A drawer can always be added concurrently.
+
+- /SM590000 Air-cooled system: radiator with redundant ( N +1) pumps.
+
+IBM z16 implements true N +1 redundancy on pumps and blowers for the radiator.
+
+One radiator unit in Frame A and one radiator unit in framer B, which is configuration-dependent. The radiator cooling system can support up to three CPC drawers simultaneously with a redundant design that consists of two pumps and two blowers.
+
+The replacement of a pump or blower causes no performance effect.
+

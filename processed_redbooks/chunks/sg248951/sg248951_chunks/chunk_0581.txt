@@ -1,0 +1,10 @@
+ RDMA (SMC-R).
+
+With SMC-R, you can transfer huge amounts of data quickly and at low latency. SMC-R is transparent to the application and requires no code changes, which enables rapid time to value.
+
+The RoCE Express3 features also can provide LAN connectivity for Linux on IBM Z, and comply with IEEE standards. In addition, RoCE Express features assume several functions of the TCP/IP stack that normally are performed by the PU, which allows significant performance benefits by offloading processing from the operating system.
+
+Internal Shared Memory
+
+ISM is a virtual Peripheral Component Express (PCI) network adapter that enables direct access to shared virtual memory. It provides a highly optimized network interconnect for IBM Z platform intra-communications.
+

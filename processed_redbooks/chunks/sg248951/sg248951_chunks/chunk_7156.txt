@@ -1,0 +1,14 @@
+ta
+- -Provides a better picture of the system for diagnostic and tuning purposes.
+- /SM590000 Consolidated Boot Loader for guest IPL from SCSI
+
+The following IBM z16 support is not apparent to z/VM:
+
+- /SM590000 Dynamic Partition Mode (DPM) enhancements SMC-R, SMC-D
+- /SM590000 Dynamic Partition Mode (DPM) FICON CTC support for LPARs running on the same CPC
+- -FICON CTC support is a prerequisite for establishing z/VM Single System Image (SSI) clustering. DPM FICON CTC support allows customers to create a z/VM SSI environment within the same CPC. SSI Clustering technology is required in order for customers to exploit Live Guest Relocation (LGR) to move running Linux guests across z/VM images.
+- /SM590000 OSA-Express7S 1.2 GbE, 10 GbE, 1000BASE-T, OSA-Express7S 1.1 (25 GbE) Adapters
+- /SM590000 Coupling Express2 LR Adapter
+- /SM590000 32 Gbps 2-port FICON Adapter
+- /SM590000 Coupling facility scalability and performance improvements
+

@@ -1,0 +1,10 @@
+The z/OS-provided zlib library is statically linked into many IBM and ISV products and remains functional. However, to realize the best optimization for IBM z16, some minor changes are made to zlib.
+
+The current zlib and the new zlib function are available for IBM z14 and earlier servers and IBM z16 hardware. It functions with or without the IBM z16 z/OS PTFs on IBM z14 and earlier servers.
+
+Software support
+
+On-Chip Compression function is compatible with zEDC support and is available in z/OS V2R2 and later for data compression and decompression. Although support for data recovery (decompression) if zEDC or On-Chip Compression not available, it is provided through software in z/OS V2R2 with the appropriate program temporary fixes (PTFs).
+
+Software decompression is slow and can involve considerable processor resources. Therefore, it is not recommended for production environments.
+

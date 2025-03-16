@@ -1,0 +1,27 @@
+ons
+
+The publication IBM Z 8561 Installation Manual for Physical Planning, GC28-7002, also is relevant as another information source.
+
+Online resources
+
+The following online resources are available:
+
+- /SM590000 The IBM Resource Link for documentation and tools website:
+- http://www.ibm.com/servers/resourcelink
+- /SM590000 IBM Telum Processor: The next-gen microprocessor for IBM Z and IBM LinuxONE:
+- https://www.ibm.com/blogs/systems/ibm-telum-processor-the-next-gen-microprocess or-for-ibm-z-and-ibm-linuxone/
+- /SM590000 Leveraging ONNX Models on IBM Z and LinuxONE:
+- https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/andrew-sica/20 21/10/29/leveraging-onnx-models-on-ibm-z-and-linuxone
+- /SM590000 Jump starting your experience with AI on IBM Z:
+- https://blog.share.org/Article/jump-starting-your-experience-with-ai-on-ibm-z
+
+Help from IBM
+
+IBM Support and downloads
+
+ibm.com /support
+
+IBM Global Services
+
+ibm.com /services
+

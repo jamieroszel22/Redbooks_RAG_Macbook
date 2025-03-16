@@ -1,0 +1,19 @@
+/SM590000 Stand-Alone Input/Output Configuration Program User's Guide , SB10-7180
+- /SM590000 Input/Output Configuration Program User's Guide for ICP IOCP , SB10-7177
+
+Dynamic Partition Manager V5.0
+
+Dynamic Partition Manager V5.0 is available for managing IBM z16 that are running Linux. DPM 5.0 is available with HMC Driver Level 51 (HMC Version 2.16.0). IOCP does not need to configure a server that is running in DPM mode.
+
+For more information, see IBM Dynamic Partition Manager (DPM) Guide , SB10-7182.
+
+7.4.2  Base CPC features and functions
+
+In this section, we describe the features and functions of Base CPC.
+
+HiperDispatch
+
+The HIPERDISPATCH=YES/NO parameter in the IEAOPTxx member of SYS1.PARMLIB and on the SET OPT=xx command controls whether HiperDispatch is enabled or disabled for a z/OS image. It can be changed dynamically, without an IPL or any outage.
+
+In z/OS, the IEAOPTxx keyword HIPERDISPATCH defaults to YES when it is running on an IBM z16, IBM z15, or IBM IBM z14system.
+

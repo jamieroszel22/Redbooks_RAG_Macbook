@@ -1,0 +1,9 @@
+re used to paying for IBM Z software and hardware for peak capacity and managing their software costs by capping machine usage. Traditionally, they capped machine use by using the following methods:
+
+- /SM590000 Running batch workloads during off-shift hours
+- /SM590000 Reducing machine resources access to development and test
+- /SM590000 Not introducing new workloads or applications onto the platform, even when it was the most logical technology for such workloads
+- /SM590000 Investing in tools and resources to manage subcapacity capping
+
+These approaches, while effective in predictable workload management, created a mind-set that stifles innovation and limits the ability for businesses to use the full value of Z technology, especially now as they adapt for digital transformation and the journey to hybrid cloud.
+

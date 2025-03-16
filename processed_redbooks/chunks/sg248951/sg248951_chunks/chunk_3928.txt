@@ -1,0 +1,8 @@
+which leaves the message path active with the z/OS image's OLD, now-obsolete SYID. Because the path erroneously remained active, z/OS does not see any need to reactivate it with a new, correct SYID.
+
+From the perspective of the CF, the incorrect SYID persists and prevents delivery of signals to the z/OS image that uses that message path.
+
+With IBM z15, CFCC provides a new resiliency mechanism that transparently recovers for this 'missing' message path deactivate (if and when that situation ever occurs).
+
+The CF provides more information to z/OS about every message path that appears active; namely, the current SYID with which the message path is registered in the CF. Whenever z/OS interrogates the state of the message paths to the CF, z/OS checks this SYID information for currency and correctness. If an obsolete or incorrect SYID exists in the message path for any reason, z/OS performs the following steps:
+

@@ -1,0 +1,8 @@
+e scope of this book to describe all possible migration scenarios. Always consult with subject matter experts to help you to develop your migration strategy.
+
+Coupling links and Server Time Protocol
+
+All external coupling links can be used to pass time synchronization signals by using Server Time Protocol (STP). STP is a message-based protocol in which timing messages are passed over data links between servers. The same coupling links can be used to exchange time and CF messages in a Parallel Sysplex.
+
+The use of the coupling links to exchange STP messages has the following advantages:
+

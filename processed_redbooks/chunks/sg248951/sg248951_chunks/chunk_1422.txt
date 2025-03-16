@@ -1,0 +1,12 @@
+ervers to maintain time synchronization with each other and synchronization to an ETS. In a multi-server STP Coordinated Timing Network (CTN) coupling/timing links are required for STP communication
+
+For more information, see IBM Z Server Time Protocol Guide, SG24-8480.
+
+2.2.3  System control
+
+The various system elements are managed through the base management cards (BMCs). The BMC is the replacement for the previous Flexible Support Processors (FSPs) that were used in previous systems.
+
+With IBM z16 Model A01, the CPC drawer BMC is combined with the Oscillator card in a single Field Replaceable Unit (FRU). Two combined BMC/OSC cards are used per CPC drawer.
+
+Also, the PCIe+ I/O drawer has an improved BMC. Each BMC card has one Ethernet port that connects to the internal Ethernet LANs through the internal network switches (SW1, SW2, and SW3, SW4, if configured). The BMCs communicate with the SEs and provide a subsystem interface (SSI) for controlling components.
+

@@ -1,0 +1,16 @@
+he customer's responsibility to manage all certificates.
+
+Figure 10-2 shows an example to change the number of days until the expiration occurs while a certificate is created.
+
+<!-- missing-text -->
+
+To change the expiration days for a certificate, click Certificate Management → and select Valid Until → Selected → Modify .
+
+- /SM590000 Task Display Alter
+
+The tasks Display or Alter on the SE are possible for an ACSADMIN role only. The roles for SYSPROG and SERVICE no longer include this task by default.
+
+- /SM590000 View only HMC tasks
+
+The following tasks can be assigned as View only for a specific role with Driver 51/Version 2.16.0:
+

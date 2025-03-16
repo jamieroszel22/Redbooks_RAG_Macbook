@@ -1,0 +1,8 @@
+ CPC drawers
+- /SM590000 Internal water cooling plumbing for systems with more than three CPC drawers (Frames A and B)
+- /SM590000 PCIe+ Gen3 I/O drawers (19-inch format) supporting 16 PCIe adapters
+
+The power options include PDU-based power or BPA-based power. The IBM z16 A01 system is designed as a radiator (air) cooled system.
+
+The IBM z16 A01 includes the following basic hardware building blocks:
+

@@ -1,0 +1,17 @@
+ch is offered supported Linux distributions. For more information about minimal and recommended distribution levels, see the Tested platforms for Linux web page of the IBM IT infrastructure website.
+
+6.8.2  Crypto Express8S support of VFPE
+
+The following minimum prerequisites must be met to use this element:
+
+- /SM590000 z/OS V2.5, z/OS V2.4 with PTFs
+- /SM590000 z/OS V2.3 with PTFs
+- /SM590000 z/OS V2.2 with the Enhanced Cryptographic Support for z/OS V1.13-V2.2 web deliverable installed
+- /SM590000 z/VM V7.2 for guest use
+- /SM590000 z/VM V7.1 with PTFs for guest use
+- /SM590000 Linux on IBM Z:
+- -SUSE SLES 15 SP1 with service, SUSE SLES 12 SP4 with service, and SUSE SLES 11 SP4 with service.
+- -Red Hat RHEL 8.0 with service, Red Hat RHEL 7.7 with service, and Red Hat RHEL 6.10 with service.
+- -Ubuntu 18.04.1 LTS with service and Ubuntu 16.04.6 LTS with service.
+- -The support statements for IBM z16 also cover the KVM hypervisor on distribution levels that have KVM support.
+

@@ -1,0 +1,8 @@
+r 7 nn ) if more CPs are requested, or if the capacity identifier is changed as part of the permanent upgrade. If necessary, more LPARs can be created concurrently to use the newly added processors.
+
+Consideration: A permanent upgrade of processors can provide a concurrent upgrade, which results in more enabled processors that are available to a system configuration. More planning and tasks are required for nondisruptive logical upgrades. For more information, see 'Guidelines to avoid disruptive upgrades' on page 377.
+
+Maintenance charges are automatically adjusted as a result of a permanent upgrade.
+
+Software charges that are based on the total capacity of the system on which the software is installed are adjusted to the new capacity after the permanent upgrade is installed. Software products that use WLC or customers with TFP might not be affected by the system upgrade because their charges are based on LPAR usage rather than system total capacity.
+

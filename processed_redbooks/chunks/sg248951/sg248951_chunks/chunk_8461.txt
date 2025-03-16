@@ -1,0 +1,8 @@
+our billing period or deactivate the current On/Off CoD configuration. The times when the capacity is activated and deactivated are maintained in the IBM z16 and returned to the IBM support systems.
+
+If On/Off capacity is active, On/Off capacity can be added without having to return the system to its original capacity. If the capacity is increased multiple times within a 24-hour period, the charges apply to the highest amount of capacity active in that period.
+
+If capacity is added from an active record that contains capacity tokens, the system checks whether the resource has enough capacity to be active for an entire billing window (24 hours). If that criteria is not met, no extra resources are activated from the record.
+
+If necessary, more LPARs can be activated concurrently to use the newly added processor resources.
+

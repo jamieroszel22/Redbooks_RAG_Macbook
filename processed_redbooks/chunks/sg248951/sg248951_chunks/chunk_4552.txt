@@ -1,0 +1,15 @@
+ryption concept that was introduced with IBM z14, which is aimed at delivering best IBM Security hardware and software enhancements, services, and practices for 360-degree infrastructure protection.
+
+LPAR is defined as IBM SSC by using the HMC.
+
+The IBM SSC solution includes the following key advantages:
+
+- /SM590000 Applications require zero changes to use IBM SSC; software developers do not need to write any IBM SSC-specific programming code.
+- /SM590000 End-to-end encryption (in-flight and at-rest data):
+- -Automatic Network Encryption (TLS, IPsec): Data-in-flight.
+
+- -Automatic File System Encryption (LUKS): Data-at-rest.
+- -Linux Unified Key Setup (LUKS) is the standard way in Linux to provide disk encryption. SSC encrypts all data with a key that is stored within the appliance.
+- -Protected memory: Up to 16 TB can be defined per IBM SSC LPAR.
+- /SM590000 Encrypted Diagnostic Data
+

@@ -1,0 +1,14 @@
+n that is designed to allow HiperSockets to transfer data synchronously (if possible) and asynchronously, if necessary. This feature combines ultra-low latency with more tolerance for traffic peaks.
+
+With the asynchronous support, data can be temporarily held until the receiver has buffers that are available in its inbound queue during high volume situations. The HiperSockets Completion Queue function requires the following minimum applications 11 :
+
+- /SM590000 z/OS V2.2 with PTFs
+- /SM590000 Linux on IBM Z distributions:
+- -Red Hat Enterprise Linux (RHEL) 6.2
+- -SUSE Linux Enterprise Server (SLES) 11 SP2
+- -Ubuntu server 16.04 LTS
+- /SM590000 z/VSE V6.2
+- /SM590000 z/VM V6.4 12  with maintenance
+
+The z/VM virtual switch function transparently bridges a guest virtual machine network connection on a HiperSockets LAN segment. This bridge allows a single HiperSockets guest virtual machine network connection to communicate directly with the following systems:
+

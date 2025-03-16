@@ -1,0 +1,12 @@
+capacity settings to the 200 capacity settings that are available with full capacity CPs (CP7). Each of the 117 subcapacity settings applies to up to 39 CPs only, independent of the model installed.
+
+Note: Information about CPs in the remainder of this chapter applies to all CP capacity settings, unless indicated otherwise. For more information about granular capacity, see 2.3.3, 'PU characterization' on page 33.
+
+3.5.3  Integrated Facility for Linux (FC 1959)
+
+An IFL is a PU that can be used to run Linux, Linux guests on z/VM operating systems, and an IBM Secure Service Container (SSC). Up to 200 PUs can be characterized as IFLs, depending on the configuration.
+
+Note: IFLs can be dedicated to a Linux, a z/VM, or an SSC LPAR, or can be shared by multiple Linux guests, z/VM LPARs, or SSC that are running on the same IBM z16 server. Only z/VM, Linux on IBM Z operating systems, SSC, and designated software products can run on IFLs. IFLs are orderable by using FC 1959.
+
+IFL pool
+

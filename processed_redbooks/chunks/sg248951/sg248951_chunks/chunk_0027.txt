@@ -1,0 +1,35 @@
+your home base.
+
+Find out more about the residency program, browse the residency index, and apply online at:
+
+ibm.com /redbooks/residencies.html
+
+Comments welcome
+
+Your comments are important to us!
+
+We want our books to be as helpful as possible. Send us your comments about this book or other IBM Redbooks publications in one of the following ways:
+
+- /SM590000 Use the online Contact us review Redbooks form found at:
+
+ibm.com /redbooks
+
+- /SM590000 Send your comments in an email to:
+
+redbooks@us.ibm.com
+
+- /SM590000 Mail your comments to:
+- IBM Corporation, IBM Redbooks
+
+Dept. HYTD Mail Station P099 2455 South Road Poughkeepsie, NY 12601-5400
+
+Stay connected to IBM Redbooks
+
+- /SM590000 Look for us on LinkedIn:
+
+http://www.linkedin.com/groups?home=&amp;gid=2130806
+
+- /SM590000 Explore new Redbooks publications, residencies, and workshops with the IBM Redbooks weekly newsletter:
+
+https://www.redbooks.ibm.com/Redbooks.nsf/subscribe?OpenForm
+

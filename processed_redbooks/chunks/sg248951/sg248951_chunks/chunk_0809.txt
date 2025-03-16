@@ -1,0 +1,12 @@
+er plates are available for the openings at the top rear of each frame.
+
+All external I/O cabling enters the system at the rear of the frames for all adapters, management LAN, and power connections.
+
+The Top Exit feature code (FC 7898) provides an optional Top Exit cover enclosure . The optional Top Exit cover enclosure provides a fiber cable organizer within the enclosure to optimize the fiber cable storage and strain relief. It also provides mounting locations to secure Fiber Quick Connector (FQC) MPO 2  brackets (FC 5827) on the top of the frames.
+
+Consider the following points:
+
+- /SM590000 FC 7899 provides bottom exit cabling and power support. When ordered with FC 5827, it provides harness brackets for the bottom tailgate and fiber bundle organizer hardware.
+- /SM590000 FC 7816 is for top exit cabling and power, a bottom seal plate is installed.
+- /SM590000 FC 5827 provides the MPO mounting brackets that cable harnesses connect to in the top and or bottom exit tailgates.
+

@@ -1,0 +1,7 @@
+ might depend on data in another pipeline stage. Therefore, a superscalar design demands careful consideration of which instruction sequences can successfully operate in a long pipeline environment.
+
+IBM z16 is a superscalar processor. Each processor unit, or core, is a superscalar and out-of-order processor that supports 10 concurrent issues to execution units in a single CPU cycle:
+
+- /SM590000 Fixed-point unit (FXU): The FXU handles fixed-point arithmetic.
+- /SM590000 Load-store unit (LSU): The LSU contains the data cache. It is responsible for handling all types of operand accesses of all lengths, modes, and formats as defined in the z/Architecture.
+

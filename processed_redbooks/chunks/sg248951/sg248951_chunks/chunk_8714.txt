@@ -1,0 +1,14 @@
+the outage time to restart critical workloads from several hours to minutes.
+
+The GDPS service is for z/OS only, or for z/OS in combination with Linux on Z.
+
+8.11  Flexible Capacity Cyber Resiliency
+
+Flexible Capacity for Cyber Resiliency is a new CoD offering that is available on IBM z16 machines. It allows processing capacity flexibility between an organization's primary site and alternative data centers. This section summarizes the main features of Flexible Capacity for Cyber Resiliency.
+
+For more information, see Appendix D, 'Tailored Fit Pricing and IBM Z Flexible Capacity for Cyber Resiliency' on page 513.
+
+Flexible Capacity for Cyber Resiliency can be ordered by contacting your IBM hardware sales representative. The offering requires that an order is placed against each serial number (SN) that is involved in capacity transfer with one record per SN.
+
+The following feature codes were introduced:
+

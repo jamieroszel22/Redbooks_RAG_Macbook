@@ -1,0 +1,8 @@
+cessor, it still provides accelerator functions. However, up to 3x better performance for those functions can be achieved if the Crypto Express7S PCI Express adapter is configured as an accelerator.
+
+CCA enhancements include the ability to use triple-length (192-bit) Triple-DES (TDES) keys for operations, such as data encryption, PIN processing, and key wrapping to strengthen security. CCA also extended the support for the cryptographic requirements of the German Banking Industry Committee Deutsche Kreditwirtschaft (DK).
+
+Several features that support the use of the AES algorithm in banking applications also were added to CCA. These features include AES-related key management features and the AES ISO Format 4 (ISO-4) PIN blocks as defined in the ISO 9564-1 standard. PIN block translation is supported and the use of AES PIN blocks in other CCA callable services.
+
+IBM continues to add enhancements as AES finance industry standards are released.
+

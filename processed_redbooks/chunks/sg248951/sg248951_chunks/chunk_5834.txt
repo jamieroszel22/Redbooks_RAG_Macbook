@@ -1,0 +1,17 @@
+ to make dynamic hardware and software I/O configuration changes.
+
+Note: Specific functions might require specific levels of an operating system, PTFs, or both.
+
+Consult the suitable fix categories:
+
+- -IBM z16 A01:IBM.Device.Server.IBM z16-3931
+- -IBM z15 T01: IBM.Device.Server.IBM z15-8561
+- -IBM z15 T02: IBM.Device.Server.IBM z15-8562
+- -IBM z14 M0x: IBM.Device.Server.IBM z14-3906
+- -IBM z14 ZR1: IBM.Device.Server.IBM z14ZR1-3907
+- /SM590000 HCM
+
+HCM is a priced optional feature that supplies a graphical interface of HCD. It is installed on a PC and allows you to manage the physical and logical aspects of a mainframe's hardware configuration.
+
+- /SM590000 CHPID Mapping Tool (CMT)
+

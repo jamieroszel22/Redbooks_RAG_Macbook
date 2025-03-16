@@ -1,0 +1,4 @@
+EDA) and concurrent drawer replacement (CDR) 13 . This process was enhanced starting with z13 and IBM z13sfi to provide more efficiency and speed to the process without affecting system performance.
+
+IBM z16 A01 implements a faster dynamic memory reallocation mechanism, which is especially useful during service operations (EDA and CDR). PR/SM controls the reassignment of the content of a specific physical memory array in one CPC drawer to a physical memory array in another CPC drawer. To accomplish this task, PR/SM uses all the available physical memory in the system. This memory includes the memory that is not in use by the system that is available but not purchased by the client, and the planned memory options, if installed.
+

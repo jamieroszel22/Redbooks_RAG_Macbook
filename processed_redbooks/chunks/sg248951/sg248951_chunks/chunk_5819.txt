@@ -1,0 +1,10 @@
+s for each logical channel subsystem. The IBM z16 A01 system can access a maximum of 255.74 K devices for a logical channel subsystem and a logical partition and the programs that are running on it.
+
+Note: Do not confuse the multiple subchannel sets function with multiple channel subsystems.
+
+Subchannel number
+
+The subchannel number is a four-digit hexadecimal number 0x0000 - 0xFFFF, which is assigned to a subchannel within a subchannel set of a channel subsystem. Subchannels in each subchannel set are always assigned subchannel numbers within a single range of contiguous numbers.
+
+The lowest-numbered subchannel is subchannel 0; the highest-numbered subchannel includes a subchannel number equal to one less than the maximum numbers of subchannels that are supported by the subchannel set. Therefore, a subchannel number is always unique within a subchannel set of a channel subsystem and depends on the sequence of assigning.
+

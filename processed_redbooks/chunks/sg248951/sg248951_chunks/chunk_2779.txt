@@ -1,0 +1,19 @@
+M Telum chip.
+
+The compression engine uses static dictionary compression and expansion that is based on CMPSC instruction. The compression dictionary uses the level 1 (L1) cache (instruction cache).
+
+The cryptography coprocessor is used for CPACF, which offers a set of symmetric cryptographic functions for encrypting and decrypting of clear key operations.
+
+The compression and cryptography coprocessors feature the following characteristics:
+
+- /SM590000 Each core has an independent compression and cryptographic engine.
+- /SM590000 The coprocessor was redesigned to support SMT operation and for throughput increase.
+- /SM590000 It is available to any processor type (regardless of the processor characterization).
+- /SM590000 The owning processor is busy when its coprocessor is busy.
+
+The location of the coprocessor on the IBM z16 chip is shown in Figure 3-13.
+
+<!-- missing-text -->
+
+On-core compression (CMPSC) on IBM z16
+

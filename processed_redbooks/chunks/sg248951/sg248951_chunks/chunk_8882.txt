@@ -1,0 +1,12 @@
+system serial number, and machine type.
+
+Note: To ensure unique identification of the configuration of the issuing CPU, use the STSI instruction specifying basic machine configuration (SYSIB 1.1.1).
+
+Store System Information instruction
+
+The format of the basic machine configuration SYSIB that is returned by the STSI instruction is shown in Figure 8-19. The STSI instruction returns the model capacity identifier for the permanent configuration and the model capacity identifier for any temporary capacity. This data is key to the functioning of CoD offerings.
+
+<!-- missing-text -->
+
+The model capacity identifier contains the base capacity, On/Off CoD, and CBU. The Model Permanent Capacity Identifier and the Model Permanent Capacity Rating contain the base capacity of the system. The Model Temporary Capacity Identifier and Model Temporary Capacity Rating contain the base capacity and On/Off CoD.
+

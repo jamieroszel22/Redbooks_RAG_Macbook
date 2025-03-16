@@ -1,0 +1,12 @@
+ocessor functions at a higher speed. Reconfiguration is disruptive to coprocessor and accelerator operations. The coprocessor or accelerator must be deactivated before you begin the reconfiguration.
+
+FIPS 140-2 certification is not relevant to the accelerator because it operates with clear keys only. The function extension capability through UDX is not available to the accelerator.
+
+The functions that remain available when the Crypto Express8S feature is configured as an accelerator are used for the acceleration of modular arithmetic operations. That is, the RSA cryptographic operations are used with the SSL/TLS protocol. The following operations are accelerated:
+
+- /SM590000 PKA Decrypt (CSNDPKD) with PKCS-1.2 formatting
+- /SM590000 PKA Encrypt (CSNDPKE) with zero-pad formatting
+- /SM590000 Digital Signature Verify
+
+The RSA encryption and decryption functions support key lengths of 512 - 4,096 bits in the Modulus-Exponent (ME) and Chinese Remainder Theorem (CRT) formats.
+

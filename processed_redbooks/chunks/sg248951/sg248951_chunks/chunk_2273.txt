@@ -1,0 +1,8 @@
+mum availability, alternative paths maintain access to critical I/O devices, such as disks and networks. The CHPID Mapping Tool can be used to assist with configuring a system for high availability.
+
+EDA allows a single CPC drawer in a multidrawer CPC to be removed and reinstalled (serviced) concurrently for an upgrade or a repair. Removing a CPC drawer means that the connectivity to the I/O devices that are connected to that CPC drawer is lost. To prevent connectivity loss, the redundant I/O interconnect feature allows you to maintain connection to critical I/O devices installed in PCIe+I/O Drawers when a CPC drawer is removed. ICA SR1.1 (and ICA SR) can also be installed for coupling and timing links redundancy.
+
+2.7.1  Redundant I/O interconnect
+
+Redundancy is provided for PCIe I/O interconnects.
+

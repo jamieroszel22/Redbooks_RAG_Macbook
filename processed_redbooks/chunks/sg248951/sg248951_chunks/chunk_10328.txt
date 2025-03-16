@@ -1,0 +1,14 @@
+making any changes or approving reassignments, ensure that the changes are reviewed and approved by the correct level of support based on your organization's business requirements.
+
+Preparation tabs
+
+The results of the preparation are presented for review in a tabbed format. Each tab indicates conditions that prevent the EDA option from being run. The following tab selections are available:
+
+- /SM590000 Processors
+- /SM590000 Memory
+- /SM590000 Single I/O
+- /SM590000 Single Domain I/O
+- /SM590000 Single Alternative Path I/O
+
+Only the tabs that feature conditions that prevent the drawer from being removed are displayed. Each tab indicates the specific conditions and possible options to correct them.
+

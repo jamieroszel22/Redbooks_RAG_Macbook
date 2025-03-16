@@ -1,0 +1,18 @@
+to a second, the cross-drawer penalty has increased on IBM z16. However, this is offset by more cores per drawer and higher capacity than IBM z15, which allows more work to 'fit' on a single drawer.
+
+As discussed in 3.5.9, 'Processor unit assignment' on page 110, and under 'Memory allocation' on page 113, PR/SM memory and logical processor allocation goal is to place all logical partition resources on a single CPC drawer, if possible. There can be negative impacts on a logical partition's performance when CPs are allocated in different drawers.
+
+IBM zPCR implements a warning notice when logical partition's number of Logical CPs defined is larger than the number of Real CPs in a single drawer. When that scenario occurs, it is advisable to contact IBM to review your configuration. See Figure 12-16 on page 498.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix A.
+
+A
+
+<!-- missing-text -->
+
+Channel options
+

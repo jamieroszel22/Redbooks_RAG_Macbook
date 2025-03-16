@@ -1,0 +1,14 @@
+o applying PTFs enabling the support, ICSF configuration is required. The supported operating systems are listed in Table 7-10 on page 263.
+
+Quantum-safe encryption with IBM z16 and Crypto Express8S
+
+Quantum-safe cryptography strengthens the portfolio of pervasive encryption capabilities on IBM z16, which allows customers to encrypt the data with a quantum-safe cryptographic algorithm (AES with 256-bit keys) as is the case with prior IBM Z buy using quantum-safe algorithms for internal system protection of encryption keys.
+
+The following Quantum-safe enhancements were introduced with IBM z16 to accomplish this encryption:
+
+- /SM590000 Key generation
+- /SM590000 Hybrid key exchange schemes
+- /SM590000 Dual digital signature schemes
+
+Crypto Analytics Tool for IBM Z
+

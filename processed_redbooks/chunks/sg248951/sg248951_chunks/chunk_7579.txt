@@ -1,0 +1,6 @@
+proceed much faster after the server is installed. In addition, the SAN configuration can be retained instead of altered by assigning the WWPN to physical FCP ports when a FICON feature is replaced.
+
+The WWPN tool takes a . csv file that contains the FCP-specific I/O device definitions and creates the WWPN assignments that are required to set up the SAN. A binary configuration file that can be imported later by the system is also created. The . csv file can be created manually or exported from the HCD/HCM. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+The WWPN tool is applicable to all FICON channels that are defined as CHPID type FCP (for communication with SCSI devices) on IBM z16. It is available for download at the Resource Link at the following website (log in is required).
+

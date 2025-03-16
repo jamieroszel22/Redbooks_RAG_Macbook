@@ -1,0 +1,4 @@
+ configuration can consist of 1 - 4 frames.
+
+Consider the following points:
+

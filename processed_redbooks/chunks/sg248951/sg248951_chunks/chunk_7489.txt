@@ -1,0 +1,16 @@
+ support for the Instruction Execution Protection Facility is provided with APAR VM65986.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+Secure Boot
+
+Secure Boot verification ensures that the Linux distribution kernel comes from an official provider and was not compromised. If the signature of the distribution cannot be verified, the process of booting the operating system is stopped.
+
+The Secure Boot feature requires operating system support.
+
+IBM Integrated Accelerator for zEnterprise Data Compression
+
+The IBM Integrated Accelerator for zEnterprise Data Compression (zEDC) is implemented as on-chip data compression accelerator; that is, Nest Compression Accelerator (NXU) and supports Deflate/gzip/zlib algorithms.
+
+For more information, see Appendix C, 'IBM Integrated Accelerator for zEnterprise Data Compression' on page 507.
+

@@ -1,0 +1,12 @@
+S or across the LCSSs.
+
+The multiple LCSS structure extended the IBM Z servers' total number of I/O connectivity to support a balanced configuration for the growth of processor and I/O capabilities.
+
+A one-digit number ID starting from 0 (CSSID) is assigned to an LCSS, and a one-digit hexadecimal ID (MIF ID) starting from 0 is assigned to an LPAR within the LCSS.
+
+Note: The phrase channel subsystem has same meaning as logical channel subsystem in this section, unless otherwise stated.
+
+Subchannels
+
+A subchannel provides the logical appearance of a device to the program and contains the information that is required for sustaining a single I/O operation. Each device is accessible by using one subchannel in a channel subsystem to which it is assigned according to the active IOCDS of the IBM Z server.
+

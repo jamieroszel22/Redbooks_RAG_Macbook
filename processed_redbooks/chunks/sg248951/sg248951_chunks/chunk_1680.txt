@@ -1,0 +1,21 @@
+removed on z16.
+
+Converting a PU from one type to any other type is possible by using the Dynamic Processor Unit Reassignment process. These conversions occur concurrently with the system operation.
+
+Note: The addition of ICFs, IFLs, zIIPs, and SAPs to the IBM z16 Model A01 does not change the system capacity setting or its million service units (MSU) rating.
+
+2.3.4  Cache level structure
+
+The cache structure comparison between CPC drawers on IBM z16 A01 and IBM z15 T01 is shown in Figure 2-16.
+
+<!-- missing-text -->
+
+2.4  PCIe+ I/O drawer
+
+As shown in Figure 2-17, each PCIe+ I/O drawer includes 16 slots to support the PCIe I/O infrastructure with a bandwidth of 16 GBps and includes the following features:
+
+<!-- missing-text -->
+
+- /SM590000 A total of 16 I/O cards are spread over two I/O domains (0 and 1):
+- -Each I/O slot reserves four PCHIDs.
+

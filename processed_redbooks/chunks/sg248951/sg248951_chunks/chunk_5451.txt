@@ -1,0 +1,20 @@
+PCIe+ I/O drawer, based on the configuration rules for the server. Different types of I/O cards are available: one for each channel or link type. I/O cards can be installed or replaced concurrently.
+
+4.5.1  I/O feature card ordering information
+
+The I/O features that are supported by IBM z16 servers and the ordering information for them are listed in Table 4-4.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. Installed in the CPC Drawer; provides connectivity for the PCIe+ I/O Drawer.
+- b. Installed in the CPC Drawer; provides coupling connectivity (short distance: up to 150m).
+
+Coupling links connectivity support: Consider the following points:
+
+- /SM590000 z13 and z13s and older systems are not supported in same Parallel Sysplex or STP CTN with IBM z16.
+- /SM590000 InfiniBand coupling links (if available on IBM z14 M0x) are not supported in a Parallel Sysplex or CTN with an IBM z16 member.
+
+4.5.2  Physical channel ID report
+

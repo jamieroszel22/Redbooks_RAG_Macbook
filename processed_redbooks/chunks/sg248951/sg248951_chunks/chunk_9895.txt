@@ -1,0 +1,22 @@
+y two weeks.
+
+Planned outages are outages that are planned well in advance and go beyond this approximate two-week timeframe. This chapter does not distinguish between scheduled and planned outages.
+
+Preventing unscheduled, scheduled, and planned outages was addressed by the IBM Z system design for many years.
+
+IBM z16 A01 has a fixed size HSA of 256 GB. This size helps eliminate planning requirements for HSA and provides the flexibility to update dynamically the configuration. You can perform the following tasks dynamically: 1
+
+- /SM590000 Add:
+- -Logical partition (LPAR)
+- -Logical channel subsystem (LCSS)
+- -Subchannel set
+- -Logical PU to an LPAR
+- -Cryptographic coprocessor
+- -Memory
+- -Physical processor
+- /SM590000 Remove a cryptographic coprocessor
+- /SM590000 Enable I/O connections
+- /SM590000 Swap processor types
+
+By addressing the elimination of planned outages, the following tasks also are possible:
+

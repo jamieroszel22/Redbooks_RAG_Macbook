@@ -1,0 +1,13 @@
+rouped into the CP pool. The CP pool can be seen on the Hardware Management Console (HMC) workplace. Any z/Architecture operating systems and CFCCs can run on CPs that are assigned from the CP pool.
+
+The IBM z16 A01 server recognizes four distinct capacity settings for CPs. Full-capacity CPs are identified as CP7. In addition to full-capacity CPs, three subcapacity settings (CP6, CP5, and CP4), each for up to 39 PUs, are offered.
+
+The following capacity settings appear in hardware descriptions:
+
+- /SM590000 CP4 Feature Code 1955 (up to 39 PUs)
+- /SM590000 CP5 Feature Code 1956 (up to 39 PUs)
+- /SM590000 CP6 Feature Code 1957 (up to 39 PUs)
+- /SM590000 CP7 Feature Code 1958 (up to 200 PUs)
+
+Granular capacity adds 117 subcapacity settings to the 200 capacity settings that are available with full capacity CPs (CP7). Each of the 117 subcapacity settings applies to up to 39 CPs only, independent of the model installed.
+

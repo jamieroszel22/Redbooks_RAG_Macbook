@@ -1,0 +1,10 @@
+apter 7, 'Operating system support' on page 247.
+
+SMT technology allows instructions from more than one thread to run in any pipeline stage at a time. SMT can handle up to four pending translations.
+
+Each thread has its own unique state information, such as Program Status Word (PSW) and registers. The simultaneous threads cannot necessarily run instructions instantly and must at times compete to use certain core resources that are shared between the threads. In some cases, threads can use shared resources that are not experiencing competition.
+
+Two threads (A and B) that are running on the same processor core on different pipeline stages and sharing the core resources is shown in Figure 3-8.
+
+<!-- missing-text -->
+

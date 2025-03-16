@@ -1,0 +1,22 @@
+2 (SHA-2 or SHA-3 standard)
+- -SHAKE-128
+- -SHAKE-256
+- -GHASH
+- /SM590000 Random number generator:
+- -PRNG (3DES based)
+- -DRNG (NIST SP-800-90A SHA-512 based)
+- -TRNG (true random number generator
+
+It provides high-performance hardware encryption, decryption, hashing, and random number generation support. The following instructions support the cryptographic assist function:
+
+- /SM590000 KMAC: Compute Message Authentic Code
+- /SM590000 KM: Cipher Message
+- /SM590000 KMC: Cipher Message with Chaining
+- /SM590000 KMF: Cipher Message with CFB
+- /SM590000 KMCTR: Cipher Message with Counter
+- /SM590000 KMO: Cipher Message with OFB
+
+- /SM590000 KIMD: Compute Intermediate Message Digest
+- /SM590000 KLMD: Compute Last Message Digest
+- /SM590000 PCKMO: Provide Cryptographic Key Management Operation
+

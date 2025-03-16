@@ -1,0 +1,22 @@
+ PL/I compilers were updated to support the new IBM z16 enhancements:
+
+- /SM590000 BCD to HFP conversions
+- /SM590000 Numeric editing operation
+- /SM590000 Zoned decimal operations
+
+Software support
+
+DFP is supported in the following programming languages and products:
+
+- /SM590000 Release 4 and later of the High Level Assembler
+- /SM590000 C/C++, which requires supported z/OS version
+- /SM590000 Enterprise PL/I Release 3.7 and Debug Tool Release 8.1 or later
+- /SM590000 Java Applications that use the BigDecimal Class Library
+- /SM590000 SQL support as of Db2 Version 9 and later
+
+3.4.8  IEEE floating point
+
+Binary and hexadecimal floating-point instructions are implemented in IBM z16 servers. They incorporate IEEE standards into the system.
+
+The IBM z16 core implements two other execution subunits for 2x throughput on BFP (single/double precision) operations (see Figure 3-11 on page 83).
+

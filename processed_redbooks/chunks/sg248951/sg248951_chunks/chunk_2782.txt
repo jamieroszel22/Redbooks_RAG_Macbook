@@ -1,0 +1,18 @@
+orted operations:
+- -ECDH[E]:
+- GLYPH&lt;129&gt; P256, P384, and P521
+- GLYPH&lt;129&gt; X25519 and X448
+- -ECDSA:
+- GLYPH&lt;129&gt; Keygen, sign, and verify
+- GLYPH&lt;129&gt; P256, P384, and P521
+
+- -EdDSA:
+- GLYPH&lt;129&gt; Keygen, sign, and verify
+- GLYPH&lt;129&gt; Ed25519 and Ed448
+
+For more information about cryptographic functions on IBM z16 servers, see Chapter 6, 'Cryptographic features' on page 209.
+
+IBM Integrated Accelerator for Z Sort (on-core)
+
+Sorting data is a significant part of IBM Z workloads including batch workloads, database query processing, and utility processing. The amount of data that is stored and processed on IBM Z continues to grow at a high rate, which drives an ever-increasing sort workload.
+

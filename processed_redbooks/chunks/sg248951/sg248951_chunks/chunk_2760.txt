@@ -1,0 +1,14 @@
+ and vector floating point operations. Each register contains multiple data elements of a fixed size. The following instructions code specifies which data format to use and the size of the elements:
+
+- /SM590000 Byte (16 8-bit operands)
+- /SM590000 Halfword (eight 16-bit operands)
+- /SM590000 Word (four 32-bit operands)
+- /SM590000 Doubleword (two 64-bit operands)
+- /SM590000 Quadword (one 128-bit operand)
+
+The collection of elements in a register is called a vector . A single instruction operates on all of the elements in the register. Instructions include a nondestructive operand encoding that allows the addition of the register vector A and register vector B and stores the result in the register vector A (A = A + B).
+
+A schematic representation of a SIMD instruction with 16-byte size elements in each vector operand is shown in Figure 3-9.
+
+<!-- missing-text -->
+

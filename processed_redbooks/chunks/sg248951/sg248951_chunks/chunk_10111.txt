@@ -1,0 +1,6 @@
+pgrade or repair action. This procedure has no effect on the running workload with suitable planning and depending on your system configuration. A single CPC drawer IBM z16 A01 does not support EDA.
+
+The EDA procedure and careful planning help ensure that all the resources are still available to run critical applications in an ( n -1) drawer configuration. This process allows you to avoid planned outages. Consider the flexible memory option to provide more memory resources when you are replacing a drawer.
+
+For more information about flexible memory, see 2.5.7, 'Flexible Memory Option' on page 46.
+

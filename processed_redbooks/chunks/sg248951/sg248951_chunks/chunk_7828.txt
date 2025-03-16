@@ -1,0 +1,11 @@
+lp protect digital assets automatically.
+- /SM590000 Achieve application transparent encryption.
+
+IBM Db2 for z/OS and IBM Information Management System (IMS) intend to use z/OS Data Set Encryption.
+
+With z/OS, Data Set Encryption DFSMS enhances data security with support for data set level encryption by using DFSMS access methods. This function is designed to give users the ability to encrypt their data sets without changing their application programs.
+
+DFSMS users can identify which data sets require encryption by using JCL, Data Class, or the RACF data set profile. Data set level encryption can allow the data to remain encrypted during functions, such as backup and restore, migration and recall, and replication.
+
+z/OS Data Set Encryption requires CP Assist for Cryptographic Functions (CPACF).
+

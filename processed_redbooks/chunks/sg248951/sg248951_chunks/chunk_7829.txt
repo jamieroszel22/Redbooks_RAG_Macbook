@@ -1,0 +1,10 @@
+ow the data to remain encrypted during functions, such as backup and restore, migration and recall, and replication.
+
+z/OS Data Set Encryption requires CP Assist for Cryptographic Functions (CPACF).
+
+Considering the significant enhancements that were introduced with z14, the encryption mode of XTS is used by access method encryption to obtain the best performance possible. It is not recommended to enable z/OS data set encryption until all sharing systems, fallback, backup, and DR systems support encryption.
+
+In addition to applying PTFs enabling the support, ICSF configuration is required. The supported operating systems are listed in Table 7-10 on page 263.
+
+Quantum-safe encryption with IBM z16 and Crypto Express8S
+

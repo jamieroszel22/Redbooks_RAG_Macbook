@@ -1,0 +1,15 @@
+ tab. It is the first page that appears when you log in to the HMC. It replaces the Welcome window that was used in previous HMC drivers and versions. Initially, the following widgets are available:
+
+- -What's new: Displays information about the latest console feature
+- -Systems health: Summarizes that status of systems that are managed by the HMC
+- -Hardware messages: Manages hardware messages for all managed systems
+- -Frequently used tasks: Displays your most frequently used tasks
+
+Under the Helpful links section, links to Resource Link, videos, and so on, are available. Under the About this HMC section, more information is available, such as the installed bundle level.
+
+An example of the new Dashboard is shown in Figure 10-4.
+
+<!-- missing-text -->
+
+- /SM590000 N-mode Power STP Imminent disruption Signal option
+

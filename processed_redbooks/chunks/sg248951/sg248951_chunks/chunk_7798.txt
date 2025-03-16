@@ -1,0 +1,10 @@
+avoid interruption of all the TLS connections at the same time when having to renew expired certificates. OSA-ICC also continues to support a single certificate for all OSA-ICC PCHIDs in the system.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Checksum offload for in QDIO mode (CHPID type OSD)
+
+Checksum offload provides the capability of calculating the Transmission Control Protocol (TCP), User Datagram Protocol (UDP), and IP header checksum. Checksum verifies the accuracy of files. By moving the checksum calculations to a Gigabit or 1000BASE-T Ethernet feature, host processor cycles are reduced and performance is improved.
+
+Checksum offload provides checksum offload for several types of traffic and is supported by the following features when configured as CHPID type OSD (QDIO mode only):
+

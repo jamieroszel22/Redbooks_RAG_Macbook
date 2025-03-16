@@ -1,0 +1,17 @@
+ied in L3 1  cache.
+
+The IBM z16 Integrated Accelerator for zEDC delivers industry-leading throughput and replaces the zEDC Express PCIe adapter that is available on the IBM z14 and earlier servers.
+
+IBM z16 compression and decompression are implemented in the Nest Accelerator Unit (NXU, see Figure 3-15 on page 91) on each processor chip and replaces the existing zEDC Express adapter in the PCIe+ I/O drawer.
+
+One NXU is available per processor chip, which is shared by all cores on the chip and features the following benefits:
+
+- /SM590000 New concept of sharing and operating an accelerator function in the nest
+- /SM590000 Supports DEFLATE-compliant compression and decompression and GZIP CRC/ZLIB Adler
+- /SM590000 Low latency
+- /SM590000 High bandwidth
+- /SM590000 Problem state execution
+- /SM590000 Hardware and firmware interlocks to ensure system responsiveness
+- /SM590000 Designed instruction
+- /SM590000 Run in millicode
+

@@ -1,0 +1,17 @@
+ning for the HMC and SE
+
+Plan the HMC and SE network connectivity carefully to allow for current and future use. Many of the IBM Z capabilities benefit from the various network connectivity options.
+
+The following functions are examples that depend on the HMC connectivity:
+
+- /SM590000 Lightweight Directory Access Protocol (LDAP) support, which can be used for HMC user authentication
+- /SM590000 Network Time Protocol (NTP)
+- /SM590000 RSF through broadband
+- /SM590000 HMC remote access and HMC Mobile
+- /SM590000 RSA SecurID support
+- /SM590000 MFA with Time-based One Time Password (TOTP)
+
+HMC File Transfer support
+
+FTP, FTPS, and SFTP protocols are supported on the HMC and SE. All three file transfer protocols require login ID and password credentials.
+

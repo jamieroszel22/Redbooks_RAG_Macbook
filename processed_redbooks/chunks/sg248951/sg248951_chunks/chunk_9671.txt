@@ -1,0 +1,14 @@
+kstops, all 32 MB can be used by the system
+- GLYPH&lt;129&gt; L2 dedicated and shared split are managed in the LRU logic
+- -Dynamic macro sparing: Four spare macros, one spare for each quarter slice
+- -L2 1/8 portion is taken offline when a spare is needed, and none is available (named 7/8 recovery): The core must be spared
+- -L2 directory is SECDED ECC protected
+
+IBM z16 processor memory and cache structure are shown in Figure 9-5. The physical L3 cache (on chip) and System Controller (SC) SCM (physical L4 cache for IBM z15), which was implemented in EDRAM, were removed and replaced on IBM z16 virtual L3 and L4 cache structure.
+
+<!-- missing-text -->
+
+9.2.2  Main memory
+
+IBM z16 memory consists of the following features:
+

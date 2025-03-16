@@ -1,0 +1,11 @@
+tions before creating an upgrade plan.
+- /SM590000 Acknowledge that some hardware features cannot be ordered or carried forward for an upgrade from an earlier server to IBM z16 and plan accordingly.
+
+- /SM590000 Determine the changes in IOCP, HCD, and HCM to support defining IBM z16 configuration and the new features and functions it introduces.
+- /SM590000 Ensure that none of the new z/Architecture Machine Instructions (mnemonics) that were introduced with IBM z16 are colliding with the names of Assembler macro instructions you use 15 .
+- /SM590000 Check the use of MACHMIG statements in LOADxx PARMLIB commands.
+- /SM590000 Contact software vendors to inform them of new machine model and request new license keys, if applicable.
+- /SM590000 Review the z/OS Upgrade Workflow for z/OSMF that is provided with APAR OA62703 for z/OS V2R2 and higher. This Workflow also is available in the IBM Documentation library.
+
+7.5.2  Hardware Fix Categories
+

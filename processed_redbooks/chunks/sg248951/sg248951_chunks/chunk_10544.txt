@@ -1,0 +1,18 @@
+SE. The alternative acts as the backup. Information is mirrored once per day. The SE servers include N+1 redundant power supplies.
+
+For more information, see 10.2.4, 'HMC and SE server' on page 420.
+
+<!-- missing-text -->
+
+10
+
+Chapter 10.
+
+Hardware Management Console and Support Element
+
+The Hardware Management Console (HMC) supports the functions and tasks that are required to manage the IBM Z. When tasks are performed on the HMC, the commands are sent to the Primary Support Element (SE) of the targeted system, which then issues commands to their respective central processor complex (CPC).
+
+This chapter describes the newest elements for the HMC and SE.
+
+Tip: The Help function is a good starting point to get more information about all of the functions that can be used by the HMC and SE. The Help feature is available by clicking Help from the drop-down menu that appears when you click your user ID.
+

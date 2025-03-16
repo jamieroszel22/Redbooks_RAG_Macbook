@@ -1,0 +1,9 @@
+rade from one CFCC level to the next, different levels of CFCC can be run concurrently while the CF LPARs are running on different servers. CF LPARs that run on the same server share the CFCC level.
+
+IBM z16 servers (CFCC level 25) can coexist in a sysplex with CFCC levels 24, 23, and 22; nevertheless, the latest Coupling Facility Control Code and MCLs levels are always recommended for best performance and availability:
+
+- /SM590000 On IBM z15 (M/T 8561 and 8562): CFCC 24 - Service level 00.22, Bundle S48 released in August 2021.
+- /SM590000 On IBM z14 (M/T 3906): CFCC 23 - Service Level 00.20, Bundle S64 released in August 2021.
+
+For a CF LPAR with dedicated processors, the CFCC is implemented by using the active wait technique. This technique means that the CFCC is always running (processing or searching for service) and never enters a wait state. Therefore, the CF Control Code uses all the processor capacity that is available for the CF LPAR.
+

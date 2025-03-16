@@ -1,0 +1,17 @@
+ion Facility instructions.
+
+3.4.15  Instruction set extensions
+
+Thirty new instructions were added to the IBM z16 processor. The following new IBM z16 mnemonics were added to the IBM Z/Architecture:
+
+- /SM590000 LBEAR, LFI, LLGFI, and LPSWEY
+- /SM590000 NNPA
+- /SM590000 QPACI
+- /SM590000 RDP
+- /SM590000 SLLHH, SLLHL, SLLLH, SRLHH, SRLHL, SRLLH, and STBEAR
+- /SM590000 VCFN, VCLFNH, VCLFNL, VCLZDP, VCNF, VCRNF, VCSPH, VPKZR, VSCHDP, VSCHP, VSCHSP, VSCHXP, VSCSHP, VSRPR, VUPKZH, and VUPKZL
+
+A new procedure is available to run against customer macros in assembler libraries to verify that no conflicts exist between some older IBM Macro names and new IBM z16 (M/T 3931) hardware instruction mnemonics.
+
+3.4.16  Transactional Execution
+

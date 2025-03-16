@@ -1,0 +1,14 @@
+ determines the PU configuration that is required to remove the drawer. The results and the option to change the assignment on nondedicated processors are shown in Figure 9-9.
+
+<!-- missing-text -->
+
+Important: Consider the results of these changes relative to the operational environment. Understand the potential effect of making such operational changes. Changes to the PU assignment, although technically correct, can result in constraints for critical system images. In specific cases, the solution might be to defer the reassignments to another time that has less effect on the production system images.
+
+After you review the reassignment results and make any necessary adjustments, click OK (see Figure 9-10).
+
+<!-- missing-text -->
+
+Summary of the drawer removal process steps
+
+To remove a drawer, the following resources must be moved to the remaining active drawers:
+

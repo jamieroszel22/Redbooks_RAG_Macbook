@@ -1,0 +1,14 @@
+ted in Table 4-9.
+
+<!-- missing-text -->
+
+- a. Minimum fiber bandwidths in MHz/km for multimode fiber optic links are included in parentheses, where applicable.
+
+4.6.4  Parallel Sysplex connectivity
+
+Coupling links are required in a Parallel Sysplex configuration to provide connectivity from the z/OS images to the coupling facility (CF). A properly configured Parallel Sysplex provides a highly reliable, redundant, and robust IBM Z technology solution to achieve near-continuous availability. A Parallel Sysplex is composed of one or more z/OS operating system images that are coupled through one or more CFs.
+
+This section describes coupling link features supported in a Parallel Sysplex in which an IBM z16 can participate.
+
+Coupling links
+

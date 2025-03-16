@@ -1,0 +1,15 @@
+ith instructions that process several operands in a single instruction (SIMD). The processor architecture was further developed for IBM z14 and IBM z15.
+
+IBM z16 includes the following enhancements:
+
+- /SM590000 Optimized third-generation SMT
+- /SM590000 Improved Out-of-Order core execution
+- /SM590000 Improvements in branch prediction and handling
+- /SM590000 Pipeline optimization
+- /SM590000 Secure Execution 3
+- /SM590000 Co-processor compression enhancements
+
+the IBM z16 enhanced Instruction Set Architecture (ISA) includes a set of instructions that are added to improve compiled code efficiency. These instructions optimize PUs to meet the demands of various business and analytics workload types without compromising the performance characteristics of traditional workloads.
+
+3.4.1  Simultaneous multithreading
+

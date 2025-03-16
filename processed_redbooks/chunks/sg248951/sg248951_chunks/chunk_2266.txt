@@ -1,0 +1,16 @@
+cal EPO switch is available on the IBM z16, which provides a means for the service technician 6  to put a server into a known state.
+
+- -This function does not provide the option to power down and keep the power down to the system. The power must be unplugged or the customer-supplied power turned off at the panel.
+- /SM590000 Other characteristics:
+- -PDU Firmware can be concurrently updated
+- -Concurrently repairable
+- -Power redundancy check
+- /SM590000 Cable verification test by way of PDU:
+- -By power cycling individual iPDU outlets, the system can verify proper cable connectivity
+- -Power cable test runs during system Power On
+- -Runs at system Installation and at every system Power On until the test passes
+- /SM590000 PCIe service enhancements:
+- -Mandatory end-to-end cyclic redundancy check (ECRC)
+- -Customer operation code is separate from maintenance code
+- -Native PCIe firmware stack that is running on the integrated firmware processor (IFP) to manage isolation and recovery
+

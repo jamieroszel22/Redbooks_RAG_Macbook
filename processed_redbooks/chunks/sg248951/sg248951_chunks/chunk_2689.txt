@@ -1,0 +1,2 @@
+ efficiency by sharing hardware resources.
+

@@ -1,0 +1,11 @@
+s of the z/OS platform to higher levels of system management, scalable growth, and continuous availability.
+
+The IBM z16 builds on the RAS of the IBM z15™ family with the following RAS improvements:
+
+- /SM590000 System Recovery Boost
+- -System Recovery Boost was introduced with IBM z15. It offers customers more Central Processor (CP) capacity during system recovery operations to accelerate the startup (IPL), shutdown, or stand-alone memory dump operations (at image level - LPAR 11 ). System Recovery Boost requires operating system support. No other IBM software charges are made during the boost period.
+
+System Recovery Boost can be used during LPAR shutdown or start to make the running operating system and services available in a shorter period.
+
+The System Recovery Boost provides the following options for the capacity increase:
+

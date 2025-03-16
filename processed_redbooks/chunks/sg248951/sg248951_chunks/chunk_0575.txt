@@ -1,0 +1,8 @@
+disk and tape devices through FC switches and directors. The FCP channel can connect to FCP SAN fabrics and access FCP/SCSI devices. FCP is used by z/VM, KVM, z/VSE, and Linux on IBM Z environments.
+
+FICON Express32S features are implemented by using PCIe cards, and offer better port granularity and improved capabilities over the previous FICON Express features. FICON Express32S features support a link data rate of 32 gigabytes per second (Gbps) (8, 16, or 32 Gbps auto-negotiate), and it is the preferred technology for new systems.
+
+zHyperLink Express
+
+zHyperLink was created to provide fast access to data by way of low-latency connections between the IBM Z platform and storage.
+

@@ -1,0 +1,19 @@
+ork connectivity
+- /SM590000 Clustering connectivity
+- /SM590000 Cryptography
+- /SM590000 Supported connectivity and crypto features
+- /SM590000 Special-purpose features and functions
+
+1.2.1  Frames
+
+The IBM z16 A01 uses 19-inch frames and industry-standardized power and hardware. It can be configured as a one-, two-, three-, or four-frame system. The IBM z16 A01 packaging is compared to the two previous IBM Z platforms in Table 1-2.
+
+<!-- missing-text -->
+
+- a. Maximum of 12 if ordered with a PDU or maximum of 10 if ordered with a BPA.
+- b. Maximum of 12 if ordered with a PDU or maximum of 11 if ordered with a BPA.
+
+1.2.2  CPC drawers
+
+The IBM z16 A01 can be configured with up to four CPC drawers (three in the A Frame and one in the B Frame). Each CPC drawer contains the following elements:
+

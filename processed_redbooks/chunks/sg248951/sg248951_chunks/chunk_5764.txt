@@ -1,0 +1,7 @@
+nks between servers. The same coupling links can be used to exchange time and CF messages in a Parallel Sysplex.
+
+The use of the coupling links to exchange STP messages has the following advantages:
+
+- /SM590000 By using the same links to exchange STP messages and CF messages in a Parallel Sysplex, STP can scale with distance. Servers that are exchanging messages over short distances (ICA SR links), can meet more stringent synchronization requirements than servers that exchange messages over long distance (CE2 LR links), with distances up to 100 kilometers (62 miles) 15 . This advantage is an enhancement over the IBM Sysplex Timer implementation, which does not scale with distance.
+- /SM590000 Coupling links provide the connectivity that is necessary in a Parallel Sysplex. Therefore, a potential benefit can be realized of minimizing the number of cross-site links that is required in a multi-site Parallel Sysplex.
+

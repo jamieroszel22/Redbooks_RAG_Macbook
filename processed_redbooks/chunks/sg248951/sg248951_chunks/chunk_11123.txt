@@ -1,0 +1,24 @@
+mpression can operate directly in L3 cache and data does not need to be passed by using I/O operations.
+
+Compression modes
+
+Compression is run in one of the following modes:
+
+- /SM590000 Synchronous
+
+Execution occurs in problem state where the user application starts the instruction in its virtual address space.
+
+- /SM590000 Asynchronous
+
+Execution is optimized for Large Operations under z/OS for authorized applications (for example, BSAM) and issues I/O by using EADMF for asynchronous execution.
+
+This type of execution maintains the current user experience and provides a transparent implementation for authorized users of zEDC.
+
+Note: The zEDC Express feature does not carry forward to IBM z16.
+
+IBM z16 migration considerations
+
+The IBM Integrated Accelerator for zEDC is fully compatible with zEDC. Data that is compressed by zEDC can be read by IBM z16 (the on-chip) NXU and vice versa.
+
+All z/OS configurations stay the same
+

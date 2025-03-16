@@ -1,0 +1,14 @@
+for I/O domains within the PCIe+ I/O drawer.
+
+Note: The PCIe fan-out is used exclusively for I/O and cannot be shared for any other purpose.
+
+4.4.2  Integrated Coupling Adapter (FC 0172 and FC 0176)
+
+The IBM ICA SR (FC 0172) is a two-port fan-out feature that is used for short distance coupling connectivity and uses channel type CS5. For IBM z16, the new build feature is ICA SR1.1 (FC 0176).
+
+The ICA SR (FC 0172) and ICA SR1.1 (FC 0176) use PCIe Gen3 technology, with x16 lanes that are bifurcated into x8 lanes for coupling.
+
+Both cards are designed to drive distances up to 150 meters (492 feet) with a link data rate of 8 GBps. ICA SR supports up to four channel-path identifiers (CHPIDs) per port and eight subchannels (devices) per CHPID.
+
+The coupling links can be defined as shared between images (z/OS) within a CSS. They also can be spanned across multiple CSSs in a CPC. For ICA SR features, a maximum four CHPIDs per port can be defined.
+

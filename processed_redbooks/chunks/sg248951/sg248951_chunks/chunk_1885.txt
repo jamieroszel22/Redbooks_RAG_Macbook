@@ -1,0 +1,19 @@
+mory is 20 TB).
+
+The minimum and maximum memory sizes that you can order for each IBM z16 Model T01 feature are listed in Table 2-6.
+
+<!-- missing-text -->
+
+The following memory types are available:
+
+- /SM590000 Purchased: Memory that is available for assignment to LPARs.
+- /SM590000 Hardware System Area (HSA): Standard 256 GB of addressable memory for system use outside of customer memory.
+- /SM590000 Standard: Provides minimum physical memory that is required to hold customer purchase memory plus 256 GB HSA.
+- /SM590000 Flexible: Provides more physical memory that is needed to support that activation of base customer memory and HSA on a multiple CPC drawer IBM z16 with one drawer out of service (concurrent drawer replacement; not available on Max39 feature).
+
+The memory granularity, which is based on the installed customer memory, is listed in Table 2-7.
+
+<!-- missing-text -->
+
+2.5.1  Memory subsystem topology
+

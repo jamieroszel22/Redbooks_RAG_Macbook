@@ -1,0 +1,10 @@
+PC (hardware) installed capacity.
+
+The subcapacity licensed products are charged monthly based on the highest observed 4-hour rolling average use of the logical partitions in which the product runs.
+
+The 4-hour rolling average use of the logical partition can be limited by a defined capacity value on the image profile of the partition. This value activates the soft capping function of PR/SM, which limits the 4-hour rolling average partition use to the defined capacity value. Soft capping controls the maximum 4-hour rolling average usage (the last 4-hour average value at every 5-minute interval), but does not limit the maximum instantaneous partition use.
+
+You can also use an LPAR group capacity limit, which sets soft capping by PR/SM for a group of logical partitions that are running z/OS. Only the 4-hour rolling average use of the LPAR group is tracked, which allows use peaks above the group capacity value.
+
+- /SM590000 Sysplex licensing
+

@@ -1,0 +1,10 @@
+ver. They can be added to an IBM z16 nondisruptively.
+
+The base system configuration must have sufficient memory and channels to accommodate the potential requirements of the larger capacity system.
+
+Note: The System Recovery Boost configuration is activated temporarily and provides up to a maximum of 20 extra zIIPs to the system's original, permanent configuration and can violate the 2:1 zIIP rule. The number of zIIPs that can be activated is limited by the unused capacity that is available on the system.
+
+When activating the System Recovery Boost record, the extra zIIPs are added to the zIIP pool when they are activated. Review the LPAR zIIP assignments and weights in the image profiles to ensure that the LPAR can use the extra capacity when it becomes available.
+
+Configure a quantity for the initial and reserved zIIPs in the image profile so that extra zIIPs can be brought online dynamically when the boost record is activated. Also, consider adjusting the LPAR zIIP weight.
+

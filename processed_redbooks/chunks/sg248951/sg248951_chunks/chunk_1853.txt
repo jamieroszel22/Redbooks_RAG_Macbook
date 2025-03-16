@@ -1,0 +1,2 @@
+slot reserves four PCHIDs.
+

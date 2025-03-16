@@ -1,0 +1,13 @@
+90000 Up to 16 25 GbE RoCE Express3 features
+- /SM590000 Up to 16 25 GbE RoCE Express2.1 features
+- /SM590000 Up to 16 25 GbE RoCE Express2 features
+- /SM590000 Up to 16 10 GbE RoCE Express3 features
+- /SM590000 Up to 16 10 GbE RoCE Express2.1 features
+- /SM590000 Up to 16 10 GbE RoCE Express2 features
+- /SM590000 Up to 16 zHyperLink Express features
+- /SM590000 Up to 16 zHyperLink Express1.1 features
+- /SM590000 Up to 48 ICA SR1.1 and ICA SR features (combined) with up to 96 ports
+- /SM590000 Up to 32 CE2 LR features with up to 64 ports
+
+Notes: Consider the following points:
+

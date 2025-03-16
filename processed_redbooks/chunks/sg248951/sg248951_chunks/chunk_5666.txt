@@ -1,0 +1,13 @@
+e, LC Duplex connectors
+- /SM590000 FICON Express32S SX feature, FC 0462, with two ports per feature, LC Duplex connectors
+
+For more information about supported distances, see Table 4-6 on page 163.
+
+Consideration: FICON Express32S features do not support auto-negotiation to a data link rate of 2 or 4 Gbps (only 8, 16, or 32 Gbps) for point-to-point connections. A compatible switch must be used to connect to lower speed devices.
+
+FICON Express16SA
+
+The FICON Express16SA feature is installed in the PCIe+ I/O drawer. Each of the two independent ports is capable of 8 or 16 Gbps. The link speed depends on the capability of the attached switch or device. The link speed is auto-negotiated, point-to-point, and is transparent to users and applications.
+
+The following types of FICON Express16SA optical transceivers are supported (no mix on same card):
+

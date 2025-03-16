@@ -1,0 +1,22 @@
+ith Exploitation PTFs
+- l. With Required PTFs
+
+The supported base CPC functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-4.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. PTFs might be required for toleration support or exploitation of IBM z16 features and functions.
+- b. Support statement varies based on Linux on IBM Z distribution and release.
+- c. For SLES12/RHEL7/Ubuntu 16.04 and later, Linux kernel supports 256 cores without SMT and 128 cores with SMT (= 256 threads).
+- d. IBM z16 A01 supports defining up to 32 TB per LPAR (OS support is required).
+- e. On IFL only.
+- f. Packed decimal conversion support.
+- g. IBM is working with its Linux distribution Business Partners to provide this feature.
+- h. Delivered with Linux distributions as a new package: libzdnn.
+- i. Subcapacity CP speed boost (no zIIP boost).
+- j. For SCSI IPL.
+- k. For second-level guests that are running under KVM.
+- l. Requires Linux kernel exploitation support for gzip/zlib compression.
+

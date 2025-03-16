@@ -1,0 +1,12 @@
+ guidelines, and cross-product dependencies.
+
+For more information about Linux on IBM Z distributions and KVM hypervisor, see the distributor's support information.
+
+7.2  Support by operating system
+
+IBM z16 systems introduced several new functions. This section describes the support of those functions by the current operating systems. Also included are some of the functions that were introduced in previous IBM Z servers and carried forward or enhanced in IBM z16 servers.
+
+Features and functions that are available on previous servers, but no longer supported by IBM z16 servers, are not documented here.
+
+For more information about supported functions that are based on operating systems, see 7.3, 'IBM z16 features and function support overview' on page 252. Tables are built by function and feature classification to help you determine, by a quick scan, what is supported and the minimum operating system level that is required.
+

@@ -1,0 +1,10 @@
+is required for sustaining a single I/O operation. Each device is accessible by using one subchannel in a channel subsystem to which it is assigned according to the active IOCDS of the IBM Z server.
+
+A subchannel set (SS) is a collection of subchannels within a channel subsystem. The maximum number of subchannels of a subchannel set determines how many devices are accessible to a channel subsystem.
+
+In z/Architecture, the first subchannel set of an LCSS can have 63.75 K subchannels (with 0.25 K reserved), with a subchannel set ID (SSID) of 0. By enabling the multiple subchannel sets, extra subchannel sets are available to increase the device addressability of a channel subsystem.
+
+For more information about multiple subchannel sets, see 5.1.2, 'Multiple subchannel sets' on page 200.
+
+Channel paths
+

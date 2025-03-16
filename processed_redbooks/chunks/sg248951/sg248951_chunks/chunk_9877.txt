@@ -1,0 +1,20 @@
+he new SMP cable plugging and unplugging tool.
+
+The thermal RAS design also was improved for the field-replaceable water manifold for PU cooling.
+
+The IBM z16 includes the following characteristics:
+
+- /SM590000 Processing infrastructure is designed by using drawer technology.
+- /SM590000 Keyed cables and plugging detection.
+- /SM590000 SMP cables that are used for fabric bus connections.
+- /SM590000 Master-master redundant oscillator design in the main memory.
+- /SM590000 Point of load cards are separate FRUs.
+- /SM590000 Improved serviceability for the water manifold
+- /SM590000 Improved redundant oscillator design
+- /SM590000 Redundant combined Base Management Card (BMC) and Oscillator Cards (OSC) are provided per CPU drawer.
+- /SM590000 Redundant N+1 Power Supply Units (PSU) to CPC drawer and PCIe+ I/O drawer.
+
+9.4  Reducing complexity
+
+IBM z16 servers continue the IBM z15 enhancements that reduced system RAS complexity.
+

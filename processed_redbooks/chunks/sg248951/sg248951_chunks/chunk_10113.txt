@@ -1,0 +1,16 @@
+
+
+To use the EDA function, configure enough physical memory and engines so that the loss of a single drawer does not result in any degradation to critical workloads during the following occurrences:
+
+- /SM590000 A degraded restart in the rare event of a drawer failure
+- /SM590000 A drawer replacement for repair or a physical memory upgrade
+
+The following configurations especially enable the use of the EDA function. These IBM z16 features need enough spare capacity so that they can cover the resources of a fenced or isolated drawer. This configuration imposes limits on the following number of the client-owned PUs that can be activated when one drawer within a model is fenced:
+
+- /SM590000 A maximum of:
+- -39 PUs are configured on the Max39
+- -82 PUs are configured on the Max82
+- -125 PUs are configured on the Max125
+- -168 PUs are configured on the Max168
+- -200 PUs are configured on the Max200
+

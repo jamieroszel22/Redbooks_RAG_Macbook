@@ -1,0 +1,8 @@
+ustomer macros in assembler libraries to verify that no conflicts exist between some older IBM Macro names and new IBM z16 (M/T 3931) hardware instruction mnemonics.
+
+3.4.16  Transactional Execution
+
+The Transactional Execution (TX) capability, which is known in the industry as hardware transactional memory , runs a group of instructions atomically; that is, all of their results are committed or no result is committed. The execution is optimistic. The instructions are run, but previous state values are saved in a transactional memory. If the transaction succeeds, the saved values are discarded; otherwise, they are used to restore the original values.
+
+The Transaction Execution Facility provides instructions, including declaring the beginning and end of a transaction, and canceling the transaction. TX is expected to provide significant performance benefits and scalability by avoiding most locks. This benefit is especially important for heavily threaded applications, such as Java.
+

@@ -1,0 +1,18 @@
+terization but these categories can apply on IBM zPCR only.
+
+The CPU MF data can be used determine workload type. When available, this data allows the RNI for a production workload to be calculated.
+
+By using the RNI and another factor from CPU MF, the L1MP   (Level 1 Miss Per 100 instructions or percentage of data and instruction references that miss the L1 cache), a workload can be classified as LOW, AVERAGE, or HIGH RNI. This classification and resulting hit are automated in the IBM zPCR tool. It is preferable to use IBM zPCR for capacity sizing.
+
+Refer to Table 12-1 for the LSPR Workload Decision Table, based in L1MP and RNI.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Reminder:
+
+- /SM590000 RNI is not a performance metric.
+- /SM590000 RNI and L1MP allows one to match their workload to an LSPR workload
+- -Any other use of RNI is not valid
+

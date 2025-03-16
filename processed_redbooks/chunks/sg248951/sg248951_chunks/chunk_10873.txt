@@ -1,0 +1,20 @@
+s, LPAR configuration, and the software configuration that is running. CPU MF data can be collected by z/OS System Measurement Facility on SMF 113 records or by z/VM Monitor starting with z/VM V5R4.
+
+For more information about how z/VM Monitor captures CPU MF records visit the following link: https://www.vm.ibm.com/perf/tips/cpumf.html
+
+12.6  Relating production workloads to LSPR workloads
+
+Historically, the following techniques were used to match production workloads to LSPR workloads:
+
+- /SM590000 Application name (a client that is running CICS can use the CICS LSPR workload)
+- /SM590000 Application type (create a mix of the LSPR online and batch workloads)
+- /SM590000 I/O rate (the low I/O rates that are used a mix of low I/O rate LSPR workloads)
+
+The IBM z Processor Capacity Reference (IBM zPCR) tool supports the following workload categories:
+
+- /SM590000 Low
+- /SM590000 Low-Average
+- /SM590000 Average
+- /SM590000 Average-high
+- /SM590000 High
+

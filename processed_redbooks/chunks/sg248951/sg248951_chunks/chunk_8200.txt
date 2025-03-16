@@ -1,0 +1,4 @@
+.6.2  IBM z/VM 7.2
+
+z/VM 7.2 is available since September, 2020. It includes the following features:
+

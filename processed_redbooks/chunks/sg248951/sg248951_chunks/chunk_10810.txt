@@ -1,0 +1,19 @@
+dresses in each CSS.
+- /SM590000 Link Load View
+- Shows the Link address and the PCHIDs that use it.
+- /SM590000 Node ID View
+
+Shows the Node ID data under the PCHIDs.
+
+10.5.13  Automated operations
+
+As an alternative to manual operations, an application can interact with the HMC and SE through an API. The interface allows a program to monitor and control the hardware components of the system in the same way a user performs these tasks.
+
+On IBM z16, the HMC APIs provide monitoring and control functions through SNMP. The API can get and set a managed object's attributes, issue commands, receive asynchronous notifications, and generate SNMP traps.
+
+The older system, such as IBM z13's HMC, supports the CIM as an extra systems management API. Starting with IBM z14, the CIM support is removed.
+
+For more information about APIs, see SNMP Application Programming Interfaces , SB10-7179.
+
+10.5.14  Cryptographic support
+

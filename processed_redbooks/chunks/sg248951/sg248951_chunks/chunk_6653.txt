@@ -1,0 +1,17 @@
+eeded for DK-defined functions.
+
+Support for the updated German Banking standard (DK)
+
+Update support requires ICSF WD19 (HCR77D1) for z/OS V2R2, V2R3, and V2R4.
+
+PKA Translate UDX function into CCA
+
+UDX is custom code that allows the client to add unique operations or extensions to the CCA firmware. Specific UDX functions are integrated into the base CCA code over time to accomplish the following tasks:
+
+- /SM590000 Remove headaches and challenges that are associated with UDX management and currency.
+- /SM590000 Make available popular UDX functions to a wider audience to encourage adoption.
+
+UDX is integrated into the base CCA code to support translating an external RSA CRT key into new formats. These formats use tags to identify key components. Depending on which new rule array keyword is used with the PKA Key Translate callable service, the service TDES encrypts those components in CBC or ECB mode. In addition, AES CMAC support is delivered.
+
+Verb Algorithm Currency
+

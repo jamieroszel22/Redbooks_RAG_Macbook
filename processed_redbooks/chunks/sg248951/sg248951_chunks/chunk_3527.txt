@@ -1,0 +1,17 @@
+on allows for an addressing range up to 16 EB. However, the current IBM z16 A01 definition limit for CF LPARs is 32 TB of storage.
+
+The following CFCC levels are supported in a Sysplex with IBM z16:
+
+- -CFCC Level 25, available on IBM z16 (Driver level 51)
+- -CFCC Level 24, available on IBM z15 (Driver level 41)
+- -CFCC Level 23, available on IBM z14 (Driver level 36)
+- -CFCC Level 22, available on IBM z14 (Driver level 32)
+
+For more information, see 3.9.1, 'CF Control Code' on page 131.
+
+Only IBM CFCC can run in CF mode.
+
+- /SM590000 Linux only
+
+In Linux only mode, storage addressing can be 31-bit or 64-bit, depending on the operating system architecture and the operating system configuration.
+

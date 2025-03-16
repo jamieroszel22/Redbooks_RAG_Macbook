@@ -1,0 +1,7 @@
+re, later instructions are stalled. In an out-of-order core, later storage-accessing instructions that can compute their storage address are allowed to run.
+- /SM590000 Hiding storage access latency
+
+Many instructions access data from storage. Storage accesses can miss the L1 and require 7 - 50 more clock cycles to retrieve the storage data. In an in-order core, later instructions in the code stream are stalled. In an out-of-order core, later instructions that are not dependent on this storage data are allowed to run.
+
+The IBM z16 processor includes pipeline enhancements that benefit Out-of-Order execution. The processor design features advanced micro-architectural innovations that provide the following benefits:
+

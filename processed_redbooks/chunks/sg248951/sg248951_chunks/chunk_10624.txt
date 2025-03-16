@@ -1,0 +1,22 @@
+ed to show a summary Bundle level for the activated level, as shown in Figure 10-28.
+
+<!-- missing-text -->
+
+10.5.6  Monitoring
+
+This section describes monitoring considerations.
+
+Monitor task group
+
+The Monitor task group on the HMC and SE includes monitoring-related tasks for IBM Z CPCs, as shown in Figure 10-29.
+
+<!-- missing-text -->
+
+Monitors Dashboard
+
+The Monitors Dashboard in the Monitor group provides a tree-based view of resources.
+
+Multiple graphical views are available for displaying data, including history charts. The Monitors Dashboard monitors processor and channel usage. It also produces data that includes power monitoring information, power consumption, and the air input temperature for the system.
+
+You can display more information for the following components:
+

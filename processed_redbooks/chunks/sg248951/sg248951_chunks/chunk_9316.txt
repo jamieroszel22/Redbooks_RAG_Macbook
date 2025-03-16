@@ -1,0 +1,7 @@
+RAS characteristics:
+- -ECC on data path and snoop bus
+- -Parity on miscellaneous control lines
+- -One spare per ~50 data bit bus
+
+<!-- missing-text -->
+

@@ -1,0 +1,2 @@
+s can have different size DIMMs
+

@@ -1,0 +1,5 @@
+wer.
+- /SM590000 Fan-outs
+
+Each CPC drawer supports up to 12 PCIe+ fan-out adapters to connect to the PCIe+ I/O drawers, and Integrated Coupling Adapter Short Reach (ICA SR) coupling links:
+

@@ -1,0 +1,6 @@
+ing, such as management of open data sets and table space interest across the sysplex. Not all locks have anything to do with serialization of database updates or user database data or transactions.
+
+When lock structures use up all of the modify lock 'record data entries' that track held locks, users might need to perform special back-out or recovery processing to recover from this structure full condition. At times, that processing requires them to obtain more 'special' lock structure locks, which are needed to perform the recovery that can lead to a paradoxical situation: They must use more 'record data entries' to recover from being out of record data entries.
+
+CFCC level 25 on IBM z16 is providing improved use support for handling of lock structure 'record data full' conditions by:
+

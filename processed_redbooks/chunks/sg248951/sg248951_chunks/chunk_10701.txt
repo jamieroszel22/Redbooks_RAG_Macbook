@@ -1,0 +1,20 @@
+ou manage them. It also shows a history of recorded activities.
+
+The HMC for IBM z16 features the following CoD capabilities:
+
+- /SM590000 SNMP API support:
+- -API interfaces for granular activation and deactivation
+- -API interfaces for enhanced CoD query information
+- -API event notification for any CoD change activity on the system
+- -CoD API interfaces, such as On/Off CoD and Capacity Back Up (CBU)
+- /SM590000 SE window features (accessed through HMC Single Object Operations):
+- -Window controls for granular activation and deactivation
+- -History window for all CoD actions
+- -Description editing of CoD records
+- /SM590000 HMC/SE provides the following CoD information:
+- -Millions of service units (MSU) and processor tokens
+- -Last activation time
+- -Pending resources that are shown by processor type instead of only a total count
+- -Option to show more information about installed and staged permanent records
+- -More information for the Attention state by providing seven more flags
+

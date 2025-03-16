@@ -1,0 +1,6 @@
+e as directed by the domain assignment and the candidate list in the LPAR image profile. This availability is not changed by the shared or dedicated status that is given to the PUs in the partition.
+
+When installed nonconcurrently, Crypto Express8S features are assigned PCIe cryptographic adapter numbers sequentially during the power-on reset (POR) that follows the installation. When a Crypto Express8S feature is installed concurrently, the installation can select an out-of-sequence number from the unused range. When a Crypto Express8S (Crypto Express7S or Crypto Express6S) feature is removed concurrently, the PCIe adapter numbers are automatically freed.
+
+The definition of domain indexes and PCIe cryptographic adapter numbers in the candidate list for each LPAR must be planned to allow for nondisruptive changes. Consider the following points:
+

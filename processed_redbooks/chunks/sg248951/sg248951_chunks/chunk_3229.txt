@@ -1,0 +1,4 @@
+NY work in a boosting image is eligible to run on a zIIP processor associated with the image (LPAR).
+
+Many more workloads and software can use zIIP processors, such as the following examples:
+

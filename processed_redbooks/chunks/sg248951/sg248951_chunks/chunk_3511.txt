@@ -1,0 +1,18 @@
+e 120. However, zIIPs are used by z/OS only. Other operating systems cannot use zIIPs, even if they are defined to the LPAR. z/VM V7R1 and later support real and virtual zIIPs to guest z/OS systems.
+
+- /SM590000 General mode also is used to run the z/TPF operating system on dedicated or shared CPs
+- /SM590000 CF mode, by loading the CFCC code into the LPAR that is defined as one of the following types:
+- -Dedicated or shared CPs
+- -Dedicated or shared ICFs
+- /SM590000 Linux only mode to run the following systems:
+- -A Linux on IBM Z operating system, on either of the following types:
+- GLYPH&lt;129&gt; Dedicated or shared IFLs
+- GLYPH&lt;129&gt; Dedicated or shared CPs
+- -A z/VM operating system, on either of the following types:
+- GLYPH&lt;129&gt; Dedicated or shared IFLs
+- GLYPH&lt;129&gt; Dedicated or shared CPs
+- /SM590000 z/VM mode to run z/VM on dedicated or shared CPs or IFLs, plus zIIPs and ICFs
+- /SM590000 IBM SSC mode LPAR can run on dedicated or shared:
+- -CPs
+- -IFLs
+

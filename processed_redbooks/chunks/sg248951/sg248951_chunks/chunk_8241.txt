@@ -1,0 +1,17 @@
+000 8.11, 'Flexible Capacity Cyber Resiliency' on page 370
+- /SM590000 8.12, 'Planning for nondisruptive upgrades' on page 372
+- /SM590000 8.13, 'Summary of Capacity on-Demand offerings' on page 378
+
+8.1  Introduction
+
+A key resource for managing client IBM Z servers is the IBM Resource Link website. Once registered, a client can view product information by clicking Resource Link → Client Initiated Upgrade Information , and selecting Education . Select your particular product from the list of available systems.
+
+The scalability of IBM z16 servers includes the following benefits:
+
+- /SM590000 Enabling new business opportunities
+- /SM590000 Support for dynamic capacity growth and cloud environments
+- /SM590000 Risk management of volatile, high-growth, and high-volume applications
+- /SM590000 Enabling 24 x 7 application availability
+- /SM590000 Enabling capacity growth during lockdown periods
+- /SM590000 Enabling planned downtime without availability effects
+

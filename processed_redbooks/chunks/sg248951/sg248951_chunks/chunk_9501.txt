@@ -1,0 +1,4 @@
+M) and implemented clustered cache algorithms that provide virtualized L3 (shared victim) and virtual L4 (shared victim) caches (see Figure 9-4).
+
+<!-- missing-text -->
+

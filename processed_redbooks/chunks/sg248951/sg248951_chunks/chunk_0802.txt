@@ -1,0 +1,11 @@
+7, 'Connectivity' on page 51
+- /SM590000 2.8, 'Model configurations' on page 55
+- /SM590000 2.9, 'Power and cooling' on page 59
+- /SM590000 2.10, 'Summary' on page 66
+
+2.1  Frames and configurations
+
+The IBM z16 Model A01 system is designed in a 19-inch form factor with configuration of 1 - 4 frames that can be easily installed in any data center. The IBM z16 A01 (M/T 3931) can include from one to four 42U EIA (19-inch) frames, which are bolted together. The configurations can include up to four central processor complex (CPC) drawers and up to 12 Peripheral Component Interconnectfi Express+ (PCIe+) I/O drawers.
+
+The redesigned CPC drawer and I/O infrastructure also lower power consumption, reduces the footprint, and allows installation in virtually any data center. The IBM z16 server is rated for ASHRAE class A3 1  data center operating environment.
+

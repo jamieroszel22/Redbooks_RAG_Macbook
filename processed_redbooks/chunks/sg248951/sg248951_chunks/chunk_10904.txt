@@ -1,0 +1,3 @@
+com/support/pages/node/6437547
+- /SM590000 z/VM CPU MF is collected in Monitor records. (there is no SMF). For more information, refer to: https://www.vm.ibm.com/perf/tips/cpumf.html
+

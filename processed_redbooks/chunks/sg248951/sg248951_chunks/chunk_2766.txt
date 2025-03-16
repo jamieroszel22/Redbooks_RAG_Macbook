@@ -1,0 +1,14 @@
+divide.
+- /SM590000 New Operand Store Compare (OSC) (load-hit-store conflict) avoidance scheme.
+- /SM590000 Enhanced branch prediction structure and sequential instruction fetching.
+
+Program results
+
+The Out-of-Order execution does not change any program results. Execution can occur out of (program) order, but all program dependencies are accepted, and the same results are seen as in-order (program) execution. The design was optimized by increasing the Global Completion Table (GCT) from 48x3 to 60x3, which increased the issue queue size from 2x30 to 2x36 and designed a new Mapper.
+
+This implementation requires special circuitry to make execution and memory accesses display in order to the software. The logical diagram of an IBM z16 core is shown in Figure 3-11 on page 83.
+
+<!-- missing-text -->
+
+Memory address generation and memory accesses can occur out of (program) order. This capability can provide a greater use of the IBM z16 superscalar core, and improve system performance.
+

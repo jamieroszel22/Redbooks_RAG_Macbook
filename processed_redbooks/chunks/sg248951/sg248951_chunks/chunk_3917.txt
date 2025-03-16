@@ -1,0 +1,6 @@
+provide IFCC recovery for these nonidempotent commands, but inevitably cases existed ion which z/OS cannot provide unambiguous command results to callers. Users might not handle this ambiguity well.
+
+CF cache users who use of these nonidempotent constructs experienced occasional customer problems based on it. The only approach that cleanly and completely addresses the issue is to provide retry buffers for the small subset of cache and lock commands that manipulate objects in a nonidempotent way, along with the accompanying transparent z/OS retry buffer use. z/OS transparently provides all the required recovery support and no user participation is needed.
+
+Down-level systems can continue to use the 'old' software retry support until they are upgraded, while up-level systems that use the same CF structure can take full advantage of the new retry buffers for improved IFCC recovery. APAR OA60275 is required on z/OS V2R2, V2R3, V2R4, and V2R5.
+

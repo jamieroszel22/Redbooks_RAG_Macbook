@@ -1,0 +1,15 @@
+rted.
+
+<!-- missing-text -->
+
+- a. Server is withdrawn from marketing.
+- b. The IBM Software Support Services provides the ability for customers to purchase extended defect support service for z/OS.
+
+7.5.1  General guidelines
+
+The IBM z16 introduces the latest IBM Z technology. Although support is provided by z/OS starting with z/OS V2.R2, the capabilities and use of IBM z16 depends on the z/OS release. Optional web deliverables 14  are needed for some functions on some releases.
+
+New: ICSF support for IBM z16 is provided with PTFs, not Web deliverables
+
+In general, consider the following guidelines:
+

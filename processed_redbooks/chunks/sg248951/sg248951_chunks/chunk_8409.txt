@@ -1,0 +1,13 @@
+ing the LPAR dynamic storage reconfiguration (DSR) function. DSR allows a z/OS operating system image and z/VM partitions to add reserved storage to their configuration if any unused storage exists.
+
+The nondisruptive addition of storage to a z/OS and z/VM partition requires the correct operating system parameters to be set. If reserved storage is not defined to the LPAR, the LPAR must be deactivated, the image profile changed, and the LPAR reactivated. This process allows the extra storage resources to be available to the operating system image.
+
+8.4.3  MES upgrades for I/O
+
+MES upgrades for I/O can concurrently add I/O features by using one of the following methods:
+
+- /SM590000 Installing I/O features on an installed PCIe+ I/O drawer
+- /SM590000 Adding a PCIe+ I/O drawer to hold the new I/O features
+
+For more information about PCIe+ I/O drawers, see 4.2, 'I/O system overview' on page 148.
+

@@ -1,0 +1,8 @@
+ LX feature supports the use of an LC Duplex connector. Ensure that the attaching or downstream device includes an LX transceiver. The sending and receiving transceivers must be the same (LX to LX).
+
+A 9 µm single-mode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature to the selected device. If multimode fiber optic cables are being reused, a pair of Mode Conditioning Patch cables is required, with one cable for each end of the link.
+
+OSA-Express7S Gigabit Ethernet SX (FC 0443)
+
+The OSA-Express7S GbE SX feature includes one PCIe adapter and two ports. The two ports share a channel path identifier (CHPID type OSD). The ports support attachment to a 1 Gbps Ethernet LAN. Each port can be defined as a spanned channel and shared among LPARs and across logical channel subsystems.
+

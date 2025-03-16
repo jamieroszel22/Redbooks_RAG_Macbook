@@ -1,0 +1,8 @@
+rces that are required for the removal, determines the required actions, and presents the results for review. Depending on the configuration, the task can take from a few seconds to several minutes.
+
+The preparation step determines the readiness of the system for the removal of the targeted drawer. The configured processors and the memory in the selected drawer are evaluated against unused resources that are available across the remaining drawers. The system also analyzes I/O connections that are associated with the removal of the targeted drawer for any single path I/O connectivity.
+
+If insufficient resources are available, the system identifies the conflicts so that you can free other resources.
+
+The following states can result from the preparation step:
+

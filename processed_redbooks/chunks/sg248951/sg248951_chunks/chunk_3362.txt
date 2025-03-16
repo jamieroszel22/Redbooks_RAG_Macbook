@@ -1,0 +1,13 @@
+the LPAR can support. For more information about logical processors and reserved processors and their definitions, see 3.7, 'Logical partitioning' on page 117.
+
+3.5.8  Integrated firmware processors
+
+Integrated Firmware Processors (IFP) are allocated from the pool of PUs and are available for the entire system. Unlike other characterized PUs, IFPs are standard on all IBM z16 models and not defined by the client.
+
+The two PUs that are characterized as IFP are dedicated to supporting firmware functions that are implemented in Licensed Internal Code (LIC); for example, the resource groups (RGs) that are used for managing the following native Peripheral Component Interconnect Express (PCIe) features:
+
+- /SM590000 10GbE and 25GbE RoCE Express3 Short Reach (SR) and Long Reach (LR)
+- /SM590000 10GbE and 25GbE RoCE Express2
+- /SM590000 10GbE and 25GbE RoCE Express2.1
+- /SM590000 Coupling Express2 Long Reach
+

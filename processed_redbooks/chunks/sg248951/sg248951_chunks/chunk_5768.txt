@@ -1,0 +1,4 @@
+rovide high-security cryptographic processing as required by banking and other industries. This feature provides a secure programming and hardware environment wherein crypto processes are performed.
+
+Each cryptographic coprocessor includes general-purpose processors, nonvolatile storage, and specialized cryptographic electronics, which are all contained within a tamper-sensing and tamper-responsive enclosure that eliminates all keys and sensitive data on any attempt to tamper with the device. The security features of the HSM are designed to meet the requirements of FIPS 140-2, Level 4, which is the highest-defined security level.
+

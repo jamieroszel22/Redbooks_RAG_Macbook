@@ -1,0 +1,12 @@
+res a contractual agreement between you and IBM.
+
+You decide whether to pre-pay or post-pay On/Off CoD. Capacity tokens that are inside the records are used to control activation time and resources.
+
+- /SM590000 CBU is a concurrent and temporary activation of more CPs, ICFs, zIIPs, IFLs, and SAPs; or an increase of the model capacity identifier; or both.
+
+Note: CBU cannot be used for peak workload management in any form.
+
+On/Off CoD is the correct method to use for workload management. A CBU activation can last up to 90 days when a disaster or recovery situation occurs.
+
+CBU features are optional, and require unused capacity to be available on installed processor drawers of the backup system. They can be available as unused PUs, an increase in the model capacity identifier, or both.
+

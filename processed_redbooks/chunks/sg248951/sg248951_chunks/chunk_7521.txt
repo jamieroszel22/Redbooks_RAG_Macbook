@@ -1,0 +1,10 @@
+the CF's monopolization state information so as to observe the structure becoming 'non-monopolized' again, so that request processing can eventually revert back to a non-throttled mode of operation.
+
+The overall goal of z/OS anti-monopolization support is to protect the ability of ALL well-behaved structures and workloads to access the CF, and get their requests processed in the CF in a timely fashion. At the same time, it implements queuing and throttling mechanisms in z/OS to hold back the specific abusive workloads that are causing problems for other workloads.
+
+z/OS XCF/XES use of APAR support is required to provide this function.
+
+- /SM590000 CFCC Change Shared-Engine CF Default to DYNDISP=THIN
+
+Coupling Facility images can run with shared or dedicated processors. Shared processor CFs can operate with different Dynamic Dispatching (DYNDISP) models:
+

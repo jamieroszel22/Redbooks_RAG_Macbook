@@ -1,0 +1,14 @@
+ware for peak capacity to handle short term spikes
+
+The software and hardware pricing models provide customers an opportunity to grow and more fully use their IBM Z investment for new opportunities.
+
+IBM originally introduced DevTest Solution and New Application Solution in 2017. These solutions further evolved when in May 2019, IBM announced two significant other solutions: Enterprise Consumption (since renamed to the Software Consumption Solution), and Enterprise Capacity Solution.
+
+In May 2021, IBM announced a new hardware solution, called Hardware Consumption Solution. All of these options were gathered into a new family of IBM Z pricing called Tailored Fit Pricing (TFP).
+
+The Software Consumption Solution and the Hardware Consumption Solution are discussed next.
+
+Software Consumption Model
+
+To meet the demands of modern workloads and provide a commercial confidence to match the technology confidence, the Consumption Solution was well received and adopted.
+

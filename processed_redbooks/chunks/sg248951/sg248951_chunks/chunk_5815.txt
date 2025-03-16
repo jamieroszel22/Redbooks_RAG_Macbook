@@ -1,0 +1,10 @@
+ts are available to increase the device addressability of a channel subsystem.
+
+For more information about multiple subchannel sets, see 5.1.2, 'Multiple subchannel sets' on page 200.
+
+Channel paths
+
+A channel path provides a connection between the channel subsystem and control units that allows the channel subsystem to communicate with I/O devices. Depending on the type of connections, a channel path might be a physical connection to a control unit with I/O devices, such as FICON, or an internal logical control unit, such as HiperSockets.
+
+Each channel path in a channel subsystem features a unique 2-digit hexadecimal identifier that is known as a channel-path identifier (CHPID), which ranges 00 - FF. Therefore, a total of 256 CHPIDs are supported by a CSS, and a maximum of 1536 CHPIDs are available on an IBM z16 with six logical channel subsystems.
+

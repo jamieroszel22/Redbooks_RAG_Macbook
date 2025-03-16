@@ -1,0 +1,12 @@
+ON channel performance, see the performance technical papers that are available at the IBM Z I/O connectivity page of the IBM IT infrastructure website.
+
+Modified Indirect Data Address Word facility
+
+The Modified Indirect Data Address Word (MIDAW) facility improves FICON performance. It provides a more efficient channel command word (CCW)/indirect data address word (IDAW) structure for specific categories of data-chaining I/O operations.
+
+The MIDAW facility is a system architecture and software feature that is designed to improve FICON performance. This facility was first made available on IBM System z9fi servers, and is used by the Media Manager in z/OS.
+
+The MIDAW facility provides a more efficient CCW/IDAW structure for certain categories of data-chaining I/O operations.
+
+MIDAW can improve FICON performance for extended format data sets. Nonextended data sets also can benefit from MIDAW.
+

@@ -1,0 +1,7 @@
+, resources from the entire record are deactivated.
+
+For example, for an IBM z16 with capacity identifier 502 (two CPs), a capacity upgrade through On/Off CoD can be delivered in the following ways:
+
+- /SM590000 Add CPs of the same capacity setting. With this option, the model capacity identifier can be changed to a 503, which adds another CP to make it a three-way CP. It also can be changed to a 504, which adds two CPs and makes it a four-way CP.
+- /SM590000 Change to a different capacity level of the current CPs and change the model capacity identifier to a 602 or 702. The capacity level of the CPs is increased, but no other CPs are added. The 502 also can be temporarily upgraded to a 603, which increases the capacity level and adds a processor. The capacity setting 439 does not have an upgrade path through On/Off CoD because you cannot reduce the number of CPs and a 539 is more than twice the capacity.
+

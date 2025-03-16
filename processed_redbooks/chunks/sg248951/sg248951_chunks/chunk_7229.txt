@@ -1,0 +1,16 @@
+virtual channel identification number that is associated with the channel path (valid range is 7C0 - 7FF).
+- d. Shared Memory Communications - Direct Memory Access.
+- e. Does not require a peer OSA.
+
+- f. CHPID types OSM, OSN, OSX are no longer supported.
+- g. Statements of Direction: IBM z16 will be the last IBM Z server to support OSA Express 1000BASE-T hardware adapters.
+- h. Require PTFs for APARs OA55256 (IBM VTAM) and PI95703 (TCP/IP).
+- i. Require PTF for APAR PI99085.
+- j. Statements of Direction: IBM z16 will be the last IBM Z server to support the OSE CHPID type.
+
+The supported network connectivity functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-9.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

@@ -1,0 +1,15 @@
+- GLYPH&lt;129&gt; Integrated Facilities for Linuxfi IFLs): ( ) I
+- GLYPH&lt;129&gt; z Integrated Information Processors (zIIPs): ( Z )
+- GLYPH&lt;129&gt; Integrated Firmware Processor (IFPs): ( F )
+
+The physical processor types may have some of the following conditions:
+
+- /SM590000 Indicates the physical processor types are shared: ( SH )
+- /SM590000 Indicates the physical processor is dedicated: ( D )
+
+- /SM590000 Indicates the vertical polarity for the physical processor types ( H / M / L )
+
+12.9.8  IBM zPCR Large Partition Support
+
+IBM zPCR version 9.6.4 8  implemented an important change to the LPAR Configuration Capacity Planning function. For the IBM z16, 3931 (Max200/700) a change was made to match the way RCPs per drawer are assigned when the total number RCPs in the configuration is up to 191. This change compensates for the way the RCP count per drawer actually occurs.
+

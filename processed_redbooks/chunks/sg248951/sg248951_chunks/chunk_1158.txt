@@ -1,0 +1,2 @@
+ferent memory controllers can have different size DIMMs
+

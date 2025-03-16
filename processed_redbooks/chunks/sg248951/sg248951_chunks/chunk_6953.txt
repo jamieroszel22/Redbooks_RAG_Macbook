@@ -1,0 +1,19 @@
+d on z/OS V2R3 and later only 1 .
+
+How to get the latest fix information for z/OS systems
+
+For the latest information about z/OS PTFs that apply to the IBM z16, consult the Fix Categories (FIXCATs).
+
+Fixes are grouped into the following categories (for more information about IBM Fix Categories, see this IBM Support web page):
+
+- /SM590000 Base support is provided by PTFs identified by:
+
+IBM.Device.Server.-3931.RequiredService
+
+- Fixes that are required to run z/OS on the IBM z16 servers and must be installed before migration.
+- /SM590000 Use of many functions is provided by PTFs identified by:
+- IBM.Device.Server.-3931.Exploitation
+- Fixes that are required to use the capabilities of the IBM z16. They must be installed only if you use the function.
+- /SM590000 Recommended service is identified by:
+- IBM.Device.Server.-3931.RecommendedService
+

@@ -1,0 +1,8 @@
+wer or PCIe+ I/O drawer 14 . It allows the supported IBM Z to connect to each other over extended distance. The Coupling Express2 LR (FC 0434) is a two-port card that uses coupling channel type CL5.
+
+The Coupling Express2 LR uses 10 GbE RoCE technology and is designed to drive distances up to 10 km (6.21 miles) unrepeated and support a link data rate of 10 Gigabits per second (Gbps). For distance requirements greater than 10 km (6.21 miles), clients must use a Wavelength Division Multiplexer (WDM). The WDM vendor must be qualified by IBM Z.
+
+Coupling Express2 LR is designed to support up to four CHPIDs per port, 32 buffers (that is, 32 subchannels) per CHPID. The Coupling Express2 LR feature is in the PCIe+ I/O drawer on IBM z16.
+
+For more information, see IBM Z Planning for Fiber Optic Links (FICON/FCP, Coupling Links, Open Systems Adapters, and zHyperLink Express) , GA23-1409. This publication is available in the Library section of Resource Link (log-in required).
+

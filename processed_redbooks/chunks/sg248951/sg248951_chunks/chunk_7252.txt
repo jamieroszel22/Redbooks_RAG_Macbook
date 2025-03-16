@@ -1,0 +1,10 @@
+ntion from the z/TPF system when the z/TPF system is operating at periods of low demand.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+zIIP support
+
+zIIPs do not change the model capacity identifier of IBM z16 servers. IBM software product license charges that are based on the model capacity identifier are not affected by the addition of zIIPs.
+
+No changes to applications are required to use zIIPs. They can be used by the following applications:
+

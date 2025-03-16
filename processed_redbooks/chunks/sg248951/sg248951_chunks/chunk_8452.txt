@@ -1,0 +1,18 @@
+ardware On/Off CoD charges during this window (three days or less) are waived. If no purchase is made, you are charged for the temporary use.
+
+The following resources are eligible for temporary use:
+
+- /SM590000 CPs
+- /SM590000 ICFs
+- /SM590000 zIIPs
+- /SM590000 IFLs
+- /SM590000 SAPs
+
+The temporary addition of memory and I/O ports or adapters is not supported.
+
+Unassigned PUs that are on the installed processor drawers can be temporarily and concurrently activated as CPs, ICFs, zIIPs, IFLs, and SAPs through LICCC. You can assign PUs up to twice the currently installed CP capacity, and up to twice the number of ICFs, zIIPs, or IFLs.
+
+An On/Off CoD upgrade cannot change the system capacity feature. The addition of processor drawers is not supported. However, the activation of an On/Off CoD upgrade can increase the model capacity identifier (4 xx , 5 yy , 6 yy , or 7 nn ).
+
+8.6.2  Capacity Provisioning Manager
+

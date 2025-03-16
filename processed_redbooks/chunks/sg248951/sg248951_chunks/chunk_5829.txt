@@ -1,0 +1,18 @@
+l links. External links that are supported on IBM z16 A01 systems include FICON Express32S, FICON Express16SA, FICON Express16S+, OSA-Express7S 1.2, OSA-Express7S, OSA-Express6S, and Coupling Links.
+
+The definition of LPAR name, MIF image ID, and LPAR ID are used to identify an LPAR by the channel subsystem to identify I/O functions from different LPARs of multiple LCSSs, which support the implementation of these dedicated, shared, and spanned paths.
+
+An example of definition of these LPAR-related identifications is shown in Figure 5-4.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+LPAR name
+
+The LPAR name is defined as partition name parameter in the RESOURCE statement of an I/O configuration. The LPAR name must be unique across the server.
+
+MIF image ID
+
+The MIF image ID is defined as a parameter for each LPAR in the RESOURCE statement of an I/O configuration. It ranges 1 - F, and must be unique within an LCSS. However, duplicates are allowed in different LCSSs.
+

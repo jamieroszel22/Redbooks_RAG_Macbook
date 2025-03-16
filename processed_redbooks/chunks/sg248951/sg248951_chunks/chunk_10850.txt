@@ -1,0 +1,14 @@
+uns at 5.2 GHz clock speed, which is the same as the IBM z15 processor chip, but the performance is increased. For N-way processors model, it increases 1.11x on average at equal N-way configuration.
+
+These numbers differ depending on the workload type and LPAR configuration.
+
+12.1.2  IBM z16 SMT capacity
+
+From z13 to IBM z16, customers can choose to run two threads on IFL and zIIP cores by using SMT mode. SMT increases throughput by 10 - 40% (average 25%), depending on workload.
+
+For zIIPs and IFLs, the performance improvement per SMT enabled core for z16 (3931) versus z15 (8561) is approximately 11%, which is the same improvement for zIIPs and IFLs in a single thread.
+
+12.1.3  IBM Integrated Accelerator for zEnterprise Data Compression (zEDC)
+
+Starting with z13, IBM introduced the zEnterprise Data Compression (zEDC) Express PCIe feature, which increases efficiency for data storing and data transfers.
+

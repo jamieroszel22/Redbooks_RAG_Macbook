@@ -1,0 +1,10 @@
+ and Linux on Z and z/TPF also running on IBM z16. Both z16 CPCs require proper firmware level (Bundle S24 or higher). This configuration continues to support stand-alone CF Dynamic I/O activations.
+
+In addition to operating system support that is listed in Table 7-5, Server Time Protocol is supported on z/TPF V1R1 and Linux on IBM Z. Also, CFCC Level 23, Level 24, and Level 25 are supported for z/TPF V1R1.
+
+7.3.3  Storage connectivity
+
+The supported storage connectivity functions for z/OS and z/VM are listed Table 7-6.
+
+<!-- missing-text -->
+

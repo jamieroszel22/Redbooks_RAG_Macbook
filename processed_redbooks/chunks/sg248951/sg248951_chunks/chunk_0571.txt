@@ -1,0 +1,10 @@
+ion to the IBM Z platform.
+- /SM590000 Two dual-function Processor Power Cards (PPC), which control Voltage Regulation, PSU and Fan control. The PPCs are redundant and can be concurrently maintained.
+- /SM590000 Five fans are installed at the front of the drawer to provide cooling airflow for the resources that are installed in the drawer except for the PU SCMs, which are internally water-cooled.
+
+With the IBM z16, Virtual Flash Memory (VFM) feature is offered from the main memory capacity in 0.5 TB units to increase granularity for the feature. VFM can provide much simpler management and better performance by eliminating the I/O to the adapters in the PCIe+ I/O drawers.
+
+1.2.3  I/O subsystem and I/O drawers
+
+The IBM z16 supports a PCIe I/O infrastructure. PCIe features are installed in PCIe+ I/O drawers. Up to 12 I/O drawers per IBM z16 can be ordered, which allows for up to 192 PCIe I/O and special purpose features.
+

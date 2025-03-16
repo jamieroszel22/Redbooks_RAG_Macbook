@@ -1,0 +1,14 @@
+itions result in lower power. A calculator that is available on Resource Link calculates power and weight for specific configurations and environmental conditions.
+
+Balanced Power Plan Ahead feature
+
+Phase currents are minimized when they are balanced among the three input phases. Balanced Power Plan Ahead (FC 3003) is designed to allow you to order the full complement of bulk power regulators (BPRs) on any configuration to help ensure that the configuration is in a balanced power environment.
+
+Consideration: Power consumption is lower when in a normal ambient temperature room, and for configurations that feature a lesser number of I/O slots, smaller amount of memory, and fewer processors.
+
+Power estimation for any configuration, power source, and room condition can be obtained by using the power estimation tool at IBM Resource Link website (authentication required).
+
+On the Resource Link page, click Tools → Power and weight estimation .
+
+11.2.3  Cooling requirements
+

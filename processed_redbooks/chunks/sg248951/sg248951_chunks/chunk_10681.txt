@@ -1,0 +1,4 @@
+CC records to help you manage them. It also shows a history of recorded activities.
+
+The HMC for IBM z16 features the following CoD capabilities:
+

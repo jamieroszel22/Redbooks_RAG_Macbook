@@ -1,0 +1,18 @@
+ation. The on-chip accelerator enables load balancing of high compression loads and low latency and high bandwidth compared to zEDC Express, while maintaining current user experience on compression.
+
+Function support for the IBM Integrated Accelerator for zEDC is listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+For more information, see Appendix C, 'IBM Integrated Accelerator for zEnterprise Data Compression' on page 507.
+
+7.4.3  Coupling and clustering features and functions
+
+In this section, we describe the coupling and cluster features.
+
+Coupling facility and CFCC considerations
+
+Coupling facility (CF) connectivity to an IBM z16 is supported on the z16, IBM z14, or another IBM z16. The CFCC levels that are supported on IBM Z are listed in Table 7-15.
+
+<!-- missing-text -->
+
+- a. CFCC Level 22 is not supported when an IBM z16 participates in the sysplex
+

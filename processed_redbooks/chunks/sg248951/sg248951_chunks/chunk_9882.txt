@@ -1,0 +1,17 @@
+aring
+- /SM590000 PU Core Sparing
+
+9.6  IBM z16 availability characteristics
+
+The following functions include availability characteristics on IBM z16:
+
+- /SM590000 Enhanced drawer availability (EDA)
+
+EDA is a procedure under which a CPC drawer in a multi-drawer system can be removed and reinstalled during an upgrade or repair action with no effect on the workload.
+
+- /SM590000 Concurrent memory upgrade or replacement
+
+Memory can be upgraded concurrently by using Licensed Internal Code Configuration Control (LICCC) if physical memory is available on the drawers.
+
+The EDA function can be useful if the physical memory cards must be changed in a multi-drawer configuration (requiring the drawer to be removed).
+

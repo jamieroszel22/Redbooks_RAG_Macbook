@@ -1,0 +1,16 @@
+). Before IBM z16, you this task was done by using the HMC (clicking Service Management → Report a Problem ) or a CPC (clicking Service → Report a Problem ).
+
+Now, an LPAR can be selected for a RaP.
+
+For better clarification, the RaP for the HMC calls now Report a Console Problem.
+
+- /SM590000 CoD automation scripts
+
+Statement of Direction: IBM z16 is planned to be the last server to support established CoD unique record type automation interfaces. For example, the older command HWMCA\_ACTIVATE\_CBU\_COMMAND must change to HWMCA\_ADD\_CAPACITY\_COMMAND .
+
+We suggest you start now to change your automation scripts. For more information, see Capacity on-Demand User's Guide , SC28-7025.
+
+10.2.2  Hardware Management Appliance
+
+Starting with IBM z15, the two 1U rack-mounted servers on the top of the A frame provide increased hardware capacity, which allows instances of HMC and SE to run collocated on the same physical server. The SE code runs as a virtual guest of the HMC code.
+

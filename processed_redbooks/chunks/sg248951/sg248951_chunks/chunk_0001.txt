@@ -1,0 +1,64 @@
+Front cover
+
+<!-- missing-text -->
+
+IBM z16 (3931) Technical Guide
+
+Octavian Lascu
+
+Bill White
+
+Ewerson Palacio
+
+John Troy
+
+Jannie Houlbjerg
+
+Martijn Raave
+
+Kazuhiro Nakajima
+
+Paul Schouten
+
+AndrØ Spahni
+
+Anna Shugol
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+IBM Z
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Note: Before using this information and the product it supports, read the information in 'Notices' on page xiii.
+
+First Edition (September 2022)
+
+This edition applies to IBM z16 Model A01, Machine Type 3931.
+
+Contents
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Notices
+

@@ -1,0 +1,14 @@
+for Fiber Optic Links (FICON/FCP, Coupling Links, Open Systems Adapters, and zHyperLink Express) , GA23-1409. This publication is available in the Library section of Resource Link (log-in required).
+
+Extended distance support
+
+For more information about extended distance support, see System z End-to-End Extended Distance Guide , SG24-8047.
+
+Migration considerations
+
+Upgrading from previous generations of IBM Z systems in a Parallel Sysplex to IBM z16 servers in that same Parallel Sysplex requires proper planning for coupling connectivity. Planning is important because of the change in the supported type of coupling link adapters and the number of available fan-out slots of the IBM z16 CPC drawers.
+
+The ICA SR fan-out features provide short-distance connectivity to another IBM z16, IBM z15, or IBM z14 server.
+
+The CE LR adapter provides long-distance connectivity to another IBM z16, IBM z15, or IBM z14 server.
+

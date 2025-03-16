@@ -1,0 +1,8 @@
+pling Adapter Short Reach (ICA SR and SR1.1) depends on the system configuration and how distant they are physically.
+
+For more information about link technologies, see 'Coupling links' on page 187.
+
+Parallel Sysplex is an enabling technology that allows highly reliable, redundant, and robust IBM Z technology to achieve near-continuous availability. A Parallel Sysplex consists of one or more (z/OS) operating system images that are coupled through one or more Coupling Facility LPARs.
+
+A correctly configured Parallel Sysplex cluster maximizes availability in the following ways:
+

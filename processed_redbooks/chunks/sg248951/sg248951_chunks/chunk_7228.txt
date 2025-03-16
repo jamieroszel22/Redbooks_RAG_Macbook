@@ -1,0 +1,13 @@
+nt.
+- a. Statements by IBM regarding its plans, directions, and intent are subject to change or withdrawal without notice at the sole discretion of IBM.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. PTFs might be required for toleration support or use of IBM z16 features and functions.
+- b. For guest use or exploitation.
+- c. On IBM z16, the CHPID statement of HiperSockets devices requires the keyword VCHID. If you are migrating from a zEC12 or earlier, the IBM z16 IOCP definitions must be migrated to support the HiperSockets definitions (from CHPID type IQD). VCHID specifies the virtual channel identification number that is associated with the channel path (valid range is 7C0 - 7FF).
+- d. Shared Memory Communications - Direct Memory Access.
+- e. Does not require a peer OSA.
+

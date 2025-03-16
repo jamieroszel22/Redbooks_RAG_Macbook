@@ -1,0 +1,20 @@
+ for RSF is not used. If a proxy for RSF is used, the proxy must provide the DNS.
+
+The following hostnames and IP addresses are used and your network infrastructure must allow the HMC to access RSF:
+
+- /SM590000 esupport.ibm.com on port 443
+- /SM590000 The use of IPv4 requires outbound connectivity to the following IP addresses:
+- -129.42.54.189
+- -129.42.56.189
+- -129.42.60.189
+- /SM590000 The use of IPv6 requires outbound connectivity to the following IP addresses:
+- -2620:0:6c0:200:129:42:54:189
+- -2620:0:6c2:200:129:42:56:189
+- -2620:0:6c4:200:129:42:60:189
+
+Note: All other previous IP addresses are no longer supported.
+
+10.5  HMC and SE capabilities
+
+The HMC and SE features many capabilities. This section describes the key areas.
+

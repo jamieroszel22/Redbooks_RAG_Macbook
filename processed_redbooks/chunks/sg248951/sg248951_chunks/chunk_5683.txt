@@ -1,0 +1,17 @@
+onnectivity to 5 km.
+- c. 2 and 4 Gbps connectivity is not supported for point-to-point connections
+- d. 2 and 4 Gbps connectivity is supported through a SAN switch.
+
+zHyperLink Express1.1 (FC 0451)
+
+zHyperLink is a new technology that provides up to 5x reduction in I/O latency times for Db2 read requests with the qualities of service IBM Z clients expect from I/O infrastructure for Db2 v11 plus fixes (for read support) and v12 plus fixes (for write support) with z/OS.
+
+The following z/OS versions are supported for zHyperLink:
+
+- /SM590000 z/OS V2.5
+- /SM590000 z/OS V2.4 with PTFs
+- /SM590000 z/OS V2.3 with PTFs
+- /SM590000 z/OS V2.2 with PTFs
+
+The zHyperLink Express1.1 feature (FC 0451) provides a low latency direct connection between IBM z16 and DS8000 storage system.
+

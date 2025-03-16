@@ -1,0 +1,9 @@
+able highest availability and lowest downtime. These facts are recognized by various IT analysts, such as ITIC 9 and IDC 10 . A comprehensive, multi-layered strategy includes the following features:
+
+- /SM590000 Error Prevention
+- /SM590000 Error Detection and Correction
+- /SM590000 Error Recovery
+- /SM590000 System Recovery Boost
+
+With a suitably configured IBM z16, further reduction of outages can be attained through First Failure Data Capture (FFDC), which is designed to reduce service times and avoid subsequent errors. It also improves nondisruptive replace, repair, and upgrade functions for memory, drawers, and I/O adapters. IBM z16 supports the nondisruptive download and installation of LIC updates.
+

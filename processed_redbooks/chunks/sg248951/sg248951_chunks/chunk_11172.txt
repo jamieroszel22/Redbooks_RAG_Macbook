@@ -1,0 +1,16 @@
+ce of 100 times the daily usage charge per MSU.
+
+Efficiency benefits of TFP-Hardware
+
+Even if no use measured, the following benefits are realized resulting from having the extra capacity activated:
+
+- /SM590000 Improved and more predictable response times with lower latency (especially when compared to a public cloud solution)
+- /SM590000 Faster transaction processing, with shorter spikes of high use
+- /SM590000 Higher number of active processor engines have a positive n-way effect (higher parallelization) and delivers more cache, less contention, and overhead
+- /SM590000 Optimized workload handling under customer-defined use thresholds
+- /SM590000 Improved insight for future capacity planning
+- /SM590000 Improved balance between physical and logical Central Processor (CPs)
+- /SM590000 Reduced Processor Resource/System Manager (PR/SM) logical partitions (LPAR) management, less overhead
+
+Conclusion
+

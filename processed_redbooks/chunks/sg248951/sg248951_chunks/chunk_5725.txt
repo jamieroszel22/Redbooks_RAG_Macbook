@@ -1,0 +1,14 @@
+or, which supports 70 meters (229 feet)
+- /SM590000 OM4 50-micron multimode fiber optic cable that is rated at 4700 MHz-km that ends with an LC Duplex connector, which supports 100 meters (328 feet)
+
+The virtualization capabilities for IBM z16 are 63 Virtual Functions per port (126 VFs per feature/PCHID). One RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID). The 10 GbE RoCE Express3 feature uses SR optics and supports the use of a multimode fiber optic cable that ends with an LC Duplex connector.
+
+Note: Consider the following 10 GbE RoCE Express3 requirements:
+
+- /SM590000 The 10 GbE RoCE Express3 SR feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+- /SM590000 25 GbE/10 GbE RoCE features should not be mixed in a z/OS SMC-R Link Group.
+
+Point-to-point connections and switched connections with an enterprise-class 10 GbE switch are supported.
+
+10 GbE RoCE Express3 LR (FC 0441)
+

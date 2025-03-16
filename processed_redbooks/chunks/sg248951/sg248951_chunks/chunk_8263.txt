@@ -1,0 +1,15 @@
+ation.
+
+Concurrent PU conversions (MES ordered)
+
+IBM z16 A01 supports concurrent conversion between all PU types, which includes SAPs, to provide flexibility and meet changing business requirements.
+
+Important: The LICCC-based PU conversions require that at least one PU (CP, ICF, or IFL), remains unchanged. Otherwise, the conversion is disruptive. The PU conversion generates a LICCC that can be installed concurrently in two steps:
+
+- 1. Remove the assigned PU from the configuration.
+- 2. Activate the newly available PU as the new PU type.
+
+LPARs also might have to free the PUs to be converted. The operating systems must include support to configure processors offline or online so that the PU conversion can be done nondisruptively.
+
+Considerations: Client planning and operator action are required to use concurrent PU conversion. Consider the following points about PU conversion:
+

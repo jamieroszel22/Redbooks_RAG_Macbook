@@ -1,0 +1,18 @@
+
+- GLYPH&lt;129&gt; OSA-Express7S 1.2 1000BASE-T
+- GLYPH&lt;129&gt; OSA-Express7S GbE
+- GLYPH&lt;129&gt; OSA-Express7S 1000BASE-T
+- GLYPH&lt;129&gt; OSA-Express6S GbE
+- GLYPH&lt;129&gt; OSA-Express6S 1000BASE-T
+- -The following features have one port each:
+- GLYPH&lt;129&gt; OSA-Express7S 1.2 25 GbE
+- GLYPH&lt;129&gt; OSA-Express7S 1.2 10 GbE
+- GLYPH&lt;129&gt; OSA-Express7S 25 GbE SR1.1
+- GLYPH&lt;129&gt; OSA-Express7S 25 GbE
+- GLYPH&lt;129&gt; OSA-Express7S 10 GbE
+- GLYPH&lt;129&gt; OSA-Express6S 10 GbE
+- /SM590000 Native PCIe features (plugged into the PCIe+ I/O drawer):
+- -25 GbE and 10 GbE Remote Direct Memory Access (RDMA) over Converged Ethernet (RoCE) Express3 (two ports per feature)
+- -25 GbE and 10 GbE Remote Direct Memory Access (RDMA) over Converged Ethernet (RoCE) Express2.1 (two ports per feature, carry forward)
+- -2 5-GbE and 10-GbE RoCE Express2 (two ports per feature, carry forward)
+- -Coupling Express2 Long Reach (CE2 LR): Two ports per feature

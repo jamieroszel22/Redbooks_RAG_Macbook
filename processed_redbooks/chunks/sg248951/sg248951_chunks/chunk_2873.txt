@@ -1,0 +1,13 @@
+a CF-to-CF duplexing signal).
+- /SM590000 On the z/OS side:
+- -CF signal is received by a shared-engine z/OS image (arrival of a List Notification signal).
+- -An asynchronous CF operation completes.
+
+The interrupt causes the receiving partition to be dispatched by an LPAR if it is not dispatched. This process allows the request, signal, or request completion to be recognized and processed in a more timely manner.
+
+After the image is dispatched, 'poll for work' logic in CFCC and z/OS can be used largely as-is to locate and process the work. The new interrupt expedites the redispatching of the partition.
+
+LPAR presents these Coupling Thin Interrupts to the guest partition, so CFCC and z/OS both require interrupt handler support that can deal with them. CFCC also changes to relinquish control of the processor when all available pending work is exhausted, or when the LPAR undispatches it off the shared processor, whichever comes first.
+
+CF processor combinations
+

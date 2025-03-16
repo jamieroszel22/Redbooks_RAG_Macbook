@@ -1,0 +1,16 @@
+-8 on page 179.
+
+OSA-Express features summary
+
+The OSA-Express feature codes, cable type, maximum unrepeated distance, and the link rate on an IBM z16 are listed in Table 4-8.
+
+<!-- missing-text -->
+
+- a. Minimum fiber bandwidths in MHz/km for multimode fiber optic links are included in parentheses, where applicable.
+
+25 GbE RoCE Express3 SR (FC 0452)
+
+25 GbE RoCE Express3 SR (FC 0452) is installed in the PCIe+ I/O drawer and is supported on IBM z16 servers only. The 25 GbE RoCE Express3 SR is a native PCIe feature. It does not use a CHPID. It is defined by using the IOCP FUNCTION statement or in the hardware configuration definition (HCD).
+
+The maximum supported unrepeated distance, point-to-point, is 100 meters (328 feet). A client-supplied cable is required. Two types of cables can be used for connecting the port to the selected 25 GbE switch or to another 25 GbE RoCE Express3 SR feature:
+

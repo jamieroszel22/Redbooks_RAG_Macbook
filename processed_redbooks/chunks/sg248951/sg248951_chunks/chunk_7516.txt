@@ -1,0 +1,12 @@
+are off limits to normal requests to the coupling facility and can be used only if a new keyword is used on lock requests that generate record data entries.
+
+- /SM590000 Cache residency time metrics
+
+The CF calculates in microseconds by way of a moving weighted average the elapsed time a data area or directory entry resides in a storage class before it is reclaimed. XES returns this information on an IXLCACHE REQUEST=READSTGSTATS and IXLMG STRNAME=strname,STGCLASS=stgclass request.
+
+- /SM590000 DYNDISP=ON|OFF is deprecated
+
+For CFCC Level 25, DYNDISP=THIN is the only available behavior for shared-engine CF dispatching.
+
+Specifying OFF or ON in CF commands and the CF configuration file is preserved for compatibility, but a warning message is issued to indicate that these options are no longer supported, and that DYNDISP=THIN behavior is to be used.
+

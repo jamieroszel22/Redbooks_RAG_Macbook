@@ -1,0 +1,12 @@
+nnectivity to the PCIe+ Gen3 fan-outs that are installed in the CPC drawers.
+- /SM590000 Each I/O drawer domain has four dedicated support partitions (two per domain) to manage the native PCIe cards.
+- /SM590000 Two Baseboard Management Controllers (BMC) cards are used to control the drawer function.
+- /SM590000 Redundant N+1 power supplies (two) are mounted on the rear and redundant blowers (six) are mounted on the front.
+
+The following configuration examples and how the configurations are different from the power selection (PDU or BPA), number of CPC drawers and I/O features ordered, the layout of the PCIe+ I/O drawers, and PCHID numbering are shown in Figure 2-18:
+
+<!-- missing-text -->
+
+- /SM590000 The first, a single frame system, ordered with PDU power, radiator cooling, one CPC drawer, and greater than 32 I/O features to drive three I/O drawers.
+- PCHID numbering is consecutive from top to bottom.
+

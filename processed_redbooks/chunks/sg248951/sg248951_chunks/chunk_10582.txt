@@ -1,0 +1,18 @@
+ switches are recommended for redundancy).
+
+Each SE and each HMC has two Ethernet RJ45 ports. An example of these connections are made without an HMA is shown in Figure 10-18.
+
+<!-- missing-text -->
+
+Note: The HMC must be connected to the SEs by using a customer-provided switch. Direct connection between the HMC and the SEs is not supported.
+
+The connectivity for multiple CPC generations and mixing stand-alone HMCs and HMAs environments (IBM z16 N-2 only) is shown in Figure 10-19.
+
+<!-- missing-text -->
+
+Various methods are available for setting up the network. Designing and planning the HMC and SE connectivity is the customers' responsibility, based on the environment's connectivity and security requirements.
+
+10.3.3  Network planning for the HMC and SE
+
+Plan the HMC and SE network connectivity carefully to allow for current and future use. Many of the IBM Z capabilities benefit from the various network connectivity options.
+

@@ -1,0 +1,13 @@
+ feature must be of the same type (LX or SX). The features are connected to a FICON capable control unit (point-to-point or switched point-to-point) through a Fibre Channel switch.
+
+FICON Express32S
+
+The FICON Express32S feature is installed in the PCIe+ I/O drawer. Each of the two independent ports is capable of 8 Gbps, 16 Gbps, or 32 Gbps. The link speed depends on the capability of the attached switch or device. The link speed is auto-negotiated, point-to-point, and is transparent to users and applications.
+
+The following types of FICON Express32S optical transceivers are supported (no mix on same card):
+
+- /SM590000 FICON Express32S LX feature, FC 0461, with two ports per feature, LC Duplex connectors
+- /SM590000 FICON Express32S SX feature, FC 0462, with two ports per feature, LC Duplex connectors
+
+For more information about supported distances, see Table 4-6 on page 163.
+

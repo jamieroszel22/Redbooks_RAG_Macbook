@@ -1,0 +1,12 @@
+upplies a graphical interface of HCD. It is installed on a PC and allows you to manage the physical and logical aspects of a mainframe's hardware configuration.
+
+- /SM590000 CHPID Mapping Tool (CMT)
+
+The CMT helps to map CHPIDs onto PCHIDs that are based on an IODF source file and the eConfig configuration file of a mainframe. It provides a CHPID to PCHID mapping with high availability for the targeted I/O configuration. It also features built-in mechanisms to generate a mapping according to customized I/O performance groups. More enhancements are implemented in CMT to support IBM z16 servers.
+
+The CMT is available for download from the IBM Resource Link (log-in required).
+
+The configuration file for a new machine or upgrade also us available from the IBM Resource Link (log-in required). Contact your IBM technical sales representative for the name of the file to download.
+
+5.3  Channel subsystem summary
+

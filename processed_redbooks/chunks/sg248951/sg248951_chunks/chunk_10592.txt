@@ -1,0 +1,16 @@
+y qualified IPV6 address features 16 bytes. It is written as eight 16-bit hexadecimal blocks that are separated by colons, as shown in the following example:
+
+2001:0db8:0000:0000:0202:b3ff:fe1e:8329
+
+Because many IPv6 addresses are not fully qualified, shorthand notation can be used. In shorthand notation, the leading zeros can be omitted, and a series of consecutive zeros can be replaced with a double colon. The address in the previous example also can be written in the following manner:
+
+2001:db8::202:b3ff:fe1e:8329
+
+If an IPv6 address is assigned to the HMC for remote operations that use a web browser, browse to it by specifying that address. The address must be surrounded with square brackets in the browser's address field, as shown in the following example:
+
+https://[fdab:1b89:fc07:1:201:6cff:fe72:ba7c]
+
+The use of link-local addresses must be supported by your browser.
+
+10.3.7  OSA Support Facility
+

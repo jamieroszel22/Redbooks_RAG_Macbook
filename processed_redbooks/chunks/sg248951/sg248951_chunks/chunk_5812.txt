@@ -1,0 +1,8 @@
+el subsystems
+
+In the z/Architecture, a single channel subsystem can have up to 256 channel paths that are defined, which limited the total numbers of I/O connectivity on older IBM Z servers to 256.
+
+The introduction of multiple LCSSs enabled an IBM Z server to have more than one channel subsystems logically, while each logical channel subsystem maintains the same manner of I/O processing. Also, a logical partition (LPAR) is now attached to a specific logical channel subsystem, which makes the extension of multiple logical channel subsystems not apparent to the operating systems and applications. The multiple image facility (MIF) in the structure enables resource sharing across LPARs within a single LCSS or across the LCSSs.
+
+The multiple LCSS structure extended the IBM Z servers' total number of I/O connectivity to support a balanced configuration for the growth of processor and I/O capabilities.
+

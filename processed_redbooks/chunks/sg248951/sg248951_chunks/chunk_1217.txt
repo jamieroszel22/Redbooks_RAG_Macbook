@@ -1,0 +1,21 @@
+ interconnects between PU chips to each other, in the same drawer
+- /SM590000 The A-bus provides interconnects between different drawers by using SMP9 cables
+
+2.2.1  CPC drawer interconnect topology
+
+The point-to-point SMP9 connection topology for CPC drawers is shown in Figure 2-10. Each CPC drawer communicates directly to all of the other CPC drawers DCMs by using point-to-point links.
+
+<!-- missing-text -->
+
+The CPC drawers that are installed in Frame A and Frame B are populated from bottom to top.
+
+The order of CPC drawer installation is listed in Table 2-4.
+
+<!-- missing-text -->
+
+CPC drawer installation in the A frame is concurrent. Non-disruptive addition of CPC1 or CPC2 drawers is possible in the field (MES upgrade) if the reserve features (FC 2981 or FC 2982) are included with the initial system order.
+
+Concurrent drawer repair requires a minimum of two CPC drawers.
+
+2.2.2  Oscillator card
+

@@ -1,0 +1,8 @@
+fore the expiration date can cause the system to downgrade resources gracefully to the original configuration. The system does not deactivate dedicated engines, or the last of in-use shared engines.
+
+Planning: CBU for processors provides a concurrent upgrade. This upgrade can result in more enabled processors, changed capacity settings that are available to a system configuration, or both. You can activate a subset of the CBU features that are ordered for the system. Therefore, more planning and tasks are required for nondisruptive logical upgrades. For more information, see 'Guidelines to avoid disruptive upgrades' on page 377.
+
+For more information, see the Capacity on Demand User's Guide , SC28-6846.
+
+8.10.2  CBU activation and deactivation
+

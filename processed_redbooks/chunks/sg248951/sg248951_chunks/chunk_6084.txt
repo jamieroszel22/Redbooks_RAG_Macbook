@@ -1,0 +1,8 @@
+ a secure key must be handled in a special hardware device, the use of secure keys usually is far slower than the use of clear keys, as shown in Figure 6-1.
+
+<!-- missing-text -->
+
+6.2.4  Algorithms
+
+The following algorithms of modern cryptography are differentiated based on whether they use the same key for the encryption of the message as for the decryption:
+

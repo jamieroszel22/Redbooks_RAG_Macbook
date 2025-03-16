@@ -1,0 +1,23 @@
+o eight features (FICON, OSA, Crypto, and so on.) All I/O cards connect to the PCIe switch card through the backplane board. The I/O domains and slots are listed in Table 4-1.
+
+<!-- missing-text -->
+
+4.3.1  PCIe+ I/O drawer offering
+
+Up to 12 (for PDU systems), or up to 10 (for BPA systems PCIe+ I/O drawers can be installed for supporting up to 192 (PDU), or up to 160 (BPA) PCIe I/O features.
+
+Only the following PCIe features can be carried forward for an upgrade to IBM z16 A01 servers:
+
+- /SM590000 FICON Express16SA
+- /SM590000 FICON Express16S+
+- /SM590000 zHyperLink Express (all features)
+- /SM590000 OSA-Express7S 25 GbE SR1.1
+- /SM590000 OSA-Express7S (all features)
+- /SM590000 OSA-Express6S (all features)
+- /SM590000 25 GbE RoCE Express2.1
+- /SM590000 25 GbE RoCE Express2
+- /SM590000 10 GbE RoCE Express2.1
+- /SM590000 10 GbE RoCE Express2
+- /SM590000 Crypto Express7S(one or two ports/HSMs)
+- /SM590000 Crypto Express6S
+

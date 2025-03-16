@@ -1,0 +1,12 @@
+used by the operating system. Through operating system recovery services, the task is resumed successfully (in most cases, without client intervention).
+
+Dynamic SAP and IFP sparing and reassignment
+
+Dynamic recovery is provided if a failure of the SAP or IFP occurs. If the SAP or IFP fails, and if a spare PU is available, the spare PU is dynamically assigned as a new SAP or IFP. If no spare PU is available, and more than one CP is characterized, a characterized CP is reassigned as an SAP or IFP. In either case, client intervention is not required. This capability eliminates an unplanned outage and allows a service action to be deferred to a more convenient time.
+
+3.5.11  CPC drawer numbering
+
+IBM z16 A01 CPC drawer numbering starts with CPC 0, the first installed CPC drawer. It is in frame A at A10. The second one, in the same frame, at A15. The third one, in the same frame at A20. The fourth CPC drawer is in frame B (location B10).
+
+Figure 3-20 shows CPC drawer numbering.
+

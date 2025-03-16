@@ -1,0 +1,4 @@
+ to 32 CE2 LR features with up to 64 ports
+
+Notes: Consider the following points:
+

@@ -1,0 +1,14 @@
+e limits of the individual system. Warning messages are issued if you select invalid upgrade options. The process allows only one permanent CIU-eligible order for each system to be placed at a time.
+
+For more information, see the IBM Resource Link website (log in required).
+
+The initial view of the Machine profile on Resource Link is shown in Figure 8-7.
+
+<!-- missing-text -->
+
+The number of CPs, ICFs, zIIPs, IFLs, SAPs, memory size, and unassigned IFLs on the current configuration are displayed on the left side of the page.
+
+Resource Link retrieves and stores relevant data that is associated with the processor configuration, such as the number of CPs and installed memory cards. It allows you to select only those upgrade options that are deemed valid by the order process. It also allows upgrades only within the bounds of the currently installed hardware.
+
+8.5.2  Retrieval and activation
+

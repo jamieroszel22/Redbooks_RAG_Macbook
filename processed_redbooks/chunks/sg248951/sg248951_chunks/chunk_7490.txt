@@ -1,0 +1,12 @@
+at is, Nest Compression Accelerator (NXU) and supports Deflate/gzip/zlib algorithms.
+
+For more information, see Appendix C, 'IBM Integrated Accelerator for zEnterprise Data Compression' on page 507.
+
+Each PU chip includes one on-chip compression unit, which is designed to replace the zEnterprise Data Compression (zEDC) Express PCIe feature that is available on IBM z14 and earlier.
+
+Note: The zEDC Express feature that is available on older systems is not carried forward to IBM z16.
+
+The IBM Integrated Accelerator for zEDC maintains software compatibility with zEDC Express use cases. For more information, see Integrated Acceleratorfor zEnterprise Data Compression .
+
+The z/OS zEDC capability is a software-priced feature that is designed to support compression capable hardware. With IBM z16, the zEDC feature is implemented in the on-chip compression accelerator unit, but the software (z/OS) component is required to maintain the same functions as previous PCIe-based zEDC features.
+

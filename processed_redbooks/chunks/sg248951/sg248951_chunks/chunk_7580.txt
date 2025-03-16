@@ -1,0 +1,12 @@
+l FICON channels that are defined as CHPID type FCP (for communication with SCSI devices) on IBM z16. It is available for download at the Resource Link at the following website (log in is required).
+
+Note: An optional feature can be ordered for WWPN persistency before shipment to keep the same I/O serial number on the new CPC. Current information must be provided during the ordering process.
+
+7.4.5  Networking features and functions
+
+In this section, we describe the networking features and functions that are supported on IBM z16.
+
+25 GbE RoCE Express3 SR and 25 GbE RoCE Express3 LR
+
+The 25 GbE RoCE Express3 features (FC 0452 and FC 0453) are a RDMA/Ethernet technology refresh. The features now also support LR optics and 25 Gbit Ethernet switches with relaxed requirements. The features are installed in the PCIe+ I/O drawer and are supported on IBM z16 servers only.
+

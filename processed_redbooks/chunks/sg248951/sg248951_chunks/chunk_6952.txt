@@ -1,0 +1,11 @@
+port overview' on page 252. Tables are built by function and feature classification to help you determine, by a quick scan, what is supported and the minimum operating system level that is required.
+
+z/OS Version 2 Release 3 is the earliest in-service release that supports IBM z16 servers. Consider the following points:
+
+- /SM590000 Service support for z/OS Version 2 Release 2 ended in September of 2020; however, a fee-based extension for defect support (for up to three years) can be obtained by ordering IBM Software Support Services - Service Extension for z/OS V2.R2.
+- /SM590000 IBM z16 capabilities differ depending on the z/OS release. Toleration support is provided on z/OS V2R2. Exploitation support is provided on z/OS V2R3 and later only 1 .
+
+How to get the latest fix information for z/OS systems
+
+For the latest information about z/OS PTFs that apply to the IBM z16, consult the Fix Categories (FIXCATs).
+

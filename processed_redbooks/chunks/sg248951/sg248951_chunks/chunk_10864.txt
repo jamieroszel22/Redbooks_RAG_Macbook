@@ -1,0 +1,8 @@
+ocessor core are virtual L3/L4 caches on IBM z16. For more information, see Chapter 3, 'Central processor complex design' on page 67.
+
+A memory nest in an IBM z16 CPC drawer is shown in Figure 12-2.
+
+<!-- missing-text -->
+
+Workload performance is sensitive to how deep into the memory hierarchy the processor must go to retrieve the workload instructions and data for running. The best performance occurs when the instructions and data are in the caches that are nearest the processor because little time is spent waiting before running. If the instructions and data must be retrieved from farther out in the hierarchy, the processor spends more time waiting for their arrival.
+

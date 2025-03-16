@@ -1,0 +1,22 @@
+x and KVM are provided from a single source. With KVM being included in the Linux distribution, ordering and installing KVM is easier.
+
+For more information about KVM support, see the IBM Z website.
+
+7.3  IBM z16 features and function support overview
+
+The following tables list the IBM z16 features and functions and their minimum required operating system support levels:
+
+- /SM590000 Table 7-3 on page 253
+- /SM590000 Table 7-4 on page 254
+- /SM590000 Table 7-5 on page 256
+- /SM590000 Table 7-6 on page 257
+- /SM590000 Table 7-7 on page 258
+- /SM590000 Table 7-8 on page 259
+- /SM590000 Table 7-9 on page 261
+- /SM590000 Table 7-10 on page 263
+- /SM590000 Table 7-11 on page 264
+
+Information about Linux on IBM Z refers exclusively to the suitable distributions of SUSE, Red Hat, and Ubuntu.
+
+The tables in this section list but do not specifically mark all the features that require fixes that are required by the corresponding operating system for toleration or use.
+

@@ -1,0 +1,10 @@
+l Peripheral Component Express (PCI) network adapter that enables direct access to shared virtual memory. It provides a highly optimized network interconnect for IBM Z platform intra-communications.
+
+Shared Memory Communications-Direct Memory Access (SMC-D) uses ISM. SMC-D optimizes operating systems communications in a way that is transparent to socket applications. It also reduces the CPU cost of TCP/IP processing in the data path, which enables highly efficient and application-transparent communications.
+
+SMC-D requires no extra physical resources (such as RoCE Express features, PCIe bandwidth, ports, I/O slots, network resources, or Ethernet switches). Instead, SMC-D uses LPAR-to-LPAR communication through HiperSockets or an OSA-Express feature for establishing the initial connection.
+
+z/OS and Linux on IBM Z support SMC-R and SMC-D. Now, data can be shared by way of memory-to-memory transfer between z/OS and Linux on IBM Z.
+
+1.2.6  Clustering connectivity
+

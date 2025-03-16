@@ -1,0 +1,8 @@
+ a synchronous request for the data that is in the DS8000 cache. This process eliminates the undispatch of the running request, the queuing delays to resume the request, and the PU cache disruption.
+
+Support for zHyperLink Writes can accelerate Db2 log writes to help deliver superior service levels by processing high-volume Db2 transactions at speed. IBM zHyperLink Express requires compatible levels of DS8000/F hardware, firmware R8.5.1 or later, and Db2 12 with PTFs.
+
+The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+FICON Express32S
+

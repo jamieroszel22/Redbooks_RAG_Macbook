@@ -1,0 +1,10 @@
+ual address and Address Space Control Element (ASCE) because it no longer must access TLB for L1 cache hit. TLB2 is accessed in parallel to L2, which saves significant latency compared to TLB1-miss.
+
+The new translation engine allows up to four translations pending concurrently. Each translation step is ~2x faster, which helps second level guests.
+
+3.4.13  Instruction fetching, decoding, and grouping
+
+The superscalar design of the microprocessor allows for the decoding of up to six instructions per cycle and the execution of up to 12 instructions per cycle. Both execution and storage accesses for instruction and operand fetching can occur out of sequence.
+
+Instruction fetching
+

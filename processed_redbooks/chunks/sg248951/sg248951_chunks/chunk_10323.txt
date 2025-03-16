@@ -1,0 +1,8 @@
+g drawer removal. The redundant I/O interconnect (RII) function provides for redundant connectivity to all installed I/O domains in the PCIe+ I/O drawers.
+
+Preparing for enhanced drawer availability
+
+The Prepare Concurrent Drawer replacement option validates that enough dormant resources are available for this operation. If enough resources are not available on the remaining drawers to complete the EDA process, the process identifies those resources. It then guides you through a series of steps to select and free up those resources. The preparation process does not complete until all processors, memory, and I/O conditions are successfully resolved.
+
+Preparation: The preparation step does not reallocate any resources. It is used only to record customer choices and produce a configuration file on the SE that is used to run the concurrent drawer replacement operation.
+

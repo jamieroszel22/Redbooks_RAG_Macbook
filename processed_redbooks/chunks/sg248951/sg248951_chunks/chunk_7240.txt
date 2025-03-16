@@ -1,0 +1,9 @@
+
+Linux on IBM Z also supports acquiring and releasing memory nondisruptively. This feature is enabled for SUSE Linux Enterprise Server 12 and RHEL 7.9and later releases.
+
+LPAR group absolute capping
+
+Group absolute capping allows you to limit the amount of physical processor capacity that is used by an individual LPAR when a PU that is defined as a CP or an IFL is shared across a set of LPARs. This facility is designed to provide a physical capacity limit that is enforced as an absolute (versus a relative) limit. It is not affected by changes to the logical or physical configuration of the system. This physical capacity limit can be specified in units of CPs or IFLs.
+
+Capacity Provisioning Manager
+

@@ -1,0 +1,10 @@
+andards to support data storage and access requirements, along with the latest FC technology in storage and access devices. FICON Express features support the following protocols:
+
+- /SM590000 FICON
+
+This enhanced protocol (as compared to FC) provides for communication across channels, channel-to-channel (CTC) connectivity, and with FICON devices, such as disks, tapes, and printers. It is used in z/OS, z/VM, IBM z/VSEfi (Virtual Storage Extended), z/TPF (Transaction Processing Facility), and Linux on IBM Z environments.
+
+- /SM590000 Fibre Channel Protocol (FCP)
+
+This standard protocol is used for communicating with disk and tape devices through FC switches and directors. The FCP channel can connect to FCP SAN fabrics and access FCP/SCSI devices. FCP is used by z/VM, KVM, z/VSE, and Linux on IBM Z environments.
+

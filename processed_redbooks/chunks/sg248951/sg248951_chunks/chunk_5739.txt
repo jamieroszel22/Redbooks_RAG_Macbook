@@ -1,0 +1,14 @@
+tions between applications for server-to-server (SMC-R) or LPAR-to-LPAR (SMC-D) connectivity.
+
+Shared Memory Communications Version 1
+
+The following versions of SMC are available:
+
+- /SM590000 SMC-R
+
+SMC-R provides application transparent use of the RoCE-Express feature. This feature reduces the network overhead and latency of data transfers, which effectively offers the benefits of optimized network performance across processors.
+
+- /SM590000 SMC-D
+
+SMC-D was used with the introduction of the Internal Shared Memory (ISM) virtual PCI function. ISM is a virtual PCI network adapter that enables direct access to shared virtual memory, which provides a highly optimized network interconnect for IBM Z intra-CPC communications.
+

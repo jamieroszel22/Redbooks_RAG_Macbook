@@ -1,0 +1,14 @@
+d and performance is improved.
+
+Checksum offload provides checksum offload for several types of traffic and is supported by the following features when configured as CHPID type OSD (QDIO mode only):
+
+- /SM590000 OSA-Express7S 1.2, OSA\_Express7S 1.1, and OSA-Express7S 25 GbE
+- /SM590000 OSA-Express7S and OSA-Express7S 1.2 10 GbE
+- /SM590000 OSA-Express7S and OSA-Express7S 1.2 GbE
+- /SM590000 OSA-Express7S and OSA-Express7S 1.2 1000BASE-T Ethernet
+- /SM590000 OSA-Express6S 10 GbE
+- /SM590000 OSA-Express6S GbE
+- /SM590000 OSA-Express6S 1000BASE-T Ethernet
+
+When checksum is offloaded, the OSA-Express feature runs the checksum calculations for Internet Protocol version 4 (IPv4) and Internet Protocol version 6 (IPv6) packets. The checksum offload function applies to packets that go to or come from the LAN.
+

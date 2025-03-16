@@ -1,0 +1,20 @@
+16 configuration must have been generated via EDF for a configuration where CPU MF was enabled. The Topology window portrays how the partition's logical CPs and their classification are distributed:
+
+- /SM590000 Across the installed drawers (maximum of 4)
+- /SM590000 Across the 4 Dual Chip Modules (DCMs) on each drawer
+- /SM590000 Across the 2 chips on each DCM
+
+See Figure 12-10 on page 491.
+
+<!-- missing-text -->
+
+The IBM zPCR topology report is shown in Figure 12-10 on page 491, where:
+
+- /SM590000 LPARs are identified by row
+- /SM590000 z16 Drawer/DCM/CHIP appears at the top lines
+- /SM590000 Topology report displays warning messages
+- /SM590000 LPARs Totals by Pool table is displayed at the bottom with support to filter by partition
+- /SM590000 Report is accessed from the Partition Detail Window
+- /SM590000 Latest versions of extract are required:
+- -available here: IBM Support page.
+

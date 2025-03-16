@@ -1,0 +1,5 @@
+d into the LSU and ICM, respectively.
+- /SM590000 Instruction decode unit (IDU): The IDU is fed from the IFU buffers and is responsible for parsing and decoding of all z/Architecture operation codes.
+- /SM590000 Translation unit (XU): The XU has a large translation lookaside buffer (TLB) and the Dynamic Address Translation (DAT) function that handles the dynamic translation of logical to physical addresses.
+- /SM590000 Instruction sequence unit (ISU): This unit enables the out-of-order (OoO) pipeline. It tracks register names, OoO instruction dependency, and handling of instruction resource dispatch.
+- /SM590000 Instruction fetching unit (IFU) (prediction): These units contain the instruction cache, branch prediction logic, instruction fetching controls, and buffers. Its relative size is the result of the elaborate branch prediction design.

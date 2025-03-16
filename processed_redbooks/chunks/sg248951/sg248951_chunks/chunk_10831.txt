@@ -1,0 +1,15 @@
+ in all BPAs in the system.
+
+Power consumption
+
+The utility power consumption for the IBM z16 for the BPA system is listed in Table 11-9.
+
+<!-- missing-text -->
+
+Note: Consider the following points:
+
+- /SM590000 The power values that are listed in this table assume the CPC process drawer and PCIe+ I/O drawers are plugged to the maximum with highest power features (that is, memory and I/O adapters and fan-outs). Also assumed is that maximum ambient temperature is used.
+- /SM590000 Typical configurations and data center conditions result in lower power. A calculator that is available on Resource Link calculates power and weight for specific configurations and environmental conditions.
+
+Balanced Power Plan Ahead feature
+

@@ -1,0 +1,16 @@
+
+
+IBM Z Flexible Capacity for Cyber Resiliency
+
+Resiliency continues to be a hot topic for clients and a key value driver for IBM Z, especially for the largest IBM Z clients in regulated industries.
+
+IBM's answer was the introduction of zDR Cloud. This offering enables active MIPS flexibility between the production site and the DR site. It also offers greater flexibility over CBU tests for length of test execution and frequency.
+
+However, the following disadvantages must be addressed:
+
+- /SM590000 zDR Cloud requires an MES to run a site swap for test and CBU for unplanned site swap
+- /SM590000 Onsite IBM intervention is required, which is not COVID-safe
+- /SM590000 A 2-week lead time is required to implement, which induces delays
+- /SM590000 it is applicable only to planned site swap scenarios; therefore, DR testing and real DR scenarios are not the same, which causes compliance issues
+- /SM590000 A lack of standardization makes automation impossible
+

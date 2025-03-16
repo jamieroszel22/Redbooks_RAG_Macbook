@@ -1,0 +1,13 @@
+ess boost scenarios are supported that allow the customer to define some boost granularity (see Table 7-14). For more information, see IBM Z System Recovery Boost , REDP-5563.
+
+<!-- missing-text -->
+
+- a. Boost must be enabled for LPARs to opt in.
+- b. Subcapacity Boost also is available for stand-alone memory dump on z/OS and z/VSE.
+- c. With Fixes.
+- d. Subcapacity boost might be available during the boost period to guest operating systems, except for z/OS.
+- e. Allows CP work to be dispatched on zIIPs. zIIP processor capacity boost is available only if the customer has at least one active processor that is characterized as zIIP. For IBM z16l A01 and IBM z15 T01 only, more zIIPs can be used if obtained through eBOD (temporary zIIP boost records).
+- f. Process recovery boosts support subcapacity CPs speed boost and entitled (purchased) customer zIIPs only; zIIPs that are provided by FC 9930 and FC 6802 cannot be used for process recovery boosts.
+
+Automation
+

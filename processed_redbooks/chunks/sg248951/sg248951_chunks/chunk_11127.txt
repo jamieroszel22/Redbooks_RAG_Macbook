@@ -1,0 +1,14 @@
+2 with the appropriate program temporary fixes (PTFs).
+
+Software decompression is slow and can involve considerable processor resources. Therefore, it is not recommended for production environments.
+
+A specific fix category that is named IBM.Function.zEDC identifies the fixes that enable or use the zEDC and On-Chip Compression function.
+
+z/OS guests that run under z/VM V7.R1 with PTFs and later can use the zEDC Express feature and IBM z16 On-Chip Compression.
+
+IBM 31-bit and 64-bit SDK for z/OS Java Technology Edition, Version 7 Release 1 (5655-W43 and 5655-W44) and IBM SDK 7 for z/OS Java provides the use of the zEDC Express feature and Shared Memory Communications-Remote Direct Memory Access (SMC-R), which is used by the 10 GbE RoCE Express feature.
+
+For more information about how to implement and use the IBM Z compression features, see Reduce Storage Occupancy and Increase Operations Efficiency with IBM zEnterprise Data Compression , SG24-8259 .
+
+IBM Z Batch Network Analyzer
+

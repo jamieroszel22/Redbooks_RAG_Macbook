@@ -1,0 +1,10 @@
+o form a group.
+
+Instruction grouping
+
+From the instruction queue, up to 12 instructions can be completed on every cycle. A complete description of the rules is beyond the scope of this publication.
+
+The compilers and JVMs are responsible for selecting instructions that best fit with the superscalar microprocessor. They abide by the rules to create code that best uses the superscalar implementation. All IBM Z compilers and JVMs are constantly updated to benefit from new instructions and advances in microprocessor designs.
+
+3.4.14  Extended Translation Facility
+

@@ -1,0 +1,18 @@
+structure is managed by the CPM through the Capacity Provisioning Domain (CPD), which is controlled by the Capacity Provisioning Policy (CPP). The CPD is shown in Figure 8-14.
+
+<!-- missing-text -->
+
+The CPD configuration defines the CPCs and z/OS systems that are controlled by an instance of the CPM. One or more CPCs, sysplexes, and z/OS systems can be defined into a domain. Although sysplexes and CPCs do not have to be contained in a domain, they must not belong to more than one domain.
+
+Each domain has one active capacity provisioning policy.
+
+CPM operates in the following modes, which allows four different levels of automation:
+
+- /SM590000 Manual
+
+Use this command-driven mode when no CPM policy is active.
+
+- /SM590000 Analysis
+
+In analysis mode, CPM processes capacity-provisioning policies and informs the operator when a provisioning or deprovisioning action is required according to policy criteria.
+

@@ -1,0 +1,10 @@
+O 9564-1 standard. PIN block translation is supported and the use of AES PIN blocks in other CCA callable services.
+
+IBM continues to add enhancements as AES finance industry standards are released.
+
+4.7.4  Crypto Express6S feature (FC 0893) as carry forward only
+
+Crypto Express6S was introduced from IBM z14 servers. On the initial configuration, a minimum of two features are installed (for availability). The number of features then increases one at a time up to a maximum of 16 features.
+
+Each Crypto Express6S feature holds one PCI Express cryptographic adapter. Each adapter can be configured by the installation as a Secure IBM Common Cryptographic Architecture (CCA) coprocessor, as a Secure IBM Enterprise Public Key Cryptography Standards (PKCS) #11 (EP11) coprocessor, or as an accelerator.
+

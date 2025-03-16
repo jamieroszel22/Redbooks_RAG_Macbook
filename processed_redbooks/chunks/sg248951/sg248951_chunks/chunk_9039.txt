@@ -1,0 +1,4 @@
+ng-text -->
+
+Consider the following points:
+

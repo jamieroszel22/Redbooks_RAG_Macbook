@@ -1,0 +1,8 @@
+at supports 10 Gbps Converged Enhanced Ethernet (CEE) and RDMA over CEE (RoCE). The RoCE feature, with an OSA feature, enables shared memory communications between two CPCs by using a shared switch.
+
+RoCE Express2 provides increased virtualization (sharing capability) by supporting 63 Virtual Functions (VFs) per physical port for a total of 126 VFs per PCHID. This configuration allows RoCE to be extended to more workloads.
+
+z/OS Communications Server (CS) provides a new software device driver ConnectX4 (CX4) for RoCE Express2. The device driver is not apparent to the upper layers of the CS (the SMC-R and TCP/IP stack) and the application software (that uses TCP sockets). RoCE Express2 introduces a minor change in how the physical port is configured.
+
+RMF 2.2 and later also is enhanced to recognize the new CX4 card type and correctly display CX4 cards in the PCIe Activity reports.
+

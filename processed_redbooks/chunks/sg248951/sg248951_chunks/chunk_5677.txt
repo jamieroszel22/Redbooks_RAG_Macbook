@@ -1,0 +1,14 @@
+- /SM590000 I/O traffic is better balanced between all available ISLs
+- /SM590000 Improved use of FICON director and ISL
+- /SM590000 Easier to manage with a predicable and repeatable I/O performance
+
+FICON dynamic routing can be enabled by defining dynamic routing-capable switches and control units in HCD. Also, z/OS implemented a health check function for FICON dynamic routing.
+
+Improved zHPF I/O execution at distance
+
+By introducing the concept of pre-deposit writes, zHPF reduces the number of round trips of standard FCP I/Os to a single round trip. Originally, this benefit is limited to writes that are less than 64 KB.
+
+zHPF on IBM z14 and newer servers were enhanced to allow all large write operations (&gt; 64 KB) at distances up to 100 kilometers (62 miles) to be run in a single round trip to the control unit. This improvement avoids elongating the I/O service time for these write operations at extended distances.
+
+Read Diagnostic Parameter Extended Link Service support
+

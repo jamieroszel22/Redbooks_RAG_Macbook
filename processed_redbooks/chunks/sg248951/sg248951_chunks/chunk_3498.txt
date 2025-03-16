@@ -1,0 +1,8 @@
+formation to concentrate logical processors around shared caches (virtual L3 and virtual L4 caches at drawer level), and dynamically optimizes the assignment of logical processors and units of work.
+
+z/OS dispatcher manages multiple queues, called affinity queues , with a target number of eight processors per queue, which fits well onto a single PU chip. These queues are used to assign work to as few logical processors as are needed for an LPAR workload. Therefore, even if the LPAR is defined with many logical processors, HiperDispatch optimizes this number of processors to be near the required capacity. The optimal number of processors to be used is kept within a processor drawer boundary, when possible.
+
+Tip: z/VM V7R1 and later also support HiperDispatch.
+
+Logical partitions
+

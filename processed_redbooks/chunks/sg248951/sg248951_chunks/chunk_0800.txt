@@ -1,0 +1,16 @@
+rful symbol ECC makes it resistant to more failure mechanisms. Preemptive DRAM marking is added to the main memory to isolate and recover failures more quickly.
+
+<!-- missing-text -->
+
+Chapter 2.
+
+2
+
+Central processor complex hardware components
+
+This chapter provides information about the new IBM z16™ and its hardware building blocks, and how these components physically interconnect. This information is useful for planning purposes and can help in defining configurations that fit your requirements.
+
+Naming: The IBM z16 Model A01, Machine Type (M/T) 3931, is further identified in this document as IBM z16, unless otherwise specified.
+
+This chapter includes the following topics:
+

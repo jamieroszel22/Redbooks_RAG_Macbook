@@ -1,0 +1,16 @@
+ offline when changes to code are needed. To help alleviate the number of adapters (and FIDs) that are affected by the Resource Group code update, IBM z16 have four Resource Groups per system (CPC).
+
+Note: Other adapter types, such as FICON Express, OSA Express, and Crypto Express that are installed in the PCIe+ I/O drawer are not affected because they are not managed by the Resource Groups.
+
+The front, rear, and top view of the PCIe+ I/O drawer and the Resource Group assignment by card slot are shown in Figure 9-11. All PCIe+ I/O drawers that are installed in the system feature the same Resource Group assignment.
+
+<!-- missing-text -->
+
+9.10  RAS capability for the HMA and SE
+
+The HMA and the SE include the following RAS capabilities:
+
+- /SM590000 Back up from HMA and SE
+
+On a scheduled basis, the HMA hard disk drive (HDD) is backed up to the USB flash memory drive (UFD), a defined FTP server, or both.
+

@@ -1,0 +1,16 @@
+red Fit Pricing for Software is prerequisite requirement of Flexible Capacity for Cyber Resiliency (or short 'Flexible Capacity').
+
+This appendix includes the following topics:
+
+- /SM590000 'Tailored Fit Pricing' on page 514
+- /SM590000 'Software Consumption Model' on page 515
+- /SM590000 'Hardware Consumption Model' on page 516
+- /SM590000 'Conclusion' on page 519
+- /SM590000 'IBM Z Flexible Capacity for Cyber Resiliency' on page 520
+- /SM590000 'Use cases of IBM Flexible Capacity for Cyber Resiliency' on page 520
+- /SM590000 'How does IBM Flexible Capacity for Cyber Resiliency work?' on page 521
+- /SM590000 'Tailored fit pricing for hardware and IBM Z Flexible Capacity for Cyber Resiliency' on page 525
+- /SM590000 'Ordering and installing IBM Z Flexible Capacity for Cyber Resilience' on page 526
+- /SM590000 'Terms and conditions of IBM Z Flexible Capacity for Cyber Resiliency' on page 527
+- /SM590000 'IBM Z Flexible Capacity for Cyber Resilience versus Capacity Back Up' on page 528
+

@@ -1,0 +1,4 @@
+ microprocessor chip, also called the IBM Telum processor , integrates a new AI accelerator. This innovation brings incredible value to applications and workloads that are running on IBM Z platform.
+
+Customers can benefit from the integrated AI accelerator by adding AI operations that are used to perform fraud prevention and fraud detection, customer behavior predictions, and supply chain operations. All of these operations are done in real time and fully integrated in transactional workloads. As a result, valuable insights are gained from their data instantly.
+

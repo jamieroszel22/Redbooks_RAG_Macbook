@@ -1,0 +1,14 @@
+he same type.
+
+Link aggregation is applicable to CHPID type OSD (QDIO). The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Multi-VSwitch Link Aggregation
+
+Multi-VSwitch Link Aggregation support allows a port group of OSA-Express features to span multiple virtual switches within a single z/VM system or between multiple z/VM systems. Sharing a Link Aggregation Port Group (LAG) with multiple virtual switches increases optimization and use of the OSA-Express features when handling larger traffic loads.
+
+Higher adapter use protects customer investments, which is increasingly important as 10 GbE deployments become more prevalent. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Large send for IPv6 packets
+
+Large send for IPv6 packets improves performance by offloading outbound TCP segmentation processing from the host to an OSA-Express feature by using a more efficient memory transfer into it.
+

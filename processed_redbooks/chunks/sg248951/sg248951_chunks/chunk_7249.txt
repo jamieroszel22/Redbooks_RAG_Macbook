@@ -1,0 +1,10 @@
+triped across the clusters of that drawer to take advantage of the lower latency memory access in a drawer. Also, PR/SM tries to consolidate storage onto drawers with the most processor entitlement.
+
+With HiperDispatch enabled, PR/SM seeks to assign logical processors of a partition to the smallest number of PU chips within a drawer in cooperation with operating system to optimize shared cache usage.
+
+PR/SM automatically keeps a partition's memory and logical processors on the same CPC drawer where possible. This arrangement looks simple for a partition, but it is a complex optimization for multiple logical partitions because some must be split among processors drawers.
+
+All IBM z16 processor types can be dynamically reassigned except IFPs.
+
+To use HiperDispatch effectively, WLM goal adjustment might be required. Review the WLM policies and goals and update them as necessary.
+

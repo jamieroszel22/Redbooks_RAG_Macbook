@@ -1,0 +1,8 @@
+sing SR optics and multimode fiber that is terminated with LC connector. The 25 GbE RoCE Express3 LR (FC 0453) connects by using LR optics and single mode fiber that is terminated with LC connector.
+
+Support for select Linux on IBM Z distributions is provided for Shared Memory Communications over Remote Direct Memory Access (SMC-R) by using RoCE Express features. For more information, see this Linux on IBM Z Blogspot web page.
+
+The RoCE Express3 features also can provide local area network (LAN) connectivity for Linux on IBM Z, and comply with IEEE standards. In addition, RoCE Express features assume several functions of the TCP/IP stack that normally are performed by the PU, which allows significant performance benefits by offloading processing from the operating system.
+
+10 GbE RoCE Express3 SR and 10 GbE RoCE Express3 LR
+

@@ -1,0 +1,12 @@
+C LICCC after activation.
+
+A FoD record can be installed only once. If it is removed, a new FoD record is needed to reinstall. A remove action cannot be undone.
+
+8.4.5  Summary of plan-ahead feature
+
+The flexible memory plan-ahead feature is available for IBM z16 servers. No feature code is associated with flexible memory. The purpose of flexible memory is to enable enhanced processor drawer availability. If a processor drawer must be serviced, the flexible memory is activated to accommodate storing the CPC drawer that is taken offline. After the repair action, the memory is taken offline again and is made unavailable for use.
+
+Tip: Accurate planning and the definition of the target configuration allows you to maximize the value of these plan-ahead features.
+
+8.5  Permanent upgrade by using the CIU facility
+

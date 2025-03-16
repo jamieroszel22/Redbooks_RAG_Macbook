@@ -1,0 +1,21 @@
+ link addresses, and control units.
+- /SM590000 Requests the channels' node ID information. The Fibre Channel connection (FICON) channels support remote node ID information, which is also collected.
+
+The System Input/Output Configuration Analyzer is a view-only tool. It does not offer any options other than viewing. The tool provides various sort options, and data can be exported to a UFD for later viewing.
+
+By using the tool, data is formatted and displayed in the following views:
+
+- /SM590000 PCHID Control Unit View
+- Shows PCHIDs, channel subsystems (CSS), CHPIDs, and their control units.
+- /SM590000 PCHID Partition View
+- Shows PCHIDS, CSS, CHPIDs, and the partitions in which they exist.
+- /SM590000 Control Unit View
+- Shows the control units, their PCHIDs, and their link addresses in each CSS.
+- /SM590000 Link Load View
+- Shows the Link address and the PCHIDs that use it.
+- /SM590000 Node ID View
+
+Shows the Node ID data under the PCHIDs.
+
+10.5.13  Automated operations
+

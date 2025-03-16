@@ -1,0 +1,11 @@
+essage paths to the CF, z/OS checks this SYID information for currency and correctness. If an obsolete or incorrect SYID exists in the message path for any reason, z/OS performs the following steps:
+
+- i. Requests nondisruptive gathering of diagnostic information for the affected message paths and CF image.
+- ii. Reactivates the message path with the correct SYID for the current z/OS image to seamlessly correct the problem.
+
+This enhancement requires z/OS XCF/XES use APAR support for IBM z15.
+
+- /SM590000 Shared-Engine CF Default is changed to 'DYNDISP=THIN'
+
+The CF operates with the following Dynamic Dispatching (DYNDISP) models:
+

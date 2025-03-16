@@ -1,0 +1,9 @@
+tor' on page 128
+- /SM590000 3.9, 'Clustering technology' on page 130
+- /SM590000 3.10, 'Virtual Flash Memory' on page 140
+- /SM590000 3.11, 'IBM Secure Service Container' on page 141
+
+3.1  Overview
+
+The IBM z16 symmetric multiprocessor (SMP) system is the next step in an evolutionary trajectory that began with the introduction of the IBM System/360 in 1964. Over time, the design was adapted to the changing requirements that were dictated by the shift toward new types of applications on which clients depend.
+

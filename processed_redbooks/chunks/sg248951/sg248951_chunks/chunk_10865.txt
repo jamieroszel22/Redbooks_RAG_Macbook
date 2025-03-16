@@ -1,0 +1,12 @@
+essor because little time is spent waiting before running. If the instructions and data must be retrieved from farther out in the hierarchy, the processor spends more time waiting for their arrival.
+
+As workloads are moved between processors with various memory hierarchy designs, performance varies because the average time to retrieve instructions and data from within the memory hierarchy varies. Also, when on a processor, this component continues to vary because the location of a workload's instructions and data within the memory hierarchy is affected by several factors that include, but are not limited to, the following factors:
+
+- /SM590000 Locality of reference
+- /SM590000 I/O rate
+- /SM590000 Competition from other applications and LPARs
+
+12.4  Relative Nest Intensity
+
+The most performance-sensitive area of the memory hierarchy is the activity to the memory nest. This area is the distribution of activity to the shared caches and memory.
+

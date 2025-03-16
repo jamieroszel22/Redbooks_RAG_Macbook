@@ -1,0 +1,6 @@
+c operations and support up to 85 domains with the IBM z16 A01. This specialized hardware performs AES, DES and TDES, RSA, Elliptic Curve (ECC), SHA-1, and SHA-2, and other cryptographic operations.
+
+It supports specialized high-level cryptographic APIs and functions, including those functions that are required with quantum-safe cryptography and in the banking industry. Crypto-Express8S features are designed to meet the Federal Information Processing Standards (FIPS) 140-2 Level 4 and PCI HSM security requirements for hardware security modules.
+
+IBM z16 is the industry's first quantum-safe system . Consider the following points: 5
+

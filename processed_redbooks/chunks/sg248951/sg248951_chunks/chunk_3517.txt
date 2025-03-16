@@ -1,0 +1,8 @@
+rocessors with each other, with spare PUs, or with both, can occur as the system attempts to compact LPAR configurations into physical configurations that span the least number of processor drawers.
+
+LPAR dynamic PU reassignment can swap client processors of different types between processor drawers. For example, reassignment can swap an IFL on processor drawer 1 with a CP on processor drawer 2. Swaps can also occur between PU chips within a processor drawer or a node and can include spare PUs. The goals are to pack the LPAR on fewer processor drawers and also on fewer PU chips, based on the IBM z16 processor drawers' topology. The effect of this process is evident in dedicated and shared LPARs that use HiperDispatch.
+
+LPAR dynamic PU reassignment is transparent to operating systems.
+
+LPAR group capacity limit (LPAR group absolute capping)
+

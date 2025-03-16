@@ -1,0 +1,14 @@
+are used to fan out the host bus from the CPC drawer through the PCIe+ I/O drawer to the individual I/O features. Maximum 16 PCIe I/O features (up to 32 channels) per PCIe+ I/O drawer are supported.
+
+The PCIe+ I/O drawer is a one-sided drawer (all I/O cards on one side, in the rear of the drawer) that is 8U high. The PCIe+ I/O drawer contains the 16 I/O slots for PCIe features, two switch cards, and two power supply units (PSUs) to provide redundant power, as shown in Figure 4-1.
+
+The PCIe+ I/O drawer slots numbers are shown in Figure 4-2.
+
+<!-- missing-text -->
+
+The I/O structure in an IBM z16 CPC is shown in Figure 4-3.
+
+<!-- missing-text -->
+
+The PCIe switch card provides the fan-out from the high-speed x16 PCIe host bus to eight individual card slots. The PCIe switch card is connected to the CPC drawer through a single x16 PCIe Gen3 bus from a PCIe fan-out card (PCIe+ fan-out cards on IBM z16 have two PCIe Gen3 x16 ports/busses/links).
+

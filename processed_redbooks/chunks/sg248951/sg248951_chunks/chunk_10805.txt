@@ -1,0 +1,12 @@
+The system then obtains the name of the user ID template from content in the LDAP server schema data.
+
+Default HMC user IDs
+
+For HMC V2.16.0 the default user IDs are limited to ACSADMIN and SERVICE.
+
+ADVANCED, OPERATOR, STORAGEADMIN, and SYSPROG default users are no longer shipped. Default user roles for ADVANCED, OPERATOR, STORAGEADMIN, and SYSPROG are provided, and user IDs can be created from those roles.
+
+Any default user IDs that are part of a previous HMC level can be carried forward to new HMC levels as part of a MES Upgrade or by way of selecting User Profile Data for the Save/Restore Customizable Console Data or Configure Data Replication tasks.
+
+HMC and SE secure FTP support
+

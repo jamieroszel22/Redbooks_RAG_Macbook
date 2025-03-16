@@ -1,0 +1,12 @@
+ses. Out-of-Order maintains good performance growth for traditional applications.
+
+Out-of-Order execution can improve performance in the following ways:
+
+- /SM590000 Reordering instruction execution
+
+Instructions stall in a pipeline because they are waiting for results from a previous instruction or the execution resource that they require is busy. In an in-order core, this stalled instruction stalls all later instructions in the code stream. In an out-of-order core, later instructions are allowed to run ahead of the stalled instruction.
+
+- /SM590000 Reordering storage accesses
+- Instructions that access storage can stall because they are waiting on results that are needed to compute the storage address. In an in-order core, later instructions are stalled. In an out-of-order core, later storage-accessing instructions that can compute their storage address are allowed to run.
+- /SM590000 Hiding storage access latency
+

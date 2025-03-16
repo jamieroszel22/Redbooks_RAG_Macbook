@@ -1,0 +1,4 @@
+ The result is that in every user situation, different variables determine how much work is redirected to the zIIP.
+
+On an IBM z16, the following workloads also can benefit from zIIPs:
+

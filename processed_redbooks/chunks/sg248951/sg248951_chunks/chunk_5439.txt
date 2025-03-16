@@ -1,0 +1,8 @@
+ard slots. The PCIe switch card is connected to the CPC drawer through a single x16 PCIe Gen3 bus from a PCIe fan-out card (PCIe+ fan-out cards on IBM z16 have two PCIe Gen3 x16 ports/busses/links).
+
+In the PCIe+ I/O drawer, the eight I/O feature cards that directly attach to the switch card constitute an I/O domain. The PCIe+ I/O drawer supports concurrent add and replace I/O features with which you can increase I/O capability as needed, depending on the CPC drawer.
+
+The PCIe slots in a PCIe+ I/O drawer are organized into two I/O domains. Each I/O domain supports up to eight features and is driven through a PCIe switch card. Two PCIe switch cards always provide a backup path for each other through the passive connection in the PCIe+ I/O drawer backplane.
+
+During a PCIe fan-out card or cable failure, 16 I/O cards in two domains can be driven through a single PCIe switch card. It is not possible to drive 16 I/O cards after one of the PCIe switch cards is removed.
+

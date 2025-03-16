@@ -1,0 +1,11 @@
+Ethernet SX, FC 0443
+- /SM590000 OSA-Express7S 1000BASE-T Ethernet, FC 0446
+
+The supported OSA-Express7S features are listed in Table 4-5 on page 161.
+
+OSA-Express7S 10 Gigabit Ethernet LR (FC 0444)
+
+The OSA-Express7S 10 Gigabit Ethernet (GbE) Long Reach (LR) feature includes one PCIe Gen3 adapter and one port per feature. The port supports CHPID types OSD. The 10 GbE feature is designed to support attachment to a single-mode fiber 10 Gbps Ethernet LAN or Ethernet switch that is capable of 10 Gbps. The port can be defined as a spanned channel and can be shared among LPARs within and across logical channel subsystems.
+
+The OSA-Express7S 10 GbE LR feature supports the use of an industry standard small form factor (SFP+) LC Duplex connector. Ensure that the attaching or downstream device includes an LR transceiver. The transceivers at both ends must be the same (LR to LR).
+

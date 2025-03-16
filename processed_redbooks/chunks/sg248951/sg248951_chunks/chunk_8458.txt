@@ -1,0 +1,6 @@
+rd without capacity tokens are activated, those resources remain active until they are deactivated, or until the offering record expires. The record normally expires 180 days after its installation.
+
+When resources in a postpaid offering record with capacity tokens are activated, those resources must include enough capacity tokens to allow the activation for an entire billing window (24 hours). The resources remain active until they are deactivated until all of the resource tokens are used, or until the record expires. The record usually expires 180 days after its installation. If one capacity token type is used, resources from the entire record are deactivated.
+
+For example, for an IBM z16 with capacity identifier 502 (two CPs), a capacity upgrade through On/Off CoD can be delivered in the following ways:
+

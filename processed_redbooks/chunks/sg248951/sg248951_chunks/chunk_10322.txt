@@ -1,0 +1,14 @@
+
+- /SM590000 Image profile memory allocations
+- /SM590000 Amount of memory that is enabled through LICCC
+- /SM590000 Flexible memory option
+- /SM590000 Virtual Flash Memory if enabled and configured
+
+For more information, see 2.7.2, 'Enhanced drawer availability' on page 54.
+
+Fan out card to I/O connectivity requirements
+
+The optimum approach is to maintain maximum I/O connectivity during drawer removal. The redundant I/O interconnect (RII) function provides for redundant connectivity to all installed I/O domains in the PCIe+ I/O drawers.
+
+Preparing for enhanced drawer availability
+

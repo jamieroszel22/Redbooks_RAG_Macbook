@@ -1,0 +1,16 @@
+2 Performance Monitor.
+- /SM590000 Any Java application that uses the current IBM SDK.
+- /SM590000 Java IBM Semeru Runtime offloading enablement for DLC models that use Integrated Accelerator for AI.
+- /SM590000 WebSphere Application Server V5R1 and later, and products that are based on it, such as WebSphere Portal, WebSphere Enterprise Service Bus (WebSphere ESB), and WebSphere Business Integration (WBI) for z/OS.
+- /SM590000 CICS/TS V2R3 and later.
+- /SM590000 Db2 UDB for z/OS Version 8 and later.
+- /SM590000 IMS Version 8 and later.
+- /SM590000 zIIP Assisted HiperSockets for large messages.
+- /SM590000 z/OSMF (z/OS Management Facility).
+- /SM590000 IBM z/OS Platform for Apache Spark.
+- /SM590000 IBM Watsonfi Machine Learning for z/OS.
+- /SM590000 z/OS System Recovery Boost.
+- /SM590000 Approved third-party vendor products.
+
+The use of a zIIP is transparent to application programs. The supported operating systems are listed in Table 7-3 on page 253.
+

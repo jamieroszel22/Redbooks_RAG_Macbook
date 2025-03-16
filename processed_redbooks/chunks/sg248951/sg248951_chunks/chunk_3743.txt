@@ -1,0 +1,14 @@
+ple releases or versions also is supported.
+
+Note: Parallel sysplex coupling and timing links connectivity for IBM z16 (M/T 3931) is supported to N-2 generation CPCs (IBM z16, IBM z15, and IBM z14).
+
+Through state-of-the-art cluster technology, the power of multiple images can be harnessed to work in concert on common workloads. The IBM Z Parallel Sysplex cluster takes the commercial strengths of the platform to improved levels of system management, competitive price performance, scalable growth, and continuous availability.
+
+3.9.1  CF Control Code
+
+The LPAR that is running the CFCC can be on IBM z16, IBM z15, or IBM z14 systems. For more information about CFCC requirements for supported systems, see 'Coupling facility and CFCC considerations' on page 281.
+
+Consideration: IBM z16, IBM z15, and IBM z14 servers cannot coexist in the same sysplex with z13/z13s or earlier generation systems.
+
+CFCC Level 25
+

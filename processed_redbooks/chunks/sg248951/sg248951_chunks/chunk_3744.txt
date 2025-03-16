@@ -1,0 +1,14 @@
+ng facility and CFCC considerations' on page 281.
+
+Consideration: IBM z16, IBM z15, and IBM z14 servers cannot coexist in the same sysplex with z13/z13s or earlier generation systems.
+
+CFCC Level 25
+
+CFCC level 25 is delivered on the IBM z16 (M/T 3931) with driver level 51 adds the following features:
+
+- /SM590000 New cache residency time metrics for directory/data entries are available.
+
+These new metrics allow exploiters (such as Db2) to provide direct, useful feedback on the CF cache structure 'cache effectiveness'. They also provide improved recommendations for making structure sizing changes or retargeting work from specific table spaces or data sets to other cache structures.
+
+Consider the following points:
+

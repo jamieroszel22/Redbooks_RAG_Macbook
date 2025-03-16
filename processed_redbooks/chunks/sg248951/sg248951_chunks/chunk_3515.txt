@@ -1,0 +1,8 @@
+ws the initial and reserved processor values to be dynamically changed. The operating system must support the dynamic addition 15  of these resources.
+
+Adding a crypto feature to a logical partition
+
+You can plan the addition of supported Crypto Express features to an LPAR on the crypto page in the image profile by defining the Cryptographic Candidate List, and the Usage and Control Domain indexes, in the partition profile. By using the Change LPAR Cryptographic Controls task, you can add crypto adapters dynamically to an LPAR without an outage of the LPAR. Also, dynamic deletion or moving of these features does not require planning. Support is provided in z/OS, z/VM, z/VSE, IBM SSC (based on appliance requirements), and Linux on IBM Z.
+
+LPAR dynamic PU reassignment
+

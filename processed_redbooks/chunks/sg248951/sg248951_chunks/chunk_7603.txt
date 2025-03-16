@@ -1,0 +1,17 @@
+fining all valid OSA CHPID types is allowed on OSA-Express GbE adapters only. IBM plans to continue moving forward with OSA CHPID types on higher bandwidth fiber Ethernet adapters on future servers.
+
+- a. Statements by IBM regarding its plans, directions, and intent are subject to change or withdrawal without notice at the sole discretion of IBM.
+
+Each adapter can be configured in the following modes:
+
+- /SM590000 QDIO, with CHPID types OSD
+- /SM590000 Non-QDIO, with CHPID type OSE
+- /SM590000 Local 3270 emulation, including OSA-ICC, with CHPID type OSC
+
+Notes: Consider the following points:
+
+- /SM590000 Operating system support is required to recognize and use the second port on the OSA-Express7S 1.2 1000BASE-T Ethernet feature.
+- /SM590000 OSA-Express7S 1.2 1000BASE-T Ethernet feature supports only 1000 Mbps duplex mode (no auto-negotiation to 100 or 10 Mbps)
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+

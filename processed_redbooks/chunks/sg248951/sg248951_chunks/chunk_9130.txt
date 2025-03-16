@@ -1,0 +1,2 @@
+he following guidelines to avoid or at least minimize these situations, which increases the chances for nondisruptive upgrades:
+

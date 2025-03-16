@@ -1,0 +1,5 @@
+
+- /SM590000 Offer high-performance computing to achieve the outstanding response times that are required by new workload-type applications. This performance is achieved by high-frequency, enhanced superscalar processor technology, out-of-order core execution, large high-speed buffers (cache) and memory, an architecture with multiple complex instructions, and high-bandwidth channels.
+- /SM590000 Offer the high capacity and scalability that are required by the most demanding applications, from the single-system and clustered-systems points of view.
+- /SM590000 Offer the capability of concurrent upgrades for processors, memory, and I/O connectivity, which prevents system outages in planned situations.
+- /SM590000 Implement a system with high availability and reliability. These goals are achieved with redundancy of critical elements and sparing components of a single system, and the clustering technology of the Parallel Sysplex environment.

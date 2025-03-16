@@ -1,0 +1,14 @@
+er.
+
+- /SM590000 Redundant ( N +1) Ethernet switches.
+- /SM590000 Redundant ( N +2) ambient temperature sensors.
+- /SM590000 Dual inline memory module (DIMM) field-replaceable unit (FRU) indicators.
+
+These indicators imply that a memory module is not error-free and might fail eventually. This indicator gives IBM a warning and provides time to concurrently repair the storage module if the IBM z16 is a multi-drawer system.
+
+The process to repair the storage module is to isolate or 'fence off' the drawer, remove the drawer, replace the failing storage module and then, add the drawer. The flexible memory option might be necessary to maintain sufficient capacity while repairing the storage module.
+
+- /SM590000 Single processor core checkstop and sparing.
+
+This indicator shows that a processor core malfunctioned and is spared . IBM determines what to do based on the system and the history of that system.
+

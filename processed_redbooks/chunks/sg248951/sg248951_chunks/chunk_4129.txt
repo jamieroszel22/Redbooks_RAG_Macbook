@@ -1,0 +1,3 @@
+
+- -DYNDISP=OFF: LPAR time-slicing completely controls the CF processor. The processor polls the entire time that it is dispatched by LPAR, and it is idle (not dispatched) when undispatched by LPAR. The result is least efficient sharing, worst shared-engine performance.
+- -DYNDISP=ON: An optimization over pure LPAR time slicing, in which the CFCC code judiciously sets timer interrupts to give LPAR the initiative to redispatch it, and the CF sometimes voluntarily gives up control of the shared processor when it runs out of work to do. The result is more efficient sharing and better shared-engine performance. This setting is the default setting for CF LPAR running on IBM z15.

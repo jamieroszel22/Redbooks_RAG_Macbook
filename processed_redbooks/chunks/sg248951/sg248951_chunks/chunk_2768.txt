@@ -1,0 +1,8 @@
+e software.
+
+The IBM z16 superscalar PU core can have up to 10 instructions or operations that are running per cycle. This technology results in shorter workload runtime.
+
+Enhanced branch prediction
+
+If the branch prediction logic of the microprocessor makes the wrong prediction, all instructions in the parallel pipelines are removed. The wrong branch prediction is expensive in a high-frequency processor design. Therefore, the branch prediction techniques that are used are important to prevent as many wrong branches as possible.
+

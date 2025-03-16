@@ -1,0 +1,22 @@
+ microcode, and no new hardware.
+
+The HMCs can be accessed by using a remote web browser and can manage N-2 generations systems (IBM z16 A01, IBM z15 T02, IBM z15 T01, IBM z14 ZR1, and IBM z14 M0x).
+
+Important: With the IBM HMA, shutdown or restart of the HMC that includes the Primary SE code as guest also restarts the Primary SE code. Only an application restart of the HMC is not disruptive to the guest SE code.
+
+10.2.4  HMC and SE server
+
+The two 1U rack-mounted hardware servers that are installed at the top of the IBM z16 A frame (as shown in Figure 10-14) are used for HMC (optional feature) and SE functions.
+
+<!-- missing-text -->
+
+HMC and Support Element Keyboard Mouse Monitor
+
+With IBM z16, a Keyboard Mouse Monitor (KMM) device that is in the front of rack A under the 1U servers replaces the previous KMM assembly that was mounted on a swing gate in IBM z14.
+
+The KMM device is shown in Figure 10-15.
+
+<!-- missing-text -->
+
+Consider the following points:
+

@@ -1,0 +1,18 @@
+er is Data Replication source to other HMCs that are in the role of peer or replica. An HMC in this role receives replicated data from other HMCs that are in the role of peer or primary.
+
+- -Replica
+
+An HMC in the role of replica receives replicated data from other HMCs that are in the role of primary or peer. Modifications to replicated data types on a replica HMC are disallowed.
+
+Further, an HMC also can be disabled for Data Replication. An example of selection of the roles is shown in Figure 10-9 on page 416.
+
+<!-- missing-text -->
+
+The notification about whether you are on an HMC with the Replica role and open a window where Data Replication is involved were improved. An example of an HMC with the Replica role is shown in Figure 10-10.
+
+<!-- missing-text -->
+
+Also, the wizard that is used to manage the settings for Data Replication were improved.
+
+- /SM590000 Remote Code Load
+

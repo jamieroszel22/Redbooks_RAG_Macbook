@@ -1,0 +1,15 @@
+n the CTS [IBM z16 hardware] that is configured with dual utility power).
+
+For more information, see the IBM Z Server Time Protocol Guide , SG24-8480.
+
+- /SM590000 BCPii enhancements for SE restarts
+
+With IBM z16, the SE and the BCPii for GDPS and System Automation (SA) features an improved communication to not disturb important tasks on each side. For example, if you want to restart an SE and GDPS or SA is performing an important task, the restart window prompts you to confirm that you want to force the restart, as shown in Figure 10-5 on page 413.
+
+<!-- missing-text -->
+
+- /SM590000 Mange System Time Enhancements
+- Starting with IBM z14, a major change was made to how STP management is handled on the HMC and SE. All STP management is now done by way of the Manage System Time option on the HMC.
+
+With IBM z16, further improvements were made in the wizards to guide you though the different configuration possibilities. Most of the changes are visual to provide clearer guidance.
+

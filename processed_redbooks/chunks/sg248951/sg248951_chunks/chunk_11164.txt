@@ -1,0 +1,10 @@
+from existing or new workloads. No other approval, qualification, or processing is required to use the growth pricing rate.
+
+International Program License Agreement in the Software Consumption Model
+
+IBM Z enterprise customers often have One Time Charge (OTC) IBM products that are running in the same environment as MLC products. With the Software Consumption Model, IBM offers two choices for the handling of OTC software: A Full Capacity licensing model, and the option to use their existing OTC software licensing in a consumption model with the flexibility to use the entitlement on a consumption basis across a year as business demands.
+
+With coverage of both MLC and capacity-based IPLA products, the Software Consumption Model offers a single and comprehensive software solution to IBM Z customers.
+
+Hardware Consumption Model
+

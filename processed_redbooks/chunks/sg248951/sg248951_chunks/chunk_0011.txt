@@ -1,0 +1,16 @@
+enexa, an IBM Company.
+
+The registered trademark Linuxfi is used pursuant to a sublicense from the Linux Foundation, the exclusive licensee of Linus Torvalds, owner of the mark on a worldwide basis.
+
+Microsoft, Windows, and the Windows logo are trademarks of Microsoft Corporation in the United States, other countries, or both.
+
+Java, and all Java-based trademarks and logos are trademarks or registered trademarks of Oracle and/or its affiliates.
+
+Red Hat, are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the United States and other countries.
+
+UNIX is a registered trademark of The Open Group in the United States and other countries.
+
+Other company, product, or service names may be trademarks or service marks of others.
+
+Preface
+

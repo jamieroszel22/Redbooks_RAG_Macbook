@@ -1,0 +1,14 @@
+is in frame A at A10. The second one, in the same frame, at A15. The third one, in the same frame at A20. The fourth CPC drawer is in frame B (location B10).
+
+Figure 3-20 shows CPC drawer numbering.
+
+<!-- missing-text -->
+
+3.6  Memory design
+
+Various considerations of the IBM z16 memory design are described in this section.
+
+3.6.1  Overview
+
+the IBM z16 A01 memory design also provides flexibility, high availability, and the following upgrades:
+

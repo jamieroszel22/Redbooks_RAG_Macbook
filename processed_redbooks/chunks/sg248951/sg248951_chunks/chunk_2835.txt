@@ -1,0 +1,8 @@
+nd prefetchers are connected to the chip by way of ring interface for high-speed, low-latency, read/write cache operations at 200+ GBps read/store bandwidth, and 600+ GBps bandwidth between engines.
+
+Compute Arrays consist of 128 processor tiles with 8-way FP-16 FMA SIMD, which are optimized for matrix multiplication and convolution, and 32 processor tiles with 8-way FP-16/FP-32 SIMD, which are optimized for activation functions and complex functions.
+
+The integrated AI accelerator delivers more than 6 TFLOPs per chip and over 200 TFLOPs in fully configured IBM z16 system with the 32 chips. The AI accelerator is shared by all cores on the chip. The firmware, running on the cores and accelerator, orchestrates and synchronizes the execution on the accelerator.
+
+Using IBM Z Integrated AI Accelerator in your enterprise
+

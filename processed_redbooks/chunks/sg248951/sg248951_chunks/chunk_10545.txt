@@ -1,0 +1,16 @@
+o get more information about all of the functions that can be used by the HMC and SE. The Help feature is available by clicking Help from the drop-down menu that appears when you click your user ID.
+
+For more information, see the IBM Resource Link, select Library , the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide .
+
+This chapter includes the following topics:
+
+- /SM590000 10.1, 'Introduction' on page 408
+- /SM590000 10.2, 'HMC and SE changes and new features' on page 409
+- /SM590000 10.3, 'HMC and SE connectivity' on page 423
+- /SM590000 10.4, 'Remote Support Facility' on page 430
+- /SM590000 10.5, 'HMC and SE capabilities' on page 431
+
+10.1  Introduction
+
+The HMC is a closed system (appliance), which means that no other applications can be installed on it.
+

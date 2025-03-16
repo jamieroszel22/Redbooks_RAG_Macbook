@@ -1,0 +1,10 @@
+ght not be available to all operating systems because the facilities might have software corequisites.
+
+Each LPAR has the following resources that are the same as a real CPC:
+
+- /SM590000 Processors
+
+Called l ogical processors , they can be defined as CPs, IFLs, ICFs, or zIIPs. They can be dedicated to an LPAR or shared among LPARs. When shared, a processor weight can be defined to provide the required level of processor resources to an LPAR. Also, the capping option can be turned on, which prevents an LPAR from acquiring more than its defined weight and limits its processor consumption.
+
+LPARs for z/OS can have CP and zIIP logical processors. The logical processor types can be defined as all dedicated or all shared. The zIIP support is available in z/OS.
+

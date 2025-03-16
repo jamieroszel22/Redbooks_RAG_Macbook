@@ -1,0 +1,10 @@
+ system, per month payment that is based on the amount of TFP-Hardware capacity that is provided on the system. The Subscription charge is invoiced prepaid for the contract term or postpaid monthly.
+
+Because only entire engines can be activated, it is always full engine sizes that are based on IBM Large System Performance Reference (LSPR) capacity levels. The Subscription charge covers the value that the extra activated capacity brings, even if no measured usage exists (see Figure D-3).
+
+<!-- missing-text -->
+
+The green bar in Figure D-3 represents the capacity that the customer owns (the so-called Base capacity ). The transparent bars represent activated TFP-Hardware corridor.
+
+The blue bars show the measured usage within the 15-minute intervals that are greater than the customer-owned capacity. The yellow bar is the highest measured TFP-Hardware use within the defined hour.
+

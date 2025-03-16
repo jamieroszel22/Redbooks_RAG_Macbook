@@ -1,0 +1,17 @@
+formation, see the following publications:
+
+- /SM590000 Planning for Fiber Optic Links, GA23-1409
+- /SM590000 3931 Installation Manual for Physical Planning, GC28-7015
+
+4.4.3  Fan-out considerations
+
+Fan-out slots in the CPC drawer can be used to plug different fan-outs. On IBM z16 A01, the CPC drawers can hold up to 48 PCIe fan-out cards (four-CPC drawers configuration).
+
+Adapter ID number assignment
+
+PCIe fan-outs and ports are identified by an Adapter ID (AID) that is initially dependent on their physical locations, which is unlike channels that are installed in a PCIe+ I/O drawer. Those channels are identified by a physical channel ID (PCHID) number that is related to their physical location. This AID must be used to assign a CHPID to the fan-out in the IOCDS definition. The CHPID assignment is done by associating the CHPID to an AID port (see Table 4-2.
+
+<!-- missing-text -->
+
+Fan-out slots
+

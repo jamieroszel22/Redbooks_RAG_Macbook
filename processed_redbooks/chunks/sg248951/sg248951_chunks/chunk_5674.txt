@@ -1,0 +1,6 @@
+SAN routing policy normally assigns the ISL routes according to the incoming port and its destination domain (port-based routing), or the source and destination ports pairing (device-based routing).
+
+The port-based routing (PBR) assigns the ISL routes statically that is based on 'first come, first served' when a port starts a fabric login (FLOGI) to a destination domain. The ISL is round-robin that is selected for assignment. Therefore, I/O flow from same incoming port to same destination domain always is assigned the same ISL route, regardless of the destination port of each I/O.
+
+This setup can result in some ISLs becoming overloaded while some are under-used. The ISL routing table is changed whenever IBM Z server undergoes a power-on-reset (POR), so the ISL assignment is unpredictable.
+

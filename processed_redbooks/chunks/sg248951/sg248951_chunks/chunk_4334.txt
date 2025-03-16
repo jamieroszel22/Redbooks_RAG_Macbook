@@ -1,0 +1,6 @@
+ /SM590000 Coupling Facility hang detect enhancements provide a significant reduction in failure scope and client disruption (CF-level to structure-level), with no loss of FFDC collection capability:
+- -When a hang is detected, in most cases the CF confines the scope of the failure to 'structure damage' for the single CF structure the hung command was processing against, capture diagnostics with a nondisruptive CF memory dump, and continue operating without ending or restarting the CF image.
+- -Provides a significant reduction in failure scope and client disruption (CF-level to structure-level), with no loss of FFDC collection capability.
+- /SM590000 Coupling Facility ECR granular latching:
+- -With this support, most CF list and lock structure ECR processing no longer use structure-wide latching. It serializes its execution by using the normal structure object latches that all mainline commands use.
+- -Eliminates the performance degradation that is caused by structure-wide latching.

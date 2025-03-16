@@ -1,0 +1,14 @@
+ter the memory is added.
+
+Note: Memory downgrades within an IBM z16 are not supported. Feature downgrades (removal of a CPC quantity feature) are not supported.
+
+2.5.5  Drawer replacement and memory
+
+With EDA, which is supported for IBM z16 A01, sufficient resources must be available to accommodate resources that are rendered unavailable when a CPC drawer is removed for upgrade or repair.
+
+For more information, see 2.7.1, 'Redundant I/O interconnect' on page 52.
+
+Removing a CPC drawer often results in removing active memory. With the flexible memory option, removing the affected memory and reallocating its use elsewhere in the system is possible. (For more information, see 2.5.7, 'Flexible Memory Option' on page 46.) This process requires more available memory to compensate for the memory that becomes unavailable with the removal of the drawer.
+
+2.5.6  Virtual Flash Memory
+

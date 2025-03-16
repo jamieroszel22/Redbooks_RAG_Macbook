@@ -1,0 +1,16 @@
+customer configuration requirements ', and the HMC and SE Network Information Worksheet , GC28-7023, to plan your HMC, SE, and ETS IP configuration.
+
+An HMC can have the following IP configurations:
+
+- /SM590000 Statically assigned IPv4 or IPv6 addresses
+- /SM590000 Dynamic Host Configuration Protocol (DHCP)-assigned IPv4 or DHCP-assigned IPv6 addressees
+- /SM590000 Auto-configured IPv6:
+- -Link-local is assigned to every network interface.
+- -Router-advertised, which is broadcast from the router, can be combined with a Media Access Control (MAC) address to create a unique address.
+- -Privacy extensions can be enabled for these addresses as a way to avoid the use of the MAC address as part of the address to ensure uniqueness.
+
+An SE can have the following IP addresses:
+
+- /SM590000 Statically assigned IPv4 or statically assigned IPv6
+- /SM590000 Auto-configured IPv6 as link-local or router-advertised
+

@@ -1,0 +1,12 @@
+I) redesigns
+
+For more information about RNI, see 12.4, 'Relative Nest Intensity' on page 479.
+
+The processing performance was enhanced through the following changes to the IBM z16 processor design:
+
+- /SM590000 Core optimization to enable performance and capacity growth.
+- /SM590000 New cache structure design, including a larger cache Level 2 (SRAM) and virtual Level 3 and Level 4 cache to reduce latency.
+- /SM590000 On-chip IBM Integrated Accelerator for zEnterprise Data Compression (Nest compression accelerator, or NXU. For more information, see Figure 2-14 on page 31.)
+- /SM590000 Enhancement of nest-core staging.
+- /SM590000 On-chip IBM Integrated Accelerator for AI. For more information, see Chapter 2, 'Central processor complex hardware components' on page 15, and Appendix B, 'IBM Z Integrated Accelerator for AI' on page 503.
+

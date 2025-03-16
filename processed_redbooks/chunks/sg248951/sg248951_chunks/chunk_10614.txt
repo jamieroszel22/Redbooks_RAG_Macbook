@@ -1,0 +1,10 @@
+ Resource Link. At this web page, select Library , the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide .
+
+Single Object Operations
+
+It is not necessary to be physically close to a SE to use it. The HMC can be used to access the SE remotely by using the SOO task. The interface is the same as the interface that is used on the SE. For more information, see the IBM Resource Link. At this web page, select Library , the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide .
+
+Note: With HMC Driver 41/Version 2.15.0 and Driver 51/Version 2.16.0, specific tasks that required in the past to access to the SE in SOO mode were implemented as HMC tasks. With this enhancement, the HMC runs the tasks on the SE directly, without the need to lock the SE in SOO mode.
+
+IBM HMC Mobile
+

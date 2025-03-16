@@ -1,0 +1,14 @@
+link encryption and endpoint authentication. It is an end-to-end solution that helps ensure all data flowing on the Fibre Channel links within and across data centers flows between trusted entities.
+
+The following prerequisites must be met for this optionally priced feature:
+
+- /SM590000 FICON Express32S and FICON Express16SA for both link encryption and endpoint authentication
+
+Note: FICON Express16S+ supports endpoint authentication only (no data-in-flight encryption).
+
+- /SM590000 Select DS8000 storage
+- /SM590000 Supporting infrastructure: IBM Security Guardium Key Lifecycle Manager
+- /SM590000 CPACF enablement (FC 3863)
+
+Forward Error Correction
+

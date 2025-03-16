@@ -1,0 +1,9 @@
+ot planned, but can be added later. APAR OA60650 is required on z/OS V2R3, V2R4, and V2R5 to support the new metrics.
+- /SM590000 New cache retry buffer support was added for IFCC retry idempotency:
+
+Initially, the CF cache structure architecture was defined to be idempotent (commands can be tried again after link glitches, such as IFCCs); therefore, no specific accommodations were available for retrying, such as retry buffer support.
+
+However, the list structure architecture was always recognized as nonidempotent, and a rather sophisticated retry buffer mechanism was incorporated to allow z/OS to retrieve the results of commands (even after link glitches occurred) so that such glitches always were well recovered.
+
+Over time, constructs were added to the cache and lock structure architecture that made them become not perfectly retriable (nonidempotent), but retry buffers were not added to the architecture to mitigate the lack of retriability:
+

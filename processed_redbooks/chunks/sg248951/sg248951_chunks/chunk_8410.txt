@@ -1,0 +1,17 @@
+eatures on an installed PCIe+ I/O drawer
+- /SM590000 Adding a PCIe+ I/O drawer to hold the new I/O features
+
+For more information about PCIe+ I/O drawers, see 4.2, 'I/O system overview' on page 148.
+
+The number of PCIe+ I/O drawers that can be present in an IBM z16 depends on how many CPC drawers are present and whether the configuration includes the Bulk Power Assembly (BPA) offering. It also depends on whether the CPC drawer reserve features are present.
+
+The number of drawers for a PDU-based IBM z16 configuration options is listed in Table 8-4. Options for a BPA-based IBM z16 are Table 8-5 on page 346. Both tables are based on no CPC drawer reserve options being configured.
+
+Note: The maximum number of I/O drawers in the table is reduced by one for each CPC drawer reserve feature that is present.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Depending on the number of I/O features, the configurator determines the number of PCIe+ I/O drawers that is required.
+

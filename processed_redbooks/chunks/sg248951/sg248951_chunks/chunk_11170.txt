@@ -1,0 +1,8 @@
+e blue bars show the measured usage within the 15-minute intervals that are greater than the customer-owned capacity. The yellow bar is the highest measured TFP-Hardware use within the defined hour.
+
+The red bar in Figure D-3 is the highest measured use during a calendar day and is only relevant if the customer has more than 4 hours of TFP-Hardware use within one calendar day.
+
+The left column that represents one calendar day shows that 10 spikes above the Base capacity were measured. The spikes that are counted for invoicing are the yellow bars (the highest within each hour).
+
+The yellow bars hold a measured million of service units (MSU) value. If the total MSU use of the yellow bars is 250 MSU, the customer receives an invoice of 250 times the hourly usage charge per MSU.
+

@@ -1,0 +1,20 @@
+the KVM hypervisor.
+
+Because this information is subject to continuous updating, for the most current information check the hardware fix categories for IBM z16 A01 IBM.Device.Server.IBM z16-3931.* .
+
+Support of IBM z16 functions depends on the operating system and version and release.
+
+This chapter includes the following topics:
+
+- /SM590000 7.1, 'Operating systems summary' on page 248
+- /SM590000 7.2, 'Support by operating system' on page 249
+- /SM590000 7.3, 'IBM z16 features and function support overview' on page 252
+- /SM590000 7.4, 'Support by features and functions' on page 265
+- /SM590000 7.5, 'z/OS migration considerations' on page 317
+- /SM590000 7.6, 'IBM z/VM migration considerations' on page 322
+- /SM590000 7.7, 'z/VSE migration considerations' on page 323
+- /SM590000 7.8, 'Software licensing' on page 323
+- /SM590000 7.9, 'References' on page 326
+
+7.1  Operating systems summary
+

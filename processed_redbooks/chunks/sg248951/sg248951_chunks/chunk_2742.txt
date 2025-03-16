@@ -1,0 +1,11 @@
+ be allocated on any of the share part of a L2 cache.
+- /SM590000 L4 cache (up to 2048 MB) is also a virtual cache and can be allocated on any of the share part of a L2 cache.
+
+<!-- missing-text -->
+
+Main storage has up to 10 TB addressable memory per CPC drawer, which uses up to 48 DDR4 DIMMs. A system with four CPC drawers can have up to 40 TB of main storage.
+
+Considerations
+
+Cache sizes are limited by ever-diminishing cycle times because they must respond quickly without creating bottlenecks. Access to large caches costs more cycles. Instruction and data cache (L1) sizes must be limited because larger distances must be traveled to reach long cache lines. This L1 access time generally occurs in one cycle, which prevents increased latency.
+

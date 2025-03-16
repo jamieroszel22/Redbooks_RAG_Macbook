@@ -1,0 +1,12 @@
+Virtual Functions (VFs), with one or more VFs/PFIDs being assigned to each LPAR. This configuration gives a maximum of 254 VFs per adapter.
+
+The zHyperLink Express requires the following components:
+
+- /SM590000 zHyperLink connector on DS8k I/O Bay
+- For DS8880 firmware R8.3 or newer, the I/O Bay planar is updated to support the zHyperLink interface. This update includes the update of the PEX 8732 switch to PEX8733 that includes a DMA engine for the zHyperLink transfers, and the upgrade from a copper to optical interface by a CXP connector (provided).
+- /SM590000 Cable
+
+The zHyperLink Express1.1 uses optical cable with MTP connector. Maximum supported cable length is 150 meters (492 feet).
+
+zHyperLink Express (FC 0431)
+

@@ -1,0 +1,14 @@
+OS partitions where ISV does not support software capping
+
+A group name, processor capping value, and partition membership are specified at the hardware console, along with the following properties:
+
+- /SM590000 Set an absolute capacity cap by CPU type on a group of LPARs.
+- /SM590000 Allow each of the partitions to use capacity up to their individual limits if the group's aggregate consumption does not exceed the group absolute capacity limit.
+- /SM590000 Include updated SysEvent QVS support (used by vendors who implement software pricing).
+- /SM590000 Only shared partitions are managed in these groups.
+- /SM590000 Specify caps for one or more processor types in the group.
+- /SM590000 Specify in absolute processor capacity (for example, 2.5 processors).
+- /SM590000 Use Change LPAR Group Controls (as with windows that are used for software group-defined capacity), as shown in Figure 10-22.
+
+<!-- missing-text -->
+

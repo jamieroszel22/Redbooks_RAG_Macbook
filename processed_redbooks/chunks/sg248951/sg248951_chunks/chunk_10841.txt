@@ -1,0 +1,12 @@
+ling feature provides new hardware. The new hardware resembles a rectangular box with an open side that faces the front or rear of the rack. It includes other hardware to organize and fasten cables.
+
+The Top Exit Cabling option can be used for routing power cables and IO cables out the top of the machine.
+
+Without the Top Exit Cabling feature, power and cables still can be run out the top of the rack through two adjustable openings at the top rear of the rack, as shown on the left side of Figure 11-6 on page 465.
+
+The Bottom Exit Cabling feature provides tailgate hardware for routing power cables or IO cables out the bottom of the machine.
+
+For more information, see IBM 8561 Installation Manual for Physical Planning , GC28-7015, and 11.4, 'Physical planning' on page 464.
+
+11.4.4  Bottom Exit cabling feature
+

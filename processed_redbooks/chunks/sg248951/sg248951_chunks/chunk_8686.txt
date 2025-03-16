@@ -1,0 +1,8 @@
+ager can activate more capacity up to the maximum allowed increase.
+
+Multiple offering records can be pre-staged on the SE HDD. Changing the content of the offerings (if necessary) also is possible.
+
+Remember: CPM controls capacity tokens for the On/Off CoD records. In a situation where a capacity token is used, the system deactivates the corresponding offering record. Therefore, you must prepare routines for catching the warning messages about capacity tokens being used, and have administrative procedures in place for such a situation.
+
+The messages from the system begin five days before a capacity token is fully used. To avoid capacity records being deactivated in this situation, replenish the necessary capacity tokens before they are used.
+

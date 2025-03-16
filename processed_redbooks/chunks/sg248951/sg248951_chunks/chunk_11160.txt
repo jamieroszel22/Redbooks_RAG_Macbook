@@ -1,0 +1,12 @@
+.
+
+Software Consumption Model
+
+To meet the demands of modern workloads and provide a commercial confidence to match the technology confidence, the Consumption Solution was well received and adopted.
+
+Customers typically transition onto TFP Consumption for the following reasons:
+
+- /SM590000 It is a software pricing model that is better suited to today's workloads profiles (typically, where they are increasingly spiky). Also, it is a pricing model that is better suited to future uses; for example, inclusion in Hybrid Cloud architectures.
+- /SM590000 A customer on TFP Consumption can confidently remove all forms of capping and expose all their workloads to all of the hardware infrastructure they own.
+- /SM590000 Any form of growth (from a new workload to a 30-year-old COBOL application that is used more often) qualifies for a much-improved Price per MSU.
+

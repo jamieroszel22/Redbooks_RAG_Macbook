@@ -1,0 +1,4 @@
+2022 availability.
+
+z/VM Compatibility Support enables guest use for several new facilities:
+

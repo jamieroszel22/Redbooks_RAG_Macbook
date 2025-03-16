@@ -1,0 +1,5 @@
+
+- /SM590000 Continuous availability: Changes can be introduced, such as software upgrades, one image at a time, while the remaining images continue to process work. For more information, see Parallel Sysplex Application Considerations , SG24-6523.
+- /SM590000 High capacity: 1 - 32 z/OS images in a Parallel Sysplex that is operating as a single system.
+- /SM590000 Dynamic workload balancing: Because it is viewed as a single logical resource, work can be directed to any operating system image in a Parallel Sysplex cluster that has available capacity.
+- /SM590000 Systems management: The architecture defines the infrastructure to satisfy client requirements for continuous availability. It also provides techniques for achieving simplified systems management consistent with this requirement.

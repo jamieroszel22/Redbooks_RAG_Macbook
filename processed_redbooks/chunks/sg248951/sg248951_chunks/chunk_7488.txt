@@ -1,0 +1,16 @@
+A Protection Exception occurs if an attempt is made to fetch an instruction from an address in such an element or if an address in such an element is the target of an execute-type instruction.
+
+z/OS
+
+To use IEP, Real Storage Manager (RSM) is enhanced to request nonexecutable memory allocation. Use new keyword EXECUTABLE=YES|NO on STORAGE OBTAIN or IARV64 to indicate whether memory that is to be used contains executable code. Recovery Termination Manager (RTM) writes LOGREC record of any program-check that results from IEP.
+
+IEP support is for z/OS V2.R2 and later running on IBM z16 with APARs OA51030 and OA51643 installed.
+
+z/VM
+
+Guest exploitation support for the Instruction Execution Protection Facility is provided with APAR VM65986.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+Secure Boot
+

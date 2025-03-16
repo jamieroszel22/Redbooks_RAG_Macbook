@@ -1,0 +1,12 @@
+e contention.
+
+IWQ reduces the conventional z/OS processing that is required to identify and separate unique workloads. This advantage results in improved overall system performance and scalability.
+
+A primary objective of IWQ is to provide improved performance for business-critical interactive workloads by reducing contention that is created by other types of workloads. In a heavily mixed workload environment, this 'off the wire' network traffic separation is provided by OSA-Express7S 1.2, OSA-Express7S, and OSA-Express6S 11  features that are defined as CHPID type OSD.
+
+OSA IWQ is shown in Figure 7-5.
+
+<!-- missing-text -->
+
+The following types of z/OS workloads are identified and assigned to unique input queues:
+

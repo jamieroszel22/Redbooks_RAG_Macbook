@@ -1,0 +1,15 @@
+t is addressable by programs and storage that is not directly addressable by programs. Nonaddressable storage includes the hardware system area (HSA).
+
+Main storage provides the following functions:
+
+- /SM590000 Data storage and retrieval for PUs and I/O
+- /SM590000 Communication with PUs and I/O
+- /SM590000 Communication with and control of optional expanded storage
+- /SM590000 Error checking and correction
+
+Main storage can be accessed by all processors, but cannot be shared between LPARs. Any system image (LPAR) must include a defined main storage size. This defined main storage is allocated exclusively to the LPAR during partition activation.
+
+3.6.3  Hardware system area
+
+The HSA is a nonaddressable storage area that contains system LIC and configuration-dependent control blocks. On IBM z16 A01 servers, the HSA has a fixed size of 256 GB and is not part of the purchased memory that you order and install.
+

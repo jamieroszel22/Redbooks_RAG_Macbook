@@ -1,0 +1,8 @@
+o these enhancements.
+
+Because of the nature of the IBM z16 multi-CPC drawer system and resource management across those drawers, performance variability from application to application is expected.
+
+Also, the memory and cache designs affect various workloads in many ways. All workloads are improved, with cache-intensive loads benefiting the most. For example, having more PUs per CPC drawer, each with higher capacity than IBM z15, more workload can fit on an IBM z16 CPC drawer. This configuration can result in better performance. For example, IBM z15 two drawer system model T01 can populate maximum 71 PUs (Max71).
+
+In contrast, IBM z16 two drawer system Max82 can populate maximum 82 PUs. Therefore, five and six more PUs can share caches and memories within the first and second drawers respectively, so the performance improvements is expected.
+

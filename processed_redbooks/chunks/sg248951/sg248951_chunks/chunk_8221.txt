@@ -1,0 +1,2 @@
+/VM 7.2 is available since September, 2020. It includes the following features:
+

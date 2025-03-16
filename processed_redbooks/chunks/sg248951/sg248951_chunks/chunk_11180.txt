@@ -1,0 +1,18 @@
+ctivate half a CP. Therefore, it is the customer's responsibility to stay under the licensed amount of MIPS; otherwise, extra charges are incurred for the use that is greater than the licensed MIPS.
+
+After the Flexible Capacity record is active on both sites, a time limit of 24 hours begins in which workloads can be transferred from Site A to Site B without leading to more charges.
+
+During this time window, Flexible Capacity can remain active on both sites, as shown in Figure D-7
+
+<!-- missing-text -->
+
+After 24 hours, the Flexible Capacity in Site A is removed and System A is reduced to base capacity (see Figure D-8).
+
+Flexible Capacity on System B can stay running for up to one year.
+
+<!-- missing-text -->
+
+Multi-system environment
+
+A two-site, two-system environment is only the base infrastructure. Flexible Capacity for Cyber Resiliency also is suited for complex multi-system environments.
+

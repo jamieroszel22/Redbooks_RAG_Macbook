@@ -1,0 +1,17 @@
+are available at no charge to z/OS XL C/C++ customers:
+
+- /SM590000 Based on open-source LLVM infrastructure; supports up to date C++ language standards
+- /SM590000 64-bit, UNIX System Services only
+
+Statement of Direction: IBM will continue to adopt the LLVM and Clang compiler infrastructure in future C/C++ offerings on IBM Z a .
+
+- a. Any statements regarding IBM's future direction, intent, or product plans are subject to change or withdrawal without notice.
+
+7.6  IBM z/VM migration considerations
+
+IBM z16 supports z/VM 7.3 16 , z/VM 7.2, and z/VM 7.1. z/VM is moving to continuous delivery model. For more information, see this web page.
+
+7.6.1  IBM z/VM 7.3
+
+IBM z/VM 7.3 includes the following features:
+

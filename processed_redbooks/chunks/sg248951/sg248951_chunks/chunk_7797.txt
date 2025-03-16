@@ -1,0 +1,9 @@
+are available:
+
+- /SM590000 The IPv6 communications protocol is supported by OSA-ICC 3270 so that clients can comply with regulations that require all computer purchases to support IPv6.
+- /SM590000 TLS negotiation levels (the supported TLS protocol levels) for the OSA-ICC 3270 client connection can now be specified:
+- -TLS 1.0 OSA-ICC 3270 server permits TLS 1.0, TLS 1.1, and TLS 1.2 client connections.
+- -TLS 1.1 OSA-ICC 3270 server permits TLS 1.1 and TLS 1.2 client connections.
+- -TLS 1.2 OSA-ICC 3270 server permits only TLS 1.2 client connections.
+- /SM590000 Separate and unique OSA-ICC 3270 certificates are supported (for each PCHID) for the benefit of customers who host workloads across multiple business units or data centers where cross-site coordination is required. Customers can avoid interruption of all the TLS connections at the same time when having to renew expired certificates. OSA-ICC also continues to support a single certificate for all OSA-ICC PCHIDs in the system.
+

@@ -1,0 +1,4 @@
+worldwide IBM Z technical community, Gerard teaches at numerous external and internal IBM events and participates in international projects. He is the co-author of several IBM Redbooks publications.
+
+Hervey Kamga is an IBM Z Product Engineer with the EMEA I/O Connectivity Team in Montpellier, France. Before serving in his current role, he was a Support Engineer and Engineer On Site for 13 years with Sun MicroSystems and Oracle in EMEA. Hervey's areas of expertise include Oracle Solaris (operating system and hardware products), virtualization (VMware and virtualBox), Linux, and IBM Z I/O features and protocols (IBM FICONfi and OSA) while co-authoring several IBM Redbooks publications.
+

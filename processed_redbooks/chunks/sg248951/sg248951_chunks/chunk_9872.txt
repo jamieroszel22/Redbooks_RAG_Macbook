@@ -1,0 +1,11 @@
+ng RAS
+- GLYPH&lt;129&gt; Processor uses data from the first seven channels to respond
+- GLYPH&lt;129&gt; Refetch data by using all eight RAIM channels if an error occurs
+- /SM590000 Flexible memory:
+- -Provides more physical memory DIMMs that are needed to support activation of all customer-purchased memory and HSA on a multiple drawer zNext with one drawer down for:
+- GLYPH&lt;129&gt; Scheduled concurrent drawer upgrade (for example, memory add)
+- GLYPH&lt;129&gt; Scheduled concurrent drawer maintenance (N+1 repair)
+- GLYPH&lt;129&gt; Concurrent repair of an out-of-service CPC drawer 'fenced' during Activation (POR)
+
+Note : All of these features are available without Flexible Memory, but all customer purchased memory is not available for use in most cases. Some work might need to be shut down or not restarted.
+

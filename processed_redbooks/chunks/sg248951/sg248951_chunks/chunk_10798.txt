@@ -1,0 +1,16 @@
+ client network with the dedicated CPC LAN port.
+
+HMC NTP broadband authentication support
+
+HMC NTP authentication can be used since HMC Driver 15 (zEC12/zBC12).
+
+Authentication support with a proxy
+
+Some client configurations use a proxy for external access outside the corporate data center. NTP requests are User Datagram Protocol (UDP) socket packets and cannot pass through the proxy. The proxy must be configured as an NTP server to get to target servers on the web. Authentication can be set up on the client's proxy to communicate with the target time sources.
+
+Authentication support with a firewall
+
+If you use a firewall, HMC NTP requests can pass through it. Use HMC authentication to ensure untampered timestamps.
+
+NTP symmetric key and autokey authentication
+

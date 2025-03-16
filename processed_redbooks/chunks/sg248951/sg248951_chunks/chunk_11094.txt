@@ -1,0 +1,15 @@
+e bottom with support to filter by partition
+- /SM590000 Report is accessed from the Partition Detail Window
+- /SM590000 Latest versions of extract are required:
+- -available here: IBM Support page.
+
+Note: The Topology report in Figure 12-10 on page 491 is showing all active partitions. Information about a specific partition can be obtained by clicking on the 'Remove all' button to the left of the Partition Totals by Pool table at the bottom right and then clicking on the 'View' check-box for a specific partition.
+
+<!-- missing-text -->
+
+IBM zPCR Topology Report is based in the z/OS new Data Gatherer functionality delivered with APAR A62064, PTF available for z/OS 2.5 and z/OS 2.4. z/OS data is in the SMF 70.1 record.
+
+z/VM support is provided in the 7.3 version and APARs are available for z/VM 7.1 and 7.2.
+
+Additionally, consider collecting the z/OS SMF 99 Subtype 14 records for all LPARs in the IBM z16. Record has a single LPAR scope, so need all LPARs to get the total picture.
+

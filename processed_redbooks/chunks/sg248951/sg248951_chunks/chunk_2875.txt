@@ -1,0 +1,12 @@
+ CPC on the left has two environments that are defined (production and test), and each has one z/OS and one coupling facility image. The coupling facility images share an ICF.
+
+<!-- missing-text -->
+
+The LPAR processing weights are used to define how much processor capacity each CF image can include. The capped option also can be set for a test CF image to protect the production environment.
+
+Connections between these z/OS and CF images can use internal coupling links to avoid the use of real (external) coupling links, and get the best link bandwidth available.
+
+Dynamic CF dispatching
+
+The dynamic coupling facility dispatching (DYNDISP) function features a dispatching algorithm that you can use to define a backup CF in an LPAR on the system. When this LPAR is in backup mode, it uses few processor resources.
+

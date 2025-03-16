@@ -1,0 +1,17 @@
+ features should not be mixed in a z/OS SMC-R Link Group.
+
+Point-to-point connections and switched connections with an enterprise-class 10 GbE switch are supported.
+
+25 GbE RoCE Express2.1 (FC 0450)
+
+25 GbE RoCE Express2.1 (FC 0450) is installed in the PCIe+ I/O drawer and is supported on IBM z16 servers when carried forward. The 25 GbE RoCE Express2.1 is a native PCIe
+
+feature. It does not use a CHPID and is defined by using the IOCP FUNCTION statement or in the HCD.
+
+Switch configuration for 25 GbE RoCE Express2.1: The switches must meet the following requirements:
+
+- /SM590000 Global Pause function is enabled
+- /SM590000 Priority flow control (PFC) is disabled
+
+The maximum supported unrepeated distance, point-to-point, is 100 meters (328 feet). A client-supplied cable is required. Two types of cables can be used for connecting the port to the selected 10 GbE switch or to another 10 GbE RoCE Express3 SR feature:
+

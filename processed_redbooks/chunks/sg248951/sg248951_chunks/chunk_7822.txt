@@ -1,0 +1,8 @@
+Linux on IBM Z, support is delivered through IBM and the distribution partners. For more information, see Linux on IBM Z on the IBM Developer website.
+
+z/OS Integrated Cryptographic Service Facility
+
+To achieve security in a distributed computing environment, a combination of elements must work together. A security policy should be based on an appraisal of the value of data and the potential threats to that data. This security policy provides the foundation for a secure environment.
+
+IBM categorized the following security functions according to International Organization for Standardization (ISO) standard 7498-2:
+

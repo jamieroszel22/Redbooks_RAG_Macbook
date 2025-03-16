@@ -1,0 +1,18 @@
+rts extended distance FICON for IBM Z environments. The channel defaults to current pacing values when it operates with control units that cannot use extended distance FICON.
+
+High-performance FICON
+
+High-performance FICON (zHPF) was first provided on IBM System z10fi, and is a FICON architecture for protocol simplification and efficiency. It reduces the number of information units (IUs) that are processed. Enhancements were made to the z/Architecture and the FICON interface architecture to provide optimizations for online transaction processing (OLTP) workloads.
+
+zHPF is available on the following servers:
+
+- /SM590000 IBM z16
+- /SM590000 IBM z15
+- /SM590000 IBM z14
+- /SM590000 IBM z13
+- /SM590000 IBM z13sfi
+- /SM590000 IBM zEC12
+- /SM590000 IBM zBC12
+
+As of this writing, the FICON Express32S, FICON Express16SA, and FICON Express16S+(CHPID type FC) support the FICON protocol and the zHPF protocol in the server LIC.
+

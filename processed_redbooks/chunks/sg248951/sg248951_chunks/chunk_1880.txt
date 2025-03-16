@@ -1,0 +1,6 @@
+
+- -Left-side slots are numbered LG01 - LG10 and right side slots are numbered LG11 - LG20 from the rear of the rack. A location and LED identifier panel is at the center of the drawer.
+- -With IBM z16 Model A01, the numbering of the PCHIDs is not related to a fixed location in a frame as with previous generations of IBM Z. Instead, the first configured I/O location starts with PCHID 100 and continues the incremental sequence to the next configured PCIe I/O drawer.
+- For more information about examples of the various configurations, see Appendix E, 'Frame configurations Power Distribution Units and Bulk Power Assembly-based systems' on page 529.
+- /SM590000 Two PCIe+ switch cards provide connectivity to the PCIe+ Gen3 fan-outs that are installed in the CPC drawers.
+- /SM590000 Each I/O drawer domain has four dedicated support partitions (two per domain) to manage the native PCIe cards.

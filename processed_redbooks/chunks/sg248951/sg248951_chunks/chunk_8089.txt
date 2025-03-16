@@ -1,0 +1,7 @@
+the enterprise.
+- /SM590000 IBM Open Data Analytics for z/OS provides enhancements to simplify data analysis by combining open source run times and libraries with analysis of z/OS data at its source,
+- /SM590000 Enhancements to security and data protection on the system with support for new industry cryptography and continued enhancements driving pervasive encryption through the ability to encrypt data without application changes. A new RACF capability improves management of access and privileges.
+- /SM590000 The use of IBM z16 capabilities
+
+System Recovery Boost reduces the time that z/OS is offline when the operating system is offline for any reason. The use of IBM System Recovery Boost expedites planned operating system shutdown processing, operating system Initial Program Load (IPL), middleware and workload restart and recovery, and the client workload execution that follows.
+

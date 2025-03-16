@@ -1,0 +1,13 @@
+he updates.
+
+The native PCIe features (managed by Resource Group code) are listed Table 9-1.
+
+<!-- missing-text -->
+
+Consider the following points for managing native PCIe adapters microcode levels:
+
+- /SM590000 Updates to the Resource Group require all native PCIe adapters that are installed in that RG to be offline.
+- /SM590000 Updates to the native PCIe adapter require the adapter to be offline. If the adapter is not defined, the MCL session automatically installs the maintenance that is related to the adapter.
+
+The PCIe native adapters are configured with Function IDs (FIDs) and might need to be configured offline when changes to code are needed. To help alleviate the number of adapters (and FIDs) that are affected by the Resource Group code update, IBM z16 have four Resource Groups per system (CPC).
+

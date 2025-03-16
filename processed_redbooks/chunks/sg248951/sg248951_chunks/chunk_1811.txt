@@ -1,0 +1,3 @@
+er two I/O domains (0 and 1):
+- -Each I/O slot reserves four PCHIDs.
+

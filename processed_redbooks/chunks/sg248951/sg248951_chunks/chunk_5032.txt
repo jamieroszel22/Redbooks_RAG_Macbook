@@ -1,0 +1,14 @@
+and 10 GbE RoCE Express2 provide high-speed memory-to-memory data exchange to a remote CPC by using the Shared Memory Communications over RDMA (SMC-R) protocol for TCP (socket-based) communications.
+
+The RoCE Express3 features also can provide local area network (LAN) connectivity for Linux on IBM Z, and comply with IEEE standards. In addition, RoCE Express features assume several functions of the TCP/IP stack that normally are performed by the PU, which allows significant performance benefits by offloading processing from the operating system.
+
+- /SM590000 Concurrent I/O upgrade
+
+You can concurrently add I/O features to IBM z16 servers if unused I/O slot positions are available.
+
+- /SM590000 Concurrent PCIe+ I/O drawer upgrade
+
+More PCIe+ I/O drawers can be installed concurrently if free frame slots for the PCIe+ I/O drawers and PCIe fan-outs in the CPC drawer are available.
+
+- /SM590000 Dynamic I/O configuration
+

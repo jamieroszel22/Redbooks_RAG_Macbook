@@ -1,0 +1,4 @@
+g Facility (CFCC) dispatcher to provide CF work management efficiency and processor scalability improvements, and improve the 'fairness' of arbitration for internal CF resource latches across tasks.
+
+The tasks that are waiting for CF latches are not placed on the global suspend queue at all; instead, they are placed on latch-specific waiter queues for the exact instance of the latch they are requesting, and in the exact order in which they requested the latch. As a result, the global suspend queue is much less heavily used, and thus is much less a source of global contention or cache misses in the CF.
+

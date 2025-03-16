@@ -1,0 +1,12 @@
+set 0.
+
+See Table 7-6 on page 257 and Table 7-7 on page 258 for list of supported operating systems. For more information, see 'IPL from an alternative subchannel set' on page 295.
+
+32 K subchannels
+
+To help facilitate growth and continue to enable server consolidation, the IBM z16 supports up to 32 K subchannels per FICON Express32S, FICON Express16SA, and FICON Express16S+ channels (CHPID). More devices can be defined per FICON channel, which includes primary, secondary, and alias devices. The maximum number of subchannels across all device types that are addressable within an LPAR remains at 63.75 K for subchannel set 0 and 64 K (64 X 1024)-1 for subchannel sets 1, 2, and 3.
+
+This support is available to the IBM z16, IBM z15, z14, IBM z13, and IBM z13s servers and applies to the FICON Express32S, FICON Express16SA, and FICON Express16S+ features (defined as CHPID type FC).
+
+The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+

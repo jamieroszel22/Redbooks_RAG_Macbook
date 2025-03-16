@@ -1,0 +1,11 @@
+awer is plugged with CFG number 34, then the max memory configuration for that CPC drawer is 34
+- /SM590000 If a CPC drawer is plugged with CFG number 35, then it's maxed out anyway.
+
+Model Upgrades
+
+During a model upgrade, adding a CPC drawer is a concurrent operation 4 . Adding physical memory to the added drawer is also concurrent. If all or part of the added memory is enabled for use, it might become available to an active LPAR if the partition includes defined reserved storage. (For more information, see 3.7.3, 'Reserved storage' on page 126.) Alternatively, the added memory can be used by a defined LPAR that is activated after the memory is added.
+
+Note: Memory downgrades within an IBM z16 are not supported. Feature downgrades (removal of a CPC quantity feature) are not supported.
+
+2.5.5  Drawer replacement and memory
+

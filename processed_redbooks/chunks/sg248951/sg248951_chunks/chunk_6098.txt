@@ -1,0 +1,29 @@
+ systems during encryption operations. For more information, see 6.4.2, 'CPACF protected key' on page 222.
+
+The CPACF feature provides hardware acceleration for the following cryptographic services:
+
+- /SM590000 Symmetric ciphers:
+- -DES
+- -Triple-DES
+- -AES-128
+- -AES-192
+- -AES-256 (all for clear and protected keys)
+- /SM590000 Elliptic curves cryptography (ECC):
+- -ECDSA, ECDH, support for the NIST P256, NIST P386, NIST P521
+- -EdDSA for Ed25519, Ed448 Curves
+- -ECDH for X25519, X448 Curves
+- -Key generation for NIST, Ed, and X curves
+- /SM590000 Hashes/MACs:
+- -SHA-1
+- -SHA-224 (SHA-2 or SHA-3 standard)
+- -SHA-256 (SHA-2 or SHA-3 standard)
+- -SHA-384 (SHA-2 or SHA-3 standard)
+- -SHA-512 (SHA-2 or SHA-3 standard)
+- -SHAKE-128
+- -SHAKE-256
+- -GHASH
+- /SM590000 Random number generator:
+- -PRNG (3DES based)
+- -DRNG (NIST SP-800-90A SHA-512 based)
+- -TRNG (true random number generator
+

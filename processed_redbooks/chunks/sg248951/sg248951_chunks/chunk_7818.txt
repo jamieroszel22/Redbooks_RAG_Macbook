@@ -1,0 +1,19 @@
+ACF supports the following features in IBM z16:
+
+- /SM590000 Processor Activity Instrumentation to count cryptographic operations
+- /SM590000 Advanced Encryption Standard (AES, symmetric encryption)
+
+- /SM590000 Data Encryption Standard (DES, symmetric encryption)
+- /SM590000 Secure Hash Algorithm (SHA, hashing)
+- /SM590000 SHAKE Algorithms
+- /SM590000 True Random Number Generation (TRNG)
+- /SM590000 Improved GCM (Galois Counter Mode) encryption (enabled by a single hardware instruction)
+
+In addition, the IBM z16 and IBM z15 cores implement a Modulo Arithmetic unit in support of Elliptic Curve Cryptography.
+
+CPACF is used by several IBM software product offerings for z/OS, such as IBM WebSphere Application Server for z/OS. For more information, see 6.4, 'CP Assist for Cryptographic Functions' on page 219.
+
+The supported operating systems are listed in Table 7-10 on page 263 and Table 7-11 on page 264.
+
+Crypto Express8S (new on IBM z16)
+

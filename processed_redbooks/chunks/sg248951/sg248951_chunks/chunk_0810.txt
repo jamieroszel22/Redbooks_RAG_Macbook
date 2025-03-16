@@ -1,0 +1,13 @@
+6 is for top exit cabling and power, a bottom seal plate is installed.
+- /SM590000 FC 5827 provides the MPO mounting brackets that cable harnesses connect to in the top and or bottom exit tailgates.
+
+Note: Overhead I/O cabling is contained within the frames. Extension 'chimneys' that were featured with systems before IBM z15 systems are no longer used.
+
+A view of the top rear of the frame and the openings for top exit cables and power is shown in Figure 2-4. When FC 7898 is installed, the plated adjustable shields are removed, and the top exit enclosure is installed.
+
+<!-- missing-text -->
+
+Care must be taken when ordering the Feature Codes (see Table 2-3) for cables that are entering the frames from above the floor, below the floor, or both, and if the Top Exit feature is wanted, which provides Top Hat.
+
+<!-- missing-text -->
+

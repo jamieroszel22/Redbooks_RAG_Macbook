@@ -1,0 +1,6 @@
+tures, Driver 51/Version 2.16.0 must be installed to support IBM z16. Also, Driver 51/Version 2.16.0 can be installed on the SE/HMC hardware that is provided with the HMA feature FC 0100 on IBM z15.
+
+You can use the IBM z16 with carry forward HMCs and no initial order of FC 0129 (HMA for IBM z16). Order of the HMA FC 0129 is possible later as MES.
+
+With IBM z16, the HMA feature shares the integrated 1U server hardware (installed on top of rack A with) the SE code. The SE code runs virtualized under the HMC on each of the two integrated 1U rack-mounted servers. One SE is the Primary SE (active) and the other is the Alternative SE (backup). As with the HMCs, the SEs are closed systems (appliances), and no other applications can be installed on the same hardware.
+

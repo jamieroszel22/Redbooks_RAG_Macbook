@@ -1,0 +1,6 @@
+en to Driver level N +2, must be done serially. No composite moves are allowed.
+- /SM590000 Disruptive upgrades are permitted at any time, and allow for a composite upgrade (Driver N to Driver N +2).
+- /SM590000 Concurrently backing up to the previous driver level is not possible. The driver level must move forward to driver level N +1 after CDM is started. Unrecoverable errors during an update might require a scheduled outage to recover.
+
+The CDM function does not eliminate the need for planned outages for driver-level upgrades. Upgrades might require a system level or a functional element scheduled outage to activate the new LIC. The following circumstances require a scheduled outage:
+

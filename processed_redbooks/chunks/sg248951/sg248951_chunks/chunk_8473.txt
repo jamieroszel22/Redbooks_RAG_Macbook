@@ -1,0 +1,16 @@
+ade is active.
+
+Repair capability during On/Off CoD
+
+If the IBM z16 requires service while an On/Off CoD upgrade is active, the repair can occur without affecting the temporary capacity.
+
+Monitoring
+
+When you activate an On/Off CoD upgrade, an indicator is set in vital product data. This indicator is part of the call-home data transmission, which is sent on a scheduled basis. A timestamp is placed into the call-home data when the facility is deactivated. At the end of each calendar month, the data is used to generate an invoice for the On/Off CoD that was used during that month.
+
+Maintenance
+
+The maintenance price is adjusted as a result of an On/Off CoD activation.
+
+Software
+

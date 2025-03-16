@@ -1,0 +1,8 @@
+E is the Primary SE (active) and the other is the Alternative SE (backup). As with the HMCs, the SEs are closed systems (appliances), and no other applications can be installed on the same hardware.
+
+The HMC is used to set up, manage, monitor, and operate one or more IBM Z CPCs. It manages IBM Z hardware and its logical partitions (LPARs), and provides support applications. At least one HMC is required to operate an IBM Z. An HMC can manage multiple IBM Z CPCs.
+
+When tasks are performed at the HMC, the commands are routed to the Primary SE of the IBM z16. The SE then issues those commands to their CPC.
+
+Note: The new Driver level for HMC and SE for IBM z16 is Driver 51. Driver 51 is equivalent to Version 2.16.0.
+

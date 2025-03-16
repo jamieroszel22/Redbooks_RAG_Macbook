@@ -1,0 +1,12 @@
+p of logical partitions that are running z/OS. Only the 4-hour rolling average use of the LPAR group is tracked, which allows use peaks above the group capacity value.
+
+- /SM590000 Sysplex licensing
+
+Sysplex licensing allows monthly software licenses to be aggregated across a qualified Parallel Sysplex. To be eligible for Sysplex pricing aggregation, the customer environment must meet hardware, software, operation, and verification criteria to be considered 'actively coupled'. For more information about Sysplex licensing, see this web page.
+
+- /SM590000 Taylor Fit Software Consumption
+
+Taylor Fit Software Consumption Solution is a cloud-like, usage-based licensing model. Usage is measured based on MSUs that are used, which removes the need for manual or automated capping. It also allows customers to configure their systems to support optimal response times and service level agreements.
+
+Tailored Fit Pricing (TFP) requires z/OS V2.R2, or later, with the applicable PTFs applied.
+

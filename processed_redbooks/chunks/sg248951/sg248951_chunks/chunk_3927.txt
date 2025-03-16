@@ -1,0 +1,10 @@
+ant for the CF to understand which of the duplexed pair of requests operates as the 'master' versus 'slave' from a latching perspective, which requires more SM duplexing setup information from z/OS.
+
+z/OS XCF/XES toleration APAR support is required to provide this enhancement.
+
+- /SM590000 Message Path SYID Resiliency Enhancement
+
+When a z/OS system IPLs, message paths are supposed to be deactivated by using system reset, and their SYIDs are supposed to be cleared in the process. During the IPL, z/OS then reactivates the message paths with a new SYID that represents the new instance of z/OS that uses the paths.
+
+On rare occasions, a message path might not be deactivated during system reset or IPL processing, which leaves the message path active with the z/OS image's OLD, now-obsolete SYID. Because the path erroneously remained active, z/OS does not see any need to reactivate it with a new, correct SYID.
+

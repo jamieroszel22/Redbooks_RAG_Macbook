@@ -1,0 +1,14 @@
+ed by FC 9930 and FC 6802 cannot be used for process recovery boosts.
+
+Automation
+
+The client's automation product can be used to automate and control the following System Recovery Boost activities:
+
+- /SM590000 To activate and deactivate the eBod temporary capacity record to provide more physical zIIPs for an IPL or Shutdown Boost.
+- /SM590000 To dynamically modify LPAR weights, as might be needed to modify sharing physical zIIP capacity during a Boost period.
+- /SM590000 To drive the invocation of the PROC that indicates the beginning of a shutdown process (and the start of the shut-down Boost).
+- /SM590000 To take advantage of new composite hardware API reconfiguration actions.
+- /SM590000 To control the level of parallelism that is present in the workload at startup (for example, starting middleware regions) and shutdown (for example, performing an orderly shutdown of middleware).
+
+Simultaneous multithreading
+

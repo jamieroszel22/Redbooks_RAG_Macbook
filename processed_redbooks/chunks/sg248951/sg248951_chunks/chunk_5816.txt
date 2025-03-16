@@ -1,0 +1,12 @@
+-path identifier (CHPID), which ranges 00 - FF. Therefore, a total of 256 CHPIDs are supported by a CSS, and a maximum of 1536 CHPIDs are available on an IBM z16 with six logical channel subsystems.
+
+By assigning a CHPID to a physical port of an I/O feature adapter, such as FICON Express32S, or a fan-out adapter (ICA SR) port, the channel subsystem connects to the I/O devices through these physical ports.
+
+A port on an I/O feature card features a unique physical channel identifier (PCHID) according to the physical location of this I/O feature adapter, and the sequence of this port on the adapter.
+
+In addition, a port on a fan-out adapter has a unique adapter identifier (AID), according to the physical location of this fan-out adapter, and the sequence of this port on the adapter.
+
+A CHPID is assigned to a physical port by defining the corresponding PCHID or AID in the I/O configuration definitions.
+
+Control units
+

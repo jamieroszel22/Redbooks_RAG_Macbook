@@ -1,0 +1,18 @@
+fer.
+
+<!-- missing-text -->
+
+System A transferred all of its Flexible Capacity to System B and is left with only the base capacity of 401. On top of the base capacity sits the TFP-Hardware capacity.
+
+Now, System A can safely perform maintenance.
+
+System B has now the entire Flexible Capacity record activated and shows an active capacity of 720. The TFP-Hardware capacity sits again on top of the active capacity and adds now another 2 CPs to the 720.
+
+This shows that the presence or activation of TFP-Hardware does not impact the amount of capacity that can be activated by a Flexible Capacity Transfer record.
+
+The TFP-Hardware capacity always 'floats on top' of any other activated capacity for TFP-Hardware usage charging. Therefore, no double charging can occur.
+
+Ordering and installing IBM Z Flexible Capacity for Cyber Resilience
+
+To facilitate ordering Flex Capacity, the following Capacity on-Demand feature codes (FC) were introduced:
+

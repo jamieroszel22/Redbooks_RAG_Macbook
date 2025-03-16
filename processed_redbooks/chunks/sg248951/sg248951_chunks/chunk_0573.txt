@@ -1,0 +1,16 @@
+Gen3 dual port fan-out features in the CPC drawers. The I/O infrastructure is designed to reduce processor usage and I/O latency, and provide increased throughput and availability.
+
+PCIe+ I/O drawer
+
+Together with the PCIe features, the PCIe+ I/O drawer offers finer granularity and capacity over previous I/O infrastructures. It can be concurrently added and removed in the field, which eases planning. Only PCIe cards (features) are supported, in any combination.
+
+1.2.4  Storage connectivity
+
+Storage connectivity is provided on the IBM z16 by FICON Express and the IBM zHyperLink Express features.
+
+FICON Express
+
+FICON Express features follow the established Fibre Channel (FC) standards to support data storage and access requirements, along with the latest FC technology in storage and access devices. FICON Express features support the following protocols:
+
+- /SM590000 FICON
+

@@ -1,0 +1,7 @@
+ V8 or later workloads can run in Service Request Block (SRB) mode:
+
+- /SM590000 Query processing of network-connected applications that access the Db2 database over a TCP/IP connection by using IBM Distributed Relational Database Architecture (DRDA).
+- DRDA enables relational data to be distributed among multiple systems. It is native to Db2 for z/OS, which reduces the need for more gateway products that can affect performance and availability. The application uses the DRDA requester or server to access a remote database. IBM Db2 Connect is an example of a DRDA application requester.
+- /SM590000 Star schema query processing, which is mostly used in business intelligence work.
+- A star schema is a relational database schema for representing multidimensional data. It stores data in a central fact table and is surrounded by more dimension tables that hold information about each perspective of the data. For example, a star schema query joins various dimensions of a star schema data set.
+

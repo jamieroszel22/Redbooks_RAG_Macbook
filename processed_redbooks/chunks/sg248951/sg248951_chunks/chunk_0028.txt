@@ -1,0 +1,24 @@
+ome=&amp;gid=2130806
+
+- /SM590000 Explore new Redbooks publications, residencies, and workshops with the IBM Redbooks weekly newsletter:
+
+https://www.redbooks.ibm.com/Redbooks.nsf/subscribe?OpenForm
+
+- /SM590000 Stay current on recent Redbooks publications with RSS Feeds:
+
+http://www.redbooks.ibm.com/rss.html
+
+<!-- missing-text -->
+
+Chapter 1.
+
+1
+
+Introducing the IBM z16
+
+The IBM Z platform is recognized for its long-standing commitment to delivering best-in-industry security, resiliency, performance, and scalability. IBM Z is relied on for mission-critical workloads and as an essential element of hybrid cloud infrastructures.
+
+The new member of the IBM Z family, IBM z16, continues that commitment and adds value with innovative technologies that can help accelerate the digital transformation journey.
+
+The IBM z16 is the first IBM Z system that is built with the IBM Telum processor 1 . It is designed to help businesses meet the following goals:
+

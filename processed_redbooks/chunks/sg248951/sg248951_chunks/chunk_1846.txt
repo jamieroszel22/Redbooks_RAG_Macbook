@@ -1,0 +1,2 @@
+ch I/O slot reserves four PCHIDs.
+

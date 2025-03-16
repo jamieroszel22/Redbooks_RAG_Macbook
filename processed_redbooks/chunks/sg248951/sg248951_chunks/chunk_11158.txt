@@ -1,0 +1,12 @@
+ns that can be tailored for business demands, which helps to balance costs while deriving even more value from hybrid cloud.
+
+IBM's Tailored Fit Pricing model can address the following key concerns:
+
+- /SM590000 Complexity of subcapacity pricing model that lead to IBM Z being managed as a cost center
+- /SM590000 Difficulty in establishing the cost of new workload deployment and the effect on cost of existing workloads
+- /SM590000 Investment in tools and resources to manage subcapacity that can inflate costs
+- /SM590000 Lack of development and test resources
+- /SM590000 Purchasing hardware for peak capacity to handle short term spikes
+
+The software and hardware pricing models provide customers an opportunity to grow and more fully use their IBM Z investment for new opportunities.
+

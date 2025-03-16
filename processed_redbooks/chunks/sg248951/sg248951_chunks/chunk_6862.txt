@@ -1,0 +1,12 @@
+ch ICSF instance sees a logical cryptographic coprocessor that consists of the physical cryptographic engine and the unique set of registers (the domain) that is allocated to this logical partition.
+
+The installation of CP Assist for Cryptographic Functions (CPACF) DES/TDES enablement (FC 3863) is required to use the Crypto Express7S feature.
+
+Each Crypto Express8S FC 0908 includes two IBM 4770 PCIe Cryptographic Coprocessors (PCIeCC), which is a hardware security module (HSM); FC 0909 includes one IBM 4770 PCIeCC. The adapters are available in the following configurations:
+
+- /SM590000 IBM Enterprise Common Cryptographic Architecture (CCA) Coprocessor (CEX8C)
+- /SM590000 IBM Enterprise Public Key Cryptography Standards #11 (PKCS) Coprocessor (CEX8P)
+- /SM590000 IBM Crypto Express7S Accelerator (CEX8A)
+
+During the feature installation, the PCI-X adapter is configured by default as the CCA coprocessor.
+

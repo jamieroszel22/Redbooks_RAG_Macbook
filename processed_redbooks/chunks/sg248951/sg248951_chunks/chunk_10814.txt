@@ -1,0 +1,8 @@
+ Crypto Express8/7/6S in EP11 mode is configured to the standby state after the Zeroize process.
+
+For more information, see IBM z16 (3931) Configuration Setup , SG24-8960.
+
+Digitally signed firmware
+
+Security and data integrity are critical issues with firmware upgrades. Procedures are in place to use a process to digitally sign the firmware update files that are sent to the HMC, SE, and TKE. By using a hash algorithm, a message digest is generated that is then encrypted with a private key to produce a digital signature.
+

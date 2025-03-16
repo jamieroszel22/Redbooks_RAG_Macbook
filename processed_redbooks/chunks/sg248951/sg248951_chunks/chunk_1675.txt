@@ -1,0 +1,6 @@
+
+- /SM590000 Fixed-point unit (FXU): The FXU handles fixed-point arithmetic.
+- /SM590000 Load-store unit (LSU): The LSU contains the data cache. It is responsible for handling all types of operand accesses of all lengths, modes, and formats as defined in the z/Architecture.
+- /SM590000 Instruction fetch and branch (IFB) (prediction) and Instruction cache and merge (ICM). These two sub units (IFB and ICM) contain the instruction cache, branch prediction logic, instruction fetching controls, and buffers. Its relative size is the result of the elaborate branch prediction.
+- /SM590000 L1D and L1I are incorporated into the LSU and ICM, respectively.
+- /SM590000 Instruction decode unit (IDU): The IDU is fed from the IFU buffers and is responsible for parsing and decoding of all z/Architecture operation codes.

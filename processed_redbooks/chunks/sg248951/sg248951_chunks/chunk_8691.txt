@@ -1,0 +1,12 @@
+or ordering System Recovery Boost Upgrade (FC 6802).
+
+- /SM590000 FC 9930: Boost Authorization contract
+
+This code enables the ordering of On/Off CoD for System Recovery Boost through Resource Link.
+
+Important: The System Recovery Boost Upgrade record is for System Recovery Boost capacity only. It cannot be used for peak workload management. The customer must deactivate the boost capacity at the end of the system boost procedure. The zIIP capacity that is provided in the SRB Record is for LPAR shutdown and startup (IPL and Catchup) and is not available for process boost events.
+
+The zIIP processors that can be activated by System Recovery Boost record come from the 'dark core' capacity on the server. They can be added to an IBM z16 nondisruptively.
+
+The base system configuration must have sufficient memory and channels to accommodate the potential requirements of the larger capacity system.
+

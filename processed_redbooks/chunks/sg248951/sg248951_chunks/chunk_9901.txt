@@ -1,0 +1,18 @@
+0 Single processor core checkstop and sparing.
+
+This indicator shows that a processor core malfunctioned and is spared . IBM determines what to do based on the system and the history of that system.
+
+- /SM590000 Point-to-point fabric for symmetric multiprocessing (SMP) RAS design
+- -The A-bus is the logical bus and it is split over 2 SMP9 cables:
+- GLYPH&lt;129&gt; 11 bits per A-Bus
+- GLYPH&lt;129&gt; One SMP9 cable has six bits and the other has five bits.
+- -CRC detection and replay
+- -RAS lane Degrade and Call Home Strategy design
+- -Concurrent repair of the SMP9 cable.
+
+Having fewer components that can fail is an advantage. In a multi-drawer system, all of the drawers are connected by point-to-point connections. A drawer can always be added concurrently.
+
+- /SM590000 Air-cooled system: radiator with redundant ( N +1) pumps.
+
+IBM z16 implements true N +1 redundancy on pumps and blowers for the radiator.
+

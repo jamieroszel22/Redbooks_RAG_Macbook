@@ -1,0 +1,12 @@
+ monitor enables an email to be sent to interested users.
+
+An example of the settings for Event Monitor Summary can be see on Figure 10-30.
+
+<!-- missing-text -->
+
+10.5.7  Capacity on-demand support
+
+All capacity on demand (CoD) upgrades are performed by using the Perform a Model Conversion task on the HMC or SE. Use the task to retrieve and activate a permanent upgrade, and to retrieve, install, activate, and deactivate a temporary upgrade. The task shows a list of all installed or staged LICCC records to help you manage them. It also shows a history of recorded activities.
+
+The HMC for IBM z16 features the following CoD capabilities:
+

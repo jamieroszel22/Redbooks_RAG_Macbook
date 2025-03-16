@@ -1,0 +1,14 @@
+crements depending on the number of features that is ordered. No PCHID number affinity is available to a fixed PCIe+ I/O drawer location as with previous systems.
+
+2.1.1  IBM z16 cover (door) design
+
+The standard cover set for IBM z16 model A01 is shown in Figure 2-3.
+
+<!-- missing-text -->
+
+2.1.2  Top and bottom exit I/O and cabling
+
+For the IBM z16 Model A01 server, the top exit of all cables for I/O or power is always an option with no feature codes required. Adjustable cover plates are available for the openings at the top rear of each frame.
+
+All external I/O cabling enters the system at the rear of the frames for all adapters, management LAN, and power connections.
+

@@ -1,0 +1,22 @@
+ software can use zIIP processors, such as the following examples:
+
+- /SM590000 IBM z/OS Container Extensions (zCX)
+- /SM590000 IBM z/OS CIM monitoring
+- /SM590000 IBM z/OS Management Facility (z/OSMF)
+- /SM590000 System Display and Search Facility (SDSF)
+- /SM590000 IBM z/OS Connect EE components
+- /SM590000 IBM Sterling™ Connect:Directfi
+- /SM590000 IBM Z System Automation:
+- /SM590000 Java components of IBM Z SMS and SAS
+- /SM590000 IBM Z NetView RESTful API server
+- /SM590000 IBM Z Workload Scheduler &amp; Dynamic Workload Console (under WebSphere Liberty)
+- /SM590000 IMS workloads (DRDA, SOAP, MSC, ISC)
+- /SM590000 Db2 for z/OS Data Gate
+- /SM590000 Db2 Sort for z/OS
+- /SM590000 Db2 Analytics Accelerator Loader for z/OS
+- /SM590000 Db2 Utilities Suite for z/OS
+- /SM590000 Db2 Log Analysis Tool for z/OS
+- /SM590000 Data Virtualization Manager for z/OS (DVM)
+- /SM590000 IzODA (Apache Spark workloads)
+- /SM590000 Watson Machine Learning for z/OS (WMLz) for Mleap and Spark workloads
+

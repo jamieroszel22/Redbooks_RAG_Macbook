@@ -1,0 +1,11 @@
+chnology branch prediction.
+
+Branch prediction is now implemented as a two level BTB, BTB1 ('small' and 'fast'), and BTB2 (large, dense-SRAM). Now, BTB1 and BTB2 feature dynamic (variable) capacity:
+
+- /SM590000 BTB1: First Level Branch Target Buffer, smaller than IBM z15, dynamic director, variable capacity:
+- -Minimum total branches in all parents (all large branches) = 8 K
+- -Maximum total branches in all parents (all medium branches) = 12 K
+- /SM590000 BTB2: Second Level Branch Target Buffer, also variable capacity (variable directory), up to 260 k branches
+
+Branch prediction also implements auxiliary predictors for:
+

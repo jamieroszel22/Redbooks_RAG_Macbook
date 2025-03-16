@@ -1,0 +1,12 @@
+bage-collection processing by various languages, in particular Java.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+Instruction Execution Protection
+
+Instruction Execution Protection (IEP) is a hardware function that enables software, such as Language Environment, to mark specific memory regions (for example, a heap or stack), as nonexecutable to improve the security of programs that are running on IBM Z servers against stack-overflow or similar attacks.
+
+Through enhanced hardware features (based on DAT table entry bit) and specific software requests to obtain memory areas as nonexecutable, areas of memory can be protected from unauthorized execution. A Protection Exception occurs if an attempt is made to fetch an instruction from an address in such an element or if an address in such an element is the target of an execute-type instruction.
+
+z/OS
+

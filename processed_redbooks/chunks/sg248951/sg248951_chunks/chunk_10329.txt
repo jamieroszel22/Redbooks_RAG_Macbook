@@ -1,0 +1,12 @@
+Alternative Path I/O
+
+Only the tabs that feature conditions that prevent the drawer from being removed are displayed. Each tab indicates the specific conditions and possible options to correct them.
+
+For example, the preparation identifies single I/O paths that are associated with the removal of the selected drawer. These paths must be varied offline to perform the drawer removal. After you address the condition, rerun the preparation step to ensure that all the required conditions are met.
+
+Preparing the system to perform enhanced drawer availability
+
+During the preparation, the system determines the PU configuration that is required to remove the drawer. The results and the option to change the assignment on nondedicated processors are shown in Figure 9-9.
+
+<!-- missing-text -->
+

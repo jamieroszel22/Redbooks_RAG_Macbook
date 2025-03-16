@@ -1,0 +1,4 @@
+me of this writing, z/VM V7.3 is planned for third quarter 2022 availability.
+
+z/VM Compatibility Support enables guest use for several new facilities:
+

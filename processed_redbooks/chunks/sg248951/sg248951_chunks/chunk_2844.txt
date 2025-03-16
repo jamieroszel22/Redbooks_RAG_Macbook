@@ -1,0 +1,10 @@
+They incorporate IEEE standards into the system.
+
+The IBM z16 core implements two other execution subunits for 2x throughput on BFP (single/double precision) operations (see Figure 3-11 on page 83).
+
+The key point is that Java and C/C++ applications tend to use IEEE BFP operations more frequently than earlier applications. Therefore, the better the hardware implementation of this set of instructions, the better the performance of applications.
+
+3.4.9  Processor error detection and recovery
+
+The PU uses a process called transient recovery as an error recovery mechanism. When an error is detected, the instruction unit tries the instruction the instruction again, and attempts to recover the error. If the second attempt is unsuccessful (that is, a permanent fault exists), a relocation process is started that restores the full capacity by moving work to another PU.
+

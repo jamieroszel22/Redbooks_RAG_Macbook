@@ -1,0 +1,10 @@
+t system.
+
+Under 'Tasks' at the bottom right click the Configuration (+) sign. Next, click 'View Partition Resource Assignments'. The panel shown in Figure 12-11 will display:
+
+<!-- missing-text -->
+
+Use the Partition Resource Assignments to view processor allocations to partitions in your system. The active logical partitions are identified at the top of the table. The Node and Chip numbers associated with each active logical partition are identified on the left. You can view the Node and Chips assignments using the Expand All and Collapse All options under the 'Actions' pull down view or hide sections.
+
+To view the resource assignments for partitions:
+

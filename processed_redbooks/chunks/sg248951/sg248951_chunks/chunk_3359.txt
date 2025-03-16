@@ -1,0 +1,12 @@
+channel subsystem to run I/O operations. In IBM z16 systems, the number of SAPs plus the number of optional SAPs cannot exceed firmware limit of 128 threads.
+
+Optional other orderable SAPs (FC 1963)
+
+The option to order more SAPs is available on all models (FC 1963). These extra SAPs increase the capacity of the channel subsystem to run I/O operations, which is suggested for TPF environments. The maximum number of optional extra orderable SAPs depends on the configuration and the number of available uncharacterized PUs. The number of SAPs is listed in Table 3-5.
+
+<!-- missing-text -->
+
+3.5.7  Reserved processors
+
+Reserved processors are defined by PR/SM to allow for a nondisruptive capacity upgrade. Reserved processors are similar to spare logical processors and can be shared or dedicated. Reserved CPs can be defined to an LPAR dynamically to allow for nondisruptive image upgrades.
+

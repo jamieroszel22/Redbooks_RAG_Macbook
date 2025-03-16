@@ -1,0 +1,12 @@
+are not supported on On/Off CoD.
+
+An individual record can be activated only once. Subsequent sessions require a new order to be generated, which produces a new LICCC record for that specific order.
+
+Alternatively, you can use an auto-renewal feature to eliminate the need for a manual replenishment of the On/Off CoD order. This feature is implemented in IBM Resource Link, and you must also select this feature in the machine profile, as shown in Figure 8-10.
+
+<!-- missing-text -->
+
+8.6.4  On/Off CoD testing
+
+Each On/Off CoD-enabled system is entitled to one no-charge 24-hour test. No IBM charges are assessed for the test, including charges that are associated with temporary hardware capacity, IBM software, and IBM maintenance. The test can be used to validate the processes to download, stage, install, activate, and deactivate On/Off CoD capacity.
+

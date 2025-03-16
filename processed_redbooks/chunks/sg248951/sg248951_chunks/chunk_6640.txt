@@ -1,0 +1,20 @@
+peeds compared to the coprocessor.
+
+The translation to protected key happens automatically after the attribute is set in the key token. No application change is required.
+
+- /SM590000 New signatures
+
+Support for the Cryptographic Suite for Algebraic Lattices signatures algorithm with the largest key sizes (MODE=3):
+
+- -Public Key size: 1760 bytes
+- -Private Key Size: 3856 bytes
+- -Signature Size: 3366 bytes
+
+Lattice-based cryptographic keys are protected by the 256-bit AES MK. The lattice-based key has a security strength of 128 bits.
+
+- /SM590000 TR-31 for Hash-based Message Authentication Code (HMAC)
+
+HMAC keys are used to verify the integrity and authenticity of a message. This support provides a standard method of exchanging HMAC keys with a partner that uses symmetric key techniques. The key is exchanged in the standard TR-31 key block format, which can be used by any crypto system that supports the standard.
+
+CCA Version 6.3 improvements 6
+

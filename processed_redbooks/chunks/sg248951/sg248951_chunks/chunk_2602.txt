@@ -1,0 +1,2 @@
+llows for a logical and virtual server coexistence and maximizes system utilization and efficiency by sharing hardware resources.
+

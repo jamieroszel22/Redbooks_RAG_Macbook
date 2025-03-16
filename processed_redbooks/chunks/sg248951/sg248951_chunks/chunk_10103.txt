@@ -1,0 +1,16 @@
+gging that is more reliable is included.
+- /SM590000 ICA SR (short distance) coupling cards plug straight in (no blind mating of the connector). Simplified plugging that is more reliable is included.
+- /SM590000 Coupling Express2 LR (CE2 LR) coupling cards plug into the PCIe+ I/O drawer, which allows more connections with a faster bandwidth.
+
+9.7.2  Unscheduled outages
+
+An unscheduled outage occurs because of an unrecoverable malfunction in a hardware component of the system.
+
+The following improvements can minimize unscheduled outages:
+
+- /SM590000 Continued focus on firmware quality
+
+For LIC and hardware design, failures are eliminated through rigorous design rules; design walk-through; peer reviews; element, subsystem, and system simulation; and extensive engineering and manufacturing testing.
+
+- /SM590000 Memory subsystem
+

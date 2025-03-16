@@ -1,0 +1,14 @@
+PAR-to-LPAR traffic, which was not originally available.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Querying and displaying an OSA configuration
+
+OSA-Express3 introduced the capability for the operating system to query and display directly the current OSA configuration information (similar to OSA/SF). z/OS uses this OSA capability by introducing the TCP/IP operator command display OSAINFO . z/VM provides this function with the NETSTAT OSAINFO TCP/IP command.
+
+The use of display OSAINFO (z/OS) or NETSTAT OSAINFO (z/VM) allows the operator to monitor and verify the current OSA configuration and helps improve the overall management, serviceability, and usability of OSA-Express cards.
+
+These commands apply to CHPID type OSD. The supported operating systems are listed in Table 7-8 on page 259.
+
+QDIO data connection isolation for z/VM
+

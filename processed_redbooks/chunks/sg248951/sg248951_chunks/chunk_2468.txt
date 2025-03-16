@@ -1,0 +1,18 @@
+e even-numbered PDUs (A2, B2, C2, and D2) to a separate power source or distribution panel.
+
+The frame count rules (number of frames) for IBM z16 A01 are listed in Table 2-14.
+
+<!-- missing-text -->
+
+The number of CPC drawers and I/O drawers determines the number of racks in the system and the number of PDUs in the system.
+
+The PDU/line cord rules (number of PDU/Cord pairs) for IBM z16 A01 are listed in Table 2-15.
+
+<!-- missing-text -->
+
+2.9.2  Bulk Power Assembly-based configurations
+
+The BPA configuration is the feature that allows customers to have truly redundant power cords with phase loss protection. Characteristics are similar to previous IBM Z, but BPA was redesigned to fit into the 19-inch frame.
+
+No PDUs are installed in this configuration; instead, 1 or 2 pairs of BPAs are installed that house the bulk power distribution to all the components, and the Bulk Power Regulators (BPR).
+

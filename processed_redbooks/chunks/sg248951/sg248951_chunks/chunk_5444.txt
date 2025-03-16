@@ -1,0 +1,14 @@
+ /SM590000 ICA SR (ICA SR and ICA SR1.1) fan-out cards: Two ports per card (feature) that connect to other (external) CPCs.
+
+Note: IBM z16 does not support Parallel Sysplex InfiniBand (PSIFB) links.
+
+Also, if and IBM z16 is part of a Parallel Sysplex or Coordinated Timing Network, InfiniBand links cannot be used on older servers, even if installed.
+
+Unless otherwise noted, ICA SR is used for ICA SR and ICA SR1.1 for the rest of the chapter.
+
+The PCIe fan-outs cards are installed in the rear of the CPC drawers. Each CPC drawer features 12 PCIe+ Gen3 fan-out slots.
+
+The PCIe fan-outs and ICA SR fan-outs are installed in locations LG01 - LG12 at the rear in the CPC drawers (see Figure 2-8 on page 25).
+
+On the CPC drawer, two BMC/OSC cards are available, each being a combination of a Base Management (BMC) card and an Oscillator Card (OSC) card. Each BMC/OSC card features one PPS port and one ETS port (RJ45 Ethernet) for both PTP and NTP.
+

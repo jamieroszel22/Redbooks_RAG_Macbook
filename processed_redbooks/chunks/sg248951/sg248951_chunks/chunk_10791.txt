@@ -1,0 +1,10 @@
+the automatic switch over function from CPC1 to CPC2 for STP. After the function is enabled, the power subsystem (BPA and iPDU) detects any power source loss (at the power cord or power side level).
+
+This detection generates a signal from CPC1 to CPC2 in the same way as done for systems with IBF. The generation of this signal can take up to 30 seconds, depending on conditions.
+
+If within 30 seconds CPC2 does not receive a signal that power is back to fully redundant on CPC1, CPC2 takes over as CTS. After normal power is restored to CPC1, CPC1 can automatically return to the CTS role.
+
+Enhanced Console Assisted Recovery
+
+Enhanced Console Assisted Recovery (ECAR) speeds up the process of BTS takeover by performing the following steps:
+

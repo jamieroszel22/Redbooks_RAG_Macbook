@@ -1,0 +1,8 @@
+ractive view of the compliance posture and details around the severity of control deviations from regulations, such as PCI-DSS v3.2.1, NIST SP800-53, and CIS Benchmarks.
+
+z/OS support for compliance
+
+z/OS was enhanced to enable the collection of compliance data from IBM z16 CPACF counters and several z/OS products and components.
+
+A new z/OSMF Compliance fact collection REST API sends an ENF86 signal to all systems. Participating products and components collect and write compliance data to new SMF 1154 records that are associated with its unique subtype. These new SMF 1154 records can be integrated into solutions, such as the IBM z16 IBM Z Security and Compliance Center.
+

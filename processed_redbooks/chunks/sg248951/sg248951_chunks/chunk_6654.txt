@@ -1,0 +1,14 @@
+array keyword is used with the PKA Key Translate callable service, the service TDES encrypts those components in CBC or ECB mode. In addition, AES CMAC support is delivered.
+
+Verb Algorithm Currency
+
+Verb Algorithm Currency is a collection of CCA verb enhancements that are related to customer requirements, with the intent of maintaining currency with cryptographic algorithms and standards. It is also intended for customers who want to maintain the following latest cryptographic capabilities:
+
+- /SM590000 Secure key support AES GCM encryption
+- /SM590000 Key Check Value (KCV) algorithm for service CSNBKYT2 Key Test 2
+- /SM590000 Key derivation options for CSNDEDH EC Diffie-Hellman service
+
+6.5.3  Crypto Express8S as an EP11 coprocessor
+
+A Crypto Express8S adapter that is configured in Secure IBM Enterprise PKCS #11 (EP11) coprocessor mode provides PKCS #11 secure key support for public sector requirements. Before EP11, the ICSF PKCS #11 implementation supported only clear keys.
+

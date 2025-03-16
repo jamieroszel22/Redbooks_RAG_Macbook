@@ -1,0 +1,18 @@
+e required to use the capabilities of the IBM z16. They must be installed only if you use the function.
+- /SM590000 Recommended service is identified by:
+- IBM.Device.Server.-3931.RecommendedService
+
+Fixes that are recommended to run z/OS on the IBM z16. These fixes also are listed in the Recommended Service section of the hardware PSP bucket. They represent fixes that were recommended by IBM Service. It is recommended that you review and install these PTFs.
+
+For more information about supported functions and their minimum required support levels, see 7.3, 'IBM z16 features and function support overview' on page 252.
+
+7.2.1  z/OS
+
+7.2.2  z/VM
+
+IBM z16 support is provided with PTFs for z/VM 7.1 and 7.2 including PTFs for IOCP, HCD, and HLASM. IBM z16 support will be included in the z/VM 7.3 2  base.
+
+Note: At the time of this writing, z/VM V7.3 is planned for third quarter 2022 availability.
+
+z/VM Compatibility Support enables guest use for several new facilities:
+

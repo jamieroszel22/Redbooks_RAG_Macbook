@@ -1,0 +1,22 @@
+is shown in Figure 11-2.
+
+<!-- missing-text -->
+
+The number of power cords that are required based on the number of CPC drawers and PCIe+ I/O drawers are listed in Table 11-7.
+
+<!-- missing-text -->
+
+The number of power cords and number of Bulk Power Regulators that are required are based on the number of CPC processor drawers and number of PCIe+ I/O drawers in the configuration is shown in Table 11-8.
+
+<!-- missing-text -->
+
+Note: Balanced power feature includes all BPRs that are plugged in all BPAs in the system.
+
+Power consumption
+
+The utility power consumption for the IBM z16 for the BPA system is listed in Table 11-9.
+
+<!-- missing-text -->
+
+Note: Consider the following points:
+

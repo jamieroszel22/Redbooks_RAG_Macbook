@@ -1,0 +1,8 @@
+ne of a PCIe link, which is full-duplex. Multiple lanes can be aggregated into a larger link width. PCIe supports link widths of 1, 2, 4, 8, 12, 16, and 32 lanes (x1, x2, x4, x8, x12, x16, and x32).
+
+The data transmission rate of a PCIe link is determined by the link width (numbers of lanes), the signaling rate of each lane, and the signal encoding rule. The signaling rate of one PCIe Generation 3 lane is eight gigatransfers per second (GTps), which means that nearly 8 gigabits are transmitted per second (Gbps).
+
+Note: I/O infrastructure for IBM z16, as for IBM z15, is implemented as PCIe Generation 3. The PU chip PCIe interface is PCIe Generation 4 (x16 @32 GBps), but the CPC I/O fan-out infrastructure provides external connectivity as PCIe Generation 3 @16GBps
+
+A PCIe Gen3 x16 link features the following data transmission rates:
+

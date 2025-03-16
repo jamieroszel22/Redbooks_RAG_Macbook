@@ -1,0 +1,16 @@
+39.
+
+The feature codes and purpose of the cryptographic hardware features that are available for IBM z16 are listed in Table 6-1.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. The maximum number of combined features of all types cannot exceed 60 HSMs on an IBM z16 A01 (any combination of single and dual HSM Crypto Express features). Therefore, the maximum number for Feature Code 0908 is 30; for all other (single HSM) types, it is 16 for an IBM z16 system.
+
+A TKE includes support for AES encryption algorithm with 256-bit master keys and key management functions to load or generate master keys to the cryptographic coprocessor.
+
+If the TKE workstation is chosen to operate the Crypto Express8S adapter in an IBM z16, TKE workstation with the TKE 10.0 LIC is required. For more information, see 6.6, 'Trusted Key Entry workstation' on page 239.
+

@@ -1,0 +1,4 @@
+ation
+- /SM590000 System Reset Function:
+- -No physical EPO switch is available on the IBM z16, which provides a means for the service technician 6  to put a server into a known state.
+

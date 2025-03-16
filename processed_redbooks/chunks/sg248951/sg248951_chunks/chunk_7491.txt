@@ -1,0 +1,6 @@
+M z16, the zEDC feature is implemented in the on-chip compression accelerator unit, but the software (z/OS) component is required to maintain the same functions as previous PCIe-based zEDC features.
+
+All data interchange with zEDC compressed data remains compatible as IBM z16 and zEDC capable machines coexist (accessing same data). Data that is compressed and written with zEDC can be read and decompressed by IBM z16 well into the future.
+
+The on-chip compression unit has the following operating modes:
+

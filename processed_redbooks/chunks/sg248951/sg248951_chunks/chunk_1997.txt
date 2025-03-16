@@ -1,0 +1,17 @@
+in two rows (40 TB system maximum):
+- -Organized in eight-card RAIM groups:
+- GLYPH&lt;129&gt; 50% reduced RAIM overhead (compared to IBM z15)
+- GLYPH&lt;129&gt; RAIM protection (similar to IBM z15)
+
+- GLYPH&lt;129&gt; Up to 3 chip marks + 1 channel mark
+- -DDR4 DRAM with on chip power regulation: N+1 voltage regulators
+- -Standard Open Memory Interface (OMI); up to 6 OMI per drawer:
+- GLYPH&lt;129&gt; CRC/Retry for soft errors
+- GLYPH&lt;129&gt; Degrade bus lanes 4 → 2 on hard error
+- GLYPH&lt;129&gt; No waiting for all eight cards (use first seven to respond)
+- /SM590000 Concurrent service and upgrade by way of Concurrent Drawer Repair (CDR)
+
+2.6.2  General IBM z16 A01 RAS features
+
+The IBM z16 A01 server includes the following RAS features:
+

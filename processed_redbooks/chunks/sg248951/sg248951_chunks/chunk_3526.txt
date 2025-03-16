@@ -1,0 +1,16 @@
+ut general guidelines, see the PR/SM Planning Guide , SB10-7178, which is available at the IBM Resource Link website (log in required).
+
+The following modes are provided:
+
+- /SM590000 z/Architecture
+
+In z/Architecture (General) mode, storage addressing is 64-bit, which allows for virtual addresses up to 16 exabytes (16 EB). However, the current main storage limit for LPARs on an IBM z16 A01 is 32 TB of main storage.
+
+The operating system that runs in z/Architecture mode must support the real storage. z/OS V2R4 and below support up to 4 TB of real storage, while z/OS V2R5 supports up to 16 TB.
+
+- /SM590000 CF
+
+In CF mode, storage addressing is 64-bit for a CF image that runs at CFCC. This configuration allows for an addressing range up to 16 EB. However, the current IBM z16 A01 definition limit for CF LPARs is 32 TB of storage.
+
+The following CFCC levels are supported in a Sysplex with IBM z16:
+

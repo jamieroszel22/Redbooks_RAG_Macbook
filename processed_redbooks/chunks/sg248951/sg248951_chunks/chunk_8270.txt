@@ -1,0 +1,10 @@
+d combination. Although multiple offerings can be active at any time, only one On/Off CoD offering can be active at any time if enough resources are available to fulfill the offering specifications.
+
+Temporary upgrades are represented in the system by a record . All temporary upgrade records are on the SE hard disk drive (HDD). The records can be downloaded from the RSF or installed from portable media. At the time of activation, you can control everything locally.
+
+The provisioning architecture is shown in Figure 8-1.
+
+<!-- missing-text -->
+
+The authorization layer enables administrative control over the temporary offerings. The activation and deactivation can be driven manually or under the control of an application through a documented application programming interface (API) 3 .
+

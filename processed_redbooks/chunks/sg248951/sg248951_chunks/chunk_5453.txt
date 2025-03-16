@@ -1,0 +1,12 @@
+location, and the assigned PCHID. A portion of a sample PCHID REPORT is shown in Example 4-2.
+
+<!-- missing-text -->
+
+The PCHID REPORT that is shown in Example 4-2 includes the following components:
+
+- /SM590000 Feature Code 0176 (Integrated Coupling Adapters (ICA SR1.1) is installed in the CPC drawer (location A10, slot LG06, and A15 LG06), and has AIDs 05 and 11 assigned.
+- /SM590000 Feature 0461 (FICON Express32SA LX) is installed in PCIe+ I/O drawer 1: Location Z01B, slot 02 with PCHIDs 100/D1 and 101/D2 assigned.
+- /SM590000 Two feature codes 0457 (OSA-Express7S 1.2 10 GbE SR) installed in PCIe+ I/O drawer 1 in slots 05 and 07, with PCHIDs 10C/D1 and 110/D1, respectively.
+
+A resource group (RG) parameter also is shown in the PCHID REPORT for native PCIe features. A balanced plugging of native PCIe features exists between four resource groups (RG1, RG2, RG3, and RG4).
+

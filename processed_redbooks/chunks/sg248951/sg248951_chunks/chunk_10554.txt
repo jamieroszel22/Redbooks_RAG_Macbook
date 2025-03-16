@@ -1,0 +1,20 @@
+ falls back to TLS 1.2 if required.
+
+Figure 10-1 shows the HMC window that allows the selection of the wanted TLS version.
+
+<!-- missing-text -->
+
+- /SM590000 HMC/SE certification expiration updates
+
+The new default for HMC and SE certificate expiration is 398 days and it can be modified. This expiration period is driven by an industry shorter certificate lifespan that is used by the Apple Safari browser and iOS.
+
+A hardware message is posted for every expiration event 90, 30, and 7 days and 1 day before the expiry date is reached. If the expiration occurs, a hardware message is posted daily.
+
+A Call Home to IBM also is placed 7 days and 1 day before the certificate expiration and daily afterward. These events also are recorded in the Audit Log and Resource Link.
+
+It is the customer's responsibility to manage all certificates.
+
+Figure 10-2 shows an example to change the number of days until the expiration occurs while a certificate is created.
+
+<!-- missing-text -->
+

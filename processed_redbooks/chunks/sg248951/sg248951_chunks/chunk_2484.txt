@@ -1,0 +1,9 @@
+o-end automation.
+- /SM590000 New options in flexible and responsible consumption to manage system resources across geographical locations, with sustainability that is built in across its lifecycle.
+
+The modular CPC drawer design aims to reduce (or in some cases even eliminate) planned and unplanned outages. The design does so by offering concurrent repair, replace, and upgrade functions for processors, memory, and I/O.
+
+For more information about the IBM z16 RAS features, see Chapter 9, 'Reliability, availability, and serviceability' on page 379.
+
+IBM z16 A01 servers include the following features:
+

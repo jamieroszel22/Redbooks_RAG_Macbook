@@ -1,0 +1,6 @@
+6 can export the Change LPAR Controls table data to a comma-separated value (. csv )-formatted file. This support is available to a user when they are remotely connected to the HMC by a web browser.
+
+Partition capping values can be scheduled and are specified on the Change LPAR Controls scheduled operation support. Viewing more information about a Change LPAR Controls scheduled operation is available on the SE.
+
+One example of managing the LPAR settings is the absolute physical hardware LPAR capacity setting. Driver 15 (zEC12/zBC12) introduced the capability to define (in the image profile for shared processors) the absolute processor capacity that the image is allowed to use (independent of the image weight or other cappings).
+

@@ -1,0 +1,18 @@
+specially for smaller structures, because of task-related memory increases that are associated with the increased number of CF tasks in CFLEVEL 25
+
+Review the CF LPAR size by using the CFSizer tool.
+
+Alternatively, the batch SIZER utility also can be used for re-sizing your CF structures as needed. Make sure to update CFRM Policy INITISIZE or SIZE values as needed.
+
+Coupling links support
+
+Integrated Coupling Adapter (ICA) Short Reach and Coupling Express2 Long Reach (CE2 LR) coupling link options provide high-speed connectivity at short and longer distances over fiber optic interconnections.
+
+For more information, see 4.6.4, 'Parallel Sysplex connectivity' on page 187.
+
+Integrated Coupling Adapter
+
+PCIe Gen3 coupling fan-out, which is also known as Integrated Coupling Adapter Short Reach (ICA SR, ICA SR1.1), supports a maximum distance of 150 meters (492 feet) and is defined as CHPID type CS5 in IOCP.
+
+Coupling Express2 Long Reach 8
+

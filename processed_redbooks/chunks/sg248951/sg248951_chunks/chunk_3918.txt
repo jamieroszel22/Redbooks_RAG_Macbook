@@ -1,0 +1,6 @@
+raded, while up-level systems that use the same CF structure can take full advantage of the new retry buffers for improved IFCC recovery. APAR OA60275 is required on z/OS V2R2, V2R3, V2R4, and V2R5.
+
+- /SM590000 New lock record data reserved entries for structure full recovery.
+
+Some lock structure users use 'special' lock structure locks to serialize their own processing, such as management of open data sets and table space interest across the sysplex. Not all locks have anything to do with serialization of database updates or user database data or transactions.
+

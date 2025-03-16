@@ -1,0 +1,14 @@
+aded with another ICF, the system recognizes that an ICF was purchased and is present.
+
+The allowable number of ICFs and Unassigned ICFs for each model is listed in Table 3-2.
+
+<!-- missing-text -->
+
+ICFs exclusively run CFCC. ICFs do not change the model capacity identifier of the IBM z16 system. Software product license charges that are based on the model capacity identifier are not affected by the addition of ICFs.
+
+All ICFs within a configuration are grouped into the ICF pool. The ICF pool can be seen on the HMC workplace.
+
+The ICFs can be used by coupling facility LPARs only. ICFs are dedicated or shared. ICFs can be dedicated to a CF LPAR, or shared by multiple CF LPARs that run on the same system. However, having an LPAR with dedicated and shared ICFs at the same time is not possible.
+
+Coupling Thin Interrupts
+

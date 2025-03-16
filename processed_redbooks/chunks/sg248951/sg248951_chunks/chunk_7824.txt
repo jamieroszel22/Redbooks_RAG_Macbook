@@ -1,0 +1,10 @@
+able individual sent the message.
+
+Only cryptographic services can provide the data confidentiality and the identity authentication that is required to protect business commerce on the internet 13 .
+
+Integrated Cryptographic Service Facility (ICSF) is a base component of z/OS. It is designed to transparently use the available cryptographic functions (whether CPACF or Crypto Express) to balance the workload and help address the bandwidth requirements of the applications.
+
+ICSF support for IBM z16 is provided with PTFs, not as previously was the case, through Web deliverables.
+
+Supported levels of ICSF automatically detect what hardware cryptographic capabilities are available where it is running. Then, it enables functions accordingly.   No toleration of new hardware is necessary because it is 'just there'. ICSF maintenance is necessary if you want to use new capabilities.
+

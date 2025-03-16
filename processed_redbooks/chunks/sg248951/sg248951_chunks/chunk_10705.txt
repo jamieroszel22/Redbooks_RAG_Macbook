@@ -1,0 +1,10 @@
+nces to the timing network and the overall workload execution environment of the IBM Z sysplex. The IBM Z and the HMC feature longtime automated failover protection for various cases that can arise.
+
+New for IBM z16 because an integrated battery facility no long is available, support was added by the HMC to allow the customer to configure an option to monitor for n-mode power conditions (wall power or power cord loss). If detected, an automated failover occurs to the Backup Time Server (BTS).
+
+Note: Provide some backup power method to hold power for 60 seconds on the PTS to allow failover to successfully complete.
+
+Manage System Time user interface controls are available to manage failback to the PTS when the full power state is restored.
+
+ETS direct connectivity to the IBM z16 CPC is provided for both supported ETS protocols: NTP and PTP.
+

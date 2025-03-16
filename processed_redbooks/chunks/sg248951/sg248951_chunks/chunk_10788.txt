@@ -1,0 +1,15 @@
+re started for STP message exchanges.
+- /SM590000 For diagnostic purposes, the PPS port state on an IBM z16 can be displayed and fenced ports can be reset individually.
+
+STP changes and enhancements
+
+Important: The Sysplex Time task on the SE was discontinued for IBM z15. Therefore, an HMC at Version 2.15.0 is required to manage system time for IBM z15 CPCs.
+
+Detailed instructions and guidelines are provided within task workflow. IBM z15 HMC provides a visual representation of the CTN topology. A preview of any configuration action is also shown in topological display. An example of the topology view is shown in Figure 10-31.
+
+<!-- missing-text -->
+
+N-mode power sensing for STP recovery
+
+For previous IBM Z server generations, specific configurations that use Bulk Power Adapter (BPA) with IBF can sense an 'operating on battery condition' if a power interruption occurs on any power cord.
+

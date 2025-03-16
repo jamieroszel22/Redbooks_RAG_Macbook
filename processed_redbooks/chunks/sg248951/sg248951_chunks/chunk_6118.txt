@@ -1,0 +1,4 @@
+for each PCIe cryptographic adapter. Removal of the feature or adapter zeroizes its content. Access to the PCIe cryptographic adapter is controlled through the setup in the image profiles on the SE.
+
+Adapter: Although PCIe cryptographic adapters include no CHPID type and are not identified as external channels, all logical partitions (LPARs) in all channel subsystems can access the adapter. In IBM z16, up to 85 LPARs are supported per adapter (HSM). Accessing the adapter requires a setup in the image profile for each partition. The adapter must be in the candidate list.
+

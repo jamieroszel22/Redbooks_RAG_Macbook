@@ -1,0 +1,5 @@
+ in the Parallel Sysplex is displayed as a single entity to the operator, user, and database administrator. A single system view means reduced complexity from operational and definition perspectives.
+- /SM590000 N-2 support: Multiple hardware generations (normally three) are supported in the same Parallel Sysplex. This configuration provides for a gradual evolution of the systems in the Parallel Sysplex without changing all of them simultaneously. Software support for multiple releases or versions also is supported.
+
+Note: Parallel sysplex coupling and timing links connectivity for IBM z16 (M/T 3931) is supported to N-2 generation CPCs (IBM z16, IBM z15, and IBM z14).
+

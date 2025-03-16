@@ -1,0 +1,13 @@
+ SHA512])
+- /SM590000 Wrap and unwrap keys
+- /SM590000 Random number generation
+- /SM590000 Get mechanism list and information
+- /SM590000 Attribute values
+- /SM590000 Key Agreement (Diffie-Hellman)
+
+Note: The function extension capability through UDX is not available to the EP11.
+
+When defined in EP11 mode, the TKE workstation is required to manage the Crypto Express features.
+
+Enterprise PKCS #11 (EP11) with IBM z16 provides the following updates 8 :
+

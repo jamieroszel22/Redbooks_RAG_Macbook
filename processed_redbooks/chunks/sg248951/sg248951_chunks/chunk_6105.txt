@@ -1,0 +1,12 @@
+keys also can be used. On IBM z16, protected keys require a Crypto Express adapter that is running in CCA mode.
+
+For more information, see 6.5.2, 'Crypto Express8S as a CCA coprocessor' on page 228.
+
+The hashing algorithms SHA-1, SHA-2, and SHA-3 support for SHA-224, SHA-256, SHA-384, and SHA-512, are enabled on all systems and do not require the CPACF enablement feature. For all other algorithms, the no-charge CPACF enablement feature (FC 3863) is required.
+
+The CPACF functions are implemented as processor instructions and require operating system support for use. Operating systems that use the CPACF instructions include z/OS, z/VM, z/VSE, z/TPF, and Linux on IBM Z.
+
+6.4.2  CPACF protected key
+
+IBM z16 supports the protected key implementation. Secure keys are processed on the PCIeCC adapters (HSMs) 3 . This process requires an asynchronous operation to move the data and keys from the general-purpose central processor (CP) to the crypto adapters.
+

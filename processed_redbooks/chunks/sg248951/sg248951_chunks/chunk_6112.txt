@@ -1,0 +1,8 @@
+atency for encryption of small blocks of data. A high-performance secure key solution, also known as a protected key solution , requires the ICSF HCR7770 as a minimum release.
+
+6.5  Crypto Express8S
+
+The Crypto Express8S feature (FC 0908 or FC 0909) is an optional feature that is exclusive to IBM z16 systems. Each feature FC 0909 has one IBM 4770 PCIe cryptographic adapter (hardware security module [HSM]), whereas FC 0908 has two IBM 4770 PCIe cryptographic adapters (two HSMs). The Crypto Express8S (CEX8S) feature occupies one I/O slot in an IBM z16 PCIe+ I/O drawer. This feature provides one or two HSMs and for a secure programming and hardware environment on which crypto processes are run.
+
+Each cryptographic coprocessor includes a general-purpose processor, nonvolatile storage, and specialized cryptographic electronics. The Crypto Express8S feature provides tamper-sensing and tamper-responding, high-performance cryptographic operations.
+

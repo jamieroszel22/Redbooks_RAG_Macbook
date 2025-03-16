@@ -1,0 +1,21 @@
+ptions
+
+The 3931 (z16 A01) has the power options shown in Table 2-2 on page 19:
+
+<!-- missing-text -->
+
+- a. Wye cords require five wires, three for Power phases, one for Neutral and one for Ground.
+
+Caution: Installation of a low voltage system to a high voltage facility will cause significant damage to the system's power components.
+
+Considerations
+
+Consider the following points:
+
+- /SM590000 A-Frame is always present in every configuration
+- /SM590000 1u Support Elements (x2) are always in A-Frame at locations A41 and A42
+- /SM590000 1u 24-port internal Ethernet switches (x2) are always at locations A39 and A40 More Ethernet switches (x2) are available when necessary in Frame C or B
+- /SM590000 I/O PCHID numbering starts with 0100 and increments depending on the number of features that is ordered. No PCHID number affinity is available to a fixed PCIe+ I/O drawer location as with previous systems.
+
+2.1.1  IBM z16 cover (door) design
+

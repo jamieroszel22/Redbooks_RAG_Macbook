@@ -1,0 +1,10 @@
+le call home for a replacement. A system with a failed PU that is spared and requires a DCM to be replaced (referred to as a pending repair ) can still be upgraded when sufficient PUs are available.
+
+Transparent CP, IFL, ICF, zIIP, SAP, and IFP sparing
+
+Depending on the model, sparing of CP, IFL, ICF, zIIP, SAP, and IFP is transparent and does not require operating system or operator intervention.
+
+With transparent sparing , the status of the application that was running on the failed processor is preserved. The application continues processing on a newly assigned CP, IFL, ICF, zIIP, SAP, or IFP (allocated to one of the spare PUs) without client intervention.
+
+Application preservation
+

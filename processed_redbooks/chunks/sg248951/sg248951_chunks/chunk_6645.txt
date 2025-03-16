@@ -1,0 +1,11 @@
+ines their standards as a set of security standards that is designed to ensure that all companies that accept, process, store, or transmit credit card information is maintained a secure environment.
+
+Compliance with the PCI-HSM standard is valuable for customers, particularly those customers who are in the banking and finance industry. This certification is important to clients for the following fundamental reasons:
+
+- /SM590000 Compliance is increasingly becoming mandatory
+- /SM590000 The requirements in PCI-HSM make the system more secure.
+
+Industry requirements for PCI-HSM compliance
+
+The PCI organization cannot require compliance with its standards. Compliance with PCI standards is enforced by the payment card brands, such as Visa, MasterCard, American Express, JCB International, and Discover.
+

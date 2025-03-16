@@ -1,0 +1,18 @@
+
+For more information about cooling requirements, see 3931 Installation Manual for Physical Planning , GC28-7015.
+
+Radiator (air) cooling
+
+The following radiator (air) cooling options are available:
+
+- /SM590000 A-Frame radiator air-cooled feature code (FC 4040)
+- /SM590000 B-Frame radiator air-cooled feature code (FC 4041)
+
+The radiator cooling system requires chilled air to fulfill the air-cooling requirements. IBM z16 system airflow is from the front (intake, chilled air) to the rear (exhausts, warm air) of the frames. The chilled air is provided through perforated floor panels in front of the system
+
+The hot and cold airflow and the arrangement of server aisles are shown in Figure 11-3.
+
+<!-- missing-text -->
+
+As shown in Figure 11-3, rows of servers must be placed front-to-front. Chilled air is provided through perforated floor panels that are placed in rows between the fronts of servers (the cold aisles). Perforated tiles generally are not placed in the hot aisles.
+

@@ -1,0 +1,12 @@
+dress volume (EAV) and Hyper Parallel Access Volumes (HyperPAV).
+
+See Table 7-6 on page 257 and Table 7-7 on page 258 for list of supported operating systems.
+
+IPL from an alternative subchannel set
+
+IBM z16 supports IPL from subchannel set 1 (SS1), subchannel set 2 (SS2), or subchannel set 3 (SS3), in addition to subchannel set 0.
+
+See Table 7-6 on page 257 and Table 7-7 on page 258 for list of supported operating systems. For more information, see 'IPL from an alternative subchannel set' on page 295.
+
+32 K subchannels
+

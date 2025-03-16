@@ -1,0 +1,16 @@
+lows for I/O cabling and power cords to exit the top of the frame. This feature adds cable management options, such as trunking and retainer brackets, as shown in Figure 11-4.
+
+<!-- missing-text -->
+
+The Top Exit cabling feature can be placed as shown in Figure 11-4, with the exit area toward the front of the frame, or with the exit area toward the rear of the frame.
+
+Note: The feature provides the same extra hardware for every frame in the configuration.
+
+The Top Exit cabling feature adds 117.5 mm (4.63 in.) to the height of the frame and approximately 5.4 kg (12 lbs) to the weight.
+
+If the Top Exit cabling feature is not ordered, two sliding plates are available on the top of the frame (one on each side of the rear of the frame) that can be partially opened. By opening these plates, I/O cabling and power cords can exit the frame. The plates should be removed to install the Top Exit cabling feature as shown in Figure 11-5.
+
+<!-- missing-text -->
+
+11.4.3  Top or bottom exit cables
+

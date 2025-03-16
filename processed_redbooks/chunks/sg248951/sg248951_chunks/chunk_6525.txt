@@ -1,0 +1,8 @@
+
+- /SM590000 RSA (512, 1024, 2048, and 4096)
+- RSA was published in 1977. It is a widely used asymmetric public-key algorithm, which means that the encryption key is public whereas the decryption key is kept secret. It is based on the difficulty of factoring the product of two large prime numbers. The number describes the length of the keys.
+- /SM590000 ECDSA (192, 224, 256, 384, and 521 Prime/NIST)
+- ECC is a family of asymmetric cryptographic algorithms that are based on the algebraic structure of elliptic curves. ECC can be used for encryption, pseudo-random number generation, and digital certificates. The Elliptic Curve Digital Signature Algorithm (ECDSA) Prime/NIST method is used for ECC digital signatures, which are recommended for government use by NIST.
+- /SM590000
+- /SM590000
+- ECDSA (160, 192, 224, 256, 320, 384, and 512 BrainPool)

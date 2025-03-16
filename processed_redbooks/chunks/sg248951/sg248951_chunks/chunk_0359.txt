@@ -1,0 +1,12 @@
+e beyond a 9-way is significantly improved; that is, that the effective capacity of IBM z16 CF images continues to increase meaningfully all the way up to the maximum of 16 processors in a CF image.
+
+The IBM z16 also added functions to protect today's data now, and from future cyberattacks that can be initiated by quantum computers. The IBM z16 provides the following quantum-safe capabilities:
+
+- /SM590000 Key generation
+- /SM590000 Encryption
+- /SM590000 Key encapsulation mechanisms
+- /SM590000 Hybrid key exchange schemes
+- /SM590000 Dual digital signature schemes
+
+In addition to these quantum-safe cryptographic capabilities, tools (such as IBM Application Discovery and Delivery Intelligence [ADDI], Integrated Cryptographic Service Facility [ICSF], and IBM Crypto Analytics Monitor [CAT]) can help you discover where and what cryptography is used in applications. This knowledge can aid in developing a cryptographic inventory for migration and modernization planning.
+

@@ -1,0 +1,17 @@
+This function saves processor cycles and is an excellent option to be used by a production backup CF or a testing environment CF. This function is activated by default when a CF processor is shared.
+
+The CPs can run z/OS operating system images and CF images. For software charging reasons, generally use only ICF processors to run CF images.
+
+For more information about CF configurations, see the following resources:
+
+- /SM590000 Coupling Facility Configuration Options , GF22-5042
+- /SM590000 This IBM Support web page
+
+3.10  Virtual Flash Memory
+
+Flash Express is not supported on IBM z16. This feature was replaced by IBM Z Virtual Flash Memory (VFM), from IBM z14. The Virtual Flash Memory feature code is 0644 on IBM z16 A01.
+
+3.10.1  IBM Z Virtual Flash Memory overview
+
+VFM replaced the PCIe Flash Express feature with support that is based on main memory.
+

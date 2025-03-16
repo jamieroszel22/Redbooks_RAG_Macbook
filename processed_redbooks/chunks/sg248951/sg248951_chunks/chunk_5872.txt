@@ -1,0 +1,9 @@
+00 Enhanced public key Elliptic Curve Cryptography (ECC) for users such as Chrome, Firefox, and Apple's iMessage.
+- /SM590000 Accredited Standards Committee X9 Inc Technical Report-34 (ASC X9 TR-34)
+
+These enhancements are described in this chapter.
+
+IBM z16 includes standard cryptographic hardware and optional cryptographic features for flexibility and growth capability. IBM has a long history of providing hardware cryptographic solutions. This history stretches from the development of the Data Encryption Standard (DES) in the 1970s to the Crypto Express tamper-sensing and tamper-responding programmable features.
+
+Crypto Express meets the US Government's highest security rating of FIPS 140-3 Level 4 certification 1 . It also meets several other security ratings, such as the Common Criteria for Information Technology Security Evaluation, the PCI HSM criteria, and the criteria for German Banking Industry Commission (formerly known as Deutsche Kreditwirtschaft evaluation).
+

@@ -1,0 +1,11 @@
+in which capacity is lost in another part of your enterprise. It allows you to recover by adding the reserved capacity on a designated IBM z16 server.
+
+CBU is the quick, temporary activation of PUs:
+
+- /SM590000 For up to 90 contiguous days, for a loss of processing capacity as a result of an emergency or disaster recovery situation.
+- /SM590000 For 10 days, for testing your disaster recovery procedures or running the production workload. This option requires that IBM Z workload capacity that is equivalent to the CBU upgrade capacity is shut down or otherwise made unusable during the CBU test. 5
+
+Important: CBU is for disaster and recovery purposes only. It cannot be used for peak workload management or for a planned event.
+
+8.10.1  Ordering
+

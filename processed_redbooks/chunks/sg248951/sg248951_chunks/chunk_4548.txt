@@ -1,0 +1,12 @@
+rovides physical memory DIMMs that are needed to support activation of all customer purchased memory and HSA on a multiple drawer IBM z16 A01 with one drawer that is done for the following features:
+
+- /SM590000 Scheduled concurrent drawer upgrade, such as memory adds
+- /SM590000 Scheduled concurrent drawer maintenance, such N+1 repair
+- /SM590000 Concurrent repair of an out-of-service CPC drawer 'fenced' during Activation (POR)
+
+Note: All of these features can be done without VFM. However, all customer-purchased memory is not available for use in most cases. Some work might need to be shut down or not restarted.
+
+3.10.3  VFM administration
+
+The allocation and definition information of VFM for all partitions is viewed through the Storage Information panel that is under the Operational Customization panel.
+

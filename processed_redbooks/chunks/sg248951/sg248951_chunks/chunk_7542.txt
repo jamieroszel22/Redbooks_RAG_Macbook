@@ -1,0 +1,15 @@
+IBM zEC12
+- /SM590000 IBM zBC12
+
+As of this writing, the FICON Express32S, FICON Express16SA, and FICON Express16S+(CHPID type FC) support the FICON protocol and the zHPF protocol in the server LIC.
+
+When used by the FICON channel, the z/OS operating system, and the DS8000 control unit or other subsystems, the FICON channel processor usage can be reduced and performance improved. Suitable levels of Licensed Internal Code (LIC) are required.
+
+Also, the changes to the architectures provide end-to-end system enhancements to improve reliability, availability, and serviceability (RAS).
+
+zHPF is compatible with the following standards:
+
+- /SM590000 Fibre Channel Framing and Signaling standard (FC-FS)
+- /SM590000 Fibre Channel Switch Fabric and Switch Control Requirements (FC-SW)
+- /SM590000 Fibre Channel Single-Byte-4 (FC-SB-4) standards
+

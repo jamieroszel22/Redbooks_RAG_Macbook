@@ -1,0 +1,10 @@
+ement by using the SMC-D over ISM.
+
+IBM z16 servers support up to 32 ISM VCHIDs per CPC. Each VCHID supports up to 255 VFs, with a total maximum of 8,000 VFs.
+
+Shared Memory Communications Version 2
+
+Shared Memory Communications v2 is available in z/OS V2R4 (with PTFs) and z/OS V2R5.
+
+The initial version of SMC was limited to TCP/IP connections over the same layer 2 network; therefore, it was not routable across multiple IP subnets. The associated TCP/IP connection was limited to hosts within a single IP subnet that requires the hosts to have direct access to the same physical layer 2 network (that is, the same Ethernet LAN over a single VLAN ID). The scope of eligible TCP/IP connections for SMC was limited to and defined by the single IP subnet.
+

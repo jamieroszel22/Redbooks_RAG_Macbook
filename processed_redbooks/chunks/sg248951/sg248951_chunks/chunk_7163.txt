@@ -1,0 +1,15 @@
+is not applicable to that specific operating system.
+
+7.3.1  Supported CPC functions
+
+The supported Base CPC Functions or z/OS and z/VM are listed in Table 7-3.
+
+Note: Consider the following points:
+
+- /SM590000 In a future IBM Z hardware system family, the transactional execution and constrained transactional execution facility no longer will be supported. Users of the facility on current servers must always check the facility indications before use.
+- /SM590000 z/OS V2R2 support ended on as of September 2020. No new function is provided for the use of the new hardware features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

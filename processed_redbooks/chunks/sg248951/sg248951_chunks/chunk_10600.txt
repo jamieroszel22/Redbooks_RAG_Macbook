@@ -1,0 +1,14 @@
+s
+
+The following security characteristics are in effect:
+
+- /SM590000 RSF requests always are started from the HMC to IBM. An inbound connection is never started from the IBM Service Support System.
+
+- /SM590000 All data that is transferred between the HMC and the IBM Service Support System is encrypted with high-grade SSL/Transport Layer Security (TLS) encryption.
+- /SM590000 When starting the SSL/TLS-encrypted connection, the HMC validates the trusted host with the digital signature that is issued for the IBM Service Support System.
+- /SM590000 Data that is sent to the IBM Service Support System consists of hardware problems and configuration data.
+
+For more information about the benefits of Broadband RSF and the SSL/TLS-secured protocol, and a sample configuration for the Broadband RSF connection, see Integrating the HMC Broadband Remote Support Facility into Your Enterprise , SC28-7026.
+
+10.4.2  RSF connections to IBM and Enhanced IBM Service Support System
+

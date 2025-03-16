@@ -1,0 +1,11 @@
+bchannel sets enabled by the MSS facility, each has 65535 subchannels (64 K minus one) for specific types of devices. These extra subchannel sets are referred as alternative subchannel sets in z/OS.
+
+Also, a device that is defined in an alternative subchannel set is considered a special device, which normally features a special device type in the I/O configuration.
+
+Currently, an IBM z16 A01 system that is running z/OS defines the following types of devices in another subchannel set, with proper APAR or PTF installed:
+
+- /SM590000 Alias devices of the parallel access volumes (PAV).
+- /SM590000 Secondary devices of GDPS Metro Mirror Copy Service (formerly Peer-to-Peer Remote Copy [PPRC]).
+- /SM590000 IBM FlashCopyfi SOURCE and TARGET devices with program temporary fix (PTF) OA46900.
+- /SM590000 Db2 data backup volumes with PTF OA24142.
+

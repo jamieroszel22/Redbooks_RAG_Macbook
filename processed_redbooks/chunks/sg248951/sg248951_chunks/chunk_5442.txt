@@ -1,0 +1,24 @@
+ RoCE Express2.1
+- /SM590000 25 GbE RoCE Express2
+- /SM590000 10 GbE RoCE Express2.1
+- /SM590000 10 GbE RoCE Express2
+- /SM590000 Crypto Express7S(one or two ports/HSMs)
+- /SM590000 Crypto Express6S
+
+Note: On an IBM z16 system, only PCIe+ I/O drawers are supported. No older generation drawers can be carried forward.
+
+IBM z16 A01 server supports the following PCIe I/O new features that are hosted in the PCIe+ I/O drawers:
+
+- /SM590000 FICON Express32S
+- /SM590000 OSA-Express7S 1.2 25 GbE
+- /SM590000 OSA-Express7S 1.2 10 GbE
+- /SM590000 OSA-Express7S 1.2 GbE
+- /SM590000 OSA-Express7S 1.2 1000BASE-T
+- /SM590000 25 GbE RoCE Express3
+- /SM590000 10 GbE RoCE Express3
+- /SM590000 Crypto Express8S (one or two HSMs)
+- /SM590000 Coupling Express2 Long Reach (CE2 LR)
+- /SM590000 zHyperLink Express1.1
+
+4.4  CPC drawer fan-outs
+

@@ -1,0 +1,12 @@
+ed
+- /SM590000 Use of:
+- -INREC
+- -JOINKEYS
+- -MERGE FIELDS
+- -MODS(EXITS) statements
+- -OUTREC
+- -OUTFIL
+- -SUM FIELDS
+- /SM590000 Program started sorts
+- /SM590000 Memory objects cannot be created
+

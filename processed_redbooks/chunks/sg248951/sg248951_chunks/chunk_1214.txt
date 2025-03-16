@@ -1,0 +1,9 @@
+
+- /SM590000 Up to 12 PCIe+ Gen3 fan-out slots that can host:
+- -2-port PCIe+ Gen3 I/O fan-out for PCIe+ I/O drawers (ordered in pairs and connected for availability)
+- -ICA SR 1.1 and ICA SR PCIe fan-out for coupling (two ports per feature)
+- /SM590000 Management elements: Two dual function base management controllers (BMC) and oscillator cards (OSC) for system control and to provide system clock (N+1 redundancy).
+- /SM590000 CPC drawer power infrastructure consists of the following components:
+- -Three or four Power Supply Units (PSUs) that provide power to the CPC drawer. The loss of one power supply leaves enough power to satisfy the drawer's power requirements (N+1 redundancy). The power supplies can be concurrently removed and replaced individually.
+- -5x 12v distribution point-of-load (POL) that plug in slots that divide the memory banks.
+- -3x Voltage Regulator Modules that plug outside of the memory DIMMs.

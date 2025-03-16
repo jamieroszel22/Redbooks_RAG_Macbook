@@ -1,0 +1,10 @@
+pported by z/OS V2R2, V2R3, and V2R4 is 4 TB. z/OS V2R5 supports up to 16 TB. For z/VM V7R1 the limit is 2 TB, and z/VM V7R2 increases the limit to 4 TB.
+
+3.7.5  LPAR dynamic storage reconfiguration
+
+Dynamic storage reconfiguration on IBM z16 systems allows an operating system that is running on an LPAR to add (nondisruptively) its reserved storage amount to its configuration. This process can occur only if unused storage exists. This unused storage can be obtained when another LPAR releases storage, or when a concurrent memory upgrade occurs.
+
+With dynamic storage reconfiguration, the unused storage does not have to be continuous.
+
+When an operating system that is running on an LPAR assigns a storage increment to its configuration, PR/SM determines whether any free storage increments are available. PR/SM then dynamically brings the storage online.
+

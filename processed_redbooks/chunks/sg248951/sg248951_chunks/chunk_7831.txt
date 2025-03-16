@@ -1,0 +1,12 @@
+introduced with IBM z16 to accomplish this encryption:
+
+- /SM590000 Key generation
+- /SM590000 Hybrid key exchange schemes
+- /SM590000 Dual digital signature schemes
+
+Crypto Analytics Tool for IBM Z
+
+The IBM Crypto Analytics Tool (CAT) for IBM Z is an analytics solution that collects data on your z/OS cryptographic infrastructure, presents reports, and analyzes if any vulnerabilities exist. CAT collects cryptographic information from across the enterprise and provides reports to help users better manage the crypto infrastructure and ensure it follows best practices. The use of CAT can help you deal with managing complex cryptography resources across your organization.
+
+z/VM encrypted hypervisor paging (encrypted paging support)
+

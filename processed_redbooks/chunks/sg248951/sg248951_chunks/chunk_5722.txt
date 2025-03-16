@@ -1,0 +1,10 @@
+ the IOCP FUNCTION statement or in the hardware configuration definition (HCD).
+
+The maximum supported unrepeated distance, point-to-point, is 10 km (6.2 miles). A client-supplied cable is required.
+
+- /SM590000 A Single-mode (SM) 9-micron fiber optic cable is required for connecting the port to the selected 25 GbE switch or to another 25 GbE RoCE Express3 LR feature.
+
+The virtualization capabilities for IBM z16 are 63 Virtual Functions per port (126 VFs per feature/PCHID). One RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID). The 25 GbE RoCE Express3 feature uses LR optics and supports the use of a single mode fiber optic cable that ends with an LC Duplex connector.
+
+Note: Consider the following 25 GbE RoCE requirements:
+

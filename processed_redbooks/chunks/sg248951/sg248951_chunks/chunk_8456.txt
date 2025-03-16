@@ -1,0 +1,11 @@
+ resources that have a capacity setting different from the installed CPs, the base capacity settings are changed to match.
+
+On/Off CoD includes the following limits that are associated with its use:
+
+- -The number of CPs cannot be reduced.
+- -The target configuration capacity is limited to these amounts:
+- GLYPH&lt;129&gt; Twice the currently installed capacity, expressed in MSUs for CPs.
+- GLYPH&lt;129&gt; Twice the number of installed IFLs, ICFs, and zIIPs. Up to eight SAPs can be activated. For more information, see 8.3.1, 'PU Capacity feature upgrades' on page 334.
+
+On/Off CoD can be ordered as prepaid or postpaid. A prepaid On/Off CoD offering record contains resource descriptions, MSUs, specialty engines, and tokens that describe the total capacity that can be used. For CP capacity, the token contains MSU-days. For specialty engines, the token contains specialty engine-days.
+

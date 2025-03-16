@@ -1,0 +1,19 @@
+or STP CTN with IBM z16.
+- /SM590000 InfiniBand coupling links (if available on IBM z14 M0x) are not supported in a Parallel Sysplex or CTN with an IBM z16 member.
+
+4.5.2  Physical channel ID report
+
+A physical channel ID (PCHID) reflects the physical location of a channel-type interface. A PCHID number is based on the following factors:
+
+- /SM590000 PCIe+ I/O drawer location
+- /SM590000 Channel feature slot number
+- /SM590000 Port number of the channel feature
+
+A CHPID does not directly correspond to a hardware channel port. Instead, it is assigned to a PCHID in the hardware configuration definition (HCD) or IOCP.
+
+A PCHID REPORT is created for each new build server and for upgrades on servers. The report lists all I/O features that are installed, the physical slot location, and the assigned PCHID. A portion of a sample PCHID REPORT is shown in Example 4-2.
+
+<!-- missing-text -->
+
+The PCHID REPORT that is shown in Example 4-2 includes the following components:
+

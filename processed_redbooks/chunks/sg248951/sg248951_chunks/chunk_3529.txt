@@ -1,0 +1,16 @@
+cific types of processor units can be defined within one LPAR. This feature increases flexibility and simplifies systems management by allowing z/VM to run the following tasks in the same z/VM LPAR:
+
+- -Manage guests to operate Linux on IBM Z on IFLs
+- -Operate z/VSE and z/OS on CPs
+- -Offload z/OS system software processor usage, such as Db2 workloads on zIIPs
+- -Provide an economical Java execution environment under z/OS on zIIPs
+- /SM590000 IBM SSC
+
+In IBM SSC mode, storage addressing is 64-bit for an embedded product. The amount of usable main storage by the appliance code that is deployed in the SSC LPAR is documented by the appliance code supplier.
+
+3.7.3  Reserved storage
+
+Reserved storage can be optionally defined to an LPAR, which allows a nondisruptive image memory upgrade for this partition. Reserved storage can be defined to central and expanded storage, and to any image mode except CF mode.
+
+An LPAR must define an amount of main storage:
+

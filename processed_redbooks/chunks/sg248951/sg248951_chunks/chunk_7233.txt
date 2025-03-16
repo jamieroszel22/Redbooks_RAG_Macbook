@@ -1,0 +1,25 @@
+ation support by way of APAR
+- f. Requires Web deliverable HCR77D1
+
+the IBM z16 supported cryptography functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-11.
+
+<!-- missing-text -->
+
+- a. PTFs might be required for toleration support or use of IBM z16 features and functions.
+- b. Support statement varies based on Linux on IBM Z distribution and release.
+- c. z/TPF supports only AES-128 and AES-256.
+- d. z/TPF supports only SHA-1 and SHA-256.
+
+7.4  Support by features and functions
+
+This section addresses operating system support by function. Only the currently in-support releases are covered.
+
+Tables in this section use the following convention:
+
+- /SM590000 N/A: Not applicable
+- /SM590000 NA: Not available
+
+7.4.1  LPAR Configuration and Management
+
+A single system image can control multiple processor units (PUs), such as CPs, zIIPs, or IFLs.
+

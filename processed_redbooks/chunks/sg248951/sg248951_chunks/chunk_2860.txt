@@ -1,0 +1,11 @@
+ LIC activation. This activation assigns a PU function to a previously non-characterized PU. No hardware changes are required.
+
+The upgrade can be done concurrently through the following facilities:
+
+- /SM590000 Customer Initiated Upgrade (CIU) for permanent upgrades
+- /SM590000 On/Off Capacity on Demand (On/Off CoD) for temporary upgrades
+- /SM590000 Capacity BackUp (CBU) for temporary upgrades
+- /SM590000 Capacity for Planned Event (CPE) for temporary upgrades (available only if the CPE feature code was carried forward from a previous IBM z14 or IBM z15 machine)
+- /SM590000 System Recovery Boost upgrades
+- /SM590000 Flexible Capacity for Cyber Resilience upgrades
+

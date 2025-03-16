@@ -1,0 +1,14 @@
+15.
+
+9.3  Structure
+
+The IBM z16 was designed in a 19-inch frames format. The IBM z16 A01 can be delivered only as an air-cooled system and fulfills the requirements for ASHRAE A3 class environment.
+
+The IBM z16 A01 can have up to 10 PCIe+ I/O drawers when delivered with Bulk Power Assembly (BPA) and 12 PCIe+ I/O drawers when delivered with Power Distribution Unit (PDU). The structure of the IBM z16 is designed with the following goals:
+
+- /SM590000 Enhanced system modularity
+- /SM590000 Standardization to enable rapid integration
+- /SM590000 Platform simplification
+
+Cables are keyed to ensure that correct lengths are plugged. Plug detection ensures correct location, and custom latches ensure retention. Further improvements to the fabric bus include symmetric multiprocessing (SMP) cables that connect the drawers.
+

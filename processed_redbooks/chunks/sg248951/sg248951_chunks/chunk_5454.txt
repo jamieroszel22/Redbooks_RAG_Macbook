@@ -1,0 +1,15 @@
+
+A resource group (RG) parameter also is shown in the PCHID REPORT for native PCIe features. A balanced plugging of native PCIe features exists between four resource groups (RG1, RG2, RG3, and RG4).
+
+The preassigned PCHID number of each I/O port relates directly to its physical location (jack location in a specific slot).
+
+4.6  Connectivity
+
+I/O channels are part of the CSS. They provide connectivity for data exchange between servers, between servers and external control units (CUs) and devices, or between networks.
+
+For more information about connectivity to external I/O subsystems (for example, disks), see 4.6.2, 'Storage connectivity' on page 165.
+
+For more information about communication to LANs, see 4.6.3, 'Network connectivity' on page 173.
+
+Communication between servers is implemented by using CE LR, ICA SR, or channel-to-channel (FICON CTC) connections. For more information, see 4.6.4, 'Parallel Sysplex connectivity' on page 187.
+

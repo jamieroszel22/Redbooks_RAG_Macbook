@@ -1,0 +1,22 @@
+ssing-text -->
+
+Processor availability
+
+Processor resource availability for reallocation or deactivation is affected by the type and quantity of the resources in use, such as the following examples:
+
+- /SM590000 Total number of PUs that are enabled through LICCC
+- /SM590000 PU definitions in the profiles that can be dedicated and dedicated reserved or shared
+- /SM590000 Active LPARs with dedicated resources at the time of the drawer repair or replacement
+
+To maximize the PU availability option, ensure that sufficient inactive physical resources are on the remaining drawers to complete a drawer removal.
+
+Memory availability
+
+Memory resource availability for reallocation or deactivation depends on the following factors:
+
+- /SM590000 Physically installed memory
+- /SM590000 Image profile memory allocations
+- /SM590000 Amount of memory that is enabled through LICCC
+- /SM590000 Flexible memory option
+- /SM590000 Virtual Flash Memory if enabled and configured
+

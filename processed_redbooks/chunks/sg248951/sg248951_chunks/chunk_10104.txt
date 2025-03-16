@@ -1,0 +1,14 @@
+inated through rigorous design rules; design walk-through; peer reviews; element, subsystem, and system simulation; and extensive engineering and manufacturing testing.
+
+- /SM590000 Memory subsystem
+
+Redundant Array of Independent Memory (RAIM) on IBM Z servers is a concept that is similar to the concept of Redundant Array of Independent Disks (RAID). The RAIM design detects and recovers from dynamic random access memory (DRAM), socket, memory channel, or DIMM failures. Memory size now includes RAIM protection and recovery.
+
+Memory channels are organized in 8-card RAIM groups that provide 50% reduced RAIM overhead (compared to IBM z15).
+
+RAIM protection is similar to IBM z15:
+
+- -Up to three chip marks and one channel mark
+- -DDR4 DRAM with on chip power regulation
+- -N+1 voltage regulators
+

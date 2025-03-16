@@ -1,0 +1,6 @@
+the PU chip is shown in Figure 2-14.
+
+<!-- missing-text -->
+
+The IBM z16 Model A01 PU chip (two chips packaged on each DCM) includes the following features and improvements:
+

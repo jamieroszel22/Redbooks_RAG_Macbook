@@ -1,0 +1,16 @@
+se of enhanced drawer availability.
+
+When you order memory, you can request extra flexible memory. The extra physical memory, (if required) is calculated by the configuration and priced accordingly.
+
+The required memory DIMMs are installed before shipping and are based on a target capacity that is specified by the customer. These memory DIMMs are enabled by using a Licensed Internal Code Configuration Control (LICCC) order that is placed by the customer when they determine more memory capacity is needed.
+
+The flexible memory sizes that are available for the IBM z16 A01 are listed in Table 2-10.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+2.6  Reliability, availability, and serviceability
+

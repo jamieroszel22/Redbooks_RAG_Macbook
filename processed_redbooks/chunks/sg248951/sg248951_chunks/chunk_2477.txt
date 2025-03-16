@@ -1,0 +1,12 @@
+M z16 A01 server, the internal circulating water is conditioned water (BTA) that is added to the radiator unit during system installation with the Fill and Drain Tool (FC 3393).
+
+Fill and Drain Tool
+
+The Fill and Drain Tool (FDT) is a new design and is included with new IBM z16 servers. The FDT (FC 3393) is not compatible with IBM z14 and previous systems. The FDT is used to provide the internal water at the installation and for maintenance, and to remove it at discontinuance.
+
+The new design uses a pump for filling the system and FRUs, and a compressor for draining FRUs and discontinuance. The process is faster and more effective. The FDT is shown in Figure 2-29.
+
+<!-- missing-text -->
+
+The RCU contains two independent pump FRUs. Because the cooling capability is a redundant N+1 design, a single working pump and blower can support the entire load. The replacement of one pump or blower can be done concurrently and does not affect performance.
+

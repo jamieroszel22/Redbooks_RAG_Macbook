@@ -1,0 +1,17 @@
+e card is configured as a coprocessor or an accelerator. The supported operating systems are listed in Table 7-10 on page 263 and Table 7-11 on page 264.
+
+Crypto Express7S (carry forward on IBM z16)
+
+Introduced with IBM z15, Crypto Express7S includes a single- or dual-port adapter (single or dual IBM 4769 PCIe Cryptographic Co-processor [PCIeCC]) and complies with the following Physical Security Standards:
+
+- /SM590000 FIPS 140-2 level 4
+- /SM590000 Common Criteria EP11 EAL4
+- /SM590000 Payment Card Industry (PCI) HSM
+- /SM590000 German Banking Industry Commission (GBIC, formerly DK)
+
+The supported operating systems are listed in Table 7-10 on page 263 and Table 7-11 on page 264.
+
+Crypto Express6S (carry forward on IBM z16)
+
+Introduced with IBM z14, Crypto Express6S includes one IBM 4768 PCIe Cryptographic Co-processor (PCIeCC) and complies with the following Physical Security Standards:
+

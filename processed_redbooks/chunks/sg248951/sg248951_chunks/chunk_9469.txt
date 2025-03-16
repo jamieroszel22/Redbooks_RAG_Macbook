@@ -1,0 +1,18 @@
+
+- /SM590000 The processor recovery logic is on the DCM and includes the following RAS characteristics:
+- -PU refresh for soft errors
+- -Hardened RU (recovery unit) with wordline failure detection
+- -Improved latch interleaving (spacing) for soft error resistance
+- -Core sparing for hard errors: All servers ship with two spare cores
+- -Improved long-term thresholding
+- -Redesigned nest
+- -Concurrent repair by way of concurrent drawer repair (CDR)
+- -Concurrent upgrade by way of LICCC and enhanced drawer availability (EDA)
+- /SM590000 L1 and L1 shadow: L1 shadow is new on IBM z16 and includes the following characteristics:
+- -Behaves like the L1 (for repairs)
+- -Contains changed data
+- -All unrecoverable error (UE) checkstop core: UEs are refetched before acting
+- -UE impact depends on system state:
+- GLYPH&lt;129&gt; Before end OP, IPD without storage validity
+- GLYPH&lt;129&gt; Before SIE sync, System Damage
+- /SM590000 IBM Z Integrated Accelerator for AI (AIU)

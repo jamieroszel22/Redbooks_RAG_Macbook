@@ -1,0 +1,8 @@
+ctivated concurrently and transparently and is assigned the characteristics of the failing PU.
+
+If an upgrade request cannot be accomplished within the configuration, a hardware upgrade is required.
+
+The following upgrade paths for the IBM z16 are shown in Figure 2-26:
+
+<!-- missing-text -->
+

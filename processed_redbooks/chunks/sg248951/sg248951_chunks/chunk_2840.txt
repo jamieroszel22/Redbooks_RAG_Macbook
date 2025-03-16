@@ -1,0 +1,12 @@
+tions
+- /SM590000 An instruction that runs data conversions to and from the decimal floating point representation
+
+Benefits of the DFP accelerator
+
+The DFP accelerator offers the following benefits:
+
+- /SM590000 Avoids rounding issues, such as those issues that occur with binary-to-decimal conversions.
+- /SM590000 Controls binary-coded decimal (BCD) operations better.
+- /SM590000 Follows the standardization of the dominant decimal data and decimal operations in commercial computing, which supports the industry standardization (IEEE 745R) of decimal floating point operations. Instructions are added in support of the Draft Standard for Floating-Point Arithmetic - IEEE 754-2008, which is intended to supersede the ANSI/IEEE Standard 754-1985.
+- /SM590000 Allows COBOL programs that use zoned-decimal operations to take advantage of the z/Architecture DFP instructions.
+

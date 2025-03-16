@@ -1,0 +1,6 @@
+ then returned to ICSF. After the key is wrapped, ICSF can keep the protected value in memory. It then passes it to the CPACF, where the key is unwrapped for each encryption or decryption operation.
+
+The protected key is designed to provide substantial throughput improvements for a large volume of data encryption and low latency for encryption of small blocks of data. A high-performance secure key solution, also known as a protected key solution , requires the ICSF HCR7770 as a minimum release.
+
+6.5  Crypto Express8S
+

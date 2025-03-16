@@ -1,0 +1,14 @@
+images. However, this change brings more configuration complexity and granularity (more, smaller CF images, more coupling links, and logical CHPIDs to define and manage for connectivity, and so on).
+
+To improve CF processor scaling for the customer's CF images and to make effective use of more processors as the sysplex workload increases, CF work management and dispatcher provide the following improvements IBM z16:
+
+- /SM590000 IBM z16 provides improved CF processor scalability for CF images.
+- /SM590000 Increased number of CF tasks
+- /SM590000 ICA SR latency improvements that improve coupling efficiency in a parallel sysplex.
+
+Coupling Facility Enhancements with CFCC level 25
+
+CFCC level 25 is available on IBM z16 with driver 51. For more information about CFCC Level 25 enhancements, see 'CFCC Level 25' on page 132.
+
+3.5.5  IBM Z Integrated Information Processor (FC 1961)
+

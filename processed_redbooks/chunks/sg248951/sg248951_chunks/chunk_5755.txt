@@ -1,0 +1,14 @@
+ports up to 96 ICA SR1.1 and ICA SR ports combined.
+
+For more information about distance support for coupling links, see IBM Z End-to-End Extended Distance Guide , SG24-8047.
+
+Internal Coupling link
+
+IC links are Licensed Internal Code-defined links that are used to connect a CF to a z/OS logical partition in the same CPC. These links are available on all IBM Z platforms. The IC link is an IBM Z coupling connectivity option that enables high-speed, efficient communication between a CF partition and one or more z/OS logical partitions that are running on the same CPC. The IC is a linkless connection (implemented in LIC) and does not require any hardware or cabling.
+
+An IC link is a fast coupling link that uses memory-to-memory data transfers. IC links do not have PCHID numbers, but do require CHPIDs.
+
+IC links have the following attributes:
+
+- /SM590000 They provide the fastest connectivity that is significantly faster than external link alternatives.
+

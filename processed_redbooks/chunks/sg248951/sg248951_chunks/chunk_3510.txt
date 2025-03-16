@@ -1,0 +1,16 @@
+ 'Operating system support' on page 247.
+
+Logically partitioned mode
+
+If the IBM z16 A01 system runs in LPAR mode, each of the 85 LPARs can be defined to operate in one of the following image modes:
+
+- /SM590000 General mode to run the following systems:
+- -A z/Architecture operating system, on dedicated or shared CPs
+- -A Linux on IBM Z operating system, on dedicated or shared CPs
+- -z/OS, on any of the following processor units:
+- GLYPH&lt;129&gt; Dedicated or shared CPs
+- GLYPH&lt;129&gt; Dedicated CPs and dedicated zIIPs
+- GLYPH&lt;129&gt; Shared CPs and shared zIIPs
+
+zIIP usage: zIIPs can be defined to General mode or z/VM mode image, as listed in Table 3-6 on page 120. However, zIIPs are used by z/OS only. Other operating systems cannot use zIIPs, even if they are defined to the LPAR. z/VM V7R1 and later support real and virtual zIIPs to guest z/OS systems.
+

@@ -1,0 +1,5 @@
+T.
+- /SM590000 CORE,CPU\_OK : This value specifies that z/OS should configure a processor view of core (as with the CORE value) but the CPU parameter is accepted as an alias for applicable commands.
+
+When PROCVIEW CORE or CORE,CPU\_OK are specified in z/OS that is running on an IBM z16, HiperDispatch is forced to run as enabled, and you cannot disable HiperDispatch. The PROCVIEW statement cannot be changed dynamically; therefore, you must re-IPL after changing it to make the new setting effective.
+

@@ -1,0 +1,10 @@
+pose processor, nonvolatile storage, and specialized cryptographic electronics. The Crypto Express8S feature provides tamper-sensing and tamper-responding, high-performance cryptographic operations.
+
+Each Crypto Express8S PCI Express adapter (HSM) is available in one of the following configurations:
+
+- /SM590000 Secure IBM CCA coprocessor (CEX8C) for FIPS 140-2 Level 4 certification. This configuration includes secure key functions. It is optionally programmable to deploy more functions and algorithms by using UDX.
+
+For more information, see 6.5.2, 'Crypto Express8S as a CCA coprocessor' on page 228.
+
+A TKE workstation is required to support the administration of the Crypto Express8S when it is configured in CCA mode when in full Payment Card Industry (PCI)-compliant mode for the necessary certificate management in this mode. The TKE is optional in all other use cases for CCA.
+

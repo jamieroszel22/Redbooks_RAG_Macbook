@@ -1,0 +1,8 @@
+ its processor consumption.
+
+LPARs for z/OS can have CP and zIIP logical processors. The logical processor types can be defined as all dedicated or all shared. The zIIP support is available in z/OS.
+
+The weight and number of online logical processors of an LPAR can be dynamically managed by the LPAR CPU Management function of the Intelligent Resource Director (IRD). These functions can be used to achieve the defined goals of this specific partition and of the overall system. The provisioning architecture of IBM z16 systems adds a dimension to the dynamic management of LPARs, as described in Chapter 8, 'System upgrades' on page 327.
+
+PR/SM supports an option to limit the amount of physical processor capacity that is used by an individual LPAR when a PU is defined as a general-purpose processor (CP) or an IFL that is shared across a set of LPARs.
+

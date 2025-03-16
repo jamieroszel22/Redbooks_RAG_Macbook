@@ -1,0 +1,8 @@
+
+- /SM590000 The HMA can query whether a system is ready for a concurrent driver upgrade.
+- /SM590000 Previous firmware updates, which require an initial machine load (IML) of the IBM z16 system to be activated, can block the ability to run a concurrent driver upgrade.
+- /SM590000 A function on the SE allows you or your IBM SSR to define the concurrent driver upgrade sync point to be used for a CDM.
+- /SM590000 The ability to concurrently install and activate a driver can eliminate or reduce a planned outage.
+- /SM590000 IBM z16 introduces Concurrent Driver Upgrade (CDU) cloning support to other CPCs for CDU preinstallation and activation.
+- /SM590000 Concurrent crossover from Driver level N to Driver level N +1, then to Driver level N +2, must be done serially. No composite moves are allowed.
+- /SM590000 Disruptive upgrades are permitted at any time, and allow for a composite upgrade (Driver N to Driver N +2).

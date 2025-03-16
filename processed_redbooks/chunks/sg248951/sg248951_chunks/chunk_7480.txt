@@ -1,0 +1,18 @@
+em Performance Reference ratio' on page 476.
+
+z/OS SMF Enhancements for CPACF
+
+SMF 0 records were enhanced to indicate the number of crypto counters that are supported by the current IBM Z hardware.
+
+SMF 30 records were enhanced to include new crypto counter sections that contain counters for CPACF cryptographic instructions that are used by a job in a specific period. These sections are produced only for those instructions that are used.
+
+These counters are correlated with z/OS jobs and users for the determination of the algorithms, bit lengths, and key security that is used by a specific workload. This data can aid in compliance, performance, and configuration.
+
+The SMF 30 self-defining section indicates the length and number of crypto counter sections.
+
+The SMF 30 product and subsystem section indicates whether the crypto counters are active.
+
+This feature is supported on z/OS 2.4 and later. It requires APAR OA61511.
+
+Large page support
+

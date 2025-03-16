@@ -1,0 +1,18 @@
+ of the integrated accelerator for AI on the Telum chip is shown in Figure 3-14.
+
+<!-- missing-text -->
+
+The AI accelerator is driven by the new Neural Networks Processing Assist (NNPA) instruction.
+
+NNPA is a new nonprivileged Complex Instruction Set Computer (CISC) memory-to-memory instruction that operates on tensor objects that are in user program's memory. AI functions and macros are abstracted by NNPA.
+
+Figure 3-15 shows the AI accelerator and its components:
+
+- /SM590000 Data movers surround the compute arrays that consist of the Processor Tiles (PT)
+- /SM590000 Processing Elements (PE)
+- /SM590000 Special Function Processors (SFP)
+
+<!-- missing-text -->
+
+Intelligent data movers and prefetchers are connected to the chip by way of ring interface for high-speed, low-latency, read/write cache operations at 200+ GBps read/store bandwidth, and 600+ GBps bandwidth between engines.
+

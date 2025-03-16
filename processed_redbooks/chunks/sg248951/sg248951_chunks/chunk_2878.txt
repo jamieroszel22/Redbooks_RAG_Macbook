@@ -1,0 +1,8 @@
+CFCC level 25 is available on IBM z16 with driver 51. For more information about CFCC Level 25 enhancements, see 'CFCC Level 25' on page 132.
+
+3.5.5  IBM Z Integrated Information Processor (FC 1961)
+
+A zIIP 6 reduces the standard processor (CP) capacity requirements for z/OS Java, XML system services applications, and a portion of work of z/OS Communications Server and Db2 UDB for z/OS Version 8 or later, which frees up capacity for other workload requirements.
+
+A zIIP enables eligible z/OS workloads to have a portion of them directed for execution to a processor that is characterized as a zIIP. Because the zIIPs do not increase the MSU value of the processor, they do not affect the IBM software license changes.
+

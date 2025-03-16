@@ -1,0 +1,8 @@
+ capacity changes the capacity setting of the CPs, going from model capacity identifier 402 to a CBU configuration of a four-way 504 requires four CBU feature codes with a capacity setting of 5 yy .
+
+If the capacity setting of the CPs is changed, more CBU features are required, not more physical PUs. Therefore, your CBU contract requires more CBU features when the capacity setting of the CPs is changed.
+
+CBU can add CPs through LICCC only, and the IBM z16 A01 must have the correct number of installed processor drawers to allow the required upgrade. CBU can change the model capacity identifier to a higher value than the base setting (4 xx , 5 yy , or 6 yy ), but the CBU feature cannot decrease the capacity setting.
+
+A CBU contract must be in place before the special code that enables this capability can be installed on the system. CBU features can be added to an IBM z16 nondisruptively. For each system enabled for CBU, the authorization to use CBU is available for 1 - 5 years.
+

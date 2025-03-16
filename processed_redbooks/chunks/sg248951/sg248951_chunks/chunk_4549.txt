@@ -1,0 +1,14 @@
+d.
+
+3.10.3  VFM administration
+
+The allocation and definition information of VFM for all partitions is viewed through the Storage Information panel that is under the Operational Customization panel.
+
+The information is relocated during CDR in a manner that is identical to the process that was used for expanded storage. VFM is much simpler to manage (HMC task) and no hardware repair and verify (no cables and no adapters) are needed. Also, because this feature is part of internal memory, VFM is protected by RAIM and ECC and can provide better performance because no I/O to an attached adapter occurs.
+
+Note: Use cases for Flash did not change (for example, z/OS paging and CF shared queue overflow). Instead, they transparently benefit from the changes in the hardware implementation.
+
+No option is available for VFM plan ahead. The only option is to always include VFM plan ahead when Flexible Memory option is selected.
+
+3.11  IBM Secure Service Container
+

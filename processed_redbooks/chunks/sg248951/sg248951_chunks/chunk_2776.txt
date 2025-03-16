@@ -1,0 +1,15 @@
+cessor chip of the IBM Telum microprocessor. IBM z16 On-Chip Compression delivers industry-leading throughput and replaces the zEDC Express PCIe adapter available on the IBM z14 and earlier servers.
+
+One Nest Accelerator Unit (NXU) is used per processor chip, which is shared by all cores on the chip and features the following benefits:
+
+- /SM590000 Brand new concept of sharing and operating an accelerator function in the nest
+- /SM590000 Supports DEFLATE compliant compression/decompression and GZIP CRC/ZLIB Adler
+- /SM590000 Low latency
+- /SM590000 High bandwidth
+- /SM590000 Problem state execution
+- /SM590000 Hardware/Firmware interlocks to ensure system responsiveness
+- /SM590000 Designed instruction
+- /SM590000 Run in millicode
+
+The On-Chip Compression Accelerator removes this virtualization constraint because it is shared by all PUs on the processors chip; therefore, it is available to all LPARs and guests.
+

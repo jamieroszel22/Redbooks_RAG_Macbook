@@ -1,0 +1,12 @@
+ the IBM z16:
+
+- /SM590000 FICON Express32S
+- /SM590000 OSA-Express7S 1.2
+- /SM590000 RoCE Express3 (Long Reach and Short Reach)
+- /SM590000 Coupling Express2 Long Reach
+- /SM590000 Crypto Express8S
+
+The IBM z16 is more flexible and features simplified on-demand capacity to satisfy peak processing demands and quicker recovery times with built-in resiliency capabilities. The Capacity on Demand (CoD) function can dynamically change available system capacity. This function can help respond to new business requirements with flexibility and precise granularity.
+
+The IBM Tailored Fit Pricing for IBM Z options delivers unmatched simplicity and predictability of hardware capacity and software pricing, even in the constantly evolving era of hybrid cloud. Consider the following points:
+

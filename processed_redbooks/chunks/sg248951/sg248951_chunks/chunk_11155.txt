@@ -1,0 +1,12 @@
+page 526
+- /SM590000 'Terms and conditions of IBM Z Flexible Capacity for Cyber Resiliency' on page 527
+- /SM590000 'IBM Z Flexible Capacity for Cyber Resilience versus Capacity Back Up' on page 528
+
+Tailored Fit Pricing
+
+Note: For more information about Tailored Fit Pricing, see this IBM Z Resources web page.
+
+The information that is included in this section about TFP is taken in part from the IBM publication Tailored Fit Pricing - A sensible pricing model , 75034875USEN-01.
+
+IBM Z platform users were used to paying for IBM Z software and hardware for peak capacity and managing their software costs by capping machine usage. Traditionally, they capped machine use by using the following methods:
+

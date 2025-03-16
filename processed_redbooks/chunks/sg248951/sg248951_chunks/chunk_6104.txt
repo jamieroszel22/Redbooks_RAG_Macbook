@@ -1,0 +1,12 @@
+SHA-512 and the two extendable output functions as described by the standard SHAKE-128 and SHAKE-256.
+- /SM590000 Message authentication code (MAC):
+- -Single-length key MAC
+- -Double-length key MAC
+
+- /SM590000 Pseudo-Random Number Generator (PRNG), Deterministic Random Number Generation (DRNG), and True Random Number Generation (TRNG) for cryptographic key generation.
+- /SM590000 Galois Counter Mode (GCM) encryption, which is enabled by a single hardware instruction.
+
+For the SHA hashing algorithms and the random number generation algorithms, only clear keys are used. For the symmetric encryption and decryption DES and AES algorithms and clear keys, protected keys also can be used. On IBM z16, protected keys require a Crypto Express adapter that is running in CCA mode.
+
+For more information, see 6.5.2, 'Crypto Express8S as a CCA coprocessor' on page 228.
+

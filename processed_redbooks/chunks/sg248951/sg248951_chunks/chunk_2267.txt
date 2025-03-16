@@ -1,0 +1,15 @@
+cy check (ECRC)
+- -Customer operation code is separate from maintenance code
+- -Native PCIe firmware stack that is running on the integrated firmware processor (IFP) to manage isolation and recovery
+
+The power service and control network (PSCN) is used to control and monitor the elements in the system and include the following components:
+
+- /SM590000 Ethernet Top of Rack (TOR) switches provide the internal PSCN connectivity:
+- -Switches are redundant (N+1)
+- -Concurrently maintainable
+- -Each switch has one integrated power supply
+- -BMCs are cross wired to the Ethernet switches
+- /SM590000 Redundant SEs
+
+Each SE has two power supplies (N+1) and input power is cross-coupled from the PDUs.
+

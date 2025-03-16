@@ -1,0 +1,13 @@
+awer plug order ( not 'ordering'). Feature upgrade provides more processor (CPC) drawers. Max125 cannot be upgraded because the supposed targeted features (Max168 and Max200) are factory built only.
+
+The CPC drawers are populated from the bottom up. This process defines the low-order and the high-order CPC drawers:
+
+- /SM590000 CPC drawer 1 (CPC 0 at position A10): Plug order 1 (low-order CPC drawer)
+- /SM590000 CPC drawer 2 (CPC 1 at position A15): Plug order 2
+- /SM590000 CPC drawer 3 (CPC 2 at position A20): Plug order 3 (high-order CPC drawer)
+
+The assignment rules comply with the following order:
+
+- /SM590000 SAPs: Spread across CPC drawers and high PU chips. Each CPC drawer includes at least five standard SAPs. Start with the highest PU chip high core, then the next highest PU chip high core.
+- /SM590000 CPs and zIIPs: Assign CPs and zIIPs to cores on chips in lower CPC drawers working upward.
+

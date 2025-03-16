@@ -1,0 +1,16 @@
+The IBM Integrated Accelerator for zEDC is fully compatible with zEDC. Data that is compressed by zEDC can be read by IBM z16 (the on-chip) NXU and vice versa.
+
+All z/OS configurations stay the same
+
+No changes are required when moving from earlier systems by using zEDC to IBM z16.
+
+The IFAPRDxx feature is still required for authorized services. For problem state services, such as zlib use of Java, it is not required.
+
+Consider fail-over and disaster recovery sizing
+
+The order of magnitude throughput increase on IBM z16 means that the throughput requirements need to be considered whether failing over to earlier systems with zEDC.
+
+Performance metrics
+
+On-chip compression introduces the following system reporting changes:
+

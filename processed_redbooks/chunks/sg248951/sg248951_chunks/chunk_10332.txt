@@ -1,0 +1,18 @@
+cation for memory, PUs, and I/O, you can make the best decision about how to free the necessary resources to allow for drawer removal.
+
+Complete the following steps to concurrently replace a drawer:
+
+- 1. Run the preparation task to determine the necessary resources.
+- 2. Review the results.
+- 3. Determine the actions to perform to meet the required conditions for EDA.
+- 4. When you are ready to remove the drawer, free the resources that are indicated in the preparation steps.
+- 5. Repeat the step that is shown in Figure 9-7 on page 397 to ensure that the required conditions are all satisfied.
+
+Upon successful completion, the system is ready for the removal of the drawer.
+
+The preparation process can be run multiple times to ensure that all conditions are met. It does not reallocate any resources; instead, it produces only a report. The resources are not reallocated until the Perform Drawer Removal process is started.
+
+Rules during EDA
+
+During EDA, the following rules are enforced:
+

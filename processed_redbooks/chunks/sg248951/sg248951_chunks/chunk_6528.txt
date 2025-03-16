@@ -1,0 +1,10 @@
+in EP11 mode.
+
+The three modes for Crypto Express8S are described next. For more information, see 6.7, 'Cryptographic functions comparison' on page 242.
+
+6.5.2  Crypto Express8S as a CCA coprocessor
+
+A Crypto Express8S adapter that is running in CCA mode supports IBM CCA. CCA is an architecture and a set of APIs. It provides cryptographic algorithms, secure key management, and many special functions that are required for banking. Over 129 APIs with more than 600 options are provided, with new functions and algorithms always being added.
+
+The IBM CCA provides functions for the following tasks 5 :
+

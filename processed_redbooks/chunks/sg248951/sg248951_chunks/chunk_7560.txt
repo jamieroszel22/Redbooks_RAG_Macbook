@@ -1,0 +1,11 @@
+rformance benefits when used in combination applications that use EF data sets (such as Db2) or long chains of small blocks.
+
+For more information about FICON and MIDAW, see the following resources:
+
+- /SM590000 The I/O Connectivity page of the IBM IT infrastructure website includes information about FICON channel performance
+- /SM590000 DS8000 Performance Monitoring and Tuning , SG24-8013
+
+ICKDSF
+
+Device Support Facilities, ICKDSF, Release 17 is required on all systems that share disk subsystems with an IBM z16 processor.
+

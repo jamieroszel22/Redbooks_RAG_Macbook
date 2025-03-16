@@ -1,0 +1,11 @@
+a CXP connector (provided).
+- /SM590000 Cable
+
+The zHyperLink Express1.1 uses optical cable with MTP connector. Maximum supported cable length is 150 meters (492 feet).
+
+zHyperLink Express (FC 0431)
+
+zHyperLink is a new technology that provides up to 5x reduction in I/O latency times for Db2 read requests with the qualities of service IBM Z clients expect from I/O infrastructure for Db2 v12 with z/OS. The z/OS supported versions are the same ad for zHyperLink Express 1.1.
+
+The zHyperLink Express feature (FC 0431) provides a low latency direct connection between IBM z16 and DS8000 I/O Port.
+

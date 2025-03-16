@@ -1,0 +1,10 @@
+mputer (CISC) memory-to-memory instruction that operates on tensor objects that are in client application program memory. AI functions and macros are abstracted by way of NNPA.
+
+Virtual Flash Memory
+
+IBM Virtual Flash Memory (FC 0644) offers up to 6.0 TB of memory for IBM z16 A01. VFM is provided for improved application availability and to handle paging workload spikes.
+
+IBM Virtual Flash Memory is designed to help improve availability and handling of paging workload spikes when running z/OS. With this support, z/OS is designed to help improve system availability and responsiveness by using VFM across transitional workload events, such as market openings, and diagnostic data collection. z/OS also helps improve processor performance by supporting middleware use of pageable large (1 MB) pages.
+
+VFM can help organizations meet their most demanding service level agreements and compete more effectively. VFM is easily configurable, and provides rapid time to value.
+

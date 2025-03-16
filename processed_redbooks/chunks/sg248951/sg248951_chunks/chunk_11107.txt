@@ -1,0 +1,30 @@
+curs, it is advisable to contact IBM to review your configuration. See Figure 12-16 on page 498.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix A.
+
+A
+
+<!-- missing-text -->
+
+Channel options
+
+This appendix describes all channel attributes, required cable types, maximum unrepeated distance, and bit rate for IBM z16. The features that are hosted in the PCIe drawer for Cryptography also are listed.
+
+For all optical links, the connector type is LC Duplex (except for the zHyperLink) and the ICA SR connections, which are established with multi-fiber push-on (MPO) connectors.
+
+The MPO connector of the zHyperLink and the ICA connection feature two rows of 12 fibers and are interchangeable.
+
+The electrical Ethernet cable for the Open Systems Adapter (OSA) connectivity is connected through an RJ45 jack.
+
+The attributes of the channel options that are supported on IBM z16 are listed in Table A-1.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

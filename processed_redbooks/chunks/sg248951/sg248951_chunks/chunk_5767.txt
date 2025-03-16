@@ -1,0 +1,12 @@
+o Express6S features.
+
+4.7.1  CPACF functions (FC 3863)
+
+FC 3863 is required to enable Cryptographic functions (subject to export regulations).
+
+4.7.2  Crypto Express8S feature (FC 0908 and FC 0909)
+
+The Crypto Express8S represents the newest generation of the Peripheral Component Interconnect Express (PCIe) cryptographic coprocessors, which are an optional feature that is available on the IBM z16.
+
+These coprocessors are Hardware Security Modules (HSMs) that provide high-security cryptographic processing as required by banking and other industries. This feature provides a secure programming and hardware environment wherein crypto processes are performed.
+

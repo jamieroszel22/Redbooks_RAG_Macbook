@@ -1,0 +1,8 @@
+es IBM SSRs for the installation. In most cases, the time that is required for installing the LICCC and completing the upgrade is short, depending on how up to date the machine microcode levels are.
+
+To better use the MES upgrade function, carefully plan the initial configuration to allow a concurrent upgrade to a target configuration. The availability of PCIe+ I/O drawers improves the flexibility to perform unplanned I/O configuration changes concurrently.
+
+The Store System Information (STSI) instruction gives more useful and detailed information about the base configuration and temporary upgrades.
+
+The model and model capacity identifiers that are returned by the STSI instruction are updated to coincide with the upgrade. For more information, see 'Store System Information instruction' on page 375.
+

@@ -1,0 +1,22 @@
+ignificantly reducing the effect of these disruptions by boosting a set of recovery processes that create significant pain points for users.
+
+These recovery processes include the following examples:
+
+- -IBM SAN Volume Controller memory dump boost
+- -Middleware restart or recycle boost
+- -HyperSwap configuration load boost
+
+For more information about System Recovery Boost, see Introducing IBM Z System Recovery Boost , REDP-5563.
+
+9.7.1  Scheduled outages
+
+Concurrent hardware upgrades, parts replacement, driver upgrades, and firmware fixes that are available with IBM z16 all address the elimination of scheduled outages. Also, the following indicators and functions that address scheduled outages are included:
+
+- /SM590000 Memory data bus lane sparing.
+
+This feature reduces the number of repair actions for memory.
+
+- /SM590000 Dual tabbed Memory Clock signals.
+- /SM590000 Triple DRAM chipkill tolerance.
+- /SM590000 Processor drawer power distribution N +2 design.
+

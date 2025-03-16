@@ -1,0 +1,14 @@
+summary
+
+The possible concurrent upgrades combinations are listed in Table 8-2.
+
+<!-- missing-text -->
+
+- a. On IBM z16, only ICFs are supported.
+
+8.4  Miscellaneous equipment specification upgrades
+
+MES upgrades enable concurrent and permanent capacity growth. MES upgrades allow the concurrent adding of processors (CPs, ICFs, zIIPs, IFLs, and SAPs), memory capacity, and I/O ports. For sub-capacity models, MES upgrades allow the concurrent adjustment of the number of processors and the capacity level.
+
+The MES upgrade can be performed by using LICCC only, installing more processor drawers, adding PCIe+ I/O drawers, adding I/O 4  features, or using the following combinations:
+

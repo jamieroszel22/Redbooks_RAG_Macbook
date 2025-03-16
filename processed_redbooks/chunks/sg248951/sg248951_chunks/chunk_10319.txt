@@ -1,0 +1,13 @@
+lues.
+- -Vary off the channels.
+- /SM590000 Review the channel layout and determine whether any changes are necessary to address single paths.
+- /SM590000 Develop a plan to address the requirements.
+
+When you perform the review, document the resources that can be made available if the EDA is used. The resources on the drawers are allocated during a POR of the system and can change after that process.
+
+Perform a review when changes are made to your IBM z16, such as adding drawers, PUs, memory, or channels. Also, perform a review when workloads are added or removed, or if the HiperDispatch feature was enabled and disabled since the last time you performed a POR.
+
+9.8.2  Enhanced drawer availability processing
+
+To use the EDA, first ensure that the following conditions are met:
+

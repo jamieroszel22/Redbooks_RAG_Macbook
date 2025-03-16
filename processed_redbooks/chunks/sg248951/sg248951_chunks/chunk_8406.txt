@@ -1,0 +1,13 @@
+total capacity. For more information about WLC, see 7.8, 'Software licensing' on page 323.
+
+8.4.2  MES upgrades for memory
+
+MES upgrades for memory can concurrently add memory in the following ways:
+
+- /SM590000 Through LICCC, which enables more capacity up to the limit of the installed DIMM memory cards.
+- /SM590000 Concurrently installing CPC drawers and LICCC-enabling memory capacity on the new CPC drawers.
+
+The Flexible Memory Feature is available to allow better control over future memory upgrades. For more information about flexible memory features, see 2.5.7, 'Flexible Memory Option' on page 46.
+
+If the IBM z16 is a multiple processor drawer configuration, you can use the EDA feature to remove a processor drawer and add DIMM memory cards. It also can be used to upgrade the installed memory cards to a larger capacity size. You can then use LICCC to enable the extra memory.
+

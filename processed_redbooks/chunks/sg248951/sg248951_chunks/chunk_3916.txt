@@ -1,0 +1,7 @@
+to the cache and lock structure architecture that made them become not perfectly retriable (nonidempotent), but retry buffers were not added to the architecture to mitigate the lack of retriability:
+
+- -Cache structure serialization objects, such as castout locks and cache entry version numbers
+- -Performance-optimized lock structure commands with no retry buffer support
+
+z/OS software provided simple retry logic to provide IFCC recovery for these nonidempotent commands, but inevitably cases existed ion which z/OS cannot provide unambiguous command results to callers. Users might not handle this ambiguity well.
+

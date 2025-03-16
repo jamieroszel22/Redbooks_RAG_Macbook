@@ -1,0 +1,18 @@
+ed.
+
+Results from the STSI instruction reflect the current permanent and temporary CPs. For more information, see 'Store System Information instruction' on page 375.
+
+8.7  z/OS Capacity Provisioning
+
+This section describes how z/OS Capacity Provisioning can help you manage the addition of capacity to a server to handle workload peaks.
+
+z/OS Capacity Provisioning is delivered as part of the z/OS MVS Base Control Program (BCP).
+
+Capacity Provisioning includes the following components:
+
+- /SM590000 Capacity Provisioning Manager (Provisioning Manager)
+- /SM590000 Capacity Provisioning Management Console (available in the IBM z/OS Management Facility)
+- /SM590000 Sample data sets and files
+
+The Provisioning Manager monitors the workload on a set of z/OS systems and organizes the provisioning of extra capacity to these systems when required. You define the systems to be observed in a domain configuration file.
+

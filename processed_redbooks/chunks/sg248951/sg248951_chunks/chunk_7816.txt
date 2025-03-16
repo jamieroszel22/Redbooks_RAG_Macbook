@@ -1,0 +1,15 @@
+resolution.
+
+The Network Traffic Analyzer is supported by all OSA-Express features on IBM z16 when in QDIO mode (CHPID type OSD). The supported operating systems are listed in Table 7-8 on page 259.
+
+7.4.6  Cryptography Features and Functions Support
+
+IBM z16 provides the following major groups of cryptographic functions:
+
+- /SM590000 Synchronous cryptographic functions, which are provided by CPACF
+- /SM590000 Asynchronous cryptographic functions, which are provided by the Crypto Express8S feature
+
+The minimum software support levels are described in the following sections. Review the current PSP buckets to ensure that the latest support levels are known and included as part of the implementation plan.
+
+CP Assist for Cryptographic Function
+

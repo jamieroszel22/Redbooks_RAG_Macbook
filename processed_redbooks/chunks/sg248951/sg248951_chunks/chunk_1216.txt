@@ -1,0 +1,16 @@
+est performance and availability. Redundant power supplies and six SMP9 ports also are shown. Each pair of SMP9 ports is redundant. If a single cable fails, the repair can be performed concurrently.
+
+The CPC drawer logical structure, component connections are shown in Figure 2-9.
+
+<!-- missing-text -->
+
+Memory is connected to the DCMs through memory control units (MCUs). Up to six MCUs are available in a CPC drawer (one or two per DCM) and provide the interface to the DIMM controller. A memory controller uses eight DIMM slots.
+
+The buses are organized in the following configurations:
+
+- /SM590000 The M-bus provides interconnects between PU chips in the same DCM
+- /SM590000 The X-bus provides interconnects between PU chips to each other, in the same drawer
+- /SM590000 The A-bus provides interconnects between different drawers by using SMP9 cables
+
+2.2.1  CPC drawer interconnect topology
+

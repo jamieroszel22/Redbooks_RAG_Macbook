@@ -1,0 +1,6 @@
+erating system and hardware products), virtualization (VMware and virtualBox), Linux, and IBM Z I/O features and protocols (IBM FICONfi and OSA) while co-authoring several IBM Redbooks publications.
+
+Bo Xu is a consulting product Service SSR in China. He has more than 20 years of experience with IBM Z platform maintenance support. He has been working in IBM's Global Technology Services department to provide IBM Z platform support to clients as a local Top Gun, and as second-level support for IBM DS8000fi as one of the country's Top Gun &amp; Skill Owners. His areas of expertise include IBM Z platform hardware, channel connectivity, and IBM DS8000 storage.
+
+Slav Martinski works as a hardware technical support specialist for IBM Europe. He has more than 5 years experience working on IBM Power Servers. Currently, he is working in IBM's Z Systems support team. Slav holds a Computer Science degree from Delaware County College.
+

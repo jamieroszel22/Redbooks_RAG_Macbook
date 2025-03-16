@@ -1,0 +1,16 @@
+a sysplex, ensure that all ICSF PTFs are installed on all systems.
+
+For more information about ICSF versions and FMID cross-references, see this IBM Support web page.
+
+RMF Support for Crypto Express
+
+RMF enhances the Monitor I Crypto Activity data gatherer to recognize and use performance data for the new Crypto Express8S (CEX8), Crypto Express7S (CEX7), and CryptoExpress6S (CEX6) cards. RMF supports all valid card configurations on IBM z16 and provides CEX7 and CEX6 crypto activity data in the SMF type 70 subtype 2 records and RMF Postprocessor Crypto Activity Report.
+
+Reporting can be done at an LPAR/domain level to provide more granular reports for capacity planning and diagnosing problems. This feature requires fix for APAR OA54952.
+
+The supported operating systems are listed in Table 7-10 on page 263.
+
+z/OS Data Set Encryption
+
+Aligned with IBM Z Pervasive Encryption initiative, IBM provides application-transparent, policy-controlled dataset encryption in IBM z/OS.
+

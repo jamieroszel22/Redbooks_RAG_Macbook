@@ -1,0 +1,20 @@
+oor.
+
+Note: On the IBM z16, all I/O cabling and power cords enter the rear of the machine; therefore, all related features for Bottom and Top Exit cabling are in the rear of the frame.
+
+Raised floor
+
+The IBM z16 server can installed in a raised floor environment. You can select top exit features to manage I/O cables from the top frame of the IBM z16.
+
+The following top exit options are available for z16 servers:
+
+- /SM590000 Top Exit I/O cabling without Tophat feature code (FC 7816)
+- /SM590000 Bottom Exit cabling feature code (FC 7899)
+- /SM590000 Top Exit Cabling with Tophat feature code (FC 7898)
+
+11.4.2  Top Exit cabling feature (optional)
+
+The optional Top Exit cabling feature (FC 7816) allows for I/O cabling and power cords to exit the top of the frame. This feature adds cable management options, such as trunking and retainer brackets, as shown in Figure 11-4.
+
+<!-- missing-text -->
+

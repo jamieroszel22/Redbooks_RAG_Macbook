@@ -1,0 +1,13 @@
+tronger Elliptic Curve Cryptography (ECC) levels. More TKE Smart Cards (FC 0900, packs of 10, FIPS certified blanks) require TKE 9.1 LIC or up.
+
+6.6.3  TKE hardware support and migration information
+
+The new TKE 10.0 LIC (FC 0882) is originally shipped with a new IBM z16 server. The following TKE workstations can be ordered with a new IBM z16:
+
+- /SM590000 TKE 10.0 tower workstation (FC 0058)
+- /SM590000 TKE 10.0 rack-mounted workstation (FC 0057)
+
+Note: Several options for ordering the TKE with or without ordering Keyboard, Mouse, and Display are available. Ask your IBM Representative for more information about which option is the best option for you.
+
+The TKE 10.0 LIC requires the 4770 crypto adapter. The TKE 9.x and TKE 8.x workstations can be upgraded to the TKE 10.0 tower workstation by purchasing a 4770 crypto adapter.
+

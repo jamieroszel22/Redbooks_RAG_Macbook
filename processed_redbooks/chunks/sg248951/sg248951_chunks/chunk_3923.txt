@@ -1,0 +1,10 @@
+tive to redispatch it, and the CF image voluntarily gives up control of the shared processor. This option provides the most efficient sharing, and better shared-engine CF performance.
+
+-DYNDISP=THIN
+
+An interrupt-driven model in which the CF processor is dispatched in response to a set of events that generate Thin Interrupts, runs until it runs out of work and then, gives up control voluntarily. This option provides the most efficient sharing, and best overall shared-engine CF performance.
+
+DYNDISP=THIN support to use Thin Interrupts was available since zEC12/zBC12, and proved to be efficient and well-performing in several shared-engine coupling facility configurations. IBM z15 made DYNDISP=THIN the default mode of operation for shared-engine coupling facility images, but supported the other options OFF and ON for continued 'legacy' use.
+
+Note: In IBM z16, DYNDISP=THIN option is the only available behavior for shared-engine CF dispatching.
+

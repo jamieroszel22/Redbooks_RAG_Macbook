@@ -1,0 +1,14 @@
+bility for customers to purchase extended defect support service for z/OS V2.R2.
+- c. z/VSE n is supported by 21 st Century Software.
+- d. KVM hypervisor is supported by Linux distribution partners.
+
+The use of specific features depends on the operating system. In all cases, program temporary fixes (PTFs) might be required with the operating system level that is indicated. Check the z/OS fix categories, or the subsets of the 3931DEVICE (IBM z16 A01) PSP buckets for z/VM and z/VSE.
+
+The fix categories and the PSP buckets are continuously updated. They contain the latest information about maintenance.
+
+Hardware and software buckets contain installation information, hardware and software service levels, service guidelines, and cross-product dependencies.
+
+For more information about Linux on IBM Z distributions and KVM hypervisor, see the distributor's support information.
+
+7.2  Support by operating system
+

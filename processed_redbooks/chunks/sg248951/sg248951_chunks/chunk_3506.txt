@@ -1,0 +1,10 @@
+elative weight settings, and no capping at all. It is best to avoid this scenario and instead attempt to establish a defined capacity that is equal or close to the relative weight.
+
+/SM590000 Memory
+
+Memory (main storage) must be dedicated to an LPAR. The defined storage must be available during the LPAR activation; otherwise, the LPAR activation fails.
+
+Reserved storage can be defined to an LPAR, which enables nondisruptive memory addition to and removal from an LPAR by using the LPAR dynamic storage reconfiguration (z/OS and z/VM). For more information, see 3.7.5, 'LPAR dynamic storage reconfiguration' on page 127.
+
+- /SM590000 Channels
+

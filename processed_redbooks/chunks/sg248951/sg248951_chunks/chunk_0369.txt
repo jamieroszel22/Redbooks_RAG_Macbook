@@ -1,0 +1,16 @@
+ordered with a BPA.
+
+1.2.2  CPC drawers
+
+The IBM z16 A01 can be configured with up to four CPC drawers (three in the A Frame and one in the B Frame). Each CPC drawer contains the following elements:
+
+- /SM590000 Telum processor chips that use Extreme ultraviolet (EUV) process with 7 nm silicon lithography technology. Each processor chip consists of eight PU cores. Two processor chips are packaged in the dual-chip module (DCM).
+- /SM590000 DCMs
+
+Four DCMs that contain 64 physical cores per drawer interconnected (each cooled by an internal water loop). Each DCM can have 9 - 11 or 10 - 15 active PU cores (depending on the configuration that is used).
+
+- /SM590000 Memory:
+- -A minimum of 512 GB and a maximum of 40 TB of memory per system can be ordered, which does not include 256 GB for hardware system area (HSA).
+- -Up to 48 dual inline memory modules (DIMMs) that are 32 GB, 64 GB, 128 GB, 256 GB, or 512 GB are plugged in a CPC drawer.
+- /SM590000 Fan-outs
+

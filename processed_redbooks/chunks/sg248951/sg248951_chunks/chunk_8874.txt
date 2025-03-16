@@ -1,0 +1,6 @@
+clustering technology is the best continuous availability solution for z/OS environments, nondisruptive upgrades within a single system can avoid system outages and cover non-z/OS operating systems.
+
+IBM z16 allows concurrent upgrades, which means that dynamically adding capacity to the system is possible. If the operating system images that run on the upgraded system do not require disruptive tasks to use the new capacity, the upgrade is also nondisruptive . This process avoids power-on resets (POR), LPAR deactivation, and IPLs.
+
+If the concurrent upgrade is intended to satisfy an image upgrade to an LPAR, the operating system that is running in this partition must concurrently configure more capacity online. z/OS operating systems include this capability. z/VM can concurrently configure new processors and I/O devices online, and memory can be dynamically added to z/VM partitions.
+

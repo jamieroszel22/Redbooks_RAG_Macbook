@@ -1,0 +1,16 @@
+d multiply
+- /SM590000 String find 8-bit, 16-bit, and 32-bit
+- /SM590000 String range compare
+- /SM590000 String find any equal
+- /SM590000 String load to block boundaries and load/store with length
+
+For most operations, the condition code is not set. A summary condition code is used only for a few instructions.
+
+3.4.3  Out-of-Order execution
+
+IBM z16 servers have an Out-of-Order core, much like the IBM z15 and IBM z14. This optimized Out-of-Order feature yields significant performance benefits for compute-intensive applications. It does so by reordering instruction execution, which allows later (younger) instructions to be run ahead of a stalled instruction, and reordering storage accesses and parallel storage accesses. Out-of-Order maintains good performance growth for traditional applications.
+
+Out-of-Order execution can improve performance in the following ways:
+
+- /SM590000 Reordering instruction execution
+

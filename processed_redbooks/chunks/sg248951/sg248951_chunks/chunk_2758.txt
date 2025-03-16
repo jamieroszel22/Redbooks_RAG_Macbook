@@ -1,0 +1,8 @@
+ds that need maximum thread speed, the partition's SMT mode can be turned off. For workloads that need more throughput to decrease the dispatch queue size, the partition's SMT mode can be turned on.
+
+SMT use is functionally transparent to middleware and applications, and no changes are required to run them in an SMT-enabled partition.
+
+3.4.2  Single-instruction multiple-data
+
+The IBM z16 superscalar processor has 32 vector registers and an instruction set architecture that includes a subset of instructions (known as SIMD) that were added to improve the efficiency of complex mathematical models and vector processing. These new instructions allow a larger number of operands to be processed with a single instruction. The SIMD instructions use the superscalar core to process operands in parallel.
+

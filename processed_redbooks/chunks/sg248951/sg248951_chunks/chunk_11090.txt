@@ -1,0 +1,16 @@
+h' on page 117.
+
+<!-- missing-text -->
+
+Both windows shown in Figure 12-6 will remain visible. Changes to the Partition Detail Report will reflect in the HiperDispatch window.
+
+<!-- missing-text -->
+
+Figure 12-7 on page 488 shows all defined partitions and how HiperDispatch is expected to manage their logical CPs.
+
+HiperDispatch supports logical CPs running z/OS v1.7 and later and z/VM v6.3 and later. For z/OS partitions zIIPs and shared CPs are affected similarly. For z/VM partitions IFLs and associated logical CPs are also affected similarly.
+
+<!-- missing-text -->
+
+The HiperDispatch window shown in Figure 12-7 on page 488, contains most of the information from the Partition Detail Report, plus:
+

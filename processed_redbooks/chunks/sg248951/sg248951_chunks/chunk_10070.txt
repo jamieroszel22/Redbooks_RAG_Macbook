@@ -1,0 +1,2 @@
+r causes no performance effect.
+

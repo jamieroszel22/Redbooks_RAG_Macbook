@@ -1,0 +1,13 @@
+support auto-negotiation to a data link rate of 2 or 4 Gbps (only 8 or 16 Gbps) for point-to-point connections. A compatible switch must be used to connect to lower speed devices.
+
+FICON Express16S+
+
+The FICON Express16S+ feature is installed in the PCIe+ I/O drawer. Each of the two independent ports is capable of 4, 8, or 16 Gbps. The link speed depends on the capability of the attached switch or device. The link speed is auto-negotiated, point-to-point, and is transparent to users and applications.
+
+The following types of FICON Express16S+ optical transceivers are supported (no mix on same card):
+
+- /SM590000 FICON Express16S+ LX feature, FC 0427, with two ports per feature, supporting LC Duplex connectors
+- /SM590000 FICON Express16S+ SX feature, FC 0428, with two ports per feature, supporting LC Duplex connectors
+
+For more information, see the FICON Express chapter IBM Z Connectivity Handbook, SG24-5444.
+

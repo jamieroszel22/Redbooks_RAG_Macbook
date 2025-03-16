@@ -1,0 +1,19 @@
+emory, and I/O.
+
+For more information about the IBM z16 RAS features, see Chapter 9, 'Reliability, availability, and serviceability' on page 379.
+
+IBM z16 A01 servers include the following features:
+
+- /SM590000 Ultra-high frequency, large, high-speed buffers (caches) and memory
+- /SM590000 Superscalar processor design
+- /SM590000 Improved out-of-order core execution
+- /SM590000 Simultaneous multithreading (SMT)
+- /SM590000 Single-instruction multiple-data (SIMD)
+- /SM590000 On-core integrated accelerator for Z SORT, one per PU core
+- /SM590000 On-chip integrated accelerator for IBM zEnterprisefi Data Compression (zEDC), one per PU chip
+- /SM590000 On-chip integrated accelerator for AI (AI unit or AIU), one per PU chip
+- /SM590000 Quantum-safe cryptography support
+- /SM590000 Flexible configuration options
+
+It is the next implementation of IBM Z servers to address the ever-changing IT environment.
+

@@ -1,0 +1,10 @@
+tualization capabilities for IBM z16 are 63 Virtual Functions per port (126 VFs per feature/PCHID). One RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID).
+
+The 25 GbE RoCE Express3 SR (FC 0452) feature connects by using SR optics and multimode fiber that is terminated with LC connector. The 25 GbE RoCE Express3 LR (FC 0453) connects by using LR optics and single mode fiber that is terminated with LC connector.
+
+25 GbE RoCE Express2.1 and 25 GbE RoCE Express2
+
+Based on the RoCE Express2 generation hardware, the 25 GbE RoCE Express2 (FC 0430 and 0450) features provide two 25 GbE physical ports and require 25 GbE optics and Ethernet switch 25 GbE support. The switch port must support 25 GbE (negotiation down to 10 GbE is not supported).
+
+The 25 GbE RoCE Express2 has one PCHID and the same virtualization characteristics and the 10 GbE RoCE Express2 (FC 0412 and FC 0432); that is, 126 Virtual Functions per PCHID.
+

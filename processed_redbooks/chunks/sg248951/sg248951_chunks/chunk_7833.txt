@@ -1,0 +1,17 @@
+ported operating systems are listed in Table 7-10 on page 263.
+
+z/TPF transparent database encryption
+
+Shipped in August 2016, z/TPF at-rest Data Encryption provides following features and benefits:
+
+- /SM590000 Automatic encryption of at-rest data by using AES CBC (128 or 256).
+- /SM590000 No application changes required.
+- /SM590000 Database level encryption by using highly efficient CPACF.
+- /SM590000 Inclusion of data on disk and cached in memory.
+- /SM590000 Ability to include data integrity checking (optionally by using SHA-256) to detect accidental or malicious data corruption.
+- /SM590000 Tools to migrate a database from unencrypted to encrypted state or change the encryption key/algorithm for a specific DB while transactions are flowing (no database downtime).
+
+Pervasive encryption for Linux on IBM Z
+
+Pervasive encryption for Linux on IBM Z combines the full power of Linux with IBM z16 capabilities by using the support of the following features:
+

@@ -1,0 +1,23 @@
+RJ45 ports, as shown in Figure 10-17. The red lines highlights the Ethernet connectivity for the SEs; the green lines highlight the HMCs.
+
+<!-- missing-text -->
+
+10.3.2  Stand-alone HMC connectivity
+
+The following HMC feature codes can be carried forward from previous orders:
+
+- /SM590000 FC 0062
+- /SM590000 FC 0063
+- /SM590000 FC 0082
+- /SM590000 FC 0083
+
+With these HMC feature codes, Driver 51/Version 2.16.0 can be installed to support IBM z16.
+
+You can use the IBM z16 with previously ordered HMCs and no HMA. It is possible to order the HMA FC 0129 later as MES.
+
+The HMC communicates with the SE is through a customer-supplied Ethernet switch (two switches are recommended for redundancy).
+
+Each SE and each HMC has two Ethernet RJ45 ports. An example of these connections are made without an HMA is shown in Figure 10-18.
+
+<!-- missing-text -->
+

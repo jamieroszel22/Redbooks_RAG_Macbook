@@ -1,0 +1,12 @@
+ed Fit Pricing for IBM Z hardware in more detail
+
+Tailored Fit Pricing (TFP)-Hardware pricing includes two aspects: a Subscription charge, and a Usage charge (see Figure D-2).
+
+<!-- missing-text -->
+
+One of the most important facts about TFP-Hardware is that a single system or central processing complex (CPC) always is considered. It is on this level that use is measured. The blue bars that are shown in Figure D-2 represent individual 15-minute intervals, and the use is measured in each one.
+
+In Figure D-2, the dark green line shows the average use of the machine over the entire period that is measure (normally a month). The black line shows the Rolling 4 Hour Average (R4HA), and it is displayed for information purposes only because the R4HA is not used for TFP-Hardware calculations.
+
+The red line is the customer owned capacity (or Base capacity). The light green line shows the activated capacity of the machine, as reported by Sub-Capacity Reporting Tool (SCRT).
+

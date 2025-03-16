@@ -1,0 +1,22 @@
+ns Guide .
+
+10.2.1  Driver 51/Version 2.16.0 HMC and SE new features
+
+The following support was added with Driver 51/Version 2.16.0:
+
+- /SM590000 Enhanced Multi-Factor Authentication (MFA) functions
+
+With Driver 41/Version 2.15.0, MFA by way of Time-based One-time Password (TOTP) or IBM Z MFA (z/OS) and RSA Secure ID is supported on the HMC.
+
+New with Driver 51/Version 2.16.0, the following MFA possibilities are supported:
+
+- -Certificates:
+- GLYPH&lt;129&gt; Personal Identity Verification (PIV)
+- GLYPH&lt;129&gt; Common Access Card (CAC)
+- GLYPH&lt;129&gt; Certificates on USB keys
+- -Generic remote authentication dial-in user service (RADIUS) supports all various RADIUS factor types and requires a customer-provided RADIUS server.
+
+New is the support of IBM Z MFA for Red Hat Enterprise Linux Server or SUSE Linux Enterprise Server that is running on z/VM or native in an LPAR.
+
+For more information see the following resources:
+

@@ -1,0 +1,10 @@
+or deleting a logical partition name
+
+Dynamically adding or deleting an LPAR name is the ability to add or delete LPARs and their associated I/O resources to or from the configuration without a POR.
+
+The extra channel subsystem and multiple image facility (MIF) image ID pairs (CSSID/MIFID) can be later assigned to an LPAR for use (or later removed). This process can be done through dynamic I/O commands by using the HCD. At the same time, required channels must be defined for the new LPAR.
+
+Partition profile: Cryptographic coprocessors are not tied to partition numbers or MIF IDs. They are set up with Adjunct Processor (AP) numbers and domain indexes. These numbers are assigned to a partition profile of a specific name. The client assigns these AP numbers and domains to the partitions and continues to have the responsibility to clear them out when their profiles change.
+
+Adding logical processors to a logical partition
+

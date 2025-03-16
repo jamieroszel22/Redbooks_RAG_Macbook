@@ -1,0 +1,14 @@
+ensure it follows best practices. The use of CAT can help you deal with managing complex cryptography resources across your organization.
+
+z/VM encrypted hypervisor paging (encrypted paging support)
+
+With the PTF for APAR VM65993, z/VM V6.4 provides support for encrypted paging in support of the IBM z16 pervasive encryption philosophy of encrypting all data that is in flight and at rest. Ciphering occurs as data moves between active memory and a paging volume that is owned by z/VM.
+
+Included in this support is the ability to dynamically control whether a running z/VM system is encrypting this data. This support protects guest paging data from administrators or users with access to volumes. Enabled with AES encryption, z/VM Encrypted Paging includes low overhead by using CPACF.
+
+The supported operating systems are listed in Table 7-10 on page 263.
+
+z/TPF transparent database encryption
+
+Shipped in August 2016, z/TPF at-rest Data Encryption provides following features and benefits:
+

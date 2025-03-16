@@ -1,0 +1,18 @@
+g-text -->
+
+Multi-system environment
+
+A two-site, two-system environment is only the base infrastructure. Flexible Capacity for Cyber Resiliency also is suited for complex multi-system environments.
+
+Flexible Capacity from several systems can be transferred to single systems in Site B or vice-versa (see Figure D-9).
+
+<!-- missing-text -->
+
+Movement of capacity does not need to be 'all to one': the capacity also can be split.
+
+However, the total capacity that is active on all systems after the swap cannot exceed the total capacity that is active before the swap.
+
+Flexibly Capacity is available on all engine types; exceeding the purchased capacity incurs charged. Monitoring to ensure compliance is done by way of Call Home data that IBM receives periodically.
+
+Tailored fit pricing for hardware and IBM Z Flexible Capacity for Cyber Resiliency
+

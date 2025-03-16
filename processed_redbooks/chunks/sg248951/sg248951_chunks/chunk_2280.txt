@@ -1,0 +1,24 @@
+ items:
+
+CP
+
+The processor is purchased and activated. PU supports running the z/OS, z/VSE, z/VM, z/TPF, and Linux on IBM Z 7  operating systems. It also can run Coupling Facility Control Code.
+
+IFL
+
+The Integrated Facility for Linux (IFL) is a processor that is purchased and activated for use by z/VM for Linux guests and Linux on IBM Z 7 operating systems.
+
+Unassigned IFL
+
+A processor that is purchased for future use as an IFL. It is offline and cannot be used until an upgrade for the IFL is installed. It does not affect software licenses or maintenance charges.
+
+ICF
+
+An internal coupling facility (ICF) processor that is purchased and activated for use by the Coupling Facility Control Code.
+
+Unassigned ICF
+
+A processor that is purchased for future use as an ICF. It is offline and cannot be used until an upgrade for the ICF is installed. It does not affect software licenses or maintenance charges
+
+zIIP
+

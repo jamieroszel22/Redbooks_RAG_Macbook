@@ -1,0 +1,4 @@
+in the keys to be loaded into the Crypto Express features. These readers can be used only with smart cards that have applets that were loaded from a TKE 8.1 or later. These cards are FIPS certified.
+
+Smart card readers from FC 0885 or FC 0891 also can be carried forward. Smart cards can be used on TKE 10.0 with these readers. Access to and use of confidential data on the smart card are protected by a user-defined PIN. Up to 990 other smart cards can be ordered for backup (the extra smart card feature code is FC 0900). When one feature code is ordered, 10 smart cards are included. The order increment is 1 - 99 (10 - 990 blank smart cards).
+

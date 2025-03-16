@@ -1,0 +1,16 @@
+
+
+New is the support of IBM Z MFA for Red Hat Enterprise Linux Server or SUSE Linux Enterprise Server that is running on z/VM or native in an LPAR.
+
+For more information see the following resources:
+
+- -This IBM Documentation web page
+- -10.3.8, 'HMC multi-factor authentication' on page 429.
+- /SM590000 Log in changes to support PCI-DSS
+
+To support Payment Card Industry-Data Security Standard (PCI-DSS), a single GUI login window now is used for user ID, password, and the authentication code if MFA is used. Previously, the entry for the authentication code was on a separate window.
+
+For greater security, the details about the login failure can be reviewed only in the Audit and Security Log (which needs specific access level). For the GUI and Web Services APIs, the HMC returns a message that indicates that the login failed. No other information is provided.
+
+- /SM590000 HMC/SE TLS 1.3 support
+

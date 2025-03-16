@@ -1,0 +1,12 @@
+ prefer to leave some room and run at 90% or slightly under.
+
+12.9  Capacity planning considerations for IBM z16
+
+In this section, we describe recommended ways conduct capacity planning for IBM z16.
+
+Do not use MIPS or MSUs for capacity planning: Do not use 'one number' capacity comparisons, such as MIPS or MSUs. IBM does not officially announce the processor performance as 'MIPS'. MSU is only a number for software license charge and it does not represent the processor's performance.
+
+12.9.1  Collect CPU MF counter data
+
+It is important to recognize the LSPR workload type of your production system. As described in 12.7, 'CPU MF counter data and LSPR workload type' on page 482, the capacity of the processor is different from the LSPR workload type. By collecting the CPU MF z/OS SMF 113 record, you can recognize the workload type in a specific IBM-provided capacity planning tool. Therefore, collecting CPU MF counter data is a first step to begin the capacity planning.
+

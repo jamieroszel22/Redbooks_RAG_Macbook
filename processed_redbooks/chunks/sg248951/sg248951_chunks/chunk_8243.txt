@@ -1,0 +1,13 @@
+ a peak workload or to temporarily replace a system that is down during a disaster or data center maintenance, might require only a temporary upgrade.
+
+IBM z16 servers offer the following solutions:
+
+- /SM590000 Permanent upgrades
+- -Miscellaneous equipment specification (MES)
+- An MES upgrade might involve adding physical hardware or installing Licensed Internal Code Configuration Control (LICCC). In both cases, the hardware installation is performed by IBM personnel.
+- -Customer Initiated Upgrade (CIU)
+
+The use of the CIU facility for a system requires that the online CoD buying feature (FC 9900) is installed on the system and the relevant CIU contract agreements are in place. The CIU facility supports only LICCC upgrades.
+
+For more information, see 8.2.4, 'Permanent upgrades' on page 332.
+

@@ -1,0 +1,20 @@
+ service key management APIs
+- /SM590000 Australian Payment Network Acquirer function for key derivation and MAC chaining added for interoperability with Australian audited payment networks
+
+CCA 7.1
+
+The following CCA 7.1 improvements were made:
+
+- /SM590000 Supported curves:
+- -NIST Prime Curves: P192, P224, P256, P384, and P521
+- -Brainpool Curves: 160, 192, 224, 256, 320, 384, and 512
+- /SM590000 Support in the CCA coprocessor for Edwards curves ED25519 (128-bit security strength) and ED448 (224-bit security strength)
+
+Although ED25519 is faster, ED448 is more secure. Practically though, 128-bit security strength is very secure.
+
+Edwards curves are used for digitally signing documents and verifying those signatures.
+
+Edwards curves are less susceptible to side channel attacks when compared to Prime and Brainpool curves.
+
+- /SM590000 ECC Protected Keys
+

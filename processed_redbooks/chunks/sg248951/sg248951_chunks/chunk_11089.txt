@@ -1,0 +1,17 @@
+cations and to your bill.
+- /SM590000 For the larger partitions, start the strategy to split them into smaller partitions.
+- -Use IBM zPCR to show potential capacity savings for 'more smaller' LPARs.
+- /SM590000 Utilize HiperDispatch in every z/OS and z/VM LPAR. HiperDispatch optimizes processor cache usage by creating an affinity between a PU and the workload.
+
+12.9.5  IBM zPCR HiperDispatch Report
+
+IBM zPCR HiperDispatch report supports the ability to show how many Vertical High, Medium, and Low CPs will be assigned to each partition, based on current weights and LCPs. Figure 12-6 on page 488 shows how to select the HiperDispatch Assignment Report from the Partition Detail Report.
+
+For additional information refer to: 'HiperDispatch' on page 117.
+
+<!-- missing-text -->
+
+Both windows shown in Figure 12-6 will remain visible. Changes to the Partition Detail Report will reflect in the HiperDispatch window.
+
+<!-- missing-text -->
+

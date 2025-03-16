@@ -1,0 +1,20 @@
+BM Z, or later
+- /SM590000 SUSE Linux Enterprise Server (SLES) on IBM Z 15
+- /SM590000 Ubuntu Server LTS for IBM Z 22.04
+
+The following optional software is available for collecting compliance data:
+
+- /SM590000 Oracle 19c
+- /SM590000 PostgresSQL 13.x, 14.x
+
+7.5  z/OS migration considerations
+
+Except for base processor support, z/OS releases do not require any of the functions that are introduced with the IBM z16. Minimal toleration support that is needed depends on z/OS release.
+
+Although IBM z16 servers do not require any 'functional' software, it is recommended to install all IBM z16 service before upgrading to the new server. The support matrix for z/OS releases and the IBM Z servers that support them are listed in Table 7-16, where 'X' indicates that the hardware model is supported.
+
+<!-- missing-text -->
+
+- a. Server is withdrawn from marketing.
+- b. The IBM Software Support Services provides the ability for customers to purchase extended defect support service for z/OS.
+

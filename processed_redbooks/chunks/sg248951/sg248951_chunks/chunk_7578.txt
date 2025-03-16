@@ -1,0 +1,6 @@
+d-alone tool to assist with this planning before the installation.
+
+The capabilities of the WWPN are extended to calculate and show WWPNs for virtual and physical ports ahead of system installation.
+
+The tool assigns WWPNs to each virtual FCP channel or port by using the same WWPN assignment algorithms that a system uses when assigning WWPNs for channels that use NPIV. Therefore, the SAN can be set up in advance, which allows operations to proceed much faster after the server is installed. In addition, the SAN configuration can be retained instead of altered by assigning the WWPN to physical FCP ports when a FICON feature is replaced.
+

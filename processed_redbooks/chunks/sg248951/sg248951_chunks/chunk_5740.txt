@@ -1,0 +1,10 @@
+ual PCI function. ISM is a virtual PCI network adapter that enables direct access to shared virtual memory, which provides a highly optimized network interconnect for IBM Z intra-CPC communications.
+
+SMC-D maintains the socket-API transparency aspect of SMC-R so that applications that use TCP/IP communications can benefit immediately without requiring any application software or IP topology changes. SMC-D completes the overall SMC solution, which provides synergy with SMC-R.
+
+SMC-R and SMC-D use shared memory architectural concepts, which eliminate the TCP/IP processing in the data path, yet preserves TCP/IP Qualities of Service for connection management purposes.
+
+Internal Shared Memory
+
+ISM is a function that is supported by IBM z16, IBM z15, and IBM z14 systems. It provides connectivity by using shared memory access between multiple operating system images within the same CPC. ISM creates virtual adapters with shared memory that is allocated for each operating system image.
+

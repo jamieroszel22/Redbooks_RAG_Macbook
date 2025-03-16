@@ -1,0 +1,23 @@
+al minutes to indefinitely in this condition. Because most single phase losses are transients that recover in seconds, this redundancy provides protection against virtually all single phase outages.
+
+Power cords for the BPAs are attached to the options that are listed in Table 11-5.
+
+<!-- missing-text -->
+
+The source power cords ratings for BPA systems are listed in Table 11-6.
+
+<!-- missing-text -->
+
+- a. Japan (same physical cord as Note b)
+- b. US and Canada (same physical cord as Note a)
+- c. US and Canada only
+- d. US only
+
+A rear view of a maximum configured BPA powered system with two BPA pairs, IBF, four CPC drawers, and 10 PCIe+ I/O drawers is shown in Figure 11-2.
+
+<!-- missing-text -->
+
+The number of power cords that are required based on the number of CPC drawers and PCIe+ I/O drawers are listed in Table 11-7.
+
+<!-- missing-text -->
+

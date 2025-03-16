@@ -1,0 +1,19 @@
+ only.
+
+IBM z14 and newer servers support up to three hops in a cascaded FICON SAN environment. This support allows clients to more easily configure a three- or four-site disaster recovery solution.
+
+For more information about the FICON multi-hop, see the FICON Multihop: Requirements and Configurations white paper at the IBM Techdocs Library website.
+
+FICON feature summary
+
+The FICON feature codes, cable type, maximum unrepeated distance, and the link data rate on an IBM z16 A01 server are listed in Table 4-7. All FICON features use LC Duplex connectors.
+
+<!-- missing-text -->
+
+- a. Minimum fiber bandwidths in MHz/km for multimode fiber optic links are included in parentheses, where applicable.
+- b. For Single Mode fiber, at 1310 nm, link running at 32 Gbps are limited for point-to-point connectivity to 5 km.
+- c. 2 and 4 Gbps connectivity is not supported for point-to-point connections
+- d. 2 and 4 Gbps connectivity is supported through a SAN switch.
+
+zHyperLink Express1.1 (FC 0451)
+

@@ -1,0 +1,10 @@
+s 24-, 31-, and 64-bit addressing modes, multiple arithmetic formats, and multiple address spaces for robust interprocess security.
+
+The IBM z16 system design features the following main objectives:
+
+- /SM590000 Offer a data-centric approach to information (data) security that is simple, transparent, and consumable (extensive data encryption from inception to archive, in-flight, and at-rest).
+- /SM590000 Offer a flexible infrastructure to concurrently accommodate a wide range of operating systems and applications, from the traditional systems (for example, z/OS and z/VM) to the world of Linux, cloud, analytics, and mobile computing.
+- /SM590000 Offer state-of-the-art integration capability for server consolidation by using virtualization capabilities in a highly secure environment:
+- -Logical partitioning, which allows up to 85 independent logical servers.
+- -z/VM, which can virtualize hundreds to thousands of servers as independently running virtual machines (guests).
+

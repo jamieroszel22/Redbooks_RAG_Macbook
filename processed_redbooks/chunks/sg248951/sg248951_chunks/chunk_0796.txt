@@ -1,0 +1,4 @@
+
+- /SM590000 System Recovery Boost enhancements that are delivered with the IBM z16 maximize service availability by using tailored short-duration boosts to mitigate the effect of the following recovery processes:
+- GLYPH&lt;129&gt; IBM SAN Volume Controller memory dump boost boosts the system on which the IBM SAN Volume Controller memory dump is taken to reduce system affect and expedite diagnostic capture. It is possible to enable, disable, or set thresholds for this option.
+- GLYPH&lt;129&gt; Middleware restart/recycle boost boosts the system on which a middleware instance is being restarted to expedite resource recovery processing, release retained locks, and so on. It is applicable to planned restarts, or restarts after failure, automated, or ARM-driven restarts. System Recovery Boost do not boost any system address spaces by default and must be configured by the WLM policy specification.

@@ -1,0 +1,12 @@
+C) enhances I/O capability and flexibility, while allowing for the future integration of PCIe adapters and features.
+
+The PCIe I/O infrastructure in IBM z16 A01 consists of the following components:
+
+- /SM590000 PCIe+ Gen3 dual port fan-outs that support 16 GBps I/O bus for CPC drawer connectivity to the PCIe+ I/O drawers. It connects to the PCIe Interconnect Gen3 in the PCIe+ I/O drawers.
+- /SM590000 Integrated Coupling Adapter Short Reach (ICA SR and ICA SR1.1), which are PCIe Gen3 features that support short distance coupling links. The ICA SR and ICA SR1.1 features have two ports, each port supporting 8 GBps.
+- /SM590000 The 8U, 16-slot, and 2-domain PCIe+ I/O drawer for PCIe I/O features.
+
+Installed features in the PCIe+ I/O drawer
+
+The I/O infrastructure of IBM z16 A01 provides the following benefits:
+

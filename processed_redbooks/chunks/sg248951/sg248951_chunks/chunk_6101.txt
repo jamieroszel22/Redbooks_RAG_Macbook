@@ -1,0 +1,8 @@
+d by using Feature Code (FC) 3863, which is available at no charge. Support for hashing algorithms SHA-1, SHA-256, SHA-384, and SHA-512 always is enabled.
+
+6.4.1  Cryptographic synchronous functions
+
+Because the CPACF works synchronously with the PU, it provides cryptographic synchronous functions. For IBM and client-written programs, CPACF functions can be started by using the MSA instructions. z/OS ICSF callable services on z/OS, in-kernel crypto APIs, and a libica cryptographic functions library that is running on Linux on IBM Z also can start CPACF synchronous functions.
+
+The following tools might benefit from the throughput improvements for IBM z16 CPACF:
+

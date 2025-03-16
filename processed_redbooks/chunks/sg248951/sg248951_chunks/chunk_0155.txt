@@ -1,0 +1,14 @@
+al L4 per CPC drawer
+
+The result is improved system performance and scalability with 1.5x more cache capacity per core over the IBM z15 and reduced average access latency through a flatter topology.
+
+The IBM z16 (machine type 3931) has one model: the A01. The maximum number of characterizable processor units (PUs) with the IBM z16 is represented by feature names: Max39, Max82, Max125, Max168, and Max200.
+
+The number of characterizable PUs, spare PUs, System Assist Processors (SAPs), and Integrated Firmware Processors (IFP) are included with each IBM z16 feature (see Table 1-1).
+
+<!-- missing-text -->
+
+- a. More SAPs can be ordered by using Feature Code 1963.
+
+The IBM z16 memory subsystem uses proven redundant array of independent memory (RAIM) technology to ensure high availability. Up to 40 TB (10 TB per CPC drawer) of addressable memory per system can be ordered.
+

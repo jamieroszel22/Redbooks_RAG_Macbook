@@ -1,0 +1,10 @@
+ort on the OSA-Express6S 1000BASE-T Ethernet feature.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA-Express7S 1.2 1000BASE-T features (FC 0458)
+
+OSA-Express7S 1.2 features are an Ethernet technology that was refresh introduced with IBM z16. The performance characteristics are comparable to the OSA-Express7S and OSA-Express6S features and they also retain the same form factor and port granularity.
+
+Removal of support for OSA-Express 1000BASE-T hardware adapters a : IBM z16 is planned to be the last IBM Z server to support OSA-Express 1000BASE-T hardware adapters (FC 0426, 0446, and 0458) on new build servers. Defining all valid OSA CHPID types is allowed on OSA-Express GbE adapters only. IBM plans to continue moving forward with OSA CHPID types on higher bandwidth fiber Ethernet adapters on future servers.
+

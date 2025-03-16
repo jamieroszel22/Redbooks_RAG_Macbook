@@ -1,0 +1,10 @@
+ replacement capacity as CBU, CPE, or System Recovery Boost. Consider the following points:
+
+- /SM590000 On/Off CoD is a function that enables concurrent and temporary capacity growth of the system.
+
+On/Off CoD can be used for client peak workload requirements, for any length of time, and includes a daily hardware and maintenance charge. The software charges can vary according to the license agreement for the individual products. For more information, contact your IBM Software Group representative.
+
+On/Off CoD can concurrently add processors (CPs, ICFs, zIIPs, IFLs, and SAPs), increase the model capacity identifier, or both. It can do so up to the limit of the installed processor drawers of a system. It is restricted to twice the installed capacity. On/Off CoD requires a contractual agreement between you and IBM.
+
+You decide whether to pre-pay or post-pay On/Off CoD. Capacity tokens that are inside the records are used to control activation time and resources.
+

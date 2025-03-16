@@ -1,0 +1,15 @@
+0 Clustering connectivity 8 :
+- -ICA SR1.1 (new build or carry forward)
+- -ICA SR (carry forward only)
+- -Coupling Express2 Long Reach (new build only)
+
+1.2.9  Special-purpose features and functions
+
+When it comes to designing and developing the IBM Z platform, IBM takes a total systems view. The IBM Z stack is built around digital services, agile application development, connectivity, and system management. This design approach creates an integrated, diverse platform with specialized hardware and dedicated computing capabilities.
+
+The IBM z16 delivers a range of features and functions that allows PUs to concentrate on computational tasks, while distinct, specialized features take care of the rest. For more information about these features and other IBM z16 features, see in 3.5, 'Processor unit functions' on page 98.
+
+1.3  Hardware management
+
+The Hardware Management Consoles (HMCs) and Support Elements (SEs) are appliances that together provide platform management for IBM Z.
+

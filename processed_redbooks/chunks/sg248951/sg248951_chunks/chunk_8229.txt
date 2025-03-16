@@ -1,0 +1,9 @@
+environment.
+- e. PSLCs are available only on IBM z16 A02 or IBM z16 AGZ, z15 T02, and z14R1when that machine is participating in a qualified Parallel Sysplex environment.
+
+/SM590000 zIPLA licensing
+
+International Program License Agreement (IPLA) programs include a one-time charge (OTC) and an optional annual maintenance charge, called Subscription and Support. This annual charge includes access to IBM technical support and enables you to obtain version upgrades at no charge for products that generally fall under the zIPLA such as application development tools, CICS tools, data management tools, WebSphere for IBM Z products, Linux on IBM Z middleware and z/VM.
+
+The following pricing metrics apply to IBM Z IPLA products:
+

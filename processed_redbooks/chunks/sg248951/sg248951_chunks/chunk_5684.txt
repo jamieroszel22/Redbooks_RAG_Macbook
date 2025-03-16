@@ -1,0 +1,14 @@
+ PTFs
+- /SM590000 z/OS V2.3 with PTFs
+- /SM590000 z/OS V2.2 with PTFs
+
+The zHyperLink Express1.1 feature (FC 0451) provides a low latency direct connection between IBM z16 and DS8000 storage system.
+
+The zHyperLink Express1.1 is the result of new business requirements that demand fast and consistent application response times. It dramatically reduces latency by interconnecting the IBM z16 directly to I/O Bay of the DS8k by using PCIe Gen3 x 8 physical link (up to 150 meters [492 feet]). A new transport protocol is defined for reading and writing IBM CKD data records 9 , as documented in the zHyperLink interface specification.
+
+On IBM z16, zHyperLink Express1.1 card is a PCIe Gen3 adapter, which installed in the PCIe+ I/O drawer. HCD definition support was added for new PCIe function type with PORT attributes.
+
+Requirements of zHyperLink Express1.1
+
+The zHyperLink Express1.1 feature is available on IBM z16 servers, and includes the following requirements:
+

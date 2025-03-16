@@ -1,0 +1,8 @@
+upports TN3270E (RFC 2355) and non-SNA DFT 3270 emulation. The OSA-ICC function is defined as CHPID type OSC and console controller, and includes multiple LPAR support as shared or spanned channels.
+
+Removal of support for OSA-Express 1000BASE-T hardware adapters a : IBM z16 is planned to be the last IBM Z server to support OSA-Express 1000BASE-T hardware adapters (FC 0426, 0446, and 0458) on new build servers. Defining all valid OSA CHPID types is allowed on OSA-Express GbE adapters only. IBM plans to continue moving forward with OSA CHPID types on higher bandwidth fiber Ethernet adapters on future servers.
+
+- a. Statements by IBM regarding its plans, directions, and intent are subject to change or withdrawal without notice at the sole discretion of IBM.
+
+With the OSA-ICC function, 3270 emulation for console session connections is integrated in the IBM z16 through a port on the OSA-Express7S 1000BASE-T, OSA-Express7S GbE, OSA-Express6S 1000BASE-T, or OSA-Express5S 1000BASE-T.
+

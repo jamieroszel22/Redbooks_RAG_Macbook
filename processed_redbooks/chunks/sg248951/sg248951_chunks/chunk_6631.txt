@@ -1,0 +1,8 @@
+ve for your geographic location. A special contract is negotiated between IBM and you for the development of the UDX code by IBM according to your specifications and an agreed-upon level of the UDX.
+
+A UDX toolkit for IBM Z is tied to specific versions of the CCA code and the related host code. UDX is available for the Crypto Express8S, Crypto Express7S, and Crypto Express6S (Secure IBM CCA coprocessor mode only) features. An UDX migration is no more disruptive than a normal Microcode Change Level (MCL) or ICSF release migration.
+
+In IBM z16, up to four UDX files can be imported. These files can be imported from a USB media stick or an FTP server. The UDX configuration window is updated to include a Reset to IBM Default button.
+
+Consideration: CCA features a new code level starting with z13 systems, and the UDX clients require a new UDX.
+

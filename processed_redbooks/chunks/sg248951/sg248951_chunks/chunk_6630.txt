@@ -1,0 +1,13 @@
+d role-based access control system
+- /SM590000 Compliance support for:
+- -All DES services
+- -AES services
+- -RSA services, including full use of X.509 certificates
+- /SM590000 TR-34 Remote Key Load
+
+User-defined extensions support
+
+User-defined extension (UDX) allows a developer to add customized operations to IBM's CCA Support Program. UDXs to the CCA support customized operations that run within the Crypto Express features when defined as a coprocessor.
+
+UDX is supported under a special contract through an IBM or approved third-party service offering. The Crypto Cards website directs your request to an IBM representative for your geographic location. A special contract is negotiated between IBM and you for the development of the UDX code by IBM according to your specifications and an agreed-upon level of the UDX.
+

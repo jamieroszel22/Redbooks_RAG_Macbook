@@ -1,0 +1,14 @@
+ z16 (M/T 3931) - IBM z16 A01:
+- -Model to model MAXxx upgrades cannot be performed if I/O drawers are populating the CPC drawer positions.
+- -Supported model upgrade paths are listed in Table 2-12.
+
+<!-- missing-text -->
+
+2.8.2  Model capacity identifier
+
+To recognize how many PUs are characterized as CPs, the Store System Information (STSI) instruction returns a Model Capacity Identifier (MCI). The MCI determines the number and speed of characterized CPs.
+
+Characterization of a PU as an IFL, ICF, or zIIP is not reflected in the output of the STSI instruction because characterization has no effect on software charging. For more information about STSI output, see 'Processor identification' on page 374.
+
+The following distinct model capacity identifier ranges are recognized (one for full capacity and three for granular capacity):
+

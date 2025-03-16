@@ -1,0 +1,10 @@
+on keeping data 'closer' to the PU core. With the current processor configuration, all on-chip cache levels increased.
+
+The IBM z16 A01 cache hierarchy is shown in Figure 3-3.
+
+<!-- missing-text -->
+
+On IBM z16, L1 and L2 caches are implemented on the PU chip, and L3 and L4 caches are now implemented as virtual caches and dynamically allocated on the shared part of the L2 semi-private cache.
+
+The cache structure of the IBM z16 features the following characteristics:
+

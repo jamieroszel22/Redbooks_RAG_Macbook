@@ -1,0 +1,12 @@
+ncludes operating system software (that is, z/OS, z/VM, z/VSE, and z/TPF) and middleware that runs on these operating systems. The portfolio also includes middleware for Linux on IBM Z environments.
+
+This section provides an overview of the following IBM Z software licensing options that are available for IBM z16 software, including MLC, zIPLA, subcapacity, sysplex, and Taylor Fit Pricing:
+
+- /SM590000 Monthly license charge (MLC)
+
+MLC is a recurring charge that is applied monthly. It includes the right to use the product and provides access to IBM product support during the support period. Select an MLC pricing metric that is based on your goals and environment.
+
+The selected metric is used to price MLC products, such as z/OS, z/TPF, z/VSE, middleware, compilers, and selected systems management tools and utilities:
+
+- -Key MLC metrics and offerings
+

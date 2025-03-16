@@ -1,0 +1,14 @@
+ AID must be used to assign a CHPID to the fan-out in the IOCDS definition. The CHPID assignment is done by associating the CHPID to an AID port (see Table 4-2.
+
+<!-- missing-text -->
+
+Fan-out slots
+
+The fan-out slots are numbered LG01 - LG12 (from left to right), as listed in Table 4-2. All fan-out locations and their AIDs for the CPC drawer are shown for reference only.
+
+Important: The AID numbers that are listed in Table 4-2 are valid for a new build system only. If a fan-out is moved, the AID follows the fan-out to its new physical location.
+
+The AID assignment is listed in the PCHID REPORT that is provided for each new server or for an MES upgrade on servers. Part of a PCHID REPORT for an IBM z16 is shown in Example 4-1 on page 157. In this example, four fan-out cards are installed at locations A10/LG06, A15/LG06, A15/LG12, and A15/LG12 with AIDs 05, 11, and PCHIDs 100, 101, and 10C, respectively.
+
+<!-- missing-text -->
+

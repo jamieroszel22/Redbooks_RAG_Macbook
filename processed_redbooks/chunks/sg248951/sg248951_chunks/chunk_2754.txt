@@ -1,0 +1,6 @@
+s optimize PUs to meet the demands of various business and analytics workload types without compromising the performance characteristics of traditional workloads.
+
+3.4.1  Simultaneous multithreading
+
+Aligned with industry directions, IBM z16 servers can process up to two simultaneous threads in a single core while sharing certain resources of the processor, such as execution units, translation lookaside buffers (TLBs), and caches. When one thread in the core is waiting for other hardware resources, the second thread in the core can use the shared resources rather than remaining idle. This capability is known as simultaneous multithreading (SMT).
+

@@ -1,0 +1,13 @@
+DAWs do not cause the bits to move any faster across the FICON link. However, they reduce the number of frames and sequences that flow across the link and use the channel resources more efficiently.
+
+The performance of a specific workload can vary based on the conditions and hardware configuration of the environment. IBM laboratory tests found that Db2 gains significant performance benefits by using the MIDAW facility in the following areas:
+
+- /SM590000 Table scans
+- /SM590000 Logging
+- /SM590000 Utilities
+- /SM590000 Use of DFSMS striping for Db2 data sets
+
+Media Manager with the MIDAW facility can provide significant performance benefits when used in combination applications that use EF data sets (such as Db2) or long chains of small blocks.
+
+For more information about FICON and MIDAW, see the following resources:
+

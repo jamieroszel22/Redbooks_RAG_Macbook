@@ -1,0 +1,16 @@
+
+- /SM590000 CF Asynchronous Duplexing for Lock Structures:
+- -New asynchronous duplexing protocol for lock structures:
+- GLYPH&lt;129&gt; z/OS sends command to primary CF only
+- GLYPH&lt;129&gt; Primary CF processes command and returns result
+- GLYPH&lt;129&gt; Primary CF forwards description of required updates to secondary CF
+- GLYPH&lt;129&gt; Secondary CF updates secondary structure instance asynchronously
+- -Provided for lock structures only:
+- GLYPH&lt;129&gt; z/OS V2R2 SPE with PTFs for APAR OA47796
+- GLYPH&lt;129&gt; Db2 V12 with PTFs
+- GLYPH&lt;129&gt; Most performance-sensitive structures for duplexing
+- -Benefit and value:
+- GLYPH&lt;129&gt; Db2 locking receives performance similar to simplex operations
+- GLYPH&lt;129&gt; Reduces CPU and CF link overhead
+- GLYPH&lt;129&gt; Avoids the overhead of synchronous protocol handshakes on every update
+- GLYPH&lt;129&gt; Duplexing failover much faster than log-based recovery

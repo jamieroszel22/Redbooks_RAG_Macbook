@@ -1,0 +1,7 @@
+andard SAPs. Start with the highest PU chip high core, then the next highest PU chip high core.
+- /SM590000 CPs and zIIPs: Assign CPs and zIIPs to cores on chips in lower CPC drawers working upward.
+
+- /SM590000 IFLs and ICFs: Assign IFLs and ICFs to cores on chips in higher CPC drawers working downward.
+- /SM590000 IFP: Two IFPs are assigned to CPC drawer 0 12  for a Max39; CPC drawer 1 for Max82 and Max125 and CPC drawer 2 for Max168 and Max200.
+- /SM590000 Spares: Two spares are assigned per model. On z16 there are no specific rules to place them. Any 'unassigned PU' in any drawer can be assigned as spare. For additional information about spare PUs use, refer to 3.5.10, 'Sparing rules'.
+

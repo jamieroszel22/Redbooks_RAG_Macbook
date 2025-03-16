@@ -1,0 +1,14 @@
+ds and the CF configuration file is preserved for compatibility, but a warning message is issued to indicate that these options are no longer supported, and that DYNDISP=THIN behavior is to be used.
+
+Before you begin the migration process, install the compatibility and coexistence PTFs. A planned outage is required when you upgrade the CF or CF LPAR to CFCC Level 25.
+
+CFCC Level 24
+
+CFCC Level 24 is delivered on IBM z16 servers with driver level 41. CFCC Level 24 introduced the following enhancements:
+
+- /SM590000 CFCC Fair Latch Manager
+
+This enhancement to the internals of the Coupling Facility (CFCC) dispatcher provides CF work management efficiency and processor scalability improvements. It also improves the 'fairness' of arbitration for internal CF resource latches across tasks
+
+/SM590000 CFCC Message Path Resiliency
+

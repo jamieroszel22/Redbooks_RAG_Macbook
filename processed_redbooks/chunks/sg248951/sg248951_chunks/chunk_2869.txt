@@ -1,0 +1,18 @@
+or SSC that are running on the same IBM z16 server. Only z/VM, Linux on IBM Z operating systems, SSC, and designated software products can run on IFLs. IFLs are orderable by using FC 1959.
+
+IFL pool
+
+All PUs that are characterized as IFLs within a configuration are grouped into the IFL pool. The IFL pool can be seen on the HMC workplace.
+
+IFLs do not change the model capacity identifier of the IBM z16. Software product license charges that are based on the model capacity identifier are not affected by the addition of IFLs.
+
+Unassigned IFLs
+
+An IFL that is purchased but not activated is registered as an unassigned IFL (FC 1962). When the system is later upgraded with another IFL, the system recognizes that an IFL was purchased and is present.
+
+The allowable number of IFLs and Unassigned IFLs per feature is listed in Table 3-1.
+
+<!-- missing-text -->
+
+3.5.4  Internal Coupling Facility (FC 1960)
+

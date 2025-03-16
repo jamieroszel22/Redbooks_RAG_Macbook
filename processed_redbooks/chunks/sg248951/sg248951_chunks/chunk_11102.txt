@@ -1,0 +1,16 @@
+or details about the new available graphs.
+
+Table 12-2 below shows the PUs distribution per drawer for an IBM z16 Max200 according to the number of available configurable PUs.
+
+<!-- missing-text -->
+
+Figure 12-12 on page 494 shows a Partition Detail Report of an IBM z16, 3931-A01 (Max 200)/700 with 196 CPs (60 GPs, 60 zIIPs, 60 IFLs and 16 ICFs), and four active partitions (1 GP, 1 zIIP, 1 IFL and 1 ICF). Resources are allocated as shown in the Partition Identification and Partition Configuration fields.
+
+As this IBM z16 has 196 CPs, (Figure 12-12 on page 494), the PU resources are distributed according to the Table 12-2, and are shown in the Estimated Distribution of RCPs Across Drawers graph in Figure 12-13 on page 495.
+
+Important:
+
+Please pay special attention to the colors assigned to the Logical CPs column and relate them to the 'warnings' and 'notes' at the bottom of the report. See 'Partition Detail Report warnings' on page 494.
+
+<!-- missing-text -->
+

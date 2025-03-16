@@ -1,0 +1,2 @@
+Db2 UDB for z/OS V8 or later workloads can run in Service Request Block (SRB) mode:
+

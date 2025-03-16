@@ -1,0 +1,14 @@
+nvironments.
+
+HiperSockets
+
+IBM HiperSockets is an integrated function of the IBM Z platforms that supplies attachments to up to 32 high-speed virtual LANs, with minimal system and network overhead.
+
+HiperSockets is a function of the Licensed Internal Code (LIC). It provides LAN connectivity across multiple system images on the same IBM Z platform by performing memory-to-memory data transfers in a secure way.
+
+The HiperSockets function eliminates the use of I/O subsystem operations. It also eliminates having to traverse an external network connection to communicate between LPARs in the same IBM Z platform. In this way, HiperSockets can help with server consolidation by connecting virtual servers and simplifying the enterprise network.
+
+RoCE Express
+
+The 25 GbE and 10 GbE RoCE Express3 features 4  use Remote Direct Memory Access (RDMA) over Converged Ethernet (RoCE) to provide fast memory-to-memory communications between two IBM Z platforms.
+

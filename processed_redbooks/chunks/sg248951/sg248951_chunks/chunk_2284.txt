@@ -1,0 +1,12 @@
+tively used. The capacity marker marks the availability of purchased but unused capacity that is intended to be used as CPs in the future. This status often is present for software-charging reasons.
+
+Unused CPs are not a factor when establishing the millions of service units (MSU) value that is used for charging monthly license charge (MLC) software, or when charged on a per-processor basis.
+
+2.8.1  Upgrades
+
+Concurrent upgrades of CPs, IFLs, ICFs, zIIPs, or SAPs are available for the IBM z16. However, concurrent PU upgrades require that more PUs are installed but not activated.
+
+Spare PUs are used to replace defective PUs. Two spare PUs always are on an IBM z16 A01 server. In the rare event of a PU failure, a spare PU is activated concurrently and transparently and is assigned the characteristics of the failing PU.
+
+If an upgrade request cannot be accomplished within the configuration, a hardware upgrade is required.
+

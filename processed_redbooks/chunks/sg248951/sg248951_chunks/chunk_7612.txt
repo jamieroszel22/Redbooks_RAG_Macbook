@@ -1,0 +1,12 @@
+ 3270 emulation for console session connections is integrated in the IBM z16 through a port on the OSA-Express7S 1000BASE-T, OSA-Express7S GbE, OSA-Express6S 1000BASE-T, or OSA-Express5S 1000BASE-T.
+
+OSA-ICC can be configured on a PCHID-by-PCHID basis, and is supported at any of the feature settings. Each port can support up to 120 console session connections.
+
+To improve security of console operations and to provide a secure, validated connectivity, OSA-ICC supports Transport Layer Security/Secure Sockets Layer (TLS/SSL) with Certificate Authentication staring with IBM z13 GA2 (Driver level 27).
+
+Note: OSA-ICC supports up to 48 secure sessions per CHPID (the overall maximum of 120 connections is unchanged).
+
+OSA-ICC Enhancements
+
+With HMC 2.14.1 and newer the following enhancements are available:
+

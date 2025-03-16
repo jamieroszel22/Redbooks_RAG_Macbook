@@ -1,0 +1,20 @@
+z14, or another IBM z16. The CFCC levels that are supported on IBM Z are listed in Table 7-15.
+
+<!-- missing-text -->
+
+- a. CFCC Level 22 is not supported when an IBM z16 participates in the sysplex
+
+Consideration: Because coupling link connectivity on IBM z16, IBM z15, and IBM z14 ZR1 do not support InfiniBand, you must carefully plan your configuration if IBM z14 M0x systems with InfiniBand coupling are present in your configuration. Also, consider the level of CFCC. For more information, see 'Migration considerations' on page 191.
+
+CFCC Level 25
+
+CFCC Level 25 is delivered on IBM z16 servers with driver level 51 and introduces the following enhancements:
+
+- /SM590000 Scalability Improvements
+
+Processing and dispatching enhancements that result in meaningful scaling of effective throughput up to the limit of 16 ICF processors.
+
+- /SM590000 Request latency/performance improvements
+
+CFCC and coupling link firmware and hardware improvements to reduce link latency.
+

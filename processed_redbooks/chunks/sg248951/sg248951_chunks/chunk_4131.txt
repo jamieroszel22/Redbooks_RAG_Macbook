@@ -1,0 +1,12 @@
+lity configurations.
+
+For CFCC running on IBM z15, DYNDISP=THIN is now the default mode of operation for coupling facility images that use shared processors.
+
+- /SM590000 CF monopolization avoidance
+
+With IBM z15 T01/T02, the CF dispatcher monitors in real-time the number of CF tasks that have a command assigned to them for a specific structure on a structure by structure basis.
+
+When the number of CF tasks that are used by any structure exceeds a model-dependent CF threshold, and a global threshold on the number of active tasks is also exceeded, the structure is considered to be 'monopolizing' the CF, and z/OS is informed of this monopolization.
+
+New support in z/OS observes the monopolization state for a structure, and starts to selectively queue and throttle incoming requests to the CF, on a structure-specific basis while other requests for other 'nonmonopolizing' structures and workloads are unaffected.
+

@@ -1,0 +1,10 @@
+guring reserved processors online. The operating system must concurrently configure more processors online. If necessary, more LPARs can be created to use the newly added capacity.
+
+CBU deactivation
+
+To deactivate the CBU, the extra resources must be released from the LPARs by the operating systems. In some cases, this process involves varying the resources offline. In other cases, it can mean shutting down operating systems or deactivating LPARs. After the resources are released, the same facility on the HMC/SE is used to turn off CBU. To deactivate CBU, select the Undo temporary upgrade option from the Perform Model Conversion task on the SE.
+
+CBU testing
+
+Test CBUs are provided as part of the CBU contract. CBU is activated from the SE by using the Perform Model Conversion task. Select the test option to start a 10-day test period. A standard contract allows one test per CBU year. However, you can order more tests in increments of one up to a maximum of 15 for each CBU order.
+

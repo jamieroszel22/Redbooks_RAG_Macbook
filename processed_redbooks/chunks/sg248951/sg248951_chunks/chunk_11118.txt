@@ -1,0 +1,18 @@
+amount of data that is captured, transferred, and stored continues to grow. Software-based compression algorithms can be costly in terms of processor resources, storage costs, and network bandwidth.
+
+An optional PCIe feature that was available for IBM z14 servers, zEDC Express, addressed customer requirements by providing hardware-based acceleration for data compression and decompression. zEDC provided data compression with lower CPU consumption than compression technology that was available on the IBM Z server.
+
+Customers deployed zEDC compression to deliver the following types of compression:
+
+- /SM590000 Storage
+- /SM590000 Data transfer
+- /SM590000 Database
+- /SM590000 In-application
+
+Data compression delivers the following benefits:
+
+- /SM590000 Disk space savings
+- /SM590000 Improved elapse times
+- /SM590000 Reduced CPU consumption
+- /SM590000 Reduced network bandwidth requirements and transfer times
+

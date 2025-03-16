@@ -1,0 +1,10 @@
+ork management efficiency and processor scalability improvements. It also improves the 'fairness' of arbitration for internal CF resource latches across tasks
+
+/SM590000 CFCC Message Path Resiliency
+
+CF Message Paths use a z/OS-provided system identifier (SYID) to uniquely identify which z/OS system image (and instance of that system image) is sending requests over a message path to the CF. With IBM z15, we are providing a new resiliency mechanism that transparently recovers for this 'missing' message path deactivate (if and when that deactivation ever occurs).
+
+During path initialization, the CF provides more information to z/OS about every message path that appears active, including the SYID for the path. Whenever z/OS interrogates the state of the message paths to the CF, z/OS checks this SYID information for currency and correctness, and if incorrect, gather diagnostic information and reactivates the path to correct the problem.
+
+/SM590000 CF monopolization avoidance
+

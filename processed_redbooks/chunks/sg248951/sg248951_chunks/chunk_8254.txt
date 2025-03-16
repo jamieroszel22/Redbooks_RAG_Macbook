@@ -1,0 +1,18 @@
+n/Off CoD.
+
+Replacement capacity
+
+When processing capacity is lost in part of an enterprise, replacement capacity can be activated. It allows you to activate any PU type up to your authorized limit.
+
+The following replacement capacity offerings are available:
+
+- /SM590000 Capacity Backup
+- /SM590000 Capacity for Planned Event
+- /SM590000 Flexible Capacity for Cyber Resiliency
+
+8.3  Concurrent upgrades
+
+Concurrent upgrades on IBM z16 servers can provide more capacity with no system outage. In most cases, a concurrent upgrade can be nondisruptive to the operating system with planning and operating system support.
+
+This capability is based on the flexibility of the design and structure, which allows concurrent hardware installation and Licensed Internal Control Code (LICC) configuration changes.
+

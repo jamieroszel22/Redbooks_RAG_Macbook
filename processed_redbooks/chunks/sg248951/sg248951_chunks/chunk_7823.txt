@@ -1,0 +1,13 @@
+security policy provides the foundation for a secure environment.
+
+IBM categorized the following security functions according to International Organization for Standardization (ISO) standard 7498-2:
+
+- /SM590000 Identification and authentication: Includes the ability to identify users to the system and provide proof that they are who they claim to be.
+- /SM590000 Access control: Determines which users can access which resources.
+- /SM590000 Data confidentiality: Protects an organization's sensitive data from being disclosed to unauthorized persons.
+- /SM590000 Data integrity: Ensures that data is in its original form and that nothing altered it.
+- /SM590000 Security management: Administers, controls, and reviews a business security policy.
+- /SM590000 Nonrepudiation: Assures that the suitable individual sent the message.
+
+Only cryptographic services can provide the data confidentiality and the identity authentication that is required to protect business commerce on the internet 13 .
+

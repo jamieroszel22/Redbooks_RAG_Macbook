@@ -1,0 +1,8 @@
+es from the system begin five days before a capacity token is fully used. To avoid capacity records being deactivated in this situation, replenish the necessary capacity tokens before they are used.
+
+The CPM operates based on Workload Manager (WLM) indications, and the construct that is used is the Performance Index (PI) of a service class period. It is important to select service class periods that are suitable for the business application that needs more capacity.
+
+For example, the application in question might be running through several service class periods, where the first period is the important one. The application might be defined as importance level 2 or 3, but might depend on other work that is running with importance level 1. Therefore, it is important to consider which workloads to control and which service class periods to specify.
+
+8.8  System Recovery Boost Upgrade
+

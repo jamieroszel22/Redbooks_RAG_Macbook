@@ -1,0 +1,13 @@
+itions. The partitions' resources include processors, memory, network, storage, crypto, and accelerators.
+
+DPM provides a new mode of operation for IBM Z servers that provide the following services:
+
+- /SM590000 Facilitates defining, configuring, and operating PR/SM LPARs in a similar way to how these tasks are performed on another platform.
+- /SM590000 Lays the foundation for a general IBM Z new user experience.
+
+DPM is not another hypervisor for IBM Z servers. DPM uses the PR/SM hypervisor infrastructure and provides an intelligent interface on top of it that allows customers to define, use, and operate the platform virtualization without IBM Z experience or skills.
+
+3.7.2  Storage operations
+
+In IBM z16 A01 systems, memory can be assigned as main storage, supporting up to 85 LPARs. Before you activate an LPAR, main storage must be defined to the LPAR. All installed storage can be configured as main storage.
+

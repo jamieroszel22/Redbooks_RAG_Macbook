@@ -1,0 +1,6 @@
+he core is waiting for other hardware resources, the second thread in the core can use the shared resources rather than remaining idle. This capability is known as simultaneous multithreading (SMT).
+
+An operating system with SMT support can be configured to dispatch work to a thread on a zIIP (for eligible workloads in z/OS) or an IFL (for z/VM and Linux on IBM Z) core in single thread or SMT mode so that HiperDispatch cache optimization can be considered. For more information about operating system support, see Chapter 7, 'Operating system support' on page 247.
+
+SMT technology allows instructions from more than one thread to run in any pipeline stage at a time. SMT can handle up to four pending translations.
+

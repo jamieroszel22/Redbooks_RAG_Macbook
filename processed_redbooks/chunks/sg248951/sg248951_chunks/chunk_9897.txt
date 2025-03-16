@@ -1,0 +1,13 @@
+, 'Customer Initiated Upgrade facility' on page 336.
+
+- /SM590000 STP management of concurrent CTN Split and Merge
+- /SM590000 Dynamic I/O for stand-alone CF, Linux on Z and z/TPF running on IBM z16
+
+Dynamic I/O configuration changes can be made to a stand-alone CF, Linux on Z and z/TPF without requiring a disruptive power on reset. A firmware LPAR with a firmware-based appliance version of an HCD instance is used to apply the new I/O configuration changes. The firmware-based LPAR is driven by updates from an HCD instance that is running in a z/OS LPAR on a different IBM z16 CPC that is connected to the same IBM z16 HMA.
+
+- /SM590000 System Recovery Boost Stage 3
+
+System Recovery Boost enhancements for IBM z16 introduce the possibility of significantly reducing the effect of these disruptions by boosting a set of recovery processes that create significant pain points for users.
+
+These recovery processes include the following examples:
+

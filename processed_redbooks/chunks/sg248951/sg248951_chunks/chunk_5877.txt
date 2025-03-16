@@ -1,0 +1,10 @@
+h is the same as a signature on a contract.
+
+These goals should all be possible without unacceptable overhead to the communication. The goal is to keep the system secure, manageable, and productive.
+
+The basic data protection method is achieved by encrypting and decrypting the data, while hash algorithms, message authentication codes (MACs), digital signatures, and certificates are used for authentication, data integrity, and nonrepudiation.
+
+6.2.3  Keys
+
+When encrypting a message, the sender transforms the clear text into a secret text. Doing so requires the following main elements:
+

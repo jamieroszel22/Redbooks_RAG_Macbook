@@ -1,0 +1,10 @@
+ the number of storage units that are to be kept free of long-term fixed storage allocations. This configuration allows for storage elements to be varied offline.
+
+9.9  Concurrent Driver Maintenance
+
+CDM is one more step toward reducing the necessity for and the duration of a scheduled outage. One of the components to planned outages is LIC Driver updates that are run in support of new features and functions.
+
+When correctly configured, IBM z16 supports concurrently activating a selected new LIC Driver level. Concurrent activation of the selected new LIC Driver level is supported only at specific released sync points. Concurrently activating a selected new LIC Driver level anywhere in the maintenance stream is not possible. Specific LIC updates do not allow a concurrent update or upgrade.
+
+Consider the following key points about CDM:
+

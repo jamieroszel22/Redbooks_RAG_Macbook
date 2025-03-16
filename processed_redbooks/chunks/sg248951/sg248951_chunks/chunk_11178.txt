@@ -1,0 +1,14 @@
+igh-level process for implementing IBM Flexible Capacity for Cyber Resiliency.
+
+Set up process
+
+Flexible Capacity for Cyber Resiliency is facilitated through a new type of Temporary Capacity record.
+
+In the first step of the setup process (see Figure D-4), the active capacity of the participating IBM z16 machines is changed to a base machine plus the temporary entitlement record (TER) up to the High Water Mark (HWM) of the machine. The base capacity is defined by the customer. The machines' HWM remains unchanged.
+
+<!-- missing-text -->
+
+In the next step (see Figure D-5), the now unassigned capacity is restored with a new Flexible Capacity record. Another Flexible Capacity record is installed on System B to increase the capacity to the amount of MIPS that the customer licensed.
+
+<!-- missing-text -->
+

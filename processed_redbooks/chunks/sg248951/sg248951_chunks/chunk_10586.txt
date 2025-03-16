@@ -1,0 +1,10 @@
+nsole performs the FTP operation on the SE's behalf and returns the results. The IBM Z platform must be managed by at least one HMC to allow FTP operations.
+
+Secure console-to-console communications
+
+The IBM z16 HMC features an industry standard-based, password-driven cryptography system. The Domain Security Settings are used to provide authentication and high-quality encryption. We recommend that clients use unique Domain Security settings to provide maximum security. These settings provide greater security than anonymous cipher suites, even if the default settings are used.
+
+To allow greater flexibility in password selection, the password limit was increased to 64 characters and special characters are allowed for IBM z16.
+
+For more information about HMC networks, see the following resources:
+

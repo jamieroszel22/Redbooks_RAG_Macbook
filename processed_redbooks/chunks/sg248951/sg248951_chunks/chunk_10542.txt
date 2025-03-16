@@ -1,0 +1,18 @@
+following RAS capabilities:
+
+- /SM590000 Back up from HMA and SE
+
+On a scheduled basis, the HMA hard disk drive (HDD) is backed up to the USB flash memory drive (UFD), a defined FTP server, or both.
+
+- SE HDDs are backed up on to the primary SE HDD and an alternative SE HDD. In addition, you can save the backup to a defined FTP server.
+
+For more information, see 10.2, 'HMC and SE changes and new features' on page 409.
+
+- /SM590000 Remote Support Facility (RSF)
+
+The HMA RSF provides the important communication to a centralized IBM support network for hardware problem reporting and service.
+
+For more information, see 10.4, 'Remote Support Facility' on page 430.
+
+- /SM590000 Microcode Change Level (MCL)
+

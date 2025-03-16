@@ -1,0 +1,14 @@
+nciples as cryptographic algorithms. One-way algorithms are also known as hash algorithms .
+
+The most prominent one-way algorithms are the Secure Hash Algorithms (SHA).
+
+6.3  Cryptography on IBM z16
+
+In principle, cryptographic algorithms can run on processor hardware. However, these workloads are compute-intensive, and the handling of secure keys also requires special hardware protection. Therefore, IBM Z offer several cryptographic hardware features, which are specialized to meet the requirements for cryptographic workload.
+
+The cryptographic hardware that is supported on IBM z16 is shown in Figure 6-2. These features are described in this chapter.
+
+<!-- missing-text -->
+
+Implemented in every processor unit (PU) or core in a central processor complex (CPC) is a cryptographic coprocessor that can be used 2  for cryptographic algorithms that uses clear keys or protected keys. For more information, see 6.4, 'CP Assist for Cryptographic Functions' on page 219.
+

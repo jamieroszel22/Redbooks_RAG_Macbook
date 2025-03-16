@@ -1,0 +1,18 @@
+s can be added, depending on the considerations as described in this section:
+
+- /SM590000 PUs
+- /SM590000 Memory
+- /SM590000 I/O
+- /SM590000 Cryptographic adapters
+- /SM590000 Special features
+
+PUs
+
+CPs, ICFs, zIIPs, IFLs, and SAPs can be added concurrently to an IBM z16 if unassigned PUs are available on any installed processor drawer. The number of zIIPs cannot exceed twice the number of CPs. The IBM z16 allows the concurrent addition of a second and third processor drawer if the CPC reserve features are installed.
+
+If necessary, more LPARs can be created concurrently to use the newly added processors.
+
+The Coupling Facility Control Code (CFCC) also can configure more processors online to coupling facility LPARs by using the CFCC image operations window.
+
+Memory
+

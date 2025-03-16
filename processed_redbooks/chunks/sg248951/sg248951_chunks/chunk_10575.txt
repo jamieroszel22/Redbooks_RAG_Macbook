@@ -1,0 +1,22 @@
+the rack when servicing the system.
+- /SM590000 Switching between servers is done by using a button that is on the KMM. The KMM screen also indicates which server is selected.
+
+<!-- missing-text -->
+
+- /SM590000 The KMM mounting bracket can be used to mount the device to any frame in the system (front or rear).
+- /SM590000 The KMM can be used on any IBM z16 system (no affinity to the system with which it is shipped exists).
+
+For more information about the mini-KMM and how to attach it to the A frame, see 3931 Installation Manual, GC28-7017.
+
+10.2.5  USB support for HMC and SE
+
+Because a DVD drive is not available on the HMC or SE, this section describes two methods for service and functional operations for HMC Driver 51/Version 2.16.0.
+
+Microcode load
+
+Microcode can be loaded by using the following options:
+
+- /SM590000 USB
+
+If the HMC and SE code is included with a USB drive when a new system is ordered, the load procedure is similar that which was used with a DVD.
+

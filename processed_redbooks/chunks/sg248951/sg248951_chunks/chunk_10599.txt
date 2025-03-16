@@ -1,0 +1,18 @@
+river 51/Version 2.16.0 provides support of IBM Z MFA for Red Hat Enterprise Linux Server or SUSE Linux Enterprise Server that is running on z/VM or native in an LPAR.
+
+10.4  Remote Support Facility
+
+The HMC Remote Support Facility (RSF) provides important communication to a centralized IBM Support network for hardware problem reporting and service. The following types of communication are provided:
+
+- /SM590000 Problem reporting and repair data
+- /SM590000 Microcode Change Level (MCL) delivery
+- /SM590000 Hardware inventory data, which is also known as vital product data (VPD)
+- /SM590000 Health and diagnostic data
+- /SM590000 On-demand enablement (CoD)
+
+10.4.1  Security characteristics
+
+The following security characteristics are in effect:
+
+- /SM590000 RSF requests always are started from the HMC to IBM. An inbound connection is never started from the IBM Service Support System.
+

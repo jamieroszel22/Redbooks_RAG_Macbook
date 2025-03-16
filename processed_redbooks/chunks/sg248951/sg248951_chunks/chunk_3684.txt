@@ -1,0 +1,2 @@
+x cluster maximizes availability in the following ways:
+

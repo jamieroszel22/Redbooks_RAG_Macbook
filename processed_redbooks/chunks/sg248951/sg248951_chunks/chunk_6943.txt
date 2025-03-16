@@ -1,0 +1,15 @@
+ographic coprocessors and accelerators as Crypto Express5 coprocessors and accelerators. The following minimum prerequisites must be met:
+
+- /SM590000 z/OS V2.5; specific functions require WD 20 (HCR77D2)
+- /SM590000 z/OS V2.4; specific functions require WD19 (HCR77D1)
+- /SM590000 z/OS V2.3 with PTFs
+- /SM590000 z/OS V2.2 with PTFs
+- /SM590000 z/VM V7.1 and V7.2 for guest use
+- /SM590000 z/VSE V6.2 with PTFs
+- /SM590000 z/TPF V1.1 with PTFs
+- /SM590000 Linux on IBM Z: IBM is working with its Linux distribution partners to provide support by way of maintenance or future releases for the following distributions:
+- -SUSE Linux Enterprise Server 12 and SLES 11
+- -Red Hat Enterprise Linux (RHEL) 8 and Red Hat Enterprise Linux 7
+- -Ubuntu 16.04 LTS (or higher)
+- /SM590000 The KVM hypervisor, which is offered supported Linux distributions. For more information about minimal and recommended distribution levels, see the Tested platforms for Linux web page of the IBM IT infrastructure website.
+

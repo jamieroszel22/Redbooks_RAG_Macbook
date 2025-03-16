@@ -1,0 +1,18 @@
+y and flexible memory options are not used when a CPC drawer must be replaced, the memory in the failing drawer also is removed. This process might be necessary during an upgrade or a repair action.
+
+Until the removed CPC drawer is replaced, a power-on reset of the system with the remaining CPC drawers is supported. The CPC drawer then can be replaced and added back into the configuration concurrently.
+
+2.7.3  CPC drawer upgrade
+
+All fan-outs that are used for I/O and coupling links are rebalanced concurrently as part of a CPC drawer addition to support better RAS characteristics.
+
+2.8  Model configurations
+
+When an IBM z16 is ordered, the PUs are characterized according to their intended usage. The PUs can be ordered as any of the following items:
+
+CP
+
+The processor is purchased and activated. PU supports running the z/OS, z/VSE, z/VM, z/TPF, and Linux on IBM Z 7  operating systems. It also can run Coupling Facility Control Code.
+
+IFL
+

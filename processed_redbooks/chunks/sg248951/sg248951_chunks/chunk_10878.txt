@@ -1,0 +1,10 @@
+er purposes. For example, starting with z/OS V2R1, you can record Instruction Counts in SMF type 30 record when you activate CPU MF. Therefore, we strongly recommend that you always activate CPU MF.
+
+For more information about getting CPUMF counter data, see CPU MF - 2022 Update and WSC Experiences at the IBM Techdoc Library website.
+
+12.8  Workload performance variation
+
+As the size of transistors approaches the size of atoms that stand as a fundamental physical barrier, a processor chip's performance can no longer double every two years (Moore's Law 6 does not apply).
+
+A holistic performance approach is required when the performance gains are reduced because of frequency. Therefore, hardware and software synergy becomes an absolute requirement.
+

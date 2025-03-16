@@ -1,0 +1,8 @@
+I/O drawers. Extra planning tasks are required for nondisruptive logical upgrades. For more information, see 'Guidelines to avoid disruptive upgrades' on page 377.
+
+8.4.1  MES upgrade for processors
+
+An MES upgrade for processors can concurrently add CPs, ICFs, zIIPs, IFLs, and SAPs to an IBM z16 by assigning available PUs on the processor drawers through LICCC. Depending on the quantity of the extra processors in the upgrade, more processor drawers might be required, and can be concurrently installed before the LICCC is enabled if plan-ahead features are available. With the sub-capacity models, capacity can be provided by adding CPs, changing the capacity identifier on the current CPs, or both.
+
+Limits: The sum of CPs, inactive CPs, ICFs, unassigned ICFs, zIIPs, unassigned zIIPs, IFLs, unassigned IFLs, and SAPs cannot exceed the maximum limit of PUs available for client use. The number of zIIPs cannot exceed twice the number of purchased CPs.
+

@@ -1,0 +1,8 @@
+identifiers (CHPIDs) that are defined to the same LCU must support zHPF. The inclusion of any non-compliant zHPF features in the path group causes the entire path group to support command mode only.
+
+The mode that is used for an I/O operation depends on the control unit that supports zHPF and its settings in the z/OS operating system. For z/OS use, a parameter is available in the IECIOSxx member of SYS1.PARMLIB ( ZHPF=YES or NO ) and in the SETIOS system command to control whether zHPF is enabled or disabled. The default is ZHPF=NO .
+
+Support also is added for the D IOS,ZHPF system command to indicate whether zHPF is enabled, disabled, or not supported on the server.
+
+Similar to the existing FICON channel architecture, the application or access method provides the channel program (CCWs). How zHPF (transport mode) manages channel program operations is different from the CCW operation for the existing FICON architecture (command mode).
+

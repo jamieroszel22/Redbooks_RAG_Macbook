@@ -1,0 +1,9 @@
+With Exploitation PTFs
+- l. With Required PTFs
+
+The supported base CPC functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-4.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

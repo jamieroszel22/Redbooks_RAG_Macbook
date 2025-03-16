@@ -1,0 +1,13 @@
+CE features should not be mixed in a z/OS SMC-R Link Group.
+
+Point-to-point connections and switched connections with an enterprise-class 10 GbE switch are supported.
+
+25 GbE RoCE Express2 (FC 0430)
+
+25 GbE RoCE Express2 (FC 0430) is installed in the PCIe I/O drawer and is supported on IBM z16 servers when carried forward. The 25 GbE RoCE Express2 is a native PCIe feature. It does not use a CHPID. It is defined by using the IOCP FUNCTION statement or in the hardware configuration definition (HCD).
+
+Switch configuration for RoCE Express2: If the IBM 25 GbE RoCE Express2 features are connected to 25 GbE switches, the switches must meet the following requirements:
+
+- /SM590000 Global Pause function is enabled
+- /SM590000 Priority flow control (PFC) is disabled
+

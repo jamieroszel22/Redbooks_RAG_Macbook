@@ -1,0 +1,11 @@
+r authentication, data integrity, and nonrepudiation.
+
+6.2.3  Keys
+
+When encrypting a message, the sender transforms the clear text into a secret text. Doing so requires the following main elements:
+
+- /SM590000 The algorithm is the mathematical or logical formula that is applied to the key and the clear text to deliver a ciphered result, or to take a ciphered text and deliver the original clear text.
+- /SM590000 The key ensures that the result of the encrypting data transformation by the algorithm is only the same when the same key is used. That decryption of a ciphered message results only in the original clear message when the correct key is used. Therefore, the receiver of a ciphered message must know which algorithm and key must be used to decrypt the message.
+
+6.2.2  Kerckhoffs' principle
+

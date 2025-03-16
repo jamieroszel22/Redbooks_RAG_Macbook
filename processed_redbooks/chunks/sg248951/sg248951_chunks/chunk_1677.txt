@@ -1,0 +1,9 @@
+prediction): These units contain the instruction cache, branch prediction logic, instruction fetching controls, and buffers. Its relative size is the result of the elaborate branch prediction design.
+- /SM590000 Recovery unit (RU): The RU keeps a copy of the complete state of the system that includes all registers, collects hardware fault signals, and manages the hardware recovery actions.
+
+- /SM590000 Dedicated Co-Processor (CoP): The dedicated coprocessor is responsible for data compression and encryption functions for each core.
+- /SM590000 Core pervasive unit (PC) for instrumentation and error collection.
+- /SM590000 Modulo arithmetic (MA) unit: Support for Elliptic Curve Cryptography
+
+Vector and Floating point Units (VFU):
+

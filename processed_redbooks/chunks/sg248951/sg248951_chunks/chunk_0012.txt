@@ -1,0 +1,12 @@
+ountries.
+
+UNIX is a registered trademark of The Open Group in the United States and other countries.
+
+Other company, product, or service names may be trademarks or service marks of others.
+
+Preface
+
+This IBMfi Redbooksfi publication describes the features and functions of the latest member of the IBM Zfi platform that was built with the IBM Telum processor: the IBM z16™ (machine type 3931). It includes information about the IBM z16 processor design, I/O innovations, security features, and supported operating systems.
+
+The IBM Z platform is recognized for its security, resiliency, performance, and scale. It is relied on for mission-critical workloads and as an essential element of hybrid cloud infrastructures. The IBM z16 server adds capabilities and value with innovative technologies that are needed to accelerate the digital transformation journey.
+

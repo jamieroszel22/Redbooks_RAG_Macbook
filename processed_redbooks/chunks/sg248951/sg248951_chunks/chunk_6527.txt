@@ -1,0 +1,13 @@
+Montgomery Modular Math Engine
+- The Montgomery Modular Math Engine is a method for fast modular multiplication. Many crypto systems, such as RSA and Diffie-Hellman key Exchange, can use this method.
+- /SM590000 Clear Key Fast Path (Symmetric and Asymmetric)
+- This mode of operation gives a direct hardware path to the cryptographic engine and provides high performance for public-key cryptographic functions.
+- /SM590000 Random Number Generator (RNG)
+- /SM590000 Prime Number Generator (PNG)
+
+Several of these algorithms require a secure key and must run on an HSM. Some of these algorithms can also run with a clear key on the CPACF. Many standards are supported only when Crypto Express8S is running in CCA mode. Others are supported only when the adapter is running in EP11 mode.
+
+The three modes for Crypto Express8S are described next. For more information, see 6.7, 'Cryptographic functions comparison' on page 242.
+
+6.5.2  Crypto Express8S as a CCA coprocessor
+

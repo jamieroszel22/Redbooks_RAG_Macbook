@@ -1,0 +1,18 @@
+ be used if the connection between the console and the IBM host can be trusted when the certificate is imported, as shown in Figure 10-25. Otherwise, import the certificate by using removable media.
+
+<!-- missing-text -->
+
+A secure Telnet connection is established by adding the prefix L: to the IP address:port of the IBM host, as shown in Figure 10-26.
+
+<!-- missing-text -->
+
+10.5.5  HMC and SE microcode
+
+The microcode for the HMC, SE, and CPC is included in the driver or version. The HMC provides the management of the driver upgrade through Enhanced Driver Maintenance (EDM). EDM also provides the installation of the latest functions and the patches (MCLs) of the new driver.
+
+When a driver is upgraded, always check the Driver (51) Customer Exception Letter option in the Fixes section at the IBM Resource Link.
+
+Microcode Change Level
+
+Regular installation of Microcode Change Levels (MCLs) is key for RAS, optimal performance, and the following new functions:
+

@@ -1,0 +1,15 @@
+these memory configurations.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Consider the following points:
+
+- /SM590000 A CPC drawer contains a minimum of 32 (4x8) 32 GB DIMMs as listed in drawer configuration number 22 in Table 2-8 on page 39.
+- /SM590000 A CPC drawer can have more memory that is installed than what is enabled for customer use. The amount of memory that can be enabled by the customer is the total physically installed memory minus the 256 GB of HSA memory.
+- /SM590000 A CPC drawer can have available unused memory, which can be ordered as a memory upgrade and enabled by LIC-CC concurrently without DIMM changes.
+- /SM590000 DIMM changes require a disruptive power-on reset (POR) on IBM z16 A01 with a single CPC drawer. DIMM changes can be done concurrently on IBM z16 models with multiple CPC drawers using Enhanced Drawer Availability (EDA).
+- /SM590000 CFG numbers from 32 to 35 are used on PDU machines only.
+- /SM590000 BPA machines have an upper limit of CFG number 31.
+

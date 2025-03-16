@@ -1,0 +1,11 @@
+ impact depends on system state:
+- GLYPH&lt;129&gt; Before end OP, IPD without storage validity
+- GLYPH&lt;129&gt; Before SIE sync, System Damage
+- /SM590000 IBM Z Integrated Accelerator for AI (AIU)
+- AIU is an on-chip AI Accelerator, which is new on IBM z16. AIU behaves like a co-processor to process the synchronous instructions, but AIU is in nest. The core control the AIU by issuing instruction (NNPA):
+- -The array macro has row and column repair (MD and ABIST)
+- -1 MB cache with single error correction double error detection (SECDEC) ECC
+- /SM590000 On-chip L2, caches are implemented in dense SRAM. The IBM z16 removed the physical L3 (on-chip for IBM z15) and L4 (on extra storage controller single chip module - SC SCM) and implemented clustered cache algorithms that provide virtualized L3 (shared victim) and virtual L4 (shared victim) caches (see Figure 9-4).
+
+<!-- missing-text -->
+

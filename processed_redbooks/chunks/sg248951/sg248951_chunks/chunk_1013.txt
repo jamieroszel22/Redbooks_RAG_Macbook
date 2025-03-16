@@ -1,0 +1,14 @@
+
+- /SM590000 The number of CPC drawers installed is driven by the following feature codes:
+- -FC 0667: One CPC drawer, Max39, up to 39 characterizable PUs
+- -FC 0668: Two CPC drawers, Max82, up to 82 characterizable PUs
+- -FC 0669: Three CPC drawers, Max125, up to 125 characterizable PUs
+- -FC 0670: Four CPC drawers, Max168, up to 168 characterizable PUs
+- -FC 0671: Four CPC drawers, Max200, up to 200 characterizable PUs
+- /SM590000 The following Processor Unit DCM is used:
+- PU DCM contains two PU chips (Telum) on one single module that use 7 nm silicon wafer technology, 22.5 billion transistors, and a core that is running at 5.2 GHz (designed with 8 cores per chip, 16 cores per PU DCM).
+- /SM590000 Memory plugging:
+- -Six memory controllers per drawer (two each on DCM2/DCM1; one each on DCM3/DCM0
+- -Each memory controller supports eight DIMM slots
+- -All eight DIMMs on one memory controller are the same size
+- -4 - 6 memory controllers per drawer are populated (up to 48 DIMMs)

@@ -1,0 +1,20 @@
+iguration.
+- /SM590000 All weights are approximate and do not include Earthquake Kit hardware.
+- /SM590000 Ensure that the raised floor on which you are installing the server can support the weight.
+
+The power and weight estimation tool for IBM Z servers on IBM Resource Link (log in required) covers the estimated weight for your designated configuration.
+
+On the Resource Link web page, click Tools → Power and weight estimation .
+
+11.4  Physical planning
+
+This section describes the floor mounting, power, and I/O cabling options. For more information, see IBM 3931 Installation Manual for Physical Planning , GC28-7015.
+
+11.4.1  Raised floor or nonraised floor
+
+IBM z16 servers can be installed on a raised or nonraised floor.
+
+Note: On the IBM z16, all I/O cabling and power cords enter the rear of the machine; therefore, all related features for Bottom and Top Exit cabling are in the rear of the frame.
+
+Raised floor
+

@@ -1,0 +1,12 @@
+day or during other transitional periods. It is also helps to eliminate delays that can occur when diagnostic data during failures is collected.
+
+CFCC Coupling Thin Interrupts (required for IBM z16)
+
+The Coupling Thin Interrupts improves the performance of a CF partition and the dispatching of z/OS LPARs that are awaiting the arrival of returned asynchronous CF requests when used in a shared engine environment.
+
+For more information, see ' Coupling Thin Interrupts ' on page 102. The supported operating systems are listed in Table 7-5 on page 256.
+
+Asynchronous CF Duplexing for lock structures
+
+Asynchronous CF Duplexing enhancement is a general-purpose interface for any CF Lock structure user. It enables secondary structure updates to be performed asynchronously from primary CF updates. It offers performance advantages for duplexing lock structures and avoids the need for synchronous communication delays during the processing of every duplexed update operation.
+

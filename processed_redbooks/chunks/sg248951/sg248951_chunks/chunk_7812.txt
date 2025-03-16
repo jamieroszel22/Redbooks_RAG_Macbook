@@ -1,0 +1,16 @@
+ackets
+
+Large send for IPv6 packets improves performance by offloading outbound TCP segmentation processing from the host to an OSA-Express feature by using a more efficient memory transfer into it.
+
+Large send support for IPv6 packets applies to the OSA-Express7S 1.2, OSA-Express7S, and OSA-Express6S 11  features (CHPID type OSD) on IBM z16, IBM z15, and IBM z14.
+
+OSA-Express6S added TCP checksum on large send, which reduces the cost (CPU time) of error detection for large send.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA Dynamic LAN idle
+
+The OSA Dynamic LAN idle parameter helps reduce latency and improve performance by dynamically adjusting the inbound blocking algorithm. System administrators can authorize the TCP/IP stack to enable a dynamic setting that previously was static.
+
+The blocking algorithm is modified based on the following application requirements:
+

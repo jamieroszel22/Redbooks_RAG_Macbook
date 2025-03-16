@@ -1,0 +1,4 @@
+re Coupling Facility LPARs.
+
+A correctly configured Parallel Sysplex cluster maximizes availability in the following ways:
+

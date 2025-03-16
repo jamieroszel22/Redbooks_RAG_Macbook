@@ -1,0 +1,11 @@
+anagement Console and Support Element' on page 407.
+
+Coupling Express2 LR does not support the 'going away signal'; however, ECAR can be used to assist with recovery in the following configurations:
+
+- /SM590000 Design of pervasive infrastructure controls in processor chips in memory ASICs.
+- /SM590000 Improved error checking in the processor recovery unit (RU) to better protect against word line failures in the RU arrays.
+
+9.8  Enhanced drawer availability
+
+EDA is a procedure in which a drawer in a multi-drawer system can be removed and reinstalled during an upgrade or repair action. This procedure has no effect on the running workload with suitable planning and depending on your system configuration. A single CPC drawer IBM z16 A01 does not support EDA.
+

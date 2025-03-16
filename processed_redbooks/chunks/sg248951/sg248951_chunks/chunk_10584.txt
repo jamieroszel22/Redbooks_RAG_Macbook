@@ -1,0 +1,22 @@
+based One Time Password (TOTP)
+
+HMC File Transfer support
+
+FTP, FTPS, and SFTP protocols are supported on the HMC and SE. All three file transfer protocols require login ID and password credentials.
+
+FTPS is based on Secure Sockets Layer (SSL) cryptographic protocol and requires certificates to authenticate the servers. SFTP is based on Secure Shell protocol (SSH) and requires SSH keys to authenticate the servers. Certificates and key pairs are hosted on the IBM z16 HMC.
+
+The following FTP server requirements must be met:
+
+- /SM590000 Passive data connections are supported
+- /SM590000 A server configuration is available that allows the client to connect on an ephemeral port
+
+The following FTPS server requirements must be met:
+
+- /SM590000 Operates in 'explicit' mode
+- /SM590000 Allows a server to offer secure and unsecured connections
+- /SM590000 Supports passive data connections
+- /SM590000 Supports secure data connections
+
+The SFTP server must support password-based authentication.
+

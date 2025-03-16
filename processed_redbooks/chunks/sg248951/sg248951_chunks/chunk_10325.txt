@@ -1,0 +1,8 @@
+ configuration for drawer repair or replacement before IBM SSR activity. The Perform Model Conversion window in you click Prepare for Enhanced Drawer Availability is shown in Figure 9-7 on page 397.
+
+After you click Prepare for Enhanced Drawer Availability , the Enhanced Drawer Availability window opens. Select the drawer that is to be repaired or upgraded; then, select OK , as shown in Figure 9-8. Only one target drawer can be selected at a time.
+
+<!-- missing-text -->
+
+The system verifies the resources that are required for the removal, determines the required actions, and presents the results for review. Depending on the configuration, the task can take from a few seconds to several minutes.
+

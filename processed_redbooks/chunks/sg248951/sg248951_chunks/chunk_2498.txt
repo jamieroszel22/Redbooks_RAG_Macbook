@@ -1,0 +1,4 @@
+
+- -Logical partitioning, which allows up to 85 independent logical servers.
+- -z/VM, which can virtualize hundreds to thousands of servers as independently running virtual machines (guests).
+

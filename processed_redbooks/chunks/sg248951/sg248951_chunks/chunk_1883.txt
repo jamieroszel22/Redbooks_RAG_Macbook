@@ -1,0 +1,15 @@
+uture CPC drawer add MES, and greater than 48 I/O features to drive four I/O drawers
+- PCHID numbering starts in the Z-frame, from the bottom and working up.
+
+Consideration for PCHID identification:
+
+In previous PCIe I/O drawers (introduced with zEC12), the orientation of the I/O features were vertical. For IBM z16 Model A01, the orientation of the PCIe features is horizontal. The top of the card is now closest to the center of the drawer for the left and right side of the drawer.
+
+The vertical card collapsed horizontal and the awareness of the port and PCHID layout where the top of the adapter (port D1) is closest to the location panel on both sides of the drawer are shown in Figure 2-19.
+
+<!-- missing-text -->
+
+Note: The CHPID Mapping Tool (available on ResourceLink) can be used to print a CHPID Report that displays the drawer and PCHID/CHPID layout.
+
+2.5  Memory
+

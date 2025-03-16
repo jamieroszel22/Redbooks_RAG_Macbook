@@ -1,0 +1,21 @@
+ ID management
+
+This section addresses security and user ID management considerations.
+
+HMC and SE HD encryption
+
+Consider the following points about IBM z16 (with continued emphasis on encryption):
+
+- /SM590000 Passwords are never stored in clear (one-way hash)
+- /SM590000 HMC/SE is a closed appliance; no means exist to get HDD
+- /SM590000 All network traffic is TLS encrypted
+- /SM590000 HMC and SE feature embedded firewall
+- /SM590000 Firmware is digitally signed and validated for delivery
+- /SM590000 Firmware Integrity Monitoring is used for any attempted tempering post delivery
+
+For HMC and SE Driver 51/Version 2.16.0, HDD encryption uses Trusted Platform Module (TPM) and Linux Unified Key Setup (LUKS) technology.
+
+HMC and SE security audit improvements
+
+With the Audit and Log Management task, audit reports can be generated, viewed, saved, and offloaded. The Customize Scheduled Operations task allows you to schedule audit report generation, saving, and offloading.
+

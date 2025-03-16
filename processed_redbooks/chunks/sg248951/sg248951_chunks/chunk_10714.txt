@@ -1,0 +1,4 @@
+With the Server Time Protocol (STP) functions, the role of the HMC is extended to provide the user interface for managing the Coordinated Timing Network (CTN).
+
+Consider the following points:
+

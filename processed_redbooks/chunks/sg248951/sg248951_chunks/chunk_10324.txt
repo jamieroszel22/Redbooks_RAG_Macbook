@@ -1,0 +1,8 @@
+aration step does not reallocate any resources. It is used only to record customer choices and produce a configuration file on the SE that is used to run the concurrent drawer replacement operation.
+
+The preparation step can be done in advance. However, if any changes to the configuration occur between the preparation and the physical removal of the drawer, you must rerun the preparation phase.
+
+The process can be run multiple times because it does not move any resources. To view the results of the last preparation operation, click Display Previous Prepare Enhanced Drawer Availability Results from the Perform Model Conversion window in the SE.
+
+The preparation step can be run without performing a drawer replacement. You can use it to dynamically adjust the operational configuration for drawer repair or replacement before IBM SSR activity. The Perform Model Conversion window in you click Prepare for Enhanced Drawer Availability is shown in Figure 9-7 on page 397.
+

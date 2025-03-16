@@ -1,0 +1,28 @@
+at exchanger where heat is extracted by the air flowing across the heat exchanger fins. The cooled water is then recirculated back into the PU DCMs cold plates.
+
+<!-- missing-text -->
+
+2.10  Summary
+
+All aspects of the IBM z16 A01 structure are listed in Table 2-16
+
+<!-- missing-text -->
+
+- a. For BPA systems, only 5 TB of memory can be configured per CPC drawer.
+
+<!-- missing-text -->
+
+Chapter 3.
+
+3
+
+Central processor complex design
+
+This chapter describes the design of the IBM z16 processor unit. By understanding this design, users become familiar with the functions that make the IBM z16 a system that accommodates a broad mix of workloads for large enterprises.
+
+Note: The IBM z16 Model A01, Machine Type (M/T) 3931 (M/T 3931), is further identified in this document as IBM z16, unless otherwise specified.
+
+For more information about the processor unit, see z/Architecture Principles of Operation, SA22-7832.
+
+This chapter includes the following topics:
+

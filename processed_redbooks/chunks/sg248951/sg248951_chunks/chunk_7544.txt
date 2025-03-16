@@ -1,0 +1,6 @@
+r limit on multi-track operations was removed by z196. This improvement allows the channel to fully use the bandwidth of FICON channels, which results in higher throughputs and lower response times.
+
+The multi-track operations extension applies to the FICON Express32S, FICON Express16SA, and FICON Express16S+, when configured as CHPID type FC and connecting to z/OS. zHPF requires matching support by the DS8000 series. Otherwise, the extended multi-track support is transparent to the control unit.
+
+zHPF is enhanced to allow all large write operations (greater than 64 KB) at distances up to 100 km (62.13 miles) to be run in a single round trip to the control unit. This process does not elongate the I/O service time for these write operations at extended distances. This enhancement to zHPF removes a key inhibitor for customers that are adopting zHPF over extended distances, especially when the IBM HyperSwap capability of z/OS is used.
+

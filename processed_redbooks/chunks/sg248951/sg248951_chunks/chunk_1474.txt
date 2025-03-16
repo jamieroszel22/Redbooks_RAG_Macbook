@@ -1,0 +1,23 @@
+in Figure 2-14.
+
+<!-- missing-text -->
+
+The IBM z16 Model A01 PU chip (two chips packaged on each DCM) includes the following features and improvements:
+
+- /SM590000 7 nm silicon lithography wafer technology
+- /SM590000 530 mm2 chip size
+- /SM590000 22.5 billion transistors
+- /SM590000 5.2 GHz base clock frequency
+- /SM590000 Eight core design (versus 12 for IBM z15) with increased on-chip cache sizes
+- /SM590000 Two PCIe Gen4 interfaces
+- /SM590000 DDR4 memory controller
+- /SM590000 2x M-Bus to support DCM internal chip to chip connectivity
+- /SM590000 6x X-Bus to support DCM to DCM connectivity in the CPC drawer
+- /SM590000 1x A-Bus to support drawer to drawer connectivity
+- /SM590000 New cache structure design compared to IBM z15 PU:
+- -L1D(ata) and L1I(nstruction) cache - ON-core (128 kB each)
+- -L2 - 32 MB dense SRAM - outside the core, semi-private to the core
+- -L3 (virtual) - up to 256 MB
+- -L4 (virtual) - up to 2048 MB
+- /SM590000 New Core-Nest Interface compared to IBM z15:
+

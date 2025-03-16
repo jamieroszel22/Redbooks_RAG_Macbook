@@ -1,0 +1,10 @@
+formance for production environments.
+
+CF structure sizing changes are expected when moving to CFCC Level 25. Always review the CF structure size by using the CFSizer tool when changing CFCC levels.
+
+For more information about the recommended CFCC levels, see the current exception letter that is published on IBM Resource Linkfi.
+
+3.9.2  Coupling Thin Interrupts
+
+CFCC Level 19 introduced Coupling Thin Interrupts to improve performance in environments that share CF engines. Although dedicated engines are preferable to obtain the best CF performance, Coupling Thin Interrupts helps facilitate the use of a shared pool of engines, which helps to lower hardware acquisition costs.
+

@@ -1,0 +1,16 @@
+ these same kinds of hardware-only changes from a driving z/OS HCD instance to a remote CPC which is not a standalone Coupling facility, but rather a CPC which hosts Linux on Z and /or z/TPF images.
+
+This new support is applicable only when both, the driving CPC and the target CPC are z16 with the required firmware support (Bundle S24 or higher) and the driving systems z/OS is at level 2.3 or higher with APAR OA65559.
+
+- /SM590000 Pluggable optics:
+- -The following features include Small Form-Factor Pluggable (SFP) optics 2 :
+- GLYPH&lt;129&gt; FICON Express32S
+- GLYPH&lt;129&gt; FICON Express16SA
+- GLYPH&lt;129&gt; FICON Express16S+
+- GLYPH&lt;129&gt; OSA Express7S 1.2
+- GLYPH&lt;129&gt; OSA Express7S (including OSA-Express7S 25 GbE SR 1.1)
+- GLYPH&lt;129&gt; OSA Express6S, RoCE Express3
+- GLYPH&lt;129&gt; RoCE Express2.1
+- GLYPH&lt;129&gt; RoCE Express2
+- GLYPH&lt;129&gt; RoCE Express
+

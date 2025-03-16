@@ -1,0 +1,6 @@
+stem support.
+
+This capability is based on the flexibility of the design and structure, which allows concurrent hardware installation and Licensed Internal Control Code (LICC) configuration changes.
+
+The sub-capacity models allow more configuration granularity within the family. The added granularity is available for models that are configured with up to 39 CPs, and provides 117 extra capacity settings. Sub-capacity models provide for CP capacity increase in two dimensions that can be used together to deliver configuration granularity. The first dimension is adding CPs to the configuration. The second is changing the capacity setting of the CPs currently installed to a higher model capacity identifier.
+

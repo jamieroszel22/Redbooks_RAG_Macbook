@@ -1,0 +1,20 @@
+ons, TSAD was scheduled in the Customize Scheduled Operation task for the HMC and the SE/CPC.
+
+With IBM z16, this TSAD function moved to the Customize Console Services task, as shown in Figure 10-6.
+
+<!-- missing-text -->
+
+A weekly schedule for health and diagnostic data (which is also sent to IBM Resource Link) is available in a new window (see Figure 10-7). The active health checking feeds data daily to IBM for an automatic analysis of your IBM Z for potential problems.
+
+<!-- missing-text -->
+
+We highly recommend enabling the System availability collection on your IBM Z to get the full RAS support.
+
+- /SM590000 HMC Monitor Systems Events email Domain Setting enhancement
+
+Thus far, the email for HMC System Events was sent from CONSOLENAME\_EventMonitor@CONSOLENAME.DOMAINNAME. With IBM z16, you can change the sender name (see Figure 10-8).
+
+<!-- missing-text -->
+
+- /SM590000 HMC Data Replication enhancements
+

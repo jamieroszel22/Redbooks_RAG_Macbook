@@ -1,0 +1,20 @@
+ns are intended for securing a frame that weighs up to 1308 kg (2885 lbs).
+
+For more information, see IBM 3931 Installation Manual for Physical Planning , GC28-7015.
+
+11.4.6  Service clearance areas
+
+IBM z16 servers require specific service clearance (see Figure 11-8) to ensure the fastest possible repair in the unlikely event that a part must be replaced. Failure to provide enough clearance to open the front and rear covers results in extended service times or outages.
+
+<!-- missing-text -->
+
+For more information, see IBM 3931 Installation Manual for Physical Planning, GC28-7015.
+
+11.5  Energy management
+
+This section describes the elements of energy management to help you understand the requirements for power and cooling, monitoring and trending, and reducing power consumption.
+
+The energy management structure for the server is shown in Figure 11-9.
+
+<!-- missing-text -->
+

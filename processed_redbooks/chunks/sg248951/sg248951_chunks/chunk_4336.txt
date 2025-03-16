@@ -1,0 +1,14 @@
+r, and z/VM V6R4 or later for virtual guest coupling.
+
+CFCC Level 22
+
+CFCC level 22 is delivered on the IBM z14 (M/T 3906) with driver level D32. CFCC Level 22 introduces the following enhancements:
+
+- /SM590000 CF Enhancements:
+- -CF structure encryption
+- CF Structure encryption is transparent to middleware and applications that use CFs, while CF users are unaware of and not involved in the encryption. All data and adjunct data that flows between z/OS and the CF is encrypted. The intent is to encrypt all data that might be sensitive.
+
+Internal control information and related request metadata is not encrypted, including locks and lock structures.
+
+z/OS generates the required structure-related encryption keys and does much of the key management automatically by using CFRM that uses secure, protected keys (never clear keys). Secure keys maintained in CFRM couple data set.
+

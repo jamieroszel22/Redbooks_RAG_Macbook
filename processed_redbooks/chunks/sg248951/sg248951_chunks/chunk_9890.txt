@@ -1,0 +1,13 @@
+ report), link data that is returned from Read Diagnostic Parameters is used to differentiate between errors that result from failures in the optics versus failures because of dirty or faulty links.
+
+Key metrics can be displayed on the operator console. The results of a display matrix command with the LINKINFO=FIRST parameter, which collects information from each device in the path from the channel to the I/O device (see Figure 9-6 on page 389):
+
+- -Transmit (Tx) and Receive (Rx) optic power levels from the PCHID, Switch Input and Output, and I/O device
+- -Capable and Operating speed between the devices
+- -Error counts
+- -Operating System requires new function APAR OA49089
+
+<!-- missing-text -->
+
+The new IBM Z Channel Subsystem Function performs periodic polling from the channel to the end points for the logical paths that are established and reduces the number of useless Repair Actions (RAs).
+

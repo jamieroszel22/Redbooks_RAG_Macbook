@@ -1,0 +1,14 @@
+R2 and later also support Dynamic Memory Downgrade (DMD), which allows the removal of up to 50% of the real storage from a running z/VM system.
+
+SLES 11 and later supports concurrent add and remove.
+
+3.7.4  Logical partition storage granularity
+
+Granularity of main storage for an LPAR depends on the largest main storage amount that is defined for initial or reserved main storage, as listed in Table 3-8 16 .
+
+<!-- missing-text -->
+
+LPAR storage granularity information is required for LPAR image setup and for z/OS RSU definition. On IBM z16 A01, LPARs are limited to a maximum of 16 TB of main storage. However, the maximum amount of memory that is supported by z/OS V2R2, V2R3, and V2R4 is 4 TB. z/OS V2R5 supports up to 16 TB. For z/VM V7R1 the limit is 2 TB, and z/VM V7R2 increases the limit to 4 TB.
+
+3.7.5  LPAR dynamic storage reconfiguration
+

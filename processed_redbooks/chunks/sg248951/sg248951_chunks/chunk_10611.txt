@@ -1,0 +1,17 @@
+. The same factors that influence the 'machine capacity' also influence the precision with which the absolute capping works.
+
+LPAR absolute capping can be changed through scheduled operations start.
+
+10.5.3  HMC and SE remote operations
+
+Because stand-alone, outside the IBM z16 HMCs (Tower or Rack Mount) can no longer be ordered with IBM z16, connections to the HMC (and SE) are made by way of a browser. However, because the SE cannot be directly accessed by using a browser the Single Object Operations (SOO) task on the HMC must be used.
+
+The following HMC feature codes can be carried forward from previous orders:
+
+- /SM590000 FC 0062
+- /SM590000 FC 0063
+- /SM590000 FC 0082
+- /SM590000 FC 0083
+
+With these HMC feature codes, Driver 51/Version 2.16.0 can be installed to support IBM z16. Also, Driver 51/Version 2.16.0 can be installed on the two HMCs that are provided with the HMA FC 0100 on IBM z15. With these HMCs, you can still work local at an HMC.
+

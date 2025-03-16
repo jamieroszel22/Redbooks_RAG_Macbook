@@ -1,0 +1,12 @@
+igent Resource Director (IRD) is an IBM Z capability that is used only by z/OS. IRD is a function that optimizes processor and channel resource utilization across LPARs within a single IBM Z server.
+
+This feature extends the concept of goal-oriented resource management. It does so by grouping system images that are on the same IBM z16 or IBM Z servers that are running in LPAR mode (and in the same Parallel Sysplex) into an LPAR cluster. This configuration allows WLM to manage resources (processor and I/O) across the entire cluster of system images and not only in one single image.
+
+An LPAR cluster is shown in Figure 3-21. It contains three z/OS images and one Linux image that is managed by the cluster. Included as part of the entire Parallel Sysplex is another z/OS image and a CF image. In this example, the scope over which IRD has control is the defined LPAR cluster.
+
+<!-- missing-text -->
+
+IRD features the following characteristics:
+
+- /SM590000 IRD processor management
+

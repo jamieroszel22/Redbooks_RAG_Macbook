@@ -1,0 +1,15 @@
+ranch is essential for successful parallel execution of an instruction stream.
+
+IBM z16 integrates a new branch prediction design that uses SRAM and supports the following enhancements over IBM z15:
+
+- /SM590000 BTB1: 8 K - 12 K
+- /SM590000 BTB2: up to 260 K
+- /SM590000 TAGE PHT: 4 k x 2
+- /SM590000 TAGE CTB: 1 k x 2
+
+3.4.11  Wild branch
+
+When a bad pointer is used or when code overlays a data area that contains a pointer to code, a random branch is the result. This process causes a 0C1 or 0C4 abend. Random branches are difficult to diagnose because clues about how the system got to that point are not evident.
+
+With the wild branch hardware facility, the last address from which a successful branch instruction was run is kept. z/OS uses this information with debugging aids, such as the SLIP command, to determine from where a wild branch came.
+

@@ -1,0 +1,14 @@
+e TKE Workstation Setup wizard.
+
+TKE upgrade considerations
+
+The TKE LIC does not need to be upgraded if you are migrating your configuration with Crypto Express6S and TKE Release 9.x to an IBM z16.
+
+Note: If your IBM z16 includes Crypto Express7S or Crypto Express6S, you can use TKE V9.2, which requires the 4768 cryptographic adapter.
+
+For more information about TKE hardware support, see Table 6-3. For some functions, requirements must be considered; for example, the characterization of a Crypto Express adapter in EP 11 mode always requires the use of a TKE.
+
+<!-- missing-text -->
+
+- a. The TKE workstation can be upgraded to TKE LIC V10.0 by adding a 4770 cryptographic adapter.
+

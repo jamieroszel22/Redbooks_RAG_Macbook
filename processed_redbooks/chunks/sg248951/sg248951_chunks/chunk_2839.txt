@@ -1,0 +1,13 @@
+ point arithmetic complex and error-prone for programmers who use it for applications in which the data is typically decimal.
+
+Hardware DFP computational instructions provide the following features:
+
+- /SM590000 Data formats of 4, 8, and 16 bytes
+- /SM590000 An encoded decimal (base 10) representation for data
+- /SM590000 Instructions for running decimal floating point computations
+- /SM590000 An instruction that runs data conversions to and from the decimal floating point representation
+
+Benefits of the DFP accelerator
+
+The DFP accelerator offers the following benefits:
+

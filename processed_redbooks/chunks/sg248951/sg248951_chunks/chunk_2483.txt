@@ -1,0 +1,10 @@
+es that support open standards, helps you achieve your business goals.
+
+The IBM z16 extends the platform's capabilities and adds value with breakthrough technologies, such as the following examples:
+
+- /SM590000 On-chip Artificial Intelligence (AI) at speed and scale that is designed to leave no transaction behind.
+- /SM590000 An industry-first system that uses quantum-safe technologies, cryptographic discovery tools, and end-to-end data encryption to protect against future attacks now.
+- /SM590000 A continuous compliance solution to help keep up with changing regulations, which reduces cost and risk.
+- /SM590000 A consistent cloud experience to enable accelerated modernization, rapid delivery of new services, and end-to-end automation.
+- /SM590000 New options in flexible and responsible consumption to manage system resources across geographical locations, with sustainability that is built in across its lifecycle.
+

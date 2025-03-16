@@ -1,0 +1,13 @@
+coupling link configurations in a Parallel Sysplex.
+
+HiperSockets internal networks support the following transport modes:
+
+- /SM590000 Layer 2 (link layer)
+- /SM590000 Layer 3 (network or IP layer)
+
+Traffic can be IPv4 or IPv6, or non-IP, such as AppleTalk, DECnet, IPX, NetBIOS, or SNA.
+
+HiperSockets devices are protocol-independent and Layer 3-independent. Each HiperSockets device (Layer 2 and Layer 3 mode) features its own Media Access Control (MAC) address. This address allows the use of applications that depend on the existence of Layer 2 addresses, such as Dynamic Host Configuration Protocol (DHCP) servers and firewalls.
+
+Layer 2 support helps facilitate server consolidation, and can reduce complexity and simplify network configuration. It also allows LAN administrators to maintain the mainframe network environment similarly to nonmainframe environments.
+

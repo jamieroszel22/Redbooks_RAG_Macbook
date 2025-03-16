@@ -1,0 +1,18 @@
+capacity planning and management for LPARs. The separation also affects weight management because CP and zIIP weights can be managed separately.
+
+For more information, see 'PU weighting' on page 99.
+
+All assigned PUs are grouped in the PU pool. These PUs are dispatched to online logical PUs. For example, consider an IBM z16 with 10 CPs, 2 IFLs, 5 zIIPs, and 1 ICF. This system has a PU pool of 18 PUs, called the pool width . Subdivision defines the following pools:
+
+- /SM590000 A CP pool of 10 CPs
+- /SM590000 An ICF pool of one ICF
+- /SM590000 An IFL pool of two IFLs
+- /SM590000 A zIIP pool of five zIIPs
+
+PUs are placed in the pools in the following circumstances:
+
+- /SM590000 When the system is PORed
+- /SM590000 At the time of a concurrent upgrade
+- /SM590000 As a result of adding PUs during a CBU
+- /SM590000 Following a capacity on-demand upgrade through On/Off CoD or CIU.
+

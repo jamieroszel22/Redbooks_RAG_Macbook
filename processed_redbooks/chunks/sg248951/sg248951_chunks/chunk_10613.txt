@@ -1,0 +1,10 @@
+om the Customize Console Services task. To enable or disable the Remote operation service, click Change ... in the Customize Console Services window, as shown in Figure 10-23.
+
+<!-- missing-text -->
+
+Note: If the setting in Change Remote Access Setting → IP Access Control is set to Allow specific IP addresses, but none or incorrect IP addresses are in the list, a remote HMC connection is not available by using a web browser.
+
+Microsoft Internet Explorer, Microsoft Edge, Mozilla Firefox, Safari, and Goggle Chrome were tested as remote web browsers. For more information about web browser requirements, see the HMC and SE console help system or see the IBM Resource Link. At this web page, select Library , the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide .
+
+Single Object Operations
+

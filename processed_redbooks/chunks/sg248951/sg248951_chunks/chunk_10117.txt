@@ -1,0 +1,8 @@
+ the Hardware Management Appliance (HMA). This task helps you determine the resources that are required to support the removal of a drawer with acceptable degradation to the operating system images.
+
+The EDA process determines which resources (including memory, PUs, and I/O paths) are free to allow for the removal of a drawer. You can run this preparation on each drawer to determine which resource changes are necessary. Use the results as input in the planning stage to help identify critical resources.
+
+With this planning information, you can examine the LPAR configuration and workload priorities to determine how resources might be reduced and still allow the drawer to be concurrently removed.
+
+Include the following tasks in the planning process:
+

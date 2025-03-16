@@ -1,0 +1,16 @@
+t operating systems.
+- f. Shared Memory Communications - Direct Memory Access.
+- g. SMC-R and SMC-D are supported on Linux kernel; see:
+
+https://linux-on-z.blogspot.com/p/smc-for-linux-on-ibm-z.html
+
+- h. Remote Direct Memory Access (RDMA) over Converged Ethernet.
+- i. Linux can also use RocE Express as a standard NIC (Network Interface Card) for Ethernet.
+- j. Does not require a peer OSA.
+- k. Statements of Direction: IBM z16 will be the last IBM Z server to support OSA Express 1000BASE-T hardware adapters.
+- l. Statements of Direction: IBM z16 will be the last IBM Z server to support the OSE CHPID type.
+
+7.3.5  Cryptographic functions
+
+the IBM z16 supported cryptography functions for z/OS and z/VM are listed in Table 7-10.
+

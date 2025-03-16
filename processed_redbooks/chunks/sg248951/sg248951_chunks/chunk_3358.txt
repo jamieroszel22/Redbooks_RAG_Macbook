@@ -1,0 +1,12 @@
+BM z14 and IBM z15 servers, in IBM z16 SMT is enabled 10  for SAPs. All features include standard SAPs configured. The number of standard SAPs depends on the IBM z16 feature, as listed in Table 3-4.
+
+<!-- missing-text -->
+
+SAP configuration
+
+A standard SAP configuration provides a well-balanced system for most environments. However, some application environments feature high I/O rates, typically Transaction Processing Facility (TPF) environments. In this case, more SAPs can be ordered.
+
+Assigning more SAPs can increase the capability of the channel subsystem to run I/O operations. In IBM z16 systems, the number of SAPs plus the number of optional SAPs cannot exceed firmware limit of 128 threads.
+
+Optional other orderable SAPs (FC 1963)
+

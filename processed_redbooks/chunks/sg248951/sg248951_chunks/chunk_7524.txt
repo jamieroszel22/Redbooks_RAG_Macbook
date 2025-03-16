@@ -1,0 +1,8 @@
+ollection capability. With this support, the CFCC dispatcher significantly reduces the CF hang detection interval to only 2 seconds, which allows more timely detection and recovery from such events.
+
+When a hang is detected, in most cases the CF confines the scope of the failure to 'structure damage' for the single CF structure the hung command was processing against, captures diagnostics with a nondisruptive CF dump, and continues operating without stopping or rebooting the CF image.
+
+- /SM590000 Coupling Facility granular latching
+
+This enhancement eliminates the performance degradation that is caused by structure-wide latching. With this support, most CF list and lock structure ECR processing no longer uses structure-wide latching. It serializes its execution by using the normal structure object latches that all mainline commands use. However, a few 'edge conditions' in ECR processing still require structure-wide latching.
+

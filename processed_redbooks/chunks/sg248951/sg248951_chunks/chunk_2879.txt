@@ -1,0 +1,8 @@
+ of them directed for execution to a processor that is characterized as a zIIP. Because the zIIPs do not increase the MSU value of the processor, they do not affect the IBM software license changes.
+
+IBM z16 is the fourth generation of IBM Z processors to support SMT. IBM z16 servers implement two threads per core on IFLs and zIIPs. SMT must be enabled at the LPAR level and supported by the z/OS operating system. SMT was enhanced for IBM z16 and it is enabled for SAPs by default (no customer intervention required).
+
+Introduced in z/OS V2R4, the z/OS Container Extensions 7  allows deployment of Linux on IBM Z software components, such as Docker Containers in a z/OS system, in direct support of z/OS workloads without requiring a separately provisioned Linux server. It also maintains overall solution operational control within z/OS and with z/OS qualities of service. Workload deployed in z/OS Container Extensions is zIIP eligible.
+
+How zIIPs work
+

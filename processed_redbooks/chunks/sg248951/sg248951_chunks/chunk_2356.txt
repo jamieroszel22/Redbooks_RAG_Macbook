@@ -1,0 +1,4 @@
+orm factor frame for all the internal system elements. The configuration can consist of 1 - 4 frames.
+
+Consider the following points:
+

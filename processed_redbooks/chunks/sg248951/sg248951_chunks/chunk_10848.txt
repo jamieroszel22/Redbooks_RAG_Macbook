@@ -1,0 +1,22 @@
+planning
+
+This chapter describes the performance and capacity planning of IBM z16.
+
+Note: Throughout this chapter, IBM z16 refers to IBM z16 Model A01 (Machine Type 3931) unless otherwise specified.
+
+This chapter includes the following topics:
+
+- /SM590000 12.1, 'IBM z16 performance characteristics' on page 474
+- /SM590000 12.2, 'IBM z16 Large System Performance Reference ratio' on page 476
+- /SM590000 12.3, 'Fundamental components of workload performance' on page 477
+- /SM590000 12.4, 'Relative Nest Intensity' on page 479
+- /SM590000 12.5, 'LSPR workload categories based on L1MP and RNI' on page 481
+- /SM590000 12.6, 'Relating production workloads to LSPR workloads' on page 481
+- /SM590000 12.7, 'CPU MF counter data and LSPR workload type' on page 482
+- /SM590000 12.8, 'Workload performance variation' on page 483
+- /SM590000 12.9 'Capacity planning considerations for IBM z16', on page 487
+
+12
+
+12.1  IBM z16 performance characteristics
+

@@ -1,0 +1,12 @@
+rated Accelerator for Z Sort
+
+The Integrated Accelerator for Z Sort is an on chip hardware feature that is available on IBM z15 and newer servers. It is driven by the SORT LISTS (SORTL) instruction.
+
+z/OS DFSORT takes advantage of Z Sort, and provides users with significant performance boosts for their sort workloads. With z/OS DFSORT's Z Sort algorithm, clients can see batch sort job elapsed time improvements of up to 20 - 30% (depending on record size) and CPU time improvements of up to 40% compared to IBM z14.
+
+The function is used on z/OS V2.R5 and enabled on z/OS V2.R4 and V2.R3 with PTFs for APAR PH03207.
+
+The sort jobs must meet certain eligibility criteria. For the full list and other considerations, see the DFSORT User Guide for PH03207.
+
+CPU Measurement Facility
+

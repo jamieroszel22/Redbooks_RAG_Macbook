@@ -1,0 +1,18 @@
+ Techline.
+
+Thanks to the following people for their contributions to this project:
+
+John Campbell and John Burg
+
+IBM Z Washington Systems Center
+
+Robert Haimowitz
+
+IBM Redbooks, Poughkeepsie Center
+
+Dave Surman, Darelle Gent, David Hutton, Eysha Powers, Patty Driever, Anthony Sofia, Brian Valentine, Purvi Patel, Bill Bitner, Christine Smith, Barbara Weiler, Tom Morris, Marna Walle, Franco Pinto, Walter Niklaus, Martin Recktenwald, Ron Geiger, Frank Miele, Lisa Schloemer, Richard Gagnon, Susan Farrell, Les Geer III, Yamil Rivera.
+
+IBM
+
+Now you can become a published author, too!
+

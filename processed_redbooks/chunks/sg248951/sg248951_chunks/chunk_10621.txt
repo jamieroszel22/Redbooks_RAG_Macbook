@@ -1,0 +1,16 @@
+, and MCFs interact with each other, is shown in Figure 10-27.
+
+<!-- missing-text -->
+
+MCL Activation
+
+By design and with planning, MCLs can be activated concurrently. Consider the following points:
+
+- /SM590000 Most MCLs activate concurrently when applied.
+- /SM590000 Some MCLs need a disruptive configure off/on to activate the new loaded microcode.
+- /SM590000 Activate traditional I/O Feature Pended MCL - LIC on the hardware feature:
+- -Display Pending MCLs by using HMC function or Resource Link Machine Information Reports
+- -Activate by using HMC function on a feature basis by PCHID individually - disruptive: CONFIG the CHPID OFF to all sharing LPARs, activate, and then CONFIG ON to all
+- /SM590000 Activate Native PCIe Pended MCL - LIC on a hardware feature OR Resource Group (RG) LIC:
+- -Display Pending MCLs by using HMC function or Resource Link Machine Information Reports
+

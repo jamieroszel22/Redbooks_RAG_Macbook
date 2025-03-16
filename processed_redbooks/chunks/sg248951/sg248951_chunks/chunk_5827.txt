@@ -1,0 +1,12 @@
+vailable to LPARs as dedicated, shared, and spanned.
+
+Although a shared channel path can be shared by LPARs within a same LCSS, a spanned channel path can be shared by LPARs within and across LCSSs.
+
+By assigning the same CHPID from different LCSSs to the same channel path (for example, a PCHID), the channel path can be accessed by any LPARs from these LCSSs at the same time. The CHPID is spanned across those LCSSs. The use of spanned channels paths decreases the number of channels that are needed in an installation of IBM Z servers.
+
+A sample of channel paths that are defined as dedicated, shared, and spanned is shown in Figure 5-3.
+
+<!-- missing-text -->
+
+The following definitions of a channel path are shown in Figure 5-3:
+

@@ -1,0 +1,15 @@
+ The number of power cords that are required depends on the system configuration.
+
+Note: For initial installation, all power sources are required to run the system checkout diagnostics successfully.
+
+PDUs are installed in pairs. A system can have 2, 4, 6, or 8 PDUs, depending on the configuration. Consider the following points:
+
+- /SM590000 Paired PDUs are A1/A2, A3/A4, B1/B2, and C1/C2.
+- /SM590000 From the rear of the system, the odd-numbered PDUs are on the left side of the rack; the even-numbered PDUs are on the right side of the rack.
+- /SM590000 The total loss of one PDU in a pair does not affect the system operation.
+
+Components that plug into the PDUs for redundancy (by using two power cords) include the following features:
+
+- /SM590000 CPC Drawers, PCIe+ I/O drawers, Radiators, and Support Elements
+- /SM590000 The redundancy for each component is achieved by plugging the power cables into the paired PDUs.
+

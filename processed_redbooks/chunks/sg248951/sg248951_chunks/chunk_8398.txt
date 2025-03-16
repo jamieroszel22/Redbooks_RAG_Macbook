@@ -1,0 +1,10 @@
+ PCIe+ I/O drawers, adding I/O 4  features, or using the following combinations:
+
+- /SM590000 MES upgrades for processors are done by any of the following methods:
+- -LICCC assigning and activating unassigned PUs up to the limit of the installed processor drawers.
+- -LICCC to adjust the number and types of PUs to change the capacity setting, or both.
+- -Installing more processor drawers and LICCC assigning and activating unassigned PUs on the installed processor drawers.
+- /SM590000 MES upgrades for memory are done by one of the following methods:
+- -By using LICCC to activate more memory capacity up to the limit of the memory cards on the currently installed processor drawers. Flexible memory features enable you to implement better control over future memory upgrades. For more information about the memory features, see 2.5.7, 'Flexible Memory Option' on page 46.
+- -Installing more processor drawers and the use of LICCC to activate more memory capacity on installed processor drawers.
+

@@ -1,0 +1,16 @@
+, new cache structure, new Core-Nest interface, new branch prediction design that uses dense SRAM, and new on-chip AI accelerator for inference), the IBM Z processor performance continues to evolve.
+
+Enhancements were made on the processor unit design, including the following examples:
+
+- /SM590000 Cache structure
+- /SM590000 Branch prediction mechanism
+- /SM590000 Floating point unit
+- /SM590000 Divide engine scheduler
+- /SM590000 Load/Store Unit and Operand Store Compare (OSC)
+- /SM590000 Simultaneous multi-threading
+- /SM590000 Relative nest intensity (RNI) redesigns
+
+For more information about RNI, see 12.4, 'Relative Nest Intensity' on page 479.
+
+The processing performance was enhanced through the following changes to the IBM z16 processor design:
+

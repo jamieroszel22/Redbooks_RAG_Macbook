@@ -1,0 +1,18 @@
+ility' on page 430
+- /SM590000 10.5, 'HMC and SE capabilities' on page 431
+
+10.1  Introduction
+
+The HMC is a closed system (appliance), which means that no other applications can be installed on it.
+
+The HMC runs a set of management applications. On IBM z16, two HMCs are delivered with the Hardware Management Appliance (HMA) feature FC 0129. The HMC code runs on the two integrated 1U rack-mounted servers on the top of the IBM z16 A frame. Stand-alone outside the IBM z16 HMCs (Tower or Rack Mount) no longer can be ordered.
+
+The following HMC feature codes can be carried forward from previous orders:
+
+- /SM590000 FC 0062
+- /SM590000 FC 0063
+- /SM590000 FC 0082
+- /SM590000 FC 0083
+
+On the carry forward HMC features, Driver 51/Version 2.16.0 must be installed to support IBM z16. Also, Driver 51/Version 2.16.0 can be installed on the SE/HMC hardware that is provided with the HMA feature FC 0100 on IBM z15.
+

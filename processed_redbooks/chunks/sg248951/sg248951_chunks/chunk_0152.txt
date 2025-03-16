@@ -1,0 +1,8 @@
+m processor 1 . It is designed to help businesses meet the following goals:
+
+- /SM590000 Create value in every interaction and to optimize decision making, with the on-chip Artificial Intelligence (AI) accelerator. The Accelerator for AI can deliver the speed and scale that is required to infuse AI inferencing into workloads with no impact on service delivery.
+- /SM590000 Act now to protect today's data against current and future threats with quantum-safe protection immediately through quantum-safe cryptography APIs and crypto discovery tools.
+- /SM590000 Enhance resiliency with flexible capacity to dynamically shift system resources across locations to proactively avoid disruptions.
+- /SM590000 Modernize and integrate applications and data in a hybrid cloud environment with consistent and flexible deployment options to innovate with speed and agility.
+- /SM590000 Reduce cost and keep up with changing regulations through a solution that helps simplify and streamline compliance tasks.
+

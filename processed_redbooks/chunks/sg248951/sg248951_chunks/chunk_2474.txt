@@ -1,0 +1,10 @@
+tool is to estimate the power requirements to aid you in planning for your system installation. Actual power consumption after installation can be confirmed by using the HMC Monitors Dashboard task.
+
+2.9.4  Cooling
+
+The PU DCMs for IBM z16 A01 are cooled by a cold plate that is connected to the internal water-cooling loop. In an air-cooled system, the radiator unit dissipates the heat from the internal water loop with air. The radiator unit provides improved availability with N+ 1 pumps and blowers.
+
+For all IBM z16 A01 servers, the CPC drawer components (except for PU DCMs) and the PCIe+ I/O drawers are air cooled by redundant fans. Airflow of the system is directed from front (cool air) to the back of the system (hot air).
+
+Radiator-cooled (air-cooled) models (FC 4040, FC 4041)
+

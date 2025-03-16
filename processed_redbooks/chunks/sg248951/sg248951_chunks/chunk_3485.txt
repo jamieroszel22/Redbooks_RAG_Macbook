@@ -1,0 +1,10 @@
+th the remaining working memory resources. After the POR completes, the memory distribution across the processor drawers is different, as is the total amount of available memory.
+
+Large page support
+
+By default, page frames are allocated with a 4 KB size. IBM z16 servers also support large page sizes of 1 MB or 2 GB. The first z/OS release that supports 1 MB pages is z/OS V1R9. Linux on IBM Z 1 MB pages support is available in SUSE Linux Enterprise Server 10 SP2 and Red Hat Enterprise Linux (RHEL) 5.2 and later.
+
+The TLB reduces the amount of time that is required to translate a virtual address to a real address. This translation is done by dynamic address translation (DAT) when it must find the correct page for the correct address space.
+
+Each TLB entry represents one page. As with other buffers or caches, lines are discarded from the TLB on a least recently used (LRU) basis.
+

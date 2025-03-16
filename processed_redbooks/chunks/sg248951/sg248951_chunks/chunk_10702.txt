@@ -1,0 +1,12 @@
+processor type instead of only a total count
+- -Option to show more information about installed and staged permanent records
+- -More information for the Attention state by providing seven more flags
+
+HMC and SE are a part of the z/OS Capacity Provisioning environment. The Capacity Provisioning Manager (CPM) communicates with the HMC through IBM Z APIs, and enters CoD requests. For this reason, SNMP must be configured and enabled by using the Customize API Settings task on the HMC.
+
+Statement of Direction: IBM z16 is planned to be the last server to support established CoD unique record type automation interfaces. For example, the older command HWMCA\_ACTIVATE\_CBU\_COMMAND changed to HWMCA\_ADD\_CAPACITY\_COMMAND . We suggest that you change your automation scripts now.
+
+For more information, see Capacity on-Demand User's Guide , SC28-7025.
+
+For more information about the use of and setting up CPM, see the following publications:
+

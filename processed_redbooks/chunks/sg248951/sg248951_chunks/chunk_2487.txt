@@ -1,0 +1,6 @@
+ed to building systems with ever-increasing capacities.
+
+The modular CPC drawer design is flexible and expandable. It offers unprecedented capacity and security features to meet consolidation needs.
+
+IBM z16 servers CPC continues the line of mainframe processors that are compatible with an earlier version. The IBM z16 brings the following processor design enhancements:
+

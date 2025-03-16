@@ -1,0 +1,8 @@
+deactivated. One or more PUs or storage might need to be configured offline to reach the required level of available resources. Plan to address these possibilities to help reduce operational errors.
+
+Exception: Single-drawer systems cannot use the EDA procedure.
+
+Include the planning process as part of the initial installation and any follow-on upgrade that modifies the operating environment. A customer can use the IBM Resource Link machine information report to determine the number of drawers, active PUs, memory configuration, and channel layout.
+
+If the IBM z16 is installed, click Prepare for Enhanced Drawer Availability in the Perform Model Conversion window of the EDA process on the Hardware Management Appliance (HMA). This task helps you determine the resources that are required to support the removal of a drawer with acceptable degradation to the operating system images.
+

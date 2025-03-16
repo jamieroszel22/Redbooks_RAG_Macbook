@@ -1,0 +1,18 @@
+ere it is running. Then, it enables functions accordingly.   No toleration of new hardware is necessary because it is 'just there'. ICSF maintenance is necessary if you want to use new capabilities.
+
+Use of new functions is supplied in ICSF PTFs on z/OS V2.R2-V2.R4 (Web deliverable HCR77D1) or V2.R5 (base, which is HCR77D2).
+
+New function exploitation includes:
+
+- /SM590000 CCA and EP11 CEX8 Coprocessor support
+- /SM590000 CCA and EP11 Quantum Safe Algorithms (Kyber &amp; Dilithium 8,7)
+- /SM590000 EP11 mechanism for data reencryption and new ECC curve support
+- /SM590000 Fully homomorphic encryption
+- /SM590000 Usage counters that count classes of crypto operations (to meet audit requirements)
+
+When new Quantum Safe Algorithms are used and a KDS is shared in a sysplex, ensure that all ICSF PTFs are installed on all systems.
+
+For more information about ICSF versions and FMID cross-references, see this IBM Support web page.
+
+RMF Support for Crypto Express
+

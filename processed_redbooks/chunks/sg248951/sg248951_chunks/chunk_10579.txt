@@ -1,0 +1,10 @@
+ature codes, Driver 51/Version 2.16.0 can be installed to support IBM z16. On the HMCs of the HMA for IBM z15, FC 0100, Driver 51/Version 2.16.0 also can be installed.
+
+10.3  HMC and SE connectivity
+
+Security: The configuration of network components, such as routers or firewalls, is beyond the scope of this document. Whenever the networks are interconnected, security exposures can exist. For more information about HMC security, see Hardware Management Console Security , SC28-7027, and Integrating the Hardware Management Console's Broadband Remote Support Facility into your Enterprise , SC28-7026.
+
+For more information about the HMC settings that are related to access and security, see IBM Resource Link. At the web page, select Library , the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide .
+
+10.3.1  Hardware Management Appliance connectivity
+

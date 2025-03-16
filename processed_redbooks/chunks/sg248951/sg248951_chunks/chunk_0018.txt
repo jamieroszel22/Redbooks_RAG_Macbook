@@ -1,0 +1,6 @@
+technical and customer support and services. John has also been an IBM Z hardware technical support course designer, developer, and instructor for the last eight generations of IBM high-end servers.
+
+Jannie Houlbjerg is a Systems Programmer working at JN Data in Denmark. She has more than 20 years of experience in the IBM Z field. Her areas of expertise include IBM Z hardware and infrastructure, IBM Parallel Sysplexfi, connectivity, performance, IBM GDPSfi, and technical project management and documentation.
+
+Martijn Raave is an IBM Z and LinuxONE Client Architect and Hardware Technical Specialist for IBM Northern Europe. Over a period of over 20 years, his professional career has revolved around the mainframe platform, supporting several large Dutch customers in their technical and strategic journey on IBM Z. His focus areas are hardware, resiliency, availability, architecture, and any other topics about IBM Z.
+

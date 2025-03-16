@@ -1,0 +1,13 @@
+M backed Hierarchical Deterministic Wallets for Bitcoin (BIP 0032 and SLIP 0010)
+- -Hash collision resistant Schnorr signature scheme BSI TR 03111, two variants:
+- GLYPH&lt;129&gt; Plain BSI TR 03111
+- GLYPH&lt;129&gt; With compressed keys and signing party's public key as extra input
+- -Support for Edwards and Montgomery elliptic curves: EdDSA (Ed25519, Ed448) and ECDH (X25519, X448) (8s and 7s)
+- -RSA OAEP with SHA 2 and SHA 3 (8s and 7s only)
+- -Extensive IBM Cloud Crypto support:
+- GLYPH&lt;129&gt; Domains fully manageable by clients without cloud admins assistance
+- GLYPH&lt;129&gt; Do not Disturb: Actively prohibit cloud administrators from domain management
+- -HSM internal re encrypt support for block-based cipher modes
+- /SM590000 EP11 for CEX8S (5.8.x) only
+- -Three new compliance modes: FIPS2021, FIPS2024, and Administrative FIPS2021 (first of its kind)
+- -Enhanced concurrent update support now includes kernel modules

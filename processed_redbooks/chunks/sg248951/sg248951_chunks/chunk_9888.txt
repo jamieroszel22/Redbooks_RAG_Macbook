@@ -1,0 +1,12 @@
+periodically, which improves reliability of the pumps. The replacement of pumps or blowers is concurrent with no effect on performance.
+
+Note: Customer chilled water (WCU) is not offered on IBM z16.
+
+- /SM590000 FICON Express 32S with Forward Error Correction (FEC)
+
+FICON Express32S features continue to provide a new standard for transmitting data over 32 Gbps links by using 64b/66b encoding. The new standard that is defined by T11.org FC-FS-3 is more efficient than the current 8b/10b encoding.
+
+FICON Express32S channels that are running at 32 Gbps can take advantage of FEC capabilities when connected to devices that support FEC.
+
+FEC allows FICON Express32S channels to operate at higher speeds, over longer distances, with reduced power and higher throughput. They also retain the same reliability and robustness for which FICON channels are traditionally known.
+

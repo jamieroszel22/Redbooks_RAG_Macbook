@@ -1,0 +1,18 @@
+processor drawers is not supported. However, the activation of an On/Off CoD upgrade can increase the model capacity identifier (4 xx , 5 yy , 6 yy , or 7 nn ).
+
+8.6.2  Capacity Provisioning Manager
+
+The installation of the capacity provision function on z/OS requires the following prerequisites:
+
+- /SM590000 Setting up and customizing z/OS RMF, including the Distributed Data Server (DDS).
+- /SM590000 Setting up the z/OS CIM Server (included in z/OS base).
+- /SM590000 Performing capacity provisioning customization. For more information, see z/OS MVS Capacity Provisioning User's Guide , SC34-2661.
+
+The use of the capacity provisioning function requires the following prerequisites:
+
+- /SM590000 TCP/IP connectivity to observed systems
+- /SM590000 RMF Distributed Data Server is active
+- /SM590000 CIM server is active
+- /SM590000 Security and CIM are customized
+- /SM590000 Capacity Provisioning Manager is customized
+

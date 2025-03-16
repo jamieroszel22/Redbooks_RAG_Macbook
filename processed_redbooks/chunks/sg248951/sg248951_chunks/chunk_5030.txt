@@ -1,0 +1,20 @@
+rough the adapters, cable lengths, and the type of workload.
+
+PCIe Gen3 x16 links are used in IBM z16 servers for driving the PCIe+ I/O drawers, and for coupling links for CPC to CPC communications.
+
+Note: Unless specified otherwise, PCIe refers to PCIe Generation 3 in remaining sections of this chapter.
+
+4.2  I/O system overview
+
+The IBM z16 I/O characteristics and supported features are described in this section.
+
+4.2.1  Characteristics
+
+The IBM z16 A01 I/O subsystem provides great flexibility, high availability, and the following excellent performance characteristics:
+
+- /SM590000 High bandwidth
+
+IBM z16 servers use PCIe Gen3 protocol to drive PCIe+ I/O drawers and CPC to CPC (coupling) connections. The I/O bus infrastructure data rate of up to 128 GBps 1  per system (12 PCIe+ Gen3 fan-out slots).
+
+For more information about coupling link connectivity, see 4.6.4, 'Parallel Sysplex connectivity' on page 187.
+

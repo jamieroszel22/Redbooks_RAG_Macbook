@@ -1,0 +1,9 @@
+ simple approach for self-service provisioning and rapid delivery of software as a service, while enabling for the API economy.
+
+Consider the following points before migrating z/OS V2.R3 to IBM z16:
+
+- /SM590000 IBM z/OS V2.R3 with IBM z16 requires a minimum of 8 GB of memory. When running as a z/VM guest or on an IBM System zfi Personal Development Tool, a minimum of 2 GB is required for z/OS V2.R3. If the minimum is not met, a warning WTOR is issued at IPL.
+- Continuing with less than the minimum memory might affect availability. A migration health check warns if the system is configured with less than 8 GB.
+- /SM590000 Dynamic splitting and merging of Coordinated Timing Network (CTN) is available with IBM z16.
+- /SM590000 RMF support is provided to collect SMC-D related performance measurements in SMF 73 Channel Path Activity and SMF 74 subtype 9 PCIe Activity records. It also provides these measurements in the RMF Postprocessor and Monitor III PCIe and Channel Activity reports.
+

@@ -1,0 +1,14 @@
+same driver level (or later) than any SE that is to be managed. Also, all SEs to be managed must be known (defined) to that HMC.In a STP-only CTN, the HMC can be used to perform the following tasks:
+
+- /SM590000 Start or modify the CTN ID.
+- /SM590000 Start the time (manually or by contacting an NTP server).
+- /SM590000 Start the time zone offset, Daylight Saving Time offset, and leap second offset.
+- /SM590000 Assign the roles of preferred, backup, and current time servers, and arbiter.
+- /SM590000 Adjust time by up to plus or minus 60 seconds.
+- /SM590000 Schedule changes to the offsets listed. STP can automatically schedule Daylight Saving Time, based on the selected time zone.
+- /SM590000 Monitor the status of the CTN.
+- /SM590000 Monitor the status of the coupling links that are started for STP message exchanges.
+- /SM590000 For diagnostic purposes, the PPS port state on an IBM z16 can be displayed and fenced ports can be reset individually.
+
+STP changes and enhancements
+

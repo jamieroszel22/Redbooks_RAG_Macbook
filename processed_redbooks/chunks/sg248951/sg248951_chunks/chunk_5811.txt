@@ -1,0 +1,18 @@
+e I/O expansions.
+
+CPC drawer repair: The HSA can be moved from one CPC drawer to a different drawer in an enhanced availability configuration as part of a concurrent CPC drawer repair (CDR) action.
+
+The following objects are always reserved in the IBM z16 A01 HSA during POR, whether they are defined in the IOCDS for use:
+
+- /SM590000 Six CSSs
+- /SM590000 A total of 15 LPARs in each CSS0 to CSS4
+- /SM590000 A total of 10 LPARs in CSS5
+- /SM590000 Subchannel set 0 with 63.75 K devices in each CSS
+- /SM590000 Subchannel set 1 with 64 K minus one device in each CSS
+- /SM590000 Subchannel set 2 with 64 K minus one device in each CSS
+- /SM590000 Subchannel set 3 with 64 K minus one device in each CSS
+
+5.1.1  Multiple logical channel subsystems
+
+In the z/Architecture, a single channel subsystem can have up to 256 channel paths that are defined, which limited the total numbers of I/O connectivity on older IBM Z servers to 256.
+

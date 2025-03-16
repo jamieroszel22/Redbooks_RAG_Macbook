@@ -1,0 +1,10 @@
+ecurity policies because the data is not leaving the platform to be processed. The hardware, firmware, and software are vertically integrated to seamlessly deliver this function to the applications.
+
+In August 2021, IBM announced a new generation of IBM Z processor, Telum with new Artificial Intelligence (AI) accelerator (see Figure B-1). This innovation brings incredible value to the applications and workloads that are running on IBM Z.
+
+<!-- missing-text -->
+
+With the new IBM Z Integrated Accelerator for AI, customers can benefit from the acceleration of AI operations, such as fraud detection, customer behavior predictions, and streamlining of supply chain operations, all in real time. Customers can derive the valuable insights from their data instantly.
+
+AI accelerator delivers AI inference in real time, at large scale and rate, with no transaction left behind without the need to offload data off the IBM Z for performing AI inference.
+

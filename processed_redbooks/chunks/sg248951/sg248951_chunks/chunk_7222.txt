@@ -1,0 +1,13 @@
+ i. Subcapacity CP speed boost (no zIIP boost).
+- j. For SCSI IPL.
+- k. For second-level guests that are running under KVM.
+- l. Requires Linux kernel exploitation support for gzip/zlib compression.
+
+7.3.2  Coupling and clustering
+
+The supported coupling and clustering functions for z/OS and z/VM are listed in Table 7-5.
+
+Note: z/OS V2R2 support ended as of September 2020. No new function is provided for the use of the new hardware features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document.
+
+<!-- missing-text -->
+

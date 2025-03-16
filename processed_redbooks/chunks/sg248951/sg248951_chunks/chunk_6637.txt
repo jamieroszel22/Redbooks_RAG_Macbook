@@ -1,0 +1,20 @@
+ native support for X.509 certificates
+
+CCA 7.3, CCA 6.6
+
+WRAPENH3 Enhanced Wrapping Method for TDES key tokens was added.
+
+CCA 7.4 and CCA 6.7
+
+The following CCA 7.4 and 6.7 improvements were made:
+
+- /SM590000 German banking API updates for program currency
+- /SM590000 X9.23 random padding for AES encryption for important cryptographic operation protection
+- /SM590000 Enhanced triple length TDES PIN encryption key support for PIN change workloads
+- /SM590000 New service to compare encrypted PINs, which is required for ISO 4 PIN block verification inside the HSM
+- /SM590000 EC SDSA signature support, which is useful for new EMV certificate formats
+- /SM590000 PKCS#11 update to CCA API export of AES and RSA keys by using RSA public key and AES ephemeral keys for key exchange with Cloud service key management APIs
+- /SM590000 Australian Payment Network Acquirer function for key derivation and MAC chaining added for interoperability with Australian audited payment networks
+
+CCA 7.1
+

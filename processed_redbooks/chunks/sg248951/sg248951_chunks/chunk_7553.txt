@@ -1,0 +1,12 @@
+/O operation. The MIDAW format is shown in Figure 7-3. It is 16 bytes long and aligned on a quadword.
+
+<!-- missing-text -->
+
+An example of MIDAW usage is shown in Figure 7-4.
+
+<!-- missing-text -->
+
+The use of MIDAWs is indicated by the MIDAW bit in the CCW. If this bit is set, the skip flag cannot be set in the CCW. The skip flag in the MIDAW can be used instead. The data count in the CCW must equal the sum of the data counts in the MIDAWs. The CCW operation ends when the CCW count goes to zero or the last MIDAW (with the last flag) ends.
+
+The combination of the address and count in a MIDAW cannot cross a page boundary. Therefore, the largest possible count is 4 K. The maximum data count of all the MIDAWs in a list cannot exceed 64 K, which is the maximum count of the associated CCW.
+

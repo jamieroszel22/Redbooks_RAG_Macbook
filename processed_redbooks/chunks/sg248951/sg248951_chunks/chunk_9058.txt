@@ -1,0 +1,13 @@
+er option is the use of Flexible Capacity for Cyber Resilience to move workload to another site while hardware maintenance is performed.
+
+Disruptive upgrades are performed for the following reasons:
+
+- /SM590000 LPAR memory upgrades when reserved storage was not previously defined are disruptive to image upgrades. z/OS and z/VM support this function.
+- /SM590000 An I/O upgrade when the operating system cannot use the dynamic I/O configuration function is disruptive to that partition. Linux, z/VSE, and z/TPF do not support dynamic I/O configuration.
+
+You can minimize the need for these outages by carefully planning and reviewing 'Guidelines to avoid disruptive upgrades' on page 377.
+
+Guidelines to avoid disruptive upgrades
+
+Based on the reasons for disruptive upgrades (see 'Planning for nondisruptive upgrades' on page 376), you can use the following guidelines to avoid or at least minimize these situations, which increases the chances for nondisruptive upgrades:
+

@@ -1,0 +1,8 @@
+ecovery Boost is to expedite and streamline the execution of GDPS recovery scripts that perform reconfiguration actions during various planned and unplanned operational scenarios.
+
+7.5.5  z/OS V2.R3
+
+IBM announced z/OS Version 2 Release 3 - Engine for digital transformation through Announcement letter 217-246 on 17 July 2017. Focusing on three critical areas (Security, Simplification, and Cloud), z/OS V2.R3 provides a simple and transparent approach to enable extensive encryption of data and to simplify the overall management of the z/OS system to increase productivity. Focus also is given to providing a simple approach for self-service provisioning and rapid delivery of software as a service, while enabling for the API economy.
+
+Consider the following points before migrating z/OS V2.R3 to IBM z16:
+

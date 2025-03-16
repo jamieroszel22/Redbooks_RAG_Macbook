@@ -1,0 +1,20 @@
+sing-text -->
+
+The new IBM z16 Dual Chip Module (DCM) is shown in Figure 3-2.
+
+<!-- missing-text -->
+
+Concurrent maintenance allows dynamic central processing complex (CPAC) drawer add and repair. 2
+
+IBM z16 processors use 7 nm extreme ultraviolet (EUV) lithography chip technology with advanced low latency pipeline design, which creates high-speed yet power-efficient circuit designs. The PU DCM has a dense packaging, which allows closed water loop cooling. The heat from the closed loop is dissipated into the air by a radiator unit (RU).
+
+The external water-cooling option is no longer available on the IBM z16. For more information, see 2.9, 'Power and cooling' on page 59.
+
+3.3.1  Cache levels and memory structure
+
+The IBM z16 includes a new optimized memory subsystem design that focuses on keeping data 'closer' to the PU core. With the current processor configuration, all on-chip cache levels increased.
+
+The IBM z16 A01 cache hierarchy is shown in Figure 3-3.
+
+<!-- missing-text -->
+

@@ -1,0 +1,13 @@
+Express3 LR (FC 0441) feature on the IBM z16 requires single-mode (SM) 9-micron fiber optic cable for a maximum connection distance of 10 kilometers (6.2 miles). A client-supplied cable is required.
+
+The virtualization capabilities for IBM z16 are 63 Virtual Functions per port (126 VFs per feature/PCHID). One RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID). The 10 GbE RoCE Express3 feature uses LR optics and supports the use of a single mode fiber optic cable that ends with an LC Duplex connector.
+
+Note: Consider the following 10 GbE RoCE Express3 requirements:
+
+- /SM590000 The 10 GbE RoCE Express3 LR feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+- /SM590000 25 GbE/10 GbE RoCE features should not be mixed in a z/OS SMC-R Link Group.
+
+Point-to-point connections and switched connections with an enterprise-class 10 GbE switch are supported.
+
+25 GbE RoCE Express2.1 (FC 0450)
+

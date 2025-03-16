@@ -1,0 +1,25 @@
+ 4.
+
+Central processor complex I/O structure
+
+This chapter describes the I/O system structure and connectivity options that are available on the IBM z16.
+
+This chapter includes the following topics:
+
+- /SM590000 4.1, 'Introduction to I/O infrastructure' on page 146
+- /SM590000 4.2, 'I/O system overview' on page 148
+- /SM590000 4.3, 'PCIe+ I/O drawer' on page 151
+- /SM590000 4.4, 'CPC drawer fan-outs' on page 154
+- /SM590000 4.5, 'I/O features' on page 158
+- /SM590000 4.6, 'Connectivity' on page 161
+- /SM590000 4.7, 'Cryptographic functions' on page 192
+- /SM590000 4.8, 'Integrated Firmware Processor' on page 195
+
+4.1  Introduction to I/O infrastructure
+
+This section describes the I/O features that are available on the IBM z16. IBM z16 systems support PCIe+ I/O drawers only.
+
+I/O cage, I/O drawer, and PCIe I/O drawer are not supported.
+
+Note: Throughout this chapter, the terms adapter and card refer to a PCIe I/O feature that is installed in a PCIe+ I/O drawer.
+

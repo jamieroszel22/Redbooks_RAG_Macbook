@@ -1,0 +1,10 @@
+N) dynamic routing policies in the fabric. With the IBM z16, FICON channels are no longer restricted to the use of static routing policies for inter-switch links (ISLs) for cascaded FICON directors.
+
+FICON Dynamic Routing dynamically changes the routing between the channel and control unit that is based on the Fibre Channel Exchange ID. Each I/O operation has a unique exchange ID. FIDR supports static SAN routing policies and dynamic routing policies.
+
+FICON Dynamic Routing can help clients reduce costs by providing the following features:
+
+- -Share SANs between their FICON and FCP traffic.
+- -Improve performance because of SAN dynamic routing policies that better use all of the available ISL bandwidth through higher use of the ISLs,
+- -Simplify management of their SAN fabrics by using static routing policies that assign different ISL routes with each power-on-reset (POR), which makes the SAN fabric performance difficult to predict.
+

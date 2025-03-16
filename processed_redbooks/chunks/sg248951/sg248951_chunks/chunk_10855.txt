@@ -1,0 +1,8 @@
+ since z/OS V1R11 LSPR. The use of the same scaling factor across LSPR releases minimizes the changes in capacity results for an older study and provides more accurate capacity view for a new study.
+
+Performance data for IBM z16 servers were obtained with z/OS V2R4 (running Db2 for z/OS V12, CICS TS V5R3, IMS V14, Enterprise COBOL V6R2, and WebSphere Application Server for z/OS V9.0.0.8). All IBM Z server generations are measured in the same environment with the same workloads at high usage.
+
+Note: If your software configuration is different from what is described here, the performance results might vary.
+
+On average, IBM z16 servers can deliver up to 17% more performance in a 200-way configuration than an IBM z15 190 -way. However, the observed performance increase varies depending on the workload type.
+

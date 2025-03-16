@@ -1,0 +1,22 @@
+ore information, see this web page.
+
+- /SM590000 IBM Blockchain™ platform can be deployed on an IBM z16 by using IBM SSC to host the IBM Blockchain network.
+
+For more information, see this web page.
+
+- /SM590000 IBM Hyper Protect Data Controller (formerly IBM Data Privacy Passports) provides end-to-end, data-centric encryption and privacy to keep your data protected no matter where it travels in your enterprise. It maintains the suitable use of data, revokes future access at any time, and keeps an audit trail, which permits only authorized users to extract value from your data.
+
+For more information, see this web page.
+
+<!-- missing-text -->
+
+4
+
+Chapter 4.
+
+Central processor complex I/O structure
+
+This chapter describes the I/O system structure and connectivity options that are available on the IBM z16.
+
+This chapter includes the following topics:
+

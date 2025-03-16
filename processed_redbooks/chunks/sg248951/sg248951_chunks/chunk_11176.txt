@@ -1,0 +1,20 @@
+achines at different sites.
+
+By using IBM GDPS, scripts can be run to fully automate Flexible Capacity for Cyber Resiliency capacity shifts between participating IBM z16 machines at different sites.
+
+It helps organizations to comply with evolving regulatory mandates by running a realistic failover scenario for production workloads that can also demonstrate business continuity.
+
+Use cases of IBM Flexible Capacity for Cyber Resiliency
+
+In this section, we present several IBM Flexibly Capacity use cases for Cyber Resiliency.
+
+Disaster recovery and DR testing
+
+Transfer the capacity that you need at your DR site to continue to run your business workloads for up to one year. Prove to regulators that the DR site that is used can run the customer's business also during peak times.
+
+Frictionless compliance
+
+Meet the ever-evolving stringent requirements of global regulators, which allows a highly automated and fast process to demonstrate a production site swap.
+
+Facility maintenance
+

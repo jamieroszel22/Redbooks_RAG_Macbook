@@ -1,0 +1,22 @@
+ection: IBM z16 will be the last IBM Z server to support the OSE CHPID type.
+
+7.3.5  Cryptographic functions
+
+the IBM z16 supported cryptography functions for z/OS and z/VM are listed in Table 7-10.
+
+Note: z/OS V2R2 support ended as of September 2020. No new function is provided for leveraging the new HW features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document.
+
+<!-- missing-text -->
+
+- a. PTFs might be required for toleration support or use of IBM z16 features and functions.
+- b. For guest use or exploitation.
+- c. Requires TKE 9.1 or newer.
+
+- d. Requires TKE 9.2 or newer.
+- e. Requires z/OS Exploitation support by way of APAR
+- f. Requires Web deliverable HCR77D1
+
+the IBM z16 supported cryptography functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-11.
+
+<!-- missing-text -->
+

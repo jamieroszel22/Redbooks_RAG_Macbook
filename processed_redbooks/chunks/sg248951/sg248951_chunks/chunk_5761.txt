@@ -1,0 +1,8 @@
+ut features provide short-distance connectivity to another IBM z16, IBM z15, or IBM z14 server.
+
+The CE LR adapter provides long-distance connectivity to another IBM z16, IBM z15, or IBM z14 server.
+
+The IBM z16 fan-out slots in the CPC drawer provide coupling link connectivity through the ICA SR fan-out cards. In addition to coupling links for Parallel Sysplex, the fan-out cards provide connectivity for the PCIe+ I/O drawer (PCIe+ Gen3 fan-out).
+
+Up to 12 PCIe fan-out cards can be installed in an IBM z16 CPC drawer.
+

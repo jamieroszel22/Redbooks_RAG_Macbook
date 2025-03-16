@@ -1,0 +1,10 @@
+he workload changes to achieve the best system throughput. This process can be done by using the Intelligent Resource Director or the Workload Manager functions, which are assisted by HiperDispatch.
+
+- /SM590000 Have a balanced system design with pervasive encryption, which provides large data rate bandwidths for high-performance connectivity along with processor and system capacity, while protecting every byte that enters and exits the IBM z16.
+
+The remaining sections in this chapter describe the IBM z16 system structure. It shows a logical representation of the data flow from PUs, caches, memory cards, and various interconnect capabilities.
+
+3.3  CPC drawer design
+
+An IBM z16 A01 system can have up to four CPC drawers in a full configuration, with up to 200 PUs that can be characterized for customer use, and up to 40 TB of customer usable memory.
+

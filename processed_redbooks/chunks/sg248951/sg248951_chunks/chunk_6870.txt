@@ -1,0 +1,6 @@
+r. The TKE workstation communicates with the IBM Z system through a TCP/IP connection. The TKE workstation is available with Ethernet LAN connectivity only. Up to 10 TKE workstations can be ordered.
+
+TKE FCs 0057 and 0058 can be used to control any supported Crypto Express feature on IBM z16, IBM z15, IBM z14 systems, and the Crypto adapters on older, still supported systems.
+
+The TKE 10.0 LIC (FC 0882) feature requires a 4770 HSM. The following features are supported:
+

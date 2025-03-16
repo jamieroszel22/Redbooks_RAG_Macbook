@@ -1,0 +1,16 @@
+ons to the functions that IBM z16 systems offer.
+
+6.2  Cryptography overview
+
+Throughout history, a need existed for secret communication between people that cannot be understood by outside parties.
+
+Also, it is necessary to ensure that a message cannot be corrupted (message integrity), while ensuring that the sender and the receiver really are the persons who they claim to be. Over time, several methods were used to achieve these objectives, with more or less success. Many procedures and algorithms for encrypting and decrypting data were developed that are increasingly complicated and time-consuming.
+
+6.2.1  Modern cryptography
+
+With the development of computing technology, the encryption and decryption algorithms can be performed by computers, which enables the use of complicated mathematical algorithms. Most of these algorithms are based on the prime factorization of large numbers.
+
+Cryptography is used to meet the following requirements:
+
+- /SM590000 Data protection
+

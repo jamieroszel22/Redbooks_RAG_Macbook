@@ -1,0 +1,14 @@
+ are incorporated in I/O pins for clock lines to main memory, which eliminates the loss of memory clocks because of connector (pin) failure. The following RAS enhancements reduce service complexity:
+
+- /SM590000 Continued use of RAIM ECC
+- /SM590000 RAIM logic was moved on DIMM
+- /SM590000 N+1 on-DIMM voltage regulation
+- /SM590000 Replay buffer for hardware retry on soft errors on the main memory interface
+- /SM590000 Redundant I/O pins for clock lines to main memory
+- /SM590000 Staggered refresh for performance enhancement
+- /SM590000 The new RAIM scheme achieves a higher ratio of data to ECC symbols, while also providing another chip mark
+
+9.5  Reducing touches
+
+IBM Z RAS efforts focus on the reduction of unscheduled, scheduled, planned, and unplanned outages. IBM Z technology has a long history of demonstrated RAS improvements. This effort continues with changes that reduce service touches on the system.
+

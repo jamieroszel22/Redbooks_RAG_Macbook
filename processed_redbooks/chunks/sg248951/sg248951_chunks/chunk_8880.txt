@@ -1,0 +1,12 @@
+al features, such as zHyperlink, Coupling Express2 LR, and RoCE features can be added concurrently if all infrastructure is available in the configuration.
+
+8.12.2  Concurrent upgrade considerations
+
+By using an MES upgrade, On/Off CoD, CBU, or CPE, an IBM Z server can be upgraded concurrently from one model to another (temporarily or permanently).
+
+Enabling and using the extra processor capacity is not apparent to most applications. However, specific programs depend on processor model-related information, such as ISV products. Consider the effect on the software that is running on an IBM z16 when you perform any of these configuration upgrades.
+
+Processor identification
+
+The following instructions are used to obtain processor information:
+

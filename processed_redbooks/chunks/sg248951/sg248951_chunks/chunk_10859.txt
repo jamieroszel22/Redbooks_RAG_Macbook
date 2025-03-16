@@ -1,0 +1,16 @@
+te ratios (ITRRs) for the IBM z16 and the previous generation processor families. These ratios are based on measurements and projections that use standard IBM benchmarks in a controlled environment.
+
+Note: The throughput that any user experiences can vary depending on the amount of multiprogramming in the user's job stream, the I/O configuration, and the workload that is processed. Therefore, no assurance can be given that an individual user can achieve throughput improvements that are equivalent to the performance ratios that are stated.
+
+12.3  Fundamental components of workload performance
+
+Workload performance is sensitive to the following major factors:
+
+- /SM590000 Instruction path length
+- /SM590000 Instruction complexity
+- /SM590000 Memory hierarchy and memory nest
+
+These factors are described next.
+
+12.3.1  Instruction path length
+

@@ -1,0 +1,13 @@
+yptographic functions and callable services is provided by the IBM CCA LIC to enhance the functions that secure financial transactions and keys. The Crypto Express8S includes the following features:
+
+- /SM590000 Greater than 16 domains support up to 85 LPARs on IBM z16 A01.
+- /SM590000 PCI PIN Transaction Security (PTS) HSM Certification that is available to IBM z16 in combination with CEX8S, CEX7S, or CEX6S features, to z15 in combination with CEX7S or CEX6S features, and to IBM z14 with CEX6S features.
+- /SM590000 VFPE support, which was introduced with z13/z13s systems.
+- /SM590000 AES PIN support for the German banking industry.
+- /SM590000 PKA Translate UDX function into CCA.
+- /SM590000 Verb Algorithm Currency.
+
+CCA improvements
+
+The following CCA improvements were made:
+

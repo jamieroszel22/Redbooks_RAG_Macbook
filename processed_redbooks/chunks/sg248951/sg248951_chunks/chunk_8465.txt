@@ -1,0 +1,8 @@
+h gives you greater flexibility to enable quickly needed temporary capacity. Each record is easily identified with descriptive names, and you can select from a list of records that can be activated.
+
+Resource Link provides the interface to order a dynamic upgrade for a specific system. You can create, cancel, and view the order. Configuration rules are enforced, and only valid configurations are generated based on the configuration of the individual system. After you complete the prerequisites, orders for the On/Off CoD can be placed. The order process uses the CIU facility on Resource Link.
+
+Memory and channels are not supported on On/Off CoD.
+
+An individual record can be activated only once. Subsequent sessions require a new order to be generated, which produces a new LICCC record for that specific order.
+

@@ -1,0 +1,4 @@
+m the hypervisor.
+
+This configuration allows for a logical and virtual server coexistence and maximizes system utilization and efficiency by sharing hardware resources.
+

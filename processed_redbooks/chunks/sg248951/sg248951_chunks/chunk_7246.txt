@@ -1,0 +1,10 @@
+z/OS image. It can be changed dynamically, without an IPL or any outage.
+
+In z/OS, the IEAOPTxx keyword HIPERDISPATCH defaults to YES when it is running on an IBM z16, IBM z15, or IBM IBM z14system.
+
+The use of SMT on IBM z16 systems requires that HiperDispatch is enabled on the operating system. For more information, see 'Simultaneous multithreading' on page 273.
+
+Also, any LPAR that is running with more than 64 logical processors is required to operate in HiperDispatch Management Mode.
+
+The following rules control this environment:
+

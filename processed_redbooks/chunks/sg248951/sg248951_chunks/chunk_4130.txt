@@ -1,0 +1,9 @@
+ of the shared processor when it runs out of work to do. The result is more efficient sharing and better shared-engine performance. This setting is the default setting for CF LPAR running on IBM z15.
+- -DYNDISP=THIN: An interrupt-driven model in which the CF processor is dispatched in response to a set of events that generate Thin Interrupts and runs until it runs out of things to do and then, gives up control voluntarily (until the next interrupt causes it to get dispatched again). This model is the most efficient sharing, best shared-engine performance.
+
+Thin Interrupt support is available since zEC12/zBC12, and proved to be efficient and performant in numerous different test and customer shared-engine coupling facility configurations.
+
+For CFCC running on IBM z15, DYNDISP=THIN is now the default mode of operation for coupling facility images that use shared processors.
+
+- /SM590000 CF monopolization avoidance
+

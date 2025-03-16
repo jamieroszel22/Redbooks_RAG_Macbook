@@ -1,0 +1,11 @@
+eb deliverable HCR77D1) or V2.5 (base, which is HCR77D2).
+- GLYPH&lt;129&gt; When using new Quantum Safe Algorithms and sharing a KDS in a sysplex, ensure all ICSF PTFs are installed on all systems.
+
+Tip: All supported levels of ICSF automatically detect what hardware cryptographic capabilities are available where it is running; then, it enables functions accordingly. No toleration of new hardware is necessary. If you want to use new capabilities, ICSF support is necessary.
+
+- -z/VM Version 7.1 or newer for guest use.
+
+Payment Card Industry-HSM certification
+
+PCI standards are developed to help ensure security in the PCI. PCI defines their standards as a set of security standards that is designed to ensure that all companies that accept, process, store, or transmit credit card information is maintained a secure environment.
+

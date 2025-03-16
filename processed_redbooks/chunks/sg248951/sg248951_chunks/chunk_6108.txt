@@ -1,0 +1,8 @@
+/T-DES and AES algorithms are implemented in CPACF code with the support of hardware assist functions. Two variations of wrapping keys are generated: one for DES/T-DES keys and another for AES keys.
+
+Wrapping keys are generated during the clear reset each time an LPAR is activated or reset. No customizable option is available at Support Element (SE) or Hardware Management Console (HMC) that permits or avoids the wrapping key generation. This function flow for the Crypto Express8S, Crypto Express7S, and Crypto Express6S adapters is shown in Figure 6-5.
+
+<!-- missing-text -->
+
+The key wrapping for Crypto Express8S is similar to Crypto Express7S or Crypto Express6S. The CPACF Wrapping Key and the Transport Key for use with Crypto Express7S or Crypto Express6S are in a protected area of the HSA that is not visible to operating systems or applications.
+

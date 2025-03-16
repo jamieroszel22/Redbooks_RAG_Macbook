@@ -1,0 +1,17 @@
+the past to access to the SE in SOO mode were implemented as HMC tasks. With this enhancement, the HMC runs the tasks on the SE directly, without the need to lock the SE in SOO mode.
+
+IBM HMC Mobile
+
+IBM HMC Mobile is an iOS and Android application with which you can monitor all of your IBM Z systems and partitions. You also can receive alerts when messages or status changes occur.
+
+You also can start, stop, or change the activation profile for a partition.
+
+A full set of granular security controls is provided from the HMC, including MFA. This mobile interface is optional and is disabled by default. More functions from the HMC also are planned to be available on IBM HMC Mobile.
+
+For more information about HMC Mobile, see the following resources:
+
+- /SM590000 This IBM video
+- /SM590000 The HMC Mobile website
+
+10.5.4  Operating system communication
+

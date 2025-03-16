@@ -1,0 +1,20 @@
+ sections.
+
+The SMF 30 product and subsystem section indicates whether the crypto counters are active.
+
+This feature is supported on z/OS 2.4 and later. It requires APAR OA61511.
+
+Large page support
+
+In addition to the 1-MB large pages, 4-KB pages, and page frames, IBM z16 servers support pageable 1-MB large pages, large pages that are 2 GB, and large page frames.
+
+z/OS V2.R5 allows 2 GB LFAREA to exceed the 4 TB limit, up to 16 TB. All online real storage over 4 TB is part of the 2 GB LFAREA, in addition to what was specified in LFAREA.
+
+Real memory is available for 2 GB pages only.
+
+Applications that make use of 2 GB frames should be reviewed to use more frames if applicable (for example, Java and Db2).
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+AI accelerator exploitation
+

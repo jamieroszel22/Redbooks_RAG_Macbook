@@ -1,0 +1,4 @@
+ -One spare per ~50 data bit bus
+
+<!-- missing-text -->
+

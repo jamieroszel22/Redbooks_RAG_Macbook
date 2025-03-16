@@ -1,0 +1,11 @@
+page 390
+- /SM590000 'Enhanced drawer availability' on page 394
+- /SM590000 'Concurrent Driver Maintenance' on page 402
+- /SM590000 'RAS capability for the HMA and SE' on page 404
+
+9.1  RAS strategy
+
+The RAS strategy is to manage change by learning from previous generations and investing in new RAS function to eliminate or minimize all sources of outages. Enhancements that were introduced with IBM z15 RAS designs are implemented on the IBM z16 design through the introduction of new technology, structure, and requirements. Continuous improvements in RAS are associated with new features and functions to ensure that IBM Z servers deliver exceptional value to clients.
+
+The following overriding RAS requirements are principles as shown in Figure 9-1:
+

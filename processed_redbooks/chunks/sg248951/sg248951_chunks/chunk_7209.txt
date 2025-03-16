@@ -1,0 +1,12 @@
+tion support.
+- i. With PTFs for use.
+- j. Transparent for Guest support use of the gzip acceleration; guest support for z/OS Storage Compression.
+- k. With Exploitation PTFs
+- l. With Required PTFs
+
+The supported base CPC functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-4.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

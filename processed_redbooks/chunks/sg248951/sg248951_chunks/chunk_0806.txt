@@ -1,0 +1,24 @@
+ IBM Hardware Management Appliance feature
+- /SM590000 24-port 1 GbE Switches (two or four, depending on the system configuration)
+- /SM590000 Hardware for cable management at the rear of the system
+
+An example of a fully configured system with PDU-based power, four CPC drawers, and up to 12 PCIe+ I/O drawers is shown in Figure 2-1.
+
+<!-- missing-text -->
+
+An example of a BPA-based powered system, and a maximum of four CPC drawers and 10 PCIe+ I/O drawers is shown in Figure 2-2.
+
+<!-- missing-text -->
+
+The key features that are used to build the system are listed in Table 2-1. For more information about the various configurations, see Appendix E, 'Frame configurations Power Distribution Units and Bulk Power Assembly-based systems' on page 529.
+
+<!-- missing-text -->
+
+Power Options
+
+The 3931 (z16 A01) has the power options shown in Table 2-2 on page 19:
+
+<!-- missing-text -->
+
+- a. Wye cords require five wires, three for Power phases, one for Neutral and one for Ground.
+

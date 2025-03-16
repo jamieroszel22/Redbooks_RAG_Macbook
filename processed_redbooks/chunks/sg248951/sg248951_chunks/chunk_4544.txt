@@ -1,0 +1,10 @@
+ image again in a timely fashion when new work (or new signals) arrives at the CF to be processed.
+
+With IBM z16, DYNDISP=THIN is the only mode of operation for CF images that use shared processors.
+
+This capability allows ICF engines to be shared by several CF images. In this environment, it provides faster and far more consistent CF service times. It can also provide performance that is reasonably close to dedicated-engine CF performance.
+
+The use of Thin Interrupts allows a CF to run by using a shared processor while maintaining good performance. The shared engine is allowed to be undispatched when no more work exists, as in the past. The Thin Interrupt gets the shared processor that is dispatched when a command or duplexing signal is presented to the shared engine.
+
+This function saves processor cycles and is an excellent option to be used by a production backup CF or a testing environment CF. This function is activated by default when a CF processor is shared.
+

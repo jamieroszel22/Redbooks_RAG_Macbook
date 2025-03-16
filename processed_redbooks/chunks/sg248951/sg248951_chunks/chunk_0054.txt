@@ -1,0 +1,4 @@
+tal transformation journey.
+
+The IBM z16 is the first IBM Z system that is built with the IBM Telum processor 1 . It is designed to help businesses meet the following goals:
+

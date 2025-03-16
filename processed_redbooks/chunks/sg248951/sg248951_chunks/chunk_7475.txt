@@ -1,0 +1,8 @@
+a lower hardware level system that do not support SIMD. Some mathematical function replacement can be done without code changes by including the scalar MASS library before the standard math library.
+
+Because the MASS and standard math library include different accuracies, assess the accuracy of the functions in the context of the user application before deciding whether to use the MASS and ATLAS libraries.
+
+The SIMD functions can be disabled in z/OS partitions at IPL time by using the MACHMIG parameter in the LOADxx member. To disable SIMD code, use the MACHMIG VEF hardware-based vector facility. If you do not specify a MACHMIG statement, which is the default, the system not limited in its use of the Vector Facility for z/Architecture (SIMD).
+
+Hardware decimal floating point
+

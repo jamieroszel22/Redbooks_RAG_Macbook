@@ -1,0 +1,18 @@
+ion to a centralized IBM support network for hardware problem reporting and service.
+
+For more information, see 10.4, 'Remote Support Facility' on page 430.
+
+- /SM590000 Microcode Change Level (MCL)
+
+Regular installation of MCLs is key for RAS, optimal performance, and new functions. Generally, plan to install MCLs quarterly at a minimum. Review hiper MCLs continuously. You must decide whether to wait for the next scheduled apply session, or schedule one earlier if your risk assessment of the new hiper MCLs warrants.
+
+For more information, see 10.5.5, 'HMC and SE microcode' on page 437.
+
+- /SM590000 SE
+
+IBM z16 servers are provided with two 1U trusted servers inside the IBM Z server A frame: One is always the primary SE and the other is the alternative SE 2 . The primary SE is the
+
+active SE. The alternative acts as the backup. Information is mirrored once per day. The SE servers include N+1 redundant power supplies.
+
+For more information, see 10.2.4, 'HMC and SE server' on page 420.
+

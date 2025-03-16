@@ -1,0 +1,18 @@
+he owning processor is busy when its coprocessor is busy.
+
+The location of the coprocessor on the IBM z16 chip is shown in Figure 3-13.
+
+<!-- missing-text -->
+
+On-core compression (CMPSC) on IBM z16
+
+The compression coprocessor on IBM z16 provides the same functions that are available on IBM z15.
+
+On-core cryptography coprocessor (CPACF)
+
+CPACF accelerates the encrypting and decrypting of SSL/TLS transactions, virtual private network (VPN)-encrypted data transfers, and data-storing applications that do not require FIPS 140-2 level 4 security. The assist function uses a special instruction set for symmetrical clear key cryptographic encryption and decryption, and for hash operations. This group of instructions is known as the Message-Security Assist (MSA).
+
+For more information about these instructions, see z/Architecture Principles of Operation, SA22-7832.
+
+Crypto functions enhancements
+

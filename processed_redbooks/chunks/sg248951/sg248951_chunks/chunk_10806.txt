@@ -1,0 +1,8 @@
+to new HMC levels as part of a MES Upgrade or by way of selecting User Profile Data for the Save/Restore Customizable Console Data or Configure Data Replication tasks.
+
+HMC and SE secure FTP support
+
+You can use a secure FTP connection from a HMC/SE FTP client to a customer FTP server location. This configuration is implemented by using the Secure Shell (SSH) File Transfer Protocol, which is an extension of SSH. You can use the Manage SSH Keys console feature that is available to the HMC and SE to import public keys that are associated with a host address.
+
+The Secure FTP infrastructure allows HMC and SE applications to query whether a public key is associated with a host address and to use the Secure FTP interface with the suitable public key for a host. Tasks that use FTP now provide a selection for the secure host connection.
+

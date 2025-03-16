@@ -1,0 +1,10 @@
+liability and bandwidth use by reducing retransmissions because of bit errors, especially for connections across long distance, such as an inter-switch link (ISL) in a GDPS Metro Mirror environment.
+
+The FICON Express32S, FICON Express16SA, and FICON Express16S+ support FEC coding on top of its 64b/66b data encoding for 16 and 32 Gbps connections. This design can correct up to 11 bit errors per 2112 bits transmitted.
+
+Therefore, while connected to devices that support FEC at 16 Gbps connections, the FEC design allows FICON Express16SE, FICON Express16S+, and FICON Express16S channels to operate at higher speeds, over longer distances, with reduced power and higher throughput. At the same time, the same reliability and robustness for which FICON channels are traditionally known are maintained.
+
+With the IBM DS8870 or newer, IBM z16 servers can extend the use of FEC to the fabric N\_Ports for a completed end-to-end coverage of 32 Gbps FC links.
+
+FICON dynamic routing
+

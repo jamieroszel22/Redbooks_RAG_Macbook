@@ -1,0 +1,11 @@
+12) can be installed in each CPC drawer.
+
+A fan-out can be repaired concurrently with the use of redundant I/O interconnect. For more information, see 2.7.1, 'Redundant I/O interconnect' on page 52.
+
+The following types of fan-outs are available:
+
+- /SM590000 PCIe+ Generation 3 dual port fan-out card: This fan-out provides connectivity to the PCIe switch cards in the PCIe+ I/O drawer.
+- /SM590000 Integrated Coupling Adapter (ICA SR1.1 and ICA SR): These adapters provide coupling connectivity to IBM z16, IBM z15, and IBM z14 servers.
+
+- /SM590000 One, two, or three pairs of redundant SMP9 connectors provide connectivity to the other one, two, or three CPC drawers in the configuration.
+

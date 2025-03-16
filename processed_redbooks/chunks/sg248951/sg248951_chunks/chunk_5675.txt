@@ -1,0 +1,6 @@
+an result in some ISLs becoming overloaded while some are under-used. The ISL routing table is changed whenever IBM Z server undergoes a power-on-reset (POR), so the ISL assignment is unpredictable.
+
+Device-based routing (DBR) assigns the ISL routes statically that is based on a hash of the source and destination port. That I/O flow from same incoming port to same destination is assigned to same ISL route. Compared to PBR, the DBR is more capable of spreading the load across ISLs for I/O flow from the same incoming port to different destination ports within a destination domain.
+
+When a static SAN routing policy is used, the FICON director features limited capability to assign ISL routes that are based on workload. This limitation can result in unbalanced use of ISLs (some might be overloaded, while others are under-used).
+

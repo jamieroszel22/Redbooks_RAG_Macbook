@@ -1,0 +1,8 @@
+3.
+
+The CIU facility process on IBM Resource Link is shown in Figure 8-5.
+
+<!-- missing-text -->
+
+The following sample sequence shows how to start an order on the IBM Resource Link:
+

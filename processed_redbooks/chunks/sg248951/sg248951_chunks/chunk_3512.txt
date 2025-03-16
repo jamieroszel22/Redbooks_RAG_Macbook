@@ -1,0 +1,18 @@
+129&gt; Dedicated or shared CPs
+- /SM590000 z/VM mode to run z/VM on dedicated or shared CPs or IFLs, plus zIIPs and ICFs
+- /SM590000 IBM SSC mode LPAR can run on dedicated or shared:
+- -CPs
+- -IFLs
+
+All LPAR modes, required characterized PUs, operating systems, and the PU characterizations that can be configured to an LPAR image are listed in Table 3-7. The available combinations of dedicated (DED) and shared (SHR) processors are also included. For all combinations, an LPAR also can include reserved processors that are defined, which allows for nondisruptive LPAR upgrades.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. IBM Secure Service Container
+
+Dynamically adding or deleting a logical partition name
+
+Dynamically adding or deleting an LPAR name is the ability to add or delete LPARs and their associated I/O resources to or from the configuration without a POR.
+

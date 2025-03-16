@@ -1,0 +1,13 @@
+
+- /SM590000 The dedicated L2 cache (dense SRAM) is semi-private to the core; that is, each core features an associated 32-MB slice of the L2 cache (semi-private):
+- -Virtual L3 on PU Chip (shared victim 256 MB)
+- -Virtual L4 on drawer up to 2 GB
+- /SM590000 L2 cache and L2 cache recovery:
+- -The L2 cache includes expected inline Symbol ECC (RAID4) recovery:
+- GLYPH&lt;129&gt; 64:1 interleaving (4:1 physical, 16:1 logical)
+- GLYPH&lt;129&gt; L2 symbol ECC is inherited by virtual L3 and virtual L4
+- -The array macro includes row and column repair (module manufacturing and ABIST)
+- -Ring can be fenced from L2 for yield and fences core (module manufacturing):
+- GLYPH&lt;129&gt; If the core checkstops, all 32 MB can be used by the system
+- GLYPH&lt;129&gt; L2 dedicated and shared split are managed in the LRU logic
+- -Dynamic macro sparing: Four spare macros, one spare for each quarter slice

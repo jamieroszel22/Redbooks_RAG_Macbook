@@ -1,0 +1,12 @@
+ z/OS. The z/OS supported versions are the same ad for zHyperLink Express 1.1.
+
+The zHyperLink Express feature (FC 0431) provides a low latency direct connection between IBM z16 and DS8000 I/O Port.
+
+The zHyperLink Express is the result of new business requirements that demand fast and consistent application response times. It dramatically reduces latency by interconnecting the IBM z16 directly to I/O Bay of the DS8880 by using PCIe Gen3 x 8 physical link (up to 150 meters [492 feet]). A new transport protocol is defined for reading and writing IBM CKD data records 10 , as documented in the zHyperLink interface specification.
+
+On IBM z16, the zHyperLink Express card is a carry forward PCIe adapter that installed in the PCIe+ I/O drawer. HCD definition support was added for new PCIe function type with PORT attributes.
+
+Requirements of zHyperLink
+
+The zHyperLink Express feature is available on IBM z16 servers, and includes the following requirements:
+

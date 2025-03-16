@@ -1,0 +1,6 @@
+model-dependent CF threshold, and a global threshold on the number of active tasks also is exceeded, the structure is considered to be 'monopolizing' the CF. z/OS is informed of this monopolization.
+
+New support in z/OS observes the monopolization state for a structure, and starts to selectively queue and throttle incoming requests to the CF on a structure-specific basis. Other requests for other 'non-monopolizing' structures and workloads are unaffected.
+
+z/OS dynamically manages the queue of requests for the 'monopolizing' structures to limit the number of active CF requests (parallelism) to them, and monitors the CF's monopolization state information so as to observe the structure becoming 'non-monopolized' again, so that request processing can eventually revert back to a non-throttled mode of operation.
+

@@ -1,0 +1,18 @@
+ on page 322
+- /SM590000 7.7, 'z/VSE migration considerations' on page 323
+- /SM590000 7.8, 'Software licensing' on page 323
+- /SM590000 7.9, 'References' on page 326
+
+7.1  Operating systems summary
+
+The minimum operating system levels that are required on IBM z16 servers are listed in Table 7-1.
+
+End of service operating systems: Operating system levels that are no longer in service are not covered in this publication.
+
+<!-- missing-text -->
+
+- a. Service is required.
+- b. z/OS V2R2 - Toleration mode only. The IBM Software Support Services for z/OS V2R2 offered as 1 October 2020, provides the ability for customers to purchase extended defect support service for z/OS V2.R2.
+- c. z/VSE n is supported by 21 st Century Software.
+- d. KVM hypervisor is supported by Linux distribution partners.
+

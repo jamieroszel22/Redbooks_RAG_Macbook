@@ -1,0 +1,6 @@
+ecord is brought forward during an upgrade into IBM z16 (by way of the support element Save/Restore process). Also, the CPE record cannot be replenished through e-configuration or IBM Resource Link.
+
+Flexible Capacity for Cyber Resiliency is a new CoD offering that is available on IBM z16 machines. This offering allows processing capacity flexibility between an organization's primary site and alternative data centers.
+
+Flexible Capacity for Cyber Resiliency is designed to provide increased flexibility and control to organizations that want to shift production capacity between participating IBM z16 servers at different sites. The capacity of any engine type can be shifted up to 12 times annually and stay at the target machine for up to 12 months after the flexible capacity record activation on the target machine. Capacity shifts can be done under full customer control without IBM intervention and can be fully automated by using IBM GDPS automation tools.
+

@@ -1,0 +1,8 @@
+ Figure B-3 shows the high level of seamless integration of AI accelerator into enterprise AI/ML solution stack. Great flexibility and interoperability are realized for training and building models.
+
+Acknowledging the diverse AI training frameworks, customers can train their models on platforms of their choice, including IBM Z (on-premises and in hybrid cloud) and then, deploy it efficiently on IBM Z in colocation with the transactional workloads. No other development effort is needed to enable this strategy.
+
+To allow this flexible 'Train anywhere, Deploy on IBM Z' approach, IBM invests in Open Neural Network Exchange (ONNX) technology (see Figure B-3).
+
+<!-- missing-text -->
+

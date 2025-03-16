@@ -1,0 +1,19 @@
+ager is running, or to which the server can fail over after a system failure.
+
+8.6.3  Ordering
+
+Concurrently installing temporary capacity by ordering On/Off CoD is possible in the following manner:
+
+- /SM590000 CP features equal to the MSU capacity of installed CPs
+- /SM590000 IFL features up to the number of installed IFLs
+- /SM590000 ICF features up to the number of installed ICFs
+- /SM590000 zIIP features up to the number of installed zIIPs
+- /SM590000 SAPs: Up to eight
+
+On/Off CoD can provide CP temporary capacity in two ways:
+
+- /SM590000 By increasing the number of CPs.
+- /SM590000 For sub-capacity models, capacity can be added by increasing the number of CPs, changing the sub-capacity setting of the CPs, or both. If the On/Off CoD is adding CP resources that have a capacity setting different from the installed CPs, the base capacity settings are changed to match.
+
+On/Off CoD includes the following limits that are associated with its use:
+

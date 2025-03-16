@@ -1,0 +1,6 @@
+vailable to the EP11.
+
+When defined in EP11 mode, the TKE workstation is required to manage the Crypto Express features.
+
+Enterprise PKCS #11 (EP11) with IBM z16 provides the following updates 8 :
+

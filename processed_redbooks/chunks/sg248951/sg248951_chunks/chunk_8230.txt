@@ -1,0 +1,12 @@
+ch as application development tools, CICS tools, data management tools, WebSphere for IBM Z products, Linux on IBM Z middleware and z/VM.
+
+The following pricing metrics apply to IBM Z IPLA products:
+
+- -Value Unit pricing applies to most IPLA products that run on z/OS. Value Unit pricing is typically based on a number of MSUs and allows for lower cost of incremental growth.
+- -z/VM V5, V6, V7, and specific z/VM middleware include pricing that is based on the number of engines. Engine-based Value Unit pricing allows for a lower cost of incremental growth with more engine-based licenses that are purchased.
+- -Most Linux middleware also is priced based on the number of engines. The number of engines is converted into Processor Value Units under the IBM Passport Advantagefi terms and conditions.
+
+For more information, see this web page.
+
+- /SM590000 Subcapacity licensing
+

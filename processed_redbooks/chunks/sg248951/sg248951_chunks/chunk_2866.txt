@@ -1,0 +1,8 @@
+cility Control Code (CFCC). Up to 200 PUs can be characterized as CPs, depending on the configuration.
+
+The IBM z16 can be initialized in LPAR (PR/SM) mode or in Dynamic Partition Manger (DPM) mode.
+
+CPs are defined as dedicated or shared. Reserved CPs can be defined to an LPAR to allow for nondisruptive image upgrades. If the operating system in the LPAR supports the logical processor add function, reserved processors are no longer needed. Regardless of the installed model, an LPAR can have up to 200 logical CPs that are defined (the sum of active and reserved logical CPs). In practice, define no more CPs than the operating system supports.
+
+All PUs that are characterized as CPs within a configuration are grouped into the CP pool. The CP pool can be seen on the Hardware Management Console (HMC) workplace. Any z/Architecture operating systems and CFCCs can run on CPs that are assigned from the CP pool.
+

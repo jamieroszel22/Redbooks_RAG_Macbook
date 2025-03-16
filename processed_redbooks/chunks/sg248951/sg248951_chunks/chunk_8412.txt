@@ -1,0 +1,14 @@
+p: IBM z16 A01 features a hardware system area (HSA) of 256 GB (same as IBM z15 T01). IBM z14 M0x servers have a 192 GB HSA. HSA is not part of the client-purchased memory.
+
+8.4.4  Feature on Demand
+
+Only one Feature on Demand (FoD) LICCC record is installed or staged at any time in the system. Its contents can be viewed in the Manage window, as shown in Figure 8-4.
+
+<!-- missing-text -->
+
+A staged record can be removed without installing it. A FoD record can be installed only completely; no selective feature or partial record installation is available. The features that are installed are merged with the CPC LICCC after activation.
+
+A FoD record can be installed only once. If it is removed, a new FoD record is needed to reinstall. A remove action cannot be undone.
+
+8.4.5  Summary of plan-ahead feature
+

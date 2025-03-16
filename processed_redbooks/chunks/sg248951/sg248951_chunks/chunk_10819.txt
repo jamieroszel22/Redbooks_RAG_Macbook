@@ -1,0 +1,26 @@
+epresentative at installation time.
+- /SM590000 If DPM is enabled, the IBM z16 system cannot run z/OS, IBM z/VSE, and z/TPF LPARs.
+
+<!-- missing-text -->
+
+Chapter 11.
+
+11
+
+Environmental requirements
+
+This chapter describes the environmental requirements for IBM z16 servers. It also lists the dimensions, weights, power, and cooling requirements that are needed to plan for the installation of an IBM z16.
+
+Naming: Throughout this chapter, IBM z16 refers to IBM z16 Model A01 (Machine Type 3931), unless otherwise specified.
+
+This chapter includes the following topics:
+
+- /SM590000 11.1, 'Introduction' on page 454
+- /SM590000 11.3, 'Physical specifications' on page 463
+- /SM590000 11.4, 'Physical planning' on page 464
+- /SM590000 11.5, 'Energy management' on page 468
+
+11.1  Introduction
+
+The following options are available for physically installing the server:
+

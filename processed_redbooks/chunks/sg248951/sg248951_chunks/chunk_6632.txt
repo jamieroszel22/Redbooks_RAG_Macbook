@@ -1,0 +1,6 @@
+ver. The UDX configuration window is updated to include a Reset to IBM Default button.
+
+Consideration: CCA features a new code level starting with z13 systems, and the UDX clients require a new UDX.
+
+On IBM z16 A01, Crypto Express8S is delivered with CCA Level 8.0 firmware. A new set of cryptographic functions and callable services is provided by the IBM CCA LIC to enhance the functions that secure financial transactions and keys. The Crypto Express8S includes the following features:
+

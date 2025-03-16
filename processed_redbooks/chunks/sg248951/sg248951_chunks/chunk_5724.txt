@@ -1,0 +1,7 @@
+ I/O drawer and is supported on IBM z16 servers only. The 10 GbE RoCE Express3 SR is a native PCIe feature. It does not use a CHPID and is defined by using the IOCP FUNCTION statement or in the HCD.
+
+The maximum supported unrepeated distance, point-to-point, is 100 meters (328 feet). A client-supplied cable is required. Two types of cables can be used for connecting the port to the selected 10 GbE switch or to another 10 GbE RoCE Express3 SR feature:
+
+- /SM590000 OM3 50-micron multimode fiber optic cable that is rated at 2000 MHz-km that ends with an LC Duplex connector, which supports 70 meters (229 feet)
+- /SM590000 OM4 50-micron multimode fiber optic cable that is rated at 4700 MHz-km that ends with an LC Duplex connector, which supports 100 meters (328 feet)
+

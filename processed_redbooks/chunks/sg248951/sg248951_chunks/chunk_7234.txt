@@ -1,0 +1,15 @@
+ /SM590000 N/A: Not applicable
+- /SM590000 NA: Not available
+
+7.4.1  LPAR Configuration and Management
+
+A single system image can control multiple processor units (PUs), such as CPs, zIIPs, or IFLs.
+
+Note: z/OS V2R2 support ended as of September 2020. No new function is provided for the use of the new hardware features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document.
+
+Maximum number of PUs per system image
+
+The maximum number of PUs that is supported by each operating system image and by special-purpose LPARs are listed in Table 7-12 on page 266.
+
+<!-- missing-text -->
+

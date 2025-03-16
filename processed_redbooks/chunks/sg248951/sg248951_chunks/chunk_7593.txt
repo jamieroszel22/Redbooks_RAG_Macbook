@@ -1,0 +1,12 @@
+user TCP socket data is transferred, which preserves the benefits of SMC to TCP workloads.
+
+TCP/IP connections that require IPsec are not eligible for any form of SMC.
+
+HiperSockets Completion Queue
+
+The HiperSockets Completion Queue function is implemented on IBM z16, IBM z15, and IBM z14. This function is designed to allow HiperSockets to transfer data synchronously (if possible) and asynchronously, if necessary. Therefore, it combines ultra-low latency with more tolerance for traffic peaks. HiperSockets Completion Queue can be especially helpful in burst situations.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+HiperSockets Virtual Switch Bridge
+

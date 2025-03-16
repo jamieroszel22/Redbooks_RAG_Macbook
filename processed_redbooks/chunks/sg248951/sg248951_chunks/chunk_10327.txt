@@ -1,0 +1,14 @@
+path I/O connectivity.
+
+If insufficient resources are available, the system identifies the conflicts so that you can free other resources.
+
+The following states can result from the preparation step:
+
+- /SM590000 The system is ready to run the EDA for the targeted drawer with the original configuration.
+- /SM590000 The system is not ready to run the EDA because of conditions that are indicated by the preparation step.
+- /SM590000 The system is ready to run the EDA for the targeted drawer. However, to continue with the process, processors are reassigned from the original configuration.
+
+Review the results of this reassignment relative to your operation and business requirements. The reassignments can be changed on the final window that is presented. However, before making any changes or approving reassignments, ensure that the changes are reviewed and approved by the correct level of support based on your organization's business requirements.
+
+Preparation tabs
+

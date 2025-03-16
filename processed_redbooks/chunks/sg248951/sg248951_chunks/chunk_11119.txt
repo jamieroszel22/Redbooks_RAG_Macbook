@@ -1,0 +1,13 @@
+rs the following benefits:
+
+- /SM590000 Disk space savings
+- /SM590000 Improved elapse times
+- /SM590000 Reduced CPU consumption
+- /SM590000 Reduced network bandwidth requirements and transfer times
+
+Many customers increased their zEDC footprint to 8 GBps with up to 16 features per IBM z14 system at 1 GBps throughput per feature (redundancy reduces total throughput to 8 GBps).
+
+Although the zEDC PCIe feature provided CPU savings by offloading the select compression and decompression operations, it included the drawback of limited virtualization capabilities (one zEDC PCIe feature can be shared across a maximum of 15 LPARs) and limited bandwidth.
+
+IBM z15 introduced an on-chip accelerator (implemented in the PU chip) for compression and decompression operations, which was tied directly into processor's L3 cache. As a result, it provided much higher bandwidth and removed the virtualization limitations of a PCIe feature.
+

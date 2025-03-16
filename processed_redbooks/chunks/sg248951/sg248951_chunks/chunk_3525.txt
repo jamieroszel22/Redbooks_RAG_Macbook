@@ -1,0 +1,16 @@
+e the z/VM capability of implementing virtual memory to guest virtual machines. The z/VM dedicated real storage can be shared between guest operating systems.
+
+LPAR main storage allocation and usage
+
+The IBM z16 storage allocation and usage possibilities depend on the image mode and the operating system that is deployed in the LPAR.
+
+Important: The memory allocation and usage depends on the operating system architecture and tested (documented for each operating system) limits.
+
+While the maximum supported memory per LPAR for IBM z16 is 32 TB, each operating system has its own support specifications.
+
+For more information about general guidelines, see the PR/SM Planning Guide , SB10-7178, which is available at the IBM Resource Link website (log in required).
+
+The following modes are provided:
+
+- /SM590000 z/Architecture
+

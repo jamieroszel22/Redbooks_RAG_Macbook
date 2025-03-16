@@ -1,0 +1,26 @@
+ons and algorithms always being added.
+
+The IBM CCA provides functions for the following tasks 5 :
+
+- /SM590000 Encryption of data (DES/TDES/AES)
+- /SM590000 Key management:
+- /SM590000 Using TDES or AES keys
+- /SM590000 Using RSA or Elliptic Curve keys
+- /SM590000 Message authentication for MAC/HMAC/AES-CMAC
+- /SM590000 Key generation
+- /SM590000 Digital signatures
+- /SM590000 Random number generation
+- /SM590000 Hashing (SHA, MD5, and others)
+- /SM590000 ATM PIN generation and processing
+- /SM590000 Credit card transaction processing
+- /SM590000 Visa Data Secure Platform (DSP) Point to Point Encryption (P2PE)
+- /SM590000 Europay, MasterCard, and Visa (EMV) card transaction processing
+- /SM590000 Card personalization
+- /SM590000 Other financial transaction processing
+- /SM590000 Integrated role-based access control system
+- /SM590000 Compliance support for:
+- -All DES services
+- -AES services
+- -RSA services, including full use of X.509 certificates
+- /SM590000 TR-34 Remote Key Load
+

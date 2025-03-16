@@ -1,0 +1,15 @@
+s:
+
+- /SM590000 Jobs that perform hardware compression and might be candidates for On-Chip Compression.
+- /SM590000 Jobs that might be On-Chip Compression candidates, but are not in extended format.
+
+Therefore, zBNA can help you estimate the use of On-Chip Compression features and help identify savings.
+
+The following resources are available:
+
+- /SM590000 IBM Employees can obtain zBNA and other CPS tools at the IBM Z Batch Network Analyzer (zBNA) Tool page of the IBM Techdoc website. For more information, contact your IBM Representative.
+- /SM590000 IBM Business Partners can obtain zBNA and other CPS tools at the IBM PartnerWorld website (log in required).
+- /SM590000 IBM customers can obtain zBNA and other CPS tools at the IBM Z Batch Network Analyzer (zBNA) Tool web page of the IBM Techdoc Library website.
+
+Compression acceleration and Linux on IBM Z
+

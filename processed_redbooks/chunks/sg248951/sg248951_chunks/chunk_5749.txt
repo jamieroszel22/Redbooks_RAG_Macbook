@@ -1,0 +1,15 @@
+irtual machine network connection on a HiperSockets LAN segment. This bridge allows a single HiperSockets guest virtual machine network connection to communicate directly with the following systems:
+
+- /SM590000 Other guest virtual machines on the virtual switch
+- /SM590000 External network hosts through the virtual switch OSA UPLINK port
+
+RoCE Express features summary
+
+The RoCE Express feature codes, cable type, maximum unrepeated distance, and the link rate on an IBM z16 are listed in Table 4-9.
+
+<!-- missing-text -->
+
+- a. Minimum fiber bandwidths in MHz/km for multimode fiber optic links are included in parentheses, where applicable.
+
+4.6.4  Parallel Sysplex connectivity
+

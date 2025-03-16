@@ -1,0 +1,12 @@
+cal processors are dispatched by PR/SM on physical processors. The assignment topology that is used by PR/SM to dispatch logical processors on physical PUs is also based on cache usage optimization.
+
+Processor drawers assignment is more important because they optimize virtual L4 cache usage. Therefore, logical processors from a specific LPAR are packed into a processor drawer as much as possible.
+
+PR/SM optimizes chip assignments within the assigned processor drawer (or drawers) to maximize virtual L3 cache efficiency. Logical processors from an LPAR are dispatched on physical processors on the same PU chip as much as possible.
+
+PR/SM also tries to redispatch a logical processor on the same physical processor to optimize private cache (L1 and L2) usage.
+
+HiperDispatch
+
+PR/SM and z/OS work in tandem to use processor resources more efficiently. HiperDispatch is a function that combines the dispatcher actions and the knowledge that PR/SM has about the topology of the system.
+

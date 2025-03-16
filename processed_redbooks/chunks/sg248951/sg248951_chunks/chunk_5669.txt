@@ -1,0 +1,14 @@
+590000 FICON Express16S+ SX feature, FC 0428, with two ports per feature, supporting LC Duplex connectors
+
+For more information, see the FICON Express chapter IBM Z Connectivity Handbook, SG24-5444.
+
+Consideration: FICON Express16S+ features do not support auto-negotiation to a data link rate of 2 Gbps (only 4, 8, or 16 Gbps). A compatible switch must be used to connect to lower speed devices.
+
+FICON features and built-in functions
+
+Together with the FICON Express32S, FICON Express16SA, and FICON Express16S+, IBM z16 servers provide enhancements for FICON in functional and performance aspects with IBM Endpoint Security solution.
+
+IBM Fibre Channel Endpoint Security
+
+IBM z16 Model A01 supports IBM Fibre Channel Endpoint Security feature (FC 1146). FC 1146 provides FC/FCP link encryption and endpoint authentication. It is an end-to-end solution that helps ensure all data flowing on the Fibre Channel links within and across data centers flows between trusted entities.
+

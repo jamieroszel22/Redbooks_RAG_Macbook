@@ -1,0 +1,18 @@
+nditions.
+
+Considerations: Power consumption is lower in a normal ambient temperature room, and for configurations that feature a lesser number of I/O slots, smaller amount of memory, and fewer PUs.
+
+Power estimation for any configuration, power source, and room condition can be obtained by using the power estimation tool that is available at the IBM Resource Link website (login required).
+
+On the Resource Link page, click Tools → Power and weight estimation .
+
+11.2.2  Bulk power assembly
+
+The bulk power assembly (BPA) consists of the following features:
+
+- /SM590000 BPA (FC 0648)
+- /SM590000 Balanced Power Plan ahead (FC 3003)
+- /SM590000 Bulk Power Regulator (BPR) (FC 3017)
+
+Removal of IBF support : IBM z16 cannot be configured with an internal battery feature (IBM). Extra support for data center power planning can be requested through your IBM Sales contact.
+

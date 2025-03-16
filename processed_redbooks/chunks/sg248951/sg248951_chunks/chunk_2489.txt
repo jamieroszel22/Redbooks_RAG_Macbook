@@ -1,0 +1,9 @@
+erator)
+- /SM590000 IBM integrated accelerator for Z Sort (on-core sort accelerator)
+- /SM590000 IBM integrated accelerator for AI (on-chip AI accelerator)
+- /SM590000 Transparent memory encryption.
+
+It uses 24-, 31-, and 64-bit addressing modes, multiple arithmetic formats, and multiple address spaces for robust interprocess security.
+
+The IBM z16 system design features the following main objectives:
+

@@ -1,0 +1,16 @@
+ under the 1U servers replaces the previous KMM assembly that was mounted on a swing gate in IBM z14.
+
+The KMM device is shown in Figure 10-15.
+
+<!-- missing-text -->
+
+Consider the following points:
+
+- /SM590000 The device is intended to be used by the IBM System Service Representative only. If remote access to the HMC and SE is not possible, the customer can use the KMM as an emergency option. It can be local or onsite and managed by the Virtual Support Element Management task, as shown in Figure 10-16.
+- /SM590000 One KMM is provided.
+- /SM590000 The KMM is stored at the front of the A frame, below the two 1U servers. A USB-C cable and mounting bracket are stored with the KMM.
+- /SM590000 The USB cable can be used to plug the device into a KVM switch at the front or the rear of the rack when servicing the system.
+- /SM590000 Switching between servers is done by using a button that is on the KMM. The KMM screen also indicates which server is selected.
+
+<!-- missing-text -->
+

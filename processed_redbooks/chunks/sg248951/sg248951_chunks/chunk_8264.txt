@@ -1,0 +1,13 @@
+t the PU conversion can be done nondisruptively.
+
+Considerations: Client planning and operator action are required to use concurrent PU conversion. Consider the following points about PU conversion:
+
+- /SM590000 It is disruptive if all current PUs are converted to different types.
+- /SM590000 It might require individual LPAR outages if dedicated PUs are converted.
+
+Unassigned CP capacity is recorded by a model capacity identifier. CP feature conversions change (increase or decrease) the model capacity identifier.
+
+8.3.2  Customer Initiated Upgrade facility
+
+The CIU facility is an IBM online system through which you can order, download, and install permanent and temporary upgrades for IBM Z servers. Access to and use of the CIU facility requires a contract between the client and IBM through for which the terms and conditions for use of the CIU facility are accepted.
+

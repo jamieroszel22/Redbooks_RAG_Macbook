@@ -1,0 +1,10 @@
+age 239
+- /SM590000 6.7, 'Cryptographic functions comparison' on page 242
+- /SM590000 6.8, 'Cryptographic operating system support for IBM z16' on page 244
+
+6.1  Cryptography enhancements on IBM z16
+
+IBM recognizes that with any new technology, new threats exist, and as such, suitable counter measures must be taken. Quantum technology can be used for incredible good, but in the hands of an adversary, it has the potential to weaken or break core cryptographic primitives that were used to secure systems and communications. Quantum-safe cryptography aims to provide protection against attacks that can be started by quantum computers.
+
+The IBM z16 uses quantum-safe technologies to help protect your business-critical infrastructure and data from potential attacks.
+

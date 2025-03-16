@@ -1,0 +1,18 @@
+6S 11  features that are defined as CHPID type OSD.
+
+OSA IWQ is shown in Figure 7-5.
+
+<!-- missing-text -->
+
+The following types of z/OS workloads are identified and assigned to unique input queues:
+
+- /SM590000 z/OS Sysplex Distributor traffic
+- Network traffic that is associated with a distributed virtual Internet Protocol address (VIPA) is assigned to a unique input queue. This configuration allows the Sysplex Distributor traffic to be immediately distributed to the target host.
+- /SM590000 z/OS bulk data traffic
+
+Network traffic that is dynamically associated with a streaming (bulk data) TCP connection is assigned to a unique input queue. This configuration allows the bulk data processing to be assigned the suitable resources and isolated from critical interactive workloads.
+
+- /SM590000 EE (Enterprise Extender / SNA traffic)
+
+IWQ for the OSA-Express features is enhanced to differentiate and separate inbound Enterprise Extender traffic to a dedicated input queue.
+

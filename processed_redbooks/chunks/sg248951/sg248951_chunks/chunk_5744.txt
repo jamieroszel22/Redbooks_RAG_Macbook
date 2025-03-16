@@ -1,0 +1,19 @@
+kloads.
+
+TCP/IP connections that require IPsec are not eligible for any form of SMC.
+
+HiperSockets
+
+The HiperSockets function of IBM z16 servers provides up to 32 high-speed virtual LAN attachments.
+
+HiperSockets can be customized to accommodate varying traffic sizes. Because HiperSockets does not use an external network, it can free up system and network resources. This advantage can help eliminate attachment costs and improve availability and performance.
+
+HiperSockets eliminates the need to use I/O subsystem operations and traverse an external network connection to communicate between LPARs in the same IBM z16 CPC.
+
+HiperSockets offers significant value in server consolidation when connecting many virtual servers. It can be used instead of certain coupling link configurations in a Parallel Sysplex.
+
+HiperSockets internal networks support the following transport modes:
+
+- /SM590000 Layer 2 (link layer)
+- /SM590000 Layer 3 (network or IP layer)
+

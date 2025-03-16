@@ -1,0 +1,14 @@
+ one per PU chip
+- /SM590000 Quantum-safe cryptography support
+- /SM590000 Flexible configuration options
+
+It is the next implementation of IBM Z servers to address the ever-changing IT environment.
+
+For more information about frames and configurations, see Chapter 2, 'Central processor complex hardware components' on page 15, and Appendix E, 'Frame configurations Power Distribution Units and Bulk Power Assembly-based systems' on page 529.
+
+3.2  Design highlights
+
+The physical packaging of IBM z16 servers CPC drawer is a continuation and evolution of the previous generations of IBM z Systems. Its modular CPC drawer and new dual chip module (DCM) design address the augmenting costs that are related to building systems with ever-increasing capacities.
+
+The modular CPC drawer design is flexible and expandable. It offers unprecedented capacity and security features to meet consolidation needs.
+

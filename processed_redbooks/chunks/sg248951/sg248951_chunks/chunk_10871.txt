@@ -1,0 +1,12 @@
+oftware configuration of a production workload as it moves to a larger or faster processor might be needed to achieve the published LSPR ratios.
+
+12.5  LSPR workload categories based on L1MP and RNI
+
+A workload's L1MP (Level 1 Miss Per 100 instructions or percentage of data and instruction references that miss the L1 cache) and RNI are the most influential factors in determining workload performance. Other more traditional factors, such as application type or I/O rate, include RNI tendencies. However, it is the L1MP and the net RNI of the workload that is the underlying factor in determining the workload's performance.
+
+The LSPR now runs various combinations of former workload primitives, such as CICS, Db2, IMS, OSAM, VSAM, WebSphere, COBOL, and utilities, to produce capacity curves that span the typical range of RNI.
+
+The following workload categories are represented in the LSPR tables:
+
+- /SM590000 LOW (relative nest intensity)
+

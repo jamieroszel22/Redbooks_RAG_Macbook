@@ -1,0 +1,12 @@
+vention. This function is supported for SCSI and IBM extended count key data (IBM ECKD) devices.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+IOCP
+
+All IBM Z servers require a description of their I/O configuration. This description is stored in I/O configuration data set (IOCDS) files. The I/O configuration program (IOCP) allows for the creation of the IOCDS file from a source file that is known as the I/O configuration source (IOCS).
+
+The IOCS file contains definitions of LPARs and channel subsystems. It also includes detailed information for each channel and path assignment, control unit, and device in the configuration.
+
+IOCP for IBM z16 provides support for the following features:
+

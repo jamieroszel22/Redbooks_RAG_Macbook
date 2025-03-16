@@ -1,0 +1,12 @@
+ient CCW/IDAW structure for certain categories of data-chaining I/O operations.
+
+MIDAW can improve FICON performance for extended format data sets. Nonextended data sets also can benefit from MIDAW.
+
+MIDAW can improve channel use and I/O response time. It also reduces FICON channel connect time, director ports, and control unit processor usage.
+
+IBM laboratory tests indicate that applications that use EF data sets, such as Db2, or long chains of small blocks can gain significant performance benefits by using the MIDAW facility.
+
+MIDAW is supported on FICON channels that are configured as CHPID type FC. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+MIDAW technical description
+

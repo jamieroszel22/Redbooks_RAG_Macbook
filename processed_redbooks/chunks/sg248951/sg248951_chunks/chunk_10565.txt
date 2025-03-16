@@ -1,0 +1,12 @@
+irst must generate a token on the HMC task Manage Remote Firmware Updates. Then, you can schedule an RCL on IBM Resource Link by selecting Fixes → Licensed internal code → Remote Code Load request .
+
+Note: For IBM Z, IBM Support personnel do not connect to your IBM Z from outside the data center location to perform the RCL. Instead, the RCL is managed on your HMC.
+
+For more information about RCL, see this IBM Resource Link web page (log in required).
+
+- /SM590000 BCPii Query of Crypto information
+
+Before IBM z16, automation support for querying Crypto information was provided with SNMP API interfaces only. With IBM z16, support is added for BPCII v2/HWIREST APIs.
+
+- /SM590000 Crypto and OSA automatic toggling
+

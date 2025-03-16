@@ -1,0 +1,11 @@
+e 'record data entries' to recover from being out of record data entries.
+
+CFCC level 25 on IBM z16 is providing improved use support for handling of lock structure 'record data full' conditions by:
+
+- -Thresholding record data structure full conditions to occur when less than 100% full, reserving a special 'for emergency use only' pool of record data entries for critical recovery purposes (user-specified threshold)
+- -Providing new APIs that allow exploiters to make use of this new reserved pool only when needed for recovery actions, but not for normal database locking purposes
+
+z/OS APAR OA60650 and VSAM RLS APAR OA62059 are required in z/OS V2R3, V2R4, and V2R5.
+
+- /SM590000 DYNDISP=ON|OFF is deprecated on IBM z16, keeping only THIN option for shared-engine CF images.
+

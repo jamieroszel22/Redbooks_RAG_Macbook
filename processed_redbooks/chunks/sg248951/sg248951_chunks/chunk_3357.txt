@@ -1,0 +1,12 @@
+ry zIIPs cannot exceed twice the number of purchased CPs plus temporary CPs. Also, the number of temporary zIIPs cannot exceed the number of permanent zIIPs.
+
+zIIPs and logical partition definitions
+
+zIIPs are dedicated or shared, depending on whether they are part of an LPAR with dedicated or shared CPs. In an LPAR, at least one CP must be defined before zIIPs for that partition can be defined. The number of zIIPs that are available in the system is the number of zIIPs that can be defined to an LPAR.
+
+LPAR: In an LPAR, as many zIIPs as are available can be defined together with at least one CP.
+
+3.5.6  System assist processors
+
+A system assist processor (SAP) is a PU that runs the channel subsystem LIC to control I/O operations. All SAPs run I/O operations for all LPARs. As with IBM z14 and IBM z15 servers, in IBM z16 SMT is enabled 10  for SAPs. All features include standard SAPs configured. The number of standard SAPs depends on the IBM z16 feature, as listed in Table 3-4.
+

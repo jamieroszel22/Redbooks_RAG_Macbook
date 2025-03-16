@@ -1,0 +1,16 @@
+occur:
+
+- /SM590000 The ORB specifies format-2 IDAWs with 4 KB blocks.
+- /SM590000 The CCW count field specifies 8 KB.
+- /SM590000 The first IDAW designates a location in the middle of a 4 KB block.
+
+CCWs with data chaining can be used to process I/O data blocks that have a more complex internal structure, in which portions of the data block are directed into separate buffer areas. This process is sometimes known as scatter-read or scatter-write . However, as technology evolves and link speed increases, data chaining techniques become less efficient because of switch fabrics, control unit processing and exchanges, and other issues.
+
+The MIDAW facility is a method of gathering and scattering data from and into discontinuous storage locations during an I/O operation. The MIDAW format is shown in Figure 7-3. It is 16 bytes long and aligned on a quadword.
+
+<!-- missing-text -->
+
+An example of MIDAW usage is shown in Figure 7-4.
+
+<!-- missing-text -->
+

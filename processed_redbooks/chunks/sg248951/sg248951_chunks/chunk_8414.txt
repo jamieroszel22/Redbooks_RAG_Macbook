@@ -1,0 +1,10 @@
+lable for use.
+
+Tip: Accurate planning and the definition of the target configuration allows you to maximize the value of these plan-ahead features.
+
+8.5  Permanent upgrade by using the CIU facility
+
+By using the CIU facility (through the IBM Resource Link), you can start a permanent upgrade for CPs, ICFs, zIIPs, IFLs, SAPs, or memory. When performed through the CIU facility, you add the resources without IBM personnel present at your location. You can also unassign previously purchased CPs and IFL processors through the CIU facility.
+
+Adding permanent upgrades to a system through the CIU facility requires that the permanent upgrade enablement feature (FC 9898) is installed on the system. A permanent upgrade might change the system model capacity identifier (4 xx , 5 yy , 6 yy , or 7 nn ) if more CPs are requested, or if the capacity identifier is changed as part of the permanent upgrade. If necessary, more LPARs can be created concurrently to use the newly added processors.
+

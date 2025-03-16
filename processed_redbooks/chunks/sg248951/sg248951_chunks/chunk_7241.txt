@@ -1,0 +1,8 @@
+ve) limit. It is not affected by changes to the logical or physical configuration of the system. This physical capacity limit can be specified in units of CPs or IFLs.
+
+Capacity Provisioning Manager
+
+The provisioning architecture enables clients to better control the configuration and activation of the On/Off CoD. For more information, see Chapter 8, 'System upgrades' on page 327. This process is inherently more flexible and can be automated. This capability can result in easier, faster, and more reliable management of the processing capacity.
+
+The Capacity Provisioning Manager, which is a feature that was first available with z/OS V1R9, interfaces with z/OS Workload Manager (WLM) and implements capacity provisioning policies. Several implementation options are available, from an analysis mode that issues only guidelines, to an autonomic mode that provides fully automated operations.
+

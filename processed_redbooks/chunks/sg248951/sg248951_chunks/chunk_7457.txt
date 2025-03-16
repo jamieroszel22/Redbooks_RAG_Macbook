@@ -1,0 +1,10 @@
+X is used by IBM Java virtual machine (JVM) and might be used by other software. The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+System Recovery Boost
+
+System Recovery Boost is a feature that was implemented on the IBM z15 system. The feature provides more temporary processor capacity and delivers substantially faster system shutdown and restart and critical system operations, such as stand-alone dump, short duration Recovery process boost for sysplex events, and fast catch-up of an accumulated backlog of critical workload after a planned or unplanned event.
+
+Added or increased IBM software costs are not incurred by using System Recovery Boost. With the IBM z16 system, more Recovery process boost scenarios are supported that allow the customer to define some boost granularity (see Table 7-14). For more information, see IBM Z System Recovery Boost , REDP-5563.
+
+<!-- missing-text -->
+

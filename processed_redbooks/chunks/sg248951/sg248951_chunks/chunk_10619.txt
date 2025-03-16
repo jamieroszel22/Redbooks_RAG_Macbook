@@ -1,0 +1,16 @@
+n in the Fixes section at the IBM Resource Link.
+
+Microcode Change Level
+
+Regular installation of Microcode Change Levels (MCLs) is key for RAS, optimal performance, and the following new functions:
+
+- /SM590000 Install MCLs on a quarterly basis at a minimum.
+- /SM590000 Review hiper MCLs continuously to decide whether to wait for the next scheduled fix application session or to schedule one earlier if the risk assessment warrants.
+- /SM590000 Sign on to the IBM Z Security Portal website and review for security alerts and related MCL fixes.
+
+Tip: The IBM Resource Link provides access to the system information for your IBM Z system according to the system availability data that is sent on a scheduled basis. It provides more information about the MCL status of your IBM Z. At the IBM Resource Link web page, click Tools → Machine Information , select your IBM Z system and then, click EC/MCL .
+
+Microcode terms
+
+The microcode features the following characteristics:
+

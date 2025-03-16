@@ -1,0 +1,15 @@
+ts Completion Queue can be especially helpful in burst situations.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+HiperSockets Virtual Switch Bridge
+
+The HiperSockets Virtual Switch Bridge is supported on IBM Z servers. With the HiperSockets Virtual Switch Bridge, z/VM virtual switch is enhanced to transparently bridge a guest virtual machine network connection on a HiperSockets LAN segment. This bridge allows a single HiperSockets guest virtual machine network connection to also directly communicate with the following components:
+
+- /SM590000 Other guest virtual machines on the virtual switch
+- /SM590000 External network hosts through the virtual switch OSA UPLINK port
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+HiperSockets Multiple Write Facility
+

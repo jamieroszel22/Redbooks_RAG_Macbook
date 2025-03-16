@@ -1,0 +1,6 @@
+
+- -Two-port PCIe 16 gigabytes per second (GBps) I/O fan-out, each port supports one domain in the 16-slot PCIe+ I/O drawers.
+- -ICA SR1.1 and ICA SR PCIe fan-outs for coupling links (two links, 8 GBps each).
+- /SM590000 Three or four Power Supply Units (PSUs), depending on the configuration (PDU or BPA), which provide power to the CPC drawer and are accessible from the rear. Loss of one PSU leaves enough power to satisfy the power requirements of the entire drawer. The PSUs can be concurrently maintained.
+- /SM590000 Two dual-function Base Management Cards (BMCs)\Oscillator Cards (OSCs), which provide redundant interfaces to the internal management network and provide clock synchronization to the IBM Z platform.
+- /SM590000 Two dual-function Processor Power Cards (PPC), which control Voltage Regulation, PSU and Fan control. The PPCs are redundant and can be concurrently maintained.

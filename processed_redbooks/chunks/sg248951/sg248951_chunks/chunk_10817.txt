@@ -1,0 +1,17 @@
+nux on IBM Z installation can use the communication path between the HMC and the SE. No external network or extra network setup is necessary for the installation.
+
+10.5.16  Dynamic Partition Manager
+
+DPM is an administrative mode (front end to PR/SM) that was introduced for Linux-only systems for IBM z13 and following systems. With DPM, you can use your Linux and virtualization skills while taking advantage of the full value of IBM Z hardware, robustness, and security in a workload optimized environment.
+
+A system can be configured in DPM mode or in PR/SM mode (POR is required to switch modes). In general, DPM supports the following functions:
+
+- /SM590000 Create, provision, and manage partitions (processor, memory, and adapters) and storage
+- /SM590000 Monitor and troubleshoot the environment
+
+The following LPAR modes are available for DPM:
+
+- /SM590000 z/VM
+- /SM590000 Linux on IBM Z (also used for KVM deployments)
+- /SM590000 Secure Service Container
+

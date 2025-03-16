@@ -1,0 +1,5 @@
+e defined to up to 126 virtual functions (VFs) per feature (port is defined in z/OS Communications Server). The 10 GbE RoCE Express3 feature support up to 63 VFs per port (up to 126 VFs per feature).
+- /SM590000 Each zHyperLink Express/zHyperlink Express1.1 feature occupies one I/O slot but does not include a CHPID type. However, LPARs in all CSSs can access the feature. The zHyperLink Express adapter works as native PCIe adapter and can be shared by multiple LPARs. Each port supports up to 127 Virtual Functions (VFs), with one or more VFs/PFIDs being assigned to each LPAR. This support gives a maximum of 254 VFs per adapter.
+
+I/O feature cables and connectors
+

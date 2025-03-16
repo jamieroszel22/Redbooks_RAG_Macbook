@@ -1,0 +1,14 @@
+9 Subtype 14 records for all LPARs in the IBM z16. Record has a single LPAR scope, so need all LPARs to get the total picture.
+
+z/OS SMF 99 Subtype 14 contains HiperDispatch Topology data including:
+
+- /SM590000 Logical Processor characteristics: Polarity (VH, VM, VL) and Afinity Node
+- /SM590000 Physical topology information: Drawer/ DCM/ Chip location data for each logical CP.
+- /SM590000
+- z/OS SMF 99 Subtype 14 is written every 5 minutes or when a Topology change occurs
+- -Topology changes:
+- GLYPH&lt;129&gt; Configuration Change or weight change
+- GLYPH&lt;129&gt; Driven by IRD weight management
+- GLYPH&lt;129&gt; Record provides a Topology Change indicator to show when the topology changed
+- /SM590000 LPAR topology may have a very significant impact on processor CPU efficiency. Remote cache accesses may take hundreds of machine cycles. SMF 99.14 records are produced every 5 minutes and capture drawer/DCM/chip location data for each logical CP.
+

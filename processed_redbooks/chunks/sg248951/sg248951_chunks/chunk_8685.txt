@@ -1,0 +1,6 @@
+ on the system. Changing from one offering to another requires stopping the active offering before the inactive one can be activated. This operation decreases the current capacity during the change.
+
+The provisioning management routines can interrogate the installed offerings, their content, and the status of the content of the offering. To avoid the decrease in capacity, create only one On/Off CoD offering on the system by specifying the maximum allowable capacity. Then, when an activation is needed, the CPM can activate a subset of the contents of the offering sufficient to satisfy the demand. If more capacity is needed later, the Provisioning Manager can activate more capacity up to the maximum allowed increase.
+
+Multiple offering records can be pre-staged on the SE HDD. Changing the content of the offerings (if necessary) also is possible.
+

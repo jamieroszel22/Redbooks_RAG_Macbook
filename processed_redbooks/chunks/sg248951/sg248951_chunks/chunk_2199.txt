@@ -1,0 +1,11 @@
+590000 N+2 redundant environmental sensors (ambient temperature, relative humidity, and air density 5 ).
+
+The internal intelligent Power Distribution Unit (iPDU) provides the following capabilities:
+
+- /SM590000 Individual outlet control by way of Ethernet:
+- -Provide a System Reset capability
+- -Power cycle an SE if a hang occurs
+- -Verify a power cable at installation
+- /SM590000 System Reset Function:
+- -No physical EPO switch is available on the IBM z16, which provides a means for the service technician 6  to put a server into a known state.
+

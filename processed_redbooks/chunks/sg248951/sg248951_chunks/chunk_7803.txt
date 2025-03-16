@@ -1,0 +1,10 @@
+ction isolation is supported by all OSA-Express features on IBM z16. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+QDIO interface isolation for z/OS
+
+Some environments require strict controls for routing data traffic between servers or nodes. In specific cases, the LPAR-to-LPAR capability of a shared OSA connection can prevent such controls from being enforced. With interface isolation, internal routing can be controlled on an LPAR basis. When interface isolation is enabled, the OSA discards any packets that are destined for a z/OS LPAR that is registered in the OSA Address Table (OAT) as isolated.
+
+QDIO interface isolation is supported on all OSA-Express features on IBM z16. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+QDIO optimized latency mode
+

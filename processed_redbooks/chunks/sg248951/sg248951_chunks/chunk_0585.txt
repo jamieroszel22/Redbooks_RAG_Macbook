@@ -1,0 +1,19 @@
+ms are supported:
+
+- /SM590000 AES
+- /SM590000 Data Encryption Standard (DES) and Triple Data Encryption Standard (TDES)
+- /SM590000 Secure Hash Algorithm (SHA)-1
+- /SM590000 SHA-2
+- /SM590000 SHA-3
+
+CPACF supports Elliptic Curve Cryptography (ECC) clear key, improving the performance of Elliptic Curve algorithms. The following algorithms are supported:
+
+- /SM590000 EdDSA (Ed448 and Ed25519)
+- /SM590000 ECDSA (P-256, P-384, and P-521)
+- /SM590000 ECDH (P-256, P-384, P521, X25519, and X448)
+- /SM590000 Support for protected key signature creation
+
+Crypto-Express8S
+
+The tamper-sensing and tamper-responding Crypto-Express8S features provide acceleration for high-performance cryptographic operations and support up to 85 domains with the IBM z16 A01. This specialized hardware performs AES, DES and TDES, RSA, Elliptic Curve (ECC), SHA-1, and SHA-2, and other cryptographic operations.
+

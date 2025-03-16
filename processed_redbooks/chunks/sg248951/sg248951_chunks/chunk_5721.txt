@@ -1,0 +1,15 @@
+. The 25 GbE RoCE Express3 feature uses SR optics and supports the use of a multimode fiber optic cable that ends with an LC Duplex connector.
+
+Note: Consider the following 25 GbE RoCE requirements:
+
+- /SM590000 The 25 GbE RoCE Express3 SR feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+- /SM590000 25 GbE/10 GbE RoCE features should not be mixed in a z/OS SMC-R Link Group.
+
+Point-to-point connections and switched connections with an enterprise-class 25 GbE switch are supported.
+
+25 GbE RoCE Express3 LR (FC 0453)
+
+25 GbE RoCE Express3 LR(FC 0453) is installed in the PCIe+ I/O drawer and is supported on IBM z16 servers only. The 25 GbE RoCE Express3 LR is a native PCIe feature. It does not use a CHPID. It s defined by using the IOCP FUNCTION statement or in the hardware configuration definition (HCD).
+
+The maximum supported unrepeated distance, point-to-point, is 10 km (6.2 miles). A client-supplied cable is required.
+

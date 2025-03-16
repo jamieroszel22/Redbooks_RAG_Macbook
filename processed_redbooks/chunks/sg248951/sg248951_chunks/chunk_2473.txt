@@ -1,0 +1,14 @@
+dd-numbered BPAs (BPA1 and BPA3) to one power source or distribution panel, and the even-numbered BPAs (BPA2 and BPA4) to a separate power source or distribution panel.
+
+2.9.3  Power estimation tool
+
+The power estimation tool for the IBM z16 allows you to enter your precise server configuration to obtain an estimate of power consumption by using the following process:
+
+- 1. Log in to the Resource link with your user ID.
+- 2. Click Planning → Tools → Power Estimation Tools .
+- 3. Specify the quantity for the features that are installed in your system.
+
+This tool estimates the power consumption for the specified configuration. The tool does not verify that the specified configuration can be physically built.
+
+Tip: The exact power consumption for your system varies. The object of the tool is to estimate the power requirements to aid you in planning for your system installation. Actual power consumption after installation can be confirmed by using the HMC Monitors Dashboard task.
+

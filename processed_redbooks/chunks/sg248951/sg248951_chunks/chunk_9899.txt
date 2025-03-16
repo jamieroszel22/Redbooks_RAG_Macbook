@@ -1,0 +1,12 @@
+duces the number of repair actions for memory.
+
+- /SM590000 Dual tabbed Memory Clock signals.
+- /SM590000 Triple DRAM chipkill tolerance.
+- /SM590000 Processor drawer power distribution N +2 design.
+
+The CPC drawer uses POL cards in a highly redundant N +2 configuration. POL regulators are daughter cards that contain the voltage regulators for the principle logic voltage boundaries in the IBM z16 CPC drawer. They plug into the CPC drawer system board and are nonconcurrent FRUs for the affected drawer (similar to the memory DIMMs). If you can use EDA, the replacement of POL cards is concurrent for the entire IBM Z server.
+
+- /SM590000 Redundant ( N +1) Ethernet switches.
+- /SM590000 Redundant ( N +2) ambient temperature sensors.
+- /SM590000 Dual inline memory module (DIMM) field-replaceable unit (FRU) indicators.
+

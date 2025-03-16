@@ -1,0 +1,10 @@
+ performance, see this web page of the IBM Resource Link website.
+
+For more information about millions of service units (MSU) ratings, see this IBM Z resources web page.
+
+12.2.1  LSPR workload suite
+
+Historically, LSPR capacity tables, including pure workloads and mixes, were identified with application names or a software characteristic; for example, CICS, IMS, OLTP-T, 1 CB-L, 2 LoIO-mix, 3 and TI-mix. 4  However, capacity performance is more closely associated with how a workload uses and interacts with a specific processor hardware design.
+
+The CPU Measurement Facility (CPU MF) data that was introduced on the z10 provides insight into the interaction of workload and hardware design in production workloads. CPU MF data helps LSPR to adjust workload capacity curves that are based on the underlying hardware sensitivities; in particular, the processor access to caches and memory.
+

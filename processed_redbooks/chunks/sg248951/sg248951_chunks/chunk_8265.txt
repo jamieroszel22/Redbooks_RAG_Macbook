@@ -1,0 +1,8 @@
+ upgrades for IBM Z servers. Access to and use of the CIU facility requires a contract between the client and IBM through for which the terms and conditions for use of the CIU facility are accepted.
+
+The CIU facility is controlled through the permanent upgrade authorization FC 9898. A prerequisite to FC 9898 is the online CoD buying feature code (FC 9900). Although FC 9898 can be installed on your IBM z16 servers at any time, often it is added when ordering an IBM z16.
+
+After you place an order through the CIU facility, you receive a notice that the order is ready for download. You can then download and apply the upgrade by using functions that are available through the Hardware Management Console (HMC), along with the RSF. After all of the prerequisites are met, the entire process (from ordering to activation of the upgrade) is performed by the customer, and does not require any onsite presence of IBM SSRs.
+
+CIU prerequisites
+

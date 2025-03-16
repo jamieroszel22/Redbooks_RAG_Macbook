@@ -1,0 +1,8 @@
+ss
+
+The 25 GbE and 10 GbE RoCE Express3 features 4  use Remote Direct Memory Access (RDMA) over Converged Ethernet (RoCE) to provide fast memory-to-memory communications between two IBM Z platforms.
+
+These features help reduce consumption of CPU resources for applications that use the TCP/IP stack (such as IBM WebSpherefi that accesses an IBM Db2fi database). They also can help reduce network latency with memory-to-memory transfers by using Shared Memory Communications over RDMA (SMC-R).
+
+With SMC-R, you can transfer huge amounts of data quickly and at low latency. SMC-R is transparent to the application and requires no code changes, which enables rapid time to value.
+

@@ -1,0 +1,4 @@
+graphic Architecture (CCA) and the IBM Enterprise PKCS #11 (EP11) Licensed Internal Code (LIC) were enhanced.
+
+The new features support new standards and meet the following compliance requirements:
+

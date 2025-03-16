@@ -1,0 +1,31 @@
+or and troubleshoot the environment
+
+The following LPAR modes are available for DPM:
+
+- /SM590000 z/VM
+- /SM590000 Linux on IBM Z (also used for KVM deployments)
+- /SM590000 Secure Service Container
+
+If DPM is enabled, the IBM z16 system cannot run z/OS, IBM z/VSE, and z/TPF LPARs.
+
+The IBM z16 can be initialized in PR/SM mode or in DPM mode, but not both.
+
+DPM provides a GUI for PR/SM (to manage resources). Tools, such as HCD are in DPM mode and are not necessary.
+
+This IBM Redbooks publication does not cover scenarios that use DPM.
+
+For more information about the use of DPM, see IBM Dynamic Partition Manager (DPM) Guide , SB10-7182.
+
+Important: Consider the following points:
+
+- /SM590000 The Enabling DPM function is run on the SE and is performed by your IBM system Service Representative at installation time.
+- /SM590000 If DPM is enabled, the IBM z16 system cannot run z/OS, IBM z/VSE, and z/TPF LPARs.
+
+<!-- missing-text -->
+
+Chapter 11.
+
+11
+
+Environmental requirements
+

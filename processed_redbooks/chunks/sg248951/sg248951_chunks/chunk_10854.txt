@@ -1,0 +1,11 @@
+izations
+- -PR/SM Algorithm Improvements (including LPAR Resource Placement)
+- -Quantum safe Encryption
+- -New System Recovery Boost functions
+
+12.2  IBM z16 Large System Performance Reference ratio
+
+The Large System Performance Reference (LSPR) provides capacity ratios among various processor families that are based on various measured workloads. It is a common practice to assign a capacity scaling value to processors as a high-level approximation of their capacities.
+
+For z/OS studies, the capacity scaling factor that is commonly associated with the reference processor is set to a 2094-701 with a Processor Capacity Index (PCI) value of 593. This value is unchanged since z/OS V1R11 LSPR. The use of the same scaling factor across LSPR releases minimizes the changes in capacity results for an older study and provides more accurate capacity view for a new study.
+

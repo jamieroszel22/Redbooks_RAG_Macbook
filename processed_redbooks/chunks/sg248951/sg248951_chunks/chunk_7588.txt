@@ -1,0 +1,10 @@
+introduces a minor change in how the physical port is configured.
+
+RMF 2.2 and later also is enhanced to recognize the new CX4 card type and correctly display CX4 cards in the PCIe Activity reports.
+
+Support in select Linux on IBM Z distributions is now provided for Shared Memory Communications over Remote Direct Memory Access (SMC-R) by using the supported RoCE Express features. For more information, see this Linux on IBM Z Blogspot web page.
+
+The RoCE Express3 features also can provide LAN connectivity for Linux on IBM Z, and comply with IEEE standards. In addition, RoCE Express features assume several functions of the TCP/IP stack that normally are performed by the PU, which allows significant performance benefits by offloading processing from the operating system.
+
+The 10 GbE RoCE Express2 feature also is used by Linux on IBM Z for applications that are coded to the native RoCE verb interface or use Ethernet (such as TCP/IP). This native use does not require a peer OSA.
+

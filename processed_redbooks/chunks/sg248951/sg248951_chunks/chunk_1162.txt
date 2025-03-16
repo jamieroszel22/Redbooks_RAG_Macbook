@@ -1,0 +1,2 @@
+nt memory controllers can have different size DIMMs
+

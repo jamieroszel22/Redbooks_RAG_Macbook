@@ -1,0 +1,27 @@
+er Repair (CDR)
+
+9.2.3  I/O and service
+
+I/O and service consist of the following features:
+
+- /SM590000 New I/O features on IBM z16:
+- -FICON Express 32S
+- -Coupling Express2 LR
+- -OSA Express7 1.2
+
+- -Crypto Express 8S
+- -RoCE Express3
+- /SM590000 The number of PSP, support partitions, for managing native PCIe I/O:
+- -Four partitions
+- -Reduced effect on MCL updates
+- -Better availability
+- /SM590000 Faster Dynamic Memory Relocation engine:
+- -Enables faster reallocation of memory that is used for LPAR activations, CDR, and concurrent upgrade
+- -Enables also LPAR Optimizations with Dynamic Storage Reconfiguration (DSR)
+- -Provides faster, more robust service actions
+- /SM590000 IBM z16 has same Fill and Drain tool as IBM z15.
+
+9.3  Structure
+
+The IBM z16 was designed in a 19-inch frames format. The IBM z16 A01 can be delivered only as an air-cooled system and fulfills the requirements for ASHRAE A3 class environment.
+

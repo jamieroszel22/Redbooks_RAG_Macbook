@@ -1,0 +1,11 @@
+, 'Flexible Memory Option' on page 46.) This process requires more available memory to compensate for the memory that becomes unavailable with the removal of the drawer.
+
+2.5.6  Virtual Flash Memory
+
+IBM Virtual Flash Memory (VFM) FC 0644 offers up to 6.0 TB of virtual flash memory in 512 GB (0.5 TB) increments (a maximum of 12 features for IBM z16 A01) for improved application availability and to handle paging workload spikes.
+
+No application changes are required to change from IBM Flash Express to VFM. Consider the following points:
+
+- /SM590000 Dialed memory + VFM = total hardware plugged
+- /SM590000 Dialed memory + VFM + Flex memory option = total hardware plugged
+

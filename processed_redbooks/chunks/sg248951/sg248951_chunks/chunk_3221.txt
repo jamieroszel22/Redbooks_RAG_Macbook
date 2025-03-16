@@ -1,0 +1,5 @@
+ Write operation for outbound large messages (originating from z/OS) to be run by a zIIP. Application workloads that are based on XML, HTTP, SOAP, and Java, and traditional file transfer can benefit.
+- /SM590000 During the SRB boost period, ANY work in a boosting image is eligible to run on a zIIP processor associated with the image (LPAR).
+
+Many more workloads and software can use zIIP processors, such as the following examples:
+

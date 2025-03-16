@@ -1,0 +1,14 @@
+ memory subsystem uses proven redundant array of independent memory (RAIM) technology to ensure high availability. Up to 40 TB (10 TB per CPC drawer) of addressable memory per system can be ordered.
+
+The IBM z16 also has unprecedented capacity to meet consolidation needs with innovative I/O features for transactional and hybrid cloud environments.
+
+The IBM z16 (maximum configuration) can support up to 12 PCIe+ I/O drawers. Each I/O drawer can support up to 16 I/O or special purpose features for storage, network, and clustering connectivity, and cryptography.
+
+The following features were introduced with the IBM z16:
+
+- /SM590000 FICON Express32S
+- /SM590000 OSA-Express7S 1.2
+- /SM590000 RoCE Express3 (Long Reach and Short Reach)
+- /SM590000 Coupling Express2 Long Reach
+- /SM590000 Crypto Express8S
+

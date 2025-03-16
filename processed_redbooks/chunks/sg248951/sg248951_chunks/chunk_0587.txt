@@ -1,0 +1,12 @@
+ion Processing Standards (FIPS) 140-2 Level 4 and PCI HSM security requirements for hardware security modules.
+
+IBM z16 is the industry's first quantum-safe system . Consider the following points: 5
+
+- /SM590000 IBM z16 quantum-safe secure boot technology helps to protect IBM Z firmware from quantum attacks by using a build-in dual signature scheme with no changes required.
+- /SM590000 IBM z16 quantum-safe technology and key management services were developed to help you protect data and keys against a potential future quantum attack, such as harvest now, decrypt later.
+- /SM590000 IBM z16 positions customers to use quantum-safe cryptography along with classic cryptography as they begin modernizing existing applications and building new applications.
+
+For more information about cryptographic features and functions, see Chapter 6, 'Cryptographic features' on page 209.
+
+1.2.8  Supported connectivity and crypto features
+

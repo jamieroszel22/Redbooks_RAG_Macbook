@@ -1,0 +1,17 @@
+(TCP/IP).
+- /SM590000 V7R1 requires PTF for APAR PI99085.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA-Express7S 1.2 10 GbE LR and SR features
+
+OSA-Express7S 1.2 features are an Ethernet technology refresh introduced with IBM z16.
+
+OSA-Express7S 1.2 10 GbE SR (FC 0457) and OSA-Express7S 1.2 10 GbE LR (FC 0456) are installed in the PCIe+ I/O Drawer and have 10 GbE physical port. The features connect to a 10 GbE switch and do not support auto-negotiation to a different speed.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA-Express7S 1.2 GbE LX and SX features
+
+OSA-Express7S 1.2 features are an Ethernet technology refresh that was introduced with IBM z16.
+

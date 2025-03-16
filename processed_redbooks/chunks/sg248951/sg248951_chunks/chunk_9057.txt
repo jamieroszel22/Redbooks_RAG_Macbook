@@ -1,0 +1,15 @@
+
+- /SM590000 Bit position 48
+- Specifies the format of the first two hexadecimal digits of the configuration-identification field.
+- /SM590000 Bit positions 49 - 63 are reserved and stored as zeros.
+
+For more information about the STIDP instruction, see z/Architecture Principles of Operation, SA22-7832.
+
+Planning for nondisruptive upgrades
+
+Online permanent upgrades, On/Off CoD, CBU, and CPE can be used to upgrade an IBM Z server concurrently. However, specific situations require a disruptive task to enable capacity that was recently added to the system. Some of these situations can be avoided if planning is done. Planning is a key factor for nondisruptive upgrades.
+
+In a multi-site high-availability configuration, another option is the use of Flexible Capacity for Cyber Resilience to move workload to another site while hardware maintenance is performed.
+
+Disruptive upgrades are performed for the following reasons:
+

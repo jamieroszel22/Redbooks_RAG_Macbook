@@ -1,0 +1,25 @@
+
+Related publications
+
+The publications that are listed in this section are considered particularly suitable for a more detailed discussion of the topics that are covered in this book.
+
+IBM Redbooks
+
+The following IBM Redbooks publications provide more information about the topic in this document. Note that some publications that are referenced in this list might be available in softcopy only:
+
+- /SM590000 IBM z16 Technical Introduction, SG24-8950
+- /SM590000 IBM Z Connectivity Handbook, SG24-5444
+- /SM590000 IBM z16 (3931) Configuration Setup, SG24-8960
+
+You can search for, view, download, or order these documents and other Redbooks, Redpapers, Web Docs, draft and additional materials, at the following website:
+
+ibm.com /redbooks
+
+Other publications
+
+The publication IBM Z 8561 Installation Manual for Physical Planning, GC28-7002, also is relevant as another information source.
+
+Online resources
+
+The following online resources are available:
+

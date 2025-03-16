@@ -1,0 +1,12 @@
+z/VM, and Linux on IBM Z. They also can run specific workloads, such as Java, XML services, IPsec, and some Db2 workloads, or clustering functions, such as the Coupling Facility Control Code (CFCC).
+
+The maximum number of characterizable PUs depends on the IBM z16 Model A01 CPC drawer feature code. Some PUs are characterized for system use; some are characterized for client workload use.
+
+By default, one spare PU is available to assume the function of a failed PU. The maximum number of PUs that can be characterized for client use are listed in Table 2-5.
+
+<!-- missing-text -->
+
+The rule for the CP to zIIP purchase ratio, that for every CP purchased, up to two zIIPs can be purchased has been removed on z16.
+
+Converting a PU from one type to any other type is possible by using the Dynamic Processor Unit Reassignment process. These conversions occur concurrently with the system operation.
+

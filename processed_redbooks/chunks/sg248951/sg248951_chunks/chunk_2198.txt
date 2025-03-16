@@ -1,0 +1,10 @@
+(VRM): On-point of load cards (POL) or voltage regulation sticks (VRS).
+- -Power Processor Control Card: Power control card to control CPC fans (N+1 redundant) and are available in quantities of two.
+- -Fans: Drawer has five fans and are N+1 redundant.
+- -BMC/OSCs: Redundant (N+1).
+- /SM590000 PU DCMs are all water-cooled.
+- /SM590000 The PCIe+ I/O drawer power supplies for the IBM z16 also are based on the N+1 design. The second power supply can maintain operations and avoid an unplanned outage of the system.
+- /SM590000 N+2 redundant environmental sensors (ambient temperature, relative humidity, and air density 5 ).
+
+The internal intelligent Power Distribution Unit (iPDU) provides the following capabilities:
+

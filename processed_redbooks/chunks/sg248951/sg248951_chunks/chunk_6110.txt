@@ -1,0 +1,6 @@
+protected keys. By default, all secure keys are considered not eligible to be used as protected keys. The process that is shown in Figure 6-5 considers a secure key as the source of a protected key.
+
+The source key in this case is stored in the ICSF Cryptographic Key Data Set (CKDS) as a secure key, which was encrypted under the master key. This secure key is sent to CEX8C, CEX7C, or CEX6C to be deciphered and then, sent to the CPACF in clear text.
+
+At the CPACF, the key is wrapped under the LPAR wrapping key, and is then returned to ICSF. After the key is wrapped, ICSF can keep the protected value in memory. It then passes it to the CPACF, where the key is unwrapped for each encryption or decryption operation.
+

@@ -1,0 +1,14 @@
+ field (MES upgrade) if the reserve features (FC 2981 or FC 2982) are included with the initial system order.
+
+Concurrent drawer repair requires a minimum of two CPC drawers.
+
+2.2.2  Oscillator card
+
+With IBM z16 Model A01, the oscillator card design and signal distribution scheme are improved; however, the RAS strategy for redundant clock signal and dynamic switchover is unchanged. One primary OSC card and one backup are used. If the primary OSC card fails, the secondary detects the failure, takes over transparently, and continues to provide the clock signal to the CPC.
+
+Manage System Time
+
+HMC level 2.16.0 (Driver 51) is required to manage system time for IBM z16 Model A01.
+
+Network Time Protocol
+

@@ -1,0 +1,8 @@
+ z16 system. Consider the following points:
+
+- /SM590000 On the IBM z16 source system, the permanent capacity is unassigned to the base level.
+- /SM590000 The new Flexible Capacity Record is installed and activated on the IBM z16 source system to restore capacity back to the purchased level.
+- /SM590000 On the IBM z16 target systems, the new Flexible Capacity Record enables clients to bring the capacity up to the level of the production system when activated. The Flexible Capacity Record remains inactive until capacity is shifted from the base system to the target systems.
+- /SM590000 After deactivating the Flexible Capacity Record on the base system, the capacity active through Flexible Capacity Transfer records on the target systems must not exceed the capacity active on the base system before the swap.
+- /SM590000 If GDPS is used to automate the shift, it must be set up with the correct LIC records to add capacity in the target systems and remove capacity in the base systems site.
+

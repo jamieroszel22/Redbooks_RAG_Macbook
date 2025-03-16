@@ -1,0 +1,16 @@
+justments, click OK (see Figure 9-10).
+
+<!-- missing-text -->
+
+Summary of the drawer removal process steps
+
+To remove a drawer, the following resources must be moved to the remaining active drawers:
+
+- /SM590000 PUs: Enough PUs must be available on the remaining active drawers, including all types of PUs that can be characterized (CPs, IFLs, ICFs, zIIPs, SAPs, and IFP).
+- /SM590000 Memory: Enough installed memory must be available on the remaining active drawers.
+- /SM590000 I/O connectivity: Alternative paths to other drawers must be available on the remaining active drawers, or the I/O path must be taken offline.
+
+By understanding the system configuration and the LPAR allocation for memory, PUs, and I/O, you can make the best decision about how to free the necessary resources to allow for drawer removal.
+
+Complete the following steps to concurrently replace a drawer:
+

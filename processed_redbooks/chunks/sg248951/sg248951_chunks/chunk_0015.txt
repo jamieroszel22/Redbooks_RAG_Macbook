@@ -1,0 +1,9 @@
+erational Analytics
+- /SM590000 Accelerating digital transformation with agile service delivery
+- /SM590000 Revolutionizing business processes
+- /SM590000 Blending open source and IBM Z technologies
+
+This book explains how this system uses new innovations and traditional IBM Z strengths to satisfy growing demand for cloud, analytics, and open source technologies. With the IBM z16 as the base, applications can run in a trusted, reliable, and secure environment that improves operations and lessens business risk.
+
+This book was produced by a team of specialists from around the world working at IBM Redbooks, Poughkeepsie Center.
+

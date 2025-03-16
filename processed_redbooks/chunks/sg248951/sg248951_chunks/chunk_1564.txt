@@ -1,0 +1,4 @@
+e CPU cycle. Figure 2-15 shows the core floor plan, which contains the following units:
+
+<!-- missing-text -->
+

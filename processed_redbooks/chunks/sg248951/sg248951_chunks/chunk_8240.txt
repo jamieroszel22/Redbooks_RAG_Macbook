@@ -1,0 +1,20 @@
+the IBM z16.
+
+IBM z16 servers support dynamic provisioning features to give clients exceptional flexibility and control over system capacity and costs.
+
+This chapter includes the following topics:
+
+- /SM590000 8.1, 'Introduction' on page 328
+- /SM590000 8.2, 'Permanent and Temporary Upgrades' on page 328
+- /SM590000 8.3, 'Concurrent upgrades' on page 334
+- /SM590000 8.4, 'Miscellaneous equipment specification upgrades' on page 341
+- /SM590000 8.5, 'Permanent upgrade by using the CIU facility' on page 347
+- /SM590000 8.6, 'On/Off Capacity on Demand' on page 352
+- /SM590000 8.7, 'z/OS Capacity Provisioning' on page 359
+- /SM590000 8.8, 'System Recovery Boost Upgrade' on page 364
+- /SM590000 8.9, 'Capacity for Planned Event' on page 365
+- /SM590000 8.10, 'Capacity Backup' on page 365
+- /SM590000 8.11, 'Flexible Capacity Cyber Resiliency' on page 370
+- /SM590000 8.12, 'Planning for nondisruptive upgrades' on page 372
+- /SM590000 8.13, 'Summary of Capacity on-Demand offerings' on page 378
+

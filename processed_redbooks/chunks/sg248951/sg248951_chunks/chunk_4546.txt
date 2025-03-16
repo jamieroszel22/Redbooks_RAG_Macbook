@@ -1,0 +1,16 @@
+14. The Virtual Flash Memory feature code is 0644 on IBM z16 A01.
+
+3.10.1  IBM Z Virtual Flash Memory overview
+
+VFM replaced the PCIe Flash Express feature with support that is based on main memory.
+
+The 'storage class memory' that is provided by Flash Express adapters is replaced with memory that is allocated from main memory (VFM).
+
+VFM helps improve availability and handling of paging workload spikes when running z/OS. With this support, z/OS is designed to help improve system availability and responsiveness by using VFM across transitional workload events, such as market openings and diagnostic data collection.
+
+z/OS also helps improve processor performance by supporting middleware use of pageable large (1 MB) pages, and eliminates delays that can occur when collecting diagnostic data during failures.
+
+VFM also can be used in CF images to provide extended capacity and availability for workloads that use IBM WebSphere MQ Shared Queues structures.
+
+3.10.2  VFM feature
+

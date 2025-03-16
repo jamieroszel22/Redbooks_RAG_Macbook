@@ -1,0 +1,19 @@
+ration gives a maximum of 254 VFs per adapter.
+
+The zHyperLink Express requires the following components:
+
+- /SM590000 zHyperLink connector on supported DS8000 I/O Bay.
+- /SM590000 Optic Fiber Cable
+
+The zHyperLink Express uses optical cable with MTP connector. Maximum supported cable length is 150 meters (492 feet).
+
+4.6.3  Network connectivity
+
+Communication for LANs is provided by the OSA-Express7S 1.2, OSA-Express7S, OSA-Express6S, 25 GbE and 10 GbE RoCE Express3, 25 GbE and 10 GbE RoCE Express2.1, and 25 GbE and 10 GbE RoCE Express2 features.
+
+OSA-Express7S 1.2 25 GbE SR (FC 0459)
+
+OSA-Express7S 1.2 25 Gigabit Ethernet SR (FC 0459) is installed in the PCIe+ I/O Drawer.
+
+OSA-Express7S 1.2 25 Gigabit Ethernet Short Reach (SR) feature includes one PCIe Gen3 adapter and one port per feature. The port supports CHPID types OSD.
+

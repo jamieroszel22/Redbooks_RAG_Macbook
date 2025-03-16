@@ -1,0 +1,14 @@
+or some functions on some releases.
+
+New: ICSF support for IBM z16 is provided with PTFs, not Web deliverables
+
+In general, consider the following guidelines:
+
+- /SM590000 Do not change software releases and hardware at the same time.
+- /SM590000 At a minimum, apply maintenance from the following FIXCAT to all systems that participate in a sysplex with IBM z16, regardless of whether the systems is to be migrated to the current hardware:
+- IBM.Device.Server.IBM z16-3931.RequiredService
+- /SM590000 Keep members of the sysplex at the same software level, except during brief migration periods.
+- /SM590000 Upgrade Coupling Facility LPARs to current levels (review all structure sizes by using the CFSIZER tool before the CF is upgraded).
+- /SM590000 Review any restrictions and migration considerations before creating an upgrade plan.
+- /SM590000 Acknowledge that some hardware features cannot be ordered or carried forward for an upgrade from an earlier server to IBM z16 and plan accordingly.
+

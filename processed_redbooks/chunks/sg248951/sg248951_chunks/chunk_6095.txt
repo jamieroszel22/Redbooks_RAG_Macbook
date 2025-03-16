@@ -1,0 +1,8 @@
+aphic Functions
+
+Attached to every PU (core) of an IBM z16 system are two independent engines: one for compression and one for cryptographic functions, as shown in Figure 6-4.
+
+<!-- missing-text -->
+
+This cryptographic coprocessor, which is known as the CPACF , is not qualified as an HSM; therefore, it is not suitable for handling algorithms that use secret keys. However, the coprocessor can be used for cryptographic algorithms that use clear keys or protected keys. The CPACF works synchronously with the PU, which means that the owning processor is busy when its coprocessor is busy. This setup provides a fast device for cryptographic services.
+

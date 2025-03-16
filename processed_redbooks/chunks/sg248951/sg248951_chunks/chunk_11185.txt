@@ -1,0 +1,26 @@
+ charging can occur.
+
+Ordering and installing IBM Z Flexible Capacity for Cyber Resilience
+
+To facilitate ordering Flex Capacity, the following Capacity on-Demand feature codes (FC) were introduced:
+
+- /SM590000 Flexible Capacity Authorization (FC 9933)
+- /SM590000 Flexible Capacity Transfer Record (FC 0376)
+- /SM590000 Billing feature codes (Feature Codes 0317 - 0322, and 0378 - 0386)
+
+FC 9933 and 0376 must be active on each machine that is participating in Flexible Capacity for Cyber Resiliency.
+
+A new Capacity on-Demand contract attachment also must be signed by the customer.
+
+Terms and conditions of IBM Z Flexible Capacity for Cyber Resiliency
+
+The terms and conditions of IBM Z Flexible Capacity for Cyber Resiliency are listed in Table D-1.
+
+<!-- missing-text -->
+
+IBM Z Flexible Capacity for Cyber Resilience versus Capacity Back Up
+
+Flexible Capacity and Capacity Back Up (CBU) feature different purposes and limitations, as listed in Table D-2.
+
+<!-- missing-text -->
+

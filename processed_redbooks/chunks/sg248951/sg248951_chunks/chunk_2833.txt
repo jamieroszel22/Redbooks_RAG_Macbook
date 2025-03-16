@@ -1,0 +1,10 @@
+AI to the transactions that were completed. This innovative technology also can be used for intelligent IT workloads placement algorithms, which contributes to the better overall system performance.
+
+The Telum processor also integrates powerful mechanisms of data prefetch, fast and high capacity level 1 (L1) and level 2 (L2) caches, enhanced branch prediction, and other improvements and innovations that streamlines the data processing by the AI accelerator. The hardware, firmware, and software are vertically integrated to deliver the new AI for inference functions seamless to the applications.
+
+The location of the integrated accelerator for AI on the Telum chip is shown in Figure 3-14.
+
+<!-- missing-text -->
+
+The AI accelerator is driven by the new Neural Networks Processing Assist (NNPA) instruction.
+

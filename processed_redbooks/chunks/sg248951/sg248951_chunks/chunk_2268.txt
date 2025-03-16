@@ -1,0 +1,16 @@
+witch has one integrated power supply
+- -BMCs are cross wired to the Ethernet switches
+- /SM590000 Redundant SEs
+
+Each SE has two power supplies (N+1) and input power is cross-coupled from the PDUs.
+
+- /SM590000
+- Concurrent CPC upgrades
+- CPC1 to (CPC1 + CPC2) and (CPC1 + CPC2) to (CPC1+CPC2+CPC3) if CPC1 Reserve or CPC2 Reserve features are part of the initial system order (FC 2981 or FC 2982)
+- /SM590000 All PCIe+ I/O drawer MESs are concurrent
+- /SM590000 All LICC model changes are concurrent
+
+System Recovery Boost
+
+With IBM z16, System Recovery Boost feature (first introduced with IBM z15) enables the restoration of service from, and catch up after, planned and unplanned outages faster than on any previous IBM Z with no extra software cost. It also provides faster site switching changeover between systems active in different sites (in a GDPS configured environment).
+

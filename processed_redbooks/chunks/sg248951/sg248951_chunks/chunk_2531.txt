@@ -1,0 +1,8 @@
+llows up to 85 independent logical servers.
+- -z/VM, which can virtualize hundreds to thousands of servers as independently running virtual machines (guests).
+
+- -HiperSockets, which implement virtual LANs between logical partitions (LPARs) within the system.
+- -Efficient data transfer that uses direct memory access (SMC-D), Remote Direct Memory Access (SMC-R), and reduced storage access latency for transactional environments.
+- -The IBM Z Processor Resource/System Manager (PR/SM) is designed for Common Criteria Evaluation Assurance Level 5+ (EAL 5+) certification for security; therefore, an application that is running on one partition (LPAR) cannot access another application on a different partition, which provides essentially the same security as an air-gapped system.
+- -The Secure Execution feature, which securely separates second-level guest operating systems that are running under KVM for Z from each other and securely separates access to second-level guests from the hypervisor.
+

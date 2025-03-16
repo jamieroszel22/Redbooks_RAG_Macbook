@@ -1,0 +1,4 @@
+ted with the image (LPAR).
+
+Many more workloads and software can use zIIP processors, such as the following examples:
+

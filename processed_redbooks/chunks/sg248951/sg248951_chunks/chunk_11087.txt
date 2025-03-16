@@ -1,0 +1,6 @@
+
+- /SM590000 Set your weights and Logicals for all your partitions to match your business needs.
+- /SM590000 Set the efficient number of logicals to support the engines by weight
+- -Assign one or two more logicals than engines by weight.
+- GLYPH&lt;129&gt; For instance, a 20 GCP LPAR processors with a 50% weight, set your logicals to one or two 2 more than 10. Assign the weights and logicals also applies to specialty engines.
+- /SM590000 Assign a suitable number of logical CPs. If you assign too many logical CPs to the LPAR, PR/SM may place them at further distances, reducing efficiency and increasing unnecessary LPAR management. This issue reduces the efficiency of the cache. For more information about the number of Logical CPs defined for an LPAR, please refer to this document: Number of Logical CPs Defined for an LPAR.

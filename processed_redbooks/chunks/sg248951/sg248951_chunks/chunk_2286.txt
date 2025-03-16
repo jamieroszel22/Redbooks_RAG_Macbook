@@ -1,0 +1,20 @@
+
+
+If an upgrade request cannot be accomplished within the configuration, a hardware upgrade is required.
+
+The following upgrade paths for the IBM z16 are shown in Figure 2-26:
+
+<!-- missing-text -->
+
+- /SM590000 IBM z16 A01 to IBM z16 A01 upgrades:
+- -Max39 - Max82, Max125 are concurrent (if FC 2981 or 2982 initially ordered)
+- -No upgrade to Max168 or Max200 (these features are factory-built only)
+- -More I/O drawers can be added based on available space in current frames or I/O expansion frames
+- /SM590000 Any IBM z14 (M/T 3906) to IBM z16 A01:
+- -Feature conversion of installed zAAPs to zIIPs (default) or another processor type
+- -For installed On-Demand Records, change temporary zAAPs to zIIPs (stage the record)
+- /SM590000 Any IBM z15 (M/T 8561) - IBM z16 A01
+- /SM590000 IBM z16 (M/T 3931) - IBM z16 A01:
+- -Model to model MAXxx upgrades cannot be performed if I/O drawers are populating the CPC drawer positions.
+- -Supported model upgrade paths are listed in Table 2-12.
+

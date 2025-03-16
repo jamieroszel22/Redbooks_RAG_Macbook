@@ -1,0 +1,8 @@
+ticipation in the same Parallel Sysplex with IBM z15 and IBM z14. Configurations with z/OS on one of these servers can add an IBM z16 Server to their Sysplex for a z/OS or a Coupling Facility image.
+
+Configurations with a Coupling Facility on one of these servers can add an IBM z16 Server to their Sysplex for a z/OS or a Coupling Facility image. IBM z16 does not support participating in a Parallel Sysplex with System IBM z13/IBM z13s and earlier systems.
+
+Each system can use, or not use, internal coupling links, CE LR links, or ICA SR coupling links independently of what other systems are using.
+
+Coupling connectivity is available only when other systems also support the same type of coupling. For more information about supported coupling link technologies on IBM z16, see 4.6.4, 'Parallel Sysplex connectivity' on page 187, and the Coupling Facility Configuration Options white paper.
+

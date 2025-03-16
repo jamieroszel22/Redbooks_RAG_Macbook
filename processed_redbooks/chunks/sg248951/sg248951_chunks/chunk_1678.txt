@@ -1,0 +1,19 @@
+ /SM590000 Core pervasive unit (PC) for instrumentation and error collection.
+- /SM590000 Modulo arithmetic (MA) unit: Support for Elliptic Curve Cryptography
+
+Vector and Floating point Units (VFU):
+
+- -BFU: Binary floating point unit
+- -DFU: Decimal floating point unit
+- -DFx: Decimal fixed-point unit
+- -FPd: Floating point divide unit
+- -VXx: Vector fixed-point unit
+- -VXs: Vector string unit
+- -VXp: Vector permute unit
+- -VXm: Vector multiply unit
+- /SM590000 L2 - Level 2 cache
+
+2.3.3  PU characterization
+
+The PUs are characterized for client use. The characterized PUs can be used in general to run supported operating systems, such as z/OS, z/VM, and Linux on IBM Z. They also can run specific workloads, such as Java, XML services, IPsec, and some Db2 workloads, or clustering functions, such as the Coupling Facility Control Code (CFCC).
+

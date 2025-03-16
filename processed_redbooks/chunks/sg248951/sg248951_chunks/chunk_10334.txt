@@ -1,0 +1,20 @@
+, including flexible memory, is available during the EDA function. Any physical installed memory, whether purchased or not, is available to be used by the EDA function.
+
+- /SM590000 Single I/O rules
+
+Alternative paths to other drawers must be available, or the I/O path must be taken offline.
+
+Review the results. The result of the preparation task is a list of resources that must be made available before the drawer replacement can occur.
+
+Freeing any resources
+
+At this stage, create a plan to free these resources. The following resources and actions are necessary to free them:
+
+- /SM590000 Freeing any PUs:
+- -Vary off the PUs by using the Perform a Model Conversion window, which reduces the number of PUs in the shared PU pool.
+- -Deactivate the LPARs.
+- /SM590000 Freeing memory:
+- -Deactivate an LPAR.
+- -Vary offline a portion of the reserved (online) memory. For example, in z/OS, run the following command:
+- CONFIG\_STOR(E=1),&lt;OFFLINE/ONLINE&gt;
+

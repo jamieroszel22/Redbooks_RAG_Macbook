@@ -1,0 +1,9 @@
+issing-text -->
+
+6.2.4  Algorithms
+
+The following algorithms of modern cryptography are differentiated based on whether they use the same key for the encryption of the message as for the decryption:
+
+- /SM590000 Symmetric algorithms use the same key to encrypt and decrypt data. The function that is used to decrypt the data is the opposite of the function that is used to encrypt the data. Because the same key is used on both sides of an operation, it must be negotiated between both parties and kept secret. Therefore, symmetric algorithms are also known as secret key algorithms .
+- The main advantage of symmetric algorithms is that they are fast and therefore can be used for large amounts of data, even if they are not run on specialized hardware. The disadvantage is that the key must be known by both sender and receiver of the messages, which implies that the key must be exchanged between them. This key exchange is a weak point that can be attacked.
+

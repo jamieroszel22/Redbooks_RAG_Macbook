@@ -1,0 +1,6 @@
+an for specialized financial applications for secure, long-term storage of keys or secrets. The Crypto Express8S can also be configured as one of the following configurations:
+
+- /SM590000 The Secure IBM CCA coprocessor includes secure key functions with emphasis on the specialized functions that are required for banking and payment card systems. It is optionally programmable to add custom functions and algorithms by using User Defined Extensions (UDX).
+- Payment Card Industry (PCI) PINfi Transaction Security (PTS) Hardware Security Module (HSM) (PCI-HSM), is available for Crypto Express6S and newer in CCA mode. PCI-HSM mode simplifies compliance with PCI requirements for hardware security modules.
+- /SM590000 The Secure IBM Enterprise PKCS #11 (EP11) coprocessor implements an industry-standardized set of services that adheres to the PKCS #11 specification v2.20 and more recent amendments. It was designed for extended FIPS and Common Criteria evaluations to meet industry requirements
+

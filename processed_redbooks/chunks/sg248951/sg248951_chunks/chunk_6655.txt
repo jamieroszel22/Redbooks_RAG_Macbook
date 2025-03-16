@@ -1,0 +1,17 @@
+n Secure IBM Enterprise PKCS #11 (EP11) coprocessor mode provides PKCS #11 secure key support for public sector requirements. Before EP11, the ICSF PKCS #11 implementation supported only clear keys.
+
+In EP11, keys can now be generated and securely wrapped under the EP11 Master Key. The secure keys never leave the secure coprocessor boundary decrypted.
+
+The secure IBM Enterprise PKCS #11 (EP11) coprocessor runs the following tasks:
+
+- /SM590000 Encrypt and decrypt (AES, DES, TDES, and RSA)
+- /SM590000 Sign and verify (DSA, RSA, and ECDSA)
+- /SM590000 Generate keys and key pairs (DES, AES, DSA, ECC, and RSA)
+- /SM590000 HMAC (SHA1, SHA2 or SHA3 [SHA224, SHA256, SHA384, and SHA512])
+- /SM590000 Digest (SHA1, SHS2 or SHA3 [SHA224, SHA256, SHA384, and SHA512])
+- /SM590000 Wrap and unwrap keys
+- /SM590000 Random number generation
+- /SM590000 Get mechanism list and information
+- /SM590000 Attribute values
+- /SM590000 Key Agreement (Diffie-Hellman)
+

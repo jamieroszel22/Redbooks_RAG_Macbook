@@ -1,0 +1,10 @@
+SM590000 RoCE Express3 adapter
+- -Allows guests to use Routable RoCE, Zero Touch RoCE, and SMC-R V2 support.
+- /SM590000 Guest Enablement for the CEX8S crypto adapter and assorted crypto enhancements
+- -Including Quantum Safe API Guest Exploitation Support that is available to dedicated guests.
+- /SM590000 CPU/Core topology location information within z/VM monitor data
+- -Provides a better picture of the system for diagnostic and tuning purposes.
+- /SM590000 Consolidated Boot Loader for guest IPL from SCSI
+
+The following IBM z16 support is not apparent to z/VM:
+

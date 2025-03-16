@@ -1,0 +1,16 @@
+ algorithms as hardware synchronous operations. This configuration holds the PU processing of the instruction flow until the operation completes.
+
+IBM z16 offers the following synchronous functions:
+
+- /SM590000 Data encryption and decryption algorithms for data privacy and confidentially:
+- -Data Encryption Standard (DES):
+- GLYPH&lt;129&gt; Single-length key DES
+- GLYPH&lt;129&gt; Double-length key DES
+- GLYPH&lt;129&gt; Triple-length key DES (also known as Triple-DES)
+- -Advanced Encryption Standard (AES) for 128-bit, 192-bit, and 256-bit keys
+- /SM590000 Hashing algorithms for data integrity, such as SHA-1 and SHA-2.
+- New for IBM z14 ZR1 is SHA-3 support for SHA-224, SHA-256, SHA-384, and SHA-512 and the two extendable output functions as described by the standard SHAKE-128 and SHAKE-256.
+- /SM590000 Message authentication code (MAC):
+- -Single-length key MAC
+- -Double-length key MAC
+

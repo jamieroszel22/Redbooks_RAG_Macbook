@@ -1,0 +1,21 @@
+ation to the HMCs and SEs.
+
+<!-- missing-text -->
+
+10.2.3  Rack Mount HMC and Tower HMC (carry forward only to IBM z16)
+
+For IBM z16, stand-alone HMCs (Tower or Rack Mount) can no longer be ordered.
+
+The following HMC feature codes can be carried forward from previous orders:
+
+- /SM590000 FC 0062
+- /SM590000 FC 0063
+- /SM590000 FC 0082
+- /SM590000 FC 0083
+
+With these HMC feature codes, Driver 51/Version 2.16.0 can be installed to support IBM z16. Also, Driver 51/Version 2.16.0 can be installed on the two HMCs that are provided with the HMA feature FC 0100 on IBM z15.
+
+You also can use the IBM z16 with previous ordered HMCs and no HMA. It is possible to order the HMA FC 0129 later as an MES feature. It then provides new microcode, and no new hardware.
+
+The HMCs can be accessed by using a remote web browser and can manage N-2 generations systems (IBM z16 A01, IBM z15 T02, IBM z15 T01, IBM z14 ZR1, and IBM z14 M0x).
+

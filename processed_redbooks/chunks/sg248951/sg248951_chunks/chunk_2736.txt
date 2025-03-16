@@ -1,0 +1,18 @@
+rawer design
+
+An IBM z16 A01 system can have up to four CPC drawers in a full configuration, with up to 200 PUs that can be characterized for customer use, and up to 40 TB of customer usable memory.
+
+Note: An IBM z16 server with Bulk Power Assembly (BPA) power option is limited to 5 TB per processor drawer (up to 20 TB maximum in a full configuration with four CPC drawers).
+
+The following types of CPC drawer configurations are available for IBM z16 A01:
+
+- /SM590000 One drawer: Max39
+- /SM590000 Two drawers: Max82
+- /SM590000 Three drawers: Max125
+- /SM590000 Four drawers: Max168
+- /SM590000 Four drawers: Max200
+
+Note: Max168 and Max200 are factory-build only. It is not possible to upgrade in the field to Max168 or Max200.
+
+The IBM z16 A01 has up to 24 memory controller units (MCUs) for a Max200 feature (one MCU per PU chip, and up to six MCUs populated per CPC drawer). The MCU configuration uses eight channels Reed-Solomon redundant array of independent memory (RAIM).
+

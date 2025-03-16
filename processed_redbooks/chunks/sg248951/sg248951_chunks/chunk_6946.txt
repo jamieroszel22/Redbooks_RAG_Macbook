@@ -1,0 +1,18 @@
+ired and recommended distribution levels, see the IBM Z website.
+
+6.8.3  Crypto Express8S support of greater than 16 domains
+
+The following prerequisites must be met to support more than 16 domains:
+
+- /SM590000 z/OS V2.5
+- /SM590000 z/OS V2.4 with PTFs
+- /SM590000 z/OS V2.3 with PTFs
+- /SM590000 z/OS V2.2 with the Enhanced Cryptographic Support for z/OS V1.13-V2.2 Web deliverable installed
+- /SM590000 z/VM V7.1 and V7.2 for guest use
+- /SM590000 z/VSE V6.2 with PTFs
+- /SM590000 Linux on IBM Z:
+- -SUSE SLES 15 SP1 with service, SUSE SLES 12 SP4 with service, and SUSE SLES 11 SP4 with service.
+- -Red Hat RHEL 8.0 with service, Red Hat RHEL 7.7 with service, and Red Hat RHEL 6.10 with service.
+- -Ubuntu 18.04.1 LTS with service and Ubuntu 16.04.6 LTS with service.
+- -The support statements for IBM z16 also cover the KVM hypervisor on distribution levels that have KVM support.
+

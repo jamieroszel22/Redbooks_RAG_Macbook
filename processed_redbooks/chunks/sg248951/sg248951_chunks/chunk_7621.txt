@@ -1,0 +1,6 @@
+ supports up to 48 secure sessions per CHPID (the overall maximum of 120 connections is unchanged).
+
+OSA-ICC Enhancements
+
+With HMC 2.14.1 and newer the following enhancements are available:
+

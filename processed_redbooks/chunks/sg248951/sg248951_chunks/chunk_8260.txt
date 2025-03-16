@@ -1,0 +1,12 @@
+CPC drawer feature by adding one or more drawers
+- -Can change the model capacity identifier, the capacity setting, or both
+- -Can add physical memory, PCIe+ I/O drawers, and other hardware features
+
+The model capacity identifier can be concurrently changed. Concurrent upgrades can be performed for permanent and temporary upgrades.
+
+Tip: A CPC drawer feature upgrade can be performed concurrently only for a Max39 or a Max82 machine if feature codes 2981 or 2982 were ordered with the base machine.
+
+LICCC upgrades (MES ordered)
+
+The LICCC provides for system upgrades without hardware changes by activating extra (physically installed) unused capacity. Concurrent upgrades through LICCC can be performed for the following resources:
+

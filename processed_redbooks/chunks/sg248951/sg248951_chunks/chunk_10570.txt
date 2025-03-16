@@ -1,0 +1,8 @@
+n the top of the A frame provide increased hardware capacity, which allows instances of HMC and SE to run collocated on the same physical server. The SE code runs as a virtual guest of the HMC code.
+
+The SE interface can be accessed from the HMC by using the Single Object Operation on the HMC.
+
+The HMA feature FC 0129 consists of the HMC code that is installed on the two 1U rack-mounted servers on the top of the A frame, which are collocated with the SE code. The servers are configured with processor, memory, storage, and networking resources to support all processing and security requirements for running HMC and SE code.
+
+The two HMCs ( HMC1 and HMC2 ) from manufacturing (these names can be changed) are configured as independent HMCs. They are not Primary or Alternative HMCs. HMC Data Replication can be established, if wanted.
+

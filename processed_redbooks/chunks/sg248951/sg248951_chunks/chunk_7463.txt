@@ -1,0 +1,12 @@
+ssor in the same physical processor. If that process is not possible, it attempts to dispatch it in the same node, or then the same CPC drawer where it was dispatched before to maximize cache reuse.
+
+From the perspective of an application, SMT is transparent and no changes are required in the application for it to run in an SMT environment, as shown in Figure 7-1.
+
+<!-- missing-text -->
+
+z/OS
+
+The use of SMT on z/OS requires enabling HiperDispatch, and defining the processor view ( PROCVIEW ) control statement in the LOADxx parmlib member and the MT\_ZIIP\_MODE parameter in the IEAOPTxx parmlib member.
+
+The PROCVIEW statement is defined for the life of IPL, and can have the following values:
+

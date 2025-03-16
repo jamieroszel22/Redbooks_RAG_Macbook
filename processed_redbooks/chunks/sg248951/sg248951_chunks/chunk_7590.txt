@@ -1,0 +1,10 @@
+ilar to SMC-R, this protocol uses shared memory architectural concepts that eliminate TCP/IP processing in the data path, yet preserve TCP/IP Qualities of Service for connection management purposes.
+
+Support in select Linux on IBM Z distributions is now provided for Shared Memory Communications over Direct Memory Access (SMC-D). For more information, see this Linux on IBM Z Blogspot web page.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+Shared Memory Communications Version 2
+
+Shared Memory Communications v2 is available in z/OS V2R4 (with PTFs) and z/OS V2R5.
+

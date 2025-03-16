@@ -1,0 +1,10 @@
+h element has at least one BMC. Two internal Ethernet LAN switches and two SEs, for redundancy, and crossover connectivity between the LANs, are configured so that both SEs can operate on both LANs.
+
+The Hardware Management Consoles (HMCs) and SEs are connected directly to one or two Ethernet Customer LANs. One or more HMCs can be used.
+
+With IBM z16 current ordered systems, the Hardware Management Appliance (HMA, FC 0129) is the only HMC-orderable feature. The HMA is running on the same hardware (virtual appliance) with the Support Elements (the SE code runs as a guest of the HMA).
+
+2.2.4  CPC drawer power
+
+The power for the CPC drawer is a new design. It uses the following combinations of PSUs, Points of Load (POLs), Voltage Regulator Modules (VRMs), and Processor Power Control Cards:
+

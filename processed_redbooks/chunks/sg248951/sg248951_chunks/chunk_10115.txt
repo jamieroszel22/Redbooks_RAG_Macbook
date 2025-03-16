@@ -1,0 +1,11 @@
+t have sufficient dormant resources on the remaining drawers in the system for the evacuation of the drawer that is to be replaced or upgraded. Dormant resources include the following possibilities:
+
+- /SM590000 Unused PUs or memory that is not enabled by LICCC
+- /SM590000 Inactive resources that are enabled by LICCC (memory that is not being used by any activated LPARs)
+- /SM590000 Memory that is purchased with the flexible memory option
+- /SM590000 Extra drawers
+
+The I/O connectivity also must support drawer removal. Most of the paths to the I/O feature redundant I/O interconnect support in the I/O infrastructure (drawers) that enable connections through multiple fan-out cards.
+
+If sufficient resources are not present on the remaining drawers, specific noncritical LPARs might need to be deactivated. One or more PUs or storage might need to be configured offline to reach the required level of available resources. Plan to address these possibilities to help reduce operational errors.
+

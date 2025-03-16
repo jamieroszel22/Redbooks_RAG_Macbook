@@ -1,0 +1,21 @@
+ing-only links can be used to provide STP connectivity.
+
+IBM z16 Precision Time Protocol support
+
+Precision Time Protocol (PTP) is introduced as an alternative to NTP. Consider the following points:
+
+- /SM590000 PTP provides more accurate timestamps to connected devices
+- /SM590000 Initially used for Power Distribution Systems, Telecommunications, and Laboratories
+- /SM590000 Requires Customer Network Infrastructure to be PTP capable
+- /SM590000 IBM z16 provides PTP connectivity direct to the CPC
+
+4.7  Cryptographic functions
+
+Cryptographic functions are provided by the CP Assist for Cryptographic Function (CPACF) and the PCI Express cryptographic adapters. IBM z16 servers support the Crypto Express8S, and as carry forward, Crypto Express7S and crypto Express6S features.
+
+4.7.1  CPACF functions (FC 3863)
+
+FC 3863 is required to enable Cryptographic functions (subject to export regulations).
+
+4.7.2  Crypto Express8S feature (FC 0908 and FC 0909)
+

@@ -1,0 +1,6 @@
+ for z/VM 7.1 and 7.2.
+
+Additionally, consider collecting the z/OS SMF 99 Subtype 14 records for all LPARs in the IBM z16. Record has a single LPAR scope, so need all LPARs to get the total picture.
+
+z/OS SMF 99 Subtype 14 contains HiperDispatch Topology data including:
+

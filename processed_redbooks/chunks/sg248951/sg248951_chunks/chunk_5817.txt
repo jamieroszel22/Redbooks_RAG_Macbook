@@ -1,0 +1,16 @@
+fan-out adapter, and the sequence of this port on the adapter.
+
+A CHPID is assigned to a physical port by defining the corresponding PCHID or AID in the I/O configuration definitions.
+
+Control units
+
+A control unit provides the logical capabilities that are necessary to operate and control an I/O device. It adapts the characteristics of each device so that it can respond to the standard form of control that is provided by the CSS.
+
+A control unit can be housed separately or can be physically and logically integrated with the I/O device, channel subsystem, or within the IBM Z server.
+
+I/O devices
+
+An I/O device provides external storage, a means of communication between data-processing systems, or a means of communication between a system and its environment. In the simplest case, an I/O device is attached to one control unit and is accessible through one or more channel paths that are connected to the control unit.
+
+5.1.2  Multiple subchannel sets
+

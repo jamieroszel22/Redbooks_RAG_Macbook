@@ -1,0 +1,19 @@
+a host memory to the main memory storage devices.
+
+The CPC drawer memory topology of an IBM z16 is shown in Figure 2-20.
+
+<!-- missing-text -->
+
+Consider the following points regarding the topology:
+
+- /SM590000 Six memory controllers populated per drawer, one per PU chip (two chips do not have their MCUs populated).
+- /SM590000 Each memory controller supports eight DIMM slots.
+- /SM590000 The eight DIMMs on a controller are all the same size.
+- /SM590000 Four, five, or six memory controllers per drawer are populated (32, 40, or 48 DIMMs).
+- /SM590000 Different memory controllers might have different size DIMMs.
+- /SM590000 Features with different DIMMs sizes can be mixed in the same drawer.
+- /SM590000 The eight DIMMs per MCU must be the same size.
+- /SM590000 Addressable memory is required for partitions and HSA.
+
+2.5.2  Redundant array of independent memory
+

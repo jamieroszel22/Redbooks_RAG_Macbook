@@ -1,0 +1,10 @@
+the cryptographic definitions in the image profile for the partition. With this function, the cryptographic feature can be added and removed dynamically, without stopping a running operating system.
+
+For more information about the management of Crypto Express8S, see IBM z16 Configuration Setup , SG24-8960.
+
+6.6  Trusted Key Entry workstation
+
+The TKE workstation is an optional feature that offers key management functions. It can be a TKE tower workstation (FC 0058) or TKE rack-mounted workstation (FC 0077) for IBM z16 systems to manage Crypto Express8S, Crypto Express7S, or Crypto Express6S.
+
+The TKE contains a combination of hardware and software. A mouse, keyboard, flat panel display, PCIe adapter, and a writable USB media to install the TKE Licensed Internal Code (LIC) are included with the system unit. The TKE workstation requires an IBM 4770 crypto adapter.
+

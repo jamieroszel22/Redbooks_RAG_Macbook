@@ -1,0 +1,4 @@
+
+- /SM590000 IBM z/OS Container Extensions (zCX), which enables the ability to run almost any Linux on IBM Z Docker container in z/OS alongside existing z/OS applications and data without a separate provisioned Linux server.
+- /SM590000 Easier integration of z/OS into private and multi-cloud environments with improvements that deliver a more robust, easy to use, and highly available implementation that uses IBM Cloud Provisioning and Management for z/OS, IBM z/OS Cloud Broker, and IBM Cloud Storage Access for z/OS Data.
+- /SM590000 Enhancements that continue to simplify and modernize the z/OS environment for a better user experience and improved productivity by reducing the level of IBM Z specific skills that are required to maintain z/OS.

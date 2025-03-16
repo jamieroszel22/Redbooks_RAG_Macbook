@@ -1,0 +1,10 @@
+rawer packaging. Each DCM is cooled by water flowing through a manifold assembly where cold plates are attached and used to help remove the heat from the processor chips.
+
+2.3.1  Processor unit chip
+
+A schematic representation of the PU chip is shown in Figure 2-14.
+
+<!-- missing-text -->
+
+The IBM z16 Model A01 PU chip (two chips packaged on each DCM) includes the following features and improvements:
+

@@ -1,0 +1,7 @@
+r configuration granularity. The first dimension is adding CPs to the configuration. The second is changing the capacity setting of the CPs currently installed to a higher model capacity identifier.
+
+IBM z16 allows the concurrent and nondisruptive addition of processors to a running logical partition (LPAR). As a result, you can have a flexible infrastructure to which you can add capacity. This function is supported by z/OS, z/VM, and z/VSE. This addition is made by using one of the following methods:
+
+- /SM590000 With planning ahead for the future need of extra processors. Reserved processors can be specified in the LPAR's profile. When the extra processors are installed, the number of active processors for that LPAR can be increased without the need for a partition reactivation and initial program load (IPL).
+- /SM590000 Another (easier) way is to enable the dynamic addition of processors through the z/OS LOADxx member. Set the DYNCPADD parameter in member LOADxx to ENABLE .
+

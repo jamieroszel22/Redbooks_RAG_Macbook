@@ -1,0 +1,12 @@
+d as Vertical Low
+- /SM590000 VL Nvr Pk: Number of LCPs categorized as Vertical Low Never Parked
+- /SM590000 VL Nvr Pk%: Percent of time the partition's Vertical Low Never Parked LCPs are committed.
+
+When input fields are modified on the Partition Detail Report window, results on the HiperDispatch window will also be updated. Note that when exiting the HiperDispatch window, any changes made to the Partition Detail Report window are not automatically reset.
+
+Note: For GP or IFL partitions where HiperDispatch is not supported, only the VMs and VM% columns apply. For ICF partitions, none of the HiperDispatch columns apply.
+
+12.9.6  IBM zPCR Topology Report
+
+Starting with the z16, a new Topology Report window is available. In order to view it, the z16 configuration must have been generated via EDF for a configuration where CPU MF was enabled. The Topology window portrays how the partition's logical CPs and their classification are distributed:
+

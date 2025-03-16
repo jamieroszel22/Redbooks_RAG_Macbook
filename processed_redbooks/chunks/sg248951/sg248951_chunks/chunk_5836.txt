@@ -1,0 +1,18 @@
+chine or upgrade also us available from the IBM Resource Link (log-in required). Contact your IBM technical sales representative for the name of the file to download.
+
+5.3  Channel subsystem summary
+
+IBM z16 A01 systems support the channel subsystem features of multiple LCSS, MSS, and the channel spanning that is described in this chapter. The channel subsystem capabilities of IBM z16 A01 systems are listed in Table 5-1.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Chapter 6.
+
+6
+
+Cryptographic features
+
+This chapter describes the hardware cryptographic functions that are available on IBM z16. The CP Assist for Cryptographic Function (CPACF), together with the IBM Peripheral Component Interconnect Express (PCIe) cryptographic coprocessors (PCIeCC), offer a balanced use of processing resources and unmatched scalability for fulfilling pervasive encryption demands.
+

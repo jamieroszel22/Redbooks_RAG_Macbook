@@ -1,0 +1,19 @@
+have a maximum of 82 client PUs
+- /SM590000 Feature Max125 (three CPC Drawers) can have a maximum of 125 client PUs
+- /SM590000 Feature Max168 (four CPC Drawers) can have a maximum of 168 client PUs
+
+- /SM590000 Feature Max200 (four CPC Drawers) can have a maximum of 200 client PUs
+- /SM590000 Model capacity identifiers 4 xx , 5 yy , 6 yy , or 7 nn
+
+The xx is a range of 00 - 39 2 , yy is a range of 01 - 39, and nn is a range of 01 - 99, A0 - K0, where A0 represents the decimal number 100, which combines the character A with decimal 0 and where K0 represents the decimal number 200. It is obtained by continuing the hexadecimal counting to the following values:
+
+- -F = 15
+- -G = 16
+- -H = 17
+- -I = 18
+- -J = 19
+- -K = 20
+- -Adding the decimal digit 0 to make 200
+
+An IBM z16 A01 with 200 client usable processors is an IBM z16 7K0. The model capacity identifier describes how many CPs are characterized ( xx , yy , or nn ) and the capacity setting (4, 5, 6, or 7) of the CPs.
+

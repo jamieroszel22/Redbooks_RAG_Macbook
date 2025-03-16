@@ -1,0 +1,29 @@
+ternative: Apply and activate all Pended MCLs disruptively with a scheduled Power On Reset (POR)
+
+To discover this 'Pended' situation, the following actions are completed whenever an MCL is applied:
+
+- /SM590000 Log on to the HMC and select System Management → CPC
+- /SM590000 Change Management
+- /SM590000 System Information
+- /SM590000 Query Additional Actions
+
+Or:
+
+- /SM590000 Log on to the SE and select System Management → CPC
+- /SM590000 Change Management
+- /SM590000 Query Channel/Crypto Configure Off/On Pending
+
+Microcode installation by MCL Bundle target
+
+A Bundle is a set of MCLs that are grouped during testing and released as a group on the same date. You can install an MCL to a specific target Bundle level.
+
+The System Information window is enhanced to show a summary Bundle level for the activated level, as shown in Figure 10-28.
+
+<!-- missing-text -->
+
+10.5.6  Monitoring
+
+This section describes monitoring considerations.
+
+Monitor task group
+

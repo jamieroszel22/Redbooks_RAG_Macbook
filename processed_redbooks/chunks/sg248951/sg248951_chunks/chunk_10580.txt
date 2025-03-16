@@ -1,0 +1,14 @@
+b page, select Library , the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide .
+
+10.3.1  Hardware Management Appliance connectivity
+
+On IBM z16, two HMCs are delivered with the HMA FC 0129. The HMC code runs on the two integrated 1U rack-mounted servers on the top of the A frame. Stand-alone HMCs (Tower or Rack Mount) can no longer be ordered.
+
+With IBM z16 and HMA, the SE code runs virtualized on the two integrated HMCs on the two integrated 1U rack-mounted servers on the top of the IBM z16 A frame. One SE is the Primary SE (active) and the other is the Alternative SE (backup).
+
+With the HMA, each HMC and each SE has its own two physical Ethernet RJ45 ports, as shown in Figure 10-17. The red lines highlights the Ethernet connectivity for the SEs; the green lines highlight the HMCs.
+
+<!-- missing-text -->
+
+10.3.2  Stand-alone HMC connectivity
+

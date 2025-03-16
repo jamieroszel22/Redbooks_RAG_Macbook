@@ -1,0 +1,10 @@
+ FP-16 FMA SIMD, which are optimized for matrix multiplication and convolution, and 32 processor tiles with 8-way FP-16/FP-32 SIMD, which is optimized for activation functions and complex functions.
+
+The integrated AI accelerator delivers more than 6 TFLOPs per chip and over 200 TFLOPs in the 32 chip system (a fully configured IBM z16 with four CPC drawers).
+
+The AI accelerator is shared by all cores on the chip. The firmware, which is running on the cores and accelerator, orchestrates and synchronizes the execution on the accelerator.
+
+How to use IBM Z Integrated AI Accelerator in your enterprise
+
+This chart that is shown in Figure B-3 shows the high level of seamless integration of AI accelerator into enterprise AI/ML solution stack. Great flexibility and interoperability are realized for training and building models.
+

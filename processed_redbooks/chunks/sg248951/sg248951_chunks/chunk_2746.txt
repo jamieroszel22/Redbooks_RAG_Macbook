@@ -1,0 +1,6 @@
+e PU chips. As in IBM z15, the IBM z16 cache level structure is focused on keeping more data closer to the PU. This design can improve system performance on many production workloads.
+
+HiperDispatch
+
+To help avoid latency in a high-frequency processor design, PR/SM and the dispatcher must be prevented from scheduling and dispatching a workload on any processor available, which keeps the workload in as small a portion of the system as possible. The cooperation between z/OS and PR/SM is bundled in a function that is called HiperDispatch . HiperDispatch uses the IBM z16 cache topology, which features reduced cross-cluster 'help' and better locality for multi-task address spaces.
+

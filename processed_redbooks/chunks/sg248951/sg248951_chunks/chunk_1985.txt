@@ -1,0 +1,12 @@
+ith multiple CPC drawers using Enhanced Drawer Availability (EDA).
+- /SM590000 CFG numbers from 32 to 35 are used on PDU machines only.
+- /SM590000 BPA machines have an upper limit of CFG number 31.
+
+DIMM plugging for the configurations in each CPC drawer do not have to be similar. Each memory 8-slot DIMM bank must have the same DIMM size; however, a drawer can have a mix of DIMM banks.
+
+The support element View Hardware Configuration task can be used to determine the size and quantity of the memory plugged in each drawer. Figure 2-21 on page 41 shows an example of configuration number 27 from the previous tables, and displays the location and description of the installed memory modules.
+
+<!-- missing-text -->
+
+Table 2-9 on page 42 lists the physical memory plugging configurations by feature code from manufacturing when the system is ordered. Consider the following points:
+

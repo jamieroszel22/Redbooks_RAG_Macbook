@@ -1,0 +1,10 @@
+EDF files for it on your system.
+
+For more information about CP3KEXTR, see the IBM Techdoc z/OS Data Extraction Program (CP3KEXTR) for IBM zPCR and IBM zBNA .
+
+Creating EDF file with CP3KVMXT (z/VM)
+
+CP3KVMXT is the VM Extract Utility for IBM zCP3000 and IBM zPCR Capacity Planning Support Tools. CP3KVMXT reads CP Monitor data from a z/VM system, and generates an Enterprise Data File (EDF) of PR/SM, system image, and workload-related measurements for input into the IBM zCP3000 and IBM zPCR capacity planning tools. A CP3KVMXT-created EDF can be used to model interactive VM workloads or workloads under guest operating systems such as Linux and can be concurrently loaded with a CP3KEXTR-created z/OS EDF for the same data intervals.
+
+Note: You should create an EDF file for each z/VM system and load all the EDFs for the same CPC into IBM zPCR at the same time so to ensure that the correct LSPR Workload is assigned to each LPAR. IBM zPCR supports using drag-n-drop for multiple EDF files.
+

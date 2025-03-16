@@ -1,0 +1,14 @@
+ on processor CPU efficiency. Remote cache accesses may take hundreds of machine cycles. SMF 99.14 records are produced every 5 minutes and capture drawer/DCM/chip location data for each logical CP.
+
+In the Topology Reports, IBM zPCR reports 'measured' data and it shows the 'what-is' and not the 'what-if' topology scenarios.
+
+12.9.7  IBM z16 HMC - View Partition Resource Assignments
+
+Note: To access HMC Partition Resource Assignments, you must use the 'Service' logon id or any other user id with the same authority.
+
+At the HMC 'Home' screen click Systems Management, under the task bar and then select your listed target system.
+
+Under 'Tasks' at the bottom right click the Configuration (+) sign. Next, click 'View Partition Resource Assignments'. The panel shown in Figure 12-11 will display:
+
+<!-- missing-text -->
+

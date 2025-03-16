@@ -1,0 +1,23 @@
+itors Dashboard and Environmental Efficiency Statistics tasks on HMC and SE
+
+11.5.1  Environmental monitoring
+
+This section describes energy monitoring HMC and SE tasks.
+
+Energy Optimization Advisor
+
+This window is started from the HMC targeting the system and task under Energy Management. The window displays the following recommendations:
+
+- /SM590000 Thermal Advice
+- /SM590000 Processor Utilization Advice
+
+Select the advice hyperlinks to provide specific recommendations for your system, as shown in Figure 11-10.
+
+<!-- missing-text -->
+
+Monitors Dashboard task
+
+In IBM z16 servers, the Monitors Dashboard task in the Monitor task group provides a tree-based view of resources. Multiple graphical views display data, including history charts. This task monitors processor and channel usage. It produces data that includes power monitoring information, power consumption, and the air input temperature for the server.
+
+An example of the Monitors Dashboard task is shown in Figure .
+

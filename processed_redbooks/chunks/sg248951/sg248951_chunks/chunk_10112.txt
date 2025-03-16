@@ -1,0 +1,10 @@
+es. Consider the flexible memory option to provide more memory resources when you are replacing a drawer.
+
+For more information about flexible memory, see 2.5.7, 'Flexible Memory Option' on page 46.
+
+To minimize the effect on current workloads, ensure that sufficient inactive physical resources exist on the remaining drawers to complete a drawer removal. Also, consider deactivating noncritical system images, such as test or development LPARs. After you stop these noncritical LPARs and free their resources, you might find sufficient inactive resources to contain critical workloads while completing a drawer replacement.
+
+9.8.1  EDA planning considerations
+
+To use the EDA function, configure enough physical memory and engines so that the loss of a single drawer does not result in any degradation to critical workloads during the following occurrences:
+

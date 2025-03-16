@@ -1,0 +1,12 @@
+pto Express8S (2 HSM), Crypto Express8S (1 HSM), Crypto Express7S (2 port), Crypto Express7S (1 port), or Crypto Express6S.
+
+The Crypto Express7S feature occupies one I/O slot in a PCIe+ I/O drawer.
+
+Each adapter can be configured as a Secure IBM CCA coprocessor, Secure IBM Enterprise PKCS #11 (EP11) coprocessor, or accelerator.
+
+Crypto Express7S provides domain support for up to 85 logical partitions.
+
+The accelerator function is designed for maximum-speed Secure Sockets Layer and Transport Layer Security (SSL/TLS) acceleration, rather than for specialized financial applications for secure, long-term storage of keys or secrets.
+
+The Crypto Express7S can also be configured as one of the following configurations:
+

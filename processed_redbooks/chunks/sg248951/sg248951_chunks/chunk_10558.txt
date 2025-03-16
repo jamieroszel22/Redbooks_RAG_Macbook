@@ -1,0 +1,14 @@
+ion is available, such as the installed bundle level.
+
+An example of the new Dashboard is shown in Figure 10-4.
+
+<!-- missing-text -->
+
+- /SM590000 N-mode Power STP Imminent disruption Signal option
+
+With IBM z16, a new recovery signal was implemented (N-mode power) for STP recovery. A CTN with IBM z16 for the Primary Time Server and the Backup Time server can be enabled (configured) to recover from a PTS or CTS failure by using the N-mode power (imminent power failure on the CTS [IBM z16 hardware] that is configured with dual utility power).
+
+For more information, see the IBM Z Server Time Protocol Guide , SG24-8480.
+
+- /SM590000 BCPii enhancements for SE restarts
+

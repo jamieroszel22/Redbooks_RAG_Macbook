@@ -1,0 +1,14 @@
+iceability, and usability of OSA-Express cards.
+
+These commands apply to CHPID type OSD. The supported operating systems are listed in Table 7-8 on page 259.
+
+QDIO data connection isolation for z/VM
+
+The QDIO data connection isolation function provides a higher level of security when sharing an OSA connection in z/VM environments that use VSWITCH. The VSWITCH is a virtual network device that provides switching between OSA connections and the connected guest systems.
+
+QDIO data connection isolation allows disabling internal routing for each QDIO connected. It also provides a means for creating security zones and preventing network traffic between the zones.
+
+QDIO data connection isolation is supported by all OSA-Express features on IBM z16. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+QDIO interface isolation for z/OS
+

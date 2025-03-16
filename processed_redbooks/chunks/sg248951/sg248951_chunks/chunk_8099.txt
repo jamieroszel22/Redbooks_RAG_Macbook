@@ -1,0 +1,11 @@
+f the application for a specific system architecture within the constraints that are imposed by the ARCHITECTURE option. The TUNE level must not be lower than the setting in the ARCHITECTURE option.
+
+Important: Use the previous IBM Z ARCHITECTURE or TUNE options for C/C++ programs if the same applications run on the previous IBM Z servers. However, if C/C++ applications run on IBM z16 servers only, use the latest ARCHITECTURE and TUNE options to ensure that the best performance possible is delivered through the latest instruction set additions.
+
+For more information about the ARCHITECTURE , TUNE , and VECTOR compiler options, see z/OS XL C/C++ User's Guide, SC14-7307-40.
+
+z/OS XL C/C++ Web deliverables are available at no charge to z/OS XL C/C++ customers:
+
+- /SM590000 Based on open-source LLVM infrastructure; supports up to date C++ language standards
+- /SM590000 64-bit, UNIX System Services only
+

@@ -1,0 +1,14 @@
+t (POR) and the PUs are characterized .
+
+Only characterized PUs include a designated function. Non-characterized PUs are considered spares. You must order at least one CP, IFL, or ICF on an IBM z16.
+
+This design brings outstanding flexibility to IBM z16 servers because any PU can assume any available characterization. The design also plays an essential role in system availability because PU characterization can be done dynamically, with no system outage.
+
+For more information about software level support of functions and features, see Chapter 7, 'Operating system support' on page 247.
+
+Concurrent upgrades
+
+For all IBM z16 A01 features that have more processor units (PUs) installed (non-characterized) than activated, concurrent upgrades can be done by using LIC activation. This activation assigns a PU function to a previously non-characterized PU. No hardware changes are required.
+
+The upgrade can be done concurrently through the following facilities:
+

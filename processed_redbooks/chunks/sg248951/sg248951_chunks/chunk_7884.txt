@@ -1,0 +1,20 @@
+ew the z/OS Upgrade Workflow for z/OSMF that is provided with APAR OA62703 for z/OS V2R2 and higher. This Workflow also is available in the IBM Documentation library.
+
+7.5.2  Hardware Fix Categories
+
+Base support includes fixes that are required to run z/OS on the IBM z16 server. They are identified by:
+
+IBM.Device.Server.IBM z16-3931.RequiredService
+
+The use of many functions covers fixes that are required to use the capabilities of the IBM z16 servers. They are identified by:
+
+IBM.Device.Server.IBM z16-3931.Exploitation
+
+Recommended service is identified by:
+
+IBM.Device.Server.IBM z16-3931.RecommendedService
+
+General z/OS support documentation provided in the PSP Bucket. For IBM z16 A01: PSP Bucket Upgrade = 3931DEVICE, Subset = 3931/ZOS .
+
+Consider the following other Fix Categories of Interest:
+

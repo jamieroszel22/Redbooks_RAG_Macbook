@@ -1,0 +1,14 @@
+CF image. In this example, the scope over which IRD has control is the defined LPAR cluster.
+
+<!-- missing-text -->
+
+IRD features the following characteristics:
+
+- /SM590000 IRD processor management
+
+WLM dynamically adjusts the number of logical processors within an LPAR and the processor weight based on the WLM policy. The ability to move the processor weights across an LPAR cluster provides processing power where it is most needed, based on WLM goal mode policy.
+
+The processor management function is automatically deactivated when HiperDispatch is active. However, the LPAR weight management function remains active with IRD with HiperDispatch. For more information about HiperDispatch, see 3.7, 'Logical partitioning' on page 117.
+
+HiperDispatch manages the number of logical CPs in use. It adjusts the number of logical processors within an LPAR to achieve the optimal balance between CP resources and the requirements of the workload.
+

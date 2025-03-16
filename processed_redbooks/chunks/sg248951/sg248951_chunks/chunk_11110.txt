@@ -1,0 +1,10 @@
+grated Accelerator for AI
+
+This appendix provides a short overview of the new IBM Z Integrated Accelerator for Artificial Intelligence that is implemented in the IBM z16 processor (Telum).
+
+Overview
+
+Each generation of the IBM Z processing chip was enhanced with new on-chip functions, such as compression, sort, cryptography, and vector processing. The purpose-built accelerators that provide these functions mean lower latency and higher throughput for specialized operations. These accelerators work together with advanced chip design features such as data prefetch, high capacity L1 and L2 caches, branch prediction, and other innovations.
+
+The on-chip accelerators provide support for and enable compliance with security policies because the data is not leaving the platform to be processed. The hardware, firmware, and software are vertically integrated to seamlessly deliver this function to the applications.
+

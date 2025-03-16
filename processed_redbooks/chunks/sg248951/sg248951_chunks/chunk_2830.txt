@@ -1,0 +1,10 @@
+le records, the record length (LRECL) must be greater than 24
+- /SM590000 zHPF is unavailable for a sort that cannot be performed entirely in memory
+- /SM590000 Insufficient amount of sort workspace
+
+3.4.6  IBM Integrated Accelerator for Artificial Intelligence (on-chip)
+
+The IBM Z processor chip was enhanced from one generation to another. This enhancement enables various data manipulations (such as compression, sorting, cryptography) directly in hardware, on the processor chip by way of purpose-built accelerators. It also provides eligible workloads with low latency time, high performance, and high throughput.
+
+The new IBM z16 microprocessor chip, also called the IBM Telum processor , integrates a new AI accelerator. This innovation brings incredible value to applications and workloads that are running on IBM Z platform.
+

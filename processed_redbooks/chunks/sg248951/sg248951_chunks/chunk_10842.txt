@@ -1,0 +1,14 @@
+ the bottom of the machine.
+
+For more information, see IBM 8561 Installation Manual for Physical Planning , GC28-7015, and 11.4, 'Physical planning' on page 464.
+
+11.4.4  Bottom Exit cabling feature
+
+The Bottom Exit cabling feature (FC 7899) is required for raised floor environments, where I/O cabling or power cords must exit from the bottom of the frame. This feature includes the hardware to allow bottom exit, and other components for cable management and filler plates to preserve the recommended air circulation, as shown in Figure 11-7.
+
+<!-- missing-text -->
+
+11.4.5  Frame Bolt-down kit
+
+An Earthquake Kit, RF (FC 8014 and FC 8015) is available for the IBM z16. The kit provides hardware to enhance the ruggedness of the frame, the frame stiffener, and to tie down the frame to a concrete floor.
+

@@ -1,0 +1,15 @@
+ The IBM z16 is no exception. It has a new processor chip design with each processor unit (PU) running at 5.2 GHz. IBM 16 provides 17% more processor capacity per CPC drawer compared to the IBM z15.
+
+The new processor chip design has a new cache hierarchy, on-chip AI accelerator that is shared by the PU cores, transparent memory encryption, and increased uniprocessor capacity (single thread and SMT similar).
+
+The on-chip AI scoring logic provides submicrosecond AI inferencing for deep learning and complex neural network models.
+
+The redesigned cache structure features the following cache sizes:
+
+- /SM590000 256 KB L1 per PU core
+- /SM590000 32 MB semi-private L2 per PU core
+- /SM590000 256 MB (logical) shared victim virtual L3 per chip
+- /SM590000 2 GB (logical) shared victim virtual L4 per CPC drawer
+
+The result is improved system performance and scalability with 1.5x more cache capacity per core over the IBM z15 and reduced average access latency through a flatter topology.
+

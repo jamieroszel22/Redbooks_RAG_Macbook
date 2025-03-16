@@ -1,0 +1,20 @@
+es the result in the register vector A (A = A + B).
+
+A schematic representation of a SIMD instruction with 16-byte size elements in each vector operand is shown in Figure 3-9.
+
+<!-- missing-text -->
+
+The vector register file overlays the floating-point registers (FPRs), as shown in Figure 3-10. The FPRs use the first 64 bits of the first 16 vector registers, which saves hardware area and power, and makes it easier to mix scalar and SIMD codes. Effectively, the core gets 64 FPRs, which can further improve FP code efficiency.
+
+<!-- missing-text -->
+
+SIMD instructions include the following examples:
+
+- /SM590000 Integer byte to quadword add, sub, and compare
+- /SM590000 Integer byte to doubleword min, max, and average
+- /SM590000 Integer byte to word multiply
+- /SM590000 String find 8-bit, 16-bit, and 32-bit
+- /SM590000 String range compare
+- /SM590000 String find any equal
+- /SM590000 String load to block boundaries and load/store with length
+

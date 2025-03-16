@@ -1,0 +1,10 @@
+rted for z/OS 8 . These options are user-specified in IEAOPTxx and can be dynamically altered by using the SET OPT command:
+
+- /SM590000 Option 1: Java dispatching by priority (IIPHONORPRIORITY=YES)
+
+This option is the default option and specifies that CPs must not automatically consider zIIP-eligible work for dispatching on them. The zIIP-eligible work is dispatched on the zIIP engines until Workload Manager (WLM) determines that the zIIPs are overcommitted.
+
+WLM then requests help from the CPs. When help is requested, the CPs consider dispatching zIIP-eligible work on the CPs based on the dispatching priority relative to other workloads. When the zIIP engines are no longer overcommitted, the CPs stop considering zIIP-eligible work for dispatch.
+
+This option runs as much zIIP-eligible work on zIIPs as possible. It also allows it to spill over onto the CPs only when the zIIPs are overcommitted.
+

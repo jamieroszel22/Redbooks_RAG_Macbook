@@ -1,0 +1,18 @@
+meet consolidation needs.
+
+IBM z16 servers CPC continues the line of mainframe processors that are compatible with an earlier version. The IBM z16 brings the following processor design enhancements:
+
+- /SM590000 7 nm silicon lithography
+- /SM590000 Eight cores per PU chip design with 22.5 billion transistors per PU chip
+- /SM590000 Redesigned cache structure that is implemented in dense SRAM
+- /SM590000 Four PU Dual Chip Modules per CPC Drawer
+- /SM590000 Each PU chip features two PCIe Generation 4 ports (x16 @ 32 GBps)
+- /SM590000 Optimized pipeline
+- /SM590000 Improved SMT and SIMD
+- /SM590000 Improved branch prediction
+- /SM590000 Improved co-processor functions (CPACF)
+- /SM590000 IBM integrated accelerator for zEnterprise Data Compression (zEDC) (on-chip compression accelerator)
+- /SM590000 IBM integrated accelerator for Z Sort (on-core sort accelerator)
+- /SM590000 IBM integrated accelerator for AI (on-chip AI accelerator)
+- /SM590000 Transparent memory encryption.
+

@@ -1,0 +1,6 @@
+gn the firmware update files that are sent to the HMC, SE, and TKE. By using a hash algorithm, a message digest is generated that is then encrypted with a private key to produce a digital signature.
+
+This operation ensures that any changes that are made to the data are detected during the upgrade process by verifying the digital signature. It helps ensure that no malware can be installed on IBM Z products during firmware updates. It also enables the IBM z16 Central Processor Assist for Cryptographic Function (CPACF) functions to comply with Federal Information Processing Standard (FIPS) 140-3 Level 1 planned for Cryptographic LIC changes. The enhancement follows the IBM Z focus of security for the HMC and the SE.
+
+The Crypto Express8S (CEX8S) is compliant with CCA PCI HSM. TKE workstation is optional when used to manage a Crypto Express8S feature that is defined as a CCA coprocessor in normal mode.
+

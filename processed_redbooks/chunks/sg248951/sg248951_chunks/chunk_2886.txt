@@ -1,0 +1,10 @@
+ the zIIP-eligible work units are processed by CPs in order of priority. The system ignores the IIPHONORPRIORITY parameter in this case and handles the work as though it had no eligibility to zIIPs.
+
+zIIPs provide the following benefits:
+
+- /SM590000 Potential software cost savings.
+- /SM590000 Simplification of infrastructure as a result of the colocation and integration of new applications with their associated database systems and transaction middleware, such as Db2, IMS, or CICS. Simplification can happen, for example, by introducing a uniform security environment, and by reducing the number of TCP/IP programming stacks and system interconnect links.
+- /SM590000 Prevention of processing latencies that occur if Java application servers and their database servers are deployed on separate server platforms.
+
+The following Db2 UDB for z/OS V8 or later workloads can run in Service Request Block (SRB) mode:
+

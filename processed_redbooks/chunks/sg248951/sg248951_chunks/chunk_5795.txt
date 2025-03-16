@@ -1,0 +1,8 @@
+ndardized set of services that adheres to the PKCS #11 specification v2.20 and more recent amendments. It was designed for extended FIPS and Common Criteria evaluations to meet industry requirements
+
+This cryptographic coprocessor mode introduced the PKCS #11 secure key function.
+
+TKE feature: The Trusted Key Entry (TKE) Workstation feature is required for supporting the administration of the Crypto Express6S when configured as an Enterprise PKCS #11 coprocessor or managing the CCA mode PCI-HSM.
+
+When the Crypto Express8S PCI Express adapter is configured as a secure IBM CCA co-processor, it still provides accelerator functions. However, up to 3x better performance for those functions can be achieved if the Crypto Express8S PCI Express adapter is configured as an accelerator.
+

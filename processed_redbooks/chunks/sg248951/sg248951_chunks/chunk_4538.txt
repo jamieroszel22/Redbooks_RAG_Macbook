@@ -1,0 +1,12 @@
+nded commands.
+- GLYPH&lt;129&gt; One functionally specialized processor for pulling in new commands.
+- GLYPH&lt;129&gt; The remaining processors are nonspecialized for general CF request processing.
+- -Avoids many inter-processor contentions that were associated with CF dispatching
+
+- /SM590000 Enable systems management applications to collect valid CF LPAR information through z/OS BCPii:
+- -System Type (CFCC)
+- -System Level (CFCC LEVEL)
+- -Dynamic Dispatch settings to indicate CF state (dedicated, shared, and Thin Interrupt), which are useful when investigating functional performance problems
+
+To support an upgrade from one CFCC level to the next, different levels of CFCC can be run concurrently while the CF LPARs are running on different servers. CF LPARs that run on the same server share the CFCC level.
+

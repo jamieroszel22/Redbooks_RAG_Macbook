@@ -1,0 +1,18 @@
+:
+
+- /SM590000 Intelligent Power Distribution Unit-based power (iPDU) or PDU
+- /SM590000 Bulk Power Assembly-based power (BPA)
+
+All IBM z16 models include radiator-based cooling (air cooled system).
+
+11.2.1  Intelligent Power Distribution Unit
+
+The iPDUs can be ordered as the following feature codes (FCs), per customer data center power infrastructure requirements:
+
+- /SM590000 60A/3-Phase 'Delta' PDU FC 0645
+- /SM590000 32A/3-Phase 'Wye' PDU FC 0646
+
+A PDU-based system can have 2 - 8 power cords, depending on the configuration. The use of iPDU on IBM z16 might enable fewer frames, which allows for more I/O slots to be available and improves power efficiency to lower overall energy costs. It also offers some standardization and ease of data center installation planning, which allows the IBM z16 to easily coexist with other platforms within the data center.
+
+Power requirements
+

@@ -1,0 +1,16 @@
+>
+
+<!-- missing-text -->
+
+Reminder:
+
+- /SM590000 RNI is not a performance metric.
+- /SM590000 RNI and L1MP allows one to match their workload to an LSPR workload
+- -Any other use of RNI is not valid
+
+Starting with z/OS V2R1 with APAR OA43366, zFS file is no longer required for CPU MF and Hardware Instrumentation Services (HIS). HIS is a z/OS function that collects hardware event data for processors in SMF records type 113, and a z/OS UNIX System Services output files.
+
+Only SMF 113 record is required to know proper workload type by using CPU MF counter data. CPU overhead of CPUMF is minimal. Also, the amount of SMF 113 record is 1% of typical SMF 70 and 72 which RMF writes.
+
+CPU MF and HIS can by used for deciding workload type and other purposes. For example, starting with z/OS V2R1, you can record Instruction Counts in SMF type 30 record when you activate CPU MF. Therefore, we strongly recommend that you always activate CPU MF.
+

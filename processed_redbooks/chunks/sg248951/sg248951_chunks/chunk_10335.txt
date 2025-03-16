@@ -1,0 +1,14 @@
+SM590000 Freeing memory:
+- -Deactivate an LPAR.
+- -Vary offline a portion of the reserved (online) memory. For example, in z/OS, run the following command:
+- CONFIG\_STOR(E=1),&lt;OFFLINE/ONLINE&gt;
+
+This command enables a storage element to be taken offline. The size of the storage element depends on the RSU value. In z/OS, the following command configures offline smaller amounts of storage than the amount that was set for the storage element:
+
+- CONFIG\_STOR(nnM),&lt;OFFLINE/ONLINE&gt;
+- -A combination of both LPAR deactivation and varying memory offline.
+
+Reserved storage: If you plan to use the EDA function with z/OS LPARs, set up reserved storage and an RSU value. Use the RSU value to specify the number of storage units that are to be kept free of long-term fixed storage allocations. This configuration allows for storage elements to be varied offline.
+
+9.9  Concurrent Driver Maintenance
+

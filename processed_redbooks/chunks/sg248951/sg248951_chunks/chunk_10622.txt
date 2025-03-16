@@ -1,0 +1,13 @@
+ to all
+- /SM590000 Activate Native PCIe Pended MCL - LIC on a hardware feature OR Resource Group (RG) LIC:
+- -Display Pending MCLs by using HMC function or Resource Link Machine Information Reports
+
+- -Feature LIC: Activate by using HMC function on a one feature (PCHID) at a time basis - disruptive: CONFIG FUNCTIONs mapped to the feature OFF to all LPARs, activate, and then CONFIG ON
+- -RG LIC: Activate by using HMC function to each RG in turn - disruptive to all PCHIDs in the RG: CONFIG all FUNCTIONs mapped to all PCHIDs in RG1 OFF, activate, then CONFIG ON. Repeat for all PCHIDs in RG2, RG3, RG4
+
+Note: For hardware that does not need CHPID or a FUNCTION definition (for example, Crypto Express), a different method that is specific to the feature is used.
+
+- /SM590000 Alternative: Apply and activate all Pended MCLs disruptively with a scheduled Power On Reset (POR)
+
+To discover this 'Pended' situation, the following actions are completed whenever an MCL is applied:
+

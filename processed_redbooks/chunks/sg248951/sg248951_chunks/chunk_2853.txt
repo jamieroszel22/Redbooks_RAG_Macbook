@@ -1,0 +1,10 @@
+es the superscalar implementation. All IBM Z compilers and JVMs are constantly updated to benefit from new instructions and advances in microprocessor designs.
+
+3.4.14  Extended Translation Facility
+
+The z/Architecture instruction set includes instructions in support of the Extended Translation Facility. They are used in data conversion operations for Unicode data, which causes applications that are enabled for Unicode or globalization to be more efficient. These data-encoding formats are used in web services, grid, and on-demand environments in which XML and SOAP technologies are used. The High Level Assembler supports the Extended Translation Facility instructions.
+
+3.4.15  Instruction set extensions
+
+Thirty new instructions were added to the IBM z16 processor. The following new IBM z16 mnemonics were added to the IBM Z/Architecture:
+

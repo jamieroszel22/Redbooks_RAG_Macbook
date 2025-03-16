@@ -1,0 +1,11 @@
+le only to planned site swap scenarios; therefore, DR testing and real DR scenarios are not the same, which causes compliance issues
+- /SM590000 A lack of standardization makes automation impossible
+
+To overcome these issues, IBM developed the new IBM Z Flexible Capacity for Cyber Resiliency offering.
+
+Flexible Capacity is designed to provide increased flexibility and control to shift production workloads between participating IBM z16 machines at different sites and stay for up to one year.
+
+It helps organizations shift capacity between participating IBM z16 machines at different sites to improve Cyber Resiliency and offers increased flexibility to shift capacity on demand between participating IBM z16 machines at different sites.
+
+By using IBM GDPS, scripts can be run to fully automate Flexible Capacity for Cyber Resiliency capacity shifts between participating IBM z16 machines at different sites.
+

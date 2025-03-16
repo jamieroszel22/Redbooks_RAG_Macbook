@@ -1,0 +1,7 @@
+
+- /SM590000 The number of I/O features that are supported might be affected by the machine power infrastructure (PDU versus BPA). IBM z16 A01 PDU models support a maximum of 12 PCIe+ I/O drawers; BPA models support a maximum of 10 PCIe+ I/O drawers.
+- /SM590000 A maximum of 384 coupling CHPIDs are available for an IBM z16 (as for IBM z15), as a combination of the following examples (not all combinations are possible; subject to I/O configuration options):
+- -Up to 96 ICA SR1.1 and ICA SR ports (48 ICA SR features)
+- -Up to 64 CE2 LR ports (32 CE2 LR features)
+- /SM590000 zEDC PCIe features are not supported. They were replaced by the IBM Integrated Accelerator for zEDC (on PU chip).
+- /SM590000 The maximum combined number of RoCE features that can be installed is 16; that is, any combination of 25 GbE RoCE Express3, 25 GbE RoCE Express2.1, 25 GbE RoCE Express2, 10 GbE RoCE Express3, 10 GbE RoCE Express2.1, and 10 GbE RoCE Express2 features.

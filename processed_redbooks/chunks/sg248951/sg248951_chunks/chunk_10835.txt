@@ -1,0 +1,10 @@
+o-front. Chilled air is provided through perforated floor panels that are placed in rows between the fronts of servers (the cold aisles). Perforated tiles generally are not placed in the hot aisles.
+
+If your computer room causes the temperature in the hot aisles to exceed a comfortable temperature, add as many perforated tiles as necessary to create a satisfactory comfort level. Heated exhaust air exits the computer room above the computing equipment.
+
+For more information about the requirements for air-cooling options, see 3931 Installation Manual for Physical Planning , GC28-7015.
+
+11.3  Physical specifications
+
+This section describes the weights and dimensions of IBM z16 server.
+

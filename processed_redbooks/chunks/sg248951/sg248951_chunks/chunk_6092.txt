@@ -1,0 +1,8 @@
+tation is chosen to operate the Crypto Express8S adapter in an IBM z16, TKE workstation with the TKE 10.0 LIC is required. For more information, see 6.6, 'Trusted Key Entry workstation' on page 239.
+
+Important: Products that include any of the cryptographic feature codes contain cryptographic functions that are subject to special export licensing requirements by the US Department of Commerce. It is your responsibility to understand and adhere to these regulations when you are moving, selling, or transferring these products.
+
+To access and use the cryptographic hardware devices that are provided by IBM z16, the application must use an application programming interface (API) that is provided by the operating system. In z/OS, the Integrated Cryptographic Service Facility (ICSF) provides the APIs and is managing the access to the cryptographic devices, as shown in Figure 6-3.
+
+<!-- missing-text -->
+

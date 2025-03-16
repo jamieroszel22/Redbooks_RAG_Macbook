@@ -1,0 +1,14 @@
+icated mathematical algorithms. Most of these algorithms are based on the prime factorization of large numbers.
+
+Cryptography is used to meet the following requirements:
+
+- /SM590000 Data protection
+
+The protection of data usually is the main concept that is associated with cryptography. Only authorized persons should be able to read the message or get information about it. Data is encrypted by using a known algorithm and secret keys, such that the intended party can de-scramble the data, but an interloper cannot. This concept is also referred to as confidentiality .
+
+- /SM590000 Authentication (identity validation)
+
+This process decides whether the communication partners are who they claim to be, which can be done by using certificates and signatures. It must be possible to clearly identify the owner of the data or the sender and the receiver of the message.
+
+- /SM590000 Message (data) Integrity
+

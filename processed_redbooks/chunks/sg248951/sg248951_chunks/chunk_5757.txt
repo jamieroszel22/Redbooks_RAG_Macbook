@@ -1,0 +1,14 @@
+onsiderable cost savings when configuring a cluster.
+
+IC links are enabled by defining CHPID type ICP. A maximum of 64 IC links can be defined on an IBM z16.
+
+Integrated Coupling Adapter Short Reach
+
+The ICA SR (FC 0172) was introduced with the IBM z13. ICA SR1.1 (FC 0176) was introduced with IBM z15.
+
+ICA SR and ICA SR1.1 are two-port, short-distance coupling features that allow the supported IBM Z to connect to each other. ICA SR and ICA SR1.1 use coupling channel type: CS5.
+
+The ICA SR uses PCIe Gen3 technology, with x16 lanes that are bifurcated into x8 lanes for coupling. ICA SR1.1 uses PCIe Gen4 technology, with x16 lanes that are bifurcated into x8 lanes for coupling.
+
+The ICA SR and SR1.1 are designed to drive distances up to 150 m (492 feet) and supports a link data rate of 8 GBps. It is designed to support up to four CHPIDs per port and eight subchannels (devices) per CHPID.
+

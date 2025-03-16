@@ -1,0 +1,10 @@
+ode fiber 25 Gbps Ethernet LAN or Ethernet switch that is capable of 25 Gbps. The port can be defined as a spanned channel and can be shared among LPARs within and across logical channel subsystems.
+
+The OSA-Express7S 1.2 25 GbE LR feature supports the use of an industry standard small form factor (SFP+) LC Duplex connector. Ensure that the attaching or downstream device includes an LR transceiver. The transceivers at both ends must be the same (LR to LR).
+
+The OSA-Express7S 1.2 25 GbE LR feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+
+A 9 µm single-mode fiber optic cable that ends with an LC Duplex connector is required for connecting this feature to the selected device.
+
+OSA-Express7S 1.2 10 GbE LR (FC 0456)
+

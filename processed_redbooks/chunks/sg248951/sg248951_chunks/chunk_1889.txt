@@ -1,0 +1,18 @@
+sable Memory might be available to support one or more concurrent LIC CC Customer Memory upgrades with no DIMM changes.
+
+IBM z16 implements enhanced RAIM design that includes the following features:
+
+- /SM590000 Eight Channel Reed-Solomon 3  RAIM (IBM z15 uses 5-channel RAIM)
+- /SM590000 90 → 80 DRAMs accessed across memory channels (11% reduction, excluding unused spare)
+- /SM590000 Staggered Memory Refresh → Leverage RAIM to hide memory refresh penalty
+- /SM590000 z16 Memory Buffer Chip Interface:
+- -OpenCapi Memory Buffer (OCMB); Fully (meso)synchronous OCMB
+- -Lane sparing replaced with lane degrade
+- -256 B fetch support, remove 128 B store support
+- /SM590000 Up to 2 TB / MCU → 10TB / Drawer (with six MCUs populated)
+- /SM590000 Host-side Memory Encryption
+
+Encryption occurs post-RAIM encoding, decryption pre-RAIM decoding (support unique key per memory channel)
+
+2.5.3  Memory configurations
+

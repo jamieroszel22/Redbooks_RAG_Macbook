@@ -1,0 +1,16 @@
+rts the following FICON features:
+
+- /SM590000 FICON Express32S LX and SX (FC 0461/0462)
+- /SM590000 FICON Express16SA LX and SX (FC 0436/0437)
+- /SM590000 FICON Express16S+ LX and SX (FC 0427/0428)
+
+The ICON Express32S, FICON Express16SA, and FICON Express16S+ features conform to the following architectures:
+
+- /SM590000 Fibre Connection (FICON)
+- /SM590000 High Performance FICON on Z (zHPF)
+- /SM590000 Fibre Channel Protocol (FCP)
+
+The FICON features provide connectivity between any combination of servers, directors, switches, and devices (control units, disks, tapes, and printers) in a SAN.
+
+Each FICON Express feature occupies one I/O slot in the PCIe+ I/O drawer. Each feature includes two ports, each supporting an LC Duplex connector, with one PCHID and one CHPID that is associated with each port.
+

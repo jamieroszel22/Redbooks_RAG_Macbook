@@ -1,0 +1,16 @@
+le to IBM zPCR, it automatically sets your LPAR configuration. It also makes easy to define the LPAR configuration to the IBM zPCR.
+
+<!-- missing-text -->
+
+12.9.4  IBM z16 Performance Best Practices
+
+Understand and follow the IBM z16 best practices and use the following tips to get the most efficiency, best performance and best throughput of the IBM z16:
+
+- /SM590000 Collect the CPU MF counters (z/OS SMF 113s) on all LPARs. (CPU MF runs on every IBM z16 supported Operating Systems OS), see:
+
+http://www.ibm.com/support/techdocs/atsmastr.nsf/WebIndex/TC000066
+
+- -For z/OS, capture correlator SMF 98 subtype 1.
+- GLYPH&lt;129&gt; Provides supervisor information in five seconds intervals and helps perform performance problem analysis. Check the following White paper: https://www.ibm.com/support/pages/node/6437547
+- /SM590000 z/VM CPU MF is collected in Monitor records. (there is no SMF). For more information, refer to: https://www.vm.ibm.com/perf/tips/cpumf.html
+

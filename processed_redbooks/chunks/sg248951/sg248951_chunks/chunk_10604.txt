@@ -1,0 +1,12 @@
+bilities are remained the same. The figures and descriptions in this section cover only the traditional Processor Resource/Systems Manager (PR/SM) mode.
+
+10.5.1  Central processor complex management
+
+The HMC is the primary place for CPC control. For example, the input/output configuration data set (IOCDS) includes definitions of LPARs, channel subsystems, control units, and devices, and their accessibility from LPARs. IOCDS can be created and put into production from the HMC.
+
+The HMC is used to start the power-on reset (POR) of the system. During the POR, processor units (PUs) are characterized and placed into their respective pools, memory is put into a single storage pool, and the IOCDS is loaded into and started in the hardware system area (HSA).
+
+The hardware messages task displays hardware-related messages at the CPC, LPAR, or SE level. It also displays hardware messages that relate to the HMC.
+
+10.5.2  LPAR management
+

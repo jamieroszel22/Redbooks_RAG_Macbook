@@ -1,0 +1,12 @@
+ms, memory can be assigned as main storage, supporting up to 85 LPARs. Before you activate an LPAR, main storage must be defined to the LPAR. All installed storage can be configured as main storage.
+
+For more information about operating system main storage support, see the PR/SM Planning Guide , SB10-7178.
+
+Memory cannot be shared between system images (LPARs). It is possible to dynamically reallocate storage resources for z/Architecture LPARs that run operating systems that support dynamic storage reconfiguration (DSR). This process is supported by z/OS, and z/VM. z/VM, in turn, virtualizes this support to its guests.
+
+For more information, see 3.7.5, 'LPAR dynamic storage reconfiguration' on page 127.
+
+Operating systems that run as guests of z/VM can use the z/VM capability of implementing virtual memory to guest virtual machines. The z/VM dedicated real storage can be shared between guest operating systems.
+
+LPAR main storage allocation and usage
+

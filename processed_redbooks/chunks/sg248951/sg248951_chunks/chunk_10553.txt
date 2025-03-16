@@ -1,0 +1,16 @@
+needs specific access level). For the GUI and Web Services APIs, the HMC returns a message that indicates that the login failed. No other information is provided.
+
+- /SM590000 HMC/SE TLS 1.3 support
+
+The HMC and SE support TLS 1.3. Before setting the TLS level to 1.3, you must ensure that all services and servers that are connecting by way of TLS to the HMC and SE support TLS 1.3 as well (for example, the remote browser, LDAP Authentication Servers, Web Services API connections, Fibre Channel End Point Security, and FTPS, Single Object Operations).
+
+TLS 1.0 and 1.1 are not supported by Driver 51/Version 2.16.0.
+
+If minimum TLS version is set to 1.2, TLS 1.3 is attempted first and then, falls back to TLS 1.2 if required.
+
+Figure 10-1 shows the HMC window that allows the selection of the wanted TLS version.
+
+<!-- missing-text -->
+
+- /SM590000 HMC/SE certification expiration updates
+

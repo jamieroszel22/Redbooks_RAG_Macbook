@@ -1,0 +1,22 @@
+bserved systems
+- /SM590000 RMF Distributed Data Server is active
+- /SM590000 CIM server is active
+- /SM590000 Security and CIM are customized
+- /SM590000 Capacity Provisioning Manager is customized
+
+The Capacity Provisioning Manager Console is provided as part of z/OSMF, which provides a browser-based interface for managing z/OS systems.
+
+Customizing the capacity provisioning function is required on the following systems:
+
+- /SM590000 Observed z/OS systems
+
+These systems are in one or multiple sysplexes that are to be monitored. For more information about the capacity provisioning domain, see 8.12, 'Planning for nondisruptive upgrades' on page 372.
+
+- /SM590000 Runtime systems
+
+These are systems where the Capacity Provisioning Manager is running, or to which the server can fail over after a system failure.
+
+8.6.3  Ordering
+
+Concurrently installing temporary capacity by ordering On/Off CoD is possible in the following manner:
+

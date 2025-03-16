@@ -1,0 +1,15 @@
+uptive image memory upgrade for this partition. Reserved storage can be defined to central and expanded storage, and to any image mode except CF mode.
+
+An LPAR must define an amount of main storage:
+
+- /SM590000 The initial value is the storage size that is allocated to the partition when it is activated.
+- /SM590000 The reserved value is another storage capacity that is beyond its initial storage size that an LPAR can acquire dynamically. The reserved storage sizes that are defined to an LPAR do not have to be available when the partition is activated. Instead, they are predefined storage sizes to allow a storage increase, from an LPAR perspective.
+
+Without the reserved storage definition, an LPAR storage upgrade is a disruptive process that requires the following steps:
+
+- 1. Partition deactivation.
+- 2. An initial storage size definition change.
+- 3. Partition activation.
+
+The extra storage capacity for an LPAR upgrade can come from the following sources:
+

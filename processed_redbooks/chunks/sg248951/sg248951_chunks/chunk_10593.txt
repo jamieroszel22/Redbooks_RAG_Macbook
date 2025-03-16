@@ -1,0 +1,12 @@
+r's address field, as shown in the following example:
+
+https://[fdab:1b89:fc07:1:201:6cff:fe72:ba7c]
+
+The use of link-local addresses must be supported by your browser.
+
+10.3.7  OSA Support Facility
+
+When OSA/SF was moved from z/OS to the HMC/SE environment, it was noted that it is no longer easy to obtain a global view of all OSA PCHIDs and the monitoring and diagnostic information that was available in the Query Host command.
+
+To address this issue, the following changes were made:
+

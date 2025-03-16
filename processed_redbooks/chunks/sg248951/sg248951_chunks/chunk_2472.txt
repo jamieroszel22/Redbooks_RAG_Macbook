@@ -1,0 +1,15 @@
+s are above the even-numbered BPAs in both frames.
+- /SM590000 The total loss of one BPA in a pair has no effect on system operation.
+
+The following components plug into the BPAs X 2 for redundancy:
+
+- /SM590000 CPC Drawers, I/O Drawers, Switches, Radiators, and Support Elements
+- /SM590000 The redundancy for each component plugs into the paired BPAs
+- For example, for the top Support Element 1, one power supply plugs into BPA1 and the second power supply plugs into the paired BPA2 for redundancy.
+
+Note: Customer power sources should always maintain redundancy across BPA pairs; that is, one power source or distribution panel supplies power for BPA1 and the separate power source or distribution panel supplies power for BPA2.
+
+As a best practice, connect the odd-numbered BPAs (BPA1 and BPA3) to one power source or distribution panel, and the even-numbered BPAs (BPA2 and BPA4) to a separate power source or distribution panel.
+
+2.9.3  Power estimation tool
+

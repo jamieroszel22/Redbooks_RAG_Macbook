@@ -1,0 +1,12 @@
+nd the IBM Enterprise PKCS #11 (EP11) Licensed Internal Code (LIC) were enhanced.
+
+The new features support new standards and meet the following compliance requirements:
+
+- /SM590000 Payment Card Industry (PCI) Hardware Security Module (HSM) certification to strength the cryptographic standards for attack resistance in the payment card systems area. PCI HSM certification is available for Crypto Express8S, Crypto Express7S, and Crypto Express6S.
+- /SM590000 National Institute of Standards and Technology (NIST) through the Federal Information Processing Standard (FIPS) standard to implement guidance requirements.
+- /SM590000 Common Criteria EP11 EAL4.
+- /SM590000 German Banking Industry Commission (GBIC).
+- /SM590000 Visa Format Preserving Encryption (VFPE) for credit card numbers.
+- /SM590000 Enhanced public key Elliptic Curve Cryptography (ECC) for users such as Chrome, Firefox, and Apple's iMessage.
+- /SM590000 Accredited Standards Committee X9 Inc Technical Report-34 (ASC X9 TR-34)
+

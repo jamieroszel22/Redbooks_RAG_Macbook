@@ -1,0 +1,9 @@
+tarts the execution of a Java program, it passes control to the z/OS dispatcher that verifies the availability of a zIIP.
+
+<!-- missing-text -->
+
+The availability is treated in the following manner:
+
+- /SM590000 If a zIIP is available (not busy), the dispatcher suspends the JVM task on the CP and assigns the Java task to the zIIP. When the task returns control to the JVM, it passes control back to the dispatcher. The dispatcher then reassigns the JVM code execution to a CP.
+- /SM590000 If no zIIP is available (all busy), the z/OS dispatcher allows the Java task to run on a standard CP. This process depends on the option that is used in the OPT statement in the IEAOPTxx member of SYS1.PARMLIB.
+

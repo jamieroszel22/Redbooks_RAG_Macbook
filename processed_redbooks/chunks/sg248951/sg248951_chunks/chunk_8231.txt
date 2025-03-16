@@ -1,0 +1,12 @@
+s. The number of engines is converted into Processor Value Units under the IBM Passport Advantagefi terms and conditions.
+
+For more information, see this web page.
+
+- /SM590000 Subcapacity licensing
+
+Subcapacity licensing includes software charges for specific IBM products that are based on the use capacity of the logical partitions (LPARs) on which the product runs.
+
+Subcapacity licensing removes the dependency between the software charges and CPC (hardware) installed capacity.
+
+The subcapacity licensed products are charged monthly based on the highest observed 4-hour rolling average use of the logical partitions in which the product runs.
+

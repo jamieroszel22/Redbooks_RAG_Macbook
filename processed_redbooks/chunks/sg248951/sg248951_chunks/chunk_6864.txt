@@ -1,0 +1,19 @@
+ed for each partition:
+
+- /SM590000 Usage domain index
+- /SM590000 Control domain index
+- /SM590000 PCI Cryptographic Coprocessor Candidate List
+- /SM590000 PCI Cryptographic Coprocessor Online List
+
+This task is accomplished by using the Customize/Delete Activation Profile task, which is in the Operational Customization Group, from the HMC or from the SE. Modify the cryptographic initial definition from the Crypto option in the image profile, as shown in Figure 6-6.
+
+Important: After this definition is modified, any change to the image profile requires a DEACTIVATE and ACTIVATE of the logical partition for the change to take effect. Therefore, this cryptographic definition is disruptive to a running system.
+
+<!-- missing-text -->
+
+The following cryptographic resource definitions are used:
+
+- /SM590000 Control Domain
+
+Identifies the cryptographic coprocessor domains that can be administered from this logical partition if it is set up as the TCP/IP host for the TKE.
+

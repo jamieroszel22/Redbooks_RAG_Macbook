@@ -1,0 +1,2 @@
+onfigured Parallel Sysplex cluster maximizes availability in the following ways:
+

@@ -1,0 +1,12 @@
+ application through Resource Link only.
+
+Prepaid On/Off CoD tokens: Beginning with IBM z16, new prepaid On/Off CoD tokens that are purchased do not carry forward to future systems.
+
+- /SM590000 CBU
+
+This offering allows you to replace model capacity or specialty engines in a backup system that is used in an unforeseen loss of system capacity because of a disaster.
+
+- /SM590000 CPE 1
+
+This offering allows you to replace model capacity or specialty engines because of a relocation of workload during system migrations or a data center move.
+

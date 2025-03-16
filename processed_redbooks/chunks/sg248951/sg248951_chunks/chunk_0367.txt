@@ -1,0 +1,22 @@
+ow for the modernization of assets in web-based applications. They also support the latest IBM middleware products (CICSfi, Db2, and IMS), which allows applications to use their latest capabilities.
+
+To fully use the capabilities of the IBM z16, you must compile it by using the minimum level of each compiler. To obtain the best performance, you must specify an architecture level of 14 by using the ARCH(14) option.
+
+For more information, see 7.5.8, 'z/OS XL C/C++ considerations' on page 321.
+
+1.2  IBM z16 A01 technical overview
+
+This section briefly reviews the following main elements of the IBM z16:
+
+- /SM590000 Frames
+- /SM590000 CPC drawers
+- /SM590000 I/O subsystem and I/O drawers
+- /SM590000 Storage connectivity
+- /SM590000 Network connectivity
+- /SM590000 Clustering connectivity
+- /SM590000 Cryptography
+- /SM590000 Supported connectivity and crypto features
+- /SM590000 Special-purpose features and functions
+
+1.2.1  Frames
+

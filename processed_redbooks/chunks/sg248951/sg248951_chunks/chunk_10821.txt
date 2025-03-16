@@ -1,0 +1,15 @@
+ut notice at the sole discretion of IBM. Information regarding potential future products is intended to outline general product direction and should not be relied on in making a purchasing decision.
+
+For more information about physical planning, see 3931 Installation Manual for Physical Planning , GC28-7015.
+
+11.2  Power and cooling
+
+The IBM z16 server can be a 1 - 4 19-inch rack system, depending on the configuration. Frames are shipped separately in Arbo crates, along with separate front and rear cover sets for each frame boxed on a shipping pallet. The frames are bolted together during the installation procedure.
+
+IBM z16 servers support installation on a raised floor or nonraised floor and are available in the following power and cooling options:
+
+- /SM590000 Intelligent Power Distribution Unit-based power (iPDU) or PDU
+- /SM590000 Bulk Power Assembly-based power (BPA)
+
+All IBM z16 models include radiator-based cooling (air cooled system).
+

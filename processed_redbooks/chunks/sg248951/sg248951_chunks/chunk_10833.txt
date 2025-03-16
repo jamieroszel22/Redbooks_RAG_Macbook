@@ -1,0 +1,16 @@
+ained by using the power estimation tool at IBM Resource Link website (authentication required).
+
+On the Resource Link page, click Tools → Power and weight estimation .
+
+11.2.3  Cooling requirements
+
+The IBM z16 cooling system is manufactured as a radiator (air) cooled system. The dual chip modules (DCMs) are cooled with an internal water loop. The liquid in the internal water circuit is cooled by using a radiator. I/O drawers, PCIe I/O drawers, power enclosures, and CPC drawers are cooled by chilled air with blowers.
+
+The IBM z16 servers include a recommended (long-term) ambient temperature range of 18°C (64.4°F) - 27°C (80.6°F). The minimum allowed ambient temperature is 5°C (41°F); the maximum allowed temperature is 40°C (104°F).
+
+For more information about cooling requirements, see 3931 Installation Manual for Physical Planning , GC28-7015.
+
+Radiator (air) cooling
+
+The following radiator (air) cooling options are available:
+

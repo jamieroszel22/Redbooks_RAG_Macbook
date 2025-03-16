@@ -1,0 +1,5 @@
+rity certification. 1  These optional features also can be configured as Cryptographic Accelerators to enhance the performance of Secure Sockets Layer/Transport Layer Security (SSL/TLS) transactions.
+- /SM590000 Provide on-chip compression. Every PU chip design incorporates a compression unit, which is the IBM Integrated Accelerator for z Enterprise Data Compression (zEDC). This configuration is different from the CMPSC (Compression Coprocessor) that is implemented in each core.
+- /SM590000 Provide a new dedicated on-chip integrated AI Accelerator for high-speed inference to enable real-time AI embedded directly in transactional workloads, and improvements for performance, security, and availability.
+- /SM590000 Be self-managing and self-optimizing, adjusting itself when the workload changes to achieve the best system throughput. This process can be done by using the Intelligent Resource Director or the Workload Manager functions, which are assisted by HiperDispatch.
+

@@ -1,0 +1,14 @@
+
+- /SM590000 Quantum Safe Algorithm enhancements provide:
+- -Updated support for Dilithium signatures:
+- GLYPH&lt;129&gt; Round 2: Level 2 (6 5) and 3 (8 7)
+- GLYPH&lt;129&gt; Round 3: Level 2 (4 4), 3 (6 5) and 5 (8 7)
+- -Add support for Kyber key encapsulation: Round 2: Level 3 (768) and 5 (1024)
+- /SM590000 Quantum Safe protected key support for EP11
+- Host Firmware and EP11 now use a hybrid scheme that combines ECDH and Kyber to accomplish a quantum safe transport key exchange for protected key import.
+- /SM590000 Quantum Safe host firmware management support for EP11
+- Host Firmware and EP11 now use a hybrid scheme for authenticating management functions that are started from the SE/HMC.
+- /SM590000 EP11 for all of CEX8S (5.8.x), CEX7S (4.8.x) and CEX6S (3.8.x):
+- -Support for HSM backed Hierarchical Deterministic Wallets for Bitcoin (BIP 0032 and SLIP 0010)
+- -Hash collision resistant Schnorr signature scheme BSI TR 03111, two variants:
+- GLYPH&lt;129&gt; Plain BSI TR 03111

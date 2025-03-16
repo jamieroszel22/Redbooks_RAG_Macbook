@@ -1,0 +1,14 @@
+rage
+- /SM590000 Supporting infrastructure: IBM Security Guardium Key Lifecycle Manager
+- /SM590000 CPACF enablement (FC 3863)
+
+For more information, see this announcement letter.
+
+FICON Express16SA
+
+FICON Express16SA (carry forward to IBM z16 server) supports a link data rate of 16 gigabits per second (Gbps) and auto negotiation to 8 Gbps for synergy with switches, directors, and storage devices. With support for native FICON, High-Performance FICON for IBM Z (zHPF), and Fibre Channel Protocol (FCP), the IBM z16 server enables you to position your SAN for even higher performance, which helps you to prepare for an end-to-end 16 Gbps infrastructure to meet the lower latency and increased bandwidth demands of your applications.
+
+The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+FICON Express16S+
+

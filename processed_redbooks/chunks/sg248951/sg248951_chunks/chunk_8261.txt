@@ -1,0 +1,9 @@
+ICCC provides for system upgrades without hardware changes by activating extra (physically installed) unused capacity. Concurrent upgrades through LICCC can be performed for the following resources:
+
+- /SM590000 Processors, such as CPs, ICFs, z Integrated Information Processors (zIIPs), IFLs, and SAPs, if unused PUs are available on the installed processor drawers, or if the model capacity identifier for the CPs can be increased.
+- /SM590000 Memory, when unused capacity is available on the installed memory cards. The Flexible memory option is available to give you better control over future memory upgrades. For more information, see 2.5.7, 'Flexible Memory Option' on page 46.
+
+Concurrent hardware installation upgrades (MES ordered)
+
+Configuration upgrades can be concurrent when installing the following resources:
+

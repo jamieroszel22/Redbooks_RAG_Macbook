@@ -1,0 +1,14 @@
+and Log Management task, audit reports can be generated, viewed, saved, and offloaded. The Customize Scheduled Operations task allows you to schedule audit report generation, saving, and offloading.
+
+The Monitor System Events task allows Security Logs to send email notifications by using the same type of filters and rules that are used for hardware and operating system messages.
+
+With IBM z16, you can offload the following HMC and SE log files for customer audit:
+
+- /SM590000 Console event log
+- /SM590000 Console service history
+- /SM590000 Tasks performed log
+- /SM590000 Security logs
+- /SM590000 System log
+
+Full log offload and delta log offload (since the last offload request) are provided. Offloading to removable media and to remote locations by FTP is available. The offloading can be manually started by the new Audit and Log Management task or scheduled by the Customize Scheduled Operations task. The data can be offloaded in the HTML and XML formats.
+

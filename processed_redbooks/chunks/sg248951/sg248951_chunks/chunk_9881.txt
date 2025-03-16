@@ -1,0 +1,24 @@
+cessor cores, cache relocates, N+1 SEEPROM and Point of load (POL) N+2 redundancies, and DRAM marking also are incorporated to reduce touches.
+
+The following RAS enhancements reduce service touches:
+
+- /SM590000 Improved error resolution to enable filtering
+- /SM590000 Enhanced integrated sparing in processor cores
+- /SM590000 Cache relocates
+- /SM590000 N+1 SEEPROM
+- /SM590000 N+2 POL
+- /SM590000 DRAM marking
+- /SM590000 (Dynamic) Spare BUS lanes for PU-PU, PU-MEM, MEM-MEM fabric
+- /SM590000 N+1 Support Element (SE) with N+1 SE power supplies
+- /SM590000 Redundant temperature sensor (one SEEPROM and one temperature sensor per I2C bus)
+- /SM590000 FICON forward error correction
+- /SM590000 A-Bus Lane Sparing
+- /SM590000 OMI Bus Lane Sparing
+- /SM590000 PU Core Sparing
+
+9.6  IBM z16 availability characteristics
+
+The following functions include availability characteristics on IBM z16:
+
+- /SM590000 Enhanced drawer availability (EDA)
+

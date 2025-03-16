@@ -1,0 +1,12 @@
+ SMP/E REPORT MISSINGFIX command to determine whether any FIXCAT APARs exist that are applicable and are not yet installed, and whether any SYSMODs are available to satisfy the missing FIXCAT APARs.
+
+For more information about IBM Fix Category Values and Descriptions, see this IBM Support web page.
+
+7.5.3  z/OS V2.R5
+
+IBM z/OS, Version 2 Release 5 was announced 27 July 2021. One of the highlights of this release is the support of 16 TB real memory per z/OS image. This support allows new workloads that require more storage than is available.
+
+For more information about this release, see this announcement letter.
+
+7.5.4  z/OS V2.R4
+

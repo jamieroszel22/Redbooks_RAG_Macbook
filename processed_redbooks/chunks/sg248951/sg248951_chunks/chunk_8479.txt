@@ -1,0 +1,10 @@
+edures in place to handle these situations. You can deactivate the record manually, allow it to occur automatically, or replenish the specified capacity token by using the Resource Link application.
+
+The Capacity Provisioning Management Console (CPMC) is a console that administrators use to work with provisioning policies and domain configurations and to monitor the status of a Provisioning Manager. The management console is implemented by the Capacity Provisioning task in the IBM z/OS Management Facility (z/OSMF). z/OSMF provides a framework for managing various aspects of a z/OS system through a web browser interface.
+
+Capacity Provisioning Domain
+
+The provisioning infrastructure is managed by the CPM through the Capacity Provisioning Domain (CPD), which is controlled by the Capacity Provisioning Policy (CPP). The CPD is shown in Figure 8-14.
+
+<!-- missing-text -->
+

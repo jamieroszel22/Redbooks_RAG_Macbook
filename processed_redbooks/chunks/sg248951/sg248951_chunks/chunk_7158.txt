@@ -1,0 +1,19 @@
+ st Century Software VSE n  V6.3 was announced in March 2022 and is based on an IBM licensed copy of IBM z/VSE. For more information about this product, visit see the 21 st Century Software website.
+
+7.2.5  z/TPF
+
+IBM z16 support is provided by z/TPF V1R1 with PTFs. For more information about supported functions and their minimum required support levels, see 7.3, 'IBM z16 features and function support overview' on page 252.
+
+7.2.6  Linux on IBM Z
+
+Generally, a new machine is not apparent to Linux on IBM Z. For IBM z16, toleration support is required for the following functions and features:
+
+- /SM590000 IPL in 'z/Architecture' mode
+- /SM590000 Crypto Express8S cards
+- /SM590000 RoCE Express3 adapters
+- /SM590000 8-byte LPAR offset
+
+The service levels of SUSE, Red Hat, and Ubuntu releases that are supported at the time of this writing are listed in Table 7-2.
+
+<!-- missing-text -->
+

@@ -1,0 +1,6 @@
+ir (CDR)
+
+2.6.2  General IBM z16 A01 RAS features
+
+The IBM z16 A01 server includes the following RAS features:
+

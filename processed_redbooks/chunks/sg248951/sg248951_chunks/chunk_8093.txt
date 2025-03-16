@@ -1,0 +1,8 @@
+asurements in SMF 73 Channel Path Activity and SMF 74 subtype 9 PCIe Activity records. It also provides these measurements in the RMF Postprocessor and Monitor III PCIe and Channel Activity reports.
+
+HyperSwap support is enhanced to allow RESERVE processing. When a system runs a request to swap to secondary devices that are managed by HyperSwap, z/OS detects when RESERVEs are held and ensures that the devices that are swapped also hold the RESERVE. This enhancement is provided with collaboration from z/OS, GDPS HyperSwap, and CSM HyperSwap.
+
+7.5.6  Remote dynamic activation of I/O configurations for stand-alone Coupling Facilities, Linux on Z and z/TPF
+
+The remote activation of dynamic changes avoid the need for disruptive hardware/firmware actions (Power-on Reset or IML) to be taken to instantiate those configuration changes, reducing, or completely eliminating the client workload impact that would otherwise have resulted from taking these disruptive actions.
+

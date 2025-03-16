@@ -1,0 +1,10 @@
+ithm within the HMC that is responsible for MFA code generation changes the code every 30 seconds. However, to ease the process, the HMC and SE console accepts current, previous, and next MFA codes.
+
+It is also important to have HMC, SE, and device clocks synchronized. If the clocks are not synchronized, the MFA log-on attempt fails. Time zone differences are irrelevant because the MFA code algorithm uses UTC.
+
+On IBM z15, HMC Driver 41/Version 2.15.0 provides the integration of HMC authentication and z/OS MFA support. Therefore, RSA SecurID authentication is achieved by way of centralized support from IBM MFA for z/OS, with the MFA policy defined in RACF and the HMC IDs assigned to RACF user IDs. The RSA SecurID passcode (from an RSA SecurID Token) is verified by the RSA authentication server. This authentication is supported on HMC only, not on the SE.
+
+The following support was added with IBM z16 Driver 51/Version 2.16.0:
+
+- /SM590000 Enhanced MFA functions
+

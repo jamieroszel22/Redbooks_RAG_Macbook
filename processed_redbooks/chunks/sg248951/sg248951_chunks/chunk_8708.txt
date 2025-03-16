@@ -1,0 +1,11 @@
+Perform Model Conversion task
+- /SM590000 Through automation by using the API on the SE or the HMC
+
+During a real disaster, use the Activate CBU option to activate the 90-day period.
+
+Image upgrades
+
+After CBU activation, the IBM z16 can have more capacity, more active PUs, or both. The extra resources go into the resource pools and are available to the LPARs. If the LPARs must increase their share of the resources, the LPAR weight can be changed or the number of logical processors can be concurrently increased by configuring reserved processors online. The operating system must concurrently configure more processors online. If necessary, more LPARs can be created to use the newly added capacity.
+
+CBU deactivation
+

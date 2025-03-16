@@ -1,0 +1,13 @@
+ed in the following sections. Review the current PSP buckets to ensure that the latest support levels are known and included as part of the implementation plan.
+
+CP Assist for Cryptographic Function
+
+Central Processor Assist for Cryptographic Function (CPACF), which is standard 12  on every IBM z16 core, now supports pervasive encryption. Simple policy controls allow business to enable encryption to protect data in mission-critical databases without stopping the database or re-creating database objects.
+
+Database administrators can use z/OS Dataset Encryption, z/OS Coupling Facility Encryption, z/VM encrypted hypervisor paging, and z/TPF transparent database encryption, which use the performance enhancements in the hardware.
+
+CPACF supports the following features in IBM z16:
+
+- /SM590000 Processor Activity Instrumentation to count cryptographic operations
+- /SM590000 Advanced Encryption Standard (AES, symmetric encryption)
+

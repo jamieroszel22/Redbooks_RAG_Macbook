@@ -1,0 +1,8 @@
+mind-set that stifles innovation and limits the ability for businesses to use the full value of Z technology, especially now as they adapt for digital transformation and the journey to hybrid cloud.
+
+IBM introduced Tailored Fit Pricing (originally for IBM Z software) as a simpler pricing model to allow Z customers to better use their platform investments as their business demands, and in a more cost competitive way. Building on the success of this program, a variable IBM Z hardware model was introduced to extend the value of Tailored Fit Pricing for IBM Z.
+
+With Tailored Fit Pricing models now available across hardware and software, customers can gain more flexibility and control with pricing solutions that can be tailored for business demands, which helps to balance costs while deriving even more value from hybrid cloud.
+
+IBM's Tailored Fit Pricing model can address the following key concerns:
+

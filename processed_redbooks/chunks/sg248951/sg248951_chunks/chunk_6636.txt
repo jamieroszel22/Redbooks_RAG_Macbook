@@ -1,0 +1,20 @@
+ry workstation (TKE) controlled selection of WRAPENH3 as the default TDES key token wrapping method for easier management.
+
+CCA 7.2 and CCA 6.5
+
+The following CCA 7.2 and 6.5 improvements were made:
+
+- /SM590000 AES DUKPT unique key per transaction for AES-based PIN and transaction protection
+- /SM590000 ISO 4 enhanced support for adding AES protected PIN block support to all remaining services that process PIN blocks
+- /SM590000 Format Preserving Encryption (FPE) supports three algorithms that are standardized by NIST and in X9.124: FF1, FF2, and FF2.1
+
+- /SM590000 Elliptic Curve support for the Koblitz curve secp256k1, to all ECC services including native support for X.509 certificates
+
+CCA 7.3, CCA 6.6
+
+WRAPENH3 Enhanced Wrapping Method for TDES key tokens was added.
+
+CCA 7.4 and CCA 6.7
+
+The following CCA 7.4 and 6.7 improvements were made:
+

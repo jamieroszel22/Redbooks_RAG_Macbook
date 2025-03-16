@@ -1,0 +1,16 @@
+Compression is available to open source applications by way of zlib.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix D.
+
+Tailored Fit Pricing and IBM Z Flexible Capacity for Cyber Resiliency
+
+This appendix describes IBM Z Tailored Fit Pricing and IBM Z Flexible Capacity for Cyber Resiliency.
+
+Although they are two different offerings, Tailored Fit Pricing for Software is prerequisite requirement of Flexible Capacity for Cyber Resiliency (or short 'Flexible Capacity').
+
+This appendix includes the following topics:
+

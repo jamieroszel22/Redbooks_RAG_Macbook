@@ -1,0 +1,16 @@
+ subchannel sets in addition to subchannel set 0. Devices that are used early during IPL processing now can be accessed by using subchannel set 1, subchannel set 2, or subchannel set3 on an IBM z16.
+
+This configuration allows the users of Metro Mirror (formerly PPRC) secondary devices that are defined by using the same device number and a new device type in an alternative subchannel set to be used for IPL, an I/O definition file (IODF), and stand-alone memory dump volumes, when needed.
+
+The display ios,config command
+
+The z/OS display ios,config(all) command that is shown in Figure 5-2 includes information about the MSSs.
+
+<!-- missing-text -->
+
+5.1.3  Channel path spanning
+
+With the implementation of multiple LCSSs, a channel path can be available to LPARs as dedicated, shared, and spanned.
+
+Although a shared channel path can be shared by LPARs within a same LCSS, a spanned channel path can be shared by LPARs within and across LCSSs.
+

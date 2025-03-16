@@ -1,0 +1,10 @@
+ng. It serializes its execution by using the normal structure object latches that all mainline commands use. However, a few 'edge conditions' in ECR processing still require structure-wide latching.
+
+For more information about CFCC code levels, see the Parallel Sysplex page of the IBM IT infrastructure website.
+
+For more information about the latest CFCC code levels, see the current exception letter that is published on Resource Link website (login is required).
+
+CF structure sizing changes are expected when upgrading from a previous CFCC Level to CFCC Level 25. In fact, CFLEVEL 25 can have more noticeable CF structure size increases associated with it, especially for smaller structures, because of task-related memory increases that are associated with the increased number of CF tasks in CFLEVEL 25
+
+Review the CF LPAR size by using the CFSizer tool.
+

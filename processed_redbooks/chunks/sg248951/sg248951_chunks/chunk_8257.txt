@@ -1,0 +1,16 @@
+d initial program load (IPL).
+- /SM590000 Another (easier) way is to enable the dynamic addition of processors through the z/OS LOADxx member. Set the DYNCPADD parameter in member LOADxx to ENABLE .
+
+Another function concerns the system assist processor (SAP). When more SAPs are concurrently added to the configuration, the SAP-to-channel affinity is dynamically remapped on all SAPs on the system to rebalance the I/O configuration.
+
+8.3.1  PU Capacity feature upgrades
+
+IBM z16 Model A01 has a machine type 3931 and a model capacity identifier.
+
+The 3931 is available in the following CPC drawer configurations:
+
+- /SM590000 Feature Max39 (one CPC Drawer installed) can have a maximum of 39 PUs for client characterization
+- /SM590000 Feature Max82 (two CPC Drawers) can have a maximum of 82 client PUs
+- /SM590000 Feature Max125 (three CPC Drawers) can have a maximum of 125 client PUs
+- /SM590000 Feature Max168 (four CPC Drawers) can have a maximum of 168 client PUs
+

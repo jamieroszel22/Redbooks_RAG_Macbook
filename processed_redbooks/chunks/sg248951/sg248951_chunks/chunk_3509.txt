@@ -1,0 +1,16 @@
+ed.
+
+<!-- missing-text -->
+
+- a. General mode uses 64-bit z/Architecture
+- b. IBM Secure Service Container
+- c. IBM Db2 Analytics Accelerator (IDAA), Hyper Protect Virtual Servers (HPVS), and others
+
+The 64-bit z/Architecture mode has no special operating mode because the architecture mode is not an attribute of the definable images operating mode. The 64-bit operating systems are in 31-bit mode at IPL and change to 64-bit mode during their initialization. The operating system is responsible for taking advantage of the addressing capabilities that are provided by the architectural mode.
+
+For information about operating system support, see Chapter 7, 'Operating system support' on page 247.
+
+Logically partitioned mode
+
+If the IBM z16 A01 system runs in LPAR mode, each of the 85 LPARs can be defined to operate in one of the following image modes:
+

@@ -1,0 +1,8 @@
+ /SM590000 Redundant N+1 Power Supply Units (PSU) to CPC drawer and PCIe+ I/O drawer.
+
+9.4  Reducing complexity
+
+IBM z16 servers continue the IBM z15 enhancements that reduced system RAS complexity.
+
+Independent channel recovery with replay buffers on all interfaces allows recovery of a single DIMM channel, while other channels remain active. Further redundancies are incorporated in I/O pins for clock lines to main memory, which eliminates the loss of memory clocks because of connector (pin) failure. The following RAS enhancements reduce service complexity:
+

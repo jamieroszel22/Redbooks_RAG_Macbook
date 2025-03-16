@@ -1,0 +1,11 @@
+
+- /SM590000 Db2 V8 and later for z/OS data serving for applications that use data Distributed Relational Database Architecture (DRDA) over TCP/IP, such as data serving, data warehousing, and selected utilities.
+- /SM590000 z/OS XML services.
+- /SM590000 z/OS CIM Server.
+- /SM590000 z/OS Communications Server for network encryption (Internet Protocol Security [IPsec]) and for large messages that are sent by HiperSockets.
+- /SM590000 IBM GBS Scalable Architecture for Financial Reporting.
+- /SM590000 IBM z/OS Global Mirror (formerly XRC) and System Data Mover.
+- /SM590000 IBM z/OS Container Extensions.
+- /SM590000 IBM OMEGAMONfi XE on z/OS, OMEGAMON XE on Db2 Performance Expert, and Db2 Performance Monitor.
+- /SM590000 Any Java application that uses the current IBM SDK.
+- /SM590000 Java IBM Semeru Runtime offloading enablement for DLC models that use Integrated Accelerator for AI.

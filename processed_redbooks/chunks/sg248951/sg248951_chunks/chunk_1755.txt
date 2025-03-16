@@ -1,0 +1,5 @@
+t -->
+
+- /SM590000 A total of 16 I/O cards are spread over two I/O domains (0 and 1):
+- -Each I/O slot reserves four PCHIDs.
+

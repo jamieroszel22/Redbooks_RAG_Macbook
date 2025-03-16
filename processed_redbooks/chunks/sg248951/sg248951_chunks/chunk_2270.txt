@@ -1,0 +1,19 @@
+ following points:
+
+- /SM590000 FC 9930 is not required to use the base System Recovery Boost capability.
+- /SM590000 FC 9930 AND FC 6804 are needed only if more zIIP temporary capacity is required.
+
+IBM z16 servers continue to deliver robust server designs through new technologies, hardening innovative and classic redundancy. For more information, see Chapter 9, 'Reliability, availability, and serviceability' on page 379.
+
+2.7  Connectivity
+
+Connections to PCIe+ I/O drawers and Integrated Coupling Adapters are driven from the CPC drawer fan-out cards. These fan-outs are installed in the rear of the CPC drawer.
+
+Figure 2-22 shows the location of the fan-out slots. Each slot is identified with a location code (label) of LGxx.
+
+<!-- missing-text -->
+
+Up to 12 PCIe fan-outs (LG01 - LG12) can be installed in each CPC drawer.
+
+A fan-out can be repaired concurrently with the use of redundant I/O interconnect. For more information, see 2.7.1, 'Redundant I/O interconnect' on page 52.
+

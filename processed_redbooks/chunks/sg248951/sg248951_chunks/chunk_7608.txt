@@ -1,0 +1,16 @@
+t on the OSA-Express6S 1000BASE-T Ethernet feature.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA-Express7S 1000BASE-T Ethernet (carry forward)
+
+IBM z16 introduces an Ethernet technology refresh with OSA-Express7S 1000BASE-T Ethernet features to be installed in the PCIe I/O drawer, which is supported by the 16 GBps PCIe Gen3 host bus. The performance characteristics are comparable to the OSA-Express6S features and they also retain the same form factor and port granularity.
+
+Each adapter can be configured in the following modes:
+
+- /SM590000 QDIO, with CHPID types OSD
+- /SM590000 Non-QDIO, with CHPID type OSE
+- /SM590000 Local 3270 emulation, including OSA-ICC, with CHPID type OSC
+
+Notes: Consider the following points:
+

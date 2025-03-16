@@ -1,0 +1,11 @@
+ming that the transaction or job is asked to run the same task each time.
+
+However, the path length that is associated with the operating system or subsystem can vary based on the following factors:
+
+- /SM590000 Competition with other tasks in the system for shared resources. As the total number of tasks grows, more instructions are needed to manage the resources.
+- /SM590000 The number of logical processors ( n-way ) of the image or LPAR. As the number of logical processors grows, more instructions are needed to manage resources that are serialized by latches and locks.
+
+12.3.2  Instruction complexity
+
+The type of instructions and the sequence in which they are run interacts with the design of a microprocessor to affect a performance component. This factor is defined as instruction complexity . The following design alternatives affect this component:
+

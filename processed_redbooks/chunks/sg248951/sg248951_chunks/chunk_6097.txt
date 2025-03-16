@@ -1,0 +1,6 @@
+ryption and decryption performance of clear key operations. These functions are for SSL, virtual private network (VPN), and data-storing applications that do not require FIPS 140-2 Level 4 security.
+
+CPACF is designed to facilitate the privacy of cryptographic key material when used for data encryption through key wrapping implementation. It ensures that key material is not visible to applications or operating systems during encryption operations. For more information, see 6.4.2, 'CPACF protected key' on page 222.
+
+The CPACF feature provides hardware acceleration for the following cryptographic services:
+

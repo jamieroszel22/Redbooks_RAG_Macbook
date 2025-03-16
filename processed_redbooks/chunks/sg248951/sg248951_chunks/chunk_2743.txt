@@ -1,0 +1,6 @@
+on and data cache (L1) sizes must be limited because larger distances must be traveled to reach long cache lines. This L1 access time generally occurs in one cycle, which prevents increased latency.
+
+Also, the distance to remote caches as seen from the microprocessor becomes a significant factor. For example, on an IBM z15 server, access to L4 physical cache (on the SC chip and which might not even be in the same CPC drawer) requires several cycles to travel the distance to the cache. On an IBM z16, having an L4 virtual, physically allocated on the shared L2 requires fewer processor cycles in many instances.
+
+Although large caches mean increased access latency, the new technology 7 nm EUV chip lithography and the lower cycle time allows IBM z16 servers to increase the size of L2 cache level within the PU chip.
+

@@ -1,0 +1,15 @@
+r
+- /SM590000 FC 6828: Single CBU zIIP-year
+- /SM590000 FC 6829: 25 CBU zIIP-year
+- /SM590000 FC 6830: Single CBU SAP-year
+- /SM590000 FC 6831: 25 CBU SAP-year
+- /SM590000 FC 6832: CBU replenishment
+
+The CBU entitlement record (FC 6818) contains an expiration date that is established at the time of the order. This date depends on the quantity of CBU years (FC 6817). You can extend your CBU entitlements through the purchase of more CBU years.
+
+The number of FC 6817 per instance of FC 6818 remains limited to five. Fractional years are rounded up to the nearest whole integer when calculating this limit.
+
+If two years and eight months exist before the expiration date at the time of the order, the expiration date can be extended by no more than two years. One test activation is provided for each CBU year that is added to the CBU entitlement record.
+
+FC 6805 allows for ordering more tests in increments of one. The maximum number of tests that is allowed is 15 for each FC 6818.
+

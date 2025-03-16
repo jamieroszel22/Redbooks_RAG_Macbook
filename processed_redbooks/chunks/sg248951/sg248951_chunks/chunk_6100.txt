@@ -1,0 +1,14 @@
+00 KMO: Cipher Message with OFB
+
+- /SM590000 KIMD: Compute Intermediate Message Digest
+- /SM590000 KLMD: Compute Last Message Digest
+- /SM590000 PCKMO: Provide Cryptographic Key Management Operation
+
+These functions are provided as problem-state z/Architecture instructions that are directly available to application programs. These instructions are known as Message-Security Assist (MSA). When enabled, the CPACF runs at processor speed for every CP, IFL, and zIIP.
+
+For more information about MSA instructions, see z/Architecture Principles of Operation , SA22-7832.
+
+For activating these functions, the CPACF must be enabled by using Feature Code (FC) 3863, which is available at no charge. Support for hashing algorithms SHA-1, SHA-256, SHA-384, and SHA-512 always is enabled.
+
+6.4.1  Cryptographic synchronous functions
+

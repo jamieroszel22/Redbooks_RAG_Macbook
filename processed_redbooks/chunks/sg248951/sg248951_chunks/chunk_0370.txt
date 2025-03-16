@@ -1,0 +1,6 @@
+s not include 256 GB for hardware system area (HSA).
+- -Up to 48 dual inline memory modules (DIMMs) that are 32 GB, 64 GB, 128 GB, 256 GB, or 512 GB are plugged in a CPC drawer.
+- /SM590000 Fan-outs
+
+Each CPC drawer supports up to 12 PCIe+ fan-out adapters to connect to the PCIe+ I/O drawers, and Integrated Coupling Adapter Short Reach (ICA SR) coupling links:
+

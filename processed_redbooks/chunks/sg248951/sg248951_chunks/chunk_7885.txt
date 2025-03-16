@@ -1,0 +1,18 @@
+ervice
+
+General z/OS support documentation provided in the PSP Bucket. For IBM z16 A01: PSP Bucket Upgrade = 3931DEVICE, Subset = 3931/ZOS .
+
+Consider the following other Fix Categories of Interest:
+
+- /SM590000 Fixes that are required to use the Server Time Protocol function:
+- IBM.Function.ServerTimeProtocol
+- /SM590000 Fixes that are required to use the High-Performance FICON function:
+- IBM.Function.zHighPerformanceFICON
+- /SM590000 Fixes that are required for IBM Z System Recovery Boost:
+- IBM.Function.SystemRecoveryBoost
+- /SM590000 PTFs that allow previous levels of ICSF to coexist with the latest Cryptographic Support for z/OS V2R2 - z/OS V2R4 (HCR77D1) web deliverable:
+
+IBM.Coexistence.ICSF.z/OS\_V2R2-V2R4-HCR77D1
+
+Use the SMP/E REPORT MISSINGFIX command to determine whether any FIXCAT APARs exist that are applicable and are not yet installed, and whether any SYSMODs are available to satisfy the missing FIXCAT APARs.
+

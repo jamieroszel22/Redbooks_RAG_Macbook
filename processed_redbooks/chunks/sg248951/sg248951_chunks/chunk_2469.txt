@@ -1,0 +1,16 @@
+ch frame.
+
+No PDUs are installed in this configuration; instead, 1 or 2 pairs of BPAs are installed that house the bulk power distribution to all the components, and the Bulk Power Regulators (BPR).
+
+With BPA-based configurations, 3-phase balanced power feature is supported. BPA-based systems support radiator-cooled systems.
+
+The BPAs support 2- or 4-line cords with a single universal type of 3-phase 200 - 480 V AC.
+
+The power supply units convert the regulated high-voltage DC power (supplied by BPA) to DC power that is used as input for the Points of Load (POLs) in the CPC drawer and the PCIe+ I/O drawers.
+
+The power requirements depend on the number of CPC drawers (1 -4), number of PCIe I/O drawers (0 - 10), and I/O features that are installed in the PCIe+ I/O drawers.
+
+A schematic view of a maximum configured system with BPA power is shown in Figure 2-28.
+
+<!-- missing-text -->
+

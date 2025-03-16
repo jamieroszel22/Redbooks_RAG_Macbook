@@ -1,0 +1,18 @@
+6 processor types can be dynamically reassigned except IFPs.
+
+To use HiperDispatch effectively, WLM goal adjustment might be required. Review the WLM policies and goals and update them as necessary.
+
+WLM policies can be changed without turning off HiperDispatch. A health check is provided to verify whether HiperDispatch is enabled on a system image.
+
+z/VM V7R3, V7R2 and V7R1
+
+z/VM also uses the HiperDispatch facility for improved processor efficiency by better use of the processor cache to take advantage of the cache-rich PU chip, node, and drawer design of the IBM z16 system.
+
+CPU polarization support in Linux on IBM Z
+
+You can optimize the operation of a vertical SMP environment by adjusting the SMP factor based on the workload demands. For more information about CPU polarization support in Linux on IBM Z, see this IBM Documentation web page.
+
+z/TPF
+
+z/TPF on IBM z16 can use more processors immediately without reactivating the LPAR or IPLing the z/TPF system.
+

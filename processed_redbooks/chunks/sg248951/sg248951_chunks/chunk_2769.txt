@@ -1,0 +1,6 @@
+ The wrong branch prediction is expensive in a high-frequency processor design. Therefore, the branch prediction techniques that are used are important to prevent as many wrong branches as possible.
+
+For this reason, various history-based branch prediction mechanisms are used, as shown in the in-order part of the IBM z16 PU core logical diagram in Figure 3-11. The branch target buffer (BTB) runs ahead of instruction cache prefetches to prevent branch misses in an early stage. Furthermore, a branch history table (BHT) offers a high branch prediction success rate in combination with a pattern history table (PHT) and the use of tagged multi-target prediction technology branch prediction.
+
+Branch prediction is now implemented as a two level BTB, BTB1 ('small' and 'fast'), and BTB2 (large, dense-SRAM). Now, BTB1 and BTB2 feature dynamic (variable) capacity:
+

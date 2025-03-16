@@ -1,0 +1,12 @@
+nge was made to match the way RCPs per drawer are assigned when the total number RCPs in the configuration is up to 191. This change compensates for the way the RCP count per drawer actually occurs.
+
+This change was needed since it turns out that not all IBM z16 Max200's have 51 configurable PU drawers. Some Max200's have 48 PU drawers when there are 191 or less PU's in the configuration.
+
+IBM zPCR shows the distribution of PUs per drawer according to the Table 12-2, and there are very useful graphs called Estimated Distribution of RCPs Across Drawers that are available as an option from the Partition Detail Report, which identifies the number of PUs on each drawer.
+
+See Figure 12-13 on page 495 and Figure 12-15 on page 497 for details about the new available graphs.
+
+Table 12-2 below shows the PUs distribution per drawer for an IBM z16 Max200 according to the number of available configurable PUs.
+
+<!-- missing-text -->
+

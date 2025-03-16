@@ -1,0 +1,12 @@
+nal Ethernet LANs through the internal network switches (SW1, SW2, and SW3, SW4, if configured). The BMCs communicate with the SEs and provide a subsystem interface (SSI) for controlling components.
+
+An overview of the system control design is shown in Figure 2-12.
+
+<!-- missing-text -->
+
+Note: The maximum IBM z16 A01 system configuration features four GbE switches, four CPC drawers, and up to 12 PCIe I/O drawers.
+
+A typical BMC operation is to control a power supply. An SE sends a command to the BMC to start the power supply. The BMC cycles the various components of the power supply, monitors the success of each step and the resulting voltages, and reports this status to the SE.
+
+SEs are duplexed ( N +1), and each element has at least one BMC. Two internal Ethernet LAN switches and two SEs, for redundancy, and crossover connectivity between the LANs, are configured so that both SEs can operate on both LANs.
+

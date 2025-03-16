@@ -1,0 +1,8 @@
+thrashing and frequent updates to the OAT. Based on the TCP/IP settings, OSA holds the packets before presenting them to the host. A dynamic setting is designed to avoid or minimize host interrupts.
+
+OSA Dynamic LAN idle is supported by all OSA-Express features on IBM z16 when in QDIO mode (CHPID type OSD). The supported operating systems are listed in Table 7-8 on page 259.
+
+OSA Layer 3 virtual MAC for z/OS environments
+
+To help simplify the infrastructure and facilitate load balancing when an LPAR is sharing an OSA MAC address with another LPAR, each operating system instance can have its own unique logical or virtual MAC (VMAC) address. All IP addresses that are associated with a TCP/IP stack are accessible by using their own VMAC address instead of sharing the MAC address of an OSA port. This situation also applies to Layer 3 mode and to an OSA port spanned among channel subsystems.
+

@@ -1,0 +1,12 @@
+h can be done by using certificates and signatures. It must be possible to clearly identify the owner of the data or the sender and the receiver of the message.
+
+- /SM590000 Message (data) Integrity
+
+The verification of data ensures that what was received is identical to what was sent. It must be proven that the data is complete and was not altered during the moment it was transmitted (by the sender) and the moment it was received (by the receiver).
+
+- /SM590000 Nonrepudiation
+
+It must be impossible for the owner of the data or the sender of the message to deny authorship. Nonrepudiation ensures that both sides of a communication know that the other side agreed to what was exchanged, and not someone else. This specification implies a legal liability and contractual obligation, which is the same as a signature on a contract.
+
+These goals should all be possible without unacceptable overhead to the communication. The goal is to keep the system secure, manageable, and productive.
+

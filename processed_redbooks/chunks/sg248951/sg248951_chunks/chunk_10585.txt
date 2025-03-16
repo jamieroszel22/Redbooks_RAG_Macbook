@@ -1,0 +1,20 @@
+rver to offer secure and unsecured connections
+- /SM590000 Supports passive data connections
+- /SM590000 Supports secure data connections
+
+The SFTP server must support password-based authentication.
+
+The file transfer server choices for HMC are shown in Figure 10-20.
+
+<!-- missing-text -->
+
+FTP through HMC
+
+It is recommended to keep the HMCs and SEs on an isolated network. This approach prevents SEs from starting FTP connections with outside networks. It also applies to all supported file transfer protocols (FTP, FTPS, and SFTP).
+
+All FTP connections that originate from the SE are taken to the HMC. Secure FTP server credentials must be imported to one or more managing HMC consoles.
+
+After the HMC console completes all FTP operations, the HMC console performs the FTP operation on the SE's behalf and returns the results. The IBM Z platform must be managed by at least one HMC to allow FTP operations.
+
+Secure console-to-console communications
+

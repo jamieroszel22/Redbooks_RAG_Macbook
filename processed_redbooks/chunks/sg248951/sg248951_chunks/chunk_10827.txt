@@ -1,0 +1,12 @@
+(FC 3017)
+
+Removal of IBF support : IBM z16 cannot be configured with an internal battery feature (IBM). Extra support for data center power planning can be requested through your IBM Sales contact.
+
+The BPA option is required for customers who order an Internal Battery Feature (IBF), Water Cooling Unit (WCU), or Balanced Power. The BPA requires two or four power cords. All BPAs are concurrently repairable in the field.
+
+Power requirements
+
+The 3931 operates from 2 or 4 fully redundant power supplies. These redundant power supplies each have their own power cords, or pair of power cords, which allows the system to survive the loss of customer power to either power cord or power cord pair.
+
+If power is interrupted to one of the power supplies, the other power supply assumes the entire load and the system continues to operate without interruption. Therefore, the power cords for each power supply must be wired to support the entire power load of the system.
+

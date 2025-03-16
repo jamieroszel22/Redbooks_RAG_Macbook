@@ -1,0 +1,10 @@
+BM z16 servers is shown in Figure 5-1. IBM z16 A01 systems are designed to support up to six logical channel subsystems, each with four subchannel sets and up to 256 channels.
+
+<!-- missing-text -->
+
+All channel subsystems are defined within a single configuration, which is called I/O configuration data set (IOCDS). The IOCDS is loaded into the hardware system area (HSA) during a central processor complex (CPC) power-on reset (POR) to start all of the channel subsystems.
+
+On IBM z16 A01 systems, the HSA is pre-allocated in memory with a fixed size of 256 GB, which is in addition to the customer purchased memory. This fixed size memory for HSA eliminates the requirement for more planning of the initial I/O configuration and planning for future I/O expansions.
+
+CPC drawer repair: The HSA can be moved from one CPC drawer to a different drawer in an enhanced availability configuration as part of a concurrent CPC drawer repair (CDR) action.
+

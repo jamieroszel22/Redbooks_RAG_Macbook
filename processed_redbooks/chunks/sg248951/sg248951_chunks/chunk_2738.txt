@@ -1,0 +1,14 @@
+lled IBM Telum) integrates a new cache hierarchy design with only two levels of physical cache (L1 and L2). The cache hierarchy (L1, L2) is implemented with dense static random access memory (SRAM).
+
+Unlike the IBM z15, eDRAM is no longer used in the IBM Telum processor. On an IBM z16, L2 cache (32 MB) is semi-private with 16 MB dedicated to the associated core, and 16 MB shared with the system (the 50/50 split is adjustable). Level 3 (L3) and Level 4 (L4) caches are now virtual caches and are allocated on L2.
+
+Two processor chips (up to eight active cores per PU chip) are combined in a Dual Chip Module (DCM) and four DCMs are assembled in a CPC drawer (eight PU chips). An IBM z16 can have from one CPC drawer (Max39) up to four (Max200).
+
+<!-- missing-text -->
+
+The new IBM z16 Dual Chip Module (DCM) is shown in Figure 3-2.
+
+<!-- missing-text -->
+
+Concurrent maintenance allows dynamic central processing complex (CPAC) drawer add and repair. 2
+

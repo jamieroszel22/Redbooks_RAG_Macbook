@@ -1,0 +1,14 @@
+ocol Guide , SG24-8480.
+
+CTN split
+
+The HMC menus for Server Time Protocol (STP) provide support when one or more systems must be split in to a separate CTN without interruption in the clock source.
+
+The task is available under the Advanced Actions menu in the Manage System Time task. Several checks are performed to avoid potential disruptive actions. If targeted CTN includes only members with the roles, the task start fails with an error message.
+
+If targeted CTN includes at least one system without any roles, the task starts. An informational warning is presented to the user to acknowledge that sysplex workloads are divided suitably.
+
+Merging two CTNs
+
+When two separate CTNs must be merged in to the single CTN without interruption in the clock source, the system administrator must perform the Join existing CTN action, which is available in the Advanced Actions menu.
+

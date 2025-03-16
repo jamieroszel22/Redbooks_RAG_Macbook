@@ -1,0 +1,10 @@
+er MSU.
+
+All workload processing can benefit by running with no capping and having all owned infrastructure available. Batch processing also can take advantage and reduce batch windows dramatically.
+
+Without capping in place, customers can expect jobs to finish faster yet at the same cost. Online processing can process more transactions simultaneously, which improves response times. This result is a function of the new billing approach that is based on the amount of work that is done rather than peaks that are reached.
+
+To provide improved economics for growth, TFP Consumption customers pay preferential pricing on the MSUs that are used above their baseline, regardless of whether that growth came from existing or new workloads. No other approval, qualification, or processing is required to use the growth pricing rate.
+
+International Program License Agreement in the Software Consumption Model
+

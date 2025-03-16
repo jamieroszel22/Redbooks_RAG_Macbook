@@ -1,0 +1,8 @@
+rol statement in the LOADxx parmlib member and the MT\_ZIIP\_MODE parameter in the IEAOPTxx parmlib member.
+
+The PROCVIEW statement is defined for the life of IPL, and can have the following values:
+
+- /SM590000 CORE : This value specifies that z/OS should configure a processor view of core, in which a core can include one or more threads. The number of threads is limited by IBM z16 to two threads. If the underlying hardware does not support SMT, a core is limited to one thread.
+- /SM590000 CPU : This value is the default. It specifies that z/OS should configure a traditional processor view of CPU and not use SMT.
+- /SM590000 CORE,CPU\_OK : This value specifies that z/OS should configure a processor view of core (as with the CORE value) but the CPU parameter is accepted as an alias for applicable commands.
+

@@ -1,0 +1,14 @@
+PC drawer power
+
+The power for the CPC drawer is a new design. It uses the following combinations of PSUs, Points of Load (POLs), Voltage Regulator Modules (VRMs), and Processor Power Control Cards:
+
+- /SM590000 PSUs: Provide AC to 12 V DC bulk or standby power and are installed at the rear of the CPC. The quantity that is installed depends on the following configurations:
+- -Three PSUs for configurations that use BPA power
+- -Four PSUs for configurations that use PDU power
+- /SM590000 POLs: Seven Point of Load N+2 Redundant cards are installed next to the Memory DIMMs.
+
+- /SM590000 VRMs: seven Voltage Regulator Modules (N+2 redundancy).
+- /SM590000 Processor Power Control Card (PPC): Redundant processor power and control cards connect to the CPC trail board. The control function is powered from 12 V standby that is provided by the PSU. The PPC card also includes pressure, temperature, and humidity sensors.
+
+2.3  Dual chip modules
+

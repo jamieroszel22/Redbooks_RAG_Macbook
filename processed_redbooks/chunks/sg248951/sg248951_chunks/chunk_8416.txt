@@ -1,0 +1,10 @@
+pgrade is installed. Software products that use WLC or customers with TFP might not be affected by the system upgrade because their charges are based on LPAR usage rather than system total capacity.
+
+For more information about WLC, see 7.8, 'Software licensing' on page 323.
+
+The CIU facility process on IBM Resource Link is shown in Figure 8-5.
+
+<!-- missing-text -->
+
+The following sample sequence shows how to start an order on the IBM Resource Link:
+

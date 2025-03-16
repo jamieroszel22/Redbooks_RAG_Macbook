@@ -1,0 +1,28 @@
+ systems-related terminology
+
+The most frequently used terms that are related to CoD for IBM z16 systems are listed in Table 8-1.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+8.2.3  Concurrent and nondisruptive upgrades
+
+Depending on the effect on the system and application availability, upgrades can be classified in the following manner:
+
+- /SM590000 Concurrent
+
+In general, concurrency addresses the continuity of operations of the hardware during an upgrade; for example, whether a system (hardware) must be turned off during the upgrade. For more information, see 8.3, 'Concurrent upgrades' on page 334.
+
+- /SM590000 Nonconcurrent
+
+This type of upgrade requires turning off the hardware that is being upgraded. Examples include memory upgrades to an IBM z16 A01 max 39.
+
+- /SM590000 Nondisruptive
+
+Nondisruptive upgrades do not require the software or operating system to be restarted for the upgrade to take effect.
+
+- /SM590000 Disruptive
+

@@ -1,0 +1,12 @@
+e system area (HSA).
+
+The hardware messages task displays hardware-related messages at the CPC, LPAR, or SE level. It also displays hardware messages that relate to the HMC.
+
+10.5.2  LPAR management
+
+Use the HMC to define LPAR properties, such as the number of processors of each type, how many are reserved, and how much memory is assigned to it. These parameters are defined in LPAR profiles and stored on the SE.
+
+Because PR/SM must manage LPAR access to processors and the initial weights of each partition, weights are used to prioritize partition access to processors.
+
+You can use the Load task on the HMC to perform an IPL of an operating system. This task causes a program to be read from a designated device, and starts that program. You can perform the IPL of the operating system from storage, the USB flash memory drive (UFD), or an FTP server.
+

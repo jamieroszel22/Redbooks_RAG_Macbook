@@ -1,0 +1,20 @@
+tionless compliance
+
+Meet the ever-evolving stringent requirements of global regulators, which allows a highly automated and fast process to demonstrate a production site swap.
+
+Facility maintenance
+
+Run your production workload from your alternative site while you maintain your primary site with the capacity that you need.
+
+Pro-active avoidance
+
+Protect your critical business services from natural disasters. Avoid rolling power outages. Migrate your critical workloads to an alternative site before your business is affected and remain in that state for up to one year.
+
+How does IBM Flexible Capacity for Cyber Resiliency work?
+
+This section describes the high-level process for implementing IBM Flexible Capacity for Cyber Resiliency.
+
+Set up process
+
+Flexible Capacity for Cyber Resiliency is facilitated through a new type of Temporary Capacity record.
+

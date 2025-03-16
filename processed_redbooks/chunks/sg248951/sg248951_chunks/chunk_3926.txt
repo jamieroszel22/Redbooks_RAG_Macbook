@@ -1,0 +1,6 @@
+ in the exact order in which they requested the latch. As a result, the global suspend queue is much less heavily used, and thus is much less a source of global contention or cache misses in the CF.
+
+Also, when a latch is released, the specific latch's latch waiter queue is used to transfer ownership of the latch directly to the next request in line (or multiple requests, in the case of a shared latch), and make that task (or tasks) ready to run, with the transferred latch already held. No possibility exists of any unfairness or 'cutters' in line between the time that the latch is released versus when is obtained again.
+
+For managing latches correctly for structures that are System-Managed (SM) synchronous duplexing, it is now important for the CF to understand which of the duplexed pair of requests operates as the 'master' versus 'slave' from a latching perspective, which requires more SM duplexing setup information from z/OS.
+

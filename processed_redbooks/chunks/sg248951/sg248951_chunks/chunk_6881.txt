@@ -1,0 +1,8 @@
+graphic operating system support for IBM z16
+
+In this section, we provide an overview of the operating systems requirements in relation to cryptographic elements.
+
+6.8.1  Crypto Express8S Toleration
+
+Crypto Express8S (0908/0909) Toleration treats Crypto Express8S cryptographic coprocessors and accelerators as Crypto Express5 coprocessors and accelerators. The following minimum prerequisites must be met:
+

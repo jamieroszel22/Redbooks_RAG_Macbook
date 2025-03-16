@@ -1,0 +1,23 @@
+t upgrades by using CIU on the IBM Resource Link
+
+Ordering the following permanent upgrades by using the CIU application through Resource Link allows you to add capacity to fit within your hardware:
+
+- /SM590000 Add:
+- -Model capacity
+- -Specialty engines
+- -Memory
+- /SM590000 Activate unassigned model capacity or IFLs, ICFs, or zIIPs
+- /SM590000 Deactivate activated model capacity or IFLs, ICFs, or zIIPs
+
+8.2.5  Temporary upgrades
+
+IBM z16 A01 offers the following types of temporary upgrades:
+
+- /SM590000 On/Off CoD
+
+This offering allows you to temporarily add capacity or specialty engines to cover seasonal activities, period-end requirements, peaks in workload, or application testing. This temporary upgrade can be ordered by using the CIU application through Resource Link only.
+
+Prepaid On/Off CoD tokens: Beginning with IBM z16, new prepaid On/Off CoD tokens that are purchased do not carry forward to future systems.
+
+- /SM590000 CBU
+

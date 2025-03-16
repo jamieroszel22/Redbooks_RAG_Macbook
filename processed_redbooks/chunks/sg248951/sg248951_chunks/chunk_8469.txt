@@ -1,0 +1,12 @@
+e already installed processor drawers.
+
+To finalize the order, you must accept Terms and Conditions for the order, as shown in Figure 8-12.
+
+<!-- missing-text -->
+
+8.6.5  Activation and deactivation
+
+When a previously ordered On/Off CoD is retrieved from Resource Link, it is downloaded and stored on the SE HDD. You can activate the order manually or through automation when the capacity is needed.
+
+If the On/Off CoD offering record does not contain resource tokens, you must deactivate the temporary capacity manually. Deactivation is done from the SE and is nondisruptive. Depending on how the capacity was added to the LPARs, you might be required to perform tasks at the LPAR level to remove it. For example, you might have to configure offline any CPs that were added to the partition, deactivate LPARs that were created to use the temporary capacity, or both.
+

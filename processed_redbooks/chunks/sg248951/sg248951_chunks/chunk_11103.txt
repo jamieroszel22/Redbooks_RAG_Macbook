@@ -1,0 +1,12 @@
+to the colors assigned to the Logical CPs column and relate them to the 'warnings' and 'notes' at the bottom of the report. See 'Partition Detail Report warnings' on page 494.
+
+<!-- missing-text -->
+
+Partition Detail Report warnings
+
+IBM zPCR implemented a warning indicating that on IBM z13 and later, the best performance is achieved when the partition's logical CP count does not exceed the number of RCPs in a single drawer.
+
+Additionally, IBM zPCR version 9.6.4 implemented a new notice for partitions approaching, within 10%, the maximum drawer size. This critical notice indicates that one or more partitions partition are getting close to a drawer boundary. When that happens, capacity growth by adding LCPs is very limited.
+
+The new notice appears as a 'Note' message in the Partition Detail Report. The 'Note' and the partition LCPs are shaded with the same violet color, as shown for partition IFL-01 in Figure 12-12 above and for partition GP-02 in Figure 12-14 on page 496.
+

@@ -1,0 +1,13 @@
+er easy to obtain a global view of all OSA PCHIDs and the monitoring and diagnostic information that was available in the Query Host command.
+
+To address this issue, the following changes were made:
+
+- /SM590000 If a CPC is targeted, the initial window provides a global view of all OSA PCHIDs.
+- /SM590000 You can browse to various OSA Advanced Facilities subtasks from the initial window, which makes the process of getting to them less cumbersome.
+- /SM590000 Today's View Port Parameters and Display OAT Entries support exporting data of one OSA PCHID. Also, the data for all OSA PCHIDs can be exported to USB or FTP from the View Port Parameters menu.
+- /SM590000 The initial window was changed to display status information of all OSA PCHIDs (see Figure 10-21 on page 429).
+
+<!-- missing-text -->
+
+10.3.8  HMC multi-factor authentication
+

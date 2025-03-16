@@ -1,0 +1,17 @@
+ge. It also produces data that includes power monitoring information, power consumption, and the air input temperature for the system.
+
+You can display more information for the following components:
+
+- /SM590000 Power consumption
+- /SM590000 Environmental
+- /SM590000 Aggregated processors
+- /SM590000 Processors (with SMT information)
+- /SM590000 System Assist Processors
+- /SM590000 Logical Partitions
+- /SM590000 Channels
+- /SM590000 Adapters: Crypto use percentage is displayed according to the physical channel ID (PCHID number)
+
+Environmental Efficiency Statistics
+
+The Environmental Efficiency Statistics is part of the Monitor group. It provides historical power consumption and thermal information for the IBM Z CPC, and is available on the HMC.
+

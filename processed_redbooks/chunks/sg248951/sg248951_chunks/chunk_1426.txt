@@ -1,0 +1,16 @@
+to the CPC trail board. The control function is powered from 12 V standby that is provided by the PSU. The PPC card also includes pressure, temperature, and humidity sensors.
+
+2.3  Dual chip modules
+
+The DCM is a multi-layer metal substrate module that holds two PU chips. The PU chip size is 530 mm 2  and has 22.5 billion transistors. Each CPC drawer has four PU DCMs.
+
+The PU DCM is shown in Figure 2-13. The DCM features a thermal cap that is placed over the chips. Each DCM is water-cooled by way of a cold plate manifold assembly.
+
+<!-- missing-text -->
+
+PU chips use 7 nm FinFET process, each DCM socket contains 4753 pins, and the module size is 71.5 mm x 79 mm.
+
+The DCMs are each plugged into a socket that is part of the CPC drawer packaging. Each DCM is cooled by water flowing through a manifold assembly where cold plates are attached and used to help remove the heat from the processor chips.
+
+2.3.1  Processor unit chip
+

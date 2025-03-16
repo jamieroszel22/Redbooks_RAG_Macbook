@@ -1,0 +1,11 @@
+ families of IBM Z servers only for PUs that use PR/SM dynamic PU reallocation.
+
+With IBM z16 servers, this process occurs whenever the configuration changes, such as in the following circumstances:
+
+- /SM590000 Activating or deactivating an LPAR
+- /SM590000 Changing the LPARs processing weights
+- /SM590000 Upgrading the system through a temporary or permanent record
+- /SM590000 Downgrading the system through deactivation of a temporary record
+
+PR/SM schedules a global reoptimization of the resources in use. It does so by reviewing all the partitions that are active and prioritizing them based on their processing entitlement and weights, which creates a high- and low-priority rank. Then, the resources, such as logical processors and memory, can be moved from one CPC drawer to another to address the priority ranks that were created.
+

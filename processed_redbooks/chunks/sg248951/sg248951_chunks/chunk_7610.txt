@@ -1,0 +1,16 @@
+er, which is supported by the 16 GBps PCIe Gen3 host bus. The performance characteristics are comparable to the OSA-Express5S features and they also retain the same form factor and port granularity.
+
+Each adapter can be configured in the following modes:
+
+- /SM590000 QDIO, with CHPID types OSD
+- /SM590000 Non-QDIO, with CHPID type OSE
+- /SM590000 Local 3270 emulation, including OSA-ICC, with CHPID type OSC
+
+Note: Operating system support is required to recognize and use the second port on the OSA-Express6S 1000BASE-T Ethernet feature.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA-Integrated Console Controller
+
+The OSA-Express 1000BASE-T Ethernet features provide the Integrated Console Controller (OSA-ICC) function, which supports TN3270E (RFC 2355) and non-SNA DFT 3270 emulation. The OSA-ICC function is defined as CHPID type OSC and console controller, and includes multiple LPAR support as shared or spanned channels.
+

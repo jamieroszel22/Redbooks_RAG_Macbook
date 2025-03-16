@@ -1,0 +1,10 @@
+ith service.
+- -Ubuntu 18.04.1 LTS with service and Ubuntu 16.04.6 LTS with service.
+- -The support statements for IBM z16 also cover the KVM hypervisor on distribution levels that have KVM support.
+
+For more information about the minimum required and recommended distribution levels, see the IBM Z website.
+
+6.8.3  Crypto Express8S support of greater than 16 domains
+
+The following prerequisites must be met to support more than 16 domains:
+

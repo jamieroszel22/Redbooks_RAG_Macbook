@@ -1,0 +1,13 @@
+ ID is defined as a parameter for each LPAR in the RESOURCE statement of an I/O configuration. It ranges 1 - F, and must be unique within an LCSS. However, duplicates are allowed in different LCSSs.
+
+If a MIF image ID is not defined, an arbitrary ID is assigned when the I/O configuration activated. The IBM z16 server supports a maximum of six LCSSs, with a total of 85 LPARs that can be defined.
+
+Each LCSS of an IBM z16 A01 system can support the following numbers of LPARs:
+
+- /SM590000 LCSS0 to LCSS4 support 15 LPARs each, and the MIF image ID is 1 - F.
+- /SM590000 LCSS5 supports 10 LPARs, and the MIF image IDs are 1 - A.
+
+LPAR ID
+
+The LPAR ID is defined by a user in an image activation profile for each LPAR. It is a 2-digit hexadecimal number 00 - 7F. The LPAR ID must be unique across the server.
+

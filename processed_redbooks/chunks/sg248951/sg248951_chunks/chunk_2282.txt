@@ -1,0 +1,12 @@
+aracterized as a CP, IFL, or ICF is required per system. The maximum number of characterizable PUs is 200. The maximum number of zIIPs is up to twice the number of PUs that are characterized as CPs.
+
+The following components are present in the IBM z16, but they are not part of the PUs that clients purchase and require no characterization:
+
+- /SM590000 SAP to be used by the channel subsystem. The number of predefined SAPs depends on the IBM z16 model.
+- /SM590000 Two IFPs, which are used in the support of designated features and functions, such as RoCE (all features), Coupling Express2 LR, zHyperLink Express 1.1, Internal Shared Memory (ISM) SMC-D, and other management functions.
+- /SM590000 Two spare PUs, which can transparently assume any characterization during a permanent failure of another PU.
+
+The IBM z16 uses features to define the number of PUs that are available for client use in each configuration. The models are listed in Table 2-11.
+
+<!-- missing-text -->
+

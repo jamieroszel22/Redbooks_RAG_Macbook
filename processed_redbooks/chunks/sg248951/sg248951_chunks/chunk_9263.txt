@@ -1,0 +1,20 @@
+orkload. The CPM cannot control other offerings.
+
+For more information about any of the topics in this chapter, see Capacity on Demand User's Guide , SC28-6943.
+
+<!-- missing-text -->
+
+Chapter 9.
+
+9
+
+<!-- missing-text -->
+
+Reliability, availability, and serviceability
+
+From the quality perspective, the IBM z16 reliability, availability, and serviceability (RAS) design is driven by a set of high-level program RAS objectives. The IBM Z platform continues to drive toward Continuous Reliable Operation (CRO) at the single footprint level.
+
+Note: Throughout this chapter, IBM z16 refers to IBM z16 Model A01 (Machine Type 3931).
+
+The key objectives, in order of priority, are to ensure data integrity, computational integrity, reduce or eliminate unscheduled outages, reduce scheduled outages, reduce planned outages, and reduce the number of Repair Actions.
+

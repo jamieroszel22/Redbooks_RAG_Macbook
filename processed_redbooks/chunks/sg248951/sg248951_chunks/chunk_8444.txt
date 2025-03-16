@@ -1,0 +1,13 @@
+U facility process on IBM Resource Link is shown in Figure 8-5.
+
+<!-- missing-text -->
+
+The following sample sequence shows how to start an order on the IBM Resource Link:
+
+- 1. Sign on to Resource Link.
+- 2. Select Customer Initiated Upgrade from the main Resource Link page. Client and system information that is associated with the user ID are displayed.
+- 3. Select the system to receive the upgrade. The current configuration (PU allocation and memory) is shown for the selected system.
+- 4. Select Order Permanent Upgrade . The Resource Link limits the options to those options that are valid or possible for the selected configuration (system).
+- 5. After the target configuration is verified by the system, accept or cancel the order. An order is created and verified against the pre-established agreement.
+- 6. Accept or reject the price that is quoted. A secondary order approval is optional. Upon confirmation, the order is processed. The LICCC for the upgrade is available within hours.
+

@@ -1,0 +1,16 @@
+uced RAIM overhead (compared to IBM z15).
+
+RAIM protection is similar to IBM z15:
+
+- -Up to three chip marks and one channel mark
+- -DDR4 DRAM with on chip power regulation
+- -N+1 voltage regulators
+
+Memory is implemented by using Standard Open Memory Interface (OMI) with up to six OMIs per drawer, has CRC/Retry for soft errors, degrade bus lanes 4-&gt;2 on hard error, and no waiting for all eight cards (use first seven to respond).
+
+A precise marking of faulty chips helps ensure timely DIMM replacements. The design of the IBM z16 further improved this chip marking technology. Graduated DRAM marking is available, and channel marking and scrubbing calls for replacement on the third DRAM failure is available.
+
+For more information about the memory system on IBM z16 A01, see 2.5, 'Memory' on page 37.
+
+- /SM590000 Soft-switch firmware
+

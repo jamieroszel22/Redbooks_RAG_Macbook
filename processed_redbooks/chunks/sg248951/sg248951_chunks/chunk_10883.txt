@@ -1,0 +1,8 @@
+ z/OS SMF 113 record, you can recognize the workload type in a specific IBM-provided capacity planning tool. Therefore, collecting CPU MF counter data is a first step to begin the capacity planning.
+
+12.9.2  Creating EDF files with CP3KEXTR
+
+An EDF file is an input file of the IBM Z capacity planning tools. You create this file for individual z/OS SYSIDs / LPARs by using the CP3KEXTR program. The CP3KEXTR program reads SMF records and extracts needed data as input to the IBM z Processor Capacity Reference (IBM zPCR) and IBM Z Batch Network Analyzer (IBM zBNA) tools.
+
+Note: You should create an EDF file for each z/OS SYSID and load all the EDFs for the same CPC into IBM zPCR at the same time so to ensure that the correct LSPR Workload is assigned to each LPAR.  IBM zPCR supports using drag-n-drop for multiple EDF files.
+

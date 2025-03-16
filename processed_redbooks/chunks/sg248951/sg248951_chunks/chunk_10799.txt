@@ -1,0 +1,13 @@
+entication support with a firewall
+
+If you use a firewall, HMC NTP requests can pass through it. Use HMC authentication to ensure untampered timestamps.
+
+NTP symmetric key and autokey authentication
+
+With symmetric key and autokey authentication, the highest level of NTP security is available. HMC Level 2.12.0 and later provide windows that accept and generate key information to be configured into the HMC NTP configuration. They also can issue NTP commands.
+
+The HMC offers the following symmetric key and autokey authentication and NTP commands:
+
+- /SM590000 Symmetric key (NTP V3-V4) authentication
+- Symmetric key authentication is described in RFC 1305, which was made available in NTP Version 3. Symmetric key encryption uses the same key for encryption and decryption. Users that are exchanging data keep this key to themselves.
+

@@ -1,0 +1,14 @@
+utomation support for querying Crypto information was provided with SNMP API interfaces only. With IBM z16, support is added for BPCII v2/HWIREST APIs.
+
+- /SM590000 Crypto and OSA automatic toggling
+
+In rare cases after a microcode update, the Crypto and OSA adapters must be configured off/on to activate the loaded firmware. With IBM z16, a new function is available with which you can select one or more Crypto and OSA adapters and perform an automated serialized update of each card.
+
+Important: Configuring the off/on operation is concurrent to the operating system activities only if the Crypto and OSA adapters are configured redundantly. The automated process does not perform the redundancy check for you. If you are unsure about adapter redundancy, we recommend toggling each adapter manually off/on.
+
+The Figure 10-11 and Figure 10-12 on page 418 show examples of the automatic firmware activation for Crypto and OSA adapters.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

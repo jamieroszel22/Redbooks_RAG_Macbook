@@ -1,0 +1,27 @@
+, MWLC, or the Technology Update Pricing and Transition Charges for Sysplexes or Multiplexes TTO offerings, see the IBM Z Software Pricing page of the IBM IT infrastructure website.
+
+7.9  References
+
+For more information about planning, see the home pages for the following operating systems:
+
+- /SM590000 z/OS
+- /SM590000 z/VM
+- /SM590000 z/VSE
+- /SM590000 z/TPF
+- /SM590000 Linux on IBM Z
+- /SM590000 KVM for IBM Z
+
+<!-- missing-text -->
+
+Chapter 8.
+
+8
+
+System upgrades
+
+This chapter provides an overview of the IBM Z server upgrade process and how, in many cases, customers can manage capacity upgrades by using online tools and automation. The chapter also includes a detailed description of capacity on demand (CoD) offerings available on the IBM z16.
+
+IBM z16 servers support dynamic provisioning features to give clients exceptional flexibility and control over system capacity and costs.
+
+This chapter includes the following topics:
+

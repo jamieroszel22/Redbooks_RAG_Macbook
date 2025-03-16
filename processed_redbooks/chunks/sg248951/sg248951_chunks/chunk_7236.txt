@@ -1,0 +1,16 @@
+unt of main storage that is supported by current operating systems is listed in Table 7-13. A maximum of 16 TB of main storage can be defined for an LPAR on an IBM z16 server.
+
+<!-- missing-text -->
+
+- a. On IBM z16 A01, LPAR storage definition supports 32 TB (IBM z16 A01 supports up to 40 TB of usable memory).
+- b. With fix for APAR VM66173.
+- c. Support might vary by distribution. Check with your distribution provider.
+
+IBM z16 Model A01 - Up to 85 LPARs
+
+The IBM z16 A01 can be configured with up to 85 LPARs (same as previous models). Because channel subsystems can be shared by up to 15 LPARs, it is necessary to configure six channel subsystems to reach the 85 LPAR limit.
+
+Remember: A virtual appliance that is deployed in a Secure Service Container runs in a dedicated LPAR. When activated, it reduces the maximum number of available LPARs by one.
+
+Dynamic PU add
+

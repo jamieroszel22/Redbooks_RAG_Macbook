@@ -1,0 +1,10 @@
+them keep as much work as possible within the boundaries of as few processors and L4 virtual cache space (which is best within a CPC drawer boundary) without affecting throughput and response times.
+
+The cache structures of IBM z16 A01 systems are compared with the previous generation of IBM Z (IBM z15 T01) in Figure 3-5.
+
+<!-- missing-text -->
+
+Compared to IBM z15, the IBM z16 cache design has larger L2 cache size. Cache L3 and L4 are now virtual caches in the IBM z16. More affinity exists between the memory of a partition, the L4 virtual cache in a drawer, and the cores in the PU chips. As in IBM z15, the IBM z16 cache level structure is focused on keeping more data closer to the PU. This design can improve system performance on many production workloads.
+
+HiperDispatch
+

@@ -1,0 +1,12 @@
+r-Express (OSA-Express) and RoCE Express features, it supports specialized internal connections for intra-system communication through IBM HiperSockets and Internal Shared Memory (ISM).
+
+OSA-Express
+
+The OSA-Express features provide local area network (LAN) connectivity and comply with IEEE standards. In addition, OSA-Express features assume several functions of the TCP/IP stack that normally are performed by the PU, which allows significant performance benefits by offloading processing from the operating system.
+
+OSA-Express7S 1.2 features continue to support copper and fiber optic (single-mode and multimode) environments.
+
+HiperSockets
+
+IBM HiperSockets is an integrated function of the IBM Z platforms that supplies attachments to up to 32 high-speed virtual LANs, with minimal system and network overhead.
+

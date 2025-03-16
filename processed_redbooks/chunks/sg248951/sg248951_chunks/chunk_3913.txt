@@ -1,0 +1,10 @@
+Consider the following points:
+
+- -The metrics show how long data entries or directory entries remain resident in the cache structure from the time they are created until the time they are eventually 'reclaimed' out of existence.
+- -They provide moving weighted average directory entry and data area residency times, in microseconds.
+- -They allow monitoring of effects of cache-unfriendly batch processes, such as image copy, reorganization, and update-intensive workloads.
+- -Reclaims from all causes are included in the creation of directory entries or data areas, 'structure alter' contractions or reapportionments, incidental reclaims of data areas that are caused by reclaim of a directory entry, and so on.
+- -Residency times are accounted for only at the time of reclaim (not while the cache objects are still in use).
+- -Specific deletions of these objects do not factor into the residency time metrics.
+- -These metrics were implemented as new fields within the CF Storage Class controls:
+

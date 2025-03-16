@@ -1,0 +1,11 @@
+SM590000 CPC direct Ethernet connectivity for the external time source (ETS)
+- In previous generation IBM Z, the ETS for the STP was provided by connecting the Support element to the client network.
+
+With IBM z16 the ETS, PTP (IEEE 1588) or NTP network connectivity is provided by using the IBM z16 CPC oscillator (OSC) cards dedicated network ports (RJ45) to client LAN for accessing the time synchronization information.
+
+Pulse-per-second connectivity also is provided for the highest timing information accuracy. Connection of the ETS direct to the IBM Z CPC provides less delay in accessing the time source that connection through the Support Element.
+
+- /SM590000 n-mode Power STP Imminent Disruption Signal option
+
+On IBM Z, losing a Preferred Time Server (PTS) has significant consequences to the timing network and the overall workload execution environment of the IBM Z sysplex. The IBM Z and the HMC feature longtime automated failover protection for various cases that can arise.
+

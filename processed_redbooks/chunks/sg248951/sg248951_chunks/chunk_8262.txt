@@ -1,0 +1,17 @@
+formation, see 2.5.7, 'Flexible Memory Option' on page 46.
+
+Concurrent hardware installation upgrades (MES ordered)
+
+Configuration upgrades can be concurrent when installing the following resources:
+
+- /SM590000 Processor drawers (which contain processors, memory, and fan-outs). Up to two processor drawers can be added concurrently on an IBM z16 A01 Max39 if feature codes 2981 and 2982 were ordered with the initial configuration.
+- /SM590000 PCIe+ Gen3 fan-outs.
+- /SM590000 I/O cards, when slots are still available on the installed PCIe+ I/O drawers.
+- /SM590000 PCIe+ I/O drawers.
+
+The concurrent I/O upgrade capability can be better used if a future target configuration is considered during the initial configuration.
+
+Concurrent PU conversions (MES ordered)
+
+IBM z16 A01 supports concurrent conversion between all PU types, which includes SAPs, to provide flexibility and meet changing business requirements.
+

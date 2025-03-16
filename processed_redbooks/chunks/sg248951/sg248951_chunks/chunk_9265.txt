@@ -1,0 +1,17 @@
+n extension to the RAS capabilities, environmental controls are implemented in the system to help reduce power consumption and meet cooling requirements.
+
+This chapter includes the following topics:
+
+- /SM590000 'RAS strategy' on page 380
+- /SM590000 'Technology' on page 380
+- /SM590000 'Structure' on page 385
+- /SM590000 'Reducing complexity' on page 386
+- /SM590000 'Reducing touches' on page 386
+- /SM590000 'IBM z16 availability characteristics' on page 387
+- /SM590000 'IBM z16 RAS functions' on page 390
+- /SM590000 'Enhanced drawer availability' on page 394
+- /SM590000 'Concurrent Driver Maintenance' on page 402
+- /SM590000 'RAS capability for the HMA and SE' on page 404
+
+9.1  RAS strategy
+

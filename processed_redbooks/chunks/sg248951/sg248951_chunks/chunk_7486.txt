@@ -1,0 +1,12 @@
+if a reference is made to that storage. GSF is managed by new instructions that define Guarded Storage Controls and system code to maintain that control information across undispatch and redispatch.
+
+Enabling a less-pausing approach improves Java garbage collection. Function is provided on IBM z14and subsequent servers that are running z/OS V2.R2 and later with APAR OA51643 installed. The MACHMIG statement in LOADxx of SYS1.PARMLIB disables the function.
+
+z/VM
+
+GSF is designed to improve the performance of garbage-collection processing by various languages, in particular Java.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+Instruction Execution Protection
+

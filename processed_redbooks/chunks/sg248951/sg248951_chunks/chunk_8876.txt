@@ -1,0 +1,16 @@
+ces concurrently. However, Linux and other types of virtual machines that run under z/VM can benefit from the z/VM capability to nondisruptively configure more resources online (processors and I/O).
+
+With z/VM, Linux guests can manipulate their logical processors by using the Linux CPU hotplug daemon. The daemon can start and stop logical processors that are based on the Linux load average value. The daemon is available in Linux SLES 10 SP2 and later, and in Red Hat Enterprise Linux (RHEL) V5R4 and up.
+
+8.12.1  Components
+
+The following components can be added, depending on the considerations as described in this section:
+
+- /SM590000 PUs
+- /SM590000 Memory
+- /SM590000 I/O
+- /SM590000 Cryptographic adapters
+- /SM590000 Special features
+
+PUs
+

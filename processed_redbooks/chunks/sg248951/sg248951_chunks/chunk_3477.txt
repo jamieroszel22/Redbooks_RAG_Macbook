@@ -1,0 +1,10 @@
+exible memory option allows you to concurrently add memory to the system. For more information, see 2.5.5, 'Drawer replacement and memory' on page 45, and 2.5.7, 'Flexible Memory Option' on page 46.
+
+When the total capacity that is installed has more usable memory than required for a configuration, the Licensed Internal Code Configuration Control (LICCC) determines how much memory is used from each processor drawer. The sum of the LICCC provided memory from each CPC drawer is the amount that is available for use in the system.
+
+Memory allocation
+
+When the system is activated by using a POR, PR/SM determines the total installed memory and the customer enabled memory. Later in the process, during LPAR activation, PR/SM assigns and allocates each partition memory according to their image profile.
+
+PR/SM controls all physical memory, and can make physical memory available to the configuration when a CPC drawer is added.
+

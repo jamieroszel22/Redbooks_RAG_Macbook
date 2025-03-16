@@ -1,0 +1,17 @@
+that the throughput requirements need to be considered whether failing over to earlier systems with zEDC.
+
+Performance metrics
+
+On-chip compression introduces the following system reporting changes:
+
+- /SM590000 No RMF PCIe reporting for zEDC
+- /SM590000 Synchronous executions are not recorded (just an instruction invocation)
+- /SM590000 Asynchronous executions are recorded:
+- -SMF30 information is captured for asynchronous usage
+- -RMF EADM reporting is enhanced (RMF 74.10)
+- -SAP use is updated to include the time that is spent compressing and decompressing
+
+zEDC to IBM z16 zlib Program Flow for z/OS
+
+The z/OS-provided zlib library is statically linked into many IBM and ISV products and remains functional. However, to realize the best optimization for IBM z16, some minor changes are made to zlib.
+

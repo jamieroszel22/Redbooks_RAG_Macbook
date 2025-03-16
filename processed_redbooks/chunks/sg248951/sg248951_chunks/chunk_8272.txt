@@ -1,0 +1,10 @@
+, depending on the configuration, permanent upgrades can be performed while temporary upgrades are active. Examples of the activation sequence of multiple temporary upgrades are shown in Figure 8-2.
+
+<!-- missing-text -->
+
+As shown in Figure 8-2, if R2, R3, and R1 are active at the same time, only parts of R1 can be activated because not enough resources are available to fulfill all of R1. When R2 is deactivated, the remaining parts of R1 can be activated as shown.
+
+Temporary capacity can be billable as On/Off CoD, or replacement capacity as CBU, CPE, or System Recovery Boost. Consider the following points:
+
+- /SM590000 On/Off CoD is a function that enables concurrent and temporary capacity growth of the system.
+

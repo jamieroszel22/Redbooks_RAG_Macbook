@@ -1,0 +1,12 @@
+73.
+
+Communication between servers is implemented by using CE LR, ICA SR, or channel-to-channel (FICON CTC) connections. For more information, see 4.6.4, 'Parallel Sysplex connectivity' on page 187.
+
+4.6.1  I/O feature support and configuration rules
+
+The supported I/O features are listed in Table 4-5. Also listed in Table 4-5 are the number of ports per card, port increments, the maximum number of feature cards, and the maximum number of channels for each feature type. The CHPID definitions that are used in the IOCDS also are listed
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

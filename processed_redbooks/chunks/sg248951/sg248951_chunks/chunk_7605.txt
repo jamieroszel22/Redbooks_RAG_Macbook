@@ -1,0 +1,12 @@
+R4 and V7R1 require PTF for APAR PI99085.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA-Express7S 10-Gigabit Ethernet LR and SR (carry forward)
+
+OSA-Express6S 10-Gigabit Ethernet features are installed in the PCIe I/O drawer, which is supported by the 16 GBps PCIe Gen3 host bus. The performance characteristics are comparable to the OSA-Express6S features and they also retain the same form factor and port granularity.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA-Express6S 10-Gigabit Ethernet LR and SR (carry forward)
+

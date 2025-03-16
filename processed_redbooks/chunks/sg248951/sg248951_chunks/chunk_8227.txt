@@ -1,0 +1,10 @@
+ronment.
+
+The selected metric is used to price MLC products, such as z/OS, z/TPF, z/VSE, middleware, compilers, and selected systems management tools and utilities:
+
+- -Key MLC metrics and offerings
+
+MLC metrics include various offerings. The metrics and pricing schemes that are available on IBM z14, IBM z15, and IBM z16 are listed in Table 7-17 on page 324.
+
+<!-- missing-text -->
+

@@ -1,0 +1,8 @@
+re calculations.
+
+The red line is the customer owned capacity (or Base capacity). The light green line shows the activated capacity of the machine, as reported by Sub-Capacity Reporting Tool (SCRT).
+
+As shown in Figure D-2, some of the blue bars reach above the red line, into the corridor between the red line and light green lines, which represents the TFP-Hardware capacity. Therefore, use over the customer's owned (Purchased) capacity is measured, so a Usage charge is incurred. If no use is measured over the customer's owned (Purchased) capacity, no Usage charge is incurred.
+
+In addition to the Usage charge, which might not be relevant, a Subscription charge also can be assessed. The Subscription charge is a flat, per system, per month payment that is based on the amount of TFP-Hardware capacity that is provided on the system. The Subscription charge is invoiced prepaid for the contract term or postpaid monthly.
+

@@ -1,0 +1,18 @@
+ispatch feature was enabled and disabled since the last time you performed a POR.
+
+9.8.2  Enhanced drawer availability processing
+
+To use the EDA, first ensure that the following conditions are met:
+
+- /SM590000 The used processors (PUs) on the drawer that is removed are freed.
+- /SM590000 The used memory on the drawer is freed.
+- /SM590000 For all I/O domains that are connected to the drawer, ensure that alternative paths exist. Otherwise, place the I/O paths offline.
+
+For the EDA process, this phase is the preparation phase. It is started from the SE, directly or on the HMA, by using the Single object operation option on the Perform Model Conversion window from the CPC configuration task list, as shown in Figure 9-7.
+
+<!-- missing-text -->
+
+Processor availability
+
+Processor resource availability for reallocation or deactivation is affected by the type and quantity of the resources in use, such as the following examples:
+

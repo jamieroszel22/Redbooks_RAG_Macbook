@@ -1,0 +1,10 @@
+pression and decompression operations, which was tied directly into processor's L3 cache. As a result, it provided much higher bandwidth and removed the virtualization limitations of a PCIe feature.
+
+The IBM z16 further addresses the growth of data compression requirements with the integrated on-chip compression unit (implemented in processor Nest, one per PU chip) that significantly increases compression throughput and speed compared to previous zEDC deployments.
+
+IBM z16 IBM Integrated Accelerator for zEDC
+
+IBM z16 on-chip compression provides value for existing and new compression users by bringing the compression facility into the PU chip, which is tied in L3 1  cache.
+
+The IBM z16 Integrated Accelerator for zEDC delivers industry-leading throughput and replaces the zEDC Express PCIe adapter that is available on the IBM z14 and earlier servers.
+

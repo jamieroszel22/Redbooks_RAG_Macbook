@@ -1,0 +1,16 @@
+roprocessors with various designs, performance varies. However, when on a processor, this component tends to be similar across all models of that processor.
+
+12.3.3  Memory hierarchy and memory nest
+
+The memory hierarchy of a processor generally refers to the caches, data buses, and memory arrays that stage the instructions and data that must be run on the microprocessor to complete a transaction or job.
+
+The following design choices affect this component:
+
+- /SM590000 Cache size
+- /SM590000 Latencies (sensitive to distance from the microprocessor)
+- /SM590000 Number of levels, the Modified, Exclusive, Shared, Invalid (MESI) protocol, controllers, switches, the number and bandwidth of data buses, and so on.
+
+With IBM z16, physical L3/L4 caches no longer exist. L2 caches that are on each processor core are virtual L3/L4 caches on IBM z16. For more information, see Chapter 3, 'Central processor complex design' on page 67.
+
+A memory nest in an IBM z16 CPC drawer is shown in Figure 12-2.
+

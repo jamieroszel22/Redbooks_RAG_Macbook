@@ -1,0 +1,10 @@
+ is required by the sending operating system. For more information, see 'HiperSockets' on page 185. The supported operating systems are listed in Table 7-8 on page 259.
+
+HiperSockets support of IPV6
+
+IPv6 is a key element in the future of networking. The IPv6 support for HiperSockets allows compatible implementations between external networks and internal HiperSockets networks. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+HiperSockets Layer 2 support
+
+For flexible and efficient data transfer for IP and non-IP workloads, the HiperSockets internal networks on IBM Z servers can support two transport modes: Layer 2 (Link Layer) and the current Layer 3 (Network or IP Layer). Traffic can be Internet Protocol (IP) Version 4 or Version 6 (IPv4, IPv6) or non-IP (AppleTalk, DECnet, IPX, NetBIOS, or SNA).
+

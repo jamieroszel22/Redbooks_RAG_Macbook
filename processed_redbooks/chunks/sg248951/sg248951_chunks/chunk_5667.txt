@@ -1,0 +1,13 @@
+. The link speed is auto-negotiated, point-to-point, and is transparent to users and applications.
+
+The following types of FICON Express16SA optical transceivers are supported (no mix on same card):
+
+- /SM590000 FICON Express16SA LX feature, FC 0436, with two ports per feature, LC Duplex connectors
+- /SM590000 FICON Express16SA SX feature, FC 0437, with two ports per feature, LC Duplex connectors
+
+For more information about supported distances, see Table 4-6 on page 163.
+
+Consideration: FICON Express16SA features do not support auto-negotiation to a data link rate of 2 or 4 Gbps (only 8 or 16 Gbps) for point-to-point connections. A compatible switch must be used to connect to lower speed devices.
+
+FICON Express16S+
+

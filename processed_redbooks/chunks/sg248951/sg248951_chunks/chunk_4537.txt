@@ -1,0 +1,10 @@
+t; Reduces CPU and CF link overhead
+- GLYPH&lt;129&gt; Avoids the overhead of synchronous protocol handshakes on every update
+- GLYPH&lt;129&gt; Duplexing failover much faster than log-based recovery
+- -Targeted at multi-site clients who run split workloads at distance to make duplexing lock structures at distance practical.
+- /SM590000 CF Processor Scalability:
+- -CF work management and dispatcher changes to allow improved efficiency as processors are added to scale up the capacity of a CF image.
+- -Functionally specialized ICF processors that operate for CF images having more than a threshold number of dedicated processors defined for them:
+- GLYPH&lt;129&gt; One functionally specialized processor for inspecting suspended commands.
+- GLYPH&lt;129&gt; One functionally specialized processor for pulling in new commands.
+- GLYPH&lt;129&gt; The remaining processors are nonspecialized for general CF request processing.

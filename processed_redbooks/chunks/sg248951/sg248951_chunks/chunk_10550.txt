@@ -1,0 +1,16 @@
+he HMC, see the IBM Z Hardware Management Console Videos.
+
+Note: HMC 2.16.0 supports managing IBM z14, IBM z15, and IBM z15 IBM Z server generations (N-2),
+
+10.2  HMC and SE changes and new features
+
+The initial release that is included with IBM z16 is HMC and SE Driver 51/Version 2.16.0. Check the 'What's new' widget (which is available in the HMC interface) to examine the new features that are available.
+
+For more information about HMC and SE functions, use the HMC and SE console help system or see IBM Resource Link (login required), select Library , the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide .
+
+10.2.1  Driver 51/Version 2.16.0 HMC and SE new features
+
+The following support was added with Driver 51/Version 2.16.0:
+
+- /SM590000 Enhanced Multi-Factor Authentication (MFA) functions
+

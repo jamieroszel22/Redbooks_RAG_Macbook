@@ -1,0 +1,23 @@
+only)
+- -FICON Express32S (new build only)
+- -FICON Express16SA (carry forward only)
+- -FICON Express16S+ (carry forward only)
+- /SM590000 Network connectivity:
+- -OSA-Express7S 1.2 (new build only)
+
+- -OSA-Express7S (carry forward only)
+- -OSA-Express6S (carry forward only)
+- -RoCE Express3 (new build only)
+- -RoCE Express2.1 (carry forward only)
+- -RoCE Express2 (carry forward only)
+- /SM590000 Cryptographic features:
+- -Crypto Express8S, one or two HSMs 6  (new build only)
+- -Crypto Express7S, 1- or 2-port 7 (carry forward only)
+- -Crypto Express6S (carry forward only)
+- /SM590000 Clustering connectivity 8 :
+- -ICA SR1.1 (new build or carry forward)
+- -ICA SR (carry forward only)
+- -Coupling Express2 Long Reach (new build only)
+
+1.2.9  Special-purpose features and functions
+

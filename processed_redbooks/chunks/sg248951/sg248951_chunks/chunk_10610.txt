@@ -1,0 +1,15 @@
+pacity (for example, 2.5 processors).
+- /SM590000 Use Change LPAR Group Controls (as with windows that are used for software group-defined capacity), as shown in Figure 10-22.
+
+<!-- missing-text -->
+
+Absolute capping is specified as an absolute number of processors to which the group's activity is capped. The value is specified to hundredths of a processor (for example, 4.56 processors) worth of capacity.
+
+The value is not tied to the Licensed Internal Code (LIC) configuration code (LICCC). Any value 0.01 - 255.00 can be specified. This configuration makes the profiles more portable,
+
+which means that you do not encounter problems when profiles are migrated to new machines.
+
+Although the absolute cap can be specified to hundredths of a processor, the exact amount might not be that precise. The same factors that influence the 'machine capacity' also influence the precision with which the absolute capping works.
+
+LPAR absolute capping can be changed through scheduled operations start.
+

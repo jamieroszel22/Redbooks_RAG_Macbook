@@ -1,0 +1,15 @@
+before the swap.
+- /SM590000 If GDPS is used to automate the shift, it must be set up with the correct LIC records to add capacity in the target systems and remove capacity in the base systems site.
+
+Site swap example
+
+Figure 8-16 on page 371 - Figure 8-18 on page 372 show a sequence of events to move capacity from one site to another by using the Flexible Capacity features of the IBM z16.
+
+A Flexible Capacity record is installed on the machines at each site. The machine at Site A has the base capacity that is configured at the same level as the high water mark of the Site B machine and has flex capacity that is activated to its HWM.
+
+The flex capacity is then added to the machine at Site B, which brings it up to the Site A HWM and workload is transferred.
+
+After all workload is transferred (within 24 hours), the capacity of the Site A machine is reduced to the base level. Workload can continue to run at Site B for up to a year.
+
+<!-- missing-text -->
+

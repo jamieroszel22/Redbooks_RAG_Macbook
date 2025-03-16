@@ -1,0 +1,8 @@
+or otherwise made unusable during the CBU test. 5
+
+Important: CBU is for disaster and recovery purposes only. It cannot be used for peak workload management or for a planned event.
+
+8.10.1  Ordering
+
+The CBU process allows for CBU to activate CPs, ICFs, zIIPs, IFLs, and SAPs. To use the CBU process, a CBU enablement feature (FC 9910) must be ordered and installed. You must order the quantity and type of PU that you require by using the following feature codes:
+

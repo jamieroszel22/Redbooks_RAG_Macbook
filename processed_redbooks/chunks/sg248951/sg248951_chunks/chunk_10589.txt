@@ -1,0 +1,15 @@
+ and SE can communicate by using IPv4, IPv6, or both.
+
+IPv6 link-local addresses feature the following characteristics:
+
+- /SM590000 Every IPv6 network interface is assigned a link-local IP address.
+
+- /SM590000 A link-local address is used on a single link (subnet) only and is never routed.
+- /SM590000 Two IPv6-capable hosts on a subnet can communicate by using link-local addresses, without having any other IP addresses assigned. If HMC-to-SE IPv6 link-local is working, the SE/CPC appears in System Management → Unmanaged Systems on the HMC.
+
+10.3.6  Assigning TCP/IP addresses to the HMC, SE and ETS
+
+Use the worksheet in the Installation Manuals, GC28-7041 (A02), GC28-7036 (AGZ) under ' Hardware Management Appliance and Support Element customer configuration requirements ', and the HMC and SE Network Information Worksheet , GC28-7023, to plan your HMC, SE, and ETS IP configuration.
+
+An HMC can have the following IP configurations:
+

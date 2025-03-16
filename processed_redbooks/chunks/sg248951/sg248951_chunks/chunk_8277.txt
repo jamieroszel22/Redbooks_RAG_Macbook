@@ -1,0 +1,8 @@
+le on installed processor drawers of the backup system. The capacity must be available as unused PUs, as a possibility to increase the model capacity identifier on a sub-capacity system, or as both.
+
+A CPE contract must be in place before the special code that enables this capability can be loaded on the system. The standard CPE contract provides for one 3-day planned activation at a specific date. For more information, contact your IBM representative.
+
+- /SM590000 The System Recovery Boost Upgrade allows a concurrent activation of extra zIIPs.
+
+The System Recovery Boost Upgrade record offering can be used to provide extra zIIP capacity that can be used by the System Recovery Boost facility. You might want to consider the use of this offering if your server is a full capacity model (7nn) and can benefit from more CP capacity (running on zIIPs) for system shutdown and restart. The capacity is delivered as zIIPs that can perform CP work during the boost periods for an LPAR.
+

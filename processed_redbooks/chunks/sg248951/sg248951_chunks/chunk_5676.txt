@@ -1,0 +1,11 @@
+ON director features limited capability to assign ISL routes that are based on workload. This limitation can result in unbalanced use of ISLs (some might be overloaded, while others are under-used).
+
+The dynamic routing ISL routes are dynamically changed based on the Fibre Channel exchange ID, which is unique for each I/O operation. ISL is assigned at I/O request time; therefore, different I/Os from same incoming port to same destination port are assigned different ISLs.
+
+With FIDR, IBM z16 servers feature the following advantages for performance and management in configurations with ISL and cascaded FICON directors:
+
+- /SM590000 Support sharing of ISLs between FICON and FCP (PPRC or distributed)
+- /SM590000 I/O traffic is better balanced between all available ISLs
+- /SM590000 Improved use of FICON director and ISL
+- /SM590000 Easier to manage with a predicable and repeatable I/O performance
+

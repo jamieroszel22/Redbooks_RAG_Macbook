@@ -1,0 +1,10 @@
+Within each single drawer, IBM z16 provides 25% greater capacity than IBM z15 for standard models and 40% greater capacity on the maximum configured model, which enables efficient partition scaling.
+
+This comparison is based on the Large System Performance Reference (LSPR) mixed workload analysis. The range of performance ratings across the individual LSPR workloads is likely to feature a large spread. More performance variation of individual logical partitions (LPARs) is available when an increased number of partitions and more PUs are available. For more information, see Chapter 12, 'Performance and capacity planning' on page 473.
+
+For more information about performance, see the LSPR website.
+
+For more information about millions of service units (MSUs) ratings, see the IBM Z  Software Contracts website.
+
+1.1.3  Supported operating systems
+

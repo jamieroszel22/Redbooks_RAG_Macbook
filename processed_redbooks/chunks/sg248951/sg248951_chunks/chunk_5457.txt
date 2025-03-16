@@ -1,0 +1,13 @@
+by Adapter ID (AID).
+
+At least one I/O feature (FICON) or one coupling link feature (ICA SR or CE LR) must be present in the minimum configuration.
+
+The following features can be shared and spanned:
+
+- /SM590000 FICON channels that are defined as FC or FCP
+- /SM590000 OSA-Express features that are defined as OSC, OSD, or OSE
+- /SM590000 Coupling links that are defined as CS5 or CL5
+- /SM590000 HiperSockets that are defined as IQD
+
+The following features are plugged into a PCIe+ I/O drawer and do not require the definition of a CHPID and CHPID type:
+

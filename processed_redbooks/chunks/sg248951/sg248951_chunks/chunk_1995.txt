@@ -1,0 +1,17 @@
+memory sizes that are available for the IBM z16 A01 are listed in Table 2-10.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+2.6  Reliability, availability, and serviceability
+
+IBM Z servers continue to deliver enterprise class RAS with IBM z16. The main philosophy behind RAS is about preventing or tolerating (masking) outages. It is also about providing the necessary instrumentation (in hardware, LIC and microcode, and software) to capture or collect the relevant failure information to help identify an issue without requiring a re-creation of the event. These outages can be planned or unplanned, as shown in the following examples:
+
+- /SM590000 An unplanned outage because of loss of cache coherency
+- /SM590000 An unplanned outage because of a firmware problem
+- /SM590000 A planned outage for a disruptive firmware upgrade
+- /SM590000 A planned outage to add physical memory to a single CPC drawer configuration
+

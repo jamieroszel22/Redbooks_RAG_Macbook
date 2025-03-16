@@ -1,0 +1,18 @@
+m number of PUs per system image
+
+The maximum number of PUs that is supported by each operating system image and by special-purpose LPARs are listed in Table 7-12 on page 266.
+
+<!-- missing-text -->
+
+- a. IBM z16 A01 LPARs support 200-way without multithreading; 128-way with multithreading (SMT).
+- b. Total characterizable PUs, including zIIPs and CPs.
+- c. 80-way without multithreading and 40-way with multithreading enabled.
+- d. 80-way without multithreading and 40-way with multithreading enabled.
+- e. An 80-way without multithreading and 40-way with multithreading enabled. Requires PTF for APAR VM66265.
+
+Maximum main storage size
+
+The maximum amount of main storage that is supported by current operating systems is listed in Table 7-13. A maximum of 16 TB of main storage can be defined for an LPAR on an IBM z16 server.
+
+<!-- missing-text -->
+

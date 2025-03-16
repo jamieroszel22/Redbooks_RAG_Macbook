@@ -1,0 +1,2 @@
+Sysplex cluster maximizes availability in the following ways:
+

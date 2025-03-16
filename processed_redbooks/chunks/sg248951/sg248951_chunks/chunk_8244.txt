@@ -1,0 +1,12 @@
+) is installed on the system and the relevant CIU contract agreements are in place. The CIU facility supports only LICCC upgrades.
+
+For more information, see 8.2.4, 'Permanent upgrades' on page 332.
+
+Tip: An MES provides system upgrades that can result in more enabled processors, a different central processor (CP) capacity level, more processor drawers, memory, PCIe+ I/O drawers, and I/O features (physical upgrade). Extra planning tasks are required for nondisruptive logical upgrades. An MES is ordered through your IBM representative and installed by IBM service support representatives (IBM SSRs).
+
+- /SM590000 Temporary upgrades
+
+All temporary upgrades are LICCC-based. The one billable capacity offering is On/Off Capacity on Demand (CoD), which can be used for short-term capacity requirements and are pre-paid or post-paid.
+
+The two replacement capacity offerings available are Capacity Backup (CBU) and Capacity for Planned Event (CPE).
+

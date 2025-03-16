@@ -1,0 +1,8 @@
+moved and replaced on IBM z16 virtual L3 and L4 cache structure.
+
+<!-- missing-text -->
+
+9.2.2  Main memory
+
+IBM z16 memory consists of the following features:
+

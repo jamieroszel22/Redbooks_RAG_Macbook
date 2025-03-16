@@ -1,0 +1,15 @@
+
+- /SM590000 Up to 48 DIMM are used per drawer in two rows (40 TB system maximum):
+- -Organized in 8-channel Reed-Solomon RAIM groups
+- GLYPH&lt;129&gt; 50% reduced RAIM overhead (compared to IBM z15)
+- GLYPH&lt;129&gt; RAIM protection (similar to IBM z15)
+- -Up to three chip marks and one channel mark
+- -DDR4 DRAM with on chip power regulation: N+1 voltage regulators
+- -Standard Open Memory Interface (OMI); up to six OMI per drawer:
+- GLYPH&lt;129&gt; CRC/Retry for soft errors
+- GLYPH&lt;129&gt; Degrade bus lanes from four lanes to two lanes on hard error
+- -No waiting for all eight RAIM channels, use first seven to respond:
+- GLYPH&lt;129&gt; RAIM recovery is used to enhance performance without affecting RAS
+- GLYPH&lt;129&gt; Processor uses data from the first seven channels to respond
+- GLYPH&lt;129&gt; Refetch data by using all eight RAIM channels if an error occurs
+- /SM590000 Flexible memory:

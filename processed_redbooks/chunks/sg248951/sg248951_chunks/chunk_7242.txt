@@ -1,0 +1,12 @@
+ements capacity provisioning policies. Several implementation options are available, from an analysis mode that issues only guidelines, to an autonomic mode that provides fully automated operations.
+
+Replacing manual monitoring with autonomic management or supporting manual operation with guidelines can help ensure that sufficient processing power is available with the least possible delay. The supported operating systems are listed in Table 7-3 on page 253.
+
+Program-directed re-IPL
+
+Program directed re-IPL allows an operating system to re-IPL without operator intervention. This function is supported for SCSI and IBM extended count key data (IBM ECKD) devices.
+
+The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254.
+
+IOCP
+

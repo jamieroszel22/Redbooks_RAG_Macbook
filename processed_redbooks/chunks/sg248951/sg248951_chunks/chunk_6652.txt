@@ -1,0 +1,14 @@
+m (DSP). The use of this function requires a service agreement with Visa. You must maintain a valid service agreement with Visa when you use DSP/FPE.
+
+AES PIN support for the German banking industry
+
+The German banking industry organization, DK, defined a new set of PIN processing functions to be used on the internal systems of banks and their servers. CCA is designed to support the functions that are essential to those parts of the German banking industry that are governed by DK requirements. The functions include key management support for new AES key types, AES key derivation support, and several DK-specific PIN and administrative functions.
+
+This support includes PIN method APIs, PIN administration APIs, new key management verbs, and new access control points support that is needed for DK-defined functions.
+
+Support for the updated German Banking standard (DK)
+
+Update support requires ICSF WD19 (HCR77D1) for z/OS V2R2, V2R3, and V2R4.
+
+PKA Translate UDX function into CCA
+

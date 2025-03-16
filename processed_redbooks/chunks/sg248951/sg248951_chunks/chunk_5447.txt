@@ -1,0 +1,13 @@
+oupling links can be defined as shared between images (z/OS) within a CSS. They also can be spanned across multiple CSSs in a CPC. For ICA SR features, a maximum four CHPIDs per port can be defined.
+
+When STP 5  (FC 1021) is available, ICA SR coupling links can be defined as timing-only links to other IBM z16, IBM z15, IBM z14 ZR1, or IBM z14 M0x systems. The ICA SR cannot be connected to InfiniBand coupling fan-outs.
+
+These two fan-out features are housed in the PCIe+ Gen3 I/O fan-out slot on the IBM z16 CPC drawers. Up 48 ICA SR and ICA SR1.1 features (up to 96 ports) are supported on an IBM z16 A01 system.
+
+OM3 fiber optic can be used for distances up to 100 meters (328 feet). OM4 fiber optic cables can be used for distances up to 150 meters (492 feet). For more information, see the following publications:
+
+- /SM590000 Planning for Fiber Optic Links, GA23-1409
+- /SM590000 3931 Installation Manual for Physical Planning, GC28-7015
+
+4.4.3  Fan-out considerations
+

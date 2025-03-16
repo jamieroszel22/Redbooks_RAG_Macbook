@@ -1,0 +1,19 @@
+s to an IBM z16 A01 max 39.
+
+- /SM590000 Nondisruptive
+
+Nondisruptive upgrades do not require the software or operating system to be restarted for the upgrade to take effect.
+
+- /SM590000 Disruptive
+
+An upgrade is considered disruptive when resources that are modified or added to an operating system image require that the operating system be restarted to configure the newly added resources.
+
+A Concurrent upgrade might be disruptive to operating systems or programs that do not support the upgrades while being nondisruptive to others. For more information, see 8.12, 'Planning for nondisruptive upgrades' on page 372.
+
+8.2.4  Permanent upgrades
+
+Permanent upgrades can be obtained by using the following processes:
+
+- /SM590000 Ordered through an IBM marketing representative
+- /SM590000 Initiated by the client with the CIU on the IBM Resource Link
+

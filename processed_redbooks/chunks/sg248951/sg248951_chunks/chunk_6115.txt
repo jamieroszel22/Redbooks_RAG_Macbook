@@ -1,0 +1,9 @@
+he Crypto Express7S when it is configured in EP11 mode.
+- /SM590000 Accelerator (CEX8A) for acceleration of public key and private key cryptographic operations that are used with SSL/TLS processing.
+
+For more information, see 6.5.4, 'Crypto Express8S as an accelerator' on page 235.
+
+These modes can be configured by using the SE. The PCIe adapter must be configured offline to change the mode.
+
+Attention: Switching between configuration modes erases all adapter secrets. The exception is when you are switching from Secure CCA to accelerator, and vice versa.
+

@@ -1,0 +1,18 @@
+rnet feature can be configured as CHPID type OSC, OSD, OSE, or OSM. Non-QDIO operation mode requires CHPID type OSE.
+
+Note: CHPID types OSM, OSN, and OSX are not supported on IBM z16.
+
+OSA-Express6S
+
+The OSA-Express6S feature is installed in the PCIe+ I/O drawer. The following OSA-Express6S features can be installed on IBM z16 servers (when carried forward):
+
+- /SM590000 OSA-Express6S 10 Gigabit Ethernet LR, FC 0424
+- /SM590000 OSA-Express6S 10 Gigabit Ethernet SR, FC 0425
+- /SM590000 OSA-Express6S Gigabit Ethernet LX, FC 0422
+- /SM590000 OSA-Express6S Gigabit Ethernet SX, FC 0423
+- /SM590000 OSA-Express6S 1000BASE-T Ethernet, FC 0426
+
+The supported OSA-Express6S features are listed in Table 4-8 on page 179.
+
+OSA-Express6S 10 Gigabit Ethernet LR (FC 0424)
+

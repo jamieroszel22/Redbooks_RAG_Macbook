@@ -1,0 +1,7 @@
+ the capacity setting of the CPs, and to activate unused PUs.
+- /SM590000 An IBM z16 Max 82 CMI 715 with 15 CPs, 4 IFLs, and 1 ICF has 62 unused PUs available. It can activate up to 62 CBU features.
+
+The ordering system allows for over-configuration in the order. You can order up to 200 CBU features, regardless of the current configuration. However, at activation, only the capacity that is installed can be activated. At activation, you can decide to activate only a subset of the CBU features that are ordered for the system.
+
+Sub-capacity makes a difference in the way that the CBU features are completed. On the full-capacity models, the CBU features indicate the amount of extra capacity that is needed. If the amount of necessary CBU capacity is equal to four CPs, the CBU configuration is four CBU CPs.
+

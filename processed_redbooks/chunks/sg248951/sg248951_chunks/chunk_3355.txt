@@ -1,0 +1,22 @@
+ysis Tool for z/OS
+- /SM590000 Data Virtualization Manager for z/OS (DVM)
+- /SM590000 IzODA (Apache Spark workloads)
+- /SM590000 Watson Machine Learning for z/OS (WMLz) for Mleap and Spark workloads
+
+- /SM590000 IBM Z Common Data Provider (CDP)
+- /SM590000 IBM Omegamon Portfolio components
+- /SM590000 IBM RMF (Monitor III work)
+- /SM590000 IBM Developer for z/OS Enterprise Edition components.
+
+For more information about zIIP and eligible workloads, see the IBM zIIP web page.
+
+zIIP installation
+
+One CP must be installed with or before any zIIP is installed. In IBM z16 A01, the zIIP-to-CP ratio is 2:1 9 , which means that up to 132 zIIPs on feature Max200 can be characterized.
+
+Unassigned zIIPs
+
+New on IBM z16, an ICF that is purchased but not activated is registered as an unassigned ICF (FC 1974). When the system is later upgraded with another ICF, the system recognizes that an ICF was purchased and is present.
+
+The allowable number of zIIPs for each model is listed in Table 3-3.
+

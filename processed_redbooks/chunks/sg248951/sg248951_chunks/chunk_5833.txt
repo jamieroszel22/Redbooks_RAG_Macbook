@@ -1,0 +1,11 @@
+orts that help you understand the changes that are being made for a new system, or a system upgrade, and what the target configuration looks like.
+- /SM590000 Hardware configuration definition (HCD)
+
+HCD supplies an interactive dialog to generate the IODF, and later the IOCDS. Generally, use HCD or Hardware Configuration Manager (HCM) to generate the I/O configuration rather than writing I/O configuration program (IOCP) statements. The validation checking that HCD runs against a IODF source file helps minimize the risk of errors before an I/O configuration is activated.
+
+HCD support for multiple channel subsystems is available with z/VM and z/OS. HCD provides the capability to make dynamic hardware and software I/O configuration changes.
+
+Note: Specific functions might require specific levels of an operating system, PTFs, or both.
+
+Consult the suitable fix categories:
+

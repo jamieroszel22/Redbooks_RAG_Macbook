@@ -1,0 +1,10 @@
+tion adapter (ICA) Short Reach (SR) links are used, an unambiguous 'going away signal' is sent when the server on which the coupling link is running is about to enter a failed (check stopped) state.
+
+When the 'going away signal' that is sent by the Current Time Server (CTS) in an STP-only Coordinated Timing Network (CTN) is received by the Backup Time Server (BTS), the BTS can safely take over as the CTS without relying on the previous Offline Signal (OLS) in a two-server CTN, or as the Arbiter in a CTN with three or more servers.
+
+Enhanced Console Assisted Recovery (ECAR) contains recovery algorithms during a failing Primary Time Server (PTS) and uses communication over the HMA/SE network to assist with BTS takeover.
+
+For more information, see Chapter 10, 'Hardware Management Console and Support Element' on page 407.
+
+Coupling Express2 LR does not support the 'going away signal'; however, ECAR can be used to assist with recovery in the following configurations:
+

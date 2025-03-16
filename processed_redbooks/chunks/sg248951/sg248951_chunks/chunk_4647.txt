@@ -1,0 +1,10 @@
+ (debug memory dump data, logs, and so on) are encrypted and do not contain any user or application data.
+
+- /SM590000 No operating system access
+- After the IBM SSC appliance is built, Secure Shell (SSH) and the command line-interface (CLI) are disabled, which ensures that even system administrators cannot access the contents of the IBM SSC and do not know which application is running there.
+- /SM590000 Applications that run inside IBM SSC are being accessed externally by REST APIs only, in a transparent way to user.
+- /SM590000 Tamper-proof SSC Secure Boot:
+- -IBM SSC-eligible applications are booted into IBM SSC by using verified booting sequence, where only trusted and digitally signed and verified by IBM software code is uploaded into the IBM SSC.
+- -Vertical workload isolation, certified by EAL5+ Common Criteria Standard, which is the highest level that ensures workload separation and isolation.
+- -Horizontal workload isolation: Separation from the rest of the host environment.
+

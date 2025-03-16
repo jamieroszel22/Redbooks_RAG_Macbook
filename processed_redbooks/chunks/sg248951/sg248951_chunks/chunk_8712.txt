@@ -1,0 +1,10 @@
+3 CP CBU features to upgrade to a 707 (the red path).
+
+<!-- missing-text -->
+
+Note: System Recovery Boost record does not affect model capacity identifier.
+
+8.10.3  Automatic CBU enablement for GDPS
+
+The IBM Geographically Dispersed Parallel Sysplex (GDPS) enables automatic management of the PUs that are provided by the CBU feature during a system or site failure. Upon detection of a site failure or planned disaster test, GDPS concurrently adds CPs to the systems in the take-over site to restore processing power for mission-critical production workloads. GDPS automation runs the following tasks:
+

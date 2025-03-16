@@ -1,0 +1,10 @@
+ty dispatching (DYNDISP) function features a dispatching algorithm that you can use to define a backup CF in an LPAR on the system. When this LPAR is in backup mode, it uses few processor resources.
+
+DYNDISP allows more environments with multiple CF images to coexist in a server, and to share CF engines with reasonable performance. DYNDISP THIN is the only option for CF images that use shared processors on IBM z16. For more information, see 3.9.3, 'Dynamic CF dispatching' on page 139.
+
+Coupling Facility Processor scalability
+
+CF work management and dispatcher changed to improve efficiency as processors are added to scale up the capacity of a CF image.
+
+CF images support up to 16 processors. To obtain sufficient CF capacity, customers might be forced to split the CF workload across more CF images. However, this change brings more configuration complexity and granularity (more, smaller CF images, more coupling links, and logical CHPIDs to define and manage for connectivity, and so on).
+

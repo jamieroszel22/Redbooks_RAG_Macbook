@@ -1,0 +1,14 @@
+ month, the data is used to generate an invoice for the On/Off CoD that was used during that month.
+
+Maintenance
+
+The maintenance price is adjusted as a result of an On/Off CoD activation.
+
+Software
+
+Software Parallel Sysplex license charge (PSLC) clients are billed at the MSU level that is represented by the combined permanent and temporary capacity. All PSLC products are billed at the peak MSUs that are enabled during the month, regardless of usage. Customers with WLC licenses are billed by product at the highest four-hour rolling average for the month. In this instance, temporary capacity does not increase the software bill until that capacity is allocated to LPARs and used.
+
+Results from the STSI instruction reflect the current permanent and temporary CPs. For more information, see 'Store System Information instruction' on page 375.
+
+8.7  z/OS Capacity Provisioning
+

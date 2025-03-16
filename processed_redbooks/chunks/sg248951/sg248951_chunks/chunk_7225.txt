@@ -1,0 +1,20 @@
+vel 23, Level 24, and Level 25 are supported for z/TPF V1R1.
+
+7.3.3  Storage connectivity
+
+The supported storage connectivity functions for z/OS and z/VM are listed Table 7-6.
+
+<!-- missing-text -->
+
+- a. PTFs might be required for toleration support or exploitation of IBM z16 features and functions.
+- b. With PTFs.
+- c. DS8900F only, 9.1 release with z/OS PTFs, does not include XRC.
+- d. DS8900F only, 9.2 release with z/OS PTFs.
+- e. For guest use.
+- f. FC 1146 (optional) is available for IBM z16 A01 and IBM z15 T01 only. Minimum, DS8910 or DS8890 storage, CPACF enablement and FICON Express16SA or FICON FICON Express32S LX/SX.
+- g. CTC channel type is now supported when CPC is managed in DPM mode. See 7.2.2, 'z/VM' on page 250.
+
+The supported storage connectivity functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-7.
+
+<!-- missing-text -->
+

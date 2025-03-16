@@ -1,0 +1,14 @@
+cryptographic coprocessor that can be used 2  for cryptographic algorithms that uses clear keys or protected keys. For more information, see 6.4, 'CP Assist for Cryptographic Functions' on page 219.
+
+The Crypto Express8S adapter is an HSM that is placed in the PCIe+ I/O drawer of IBM z16. It also supports cryptographic algorithms by using secret keys. For more information, see 6.5, 'Crypto Express8S' on page 224.
+
+Finally, a TKE workstation is required for entering keys in a secure way into the Crypto Express8S HSM, which often also is equipped with smart card readers. For more information, see 6.6, 'Trusted Key Entry workstation' on page 239.
+
+The feature codes and purpose of the cryptographic hardware features that are available for IBM z16 are listed in Table 6-1.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+

@@ -1,0 +1,10 @@
+/OS checks this SYID information for currency and correctness, and if incorrect, gather diagnostic information and reactivates the path to correct the problem.
+
+/SM590000 CF monopolization avoidance
+
+z/OS takes advantage of current CF support in CFLEVEL 24 (IBM z15 T01/T02) to deliver improved z/OS support for handling CF monopolization.
+
+With IBM z15 T01/T02, the CF dispatcher monitors in real-time the number of CF tasks that have a command assigned to them for a specific structure on a structure-by-structure basis.
+
+When the number of CF tasks that is used by any structure exceeds a model-dependent CF threshold, and a global threshold on the number of active tasks also is exceeded, the structure is considered to be 'monopolizing' the CF. z/OS is informed of this monopolization.
+

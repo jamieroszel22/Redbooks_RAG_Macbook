@@ -1,0 +1,16 @@
+kB each)
+- -L2 - 32 MB dense SRAM - outside the core, semi-private to the core
+- -L3 (virtual) - up to 256 MB
+- -L4 (virtual) - up to 2048 MB
+- /SM590000 New Core-Nest Interface compared to IBM z15:
+
+- /SM590000 Improved branch prediction design by using SRAM
+- /SM590000 On chip Artificial Intelligence Unit (AIU): Deep learning focus for AI inference
+- /SM590000 Significant architecture changes: COBOL compiler and more
+
+2.3.2  Processor unit (core)
+
+Each processor unit, or core, is a superscalar and out-of-order processor that supports 10 concurrent issues to execution units in a single CPU cycle. Figure 2-15 shows the core floor plan, which contains the following units:
+
+<!-- missing-text -->
+

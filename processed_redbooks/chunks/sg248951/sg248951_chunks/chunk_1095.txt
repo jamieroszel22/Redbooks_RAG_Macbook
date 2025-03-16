@@ -1,0 +1,3 @@
+ry controllers per drawer are populated (up to 48 DIMMs)
+- -Different memory controllers can have different size DIMMs
+

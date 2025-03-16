@@ -1,0 +1,10 @@
+ltiple IP subnets for both SMC-D and SMC-R and is referred to as SMC-Dv2 and SMC-Rv2. SMCv2 requires updates to the underlying network technology. SMC-Dv2 requires ISMv2 and SMC-Rv2 requires RoCEv2.
+
+The SMCv2 protocol is downward compatible, which allows SMCv2 hosts to continue to communicate with SMCv1 previous hosts.
+
+Although SMCv2 changes the SMC connection protocol to enable multiple IP subnet support, SMCv2 does not change how user TCP socket data is transferred, which preserves the benefits of SMC to TCP workloads.
+
+TCP/IP connections that require IPsec are not eligible for any form of SMC.
+
+HiperSockets Completion Queue
+

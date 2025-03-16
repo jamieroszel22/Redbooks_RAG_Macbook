@@ -1,0 +1,20 @@
+ey authentication is not available with the NAT firewall.
+
+- /SM590000 Issue NTP commands
+- NTP command support is added to display the status of remote NTP servers and the current NTP server (HMC).
+
+For more information about planning and setup for STP and NTP, see the following publications:
+
+- /SM590000 IBM Z Server Time Protocol Guide , SG24-8480
+- /SM590000 Server Time Protocol Planning Guide , SG24-7280
+- /SM590000 Server Time Protocol Implementation Guide , SG24-7281
+- /SM590000 Server Time Protocol Recovery Guide, SG24-7380
+
+10.5.11  Security and user ID management
+
+This section addresses security and user ID management considerations.
+
+HMC and SE HD encryption
+
+Consider the following points about IBM z16 (with continued emphasis on encryption):
+

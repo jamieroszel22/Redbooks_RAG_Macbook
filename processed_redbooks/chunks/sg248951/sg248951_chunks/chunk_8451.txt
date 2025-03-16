@@ -1,0 +1,10 @@
+plete billing windows. The activation period is the time from the first activation of resources in a record until the end of the billing window in which the last resource in a record is deactivated.
+
+At the end of each billing window, the tokens are decremented by the highest usage of each resource during the billing window. If any resource in a record does not have enough tokens to cover usage for the next billing window, the entire record is deactivated.
+
+Note: On/Off CoD requires that the Online CoD Buying feature (FC 9900) is installed on the system that you want to upgrade.
+
+The On/Off CoD to Permanent Upgrade Option gives customers a window of opportunity to assess capacity additions to your permanent configurations by using On/Off CoD. If a purchase is made, the hardware On/Off CoD charges during this window (three days or less) are waived. If no purchase is made, you are charged for the temporary use.
+
+The following resources are eligible for temporary use:
+

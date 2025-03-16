@@ -1,0 +1,10 @@
+r zEnterprise Data Compression (zEDC)
+
+Starting with z13, IBM introduced the zEnterprise Data Compression (zEDC) Express PCIe feature, which increases efficiency for data storing and data transfers.
+
+The zEDC Express feature was adopted by enterprises because it helps with software costs for compression and decompression operations (by offloading these operations), and increases data encryption (compression before encryption) efficiency.
+
+With IBM z15, the zEDC Express functions were moved off from the PCIe infrastructure into the processor chip. By moving the compression and decompression into the processor on-chip, IBM z15 processor provides a new level of performance for these tasks and eliminates the need for the zEDC Express feature virtualization. It also brings new use cases to the platform.
+
+The IBM z16 continues to support IBM Integrated Accelerator for zEDC. For more information, see Appendix C, 'IBM Integrated Accelerator for zEnterprise Data Compression' on page 507.
+

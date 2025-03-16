@@ -1,0 +1,4 @@
+CF Default is changed to 'DYNDISP=THIN'
+
+The CF operates with the following Dynamic Dispatching (DYNDISP) models:
+

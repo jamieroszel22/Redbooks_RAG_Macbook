@@ -1,0 +1,23 @@
+Version 2.16.0.
+
+The SE drivers and versions that are supported by the HMC Driver 51/Version 2.16.0 are listed in Table 10-1.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+10.2.7  HMC feature codes
+
+On IBM z16, two HMCs are delivered with the HMA FC 0129. The HMC code runs on the two integrated 1U rack-mounted servers on the top of the IBM z16 A frame. Stand-alone, outside the IBM z16 HMCs (Tower or Rack Mount) can no longer be ordered.
+
+The following HMC feature codes can be carried forward from previous systems:
+
+- /SM590000 Tower FC 0082
+- /SM590000 Tower FC 0062
+- /SM590000 1U Rack Mount FC 0083
+- /SM590000 1U Rack Mount FC 0063
+
+With these HMC feature codes, Driver 51/Version 2.16.0 can be installed to support IBM z16. On the HMCs of the HMA for IBM z15, FC 0100, Driver 51/Version 2.16.0 also can be installed.
+
+10.3  HMC and SE connectivity
+

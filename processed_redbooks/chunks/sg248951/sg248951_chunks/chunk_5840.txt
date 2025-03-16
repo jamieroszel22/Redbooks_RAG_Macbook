@@ -1,0 +1,10 @@
+rotection against attacks that can be started by quantum computers.
+
+The IBM z16 uses quantum-safe technologies to help protect your business-critical infrastructure and data from potential attacks.
+
+The IBM z16 delivers a transparent and consumable approach that enables extensive (pervasive) encryption of data in flight and at rest, with the goal of substantially simplifying data security and reducing the costs that are associated with protecting data while achieving compliance mandates.
+
+Naming: The IBM z16, Machine Type 3931 (M/T 3931), Model A01 is further identified as IBM z16 , unless otherwise specified.
+
+IBM z16 introduced the new PCI Crypto Express8S feature (that can be managed by a new Trusted Key Entry (TKE) workstation) together with a further improved CPACF Coprocessor. In addition, the IBM Common Cryptographic Architecture (CCA) and the IBM Enterprise PKCS #11 (EP11) Licensed Internal Code (LIC) were enhanced.
+

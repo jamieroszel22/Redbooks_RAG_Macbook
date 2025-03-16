@@ -1,0 +1,24 @@
+under z/OS 1  and Linux on IBM Z. A Deep Learning Compiler (DLC) for z/OS and Linux also is available that provide the AI functions to the applications.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Appendix C.
+
+IBM Integrated Accelerator for zEnterprise Data Compression
+
+This appendix describes the new IBM Integrated Accelerator for zEnterprise Data Compression (zEDC) that is implemented in IBM Z hardware.
+
+The appendix includes the following topics:
+
+- /SM590000 'Client value of IBM Z compression' on page 508
+- /SM590000 'IBM z16 IBM Integrated Accelerator for zEDC' on page 509
+- /SM590000 'IBM z16 migration considerations' on page 510
+- /SM590000 'Software support' on page 511
+- /SM590000 'Compression acceleration and Linux on IBM Z' on page 512
+
+Client value of IBM Z compression
+
+The amount of data that is captured, transferred, and stored continues to grow. Software-based compression algorithms can be costly in terms of processor resources, storage costs, and network bandwidth.
+

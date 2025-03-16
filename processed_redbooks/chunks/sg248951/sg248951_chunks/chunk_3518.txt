@@ -1,0 +1,12 @@
+s process is evident in dedicated and shared LPARs that use HiperDispatch.
+
+LPAR dynamic PU reassignment is transparent to operating systems.
+
+LPAR group capacity limit (LPAR group absolute capping)
+
+The group capacity limit feature allows the definition of a group of LPARs on an IBM z16 system, and limits the combined capacity usage by those LPARs. This process allows the system to manage the group so that the group capacity limits in MSUs per hour are not exceeded. To take advantage of this feature, you must be running z/OS V2R2 or later in all LPARs in the group.
+
+PR/SM and WLM work together to enforce the capacity that is defined for the group and the capacity that is optionally defined for each individual LPAR.
+
+LPAR absolute capping
+

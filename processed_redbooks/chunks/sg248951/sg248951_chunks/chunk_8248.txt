@@ -1,0 +1,23 @@
+nent upgrades can be obtained by using the following processes:
+
+- /SM590000 Ordered through an IBM marketing representative
+- /SM590000 Initiated by the client with the CIU on the IBM Resource Link
+
+Tip: The use of the CIU facility for a system requires that the online CoD buying feature (FC 9900) is installed on the system. The CIU facility is enabled through the permanent upgrade authorization feature code (FC 9898).
+
+Permanent upgrades that are ordered through an IBM representative
+
+Through a permanent upgrade, you can accomplish the following tasks:
+
+- /SM590000 Add:
+- -Processor drawers
+- -Peripheral Component Interconnect Express (PCIe) drawers and features
+- -Model capacity
+- -Specialty engines
+- -Memory
+- -I/O channels
+- -Crypto Express cards
+- /SM590000 Activate unassigned model capacity or IFLs, ICFs, or zIIPs
+- /SM590000 Deactivate activated model capacity or IFLs, ICFs, or zIIPs
+- /SM590000 Change specialty engines (recharacterization)
+

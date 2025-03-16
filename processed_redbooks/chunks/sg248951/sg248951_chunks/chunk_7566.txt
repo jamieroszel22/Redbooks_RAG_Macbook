@@ -1,0 +1,17 @@
+ed) allows other nodes or storage area network (SAN) managers to query the name server to determine what is connected to the fabric.
+
+The following attributes are registered for the IBM z16 systems:
+
+- /SM590000 Platform information
+- /SM590000 Channel information
+- /SM590000 Worldwide port name (WWPN)
+- /SM590000 Port type (N\_Port\_ID)
+- /SM590000 FC-4 types that are supported
+- /SM590000 Classes of service that are supported by the channel
+
+The platform and name server registration service are defined in the Fibre Channel Generic Services 4 (FC-GS-4) standard.
+
+The 63.75-K subchannels
+
+Servers before IBM z9 EC reserved 1024 subchannels for internal system use, out of a maximum of 64 K subchannels. Starting with IBM z9 EC, the number of reserved subchannels was reduced to 256, which increased the number of subchannels that are available. Reserved subchannels exist in subchannel set 0 only. One subchannel is reserved in each of subchannel sets 1, 2, and 3.
+

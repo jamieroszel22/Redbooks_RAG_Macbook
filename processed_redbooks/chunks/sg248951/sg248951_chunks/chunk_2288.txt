@@ -1,0 +1,11 @@
+mation about STSI output, see 'Processor identification' on page 374.
+
+The following distinct model capacity identifier ranges are recognized (one for full capacity and three for granular capacity):
+
+- /SM590000 For full-capacity engines, model capacity identifiers 701 - 7K0 are used. They express capacity settings for 1 - 200 characterized CPs.
+- /SM590000 Three model subcapacity identifier ranges offer a unique level of granular subcapacity engines at the low end. They are available for up to 39 characterized CPs. These three subcapacity settings are applied to up to 39 CPs, which combined offer 117 more capacity settings, as described next.
+
+Granular capacity
+
+The IBM z16 A01 server offers 117 capacity settings (granular capacity) for up to 39 CPs. When subcapacity settings are used, PUs beyond 39 can be characterized only as specialty engines. For models with more that 39 CPs, all CPs are running at full capacity (7xx).
+

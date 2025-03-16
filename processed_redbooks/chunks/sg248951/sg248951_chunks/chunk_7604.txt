@@ -1,0 +1,17 @@
+000BASE-T Ethernet feature supports only 1000 Mbps duplex mode (no auto-negotiation to 100 or 10 Mbps)
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA-Express7S 25 Gigabit Ethernet SR (carry forward to IBM z16)
+
+OSA-Express7S 25 GbE SR1.1 (FC 0449) and OSA-Express7S 25 GbE (FC 0429) are installed in the PCIe I/O drawer and have one 25 GbE physical port and requires 25 GbE optics and Ethernet switch 25 GbE support (negotiation down to 10 GbE is not supported).
+
+Consider the following points regarding operating system support:
+
+- /SM590000 z/OS V2R1, V2R2, and V2R3 require fixes for the following APARs: OA55256 (VTAM) and PI95703 (TCP/IP).
+- /SM590000 z/VM V6R4 and V7R1 require PTF for APAR PI99085.
+
+The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261.
+
+OSA-Express7S 10-Gigabit Ethernet LR and SR (carry forward)
+

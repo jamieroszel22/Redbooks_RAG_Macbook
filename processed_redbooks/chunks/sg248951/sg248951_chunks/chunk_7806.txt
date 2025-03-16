@@ -1,0 +1,10 @@
+n is supported by the OSA-Express features on IBM z16 when in QDIO mode (CHPID type OSD). The supported operating systems are listed in Table 7-8 on page 259.
+
+Inbound workload queuing (IWQ) for OSA
+
+Inbound workload queuing (IWQ) creates multiple input queues and allows OSA to differentiate workloads 'off the wire.' It then assigns work to a specific input queue (per device) to z/OS.
+
+Each input queue is a unique type of workload, and has unique service and processing requirements. The IWQ function allows z/OS to preassign the appropriate processing resources for each input queue. This approach allows multiple concurrent z/OS processing threads to process each unique input queue (workload), which avoids traditional resource contention.
+
+IWQ reduces the conventional z/OS processing that is required to identify and separate unique workloads. This advantage results in improved overall system performance and scalability.
+

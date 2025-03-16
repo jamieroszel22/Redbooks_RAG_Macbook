@@ -1,0 +1,14 @@
+ider the following points:
+
+- /SM590000 Bits 0 - 7:
+- -For a program that is run by an IBM machine in a level-1 configuration (basic machine mode), or for a program being run by a level-2 configuration (in a logical partition), the environment field contains 00 hex.
+- -For a program that is run natively by the System z Personal-Development Tool, the environment field contains C1 hex or D3 hex.
+- -For a program that is run by a level-3 configuration (a virtual machine, such as a z/VM guest), the environment field contains FF hex.
+- /SM590000 Bit positions 8 - 31
+- Contains six hexadecimal digits. The right-most of these digits can represent the machine's serial number.
+- /SM590000 Bit positions 32 - 47
+- Contains an unsigned packed-decimal number that identifies the machine type of the CPU.
+- /SM590000 Bit position 48
+- Specifies the format of the first two hexadecimal digits of the configuration-identification field.
+- /SM590000 Bit positions 49 - 63 are reserved and stored as zeros.
+

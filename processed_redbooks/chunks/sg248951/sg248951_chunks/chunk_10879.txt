@@ -1,0 +1,8 @@
+6 does not apply).
+
+A holistic performance approach is required when the performance gains are reduced because of frequency. Therefore, hardware and software synergy becomes an absolute requirement.
+
+Starting with z13, Instructions Per Cycle (IPC) improvements in core and cache became the driving factor for performance gains. As these microarchitectural features increase (which contributes to instruction parallelism), overall workload performance variability also increases because not all workloads react the same way to these enhancements.
+
+Because of the nature of the IBM z16 multi-CPC drawer system and resource management across those drawers, performance variability from application to application is expected.
+

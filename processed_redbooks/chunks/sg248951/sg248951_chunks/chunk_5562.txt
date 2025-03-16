@@ -1,0 +1,2 @@
+e plugged into a PCIe+ I/O drawer and do not require the definition of a CHPID and CHPID type:
+

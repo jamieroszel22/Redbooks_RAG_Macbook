@@ -1,0 +1,18 @@
+change your automation scripts now.
+
+For more information, see Capacity on-Demand User's Guide , SC28-7025.
+
+For more information about the use of and setting up CPM, see the following publications:
+
+- /SM590000 z/OS MVS Capacity Provisioning User's Guide , SC34-2661
+- /SM590000 Capacity on-Demand User's Guide , SC28-7025
+
+10.5.8  Server Time Protocol support
+
+Important: The Sysplex Time task on the SE was discontinued with IBM z15. Therefore, an HMC with Driver 51/Version 2.16.0 is required to access the Manage System Time task for IBM z16 A01, IBM z15 T01, and IBM z15 T02 CPCs.
+
+IBM z16 implements the following major enhancements in support of the Server Time Protocol function:
+
+- /SM590000 CPC direct Ethernet connectivity for the external time source (ETS)
+- In previous generation IBM Z, the ETS for the STP was provided by connecting the Support element to the client network.
+

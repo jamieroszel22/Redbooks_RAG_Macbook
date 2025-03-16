@@ -1,0 +1,12 @@
+es
+
+z/OS APAR OA60650 and VSAM RLS APAR OA62059 are required in z/OS V2R3, V2R4, and V2R5.
+
+- /SM590000 DYNDISP=ON|OFF is deprecated on IBM z16, keeping only THIN option for shared-engine CF images.
+
+Coupling Facility images can run with shared or dedicated processors. Dedicated processors are recommended for best performance and production use (continuous polling model). Shared processors are recommended for test and development use in which a CF image requires significantly less than one processor's worth of capacity, which encourages sharing CF processors across multiple CF images, or for less-performance critical production usage.
+
+In shared-processor mode, the CF can currently use several different Dynamic Dispatching (DYNDISP) models:
+
+- -DYNDISP=OFF
+

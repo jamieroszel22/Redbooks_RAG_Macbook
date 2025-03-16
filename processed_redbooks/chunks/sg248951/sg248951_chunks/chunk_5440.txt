@@ -1,0 +1,12 @@
+Ie fan-out card or cable failure, 16 I/O cards in two domains can be driven through a single PCIe switch card. It is not possible to drive 16 I/O cards after one of the PCIe switch cards is removed.
+
+The two switch cards are interconnected through the PCIe+ I/O drawer board (Redundant I/O Interconnect, or RII). In addition, switch cards in same PCIe+ I/O drawer are connected to PCIe fan-outs across clusters in CPC drawer for higher availability.
+
+The RII design provides a failover capability during a PCIe fan-out card failure. Both domains in one of these PCIe+ I/O drawers are activated with two fan-outs. The Base Management Cards (BMCs) are used for system control.
+
+The domains and their related I/O slots are shown in Figure 4-2 on page 152.
+
+Each I/O domain supports up to eight features (FICON, OSA, Crypto, and so on.) All I/O cards connect to the PCIe switch card through the backplane board. The I/O domains and slots are listed in Table 4-1.
+
+<!-- missing-text -->
+

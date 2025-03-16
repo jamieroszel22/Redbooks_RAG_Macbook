@@ -1,0 +1,10 @@
+luding IBM Z (on-premises and in hybrid cloud) and then, deploy it efficiently on IBM Z in colocation with the transactional workloads. No other development effort is needed to enable this strategy.
+
+IBM has invested into Open Neural Network Exchange (ONNX), which is a standard format for representing AI models that allows a data scientist to build and train a model in the framework of choice without worrying about the downstream inference implications.
+
+To enable deployment of ONNX models, IBM provides an ONNX model compiler that is optimized for IBM Z. IBM also optimized key Open Source frameworks, such as TensorFlow and TensorFlow Serving, for use on IBM Z platform.
+
+IBM open-sourced zDNN library provides common APIs for the functions that allow to convert tensor format to the accelerator required one. Customers can run zDNN under z/OS (in zCX) and Linux on IBM Z.
+
+A Deep Learning Compiler (DLC) for z/OS and for Linux on IBM Z provides the AI functions to the applications.
+

@@ -1,0 +1,6 @@
+ the full-capacity models, the CBU features indicate the amount of extra capacity that is needed. If the amount of necessary CBU capacity is equal to four CPs, the CBU configuration is four CBU CPs.
+
+The sub-capacity models feature multiple capacity settings of 4 xx , 5 yy , or 6 yy . The standard models use the capacity setting 7 nn . To change the capacity setting, the number of CBU CPs must be equal to or greater than the number of CPs in the base configuration.
+
+For example, if the base configuration is a two-way 402, two CBU feature codes are required to provide a CBU configuration of a four-way of the same capacity setting. If the required CBU capacity changes the capacity setting of the CPs, going from model capacity identifier 402 to a CBU configuration of a four-way 504 requires four CBU feature codes with a capacity setting of 5 yy .
+

@@ -1,0 +1,8 @@
+ previous IBM Z server generations, specific configurations that use Bulk Power Adapter (BPA) with IBF can sense an 'operating on battery condition' if a power interruption occurs on any power cord.
+
+For STP, if CPC1 (Primary Time Server and Current Time Server) senses a shift to an on-battery power condition, a signal indicating potential imminent server disruption of CPC1 is sent to CPC2 (the Backup Time Server).
+
+If within 30 seconds the BTS (CPC2) does not receive a signal that power is back to fully redundant on CPC1, CPC2 takes over as CTS. After normal power is restored to CPC1, CPC1 can automatically return to the CTS role.
+
+With IBM z16, the IBF was discontinued. As such, Coupling Facility Nonvolatility requires Room-level, Row-level, or System-Level UPS for protecting against power failures.
+

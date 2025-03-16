@@ -1,0 +1,18 @@
+/SM590000 Activate unassigned model capacity or IFLs, ICFs, or zIIPs
+- /SM590000 Deactivate activated model capacity or IFLs, ICFs, or zIIPs
+- /SM590000 Change specialty engines (recharacterization)
+
+Considerations: Most of the MESs can be concurrently applied without disrupting the workload. For more information, see 8.3, 'Concurrent upgrades' on page 334. However, specific MES changes might be disruptive, such as adding PCIe IO drawers.
+
+Memory upgrades that require dual inline memory module (DIMM) changes can be made nondisruptively if multiple CPC drawers are available and the
+
+flexible memory option is used.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+Permanent upgrades by using CIU on the IBM Resource Link
+
+Ordering the following permanent upgrades by using the CIU application through Resource Link allows you to add capacity to fit within your hardware:
+

@@ -1,0 +1,12 @@
+L4 caches are now implemented as virtual caches and dynamically allocated on the shared part of the L2 semi-private cache.
+
+The cache structure of the IBM z16 features the following characteristics:
+
+- /SM590000 Large L1, L2 caches (more data closer to the core).
+- /SM590000 L1 cache is implemented by using SRAM technology and has the same size than on IBM z15 (128 KB for instructions and 128 KB for data).
+- /SM590000 L2 cache (32 MB in total) uses SRAM technology, and is semi-private to each PU core with 16 MB dedicated to the associated core, and 16 MB shared with the system (the 50/50 split is adjustable).
+- /SM590000 L3 cache (up to 256 LB) now becomes a virtual cache and can be allocated on any of the share part of a L2 cache.
+- /SM590000 L4 cache (up to 2048 MB) is also a virtual cache and can be allocated on any of the share part of a L2 cache.
+
+<!-- missing-text -->
+

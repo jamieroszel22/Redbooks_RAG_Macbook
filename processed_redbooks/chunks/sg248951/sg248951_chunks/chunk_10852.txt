@@ -1,0 +1,8 @@
+ the platform.
+
+The IBM z16 continues to support IBM Integrated Accelerator for zEDC. For more information, see Appendix C, 'IBM Integrated Accelerator for zEnterprise Data Compression' on page 507.
+
+12.1.4  Primary performance improvement drivers with IBM z16
+
+The attributes and design points of IBM z16 contribute to overall performance and throughput improvements as compared to the IBM z15. The following major items contribute to IBM z16 performance improvements:
+

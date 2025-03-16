@@ -1,0 +1,20 @@
+aded by using the following options:
+
+- /SM590000 USB
+
+If the HMC and SE code is included with a USB drive when a new system is ordered, the load procedure is similar that which was used with a DVD.
+
+- /SM590000 Electronic
+
+If USB load is not allowed, or if FC 0846 (No physical media options is ordered, an ISO image is used for a firmware load over a local area network (LAN). The ISO image can be downloaded through zRSF or an FTP (/FTPS/SFTP) server that is accessible by the LAN.
+
+Important: The ISO image server must be in the same IP subnet with the target system to load the HMC or SE ISO.
+
+Operating system load from removable media or server
+
+z/OS, z/VM, z/VSE, and Linux on IBM Z are available by using a USB or network distribution. z/TPF does not use the HMC for code load.
+
+10.2.6  SE driver and version support with the HMC Driver 51/Version 2.16.0
+
+The driver of the HMC and SE is equivalent to a specific HMC and SE version:
+

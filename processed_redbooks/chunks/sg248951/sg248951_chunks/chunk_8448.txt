@@ -1,0 +1,14 @@
+e Retrieve and apply data option, you are prompted to enter the order activation number to start the permanent upgrade, as shown in Figure 8-9.
+
+<!-- missing-text -->
+
+8.6  On/Off Capacity on Demand
+
+On/Off CoD allows you to temporarily enable PUs and unassigned IFLs that are available within the current hardware model. You can also use it to change capacity settings for CPs to help meet your peak workload requirements.
+
+8.6.1  Overview
+
+The capacity for CPs is expressed in millions of service units (MSUs). Capacity for specialty engines is expressed in number of specialty engines. Capacity tokens are used to limit the resource consumption for all types of processor capacity.
+
+Capacity tokens were introduced to provide better control over resource consumption when On/Off CoD offerings are activated. Tokens represent the following resource consumptions:
+

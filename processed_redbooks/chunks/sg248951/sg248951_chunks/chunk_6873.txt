@@ -1,0 +1,8 @@
+ that is managed through a TKE workstation connection is a TKE host or TKE target. An LPAR with a TCP/IP connection to the TKE is referred to as the TKE host ; all other partitions are TKE targets .
+
+The cryptographic controls that are set for an LPAR through the SE determine whether the workstation is a TKE host or a TKE target.
+
+6.6.2  Optional smart card reader
+
+An optional smart card reader (FC 0891) can be added to the TKE workstation. One FC 0891 includes two smart card readers, two cables to connect them to the TKE workstation, and 20 smart cards. The reader supports the use of smart cards that contain an embedded microprocessor and associated memory for data storage. The memory can contain the keys to be loaded into the Crypto Express features. These readers can be used only with smart cards that have applets that were loaded from a TKE 8.1 or later. These cards are FIPS certified.
+

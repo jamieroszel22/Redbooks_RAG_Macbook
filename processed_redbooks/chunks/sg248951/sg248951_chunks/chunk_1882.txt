@@ -1,0 +1,10 @@
+st, a single frame system, ordered with PDU power, radiator cooling, one CPC drawer, and greater than 32 I/O features to drive three I/O drawers.
+- PCHID numbering is consecutive from top to bottom.
+
+- /SM590000 The second, a three frame system, ordered with PDU power, radiator cooling, four CPC drawers, and greater than 128 I/O features to drive nine I/O drawers.
+- PCHID numbering starts in the A-frame, resumes in the B-frame from top down, and continues to the Z-frame working from the bottom up.
+- /SM590000 The third, a two frame system, ordered with BPA, radiator cooling, one CPC drawer, two reserved CPC drawer slots for future CPC drawer add MES, and greater than 48 I/O features to drive four I/O drawers
+- PCHID numbering starts in the Z-frame, from the bottom and working up.
+
+Consideration for PCHID identification:
+

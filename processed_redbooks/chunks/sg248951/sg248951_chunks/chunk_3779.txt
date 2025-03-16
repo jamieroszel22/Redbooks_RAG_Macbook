@@ -1,0 +1,4 @@
+endations for making structure sizing changes or retargeting work from specific table spaces or data sets to other cache structures.
+
+Consider the following points:
+

@@ -1,0 +1,2 @@
+nnect to the PCIe+ I/O drawers, and Integrated Coupling Adapter Short Reach (ICA SR) coupling links:
+

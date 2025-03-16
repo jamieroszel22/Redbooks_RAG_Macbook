@@ -1,0 +1,14 @@
+ps) processor busses into two PCIe Gen3 x16 (@16 GBps) interfaces to the PCIe switch card in the PCIe+ I/O drawer.
+
+The PCIe switch card spreads the x16 PCIe bus to the PCIe I/O slots in the domain.
+
+In the PCIe+ I/O drawer, the two PCIe switch cards (LG06 and LG16, see Figure 2-24) provide a backup path (Redundant I/O Interconnect [RII]) for each other through the passive connection in the PCIe+ I/O drawer backplane.
+
+<!-- missing-text -->
+
+During a CPC Drawer PCIe+ Gen3 fan-out or cable failure, all 16 PCIe cards in the two domains can be driven through a single PCIe switch card (see Figure 2-25).
+
+<!-- missing-text -->
+
+To support RII between domain pair 0 and 1, the two interconnects to each pair must be driven from two different PCIe fan-outs. Normally, each PCIe interconnect in a pair supports the eight features in its domain. In backup operation mode, one PCIe interconnect supports all 16 features in the domain pair.
+

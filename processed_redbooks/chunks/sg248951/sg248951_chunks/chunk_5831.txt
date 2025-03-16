@@ -1,0 +1,12 @@
+mage IDs are 1 - A.
+
+LPAR ID
+
+The LPAR ID is defined by a user in an image activation profile for each LPAR. It is a 2-digit hexadecimal number 00 - 7F. The LPAR ID must be unique across the server.
+
+Although it is arbitrarily defined by the user, an LPAR ID often is the CSS ID concatenated to its MIF image ID, which makes the value more meaningful for the system administrator. For example, an LPAR with LPAR ID 1A defined in that manner means that the LPAR is defined in LCSS1, with the MIF image ID A.
+
+5.2  I/O configuration management
+
+The following tools are available to help maintain and optimize the I/O configuration:
+

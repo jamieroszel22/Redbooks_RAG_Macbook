@@ -1,0 +1,14 @@
+agnostic data during failures.
+
+VFM also can be used in CF images to provide extended capacity and availability for workloads that use IBM WebSphere MQ Shared Queues structures.
+
+3.10.2  VFM feature
+
+A VFM feature (FC 0644) is 512 GB of memory on IBM z16 A01. The maximum number of VFM features is 12 per IBM z16 A01 system.
+
+Ordered VFM memory reduces the maximum orderable memory for the model.
+
+Simplification in its management is of great value because no hardware adapter is needed to manage. It also has no hardware repair and verify. It has a better performance because no I/O to attached adapter occurs. Finally, because this feature is part of memory, it is protected by RAIM and ECC.
+
+VFM provides physical memory DIMMs that are needed to support activation of all customer purchased memory and HSA on a multiple drawer IBM z16 A01 with one drawer that is done for the following features:
+

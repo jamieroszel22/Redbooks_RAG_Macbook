@@ -1,0 +1,14 @@
+to the FICON Express32S, FICON Express16SA, and FICON Express16S+ features (defined as CHPID type FC).
+
+The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+Request node identification data
+
+The request node identification data (RNID) function for native FICON CHPID type FC allows isolation of cabling-detected errors. The supported operating systems are listed in Table 7-6 on page 257.
+
+FICON link incident reporting
+
+FICON link incident reporting allows an operating system image (without operator intervention) to register link incident reports. The supported operating systems are listed in Table 7-6 on page 257.
+
+Health Check for FICON Dynamic routing
+

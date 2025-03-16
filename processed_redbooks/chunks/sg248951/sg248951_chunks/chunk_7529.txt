@@ -1,0 +1,16 @@
+ primary CF updates. It offers performance advantages for duplexing lock structures and avoids the need for synchronous communication delays during the processing of every duplexed update operation.
+
+Asynchronous CF Duplexing for lock structures requires the following software support:
+
+- /SM590000 z/OS V2R5, V2R4
+- /SM590000 z/OS V2R3 with PTFs for APAR OA47796 and OA49148
+- /SM590000 z/VM V7R3, V7R2 or V7R1
+- /SM590000 Db2 V12 with PTFs for APAR PI66689
+- /SM590000 IRLM V2.R3 with PTFs for APAR PI68378
+
+The supported operating systems are listed in Table 7-5 on page 256.
+
+Asynchronous cross-invalidate for CF cache structures
+
+Asynchronous cross-invalidate (XI) for CF cache structures enables improved efficiency in CF data sharing by adopting a more transactional behavior for cross-invalidate (XI) processing. This processing is used to maintain coherency and consistency of data managers' local buffer pools across the sysplex.
+

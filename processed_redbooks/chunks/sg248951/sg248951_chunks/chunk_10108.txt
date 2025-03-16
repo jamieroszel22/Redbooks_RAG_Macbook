@@ -1,0 +1,8 @@
+ing) are now directly connected to the CPC (no SE ETS connection needed)
+- -Oscillator card shares FRU package with drawer' Base Control Card (BMC)
+- -Concurrent repair of oscillator or control card
+
+A new signal was implemented in IBM z16 hardware for helping with STP recovery. This signal is called N-Mode power signal . In a CTN with PTS and BTS being IBM z16 servers, CTN recovery can be started by the new signal. Systems must have dual power with at least one side of the power capable of holding the power (UPS or similar) for five minutes if a utility power failure occurs.
+
+When PCIe-based integrated communication adapter (ICA) Short Reach (SR) links are used, an unambiguous 'going away signal' is sent when the server on which the coupling link is running is about to enter a failed (check stopped) state.
+

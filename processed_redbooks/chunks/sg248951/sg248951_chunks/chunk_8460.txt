@@ -1,0 +1,6 @@
+ capacity level and adds a processor. The capacity setting 439 does not have an upgrade path through On/Off CoD because you cannot reduce the number of CPs and a 539 is more than twice the capacity.
+
+Use the Large System Performance Reference (LSPR) information to evaluate the capacity requirements according to your workload type. For more information about LSPR data for current IBM processors, see this web page.
+
+The On/Off CoD hardware capacity is charged on a 24-hour basis. A grace period is granted at the end of the On/Off CoD day. This grace period allows up to an hour after the 24-hour billing period to change the On/Off CoD configuration for the next 24-hour billing period or deactivate the current On/Off CoD configuration. The times when the capacity is activated and deactivated are maintained in the IBM z16 and returned to the IBM support systems.
+

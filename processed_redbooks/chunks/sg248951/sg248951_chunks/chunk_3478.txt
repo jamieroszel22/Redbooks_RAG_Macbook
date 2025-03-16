@@ -1,0 +1,8 @@
+gns and allocates each partition memory according to their image profile.
+
+PR/SM controls all physical memory, and can make physical memory available to the configuration when a CPC drawer is added.
+
+In older IBM Z processors, memory allocation was striped across the available CPC drawers because relatively fast connectivity (that is, relatively fast to the processor clock frequency) existed between the drawers. Splitting the work between all of the memory controllers allowed a smooth performance variability.
+
+The memory allocation algorithm changed starting with IBM z13fi. For IBM z16, PR/SM tries to allocate memory into a single CPC drawer. If memory does not fit into a single drawer, PR/SM tries to allocate the memory into the CPC drawer with the most processor entitlement.
+

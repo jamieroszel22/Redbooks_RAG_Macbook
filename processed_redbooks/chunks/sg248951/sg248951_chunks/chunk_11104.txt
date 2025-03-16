@@ -1,0 +1,10 @@
+ition Detail Report. The 'Note' and the partition LCPs are shaded with the same violet color, as shown for partition IFL-01 in Figure 12-12 above and for partition GP-02 in Figure 12-14 on page 496.
+
+<!-- missing-text -->
+
+Figure 12-14 on page 496 shows another example of a Partition Detail Report this time for an IBM z16, 3931-A01, (Max200)/700 with 165 CPS (45 GPs, 44 zIIPs, 60 IFLs and 16 ICFs), and six active partitions (2 GP, 2 zIIP, 1 IFL and 1 ICF). Resources are allocated as shown in the Partition Identification and Partition Configuration fields.
+
+As the IBM z16 (Figure 12-14 on page 496) has 165 CPs, the PU resources are distributed according to the Table 12-2 on page 493, and are shown in the Estimated Distribution of RCPs Across Drawers graph in Figure 12-15 on page 497.
+
+<!-- missing-text -->
+

@@ -1,0 +1,17 @@
+d building new applications.
+
+For more information about cryptographic features and functions, see Chapter 6, 'Cryptographic features' on page 209.
+
+1.2.8  Supported connectivity and crypto features
+
+The IBM z16 provides a PCIe-based infrastructure for the PCIe+ I/O drawers to support the following features:
+
+- /SM590000 Storage connectivity:
+- -zHyperLink Express1.1 (new build and carry forward)
+- -zHyperLink Express (carry forward only)
+- -FICON Express32S (new build only)
+- -FICON Express16SA (carry forward only)
+- -FICON Express16S+ (carry forward only)
+- /SM590000 Network connectivity:
+- -OSA-Express7S 1.2 (new build only)
+

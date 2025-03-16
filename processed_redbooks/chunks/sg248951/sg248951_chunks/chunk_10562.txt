@@ -1,0 +1,20 @@
+ was sent from CONSOLENAME\_EventMonitor@CONSOLENAME.DOMAINNAME. With IBM z16, you can change the sender name (see Figure 10-8).
+
+<!-- missing-text -->
+
+- /SM590000 HMC Data Replication enhancements
+
+By using the Configure Data Replication task, configuration data can be exchanged between linked HMCs; for example, the User Profile Data can be replicated.
+
+An HMC can feature the following replication roles:
+
+- -Primary
+
+An HMC in the role of primary is a Data Replication source to other HMCs that are in the role of replica. A primary HMC can be only a source for Data Replication; it cannot receive replicated data from other HMCs.
+
+- -Peer
+
+An HMC in the role of peer is Data Replication source to other HMCs that are in the role of peer or replica. An HMC in this role receives replicated data from other HMCs that are in the role of peer or primary.
+
+- -Replica
+

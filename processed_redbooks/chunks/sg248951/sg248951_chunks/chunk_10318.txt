@@ -1,0 +1,14 @@
+ask list. Use the View Hardware Configuration option.
+- ICA SR fan-out layouts and ICA to ICA connections. process is a normal part of the I/O connectivity planning. The alternative paths must be
+- -
+- Use the Resource Link machine information to review the channel configuration. This separated as far into the system as possible.
+- /SM590000 Review the system image configurations to determine the resources for each image.
+- /SM590000 Determine the importance and relative priority of each LPAR.
+- /SM590000 Identify the LPAR or workloads and the actions to be taken:
+- -Deactivate the entire LPAR.
+- -Configure PUs.
+- -Reconfigure memory, which might require the use of reconfigurable storage unit (RSU) values.
+- -Vary off the channels.
+- /SM590000 Review the channel layout and determine whether any changes are necessary to address single paths.
+- /SM590000 Develop a plan to address the requirements.
+

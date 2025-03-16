@@ -1,0 +1,9 @@
+
+- /SM590000 The PCIe+ I/O drawer is available for IBM z16. It and all of the PCIe+ I/O drawer-supported features can be installed concurrently.
+- /SM590000 Memory interface logic to maintain channel synchronization when one channel goes into replay. IBM z16 can isolate recovery to only the failing channel.
+- /SM590000 Out-of-band access to DIMM (for background maintenance functions).
+- Out-of-band access (by using an I2C interface) allows maintenance (such as logging) without disrupting customer memory accesses.
+- /SM590000 OMI Memory Bus lane sparing.
+- /SM590000 Improved DIMM exerciser for testing memory during IML.
+- /SM590000 PCIe redrive hub cards plug straight in (no blind mating of connector). Simplified plugging that is more reliable is included.
+- /SM590000 ICA SR (short distance) coupling cards plug straight in (no blind mating of the connector). Simplified plugging that is more reliable is included.

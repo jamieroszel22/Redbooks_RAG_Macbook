@@ -1,0 +1,14 @@
+ moves FICON channel bandwidth between disk control units to address current processing needs. IBM z16 systems support DCM within a channel subsystem.
+
+- /SM590000 Channel subsystem priority queuing
+
+This function on IBM z16 and IBM Z allows the priority queuing of I/O requests in the channel subsystem and the specification of relative priority among LPARs. When running in goal mode, WLM sets the priority for an LPAR and coordinates this activity among clustered LPARs.
+
+For more information about implementing LPAR processor management under IRD, see z/OS Intelligent Resource Director , SG24-5952.
+
+3.9  Clustering technology
+
+Parallel Sysplex is the clustering technology that is used with IBM Z servers. The components of a Parallel Sysplex as implemented within the z/Architecture are shown in Figure 3-22. The example in Figure 3-22 shows one of many possible Parallel Sysplex configurations.
+
+<!-- missing-text -->
+

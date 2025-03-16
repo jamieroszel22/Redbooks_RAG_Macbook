@@ -1,0 +1,12 @@
+nstallation, all power sources are required to run the system checkout diagnostics successfully.
+
+BPAs are installed in pairs (2 or 4), depending on the configuration. Consider the following points:
+
+- /SM590000 BPA1 and BPA2 are always initially installed in Frame A.
+- /SM590000 BPA3 and BPA4 are installed to support more components for larger configurations (CPC and I/O drawers).
+- /SM590000 BPA1/BPA2 and BPA3/BPA4 for paired redundancy.
+- /SM590000 From the rear of the system, the odd-numbered BPAs are above the even-numbered BPAs in both frames.
+- /SM590000 The total loss of one BPA in a pair has no effect on system operation.
+
+The following components plug into the BPAs X 2 for redundancy:
+

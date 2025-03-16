@@ -1,0 +1,12 @@
+accelerate numeric formatting, and hardware support for new numeric conversion instructions (exponents and arithmetic common in financial applications).
+
+3.4.5  On-chip coprocessors and accelerators
+
+This section introduces the CPACF enhancements for IBM z16 and the IBM Integrated Accelerator for zEnterprise Data Compression (zEDC).
+
+IBM integrated Accelerator for zEDC (on-chip)
+
+Introduced in IBM z15, the On-Chip data compression accelerator (Nest Accelerator Unit NXU, see Figure 3-12 on page 86) provides real value for existing and new data compression use cases.
+
+IBM z16 Compression/Decompression accelerator is implemented in the Nest Accelerator Unit (NXU) on each processor chip of the IBM Telum microprocessor. IBM z16 On-Chip Compression delivers industry-leading throughput and replaces the zEDC Express PCIe adapter available on the IBM z14 and earlier servers.
+

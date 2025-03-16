@@ -1,0 +1,16 @@
+ics Monitor [CAT]) can help you discover where and what cryptography is used in applications. This knowledge can aid in developing a cryptographic inventory for migration and modernization planning.
+
+1.1.1  Supported upgrade paths
+
+The supported upgrade paths for the IBM z16 A01 are shown in Figure 1-1.
+
+.
+
+<!-- missing-text -->
+
+1.1.2  Capacity and performance
+
+The IBM z16 A01 offers 317 capacity levels. In all, 200 capacity levels are based on the number of physically used CPs, plus up to 117 extra subcapacity models for the first 39 CPs.
+
+The IBM z16 provides increased processing and enhanced I/O capabilities over its predecessor, the IBM z15 T01. This capacity is achieved by increasing the number of PUs per system, redesigning the system cache, and introducing new I/O technologies.
+

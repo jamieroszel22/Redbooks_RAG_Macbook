@@ -1,0 +1,4 @@
+t (accessing same data). Data that is compressed and written with zEDC can be read and decompressed by IBM z16 well into the future.
+
+The on-chip compression unit has the following operating modes:
+

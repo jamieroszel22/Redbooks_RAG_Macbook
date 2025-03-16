@@ -1,0 +1,10 @@
+ multimode fiber 10 Gbps Ethernet LAN or Ethernet switch that is capable of 10 Gbps. The port can be defined as a spanned channel and shared among LPARs within and across logical channel subsystems.
+
+The OSA-Express7S 10 GbE SR feature supports the use of an industry standard small form factor (SFP+) LC Duplex connector. Ensure that the attaching or downstream device has an SR transceiver. The sending and receiving transceivers must be the same (SR to SR).
+
+The OSA-Express7S 10 GbE SR feature does not support auto-negotiation to any other speed and runs in full duplex mode only.
+
+A 50 or a 62.5 µm multimode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature to the selected device.
+
+OSA-Express7S Gigabit Ethernet LX (FC 0442)
+

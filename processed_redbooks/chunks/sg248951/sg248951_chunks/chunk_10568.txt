@@ -1,0 +1,15 @@
+ Save/Restore Customizable Console Data or Configure Data Replication.
+
+At first log-on, the default password for the ACSADMIN and SERVICE user must be changed.
+
+Note: Consider the following points:
+
+- /SM590000 It is the customer's responsibility to maintain the passwords and user IDs.
+- /SM590000 For the SERVICE user, the client must provide the password at any time to the IBM System Service Representative. The customer must have an established process to avoid service delays if they do not have the password available for the IBM technician.
+
+/SM590000 Report a Problem update
+
+If your IBM Z encounters a hardware or microcode problem and no automatic call went out to IBM, you can open a case with the task Report a Problem (RaP). Before IBM z16, you this task was done by using the HMC (clicking Service Management → Report a Problem ) or a CPC (clicking Service → Report a Problem ).
+
+Now, an LPAR can be selected for a RaP.
+

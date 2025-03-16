@@ -1,0 +1,6 @@
+eviously were integral to the sub-capacity-based model. Therefore, customers are free to remove capping and can use all of the owned capacity without worrying about penalties for peaking or spiking.
+
+Although a customer does commit to an MSU baseline, if the MSUs for a specific year are not fully used, the customer can carry over any unused MSUs for use in the following year for the life of the contract. TFP consumption encourages and rewards growth; that is, MSUs that are processed above the baseline are charged at an aggressive Growth Price per MSU.
+
+All workload processing can benefit by running with no capping and having all owned infrastructure available. Batch processing also can take advantage and reduce batch windows dramatically.
+

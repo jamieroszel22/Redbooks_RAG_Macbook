@@ -1,0 +1,22 @@
+de of the device at the other end of the cable.
+
+The OSA-Express6S 1000BASE-T Ethernet feature can be configured as CHPID type OSC, OSD, OSE, or OSM. Non-QDIO operation mode requires CHPID type OSE.
+
+Note: CHPID types OSM, OSN, and OSX are not supported on IBM z16
+
+The following settings are supported on the OSA-Express6S 1000BASE-T Ethernet feature port:
+
+- /SM590000 Auto-negotiate
+- /SM590000 100 Mbps half-duplex or full-duplex
+- /SM590000 1000 Mbps full-duplex
+
+If auto-negotiate is not used, the OSA-Express port attempts to join the LAN at the specified speed and duplex mode. If this specified speed and duplex mode do not match the speed and duplex mode of the signal on the cable, the OSA-Express port does not connect.
+
+For more information about supported distances, see Table 4-8 on page 179.
+
+OSA-Express features summary
+
+The OSA-Express feature codes, cable type, maximum unrepeated distance, and the link rate on an IBM z16 are listed in Table 4-8.
+
+<!-- missing-text -->
+

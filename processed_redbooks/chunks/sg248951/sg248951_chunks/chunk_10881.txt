@@ -1,0 +1,10 @@
+ystem Max82 can populate maximum 82 PUs. Therefore, five and six more PUs can share caches and memories within the first and second drawers respectively, so the performance improvements is expected.
+
+The workload variability for moving from IBM z14 and IBM z15 to IBM z16 is expected to be stable. Workloads that are migrating from z10 EC, z196, and zEC12 to IBM z16 can expect to see similar results with slightly less variability than the migration from IBM z14 and IBM z15.
+
+Experience demonstrates that IBM Z servers can be run at up to sustained 100% utilization levels. However, most customers prefer to leave some room and run at 90% or slightly under.
+
+12.9  Capacity planning considerations for IBM z16
+
+In this section, we describe recommended ways conduct capacity planning for IBM z16.
+

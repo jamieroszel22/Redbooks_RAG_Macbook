@@ -1,0 +1,8 @@
+pports a PCIe I/O infrastructure. PCIe features are installed in PCIe+ I/O drawers. Up to 12 I/O drawers per IBM z16 can be ordered, which allows for up to 192 PCIe I/O and special purpose features.
+
+For a four CPC drawer system, up to 48 PCIe+ fan-out slots can be populated with fan-out cards for data communications between the CPC drawers and the I/O infrastructure, and for coupling. The multiple channel subsystem (CSS) architecture allows up to six CSSs, each with 256 channels.
+
+The IBM z16 implements PCIe Generation 4, which is used to connect the PCIe+ Gen3 dual port fan-out features in the CPC drawers. The I/O infrastructure is designed to reduce processor usage and I/O latency, and provide increased throughput and availability.
+
+PCIe+ I/O drawer
+

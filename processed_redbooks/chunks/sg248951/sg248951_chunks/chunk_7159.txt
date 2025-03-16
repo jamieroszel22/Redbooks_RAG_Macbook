@@ -1,0 +1,19 @@
+ress3 adapters
+- /SM590000 8-byte LPAR offset
+
+The service levels of SUSE, Red Hat, and Ubuntu releases that are supported at the time of this writing are listed in Table 7-2.
+
+<!-- missing-text -->
+
+- a. Only z/Architecture (64-bit mode) is supported. IBM testing identifies the minimum required level and the recommended levels of the tested distributions.
+- b. Fix installation is required for toleration.
+
+- c. Maintenance is required.
+- d. For more information about minimal and recommended distribution levels, see the Linux on IBM Z website.
+
+For more information about supported Linux distributions on IBM Z servers, see the Tested platforms for Linux page of the IBM IT infrastructure website.
+
+IBM is working with Linux distribution Business Partners to provide further use of selected IBM z16 functions in future Linux on IBM Z distribution releases.
+
+Consider the following guidelines:
+

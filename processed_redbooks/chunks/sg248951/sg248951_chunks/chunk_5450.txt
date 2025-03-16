@@ -1,0 +1,14 @@
+ge 157. In this example, four fan-out cards are installed at locations A10/LG06, A15/LG06, A15/LG12, and A15/LG12 with AIDs 05, 11, and PCHIDs 100, 101, and 10C, respectively.
+
+<!-- missing-text -->
+
+Fan-out features that are supported by the IBM z16 are listed in Table 4-3, which includes the feature type, feature code, and information about the link that is supported by the fan-out feature.
+
+<!-- missing-text -->
+
+- a. The link data rates do not represent the performance of the link. The performance depends on many factors, including latency through the adapters, cable lengths, and the type of workload.
+
+4.5  I/O features
+
+I/O features (adapters) include ports 6  to connect the IBM z16 to external devices, networks, or other servers. I/O features are plugged into the PCIe+ I/O drawer, based on the configuration rules for the server. Different types of I/O cards are available: one for each channel or link type. I/O cards can be installed or replaced concurrently.
+

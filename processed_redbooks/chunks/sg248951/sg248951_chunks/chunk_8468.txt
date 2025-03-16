@@ -1,0 +1,14 @@
+t all of the procedures and automation for the management of the On/Off CoD facility.
+
+An example of an On/Off CoD order on the Resource Link web page is shown in Figure 8-11.
+
+<!-- missing-text -->
+
+The example order that is shown in Figure 8-11 is an On/Off CoD order for 0% more CP capacity (system is at capacity level 7), and for two more ICFs and two more zIIPs. The maximum number of CPs, ICFs, zIIPs, and IFLs is limited by the current number of available unused PUs of the installed processor drawers. The maximum number of SAPs is determined by the model number and the number of available PUs on the already installed processor drawers.
+
+To finalize the order, you must accept Terms and Conditions for the order, as shown in Figure 8-12.
+
+<!-- missing-text -->
+
+8.6.5  Activation and deactivation
+

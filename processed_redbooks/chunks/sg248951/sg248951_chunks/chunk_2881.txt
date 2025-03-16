@@ -1,0 +1,10 @@
+lable CP. After this process occurs, normal processing is resumed.
+
+This process reduces the CP time that is needed to run Java WebSphere applications, which frees that capacity for other workloads.
+
+The logical flow of Java code that is running on an IBM z16 that has a zIIP available is shown in Figure 3-19. When JVM starts the execution of a Java program, it passes control to the z/OS dispatcher that verifies the availability of a zIIP.
+
+<!-- missing-text -->
+
+The availability is treated in the following manner:
+

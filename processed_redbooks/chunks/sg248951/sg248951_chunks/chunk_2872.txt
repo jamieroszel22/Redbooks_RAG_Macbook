@@ -1,0 +1,13 @@
+dedicated to a CF LPAR, or shared by multiple CF LPARs that run on the same system. However, having an LPAR with dedicated and shared ICFs at the same time is not possible.
+
+Coupling Thin Interrupts
+
+With the introduction of Driver 15F (zEC12 and zBC12), the IBM z/Architecture provides a thin interrupt class called Coupling Thin Interrupts 5 . The capabilities that are provided by hardware, firmware, and software support the generation of coupling-related 'Thin Interrupts' when the following situations occur:
+
+- /SM590000 On the coupling facility (CF) side:
+- -A CF command or a CF signal (arrival of a CF-to-CF duplexing signal) is received by a shared-engine CF image.
+- -The completion of a CF signal that was previously sent by the CF occurs (completion of a CF-to-CF duplexing signal).
+- /SM590000 On the z/OS side:
+- -CF signal is received by a shared-engine z/OS image (arrival of a List Notification signal).
+- -An asynchronous CF operation completes.
+

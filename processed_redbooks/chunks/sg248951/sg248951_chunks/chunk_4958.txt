@@ -1,0 +1,3 @@
+ch:
+- GLYPH&lt;129&gt; Open Systems Adapter (OSA)-Express7S 1.2 GbE
+

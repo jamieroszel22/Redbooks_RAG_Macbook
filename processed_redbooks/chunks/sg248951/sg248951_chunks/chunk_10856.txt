@@ -1,0 +1,10 @@
+average, IBM z16 servers can deliver up to 17% more performance in a 200-way configuration than an IBM z15 190 -way. However, the observed performance increase varies depending on the workload type.
+
+Consult the LSPR when you consider performance on the IBM z16. The range of performance ratings across the individual LSPR workloads is likely to include a large spread. Performance of the individual logical partitions (LPARs) varies depending on the fluctuating resource requirements of other partitions and the availability of processor units (PUs). Therefore, it is important to know which LSPR workload type suite your production environment. For more information, see 12.8, 'Workload performance variation' on page 483.
+
+For more information about performance, see this web page of the IBM Resource Link website.
+
+For more information about millions of service units (MSU) ratings, see this IBM Z resources web page.
+
+12.2.1  LSPR workload suite
+

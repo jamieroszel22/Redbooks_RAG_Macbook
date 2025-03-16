@@ -1,0 +1,17 @@
+ Express7S (including OSA-Express7S 25 GbE SR 1.1)
+- GLYPH&lt;129&gt; OSA Express6S, RoCE Express3
+- GLYPH&lt;129&gt; RoCE Express2.1
+- GLYPH&lt;129&gt; RoCE Express2
+- GLYPH&lt;129&gt; RoCE Express
+
+These optics allow each channel to be individually serviced in a fiber optic module failure. The traffic on the other channels on the same feature can continue to flow if a channel requires servicing.
+
+- -The zHyperLink Express feature uses fiber optics cable with MTP 3  connector and the cable uses a CXP connection to the adapter. The CXP 4  optics are provided with the adapter.
+- /SM590000 Concurrent I/O card maintenance
+
+Every I/O card that is plugged in a PCIe+ I/O drawer supports concurrent card replacement during a repair action.
+
+4.2.2  Supported I/O features
+
+The following I/O features are supported on an IBM z16 A01 system (maximum for each individual adapter type):
+

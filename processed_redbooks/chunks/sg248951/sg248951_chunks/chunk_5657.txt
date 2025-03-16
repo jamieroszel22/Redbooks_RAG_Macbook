@@ -1,0 +1,3 @@
+
+- /SM590000 Each Crypto Express (8S/7S/6S) feature occupies one I/O slot, but does not include a PCHID type. However, LPARs in all CSSs can access the features. Each Crypto Express adapter can support up to 85 domains.
+- /SM590000 Each 25 GbE RoCE Express(3/2.1/2) feature occupies one I/O slot, but does not include a CHPID type. However, LPARs in all CSSs can access the feature. The 25 GbE RoCE Express3 can be defined to up to 126 virtual functions (VFs) per feature (port is defined in z/OS Communications Server). The 25 GbE RoCE Express3 feature support up to 63 VFs per port (up to 126 VFs per feature).

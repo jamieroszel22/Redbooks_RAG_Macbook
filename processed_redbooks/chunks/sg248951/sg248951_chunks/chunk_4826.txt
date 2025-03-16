@@ -1,0 +1,16 @@
+ides the following benefits:
+
+- /SM590000 The bus connecting the CPC drawer to the I/O domain in the PCIe+ I/O drawer bandwidth is 16 GBps.
+- /SM590000 Up to 32 channels (16 PCIe I/O cards) are supported in the PCIe+ I/O drawer.
+- /SM590000 Storage connectivity:
+- -Storage Area Network (SAN) connectivity:
+- -The FICON Express32S
+- -FICON Express16SA (carry forward)
+- -FICON Express16S+ (carry forward)
+- These cards provide two channels per feature for Fibre Channel connection (FICON), High-Performance FICON on Z (zHPF), and Fibre Channel Protocol (FCP) storage area networks.
+- -IBM zHyperLink Express 1.1: Two ports per feature (new build and carry forward) with ultra high-speed, direct connection to Select DS8000; works in tandem with FICON Express channels
+- -IBM zHyperLink Express - two ports per feature (carry forward)
+- /SM590000 Local area network (LAN) connectivity:
+- -The following features include two ports each:
+- GLYPH&lt;129&gt; Open Systems Adapter (OSA)-Express7S 1.2 GbE
+

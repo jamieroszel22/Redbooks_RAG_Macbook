@@ -1,0 +1,8 @@
+gh dedicated engines are preferable to obtain the best CF performance, Coupling Thin Interrupts helps facilitate the use of a shared pool of engines, which helps to lower hardware acquisition costs.
+
+The interrupt causes a shared logical processor CF partition to be dispatched by PR/SM (if it is not already dispatched), which allows the request or signal to be processed in a more timely manner. The CF relinquishes control when work is exhausted or when PR/SM takes the physical processor away from the logical processor.
+
+On IBM z16, the use of Coupling Thin Interrupts (DYNDISP=THIN) is now the only option that is available for shared engines in a CF LPAR. Specification of OFF or ON in CF commands and the CF configuration file will be preserved, for compatibility, but a warning message will be issued to indicate that these options are no longer supported, and that DYNDISP=THIN behavior will be used.
+
+3.9.3  Dynamic CF dispatching
+

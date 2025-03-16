@@ -1,0 +1,8 @@
+by adopting a more transactional behavior for cross-invalidate (XI) processing. This processing is used to maintain coherency and consistency of data managers' local buffer pools across the sysplex.
+
+Instead of performing XI signals synchronously on every cache update request that causes them, data managers can 'opt in' for the CF to perform these XIs asynchronously (and then synchronize them with the CF at or before the transaction is completed). Data integrity is maintained if all XI signals complete by the time transaction locks are released.
+
+The feature enables faster completion of cache update CF requests, especially with the cross-site distance that is involved. It also provides improved cache structure service times and coupling efficiency. It requires specific data manager use or participation, which is not transparent to the data manager. No SMF data changes were made for CF monitoring and reporting.
+
+The following requirements must be met:
+

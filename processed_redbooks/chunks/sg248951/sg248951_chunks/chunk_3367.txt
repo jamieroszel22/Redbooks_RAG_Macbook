@@ -1,0 +1,10 @@
+ by an LPAR by swapping an active core to a core in a different PU chip in a different CPC drawer to improve system performance. For more information, see 'LPAR dynamic PU reassignment' on page 122.
+
+When a CPC drawer is added concurrently after POR and new LPARs are activated, or processor capacity for active partitions is dynamically expanded, the extra PU capacity can be assigned from the new CPC drawer. The processor unit assignment rules consider the newly installed CPC drawer dynamically.
+
+3.5.10  Sparing rules
+
+On an IBM z16 A01 system, two PUs are reserved as spares. The spare PUs are available to replace any two characterized PUs, whether they are CP, IFL, ICF, zIIP, SAP, or IFP.
+
+Systems with a failed PU for which no spare is available call home for a replacement. A system with a failed PU that is spared and requires a DCM to be replaced (referred to as a pending repair ) can still be upgraded when sufficient PUs are available.
+

@@ -1,0 +1,23 @@
+p of instructions is known as the Message-Security Assist (MSA).
+
+For more information about these instructions, see z/Architecture Principles of Operation, SA22-7832.
+
+Crypto functions enhancements
+
+The IBM z16 microprocessor structure was optimized and aligned to the new cache hierarchy. Co-processor results (data) are stored by way of level 1 (L1) cache.
+
+The crypto/hashing/UTF-conversion/compression engines were redesigned for increased throughput.
+
+CPACF accelerator that is built into every core supports Pervasive Encryption by providing fast synchronous cryptographic services:
+
+- /SM590000 Encryption (DES, TDES, and AES)
+- /SM590000 Hashing (SHA-1, SHA-2, SHA-3, and SHAKE)
+- /SM590000 Random Number Generation (PRNG, DRNG, and TRNG)
+- /SM590000 Elliptic Curve supported operations:
+- -ECDH[E]:
+- GLYPH&lt;129&gt; P256, P384, and P521
+- GLYPH&lt;129&gt; X25519 and X448
+- -ECDSA:
+- GLYPH&lt;129&gt; Keygen, sign, and verify
+- GLYPH&lt;129&gt; P256, P384, and P521
+

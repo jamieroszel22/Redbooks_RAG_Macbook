@@ -1,0 +1,12 @@
+bchannels are derived by using the following equation:
+
+(64 X 1024) -1=65535
+
+The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+Multiple subchannel sets
+
+First introduced in IBM z9 EC, multiple subchannel sets (MSS) provide a mechanism for addressing more than 63.75 K I/O devices and aliases for FICON (CHPID types FC) on the IBM z16, IBM z15, IBM z14, IBM z13, IBM z13s, IBM zEC12, and IBM zBC12. IBM z196 introduced the third subchannel set (SS2). With IBM z13, one more subchannel set (SS3) was introduced, which expands the alias addressing by 64 K more I/O devices.
+
+Current z/VM versions MSS support for mirrored direct access storage device (DASD) provides a subset of host support for the MSS facility to allow the use of an alternative subchannel set for Peer-to-Peer Remote Copy (PPRC) secondary volumes.
+

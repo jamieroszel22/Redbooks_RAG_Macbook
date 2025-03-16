@@ -1,0 +1,14 @@
+oss multiple CF images, or for less-performance critical production usage.
+
+In shared-processor mode, the CF can currently use several different Dynamic Dispatching (DYNDISP) models:
+
+- -DYNDISP=OFF
+
+LPAR time-slicing completely controls the CF processor; the processor polls the entire time that it is dispatched to a CF image by LPAR. The CF image never voluntarily gives up control of the shared processor. This option provides the least efficient sharing, and worst shared-engine CF performance.
+
+-DYNDISP=ON
+
+An optimization over pure LPAR time-slicing; the CF image sets timer interrupts to give the LPAR the initiative to redispatch it, and the CF image voluntarily gives up control of the shared processor. This option provides the most efficient sharing, and better shared-engine CF performance.
+
+-DYNDISP=THIN
+

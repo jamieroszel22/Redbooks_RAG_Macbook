@@ -1,0 +1,8 @@
+d load all the EDFs for the same CPC into IBM zPCR at the same time so to ensure that the correct LSPR Workload is assigned to each LPAR.  IBM zPCR supports using drag-n-drop for multiple EDF files.
+
+CP3KEXTR is offered as a no-charge application. It can also create the EDF files for IBMzCP3000. IBM zCP3000 is an IBM internal tool, but you can create the EDF files for it on your system.
+
+For more information about CP3KEXTR, see the IBM Techdoc z/OS Data Extraction Program (CP3KEXTR) for IBM zPCR and IBM zBNA .
+
+Creating EDF file with CP3KVMXT (z/VM)
+

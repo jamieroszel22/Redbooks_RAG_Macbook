@@ -1,0 +1,12 @@
+astructure website.
+
+The FCP protocol is supported by z/VM, z/VSE, and Linux on IBM Z. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+T10-DIF support
+
+American National Standards Institute (ANSI) T10 Data Integrity Field (DIF) standard is supported on IBM Z for SCSI end-to-end data protection on fixed block (FB) LUN volumes. IBM Z provides added end-to-end data protection between the operating system and the DS8870 unit. This support adds protection information that consists of Cyclic Redundancy Checking (CRC), Logical Block Address (LBA), and host application tags to each sector of FB data on a logical volume.
+
+IBM Z support applies to FCP channels only. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258.
+
+N\_Port ID Virtualization
+

@@ -1,0 +1,6 @@
+d z/OS work in tandem to use processor resources more efficiently. HiperDispatch is a function that combines the dispatcher actions and the knowledge that PR/SM has about the topology of the system.
+
+Performance can be optimized by redispatching units of work to the same processor group, which keeps processes running near their cached instructions and data, and minimizes transfers of data ownership among processors and processor drawers.
+
+The nested topology is returned to z/OS by the Store System Information (STSI) instruction. HiperDispatch uses the information to concentrate logical processors around shared caches (virtual L3 and virtual L4 caches at drawer level), and dynamically optimizes the assignment of logical processors and units of work.
+

@@ -1,0 +1,14 @@
+ flexible deployment options to innovate with speed and agility.
+- /SM590000 Reduce cost and keep up with changing regulations through a solution that helps simplify and streamline compliance tasks.
+
+This chapter describes the basic characteristics of the IBM z16 platform. It includes the following topics:
+
+- /SM590000 1.1, 'IBM z16 A01 highlights' on page 2
+- /SM590000 1.2, 'IBM z16 A01 technical overview' on page 6
+- /SM590000 1.3, 'Hardware management' on page 12
+- /SM590000 1.4, 'Reliability, availability, and serviceability' on page 13
+
+1.1  IBM z16 A01 highlights
+
+Each new IBM Z platform continues to deliver innovative technologies. The IBM z16 is no exception. It has a new processor chip design with each processor unit (PU) running at 5.2 GHz. IBM 16 provides 17% more processor capacity per CPC drawer compared to the IBM z15.
+

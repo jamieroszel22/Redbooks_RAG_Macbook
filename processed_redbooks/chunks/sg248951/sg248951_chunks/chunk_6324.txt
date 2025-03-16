@@ -1,0 +1,6 @@
+
+- /SM590000 DES/TDES with DES/TDES MAC/CMAC
+- The Data Encryption Standard is a widespread symmetrical encryption algorithm. DES, along with its double-length and triple length variations, TDES today are considered to be insufficiently secure for many applications. They were replaced by AES as the official US standard, but it is still used in the industry with the MAC and the Cipher-based Message Authentication Code (CMAC) for verifying the integrity of messages.
+- /SM590000 AES, AESKW, AES GMAC, AES GCM, AES XTS, AES CIPHER mode, and CMAC
+- AES replaced DES as the official US standard in October 2000. The enhanced standards for AES Key Warp (AESKW), AES Galois Message Authentication Code (AES GMAC), and Galois/Counter Mode (AES GCM), the XEX-based tweaked-codebook mode with ciphertext stealing (AES XTS), and CMAC are supported.
+- /SM590000 MD5, SHA-1, SHA-2, or SHA-3 4  (224, 256, 384, and 512), and HMAC

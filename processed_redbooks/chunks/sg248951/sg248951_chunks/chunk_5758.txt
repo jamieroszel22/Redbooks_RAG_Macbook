@@ -1,0 +1,8 @@
+ SR1.1 are designed to drive distances up to 150 m (492 feet) and supports a link data rate of 8 GBps. It is designed to support up to four CHPIDs per port and eight subchannels (devices) per CHPID.
+
+For more information, see IBM Z Planning for Fiber Optic Links (FICON/FCP, Coupling Links, and Open System Adapters) , GA23-1409. This publication is available in the Library section of Resource Link (log-in required).
+
+Coupling Express2 Long Reach
+
+The Coupling Express2 LR (FC 0434) occupies one slot in a PCIe I/O drawer or PCIe+ I/O drawer 14 . It allows the supported IBM Z to connect to each other over extended distance. The Coupling Express2 LR (FC 0434) is a two-port card that uses coupling channel type CL5.
+

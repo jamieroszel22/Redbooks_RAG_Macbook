@@ -1,0 +1,11 @@
+rithm (ECDSA) Prime/NIST method is used for ECC digital signatures, which are recommended for government use by NIST.
+- /SM590000
+- /SM590000
+- ECDSA (160, 192, 224, 256, 320, 384, and 512 BrainPool)
+- ECC Brainpool is a work group of companies and institutions that collaborate on developing ECC algorithms. The ECDSA algorithms that are recommended by this group are supported.
+- ECDH (192, 224, 256, 384, and 521 Prime/NIST)
+- Elliptic Curve Diffie-Hellman (ECDH) is an asymmetric protocol that is used for key agreement between two parties by using ECC-based private keys. The recommendations by NIST are supported.
+- /SM590000 ECDH (160, 192, 224, 256, 320, 384, and 512 BrainPool)
+- ECDH according to the Brainpool recommendations.
+- /SM590000 Montgomery Modular Math Engine
+- The Montgomery Modular Math Engine is a method for fast modular multiplication. Many crypto systems, such as RSA and Diffie-Hellman key Exchange, can use this method.

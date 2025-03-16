@@ -1,0 +1,12 @@
+lso look more frequently for available data to process from the TCP/IP stack. Therefore, the process does not require a Signal Adapter (SIGA) instruction to determine whether more data is available.
+
+The supported operating systems are listed in Table 7-8 on page 259.
+
+QDIO Diagnostic Synchronization
+
+QDIO Diagnostic Synchronization enables system programmers and network administrators to coordinate and simultaneously capture software and hardware traces. It allows z/OS to signal OSA-Express features (by using a diagnostic assist function) to stop traces and capture the current trace records.
+
+QDIO Diagnostic Synchronization is supported by the OSA-Express features on IBM z16 when in QDIO mode (CHPID type OSD). The supported operating systems are listed in Table 7-8 on page 259.
+
+Inbound workload queuing (IWQ) for OSA
+

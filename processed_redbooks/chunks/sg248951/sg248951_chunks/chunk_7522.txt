@@ -1,0 +1,14 @@
+ Shared-Engine CF Default to DYNDISP=THIN
+
+Coupling Facility images can run with shared or dedicated processors. Shared processor CFs can operate with different Dynamic Dispatching (DYNDISP) models:
+
+- -DYNDISP=OFF : LPAR timeslicing controls the CF processor.
+- -DYNDISP=ON : An optimization over pure LPAR timeslicing, in which the CFCC code manages timer interrupts to share processors more efficiently.
+- -DYNDISP=THIN : An interrupt-driven model in which the CF processor is dispatched in response to a set of events that generate Thin Interrupts.
+
+Thin Interrupt support was available since zEC12/zBC12,. It is proven to be efficient and well-performing in numerous different test and customer shared-engine coupling facility configurations.
+
+Therefore, IBM z15 made DYNDISP=THIN the default mode of operation for coupling facility images that use shared processors.
+
+CFCC Level 23
+

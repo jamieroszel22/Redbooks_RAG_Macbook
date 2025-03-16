@@ -1,0 +1,8 @@
+ about the memory features, see 2.5.7, 'Flexible Memory Option' on page 46.
+- -Installing more processor drawers and the use of LICCC to activate more memory capacity on installed processor drawers.
+
+- -By using the CPC Enhanced Drawer Availability (EDA), where possible, on multi-drawer systems to add or change the memory cards.
+- /SM590000 MES upgrades for I/O are done by installing I/O features and supporting infrastructure (if required) on PCIe drawers that are installed, or installing PCIe drawers to hold the new cards.
+
+An MES upgrade requires IBM SSRs for the installation. In most cases, the time that is required for installing the LICCC and completing the upgrade is short, depending on how up to date the machine microcode levels are.
+

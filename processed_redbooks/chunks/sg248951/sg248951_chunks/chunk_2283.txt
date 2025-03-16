@@ -1,0 +1,12 @@
+ent failure of another PU.
+
+The IBM z16 uses features to define the number of PUs that are available for client use in each configuration. The models are listed in Table 2-11.
+
+<!-- missing-text -->
+
+- /SM590000 Not all PUs available on a model are required to be characterized with a feature code. Only the PUs purchased by a customer are identified with a feature code.
+- /SM590000 zIIP maximum quantity for new build systems follows the 2:1 ratio. It might be greater if present during MES upgrades.
+- /SM590000 All PU conversions can be performed concurrently.
+
+A capacity marker identifies the number of CPs that were purchased. This number of purchased CPs is higher than or equal to the number of CPs that is actively used. The capacity marker marks the availability of purchased but unused capacity that is intended to be used as CPs in the future. This status often is present for software-charging reasons.
+

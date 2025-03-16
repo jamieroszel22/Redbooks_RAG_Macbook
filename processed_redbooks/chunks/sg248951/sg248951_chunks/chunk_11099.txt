@@ -1,0 +1,16 @@
+left. You can view the Node and Chips assignments using the Expand All and Collapse All options under the 'Actions' pull down view or hide sections.
+
+To view the resource assignments for partitions:
+
+- /SM590000 Logical partition name:
+- -Displays the active logical partition and if HiperDispatch (image icon of the logical partition name entry) is enabled.
+- /SM590000 Node:
+- -Displays the processor Node number in your system.
+- /SM590000 Chip:
+- -Displays the processor Chip number associated with the Node and lists the processor types associated with each active logical partitions. The Chip Collapse All icon displays a summary view. The following physical processor types are:
+- GLYPH&lt;129&gt; General processors: ( G )
+- GLYPH&lt;129&gt; Coupling facility processors: ( C )
+- GLYPH&lt;129&gt; Integrated Facilities for Linuxfi IFLs): ( ) I
+- GLYPH&lt;129&gt; z Integrated Information Processors (zIIPs): ( Z )
+- GLYPH&lt;129&gt; Integrated Firmware Processor (IFPs): ( F )
+

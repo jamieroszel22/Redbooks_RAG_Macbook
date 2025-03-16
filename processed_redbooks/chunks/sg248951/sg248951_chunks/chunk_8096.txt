@@ -1,0 +1,15 @@
+ling. For more information about supported coupling link technologies on IBM z16, see 4.6.4, 'Parallel Sysplex connectivity' on page 187, and the Coupling Facility Configuration Options white paper.
+
+Note: IBM z16 does not support InfiniBand coupling links. More planning might be required to integrate the IBM z16 in a Parallel Sysplex with IBM IBM z14servers.
+
+7.5.8  z/OS XL C/C++ considerations
+
+IBM z/OS V2.R4 XL C/C++ is an optional feature of z/OS that continues to ship with IBM z16.
+
+The following new functions provide performance improvements for applications by using new IBM z16 instructions:
+
+- /SM590000 High-performance math libraries
+- /SM590000 MASS
+- /SM590000 Replace Atlas with OpenBLAS
+- /SM590000 Metal C for modernizing HLASM applications and systems programming
+

@@ -1,0 +1,14 @@
+and offerings
+
+MLC metrics include various offerings. The metrics and pricing schemes that are available on IBM z14, IBM z15, and IBM z16 are listed in Table 7-17 on page 324.
+
+<!-- missing-text -->
+
+- a. AWLC and FWLC are available only on IBM z16 A01 and IBM z16 AGZ, z15 T02, or z14 ZR1 when that machine is participating in a qualified Parallel Sysplex environment.
+- b. The Country Multiplex offering was withdrawn as of 1 January 2021. For existing CMP customers, machines that are eligible to be included in a multiplex cannot be older than two generations before the most recently available server.
+- c. Metric available with AWLC or CMLC only.
+- d. This metric is eligible for subcapacity charges or for aggregation in a qualified Parallel Sysplex environment.
+- e. PSLCs are available only on IBM z16 A02 or IBM z16 AGZ, z15 T02, and z14R1when that machine is participating in a qualified Parallel Sysplex environment.
+
+/SM590000 zIPLA licensing
+

@@ -1,0 +1,18 @@
+ IBM Z server to support the OSE CHPID type.
+
+The supported network connectivity functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-9.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. PTFs might be required for toleration support or use of IBM z16 features and functions.
+- b. Support statement varies based on Linux on IBM Z distribution and release.
+- c. By using VLANs.
+- d. On IBM z16, the CHPID statement of HiperSockets devices requires the keyword VCHID. Therefore, the IBM z16 IOCP definitions must be migrated to support the HiperSockets definitions (CHPID type IQD). VCHID specifies the virtual channel identification number that is associated with the channel path (valid range is 7C0 - 7FF). VCHID is not valid on IBM Z servers before IBM z13.
+- e. Applicable to guest operating systems.
+- f. Shared Memory Communications - Direct Memory Access.
+- g. SMC-R and SMC-D are supported on Linux kernel; see:
+
+https://linux-on-z.blogspot.com/p/smc-for-linux-on-ibm-z.html
+

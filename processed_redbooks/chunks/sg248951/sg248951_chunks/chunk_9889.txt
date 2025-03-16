@@ -1,0 +1,6 @@
+s to operate at higher speeds, over longer distances, with reduced power and higher throughput. They also retain the same reliability and robustness for which FICON channels are traditionally known.
+
+FEC is a technique that is used for controlling errors in data transmission over unreliable or noisy communication channels. When running at 32 Gbps link speeds, customers often see fewer I/O errors, which reduces the potential effect to production workloads from those I/O errors.
+
+Read Diagnostic Parameters (RDP) improve Fault Isolation. After a link error is detected (for example, IFCC, CC3, reset event, or a link incident report), link data that is returned from Read Diagnostic Parameters is used to differentiate between errors that result from failures in the optics versus failures because of dirty or faulty links.
+

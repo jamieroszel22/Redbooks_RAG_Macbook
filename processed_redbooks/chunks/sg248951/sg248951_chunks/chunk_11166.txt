@@ -1,0 +1,12 @@
+ common in today's digital world.
+
+The use charges feature a granularity of 1 hour and are based on MSUs that are used as measured by the subcapacity reporting Tool (SCRT), not full engine capacity.
+
+Tailored Fit Pricing for IBM Z hardware enables customers to be ready for the unknown and unexpected. The presence of the always on capacity contributes to better efficiency, reduced overhead, and shorter response times. This offering is available for customers, starting with IBM z15, z/OS general-purpose CPs, and who are using Tailored Fit Pricing for IBM Z software.
+
+Tailored Fit Pricing for IBM Z hardware in more detail
+
+Tailored Fit Pricing (TFP)-Hardware pricing includes two aspects: a Subscription charge, and a Usage charge (see Figure D-2).
+
+<!-- missing-text -->
+

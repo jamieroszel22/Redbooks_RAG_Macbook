@@ -1,0 +1,16 @@
+ributes on IBM z16 for the two cryptographic hardware features are listed in Table 6-4, where 'X' indicates that the function or attribute is supported.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. To make adding the Crypto Express features nondisruptive, the logical partition must be predefined with the suitable PCI Express cryptographic adapter number. This number must be selected from its candidate list in the partition image profile.
+- b. This feature is not required for Linux if only RSA clear key operations are used. DES or triple DES encryption requires CPACF to be enabled.
+- c. This feature is physically present, but is not used when configured as an accelerator (clear key only).
+
+6.8  Cryptographic operating system support for IBM z16
+
+In this section, we provide an overview of the operating systems requirements in relation to cryptographic elements.
+
+6.8.1  Crypto Express8S Toleration
+

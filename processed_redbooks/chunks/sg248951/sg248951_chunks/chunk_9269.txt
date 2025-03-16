@@ -1,0 +1,11 @@
+ The eight cores and L2 caches on the chip communicate through bidirectional high-speed on-chip ring and with all SMP, I/O, and memory interfaces (see Figure 9-2 on page 381).
+
+<!-- missing-text -->
+
+- /SM590000 Two PU chips are packaged on a dual chip module (DCM), as shown in Figure 9-3. PU chip to PU chip communication is performed through the M-Bus, which is a high-speed bus that acts as ring-to-ring extension communication at 160 Gbps data rate, with the following RAS characteristics:
+- -ECC on data path and snoop bus
+- -Parity on miscellaneous control lines
+- -One spare per ~50 data bit bus
+
+<!-- missing-text -->
+

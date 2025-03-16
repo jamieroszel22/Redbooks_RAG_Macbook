@@ -1,0 +1,19 @@
+ is connected through an RJ45 jack.
+
+The attributes of the channel options that are supported on IBM z16 are listed in Table A-1.
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+<!-- missing-text -->
+
+- a. The link data rate does not represent the performance of the link. The performance depends on many factors, including latency through the adapters, cable lengths, and the type of workload.
+- b. Where applicable, the minimum fiber bandwidth distance in MHz-km for multi-mode fiber optic links is included in parentheses.
+- c. For 32 Gbps links, point to point (to another switch, director, DWDM equipment or another FICON Express3sS) distance is limited to 5 km (3.1 miles).
+- d. A 600 meters (1958.5 feet) maximum when sharing the switch across two RoCE Express features.
+
+The unrepeated distances for different multimode (MM) fiber optic types for zHyperLink Express are listed in Table A-2.
+
+<!-- missing-text -->
+

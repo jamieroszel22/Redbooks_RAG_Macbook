@@ -1,0 +1,13 @@
+0000 10GbE and 25GbE RoCE Express3 Short Reach (SR) and Long Reach (LR)
+- /SM590000 10GbE and 25GbE RoCE Express2
+- /SM590000 10GbE and 25GbE RoCE Express2.1
+- /SM590000 Coupling Express2 Long Reach
+
+IFPs also are initialized at POR. They support Resource Group (RG) LIC 11  to provide native PCIe I/O feature management and virtualization functions.
+
+3.5.9  Processor unit assignment
+
+The processor unit assignment of characterized PUs is done at POR time when the system is initialized. The initial assignment rules keep PUs of the same characterization type grouped as much as possible in relation to PU chips and CPC drawer boundaries to optimize shared cache usage.
+
+The IBM z16 A01 PU assignment is based on CPC drawer plug order ( not 'ordering'). Feature upgrade provides more processor (CPC) drawers. Max125 cannot be upgraded because the supposed targeted features (Max168 and Max200) are factory built only.
+

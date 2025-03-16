@@ -1,0 +1,16 @@
+rocessor unit functions' on page 98.
+
+1.3  Hardware management
+
+The Hardware Management Consoles (HMCs) and Support Elements (SEs) are appliances that together provide platform management for IBM Z.
+
+The HMC is an appliance that provides a single point of control for managing local or remote hardware elements.
+
+For IBM z16 new built systems, IBM Z Hardware Management Appliance (FC 0129) is the only available HMC. The HMC Appliance and SE Appliance run virtualized on the SE hardware.
+
+Older stand-alone HMCs (rack-mounted or tower) can be carried forward during an MES upgrade to IBM z16.
+
+For more information, see Chapter 10, 'Hardware Management Console and Support Element' on page 407.
+
+1.4  Reliability, availability, and serviceability
+

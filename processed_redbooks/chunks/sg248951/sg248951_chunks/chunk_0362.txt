@@ -1,0 +1,6 @@
+ssors deliver considerable improvement. Uniprocessor performance also increased significantly. An IBM z16 Model 701 offers average performance improvements of up to 11% over the IBM z15 Model 701. 2
+
+The Integrated Facility for Linux (IFL) and IBM Z Integrated Information Processor (zIIP) processor units on the IBM z16 can be configured to run two simultaneous threads in a single processor (SMT). This feature increases the capacity of these processors with 25% in average 2  over processors that are running single thread. SMT is also enabled by default on System Assist Processors (SAPs).
+
+Within each single drawer, IBM z16 provides 25% greater capacity than IBM z15 for standard models and 40% greater capacity on the maximum configured model, which enables efficient partition scaling.
+

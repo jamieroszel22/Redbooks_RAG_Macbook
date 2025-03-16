@@ -1,0 +1,17 @@
+ an IBM zEnterprise EC12 or BC12, or later.
+- /SM590000 Provides the base for more functions to be delivered as service Small Program Enhancements (SPEs) after general availability.
+
+7.6.4  Capacity
+
+For the capacity of any z/VM logical partition (LPAR) and any z/VM guest, you might want to adjust the number to accommodate the PU capacity of IBM z16 servers in terms of the number of Integrated Facility for Linux (IFL) processors and central processors (CPs), real or virtual.
+
+7.7  z/VSE migration considerations
+
+As described in 7.2.3, 'z/VSE' on page 251, IBM z16 supports z/VSE 6.2.
+
+Consider the following general guidelines when you are migrating z/VSE environment to IBM z16 servers:
+
+- /SM590000 Collect reference information before migration
+
+This information includes baseline data that reflects the status of, for example, performance data, CPU use of reference workload, I/O activity, and elapsed times.
+

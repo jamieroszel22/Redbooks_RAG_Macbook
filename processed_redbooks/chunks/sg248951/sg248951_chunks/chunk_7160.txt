@@ -1,0 +1,16 @@
+te.
+
+IBM is working with Linux distribution Business Partners to provide further use of selected IBM z16 functions in future Linux on IBM Z distribution releases.
+
+Consider the following guidelines:
+
+- /SM590000 Use SUSE Linux Enterprise Server 15, Red Hat RHEL 9, or Ubuntu 22.10 LTS or newer in any new projects for IBM z16 servers.
+- /SM590000 Update any Linux distribution to the latest service level before migrating to IBM z16 servers.
+- /SM590000 Adjust the capacity of any Linux on IBM Z and z/VM guests, in terms of the number of IFLs and CPs, real or virtual, according to the PU capacity of the IBM z16 servers.
+
+7.2.7  KVM hypervisor
+
+KVM is offered through our Linux distribution partners to help simplify delivery and installation. Linux and KVM are provided from a single source. With KVM being included in the Linux distribution, ordering and installing KVM is easier.
+
+For more information about KVM support, see the IBM Z website.
+

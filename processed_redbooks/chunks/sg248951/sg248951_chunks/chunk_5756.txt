@@ -1,0 +1,15 @@
+t have PCHID numbers, but do require CHPIDs.
+
+IC links have the following attributes:
+
+- /SM590000 They provide the fastest connectivity that is significantly faster than external link alternatives.
+
+- /SM590000 They result in better coupling efficiency than with external links, which effectively reduces the CPU cost that is associated with Parallel Sysplex.
+- /SM590000 They can be used in test or production configurations, reduce the cost of moving into Parallel Sysplex technology, and enhance performance and reliability.
+- /SM590000 They can be defined as spanned channels across multiple channel subsystems.
+- /SM590000 They are available at no extra hardware cost (no feature code). Employing ICFs with IC links results in considerable cost savings when configuring a cluster.
+
+IC links are enabled by defining CHPID type ICP. A maximum of 64 IC links can be defined on an IBM z16.
+
+Integrated Coupling Adapter Short Reach
+

@@ -1,0 +1,16 @@
+590000 3-phase 380 - 415 V AC (5-wire 'Wye')
+
+The power supply units convert the AC power to DC power that is used as input for the Point of Loads (POLs) in the CPC drawer and the PCIe+ I/O drawers.
+
+The power requirements depend on the number of CPC drawers (1 - 4), number of PCIe I/O drawers (0 - 12) and I/O features that are installed in the PCIe I/O drawers.
+
+PDUs are installed and serviced from the rear of the frame. Unused power ports never should be used by any external device.
+
+A schematic view of a maximum that is configured system with PDU-based power is shown in Figure 2-27.
+
+<!-- missing-text -->
+
+Each PDU installed requires a customer-supplied power feed. The number of power cords that are required depends on the system configuration.
+
+Note: For initial installation, all power sources are required to run the system checkout diagnostics successfully.
+

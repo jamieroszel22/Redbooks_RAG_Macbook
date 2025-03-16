@@ -1,0 +1,6 @@
+upply assumes the entire load and the system continues to operate without interruption. Therefore, the power cords for each power supply must be wired to support the entire power load of the system.
+
+For the most reliable availability, the power cords in the rear of the frame should be powered from different PDUs. All power cords exit through the rear of the frame. The utility current distribution across the phase conductors (phase current balance) depends on the system configuration. Each front-end power supply is provided with phase switching redundancy.
+
+The loss of an input phase is detected and the total input current is switched to the remaining phase pair without any power interruption. Depending on the configuration input power draw, the system can run from several minutes to indefinitely in this condition. Because most single phase losses are transients that recover in seconds, this redundancy provides protection against virtually all single phase outages.
+

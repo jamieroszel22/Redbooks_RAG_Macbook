@@ -1,0 +1,14 @@
+characteristics. RI also enhances JRE in making the correct decision by providing real-time feedback.
+
+3.5  Processor unit functions
+
+The PU functions are described in this section.
+
+3.5.1  Overview
+
+All PUs on an IBM z16 are physically identical. When the system is initialized, two integrated firmware processors (IFP) are allocated from the pool of PUs that is available for the entire system. The other PUs can be characterized to specific functions (CP, IFL, ICF, zIIP, or SAP).
+
+The function that is assigned to a PU is set by the Licensed Internal Code (LIC). The LIC is loaded when the system is initialized at power-on reset (POR) and the PUs are characterized .
+
+Only characterized PUs include a designated function. Non-characterized PUs are considered spares. You must order at least one CP, IFL, or ICF on an IBM z16.
+
