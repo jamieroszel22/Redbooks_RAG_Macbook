@@ -1,200 +1,138 @@
 import argparse
+import os
 import json
 import logging
-import re
 from pathlib import Path
-import requests
+import re
+from operator import itemgetter
+from colorama import init, Fore, Style
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-)
-logger = logging.getLogger("simple-rag-query")
+# Initialize colorama for colored terminal output
+init()
 
-def search_chunks(jsonl_file, query, top_k=5):
-    """Simple keyword-based search for chunks without embeddings."""
-    
-    # Load chunks from JSONL file
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
+def load_chunks(chunks_dir):
+    """Load all chunk files from the chunks directory."""
     chunks = []
-    with open(jsonl_file, "r", encoding="utf-8") as f:
-        for line in f:
-            if not line.strip():
-                continue
-            chunk = json.loads(line)
-            chunks.append(chunk)
+    chunk_files = list(Path(chunks_dir).glob("*/*chunk_*.txt"))
     
-    logger.info(f"Loaded {len(chunks)} chunks from {jsonl_file}")
+    # Sort files for consistent loading
+    chunk_files.sort()
     
-    # Create search terms from query (split into words, remove punctuation, lowercase)
-    search_terms = re.sub(r'[^\w\s]', '', query.lower()).split()
+    for chunk_file in chunk_files:
+        doc_name = chunk_file.parent.name
+        with open(chunk_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+            chunks.append({
+                "document": doc_name,
+                "id": chunk_file.stem,
+                "content": content,
+                "file_path": str(chunk_file)
+            })
+    
+    logger.info(f"Loaded {len(chunks)} chunks from {len(set([c['document'] for c in chunks]))} documents")
+    return chunks
+
+def search_chunks(chunks, query, num_results=5):
+    """Search for chunks that match the query terms."""
+    # Break query into terms
+    query_terms = re.findall(r'\b\w+\b', query.lower())
     
     # Score each chunk based on term frequency
-    chunk_scores = []
+    scored_chunks = []
     for chunk in chunks:
-        text = chunk["text"].lower()
+        content = chunk["content"].lower()
         score = 0
-        for term in search_terms:
-            score += text.count(term)
-        if score > 0:  # Only include chunks with matches
-            chunk_scores.append((chunk, score))
-    
-    # Sort by score (highest first)
-    chunk_scores.sort(key=lambda x: x[1], reverse=True)
-    
-    # Return top_k results
-    top_results = chunk_scores[:top_k]
-    return top_results
-
-def query_with_context(query, context_chunks, model="granite3.2:8b-instruct-fp16", host="localhost", port=11434):
-    """Query model with context chunks."""
-    
-    ollama_url = f"http://{host}:{port}"
-    
-    # Format context for the prompt
-    formatted_context = "\n\n".join([f"Context document {i+1}:\n{chunk['text']}" for i, (chunk, _) in enumerate(context_chunks)])
-    
-    # Build the prompt with context
-    prompt = f"""You are a helpful assistant with access to IBM Redbooks information. 
-Use the following context to answer the question, and if the information is not in the context, say so.
-
-{formatted_context}
-
-Question: {query}
-
-Answer:"""
-    
-    # Send request to Ollama
-    try:
-        response = requests.post(
-            f"{ollama_url}/api/generate",
-            json={
-                "model": model,
-                "prompt": prompt,
-                "temperature": 0.7,
-                "max_tokens": 500,
-                "stream": False
-            }
-        )
         
-        if response.status_code != 200:
-            return f"Error: {response.text}"
+        # Count occurrences of each term
+        for term in query_terms:
+            term_count = len(re.findall(r'\b' + re.escape(term) + r'\b', content))
+            score += term_count
+        
+        # Only include chunks with at least one match
+        if score > 0:
+            scored_chunks.append((chunk, score))
+    
+    # Sort by score in descending order
+    scored_chunks.sort(key=itemgetter(1), reverse=True)
+    
+    return [chunk for chunk, score in scored_chunks[:num_results]]
+
+def highlight_terms(text, terms):
+    """Highlight search terms in the text."""
+    highlighted = text
+    for term in terms:
+        pattern = re.compile(r'\b(' + re.escape(term) + r')\b', re.IGNORECASE)
+        highlighted = pattern.sub(Fore.YELLOW + r'\1' + Style.RESET_ALL, highlighted)
+    
+    return highlighted
+
+def interactive_query(chunks_dir):
+    """Run an interactive query session."""
+    chunks = load_chunks(chunks_dir)
+    
+    print(f"{Fore.GREEN}=== IBM Redbooks Simple RAG Query System ==={Style.RESET_ALL}")
+    print(f"Loaded {len(chunks)} chunks from {len(set([c['document'] for c in chunks]))} documents")
+    print("Type 'exit' or 'quit' to end the session")
+    
+    while True:
+        query = input(f"\n{Fore.BLUE}Enter your query: {Style.RESET_ALL}")
+        
+        if query.lower() in ['exit', 'quit']:
+            print("Exiting query system. Goodbye!")
+            break
+        
+        if not query.strip():
+            continue
+        
+        # Search for relevant chunks
+        results = search_chunks(chunks, query)
+        
+        if not results:
+            print(f"{Fore.RED}No results found for your query.{Style.RESET_ALL}")
+            continue
+        
+        # Display results
+        print(f"\n{Fore.GREEN}Found {len(results)} relevant chunks:{Style.RESET_ALL}\n")
+        
+        query_terms = re.findall(r'\b\w+\b', query.lower())
+        
+        for i, result in enumerate(results):
+            print(f"{Fore.CYAN}Result {i+1} from {result['document']}{Style.RESET_ALL}")
             
-        return response.json().get("response", "No response received")
-    except Exception as e:
-        return f"Error connecting to Ollama: {e}"
+            # Highlight the query terms in the content
+            highlighted_content = highlight_terms(result["content"], query_terms)
+            
+            # Truncate if too long
+            if len(highlighted_content) > 500:
+                # Try to find a good breaking point
+                break_point = highlighted_content.rfind(".", 400, 500)
+                if break_point == -1:
+                    break_point = 500
+                print(highlighted_content[:break_point+1] + "...")
+            else:
+                print(highlighted_content)
+            
+            print(f"Source: {result['file_path']}")
+            print("-" * 80)
 
 def main():
-    parser = argparse.ArgumentParser(description="Simple IBM Redbooks RAG Query (no embeddings)")
-    parser.add_argument(
-        "--input", "-i", 
-        default="./processed_redbooks/ollama/redbooks_ollama.jsonl",
-        help="Path to JSONL file with processed chunks"
-    )
-    parser.add_argument(
-        "--model", "-m", 
-        default="granite3.2:8b-instruct-fp16",
-        help="Ollama model to use"
-    )
-    parser.add_argument(
-        "--port", "-p", 
-        type=int,
-        default=11434,
-        help="Ollama API port"
-    )
-    parser.add_argument(
-        "--host", 
-        default="localhost",
-        help="Ollama API host"
-    )
-    parser.add_argument(
-        "--interactive", 
-        action="store_true",
-        help="Run in interactive query mode"
-    )
-    parser.add_argument(
-        "--query", "-q",
-        help="Single query to run (non-interactive mode)"
-    )
-    parser.add_argument(
-        "--top-k", "-k",
-        type=int,
-        default=5,
-        help="Number of top results to use"
-    )
-    
+    parser = argparse.ArgumentParser(description="Simple RAG Query System for IBM Redbooks")
+    parser.add_argument("--data_dir", type=str, default="C:\\Users\\jamie\\OneDrive\\Documents\\Redbooks RAG", 
+                        help="Base directory for data storage")
     args = parser.parse_args()
     
-    # Check if model exists
-    ollama_url = f"http://{args.host}:{args.port}"
-    try:
-        response = requests.get(f"{ollama_url}/api/tags")
-        if response.status_code != 200:
-            logger.error(f"Error connecting to Ollama: {response.text}")
-            return
-            
-        # Check if model is in the list
-        models = response.json().get("models", [])
-        model_names = [model.get("name") for model in models]
-        
-        if args.model not in model_names:
-            logger.warning(f"Model '{args.model}' not found in available models: {', '.join(model_names)}")
-            logger.warning(f"You may need to pull it with: ollama pull {args.model}")
-    except Exception as e:
-        logger.error(f"Error checking Ollama models: {e}")
+    chunks_dir = Path(args.data_dir) / "processed_redbooks" / "chunks"
     
-    # Execute query or run interactive mode
-    if args.query:
-        # Single query mode
-        logger.info(f"Executing query: {args.query}")
-        
-        # Get relevant chunks using simple keyword search
-        results = search_chunks(args.input, args.query, args.top_k)
-        
-        logger.info(f"Found {len(results)} relevant chunks")
-        for i, (chunk, score) in enumerate(results):
-            logger.info(f"Result {i+1} (score: {score}):")
-            source = chunk["metadata"].get("source", "unknown") if "metadata" in chunk else "unknown"
-            logger.info(f"Source: {source}")
-            # Print first 150 chars as preview
-            logger.info(f"Preview: {chunk['text'][:150]}...")
-        
-        # Generate response with context
-        response = query_with_context(args.query, results, args.model, args.host, args.port)
-        
-        print("\n" + "="*50)
-        print("ANSWER:")
-        print("="*50)
-        print(response)
-        print("="*50)
-        
-    elif args.interactive:
-        # Interactive mode
-        print("\nIBM Redbooks RAG with Ollama (Simple Search)")
-        print("Type 'quit' or 'exit' to end the session")
-        
-        while True:
-            query = input("\nEnter your query: ")
-            if query.lower() in ("quit", "exit"):
-                break
-                
-            # Get relevant chunks using simple keyword search
-            results = search_chunks(args.input, query, args.top_k)
-            
-            if not results:
-                print("No relevant information found in documents. Try a different query.")
-                continue
-                
-            # Generate response with context
-            response = query_with_context(query, results, args.model, args.host, args.port)
-            
-            print("\n" + "="*50)
-            print("ANSWER:")
-            print("="*50)
-            print(response)
-            print("="*50)
-    else:
-        logger.info("Use --query or --interactive to run queries.")
+    if not chunks_dir.exists():
+        logger.error(f"Chunks directory not found: {chunks_dir}")
+        print(f"Error: Chunks directory not found. Please process PDFs first using redbook-processor.py")
+        return
+    
+    interactive_query(chunks_dir)
 
 if __name__ == "__main__":
     main()

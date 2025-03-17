@@ -1,118 +1,137 @@
 import argparse
 import json
 import logging
+import os
+import time
+import uuid
 from pathlib import Path
+from typing import List, Dict, Any
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-)
-logger = logging.getLogger("openwebui-prep")
+# Set up logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-def prepare_for_openwebui(
-    input_jsonl: Path,
-    output_json: Path,
-    collection_name: str = "IBM Redbooks Knowledge Base"
-):
-    """
-    Convert Ollama-style JSONL to Open WebUI knowledge base format.
+def load_chunks(chunks_dir: Path) -> List[Dict[str, Any]]:
+    """Load all chunks from the chunks directory."""
+    chunks = []
+    chunk_files = list(chunks_dir.glob("*/*chunk_*.txt"))
     
-    Args:
-        input_jsonl: Path to input JSONL file
-        output_json: Path to output JSON file
-        collection_name: Name for the collection
-    """
-    # Read input JSONL
-    documents = []
-    try:
-        with open(input_jsonl, "r", encoding="utf-8") as f:
-            for line in f:
-                if line.strip():
-                    documents.append(json.loads(line))
-        
-        logger.info(f"Loaded {len(documents)} documents from {input_jsonl}")
-    except Exception as e:
-        logger.error(f"Error reading input file: {e}")
-        return False
+    # Sort files for consistent loading
+    chunk_files.sort()
     
-    # Create collection object
-    collection = {
+    for chunk_file in chunk_files:
+        doc_name = chunk_file.parent.name
+        with open(chunk_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+            chunks.append({
+                "document": doc_name,
+                "id": chunk_file.stem,
+                "content": content,
+                "file_path": str(chunk_file)
+            })
+    
+    logger.info(f"Loaded {len(chunks)} chunks from {len(set([c['document'] for c in chunks]))} documents")
+    return chunks
+
+def prepare_for_openwebui(chunks: List[Dict[str, Any]], output_dir: Path, collection_name: str = "IBM Z Knowledge Base") -> None:
+    """Convert chunks to Open WebUI format."""
+    # Create directory if it doesn't exist
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Group chunks by document
+    docs = {}
+    for chunk in chunks:
+        doc_name = chunk["document"]
+        if doc_name not in docs:
+            docs[doc_name] = []
+        docs[doc_name].append(chunk)
+    
+    # Create collection metadata
+    collection_data = {
         "name": collection_name,
-        "description": "IBM Redbooks processed with Docling for RAG",
+        "id": str(uuid.uuid4()),
+        "document_count": len(docs),
+        "chunk_count": len(chunks),
+        "created_at": time.strftime("%Y-%m-%d %H:%M:%S"),
         "documents": []
     }
     
-    # Transform documents to Open WebUI format
-    for doc in documents:
-        text = doc.get("text", "")
-        metadata = doc.get("metadata", {})
-        source = metadata.get("source", "unknown")
-        
-        # Create document in Open WebUI format
-        document = {
-            "title": f"IBM Redbook: {source}",
-            "content": text,
-            "metadata": {
-                "source": source,
-                "processed_date": metadata.get("processed_date", ""),
-                "chunk": metadata.get("chunk", 0)
-            }
+    # Process each document
+    for doc_name, doc_chunks in docs.items():
+        # Create document metadata
+        doc_id = str(uuid.uuid4())
+        document_data = {
+            "id": doc_id,
+            "name": doc_name,
+            "chunks": []
         }
         
-        collection["documents"].append(document)
-    
-    # Write output JSON
-    try:
-        output_json.parent.mkdir(parents=True, exist_ok=True)
-        with open(output_json, "w", encoding="utf-8") as f:
-            json.dump(collection, f, ensure_ascii=False, indent=2)
+        # Add all chunks for this document
+        for chunk in doc_chunks:
+            chunk_data = {
+                "id": str(uuid.uuid4()),
+                "document_id": doc_id,
+                "content": chunk["content"],
+                "metadata": {
+                    "source": chunk["file_path"],
+                    "chunk_id": chunk["id"]
+                }
+            }
+            document_data["chunks"].append(chunk_data)
         
-        logger.info(f"Created Open WebUI collection at: {output_json}")
-        logger.info(f"Collection contains {len(collection['documents'])} documents")
-        return True
-    except Exception as e:
-        logger.error(f"Error writing output file: {e}")
-        return False
+        collection_data["documents"].append(document_data)
+    
+    # Save collection file
+    collection_file = output_dir / f"{collection_name.replace(' ', '_')}.json"
+    with open(collection_file, 'w', encoding='utf-8') as f:
+        json.dump(collection_data, f, indent=2)
+    
+    logger.info(f"Created Open WebUI collection: {collection_file}")
+    logger.info(f"Collection contains {len(collection_data['documents'])} documents with {collection_data['chunk_count']} chunks")
+    
+    # Create instruction file for importing
+    instructions_file = output_dir / "import_instructions.md"
+    with open(instructions_file, 'w', encoding='utf-8') as f:
+        f.write(f"""# Instructions for importing to Open WebUI
+
+1. Open your Open WebUI instance
+2. Go to RAG > Collections
+3. Click "Import Collection"
+4. Select the file: `{collection_file.name}`
+5. Wait for the import to complete
+6. Verify your collection "{collection_name}" appears in the list
+7. Enable RAG for your chats by selecting this collection
+""")
+    
+    logger.info(f"Created import instructions: {instructions_file}")
 
 def main():
-    parser = argparse.ArgumentParser(description="Prepare IBM Redbooks for Open WebUI")
-    parser.add_argument(
-        "--input", "-i", 
-        default="C:/Users/jamie/OneDrive/Documents/Redbooks RAG/processed_redbooks/ollama/redbooks_ollama.jsonl",
-        help="Path to input JSONL file"
-    )
-    parser.add_argument(
-        "--output", "-o", 
-        default="C:/Users/jamie/OneDrive/Documents/Redbooks RAG/openwebui/ibm_redbooks_collection.json",
-        help="Path to output JSON file"
-    )
-    parser.add_argument(
-        "--name", "-n", 
-        default="IBM Redbooks Knowledge Base",
-        help="Name for the collection"
-    )
-    
+    parser = argparse.ArgumentParser(description="Prepare data for Open WebUI integration")
+    parser.add_argument("--data_dir", type=str, default="C:\\Users\\jamie\\OneDrive\\Documents\\Redbooks RAG", 
+                        help="Base directory for data storage")
+    parser.add_argument("--collection", type=str, default="IBM Z Knowledge Base", 
+                        help="Name for the Open WebUI collection")
     args = parser.parse_args()
     
-    success = prepare_for_openwebui(
-        input_jsonl=Path(args.input),
-        output_json=Path(args.output),
-        collection_name=args.name
-    )
+    chunks_dir = Path(args.data_dir) / "processed_redbooks" / "chunks"
+    output_dir = Path(args.data_dir) / "openwebui"
     
-    if success:
-        print("\nFile prepared successfully for Open WebUI!")
-        print(f"Output JSON file: {args.output}")
-        print("\nNext steps:")
-        print("1. Log in to Open WebUI at http://192.168.86.19:3000/")
-        print("2. Go to Knowledge Management section")
-        print("3. Create a new collection and upload the JSON file")
-        print("4. Select your model for embeddings")
-        print("5. Start a new chat with RAG enabled\n")
-    else:
-        print("\nFailed to prepare file for Open WebUI.")
-        print("Check the logs for details.")
+    if not chunks_dir.exists():
+        logger.error(f"Chunks directory not found: {chunks_dir}")
+        print(f"Error: Chunks directory not found. Please process PDFs first using redbook-processor.py")
+        return
+    
+    # Create output directory if it doesn't exist
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Load chunks
+    chunks = load_chunks(chunks_dir)
+    
+    # Prepare for Open WebUI
+    prepare_for_openwebui(chunks, output_dir, args.collection)
+    
+    print(f"Successfully prepared data for Open WebUI. Files saved to {output_dir}")
+    print(f"Follow the instructions in {output_dir / 'import_instructions.md'} to import the collection.")
 
 if __name__ == "__main__":
     main()

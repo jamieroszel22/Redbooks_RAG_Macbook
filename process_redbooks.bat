@@ -1,22 +1,38 @@
 @echo off
-echo IBM Redbooks RAG System - Document Processing
-echo ============================================
+echo IBM Redbooks PDF Processing
+echo ===========================
+echo.
+echo This script will process all PDF files in the pdfs directory.
+echo.
 
-REM Check if PDFs exist in the pdfs directory
-if not exist "pdfs\*.pdf" (
-    echo No PDF files found in the pdfs directory.
-    echo Please place your IBM Redbooks PDFs in the pdfs directory.
-    exit /b
+set DATA_DIR=C:\Users\jamie\OneDrive\Documents\Redbooks RAG
+
+REM Check if PDFs exist
+dir "%DATA_DIR%\pdfs\*.pdf" /b >nul 2>&1
+if %ERRORLEVEL% neq 0 (
+    echo No PDF files found in %DATA_DIR%\pdfs
+    echo Please add PDF files first.
+    goto :end
 )
 
-REM Process all PDFs in the pdfs directory
-echo Processing PDF files in pdfs directory...
-python redbook-processor.py --input "pdfs" --output "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\processed_redbooks" --enable-ocr --prepare-ollama
+echo Found PDF files to process.
+echo.
+echo This may take a while depending on the number and size of PDFs.
+echo.
+echo Processing...
+echo.
+
+python redbook-processor.py --data_dir "%DATA_DIR%"
 
 echo.
-echo Document processing complete!
-echo Processed files are in "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\processed_redbooks"
+echo PDF processing complete.
 echo.
-echo You can now query the RAG system with:
-echo run_simple_query.bat
+echo Your processed documents are available in:
+echo %DATA_DIR%\processed_redbooks\docs
 echo.
+echo Your document chunks are available in:
+echo %DATA_DIR%\processed_redbooks\chunks
+echo.
+
+:end
+pause

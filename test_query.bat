@@ -1,20 +1,17 @@
 @echo off
-echo IBM Redbooks RAG System - Test Query
-echo ==================================
+echo IBM Redbooks RAG System Test
+echo =========================
+echo.
+echo This script will test the components of your RAG system.
+echo.
 
-REM Check if a query was provided
-if "%~1"=="" (
-    echo Usage: test_query.bat "Your query here"
-    echo Example: test_query.bat "What is IBM Z Cyber Vault?"
-    exit /b
-)
+set DATA_DIR=C:\Users\jamie\OneDrive\Documents\Redbooks RAG
 
-REM Check if processed files exist
-if not exist "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\processed_redbooks\ollama\redbooks_ollama.jsonl" (
-    echo Processed data not found.
-    echo Please run process_redbooks.bat first.
-    exit /b
-)
+REM Run the tester script
+python rag_tester.py --data_dir "%DATA_DIR%"
 
-REM Run the RAG system with the provided query
-python rag_tester.py --input "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\processed_redbooks\ollama\redbooks_ollama.jsonl" --model granite3.2:8b-instruct-fp16 --query "%~1"
+echo.
+echo Test complete.
+echo.
+
+pause

@@ -1,25 +1,30 @@
 @echo off
-echo IBM Redbooks RAG - Prepare for Open WebUI
-echo =======================================
+echo IBM Redbooks Open WebUI Integration
+echo =================================
+echo.
+echo This script will prepare your data for Open WebUI.
+echo.
 
-REM Create output directory if it doesn't exist
-mkdir "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\openwebui" 2>nul
+set DATA_DIR=C:\Users\jamie\OneDrive\Documents\Redbooks RAG
+set COLLECTION=IBM Z Knowledge Base
 
-REM Check if processed files exist
-if not exist "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\processed_redbooks\ollama\redbooks_ollama.jsonl" (
-    echo Processed JSONL file not found.
-    echo Please run process_redbooks.bat first.
-    exit /b
+REM Check if chunks exist
+if not exist "%DATA_DIR%\processed_redbooks\chunks" (
+    echo No document chunks found in %DATA_DIR%\processed_redbooks\chunks
+    echo Please process PDFs first using process_redbooks.bat
+    goto :end
 )
 
-REM Convert JSONL to Open WebUI format
-python prepare_for_openwebui.py --input "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\processed_redbooks\ollama\redbooks_ollama.jsonl" --output "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\openwebui\ibm_redbooks_collection.json" --name "IBM Z Knowledge Base"
+echo Preparing data for Open WebUI...
+echo Collection name: %COLLECTION%
+echo.
+
+python prepare_for_openwebui.py --data_dir "%DATA_DIR%" --collection "%COLLECTION%"
 
 echo.
-echo When the conversion is complete, follow these steps:
-echo 1. Log in to Open WebUI at http://192.168.86.19:3000/
-echo 2. Go to Knowledge Management section
-echo 3. Create a new collection and upload the JSON file
-echo 4. Select the same model you use for chat (like granite3.2:8b-instruct-fp16) for embeddings
-echo 5. Start a new chat with RAG enabled
+echo The Open WebUI collection file is ready.
+echo See the import instructions file for next steps.
 echo.
+
+:end
+pause

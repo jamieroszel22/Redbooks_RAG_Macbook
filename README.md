@@ -1,408 +1,91 @@
 # IBM Redbooks RAG System
 
-[![Docker Build Test](https://github.com/jamieroszel22/docling_rag/actions/workflows/docker-build.yml/badge.svg)](https://github.com/jamieroszel22/docling_rag/actions/workflows/docker-build.yml)
-
-A containerized Retrieval-Augmented Generation (RAG) system for IBM Redbooks technical documentation that leverages Docling for PDF processing and understanding.
-
-## Prerequisites
-
-- Podman and Podman Compose (recommended for IBM environments)
-- Docker and Docker Compose (alternative option)
-- NVIDIA GPU with drivers installed (for optimal performance on Windows)
-- NVIDIA Container Toolkit (for GPU support)
-
-## Quick Start
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/jamieroszel22/docling_rag.git
-   cd docling_rag
-   ```
-
-2. Place your IBM Redbooks PDFs in the `data/pdfs` directory (will be created automatically)
-
-3. Run the appropriate setup script for your environment:
-   ```bash
-   # For Windows with Podman
-   podman-setup.bat
-   
-   # For Windows with Docker
-   setup.bat
-   
-   # For Mac/Linux with Podman (recommended)
-   chmod +x podman-setup.sh && ./podman-setup.sh
-   
-   # For Mac/Linux with Docker
-   chmod +x setup.sh && ./setup.sh
-   ```
-
-4. Process your Redbooks:
-   ```bash
-   # With Podman
-   podman exec redbooks-rag sh /app/scripts/process_redbooks.sh
-   
-   # With Docker
-   docker exec redbooks-rag sh /app/scripts/process_redbooks.sh
-   ```
-
-5. Run the interactive RAG system:
-   ```bash
-   # With Podman
-   podman exec -it redbooks-rag sh /app/scripts/run_rag_interactive.sh
-   
-   # With Docker
-   docker exec -it redbooks-rag sh /app/scripts/run_rag_interactive.sh
-   ```
-
-6. Prepare data for Open WebUI (optional):
-   ```bash
-   # With Podman
-   podman exec redbooks-rag sh /app/scripts/prepare_for_openwebui.sh
-   
-   # With Docker
-   docker exec redbooks-rag sh /app/scripts/prepare_for_openwebui.sh
-   ```
-
-## Platform-Specific Setup
-
-### Windows with NVIDIA GPU
-
-Windows with an NVIDIA GPU provides the best performance for this system.
-
-#### Using Podman (Recommended)
-
-1. Install [Podman Desktop](https://podman-desktop.io/downloads)
-   - During installation, choose to install Podman Machine for Windows
-
-2. For GPU support:
-   - Ensure your NVIDIA drivers are up to date
-   - Install [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html)
-
-3. Run the Windows Podman setup script:
-   ```
-   podman-setup.bat
-   ```
-
-4. Windows path considerations:
-   - The `.env` file uses Windows-style paths (e.g., `C:/Users/your-username/Documents/...`)
-   - Podman internally converts these to Linux-style paths
-
-#### Using Docker (Alternative)
-
-1. Install [Docker Desktop for Windows](https://www.docker.com/products/docker-desktop/)
-
-2. For GPU support:
-   - Install [NVIDIA Container Toolkit for Windows](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html#docker)
-   - Ensure your NVIDIA drivers are up to date
-
-3. Run the Windows Docker setup script:
-   ```
-   setup.bat
-   ```
-
-### macOS Setup
-
-#### Using Podman (Recommended)
-
-1. Install Podman via Homebrew:
-   ```bash
-   brew install podman
-   ```
-
-2. Initialize the Podman machine:
-   ```bash
-   podman machine init
-   podman machine start
-   ```
-
-3. Install Podman Compose:
-   ```bash
-   pip install podman-compose
-   ```
-
-4. Run the Podman setup script:
-   ```bash
-   chmod +x podman-setup.sh
-   ./podman-setup.sh
-   ```
-
-5. Update the `.env` file with macOS-style paths:
-   ```
-   PDF_PATH=/Users/your-username/Documents/Redbooks/pdfs
-   PROCESSED_PATH=/Users/your-username/Documents/Redbooks/processed_redbooks
-   OPENWEBUI_PATH=/Users/your-username/Documents/Redbooks/openwebui
-   ```
-
-6. Note for Apple Silicon (M1/M2) Macs:
-   - The containers will run in emulation mode
-   - Performance may be slower than on x86_64 hardware
-
-#### Using Docker (Alternative)
-
-1. Install [Docker Desktop for Mac](https://www.docker.com/products/docker-desktop/)
-
-2. Run the Docker setup script:
-   ```bash
-   chmod +x setup.sh
-   ./setup.sh
-   ```
-
-### Linux Setup
-
-#### Using Podman (Recommended for RHEL/Fedora/CentOS)
-
-1. Install Podman and Podman Compose:
-   ```bash
-   # For RHEL/Fedora/CentOS
-   sudo yum install podman podman-compose
-   
-   # For Ubuntu/Debian
-   sudo apt-get update
-   sudo apt-get install podman
-   pip install podman-compose
-   ```
-
-2. For GPU support:
-   ```bash
-   # Install NVIDIA Container Toolkit
-   distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
-   curl -s -L https://nvidia.github.io/libnvidia-container/stable/$distribution/libnvidia-container.repo | sudo tee /etc/yum.repos.d/nvidia-container-toolkit.repo
-   sudo yum install -y nvidia-container-toolkit
-   ```
-
-3. Run the Podman setup script:
-   ```bash
-   chmod +x podman-setup.sh
-   ./podman-setup.sh
-   ```
-
-4. Update the `.env` file with Linux-style paths:
-   ```
-   PDF_PATH=/home/your-username/Documents/Redbooks/pdfs
-   PROCESSED_PATH=/home/your-username/Documents/Redbooks/processed_redbooks
-   OPENWEBUI_PATH=/home/your-username/Documents/Redbooks/openwebui
-   ```
-
-#### Using Docker (Alternative)
-
-1. Install Docker and Docker Compose:
-   ```bash
-   # For Ubuntu/Debian
-   sudo apt-get update
-   sudo apt-get install docker.io docker-compose
-   
-   # For CentOS/RHEL/Fedora
-   sudo yum install docker docker-compose
-   ```
-
-2. For GPU support:
-   ```bash
-   # Install NVIDIA Container Toolkit
-   distribution=$(. /etc/os-release;echo $ID$VERSION_ID)
-   curl -s -L https://nvidia.github.io/nvidia-docker/gpgkey | sudo apt-key add -
-   curl -s -L https://nvidia.github.io/nvidia-docker/$distribution/nvidia-docker.list | sudo tee /etc/apt/sources.list.d/nvidia-docker.list
-   sudo apt-get update
-   sudo apt-get install -y nvidia-container-toolkit
-   sudo systemctl restart docker
-   ```
-
-3. Run the Docker setup script:
-   ```bash
-   chmod +x setup.sh
-   ./setup.sh
-   ```
-
-## MacBook Specific Setup
-
-The repository includes special setup scripts to address common issues when running on macOS:
-
-### Using Podman on MacBook (Recommended for IBM environments)
-
-If you encounter issues with Podman on macOS, use the `macbook-podman-reset.sh` script:
-
-```bash
-chmod +x macbook-podman-reset.sh
-./macbook-podman-reset.sh
-```
-
-This script will:
-1. Clean up any existing Podman containers and pods
-2. Ensure the Podman machine is running
-3. Create a macOS-compatible Podman configuration
-4. Build and restart the containers
-
-### Using Docker on MacBook (Alternative approach)
-
-For a more reliable experience on macOS, Docker may be a better option:
-
-```bash
-chmod +x macbook-docker-setup.sh
-./macbook-docker-setup.sh
-```
-
-This script will:
-1. Clean up any existing Docker containers
-2. Create a macOS-compatible Docker configuration  
-3. Build and restart the containers
-
-### Troubleshooting MacBook Setup
-
-Common issues on macOS:
-
-1. **Pod/Container Conflicts**: If you get "container already in use" or pod-related errors, use the reset script to clean up.
-
-2. **Volume Mount Issues**: macOS uses a different filesystem than Linux. The provided scripts adjust volume mounts for compatibility.
-
-3. **Performance on Apple Silicon**: If you're using an M1/M2 Mac, containers will run in emulation mode, which may be slower.
-
-For best results on Apple Silicon Macs, consider:
-- Increasing Docker/Podman memory allocation (8GB+ recommended)
-- Using Docker instead of Podman
-- Being patient with initial container builds
-
-## Important Podman Considerations
-
-Podman, developed by Red Hat, offers several advantages over Docker especially in IBM environments:
-
-- **Enhanced Security**: Runs in rootless mode by default
-- **Daemonless Architecture**: No background daemon required
-- **OCI-Compliant**: Follows Open Container Initiative standards
-- **Drop-in Replacement**: Compatible with Docker CLI commands
-- **IBM Corporate Compliance**: Approved for use on IBM corporate laptops
-
-### Podman Command Reference
-
-Docker commands can be easily converted to Podman:
-
-```bash
-# Docker command
-docker run -it --name test nginx
-
-# Equivalent Podman command
-podman run -it --name test nginx
-```
-
-For this project, simply replace `docker` with `podman` in any command.
-
-### Podman-specific considerations:
-
-- **Rootless Mode**: Enhances security but may cause permission issues with certain volume mounts
-- **GPU Support**: Use the `--hooks-dir=/usr/share/containers/oci/hooks.d` flag when running with NVIDIA GPU support
-- **Volume Mounts**: When specifying volume paths in podman-compose.yml, use absolute paths for better compatibility
-- **SELinux**: If running on RHEL/Fedora with SELinux enabled, use the `:z` suffix for volume mounts
-
-### Podman on macOS Notes
-
-The repository includes a special `podman-compose.yml` file with macOS-compatible volume definitions. The `podman-setup.sh` script will:
-
-1. Create necessary directories
-2. Generate a compatible podman-compose.yml file
-3. Check if the Podman machine is running and start it if needed
-4. Build and start the containers
-
-This approach resolves common volume mounting issues seen on macOS with Podman.
-
-## Configuration
-
-Edit the `.env` file to configure:
-- Custom paths for your data
-- Ollama model to use
-
-## Project Structure
-
-```
-├── Dockerfile            # Container definition
-├── docker-compose.yml    # Multi-container setup
-├── podman-compose.yml    # Podman-compatible compose file
-├── requirements.txt      # Python dependencies
-├── scripts/              # Helper scripts
-│   ├── process_redbooks.sh
-│   ├── run_rag_interactive.sh
-│   └── prepare_for_openwebui.sh
-├── data/                 # Data directory (created on first run)
-│   ├── pdfs/             # Place your Redbook PDFs here
-│   ├── processed_redbooks/
-│   │   ├── docs/         # Processed documents
-│   │   ├── chunks/       # Text chunks for retrieval
-│   │   └── ollama/       # JSONL files for Ollama
-│   └── openwebui/        # Files for Open WebUI integration
-```
-
-## Open WebUI Integration
-
-After running the prepare_for_openwebui.sh script, the files in the `data/openwebui` directory can be uploaded to your Open WebUI instance as a collection named "IBM Z Knowledge Base".
-
-1. Access your Open WebUI instance
-2. Create a new collection
-3. Upload the JSON files from the `data/openwebui` directory
-4. Enable RAG when chatting with the model
-
-## LLM Support
-
-This container comes with Ollama, which can run various models. The default configuration uses:
-- granite3.2:8b-instruct-fp16
-
-To use a different model, edit the `.env` file and change the `OLLAMA_MODEL` variable.
-
-## Development
-
-To contribute to this project:
-
-1. Fork the repository on GitHub
-2. Create a new branch for your feature
-3. Commit your changes
-4. Push to your branch
-5. Create a new Pull Request
-
-## CI/CD
-
-This project uses GitHub Actions for continuous integration. Each push to the main branch will trigger a build test to ensure the container builds successfully.
+This system provides a complete Retrieval-Augmented Generation (RAG) solution for IBM Redbooks technical documentation. It processes PDF documents into queryable knowledge bases that can be accessed through natural language, enabling technical users to quickly find specific information in IBM's extensive documentation.
+
+## Features
+
+- Process PDF documents using Docling for advanced document understanding
+- Support for GPU acceleration with NVIDIA GPUs
+- Simple keyword-based search without requiring an LLM
+- Advanced RAG using Ollama for embedding-based retrieval and generation
+- Integration with Open WebUI for a user-friendly interface
+- Batch files for easy operation
+
+## System Requirements
+
+- Windows with Python 3.8 or higher
+- For GPU acceleration: NVIDIA GPU with CUDA support (e.g., RTX 4070 Ti Super)
+- [Ollama](https://ollama.ai/) for LLM functionality
+- [Open WebUI](https://github.com/open-webui/open-webui) (optional, for web interface)
+
+## Directory Structure
+
+- Main Project Directory: `C:\Users\jamie\OneDrive\Desktop\ibm_redbooks_rag\`
+  - Contains all Python scripts and batch files
+
+- Data Directory: `C:\Users\jamie\OneDrive\Documents\Redbooks RAG\`
+  - `/pdfs/` - Storage for IBM Redbook PDF files
+  - `/processed_redbooks/` - Contains processed documents and chunks
+    - `/processed_redbooks/docs/` - Markdown, HTML, JSON of processed documents
+    - `/processed_redbooks/chunks/` - Text chunks for retrieval
+    - `/processed_redbooks/ollama/` - JSONL files formatted for Ollama
+  - `/openwebui/` - Contains JSON files for Open WebUI integration
+
+## Scripts
+
+### Python Scripts
+- `redbook-processor.py` - Main document processing script
+- `ollama-rag-integration.py` - Embedding-based RAG with Ollama
+- `simple_query.py` - Keyword-based RAG without embeddings
+- `prepare_for_openwebui.py` - Converts to Open WebUI format
+- `check_gpu.py` - Check for GPU presence and capabilities
+- `rag_tester.py` - Test the RAG system
+
+### Batch Files
+- `setup_rag.bat` - Initial setup script
+- `process_redbooks.bat` - Processes PDFs with Docling
+- `run_simple_query.bat` - Runs keyword-based RAG
+- `run_rag_interactive.bat` - Runs embedding-based RAG
+- `prepare_for_openwebui.bat` - Prepares data for Open WebUI
+- `copy_redbooks.bat` - Helper to copy PDFs to the right location
+- `test_query.bat` - Test the RAG system
+
+## Getting Started
+
+1. Run `setup_rag.bat` to set up directories and install dependencies
+2. Place IBM Redbooks PDFs in the `pdfs` directory (or use `copy_redbooks.bat` to help)
+3. Run `process_redbooks.bat` to process the PDFs
+4. Choose an interaction method:
+   - For simple search without LLM: Run `run_simple_query.bat`
+   - For Ollama-based RAG: Run `run_rag_interactive.bat`
+   - For Open WebUI: Run `prepare_for_openwebui.bat` and follow instructions
+
+## External Integration
+
+### Ollama
+- Expected to run locally at http://localhost:11434
+- Default model: `granite3.2:8b-instruct-fp16` (can be changed in `run_rag_interactive.bat`)
+
+### Open WebUI
+- Collection name: "IBM Z Knowledge Base" (can be changed in `prepare_for_openwebui.bat`)
+- Import generated JSON file from the `openwebui` directory
 
 ## Troubleshooting
 
-### Common Platform-Specific Issues
+- Run `test_query.bat` to test system components
+- Check that Ollama is running for LLM-based features
+- Ensure PDFs are properly formatted and readable
 
-#### Windows
-- **Path Issues**: Ensure paths in `.env` use forward slashes (`/`) or escaped backslashes (`\\`)
-- **Permission Errors**: Run as Administrator if you encounter permission issues
-- **WSL Issues**: If using WSL 2 backend, ensure it's properly configured with enough memory
+## Customization
 
-#### macOS
-- **Resource Limits**: Increase memory/CPU allocation in container settings
-- **M1/M2 Chips**: Be aware that containers will run in emulation mode which may impact performance
-- **Filesystem Performance**: For better performance, store data in locations not synced with iCloud
-- **Podman Volume Issues**: If you encounter `unknown mount option` errors, use the provided `podman-setup.sh` script which creates a compatible compose file
+- Edit `ollama-rag-integration.py` to modify the system prompt or embedding settings
+- Change the collection name in `prepare_for_openwebui.bat` for different document sets
+- Adjust chunk size in `redbook-processor.py` for different document types
 
-#### Linux
-- **Permission Issues**: If using Podman in rootless mode and encountering permission errors:
-  ```bash
-  podman unshare chown -R 1000:1000 /path/to/data
-  ```
-- **GPU Access**: Verify GPU is accessible within container:
-  ```bash
-  # For Podman
-  podman run --rm --hooks-dir=/usr/share/containers/oci/hooks.d nvidia/cuda:11.0-base nvidia-smi
-  
-  # For Docker
-  docker run --rm --gpus all nvidia/cuda:11.0-base nvidia-smi
-  ```
+## Further Development
 
-#### Podman
-- **Connection Errors**: If you see "connection refused" errors, check if your Podman machine is running:
-  ```bash
-  podman machine list
-  podman machine start
-  ```
-- **Compatibility Issues**: If a container doesn't work with Podman, try running with:
-  ```bash
-  podman run --security-opt label=disable ...
-  ```
-- **Debugging**: Inspect logs from your containers with:
-  ```bash
-  podman logs redbooks-rag
-  podman logs redbooks-ollama
-  ```
-
-## About
-
-This project uses [Docling](https://github.com/DS4SD/docling) for advanced PDF understanding and document processing.
+This project can be extended to:
+- Support additional document formats (Docling supports many formats beyond PDF)
+- Add multi-collection support for different document libraries
+- Implement hybrid retrieval strategies (combining keyword and embedding search)
+- Add support for other LLM providers beyond Ollama

@@ -1,13 +1,24 @@
 @echo off
-echo IBM Redbooks RAG System - Simple Query Mode
-echo ==========================================
+echo IBM Redbooks Simple Query System
+echo ===============================
+echo.
+echo This script will start a simple keyword-based query system.
+echo No Ollama or LLM required for this mode.
+echo.
 
-REM Check if processed files exist
-if not exist "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\processed_redbooks\ollama\redbooks_ollama.jsonl" (
-    echo Processed data not found.
-    echo Please run process_redbooks.bat first.
-    exit /b
+set DATA_DIR=C:\Users\jamie\OneDrive\Documents\Redbooks RAG
+
+REM Check if chunks exist
+if not exist "%DATA_DIR%\processed_redbooks\chunks" (
+    echo No document chunks found in %DATA_DIR%\processed_redbooks\chunks
+    echo Please process PDFs first using process_redbooks.bat
+    goto :end
 )
 
-REM Run the simple RAG system in interactive mode
-python simple_query.py --input "C:\Users\jamie\OneDrive\Documents\Redbooks RAG\processed_redbooks\ollama\redbooks_ollama.jsonl" --model granite3.2:8b-instruct-fp16 --interactive
+echo Starting simple query system...
+echo.
+
+python simple_query.py --data_dir "%DATA_DIR%"
+
+:end
+pause
