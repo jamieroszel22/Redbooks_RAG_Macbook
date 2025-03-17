@@ -4,88 +4,147 @@ This system provides a complete Retrieval-Augmented Generation (RAG) solution fo
 
 ## Features
 
-- Process PDF documents using Docling for advanced document understanding
-- Support for GPU acceleration with NVIDIA GPUs
+- Centralized configuration system with `config.yaml`
+- Advanced metadata extraction from PDFs
+- Individual JSON files per document for better organization
+- Incremental processing support
 - Simple keyword-based search without requiring an LLM
 - Advanced RAG using Ollama for embedding-based retrieval and generation
 - Integration with Open WebUI for a user-friendly interface
-- Batch files for easy operation
+- Cross-platform support (Windows, macOS, Linux)
 
 ## System Requirements
 
-- Windows with Python 3.8 or higher
-- For GPU acceleration: NVIDIA GPU with CUDA support (e.g., RTX 4070 Ti Super)
+- Python 3.8 or higher
+- PyMuPDF for PDF processing
+- PyYAML for configuration management
 - [Ollama](https://ollama.ai/) for LLM functionality
 - [Open WebUI](https://github.com/open-webui/open-webui) (optional, for web interface)
 
 ## Directory Structure
 
-- Main Project Directory: `C:\Users\jamie\OneDrive\Desktop\ibm_redbooks_rag\`
-  - Contains all Python scripts and batch files
+```
+.
+├── config.yaml                 # Central configuration file
+├── pdfs/                      # Source PDF documents
+├── processed_redbooks/        # Processed documents
+│   ├── {document_id}/        # Per-document directories
+│   │   ├── metadata.json     # Document metadata
+│   │   └── chunks/           # Document chunks
+├── openwebui/                 # Open WebUI integration files
+│   ├── {document_id}.json    # Individual document collections
+│   └── IBM_Z_Knowledge_Base.json  # Main collection file
+└── venv/                      # Python virtual environment
+```
 
-- Data Directory: `C:\Users\jamie\OneDrive\Documents\Redbooks RAG\`
-  - `/pdfs/` - Storage for IBM Redbook PDF files
-  - `/processed_redbooks/` - Contains processed documents and chunks
-    - `/processed_redbooks/docs/` - Markdown, HTML, JSON of processed documents
-    - `/processed_redbooks/chunks/` - Text chunks for retrieval
-    - `/processed_redbooks/ollama/` - JSONL files formatted for Ollama
-  - `/openwebui/` - Contains JSON files for Open WebUI integration
+## Core Components
 
-## Scripts
+### Configuration System (`config.yaml`)
+- PDF processing parameters
+- Metadata extraction settings
+- File paths and naming conventions
+- Collection settings
+- Quality check parameters
 
 ### Python Scripts
-- `redbook-processor.py` - Main document processing script
-- `ollama-rag-integration.py` - Embedding-based RAG with Ollama
-- `simple_query.py` - Keyword-based RAG without embeddings
-- `prepare_for_openwebui.py` - Converts to Open WebUI format
-- `check_gpu.py` - Check for GPU presence and capabilities
-- `rag_tester.py` - Test the RAG system
-
-### Batch Files
-- `setup_rag.bat` - Initial setup script
-- `process_redbooks.bat` - Processes PDFs with Docling
-- `run_simple_query.bat` - Runs keyword-based RAG
-- `run_rag_interactive.bat` - Runs embedding-based RAG
-- `prepare_for_openwebui.bat` - Prepares data for Open WebUI
-- `copy_redbooks.bat` - Helper to copy PDFs to the right location
-- `test_query.bat` - Test the RAG system
+- `config_loader.py` - Configuration management
+- `metadata_extractor.py` - PDF metadata extraction
+- `document_processor.py` - Main document processing
+- `prepare_for_openwebui.py` - Open WebUI integration
+- `simple_query.py` - Keyword-based search
 
 ## Getting Started
 
-1. Run `setup_rag.bat` to set up directories and install dependencies
-2. Place IBM Redbooks PDFs in the `pdfs` directory (or use `copy_redbooks.bat` to help)
-3. Run `process_redbooks.bat` to process the PDFs
-4. Choose an interaction method:
-   - For simple search without LLM: Run `run_simple_query.bat`
-   - For Ollama-based RAG: Run `run_rag_interactive.bat`
-   - For Open WebUI: Run `prepare_for_openwebui.bat` and follow instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jamieroszel22/Redbooks_RAG_Macbook.git
+   cd Redbooks_RAG_Macbook
+   ```
 
-## External Integration
+2. Set up the Python environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
 
-### Ollama
-- Expected to run locally at http://localhost:11434
-- Default model: `granite3.2:8b-instruct-fp16` (can be changed in `run_rag_interactive.bat`)
+3. Place IBM Redbooks PDFs in the `pdfs` directory
 
-### Open WebUI
-- Collection name: "IBM Z Knowledge Base" (can be changed in `prepare_for_openwebui.bat`)
-- Import generated JSON file from the `openwebui` directory
+4. Process the documents:
+   ```bash
+   python document_processor.py
+   ```
 
-## Troubleshooting
+5. Prepare for Open WebUI:
+   ```bash
+   python prepare_for_openwebui.py
+   ```
 
-- Run `test_query.bat` to test system components
-- Check that Ollama is running for LLM-based features
-- Ensure PDFs are properly formatted and readable
+6. Import into Open WebUI:
+   - Navigate to RAG > Collections in Open WebUI
+   - Import the main collection file from `openwebui/IBM_Z_Knowledge_Base.json`
+   - Individual document collections are also available in the `openwebui` directory
+
+## Configuration
+
+The `config.yaml` file controls all aspects of the system:
+
+```yaml
+pdf_processing:
+  chunk_size: 1000
+  overlap: 200
+
+metadata:
+  extract_title: true
+  extract_author: true
+  extract_date: true
+  extract_keywords: true
+
+paths:
+  pdfs_dir: "pdfs"
+  processed_dir: "processed_redbooks"
+  openwebui_dir: "openwebui"
+
+collection:
+  name: "IBM Z Knowledge Base"
+  description: "Processed IBM Redbooks documentation"
+```
+
+## Adding New Documents
+
+1. Place new PDFs in the `pdfs` directory
+2. Run the document processor:
+   ```bash
+   python document_processor.py
+   ```
+3. Update Open WebUI collections:
+   ```bash
+   python prepare_for_openwebui.py
+   ```
+
+## Querying the Knowledge Base
+
+### Via Open WebUI
+1. Start a new chat
+2. Enable RAG
+3. Select the "IBM Z Knowledge Base" collection
+4. Ask questions about IBM Z systems
+
+### Via Simple Query
+```bash
+python simple_query.py
+```
 
 ## Customization
 
-- Edit `ollama-rag-integration.py` to modify the system prompt or embedding settings
-- Change the collection name in `prepare_for_openwebui.bat` for different document sets
-- Adjust chunk size in `redbook-processor.py` for different document types
+- Modify `config.yaml` to adjust processing parameters
+- Edit metadata extraction rules in `metadata_extractor.py`
+- Customize collection organization in `prepare_for_openwebui.py`
 
-## Further Development
+## Contributing
 
-This project can be extended to:
-- Support additional document formats (Docling supports many formats beyond PDF)
-- Add multi-collection support for different document libraries
-- Implement hybrid retrieval strategies (combining keyword and embedding search)
-- Add support for other LLM providers beyond Ollama
+Contributions are welcome! Please feel free to submit pull requests or open issues for improvements.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
