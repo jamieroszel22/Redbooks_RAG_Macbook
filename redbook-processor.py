@@ -4,8 +4,10 @@ import os
 import time
 import sys
 import shutil
+import hashlib
 from pathlib import Path
 import json
+from datetime import datetime
 import torch
 from tqdm import tqdm
 
@@ -26,6 +28,73 @@ from check_gpu import check_gpu
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
+
+def setup_gpu_optimizations():
+    """Set optimal PyTorch CUDA settings for better performance"""
+    if torch.cuda.is_available():
+        logger.info("Optimizing PyTorch CUDA settings")
+        # Force PyTorch to use TF32 on Ampere and newer GPUs
+        torch.backends.cuda.matmul.allow_tf32 = True
+        torch.backends.cudnn.allow_tf32 = True
+        
+        # Enable cuDNN benchmarking for best performance
+        torch.backends.cudnn.benchmark = True
+        
+        # Set environment variables for Docling
+        os.environ["DOCLING_USE_GPU"] = "1"
+        os.environ["DOCLING_DEVICE"] = "cuda"
+        os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+        os.environ["TORCH_CUDA_ARCH_LIST"] = "7.0;7.5;8.0;8.6;8.9;9.0"  # Support most modern GPUs
+        
+        logger.info("PyTorch CUDA optimizations applied")
+        return True
+    return False
+
+def get_file_hash(file_path):
+    """Calculate MD5 hash of file to track changes"""
+    hasher = hashlib.md5()
+    with open(file_path, 'rb') as f:
+        buf = f.read(65536)
+        while len(buf) > 0:
+            hasher.update(buf)
+            buf = f.read(65536)
+    return hasher.hexdigest()
+
+def load_processing_manifest(manifest_file):
+    """Load or create processing manifest to track processed files"""
+    if manifest_file.exists():
+        try:
+            with open(manifest_file, 'r') as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            logger.warning("Manifest file corrupted, creating new one")
+    
+    # Create default manifest
+    manifest = {
+        "processed_files": {},
+        "last_update": datetime.now().isoformat()
+    }
+    
+    # Create directory if needed
+    manifest_file.parent.mkdir(parents=True, exist_ok=True)
+    
+    # Save and return
+    with open(manifest_file, 'w') as f:
+        json.dump(manifest, f, indent=2)
+    
+    return manifest
+
+def update_manifest(manifest, manifest_file, file_path, hash_value, success):
+    """Update the processing manifest with file information"""
+    manifest["processed_files"][str(file_path)] = {
+        "hash": hash_value,
+        "last_processed": datetime.now().isoformat(),
+        "success": success
+    }
+    manifest["last_update"] = datetime.now().isoformat()
+    
+    with open(manifest_file, 'w') as f:
+        json.dump(manifest, f, indent=2)
 
 def setup_directories(base_dir):
     """Create necessary directories if they don't exist."""
@@ -71,7 +140,7 @@ def chunk_document(text, chunk_size=1000, overlap=100):
     return chunks
 
 def process_pdf(pdf_path, output_dir, has_gpu):
-    """Process a single PDF using Docling and create chunks."""
+    """Process a single PDF using Docling and create chunks. Also creates individual subfolder."""
     pdf_filename = os.path.basename(pdf_path)
     doc_name = os.path.splitext(pdf_filename)[0]
     
@@ -84,75 +153,23 @@ def process_pdf(pdf_path, output_dir, has_gpu):
     # Use GPU if available - handle different Docling API versions
     if has_gpu:
         logger.info("Attempting to configure GPU for Docling")
-        gpu_configured = False
         
-        # The specific API for GPU configuration varies across Docling versions
-        # We'll try several possible methods and gracefully handle failures
+        # Try to set device directly on pipeline options first
+        try:
+            pipeline_options.device = "cuda"
+            logger.info("Set pipeline_options.device='cuda'")
+        except (AttributeError, ValueError) as e:
+            logger.info(f"Could not set pipeline_options.device: {str(e)}")
         
-        # Method 1: Try checking the available attributes of PdfPipelineOptions
-        available_attrs = dir(pipeline_options)
-        gpu_related_attrs = [attr for attr in available_attrs if any(term in attr.lower() for term in ['gpu', 'cuda', 'device'])]
-        
-        if gpu_related_attrs:
-            logger.info(f"Found potential GPU-related attributes: {gpu_related_attrs}")
-            for attr in gpu_related_attrs:
-                try:
-                    # Try to enable the attribute if it looks like a boolean flag
-                    if attr.lower().startswith(('use_', 'enable_', 'has_')):
-                        setattr(pipeline_options, attr, True)
-                        logger.info(f"Set {attr}=True on pipeline_options")
-                        gpu_configured = True
-                    # Try to set device if it looks like a device property
-                    elif any(term in attr.lower() for term in ['device', 'gpu', 'cuda']):
-                        setattr(pipeline_options, attr, "cuda")
-                        logger.info(f"Set {attr}='cuda' on pipeline_options")
-                        gpu_configured = True
-                except (AttributeError, ValueError, TypeError) as e:
-                    logger.info(f"Could not set {attr}: {str(e)}")
-        
-        # Method 2: Try to modify settings directly
-        if not gpu_configured:
-            try:
-                # Check if settings has gpu or device related attributes
-                settings_attrs = dir(settings)
-                gpu_settings_attrs = [attr for attr in settings_attrs if any(term in attr.lower() for term in ['gpu', 'cuda', 'device'])]
-                
-                if gpu_settings_attrs:
-                    logger.info(f"Found potential GPU settings: {gpu_settings_attrs}")
-                    for attr in gpu_settings_attrs:
-                        try:
-                            # For dict-like attributes (e.g. settings.gpu might be a dict/object)
-                            sub_obj = getattr(settings, attr)
-                            sub_attrs = dir(sub_obj)
-                            
-                            for sub_attr in sub_attrs:
-                                if any(term in sub_attr.lower() for term in ['enable', 'use', 'active']):
-                                    setattr(sub_obj, sub_attr, True)
-                                    logger.info(f"Set settings.{attr}.{sub_attr}=True")
-                                    gpu_configured = True
-                                    break
-                        except (AttributeError, TypeError):
-                            # If not a dict-like object, try setting directly
-                            try:
-                                setattr(settings, attr, "cuda")
-                                logger.info(f"Set settings.{attr}='cuda'")
-                                gpu_configured = True
-                            except (AttributeError, ValueError, TypeError) as e:
-                                logger.info(f"Could not set settings.{attr}: {str(e)}")
-            except Exception as e:
-                logger.info(f"Error trying to configure GPU via settings: {str(e)}")
-        
-        # Method 3: Set environment variables as a last resort
-        if not gpu_configured:
-            logger.info("Setting environment variables for GPU usage")
-            os.environ["DOCLING_USE_GPU"] = "1"
-            os.environ["CUDA_VISIBLE_DEVICES"] = "0"
-        
-        # Status update
-        if gpu_configured:
-            logger.info("Successfully configured Docling to use GPU")
-        else:
-            logger.info("Couldn't directly configure GPU. Environment variables set. Docling will use CPU if GPU not automatically detected.")
+        # Try to enable GPU flag if available
+        try:
+            pipeline_options.use_gpu = True
+            logger.info("Set pipeline_options.use_gpu=True")
+        except (AttributeError, ValueError) as e:
+            logger.info(f"Could not set pipeline_options.use_gpu: {str(e)}")
+            
+        # Environment variables are set by setup_gpu_optimizations()
+        logger.info("Environment variables for GPU are set globally")
     
     # Initialize Document Converter
     doc_converter = DocumentConverter(
@@ -192,6 +209,16 @@ def process_pdf(pdf_path, output_dir, has_gpu):
                 "chunks": chunks
             }, f, ensure_ascii=False, indent=2)
         
+        # Create individual document subfolder
+        doc_subdir = docs_dir / doc_name
+        doc_subdir.mkdir(exist_ok=True)
+        
+        # Save document to individual subfolder too
+        result.document.save_as_json(doc_subdir / f"{doc_name}.json", image_mode=ImageRefMode.PLACEHOLDER)
+        result.document.save_as_html(doc_subdir / f"{doc_name}.html", image_mode=ImageRefMode.EMBEDDED)
+        result.document.save_as_markdown(doc_subdir / f"{doc_name}.md", image_mode=ImageRefMode.PLACEHOLDER)
+        result.document.save_as_markdown(doc_subdir / f"{doc_name}.txt", image_mode=ImageRefMode.PLACEHOLDER, strict_text=True)
+        
         # Save individual chunk files for easier processing
         chunk_dir = chunks_dir / doc_name
         chunk_dir.mkdir(exist_ok=True)
@@ -216,13 +243,24 @@ def main():
     parser.add_argument("--data_dir", type=str, default="C:\\Users\\jamie\\OneDrive\\Documents\\Redbooks RAG", 
                         help="Base directory for data storage")
     parser.add_argument("--specific_pdf", type=str, help="Process a specific PDF file only")
+    parser.add_argument("--source_dir", type=str, default="C:\\Users\\jamie\\OneDrive\\Documents\\Redbooks PDF Content",
+                        help="Source directory containing PDF files")
     args = parser.parse_args()
     
     # Check for GPU
     has_gpu, gpu_info = check_gpu()
     
+    # Apply GPU optimizations if available
+    if has_gpu:
+        setup_gpu_optimizations()
+        logger.info(f"GPU optimizations applied for {gpu_info}")
+    
     # Setup directories
     directories = setup_directories(args.data_dir)
+    
+    # Define and load manifest file
+    manifest_file = Path(directories["processed"]) / "processing_manifest.json"
+    manifest = load_processing_manifest(manifest_file)
     
     # Get list of PDFs to process
     if args.specific_pdf:
@@ -232,8 +270,14 @@ def main():
             logger.error(f"Specified PDF {args.specific_pdf} not found")
             return
     else:
+        # Check both the source_dir and the default pdfs directory
+        source_dir = Path(args.source_dir)
         pdf_dir = directories["pdfs"]
-        pdf_files = [str(f) for f in pdf_dir.glob("*.pdf")]
+        
+        source_pdfs = [str(f) for f in source_dir.glob("**/*.pdf")] if source_dir.exists() else []
+        default_pdfs = [str(f) for f in pdf_dir.glob("*.pdf")]
+        
+        pdf_files = source_pdfs + default_pdfs
     
     if not pdf_files:
         logger.info("No PDF files found to process")
@@ -241,10 +285,30 @@ def main():
     
     logger.info(f"Found {len(pdf_files)} PDF files to process")
     
-    # Process each PDF
+    # Process each PDF, but skip already processed files that haven't changed
     results = []
+    skipped = []
+    
     for pdf_file in tqdm(pdf_files, desc="Processing PDFs"):
+        file_hash = get_file_hash(pdf_file)
+        pdf_path = Path(pdf_file)
+        
+        # Check if file is already processed and hash matches
+        if (str(pdf_file) in manifest["processed_files"] and 
+            manifest["processed_files"][str(pdf_file)]["hash"] == file_hash and
+            manifest["processed_files"][str(pdf_file)]["success"]):
+            logger.info(f"Skipping {pdf_path.name} (already processed)")
+            skipped.append(pdf_file)
+            continue
+        
+        logger.info(f"Processing {pdf_path.name}")
+        
+        # Process the PDF
         result = process_pdf(pdf_file, directories, has_gpu)
+        
+        # Update the manifest
+        update_manifest(manifest, manifest_file, pdf_file, file_hash, result is not None)
+        
         if result:
             results.append(result)
     
@@ -253,12 +317,14 @@ def main():
         json.dump({
             "processed_date": time.strftime("%Y-%m-%d %H:%M:%S"),
             "total_files": len(results),
+            "skipped_files": len(skipped),
             "gpu_used": has_gpu,
             "gpu_info": gpu_info if has_gpu else None,
             "documents": results
         }, f, indent=2)
     
-    logger.info(f"Successfully processed {len(results)} out of {len(pdf_files)} PDFs")
+    logger.info(f"Successfully processed {len(results)} out of {len(pdf_files) - len(skipped)} attempted PDFs")
+    logger.info(f"Skipped {len(skipped)} files that were already processed")
 
 if __name__ == "__main__":
     main()
