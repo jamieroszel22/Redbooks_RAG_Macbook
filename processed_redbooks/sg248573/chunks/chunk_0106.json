@@ -1,0 +1,18 @@
+{
+  "content": "the model \u2013 Model Risk Assessment data: Data related to the model's risk assessment 3. Model Deployment - The Model Deployment object is a child entity of the Model object, serving as a crucial component for tracking the deployment of one or more models. The Model Deployment object is designed to: \u2013 Govern individual usages of a Model in a production ecosystem \u2013 Record-specific Model Versions and their deployment locations \u2013 Inform risk tiering of Models by highlighting the number of areas or functions supported by each Model 4. Model Attestation - Model Attestation is a process that enables organizations to request regular sign-offs or attestations for their models. The MRG administrator initiates this process by creating a set of blank model attestations, which are then assigned to the respective model owners. These owners are required to answer a series of questions about their models and submit their completed attestations. Typically, model attestations are conducted on an annual",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.853369",
+    "chunk_number": 106,
+    "word_count": 158
+  }
+}

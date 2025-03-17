@@ -1,0 +1,18 @@
+{
+  "content": "remaining active drawers. \u0002 I/O connectivity: Alternative paths to other drawers must be available on the remaining active drawers, or the I/O path must be taken offline. By understanding the system configuration and the LPAR allocation for memory, PUs, and I/O, you can make the best decision about how to free the necessary resources to allow for drawer removal. Complete the following steps to concurrently replace a drawer: 1. Run the preparation task to determine the necessary resources. 2. Review the results. 3. Determine the actions to perform to meet the required conditions for EDA. 4. When you are ready to remove the drawer, free the resources that are indicated in the preparation steps. 5. Repeat the step that is shown in Figure 9-7 on page 382 to ensure that the required conditions are all satisfied. 6. Upon successful completion, the system is ready for the removal of the drawer. The preparation process can be run multiple times to ensure that all conditions are met. It does",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.813157",
+    "chunk_number": 943,
+    "word_count": 167
+  }
+}

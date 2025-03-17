@@ -1,0 +1,18 @@
+{
+  "content": "client-supplied cable is required. The following types of cables can be used for connecting the port to the selected 10 GbE switch or to the 10GbE RoCE Express2 feature on the attached server: \u0002 OM3 50-micron multimode fiber optic cable that is rated at 2000 MHz-km that ends with an LC Duplex connector; supports 300 meters (984 feet) \u0002 OM2 50-micron multimode fiber optic cable that is rated at 500 MHz-km that ends with an LC Duplex connector; supports 82 meters (269 feet) \u0002 OM1 62.5-micron multimode fiber optic cable that is rated at 200 MHz-km that ends with an LC Duplex connector; supports 33 meters (108 feet) The virtualization capabilities for IBM z16 A02 and IBM z16 AGZ are 63 Virtual Functions per port (126 VFs per feature/PCHID). One RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID). The 25GbE RoCE Express2.1 feature uses SR optics and supports the use of a multimode fiber optic cable that ends with an LC Duplex connector. Both",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.913074",
+    "chunk_number": 435,
+    "word_count": 173
+  }
+}

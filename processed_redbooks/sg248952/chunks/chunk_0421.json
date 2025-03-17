@@ -1,0 +1,18 @@
+{
+  "content": "distances, see Table 4-8 on page 168. OSA-Express6S 1000BASE-T Ethernet feature (FC 0426) Feature code 0426 occupies one slot in the PCIe+ I/O drawer. It features two ports that connect to a 1000 Mbps (1 Gbps) or 100 Mbps Ethernet LAN. Each port has an SFP with an RJ-45 receptacle for cabling to an Ethernet switch. The RJ-45 receptacle is required to be attached by using an EIA/TIA Category 5 or Category 6 UTP cable with a maximum length of 100 meters (328 feet). The SFP allows a concurrent repair or replace action. The OSA-Express6S 1000BASE-T Ethernet feature supports auto-negotiation when attached to an Ethernet router or switch. If you allow the LAN speed and duplex mode to default to auto-negotiation, the OSA-Express port and the attached router or switch auto-negotiate the LAN speed and duplex mode settings between them. They then connect at the highest common performance speed and duplex mode of interoperation. If the attached Ethernet router or switch does not support",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.860768",
+    "chunk_number": 421,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "firmware update. IBM recommends that clients try the RCL option on IBM z15 or IBM z16 to see for themselves that IBM provides the same quality service through RCL. Important: Configuring the off/on operation is concurrent to the operating system activities only if the Crypto and OSA adapters are configured redundantly. The automated process does not perform the redundancy check for you. If you are unsure about adapter redundancy, we recommend toggling each adapter manually off/on. Chapter 10. Hardware Management Console and Support Element 405 Figure 10-12 Crypto and OSA adapters selected for Update Firmware 406 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 10-13 Crypto and OSA adapters concurrent firmware update results \u0002 Default HMC and SE users security changes With IBM z16 A02 and IBM z16 AGZ default users ADVANCED, OPERATOR, STORAGEADMIN, and SYSPROG will no longer be pre installed on the new shipped HMCs and SEs. Default user roles for ADVANCED, OPERATOR, STORAGEADMIN, and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.922408",
+    "chunk_number": 978,
+    "word_count": 159
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "z15 T01 systems, which is packaged in an industry-standard, 19-inch form factor frame for all the internal system elements. The configuration can consist of 1 - 4 frames. Consider the following points: \u0002 The power subsystem is based on the following offerings: \u2013 Power Distribution Units (PDUs) that are mounted at the rear of the system in pairs \u2013 Bulk Power Assembly (BPA), as with previous systems \u0002 The system uses 3-phase power: \u2013 Low voltage 4 wire \u201cDelta\u201d \u2013 High voltage 5 wire \u201cWye\u201d \u0002 No EPO (emergency power off) switch. IBM z16 has a support element task to simulate the EPO function (used only when necessary to perform a System Reset Function). \u0002 No DC input feature is available. \u0002 The IBM z16 A01 system has a radiator unit (RU) with N+1 design for the pumps and blowers. \u0002 The 19-inch frame is capable of top or bottom exit of power. All power cords are 4.26 meters (14 feet). Combined with the Top Exit I/O Cabling feature, more options are available when you are planning your",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.875495",
+    "chunk_number": 176,
+    "word_count": 178
+  }
+}

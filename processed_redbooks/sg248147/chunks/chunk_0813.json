@@ -1,0 +1,18 @@
+{
+  "content": "amount at that specific moment. \u0002 Shows a summary of the total amount usage. CP Q SHARE Use the Q SHARE \u2018userid\u2019 to display the given percentage of the system available resources can use. This percentage can be set as ABSOLUTE or RELATIVE percentage. As default, the RELATIVE percentage of each user ID is 100. CP QUERY QUICKDSP Use the Q QUICKDSP \u2018userid\u2019 to display whether this option is ON or OFF for that specific user ID. If it is ON, that user ID is be moved in the eligible list so it can be dispatched without waiting on the queues. Other query commands that might be useful when investigating performance issues are listed in Table 12-1. Table 12-1 CP QUERY commands Note: Do not mix different types of DASD or different models of DASD because doing so can affect the algorithms and the system performance. Note: A virtual machine receives its portion of any resource (processors, real storage, and so on) according to its SHARE setting. Query Description CACHE Use QUERY CACHE to display",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.353806",
+    "chunk_number": 813,
+    "word_count": 175
+  }
+}

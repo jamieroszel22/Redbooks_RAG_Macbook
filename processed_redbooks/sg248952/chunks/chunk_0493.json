@@ -1,0 +1,18 @@
+{
+  "content": "Cryptographic Function (CPACF), together with the Peripheral Component Interconnect Express (PCIe) cryptographic coprocessors (PCIeCC), offer a balanced use of processing resources and unmatched scalability for fulfilling pervasive encryption demands. IBM recognizes that with any new technology, new threats exist, and as such, suitable counter measures must be taken. Quantum technology can be used for incredible good, but in the hands of an adversary, it has the potential to weaken or break core cryptographic primitives that were used to secure systems and communications. Quantum-safe cryptography aims to provide protection against attacks that can be started by quantum computers. The IBM z16 A02 and IBM z16 AGZ use quantum-safe technologies to help protect your business-critical infrastructure and data from potential attacks. The IBM z16 A02 and IBM z16 AGZ are designed for delivering a transparent and consumable approach that enables extensive (pervasive) encryption of data in",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.134629",
+    "chunk_number": 493,
+    "word_count": 144
+  }
+}

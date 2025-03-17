@@ -1,0 +1,18 @@
+{
+  "content": "Shipping container and various Pods Larger configurations may contain multiple shipping containers. The rails used for each pod will also be transferred into the client rack during the installation. Genie GL8 Lift Tool The IBM z16 AGZ requires a new Lift Tool, the Genie GL8. This tool is required for installation and service. Recommendation is one Genie GL8 Lift Tool per account. If a client already has one they bought to use with a System P machine, it can be used for the Z system also. A wedge plate add-on is required to install the CPC drawers into the rack, and two Lift Tool Feature Codes are provided: \u0002 EB3Z (Lift Tool), EB4Z (CPC Drawer Shelf) \u0002 An added (returnable) transfer shelf will be provided for all systems with at least one I/O drawer Figure 9-13 shows the Genie GL-8 Lift tool, and the CPC and I/O drawer shelves used for transfer into the customer rack. Figure 9-13 Genie GL-8 Lift Tool and Shelves for CPC and I/O drawers 392 IBM z16 A02 and IBM z16 AGZ Technical Guide",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.849022",
+    "chunk_number": 955,
+    "word_count": 179
+  }
+}

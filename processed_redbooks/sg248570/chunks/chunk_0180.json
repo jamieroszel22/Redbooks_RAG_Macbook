@@ -1,0 +1,18 @@
+{
+  "content": "computations; they simply specify what they want, and the system figures out how to deliver it efficiently. This abstraction layer fuels productivity, reduces the learning curve, and fosters a self-service culture where more people can interact directly with organizational data. The challenge in modern lakehouse environments is that data is no longer confined to well-defined relational schemas. Instead, it may exist as nested JSON fields, denormalized tables, or raw files sprinkled across various storage layers. IBM watsonx.data bridges this gap by allowing users to treat these open-format files as if they were relational tables. A virtualized Chapter 5. Querying and manipulating data and leveraging persona-specific engines 83 metadata layer provides logical schemas for these files, allowing familiar SQL constructs like SELECT, JOIN, GROUP BY, and WINDOW functions to operate seamlessly across them. By providing a uniform SQL layer over both structured warehouse data and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.036423",
+    "chunk_number": 180,
+    "word_count": 144
+  }
+}

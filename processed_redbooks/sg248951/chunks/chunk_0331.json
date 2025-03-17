@@ -1,0 +1,18 @@
+{
+  "content": "consists of one or more (z/OS) operating system images that are coupled through one or more Coupling Facility LPARs. Chapter 3. Central processor complex design 131 A correctly configured Parallel Sysplex cluster maximizes availability in the following ways: \u0002 Continuous availability: Changes can be introduced, such as software upgrades, one image at a time, while the remaining images continue to process work. For more information, see Parallel Sysplex Application Considerations, SG24-6523. \u0002 High capacity: 1 - 32 z/OS images in a Parallel Sysplex that is operating as a single system. \u0002 Dynamic workload balancing: Because it is viewed as a single logical resource, work can be directed to any operating system image in a Parallel Sysplex cluster that has available capacity. \u0002 Systems management: The architecture defines the infrastructure to satisfy client requirements for continuous availability. It also provides techniques for achieving simplified systems management consistent with",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.522165",
+    "chunk_number": 331,
+    "word_count": 147
+  }
+}

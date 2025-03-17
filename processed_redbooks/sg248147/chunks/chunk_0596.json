@@ -1,0 +1,18 @@
+{
+  "content": "completed successfully If you see no number in parentheses after the Ready; prompt, the return code is 0. Any nonzero return code will be in parentheses. A return code of 0 is ideal. In general, a return code of 4 is acceptable. It means that only warnings were issued. A return code of 8 or greater generally means that errors were encountered. Chapter 8. Servicing z/VM 271 3. The output files are of the form $VMF* $MSGLOG. You might want to inspect these files: ==> filel $vmf* $msglog $VMFSRV $MSGLOG A1 V 80 1582 29 1/31/12 15:19:27 $VMFBLD $MSGLOG A1 V 80 841 12 1/31/12 15:19:25 $VMFAPP $MSGLOG A1 V 80 212 3 1/31/12 15:19:15 $VMFREC $MSGLOG A1 V 80 69 1 1/31/12 15:19:15 $VMFMRD $MSGLOG A1 V 80 270 4 1/31/12 15:19:14 $VMFINS $MSGLOG A1 V 80 223 4 11/29/11 2:32:50 $VMFP2P $MSGLOG A1 V 80 1741 32 11/29/11 0:55:22 4. Run the VMFVIEW SERVICE command to review the results of the previous SERVICE command. Press the F3 key to quit. The following example shows the VMFVIEW SERVICE command: ==>",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.552031",
+    "chunk_number": 596,
+    "word_count": 181
+  }
+}

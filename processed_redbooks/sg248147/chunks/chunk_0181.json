@@ -1,0 +1,18 @@
+{
+  "content": "interfaces feature the following characteristics: \u0002 Are run by a set of redundant virtual service machines, by default. \u0002 Can fail over with up to three real devices. \u0002 Can be configured to be virtual LAN (VLAN)-aware. \u0002 Up to 2,048 virtual network interfaces can be coupled to a single VSWITCH. Chapter 2. Planning 55 \u0002 Ports on VSWITCHES can be configured as USER-based or with port numbers. \u0002 Access and trunk ports can be configured for VSWITCHES. \u0002 VSWITCH network interfaces always operate on port 0 of the virtual device. Direct-attached Open Systems Adapter Linux uses the identical drivers to run a direct-attached OSA that it uses to run VSWITCH interfaces. With a direct-attached OSA, you get the fastest network connection to the external network. Direct-attached OSA network devices characteristics The administrator must be aware of the following issues about the use of a direct-attached OSA: \u0002 If a dual-port OSA is attached directly to a VM, the VM can choose whether it wants to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.877984",
+    "chunk_number": 181,
+    "word_count": 166
+  }
+}

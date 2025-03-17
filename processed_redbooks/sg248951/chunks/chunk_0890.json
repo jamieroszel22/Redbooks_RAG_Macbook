@@ -1,0 +1,18 @@
+{
+  "content": "stay in Site B for up to one year (see Figure 8-18 on page 372). 372 IBM z16 (3931) Technical Guide Figure 8-18 Stay at Site B for up to 1 year 8.12 Planning for nondisruptive upgrades Continuous availability is an important requirement for customers, and planned outages are no longer acceptable. Although Parallel Sysplex clustering technology is the best continuous availability solution for z/OS environments, nondisruptive upgrades within a single system can avoid system outages and cover non-z/OS operating systems. IBM z16 allows concurrent upgrades, which means that dynamically adding capacity to the system is possible. If the operating system images that run on the upgraded system do not require disruptive tasks to use the new capacity, the upgrade is also nondisruptive. This process avoids power-on resets (POR), LPAR deactivation, and IPLs. If the concurrent upgrade is intended to satisfy an image upgrade to an LPAR, the operating system that is running in this partition must",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.620061",
+    "chunk_number": 890,
+    "word_count": 157
+  }
+}

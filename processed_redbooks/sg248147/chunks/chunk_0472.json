@@ -1,0 +1,18 @@
+{
+  "content": "DISABLED Logging ON RcvMsg ON Smsg OFF NeedPW ON Lang AMENG * * * End of File * * * 1= Help 2= Add line 3= Quit 4= Tab 5= Clocate 6= ?/Change 7= Backward 8= Forward 9= Receive 10= Rgtleft 11= Spltjoin 12= Cursor ====> discard X E D I T 1 File Tip: It is also possible to create an override of privilege classes to meet the enterprise security policy according to the roles of your installation. Chapter 6. Configuring z/VM 207 The following CP privilege classes are available: \u0002 Privilege class A This class is the primary system operator. The system operator is among the most powerful and privileged of all z/VM users. The system operator is responsible for the system\u2019s availability and its resources. The system operator also controls accounting, broadcasts messages, and sets performance parameters. \u0002 Privilege class B This class is the system resource operator. The system resource operator controls the allocation and de-allocation of real resources, such as memory, printers, and DASD. The",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.043886",
+    "chunk_number": 472,
+    "word_count": 170
+  }
+}

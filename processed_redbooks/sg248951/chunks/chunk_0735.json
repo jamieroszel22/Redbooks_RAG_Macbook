@@ -1,0 +1,18 @@
+{
+  "content": "granularity. Each adapter can be configured in the following modes: \u0002 QDIO, with CHPID types OSD \u0002 Non-QDIO, with CHPID type OSE \u0002 Local 3270 emulation, including OSA-ICC, with CHPID type OSC The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. OSA-Integrated Console Controller The OSA-Express 1000BASE-T Ethernet features provide the Integrated Console Controller (OSA-ICC) function, which supports TN3270E (RFC 2355) and non-SNA DFT 3270 emulation. The OSA-ICC function is defined as CHPID type OSC and console controller, and includes multiple LPAR support as shared or spanned channels. Notes: Consider the following points: \u0002 Operating system support is required to recognize and use the second port on the OSA-Express7S 1000BASE-T Ethernet feature. \u0002 OSA-Express7S 1000BASE-T Ethernet feature supports only 1000 Mbps duplex mode (no auto-negotiation to 100 or 10 Mbps) Note: Operating system support is required to recognize and use the second port",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.106163",
+    "chunk_number": 735,
+    "word_count": 152
+  }
+}

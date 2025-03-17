@@ -1,0 +1,18 @@
+{
+  "content": "Load View Shows the Link address and the PCHIDs that use it. \u0002 Node ID View Shows the Node ID data under the PCHIDs. 10.5.13 Automated operations As an alternative to manual operations, an application can interact with the HMC and SE through an API. The interface allows a program to monitor and control the hardware components of the system in the same way a user performs these tasks. On IBM z16, the HMC APIs provide monitoring and control functions through SNMP. The API can get and set a managed object\u2019s attributes, issue commands, receive asynchronous notifications, and generate SNMP traps. The older system, such as IBM z13\u2019s HMC, supports the CIM as an extra systems management API. Starting with IBM z14, the CIM support is removed. 450 IBM z16 (3931) Technical Guide For more information about APIs, see SNMP Application Programming Interfaces, SB10-7179. 10.5.14 Cryptographic support This section describes the cryptographic management and control functions that are available in the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.137946",
+    "chunk_number": 1040,
+    "word_count": 161
+  }
+}

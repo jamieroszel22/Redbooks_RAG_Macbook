@@ -1,0 +1,18 @@
+{
+  "content": "StreamSets complements watsonx.data by enabling real-time data ingestion and continuous data integration from various streaming sources. The following are the key considerations: \u0002 Real-time ingestion: Facilitates streaming data into watsonx.data for near real-time analytics, critical for use cases like IoT, log analysis, and fraud detection. \u0002 Data drift management: Automatically adapts to schema changes, reducing the need for manual intervention in dynamic environments. \u0002 Observability and monitoring: Provides end-to-end visibility into data pipelines, helping identify bottlenecks and ensuring data reliability. \u0002 Integration with hybrid sources: Supports seamless connectivity to Kafka, cloud storage, and on-premise systems, aligning with the watsonx.data hybrid cloud strategy. \u0002 Data transformation in motion: Allows real-time enrichment and transformation of data before it lands in watsonx.data. 2.5.4 IBM watsonx.data benefits from this ecosystem IBM watsonx.data integrates",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.686785",
+    "chunk_number": 88,
+    "word_count": 129
+  }
+}

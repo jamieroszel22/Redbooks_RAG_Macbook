@@ -1,0 +1,18 @@
+{
+  "content": "processors, 04 in this example. The individual processor utilization is shown on lines 9 and 10. Glance at these numbers to see whether they are balanced. An imbalance is acceptable in certain situations, such as low utilization scenarios or cases where enough users are not ready to run virtual processors to keep the physical processors busy. One of the processors is a Master processor. All of the other processors are Alternate processors. Imbalance can result from performing these functions. Another imbalance comes from vertical CPU management. Chapter 12. Monitoring z/VM and Linux 373 \u0002 Minidisk cache (MDC) statistics are provided on the second line. The effectiveness of MDC can be judged by the combination of the READS rate and the HIT RATIO. If both are high, many physical I/Os are avoided due to the MDC feature. For a system with a high I/O rate, which is composed of reads plus writes, a high proportion of reads, and a good hit ratio for those reads (90% or greater), the real,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.328104",
+    "chunk_number": 804,
+    "word_count": 169
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "8.1 improvements \u0002 Local/native support for ANSI X9.143-2022 / ASC X9 TR-31-2018 key blocks in operational use with the CCA interface. AES, DES/TDES, HMAC keys are supported. TR-31 key blocks can be created and used with the CCA API in over 70 interfaces that also use CCA proprietary key blocks. Key storage is also updated for TR-31 key block support. CCA 8.0 improvements \u0002 ASC X9 TR-31 key exchange support update in CSNBT31X and CSNBT31I: Prepares customers for payment network mandate to use enhanced TR-31 wrapping method \u2018B\u2019 when exchanging keys with major payment card brand networks such as Visa and MasterCard. \u0002 Performance enhancement for mixed workloads: better performance when one partition focuses on RSA/ECC and another partition focuses on AES/DES/TDES or financial operations \u0002 Hardware accelerated key unwrap for AES wrapped keys \u2013 Trusted Key Entry workstation (TKE) controlled selection of WRAPENH3 as the default TDES key token wrapping method for easier management. CCA 7.4",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.341931",
+    "chunk_number": 546,
+    "word_count": 157
+  }
+}

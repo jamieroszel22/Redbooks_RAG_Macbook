@@ -1,0 +1,18 @@
+{
+  "content": "allowPublicKeyRetrieval to True for the connection to work with dBeaver, as shown in Figure 3-3. After adding a database, wait a few moments before attempting access. The Presto server requires a brief startup period. To verify its readiness, run the check_presto command in a terminal window. Wait until it confirms that the service is ready. When adding database engines to your IBM watsonx.data system, ensure that each has a unique display name. Although you might initially use the same name as the original database (for example, gosales for both Db2 and PostgreSQL), this approach can lead to conflicts later. For example, if you add the PostgreSQL database to the system, the display name cannot be the same. It might take a few minutes for the database contents to appear. Refresh the browser window if no changes are visible after this time. Tip: You might want to differentiate databases with the same name by prefixing them with the database type. For example, db2_gosales for Db2 and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.729057",
+    "chunk_number": 100,
+    "word_count": 165
+  }
+}

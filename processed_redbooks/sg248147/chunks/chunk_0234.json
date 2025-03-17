@@ -1,0 +1,18 @@
+{
+  "content": "\"{{ ca_key_path }}/OurCA.pem\" common_name: \"Our System Root Certificate Authority\" organization_name: \"OurCorp\" organization_unit_name: \"IT LinuxONE\" country_name: \"AU\" basic_constraints: - \u2019CA:TRUE\u2019 - name: generate CA certificate openssl_certificate: path: \"{{ ca_cert_path }}/OurCA.crt\" privatekey_path: \"{{ ca_key_path }}/OurCA.pem\" csr_path: \"{{ ca_csr_path }}/OurCA.csr\" provider: selfsigned After the CA is created, it can be used to sign certificates for any purpose, including the creation an intermediate CA, if needed. The use of Ansible to create a certificate that is signed by our CA is shown in Example 3-2. Here, we are creating the z/VM private key, and a CSR with the details of the certificate we want to generate. The openssl_certificate module is used to sign the certificate by using the CA certificate. Finally, a PKCS#12 file is created that contains the server certificate, server private key, and CA certificate. Example 3-2 Ansible task for creating a certificate and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.085025",
+    "chunk_number": 234,
+    "word_count": 142
+  }
+}

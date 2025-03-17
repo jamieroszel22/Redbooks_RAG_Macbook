@@ -1,0 +1,18 @@
+{
+  "content": "your location. You can also unassign previously purchased CPs and IFL processors through the CIU facility. Adding permanent upgrades to a system through the CIU facility requires that Online CoD Buying feature (FC 9900) and the permanent upgrade enablement feature (FC 9898) is installed on the system. A permanent upgrade might change the system model capacity identifier (A0x - Z0x) if more CPs are requested, or if the capacity identifier is changed as part of the permanent upgrade. If necessary, more LPARs can be created concurrently to use the newly added processors. Maintenance charges are automatically adjusted as a result of a permanent upgrade. Software charges that are based on the total capacity of the system on which the software is installed are adjusted to the new capacity after the permanent upgrade is installed. Software products that use WLC or customers with TFP might not be affected by the system upgrade because their charges are based on LPAR usage rather than system",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.445823",
+    "chunk_number": 838,
+    "word_count": 162
+  }
+}

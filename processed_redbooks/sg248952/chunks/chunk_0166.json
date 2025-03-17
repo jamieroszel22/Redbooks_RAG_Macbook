@@ -1,0 +1,18 @@
+{
+  "content": "V2.4 or V2.5 is run. With this support, z/OS is designed to help improve system availability and responsiveness by using VFM across transitional workload events. z/OS is also designed to help improve processor performance by supporting middleware use of pageable large (1 MB) pages. VFM can also be used by coupling facility images to provide extended capacity and availability for workloads that use IBM WebSphere MQ Shared Queues structures. The use of VFM can improve availability by reducing latency from paging delays that can occur at the start of the workday or during other transitional periods. It is also designed to help eliminate delays that can occur when collecting diagnostic data. VFM can help organizations meet their most demanding service level agreements and compete more effectively. VFM is easy to configure in the LPAR Image Profile and provides rapid time to value. Once VFM is installed, the increments can be decremented. The reduction of VFM increments is treated like a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.832180",
+    "chunk_number": 166,
+    "word_count": 160
+  }
+}

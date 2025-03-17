@@ -1,0 +1,18 @@
+{
+  "content": "drawer to communicate with every CPC drawer. Data transfer does not always have to go through another CPC drawer to address the requested data or control information. The IBM z16 A01 inter-CPC drawer communication structure is shown in Figure 3-6. Figure 3-6 IBM z16 CPC drawer communication topology A simplified topology of a four-CPC drawer system is shown in Figure 3-7. Figure 3-7 Point-to-point topology with four CPC drawers Inter-CPC drawer communication occurs at the Level 4 virtual cache level, which is implemented on the semi-private part of one of the Level 2 caches in a chip module. The Level 4 cache function regulates coherent drawer-to-drawer traffic. Chapter 3. Central processor complex design 77 3.4 Processor unit design Processor cycle time is especially important for processor-intensive applications. Current systems design is driven by processor cycle time, although improved cycle time does not automatically mean that the performance characteristics of the system",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.010578",
+    "chunk_number": 208,
+    "word_count": 151
+  }
+}

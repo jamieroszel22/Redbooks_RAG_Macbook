@@ -1,0 +1,18 @@
+{
+  "content": "when issued with argument(s): SYSTEM ADD 720 RDBKZVMC RSU1 NONESM HOSTNAME 9.76.61.239 COMMTYPE FTP VMFCMG2760E SERVMGR processing completed unsuccessfully (RC=8) Ready(00008); When we first tried this process, we discovered that one of our team used the MAINT720 ID on the system that we wanted to manage by using VMCSM. If this issue occurs, it is important to not just log off from the ID at the managed system. If service actions were underway on the to-be-managed system, those actions might bring the system to a state that is inconsistent with the maintenance to be managed by using VMCSM. 292 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 We verified that no service activities were occurring on the to-be-managed system; then, retried the command. Example 9-18 shows the result of our successful SERVMGR SYSTEM ADD command. Example 9-18 SERVMGR SYStem ADD command output servmgr system add 720 rdbkzvmc rsu1 nonesm hostname 9.76.61.239 commtype ftp VMFCMG2195I SERVMGR SYSTEM ADD 720",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.757063",
+    "chunk_number": 644,
+    "word_count": 157
+  }
+}

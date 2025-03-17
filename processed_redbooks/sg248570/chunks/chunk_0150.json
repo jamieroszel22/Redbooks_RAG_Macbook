@@ -1,0 +1,18 @@
+{
+  "content": "Figure 5-1 Presto high-level architecture diagram Chapter 5. Querying and manipulating data and leveraging persona-specific engines 61 5.1.1 Presto technical concepts Your Presto cluster sits between your BI tools (such as Superset, Tableau and Looker) and your data sources. Presto queries across many different data sources and provides that data back to your BI tool for your organization. A full Presto installation includes a coordinator and multiple workers. Queries are submitted from a client such as the Presto CLI to the coordinator. The coordinator parses, analyzes and plans the query execution, and then distributes the processing to the workers. Figure 5-2 shows the Presto cluster coordinator structure. Figure 5-2 Presto cluster coordinator structure Server types There are three types of Presto servers: resource manager, coordinators, and workers. The following section explains the difference between them. Resource manager The Presto resource manager is the server that",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.923701",
+    "chunk_number": 150,
+    "word_count": 145
+  }
+}

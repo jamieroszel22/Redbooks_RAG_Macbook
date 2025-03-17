@@ -1,0 +1,18 @@
+{
+  "content": "accommodations were available for retrying, such as retry buffer support. However, the list structure architecture was always recognized as nonidempotent, and a rather sophisticated retry buffer mechanism was incorporated to allow z/OS to retrieve the results of commands (even after link glitches occurred) so that such glitches always were well recovered. Over time, constructs were added to the cache and lock structure architecture that made them become not perfectly retriable (nonidempotent), but retry buffers were not added to the architecture to mitigate the lack of retriability: \u2013 Cache structure serialization objects, such as castout locks and cache entry version numbers \u2013 Performance-optimized lock structure commands with no retry buffer support Chapter 3. Central processor complex design 133 z/OS software provided simple retry logic to provide IFCC recovery for these nonidempotent commands, but inevitably cases existed ion which z/OS cannot provide unambiguous command results",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.543711",
+    "chunk_number": 336,
+    "word_count": 143
+  }
+}

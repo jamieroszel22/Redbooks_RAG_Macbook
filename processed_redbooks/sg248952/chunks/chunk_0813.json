@@ -1,0 +1,18 @@
+{
+  "content": "concurrent and nondisruptive addition of processors to a running logical partition (LPAR). As a result, you can have a flexible 2 CPE is only available as carry forward on IBM z16 A02 and IBM z16 AGZ Consideration: An IBM z16 A02 and IBM z16 AGZ Max5 has a maximum of five PUs available, so it can concurrently be upgraded to models A05 - Z05. If a capacity setting with more than five CPs is required or the combination of CPs and specialty engines exceeds five, a concurrent upgrade to a Max16 feature is required. 326 IBM z16 A02 and IBM z16 AGZ Technical Guide infrastructure to which you can add capacity. This function is supported by z/OS, z/VM, and 21CS VSEn. This addition is made by using one of the following methods: \u0002 With planning ahead for the future need of extra processors. Reserved processors can be specified in the LPAR\u2019s profile. When the extra processors are installed, the number of active processors for that LPAR can be increased without the need for a partition",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.358743",
+    "chunk_number": 813,
+    "word_count": 175
+  }
+}

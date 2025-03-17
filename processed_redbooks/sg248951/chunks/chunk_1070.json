@@ -1,0 +1,18 @@
+{
+  "content": "includes the following topics: \u0002 12.1, \u201cIBM z16 performance characteristics\u201d on page 474 \u0002 12.2, \u201cIBM z16 Large System Performance Reference ratio\u201d on page 476 \u0002 12.3, \u201cFundamental components of workload performance\u201d on page 477 \u0002 12.4, \u201cRelative Nest Intensity\u201d on page 479 \u0002 12.5, \u201cLSPR workload categories based on L1MP and RNI\u201d on page 481 \u0002 12.6, \u201cRelating production workloads to LSPR workloads\u201d on page 481 \u0002 12.7, \u201cCPU MF counter data and LSPR workload type\u201d on page 482 \u0002 12.8, \u201cWorkload performance variation\u201d on page 483 \u0002 12.9 \u201cCapacity planning considerations for IBM z16\u201d, on page 487 12 Note: Throughout this chapter, IBM z16 refers to IBM z16 Model A01 (Machine Type 3931) unless otherwise specified. 474 IBM z16 (3931) Technical Guide 12.1 IBM z16 performance characteristics The IBM z16 Model A01 Feature Max200 (7K0) is designed to offer up to 17% more capacity compared to an IBM z15 Model T01 (7H0) system. Uniprocessor performance also increased. On average, an IBM z16 model",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.232688",
+    "chunk_number": 1070,
+    "word_count": 165
+  }
+}

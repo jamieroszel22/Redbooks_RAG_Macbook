@@ -1,0 +1,18 @@
+{
+  "content": "level. The key objectives, in order of priority, are to ensure data integrity, computational integrity, reduce or eliminate unscheduled outages, reduce scheduled outages, reduce planned outages, and reduce the number of Repair Actions. This chapter includes the following topics: \u0002 9.1, \u201cRAS strategy\u201d on page 366 \u0002 9.2, \u201cTechnology\u201d on page 366 \u0002 9.3, \u201cStructure\u201d on page 371 \u0002 9.4, \u201cReducing complexity\u201d on page 372 \u0002 9.5, \u201cReducing touches\u201d on page 372 \u0002 9.6, \u201cIBM z16 A02 and IBM z16 AGZ availability characteristics\u201d on page 372 \u0002 9.7, \u201cIBM z16 A02 and IBM z16 AGZ RAS functions\u201d on page 376 \u0002 9.8, \u201cEnhanced drawer availability\u201d on page 380 \u0002 9.9, \u201cConcurrent Driver Maintenance\u201d on page 387 \u0002 9.10, \u201cRAS capability for the HMA and SE\u201d on page 389 9 366 IBM z16 A02 and IBM z16 AGZ Technical Guide 9.1 RAS strategy The RAS strategy is to manage change by learning from previous generations and investing in new RAS function to eliminate or minimize all sources of outages. Enhancements",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.650698",
+    "chunk_number": 898,
+    "word_count": 169
+  }
+}

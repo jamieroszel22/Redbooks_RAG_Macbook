@@ -1,0 +1,18 @@
+{
+  "content": "EDA option from being run. The following tab selections are available: \u0002 Processors \u0002 Memory \u0002 Single I/O \u0002 Single Domain I/O \u0002 Single Alternate Path I/O Only the tabs that feature conditions that prevent the drawer from being removed are displayed. Each tab indicates the specific conditions and possible options to correct them. Chapter 9. Reliability, availability, and serviceability 385 For example, the preparation identifies single I/O paths that are associated with the removal of the selected drawer. These paths must be varied offline to perform the drawer removal. After you address the condition, rerun the preparation step to ensure that all the required conditions are met. Preparing the system to perform enhanced drawer availability During the preparation, the system determines the PU configuration that is required to remove the drawer. The results and the option to change the assignment on non-dedicated processors are shown in Figure 9-9. Figure 9-9 Reassign Non-Dedicated",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.808475",
+    "chunk_number": 941,
+    "word_count": 153
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "HyperSwap support is enhanced to allow RESERVE processing. When a system runs a request to swap to secondary devices that are managed by HyperSwap, z/OS detects when RESERVEs are held and ensures that the devices that are swapped also hold the RESERVE. This enhancement is provided with collaboration from z/OS, GDPS HyperSwap, and CSM HyperSwap. 7.5.6 Remote dynamic activation of I/O configurations for stand-alone Coupling Facilities, Linux on Z and z/TPF The remote activation of dynamic changes avoid the need for disruptive hardware/firmware actions (Power-on Reset or IML) to be taken to instantiate those configuration changes, reducing, or completely eliminating the client workload impact that would otherwise have resulted from taking these disruptive actions. IBM z16 provide a supported capability to drive these hardware-only I/O configuration changes from a driving z/OS HCD instance to a remote target CPC which is a Coupling facility of hosts, IBM Linux on Z and z/TPF. This new",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.266299",
+    "chunk_number": 780,
+    "word_count": 153
+  }
+}

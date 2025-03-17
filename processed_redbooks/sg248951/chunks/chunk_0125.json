@@ -1,0 +1,18 @@
+{
+  "content": "A schematic representation of the PU chip is shown in Figure 2-14. Figure 2-14 Single PU chip floor plan The IBM z16 Model A01 PU chip (two chips packaged on each DCM) includes the following features and improvements: \u0002 7 nm silicon lithography wafer technology \u0002 530 mm2 chip size \u0002 22.5 billion transistors \u0002 5.2 GHz base clock frequency \u0002 Eight core design (versus 12 for IBM z15) with increased on-chip cache sizes \u0002 Two PCIe Gen4 interfaces \u0002 DDR4 memory controller \u0002 2x M-Bus to support DCM internal chip to chip connectivity \u0002 6x X-Bus to support DCM to DCM connectivity in the CPC drawer \u0002 1x A-Bus to support drawer to drawer connectivity \u0002 New cache structure design compared to IBM z15 PU: \u2013 L1D(ata) and L1I(nstruction) cache - ON-core (128 kB each) \u2013 L2 - 32 MB dense SRAM - outside the core, semi-private to the core \u2013 L3 (virtual) - up to 256 MB \u2013 L4 (virtual) - up to 2048 MB \u0002 New Core-Nest Interface compared to IBM z15: 32 IBM z16 (3931) Technical Guide \u0002 Improved branch",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.636036",
+    "chunk_number": 125,
+    "word_count": 184
+  }
+}

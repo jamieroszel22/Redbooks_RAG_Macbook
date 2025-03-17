@@ -1,0 +1,18 @@
+{
+  "content": "266 IBM z16 A02 and IBM z16 AGZ Technical Guide zIIP support zIIPs do not change the model capacity identifier of IBM z16 A02 and IBM z16 AGZ configurations. IBM software product license charges that are based on the model capacity identifier are not affected by the addition of zIIPs. No changes to applications are required to use zIIPs. They can be used by the following applications: \u0002 Db2 V8 and later for z/OS data serving for applications that use data Distributed Relational Database Architecture (DRDA) over TCP/IP, such as data serving, data warehousing, and selected utilities. \u0002 z/OS XML services. \u0002 z/OS CIM Server. \u0002 z/OS Communications Server for network encryption (Internet Protocol Security [IPSec]) and for large messages that are sent by HiperSockets. \u0002 IBM GBS Scalable Architecture for Financial Reporting. \u0002 IBM z/OS Global Mirror (formerly XRC) and System Data Mover. \u0002 IBM z/OS Container Extensions. \u0002 IBM OMEGAMON\u00ae XE on z/OS, OMEGAMON XE on Db2 Performance Expert, and Db2",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.779827",
+    "chunk_number": 646,
+    "word_count": 163
+  }
+}

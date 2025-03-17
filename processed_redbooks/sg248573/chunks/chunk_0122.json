@@ -1,0 +1,18 @@
+{
+  "content": "simple governance solution: Start with a basic implementation and build incrementally to a more comprehensive solution \u0002 Plan for more complex solutions: Consider extending the AI governance implementation to include external models, custom properties, and tailored reports 3.3.3 Leveraging out-of-the-box product content While configuration is necessary, it is essential to note that out-of-the-box watsonx.governance capabilities and product content can provide a solid foundation for AI governance. This content can be used to illustrate best practices and provide a starting point for customization, rather than requiring organizations to start from scratch. Chapter 3. Implementing AI governance strategy 39 By considering these factors and configuring an AI governance solution accordingly, organizations can establish a strong foundation for effective AI governance and set the stage for successful implementation of subsequent chapters' topics. 3.3.4 Example use case When implementing an AI",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.905761",
+    "chunk_number": 122,
+    "word_count": 137
+  }
+}

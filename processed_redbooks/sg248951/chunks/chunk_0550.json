@@ -1,0 +1,18 @@
+{
+  "content": "initial order, more Crypto Express8S features 0909 can be ordered individually. 2 Order increment (above two features for features 0908 and 0909) 1 Maximum number of HSMs for IBM z16 (combining all CEX8S, CEX7S, and CEX6S) 60b b. Crypto Express8S (dual HSM) has two hardware security modules (HSMs) per feature. The HSM is one IBM 4770 PCIe Cryptographic Coprocessor (PCIeCC). The maximum number of HSMs per A01 system (combining all cryptographic features) is 60. The maximum number of single HSM (port) cryptographic features is 16 (CEX8S [single HSM], CEX7S [1 port], and CEX6S). Number of PCIe cryptographic adapters for each feature 0908 (coprocessor or accelerator) 2 Number of PCIe cryptographic adapters for each feature 0909 (coprocessor or accelerator) 1 Number of cryptographic domains at IBM z16 for each PCIe adapterc c. More than one partition, which is defined to the same channel subsystem (CSS) or to different CSSs, can use the same domain number when assigned to different PCIe",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.362051",
+    "chunk_number": 550,
+    "word_count": 159
+  }
+}

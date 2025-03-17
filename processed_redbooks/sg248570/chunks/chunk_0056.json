@@ -1,0 +1,18 @@
+{
+  "content": "in Apache Hadoop, where it provides both a serialization format for persistent data, which is a wire format for communication between Hadoop nodes and from client programs to the Hadoop services. Avro uses a schema to structure the data that is being encoded. It has two different types of schema languages: one for human editing (Avro IDL) and another that is more machine readable (based on JSON). It is similar to Thrift and Protocol Buffers, but does not require a code-generation program when a schema changes (unless the code-generation program is wanted for statically-typed languages). Apache Spark SQL can access Avro as a data source. 8 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Apache ORC Apache ORC is a no-charge, open-source, and column-oriented data storage format. It is similar to the other columnar-storage file formats that are available in the Hadoop ecosystem, such as RCFile and Apache Parquet. It is used by most of the data processing",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.555068",
+    "chunk_number": 56,
+    "word_count": 161
+  }
+}

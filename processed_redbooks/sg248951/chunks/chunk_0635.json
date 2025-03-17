@@ -1,0 +1,18 @@
+{
+  "content": "Containers Supports up to 16 TBa Linux on IBM Z (64-bit) 16 TBac c. Support might vary by distribution. Check with your distribution provider. Remember: A virtual appliance that is deployed in a Secure Service Container runs in a dedicated LPAR. When activated, it reduces the maximum number of available LPARs by one. 268 IBM z16 (3931) Technical Guide z/OS can take advantage of this support and nondisruptively acquire and release memory from the reserved area. z/VM V7R1 and later can acquire memory nondisruptively and immediately make it available to guests. z/VM virtualizes this support to its guests, which now also can increase their memory nondisruptively if supported by the guest operating system. Currently, releasing memory from z/VM is supported on z/VM V7.2 with PTFs3. Releasing memory from the z/VM guest depends on the guest\u2019s operating system support. Linux on IBM Z also supports acquiring and releasing memory nondisruptively. This feature is enabled for SUSE Linux Enterprise",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.747097",
+    "chunk_number": 635,
+    "word_count": 157
+  }
+}

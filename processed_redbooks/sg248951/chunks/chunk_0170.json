@@ -1,0 +1,18 @@
+{
+  "content": "characterization: \u0002 SAP to be used by the channel subsystem. The number of predefined SAPs depends on the IBM z16 model. \u0002 Two IFPs, which are used in the support of designated features and functions, such as RoCE (all features), Coupling Express2 LR, zHyperLink Express 1.1, Internal Shared Memory (ISM) SMC-D, and other management functions. \u0002 Two spare PUs, which can transparently assume any characterization during a permanent failure of another PU. 7 The KVM hypervisor is part of supported Linux on IBM Z distributions. 56 IBM z16 (3931) Technical Guide The IBM z16 uses features to define the number of PUs that are available for client use in each configuration. The models are listed in Table 2-11. Table 2-11 IBM z16 processor configurations \u0002 Not all PUs available on a model are required to be characterized with a feature code. Only the PUs purchased by a customer are identified with a feature code. \u0002 zIIP maximum quantity for new build systems follows the 2:1 ratio. It might be",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.851454",
+    "chunk_number": 170,
+    "word_count": 169
+  }
+}

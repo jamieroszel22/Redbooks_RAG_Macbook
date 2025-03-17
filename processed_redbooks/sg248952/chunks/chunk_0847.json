@@ -1,0 +1,18 @@
+{
+  "content": "customization. The Capacity Provisioning Manager Console is provided as part of z/OSMF, which provides a browser-based interface for managing z/OS systems. Customizing the capacity provisioning function is required on the following systems: \u0002 Observed z/OS systems These systems are in one or multiple sysplexes that are to be monitored. For more information about the capacity provisioning domain, see 8.10, \u201cPlanning for nondisruptive upgrades\u201d on page 357. \u0002 Runtime systems These are systems where the Capacity Provisioning Manager is running, or to which the server can fail over after a system failure. 8.5.3 Ordering On/Off CoD allows you to temporarily turn on unowned PUs, unassigned CPs (or unassigned CP capacity), and unassigned specialty engines (IFLs, ICFs and zIIPs) available within the current CPC drawer feature (Max) with the following limitations: \u0002 Temporary model capacity with CPs and capacity level equal to or greater than the active model capacity, up to 100% of the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.495482",
+    "chunk_number": 847,
+    "word_count": 152
+  }
+}

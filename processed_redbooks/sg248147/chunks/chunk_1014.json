@@ -1,0 +1,18 @@
+{
+  "content": "RC=40, then HCPxxx40E has been issued and msg below */ If rc = 40 Then Say 'DASD' dasdList.numDasd 'is not attached.' Exit 3 End Call checkReserved(dasdList.numDasd) dropheader = '|DROP 1' End End Return numDasd /* from parseDasd */ /*+------------------------------------------------------------------+*/ doFormat: Procedure Expose dasdList. formatted /*| Format all DASD specified using CPFMTXA |*/ /*| parm 1: labelPrefix - the two character label prefix |*/ /*| parm 2: numDasd - number of DASD in the array dasdList |*/ /*| parm 3: type - the type of DASD format |*/ /*| retVal: 0 = success |*/ /*+------------------------------------------------------------------+*/ Arg labelPrefix numDasd type /* Save the current settings for MORE */ Parse Value 'DIAG'('08','CP QUERY TERM') With ' MORE' morevalues ',' 'CP TERM MORE 1 1' /* Make MORE brief */ /* Save system identifier and SSI name */ 'PIPE CP QUERY USERID | SPEC W3 | VAR systemID' 'PIPE CP QUERY SSI | LOCATE /SSI Name/ | SPEC W3 | VAR",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.037647",
+    "chunk_number": 1014,
+    "word_count": 157
+  }
+}

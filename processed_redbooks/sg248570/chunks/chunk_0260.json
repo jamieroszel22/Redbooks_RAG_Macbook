@@ -1,0 +1,18 @@
+{
+  "content": "\"L2\", \"params\": {\"nprobe\": 5} } results = basic_collection.search( data=query_embeddings, anns_field=\"vector\", param=search_params, limit=num_results, expr=None, output_fields=['article_text'], ) return results For more information, see Getting started with watsonx.data Spark use cases. 9.3.3 Benefits of using IBM watsonx for RAG IBM watsonx for RAG has the following benefits: Scalability IBM watsonx.data adopts the architecture of separation of computation and storage. It can handle large-scale datasets with Milvus\u2019s distributed vector database for fast querying. The Milvus service can be added in watsonx.data with multiple sizings based on user\u2019s need. The Starter size can support 1 million vectors and the Large size can support 100 million vectors. If a user requires more vectors, they can work with IBM to customize their watsonx.data instance to support them. Security IBM watsonx.data provides enterprise-grade fine-grained access control to protect the data. Chapter 4 describes",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.347897",
+    "chunk_number": 260,
+    "word_count": 135
+  }
+}

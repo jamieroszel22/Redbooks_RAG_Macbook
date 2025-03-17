@@ -1,0 +1,18 @@
+{
+  "content": "The output shows two paging volumes on each SSI member that consist of 1761 KB pages each, or approximately 6.9 GB of page space (one page is 4 KB). In total, you will have 3522 KB per member, or about 13 GB of page space. This amount is sufficient for the setup that is described in this book, but you must monitor the use of pages as an ongoing activity 196 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6.12 Enabling z/VM basic system automation Next, enabling basic system automation is described. 6.12.1 Configuring AUTOLOG1\u2019s PROFILE EXEC During the normal IPL process, a Virtual Service Machine (VSM) that is called AUTOLOG1 is automatically logged on. For clarity, a normal IPL in this case is any time that the NOAUTOLOG parameter is not specified. The PROFILE EXEC for AUTOLOG1 is run when CMS IPLs. By using this file, perform the following tasks: 1. Set OPERATOR as a secondary console for TCPIP and DIRMAINT. 2. Limit the minidisk cache with the SET MDC command. 3. Enable the memory",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.963266",
+    "chunk_number": 450,
+    "word_count": 175
+  }
+}

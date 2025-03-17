@@ -1,0 +1,18 @@
+{
+  "content": "an optional feature that is available on the IBM z16 A02 and IBM z16 AGZ. These coprocessors are Hardware Security Modules (HSMs) that provide high-security cryptographic processing as required by banking and other industries. This feature provides a secure programming and hardware environment wherein crypto processes are performed. Each cryptographic coprocessor includes general-purpose processors, non-volatile storage, and specialized cryptographic electronics, which are all contained within a tamper-sensing and tamper-responsive enclosure that eliminates all keys and sensitive data on any attempt to tamper with the device. The Crypto Express8S hardware is designed to meet the requirements of FIPS 140 Level 4 for Cryptographic modules and includes Quantum-save encryption technologies. The Crypto Express8S (2 HSM) includes two IBM PCIe Cryptographic Co-processors (PCIeCC), while the Crypto Express8S (1 HSM) includes one PCIeCC per feature. For availability reasons, a minimum of two",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.009372",
+    "chunk_number": 460,
+    "word_count": 138
+  }
+}

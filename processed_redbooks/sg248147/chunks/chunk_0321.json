@@ -1,0 +1,18 @@
+{
+  "content": "disk read/write and link as file mode F: ===> link pmaint cf0 cf0 mr ===> acc cf0 f 3. Make a backup copy of the SYSTEM CONFIG file: ===> copy system config f = confwrks = (rep 4. Edit the SYSTEM CONFIG file and find the ISLINK statements by using the /Activate ISLINK subcommand. Change the ISLINK statements to include the new CTCs. BEGIN and END statements are added because the new values require two lines each: ===> x system config f ====> /activate islink The following examples show the SYSTEM CONFIG file before and after the changes are made. The SYSTEM CONFIG file looks like the following example before the changes are made: /**********************************************************************/ /* Activate ISLINK statements */ /**********************************************************************/ ITSOZVM1: ACTIVATE ISLINK 47E0 57E0 NODE ITSOZVM2 ITSOZVM2: ACTIVATE ISLINK 4120 5120 NODE ITSOZVM1 The SYSTEM CONFIG file looks like the following example after the changes are",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.462728",
+    "chunk_number": 321,
+    "word_count": 148
+  }
+}

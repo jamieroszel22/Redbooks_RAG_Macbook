@@ -1,0 +1,18 @@
+{
+  "content": "of the DASD to format. */ /* type - type of formatting to be done: PERM, PAGE, SPOL */ /* or TEMP. */ /* */ /* Output: */ /* Virtual DASD that is CP formatted and labeled. */ /* */ /* Return codes: */ /* 0 - success */ /* 1 - help was asked for or given */ 492 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 /* 2 - user did not respond Y to confirm formatting */ /* 3 - DASD (minidisk) range is not valid */ /* 4 - at least one DASD (minidisk) is reserved to MAINT */ /* */ /* References: */ /* The Cloud Computing Cookbook for z/VM 6.2, RHEL 6.2 and */ /* SLES 11 SP2 */ /* URL: http://www.vm.ibm.com/devpages/mikemac/SG248147.pdf */ /* */ /*************************************************************/ Address COMMAND firstchar = 'J' Arg dasds 'AS ' type . If dasds = '' | dasds = '?' Then Call help labelPrefix = firstchar || getLabelPrefix(type) numDasd = parseDasd(dasds) answer = areYouSure(type) If answer = 'Y' Then Do /* the user is sure */ formatted = '' retVal = doFormat(labelPrefix",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.007358",
+    "chunk_number": 1010,
+    "word_count": 182
+  }
+}

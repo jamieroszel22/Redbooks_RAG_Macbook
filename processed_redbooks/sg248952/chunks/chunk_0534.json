@@ -1,0 +1,18 @@
+{
+  "content": "external channels, all logical partitions (LPARs) in all channel subsystems can access the adapter. In IBM z16 A02 or IBM z16 AGZ, up to 40 LPARs are supported per adapter. Accessing the adapter requires a setup in the image profile for each partition. The adapter must be in the candidate list. Feature Quantity Minimum number of orderable features 0908 for IBM z16 A02 and IBM z16 AGZ 2 Minimum number of orderable features 0909 for IBM z16 A02 and IBM z16 AGZ a 2 Order increment (above two features for features 0908 and 0909) 1 Maximum number of HSMs for IBM z16 A02 and IBM z16 AGZ (combining all CEX8S, CEX7S, and CEX6S) 40b Number of PCIe cryptographic adapters for each feature 0908 (coprocessor or accelerator) 2 Number of PCIe cryptographic adapters for each feature 0909 (coprocessor or accelerator) 1 Number of cryptographic domains at IBM z16 A02 and IBM z16 AGZ for each PCIe adapterc 40 Chapter 6. Cryptographic features 217 The concept of dedicated processor does not apply to the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.297457",
+    "chunk_number": 534,
+    "word_count": 172
+  }
+}

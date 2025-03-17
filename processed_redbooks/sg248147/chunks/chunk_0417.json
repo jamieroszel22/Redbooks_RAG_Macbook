@@ -1,0 +1,18 @@
+{
+  "content": "add a single blank line. c. Enter LGLOPR WAVEWRKS WAVEWRKL, as shown in Example 6-12 on page 181, d. Locate the last line that begins with \u201c;\u201d 2049 and move your cursor into the prefix area on the next line that begins with \u201c; ----- \u201c e. Enter I3 into the prefix area and press Enter to add three blank lines. f. As shown in Example 6-12 on page 181, enter an AUTOLOG statement, add FTPSERVE X to the next line for logging onto the FTP server when TCP/IP starts, and ENDAUTOLOG as the last statement. g. In the PORT stanza, remove the semicolons to uncomment the lines with FTPSERVE on them (ports 20 and 21) and the lines with VMNFS (port 2049 TCP and UDP). These changes will cause FTP and NFS services to start when TCP/IP is started. The important lines before the file is edited are shown in Example 6-11. Example 6-11 Initial PROFILE TCPIP file ... ; ---------------------------------------------------------------------- OBEY OPERATOR TCPMAINT MAINT MPROUTE REXECD SNMPD SNMPQE LDAPSRV",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.835167",
+    "chunk_number": 417,
+    "word_count": 171
+  }
+}

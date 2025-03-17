@@ -1,0 +1,18 @@
+{
+  "content": "servers. Note: The zEDC Express feature does not carry forward to IBM z16. Appendix C. IBM Integrated Accelerator for zEnterprise Data Compression 511 Software support On-Chip Compression function is compatible with zEDC support and is available in z/OS V2R2 and later for data compression and decompression. Although support for data recovery (decompression) if zEDC or On-Chip Compression not available, it is provided through software in z/OS V2R2 with the appropriate program temporary fixes (PTFs). Software decompression is slow and can involve considerable processor resources. Therefore, it is not recommended for production environments. A specific fix category that is named IBM.Function.zEDC identifies the fixes that enable or use the zEDC and On-Chip Compression function. z/OS guests that run under z/VM V7.R1 with PTFs and later can use the zEDC Express feature and IBM z16 On-Chip Compression. IBM 31-bit and 64-bit SDK for z/OS Java Technology Edition, Version 7 Release 1 (5655-W43",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.370994",
+    "chunk_number": 1130,
+    "word_count": 150
+  }
+}

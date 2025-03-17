@@ -1,0 +1,18 @@
+{
+  "content": "~/.local/share/instructlab/checkpoint s/ Contains model checkpoints from the training process. ~/.config/instructlab/config.yaml The configuration file that is generated during initialization. 74 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai After you install the InstructLab CLI on your system, start by downloading the base model that you want to train. The foundation of using InstructLab effectively is access to its models. The ilab CLI simplifies this process by offering robust integration with repositories like Hugging Face or OCI. It provides authentication mechanisms, such as token-based access for Hugging Face, and features like repository specification and download acceleration. These capabilities help ensure secure and efficient downloads of pre-trained models. To quickly get started, download compact pre-trained versions of the following models: \u0002 granite-7b-lab-GGUF \u0002 merlinite-7b-lab-GGUF \u0002 Mistral-7B-Instruct-v0.2-GGUF To initiate the download of",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.874168",
+    "chunk_number": 172,
+    "word_count": 132
+  }
+}

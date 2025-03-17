@@ -1,0 +1,129 @@
+{
+  "name": "IBM Z Knowledge Base",
+  "id": "bb582cc8-4558-439f-9c7e-b3e8d7568fa8",
+  "document_count": 6,
+  "chunk_count": 4134,
+  "created_at": "2025-03-17 13:37:26",
+  "documents": [
+    {
+      "id": "7d4ca030-0b88-41f5-9ab9-c1b24593161d",
+      "name": "sg248147",
+      "file": "sg248147.json",
+      "metadata": {
+        "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+        "author": "IBM",
+        "date": "D:20241111075020Z",
+        "abstract": null,
+        "keywords": [
+          "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+        ],
+        "file_name": "sg248147.pdf",
+        "file_size": 6234969,
+        "page_count": 546,
+        "processed_date": "2025-03-17T13:37:10.162744",
+        "chunk_number": 0,
+        "word_count": 199
+      }
+    },
+    {
+      "id": "59a53d73-1e30-4cff-9755-b13f5deef918",
+      "name": "sg248570",
+      "file": "sg248570.json",
+      "metadata": {
+        "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+        "author": "IBM",
+        "date": "D:20250129212048Z",
+        "abstract": null,
+        "keywords": [
+          "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+        ],
+        "file_name": "sg248570.pdf",
+        "file_size": 11910281,
+        "page_count": 182,
+        "processed_date": "2025-03-17T13:37:11.344458",
+        "chunk_number": 0,
+        "word_count": 156
+      }
+    },
+    {
+      "id": "27e0d048-875e-4e69-9957-2d9d9e1b40d8",
+      "name": "sg248573",
+      "file": "sg248573.json",
+      "metadata": {
+        "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+        "author": "IBM",
+        "date": "D:20250127103457Z",
+        "abstract": null,
+        "keywords": [
+          "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+        ],
+        "file_name": "sg248573.pdf",
+        "file_size": 2989189,
+        "page_count": 104,
+        "processed_date": "2025-03-17T13:37:12.428410",
+        "chunk_number": 0,
+        "word_count": 279
+      }
+    },
+    {
+      "id": "2190e998-53b8-40f6-93d2-71f03d529af4",
+      "name": "sg248574",
+      "file": "sg248574.json",
+      "metadata": {
+        "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+        "author": "IBM",
+        "date": "D:20250129132437Z",
+        "abstract": null,
+        "keywords": [
+          "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+        ],
+        "file_name": "sg248574.pdf",
+        "file_size": 8762666,
+        "page_count": 138,
+        "processed_date": "2025-03-17T13:37:10.113648",
+        "chunk_number": 0,
+        "word_count": 192
+      }
+    },
+    {
+      "id": "abe9593e-734f-4cb4-b88a-858677256951",
+      "name": "sg248951",
+      "file": "sg248951.json",
+      "metadata": {
+        "title": "IBM z16 (3931) Technical Guide",
+        "author": "IBM",
+        "date": "D:20241025140729Z",
+        "abstract": null,
+        "keywords": [
+          "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+        ],
+        "file_name": "sg248951.pdf",
+        "file_size": 23877593,
+        "page_count": 564,
+        "processed_date": "2025-03-17T13:37:10.156987",
+        "chunk_number": 0,
+        "word_count": 231
+      }
+    },
+    {
+      "id": "4df351c0-153a-4883-8266-57dadd2a5d34",
+      "name": "sg248952",
+      "file": "sg248952.json",
+      "metadata": {
+        "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+        "author": "IBM",
+        "date": "D:20241220092600Z",
+        "abstract": null,
+        "keywords": [
+          "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+        ],
+        "file_name": "sg248952.pdf",
+        "file_size": 22216749,
+        "page_count": 522,
+        "processed_date": "2025-03-17T13:37:10.144705",
+        "chunk_number": 0,
+        "word_count": 252
+      }
+    }
+  ]
+}

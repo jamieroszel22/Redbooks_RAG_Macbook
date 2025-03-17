@@ -1,0 +1,18 @@
+{
+  "content": "on port 0 of the virtual device. The VSWITCH that was defined earlier as VSW1 in the system configuration file has two different connections to the network. It is considered highly available. You must now modify the TCP/IP configuration to use the virtual switch so that its OSA devices are not a single point of failure. 182 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Modify TCPIP parm files Complete the following steps: 1. On node 1, log on as TCPMAINT by using the password that you set for service machines. 2. Edit the SYSTEM DTCPARMS file on the TCPMAINT 198 (D) disk. 3. Comment out the last line by inserting a period followed by an asterisk (.*) in the first two columns, which will prevent the OSA triplet from being directly attached to the TCP/IP virtual machine on start-up: ===> xedit system dtcparms D .********************************************************* .* SYSTEM DTCPARMS created by DTCIPWIZ EXEC on 8 Apr 2015 .* Configuration program run by MAINT720 at 15:37:40",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.849757",
+    "chunk_number": 420,
+    "word_count": 164
+  }
+}

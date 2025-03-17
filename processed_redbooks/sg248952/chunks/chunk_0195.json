@@ -1,0 +1,18 @@
+{
+  "content": "the client and are installed on the rear side of the 19-inch rack. The system order comes with a set of power cables for connecting the system components to the PDUs. The PDUs must be installed in the same rack with the system components to provide connectivity from the rear side of the rack. For additional details and planning, see the IBM z16 and LinuxONE Rockhopper 4 Rack Mount Bundle Installation Manual (Models AGZ/AGL), GC28-7036. Note: For initial installation, all power sources are required to run the system checkout diagnostics successfully. Note: Customer power sources should always maintain redundancy across PDU pairs; that is, one power source or distribution panel supplies power for iPDU A1 and the separate power source or distribution panel supplies power for iPDU A2. As a best practice, connect the odd-numbered iPDUs (A1, B1) to one power source or distribution panel, and the even-numbered iPDUs (A2, B2) to a separate power source or distribution panel. Chapter 2.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.954875",
+    "chunk_number": 195,
+    "word_count": 161
+  }
+}

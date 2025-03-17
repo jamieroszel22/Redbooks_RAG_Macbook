@@ -1,0 +1,18 @@
+{
+  "content": "logical volume runs out of space. In this example, the /var/ file system is filling up on LINUX3: # df -h /var/ Filesystem Size Used Avail Use% Mounted on /dev/mapper/system_vg-var_lv 504M 392M 88M 82% /var A 3390-9 was added as minidisk 106 in section 13.1, \u201cAdding disk space to Linux virtual machines\u201d on page 398. Important: You can attach minidisks to a running Linux system without rebooting the Linux system. For example, if you added a minidisk at virtual address 106, from a root SSH session, use the vmcp link * 106 106 mr command to link to the minidisk. Then, use the chccwdev -e 106 command to enable it. Chapter 13. Disk storage administration 409 To extend the logical volume by using this disk, perform the following steps: 1. Use the vgdisplay command to see the free space in the volume group system_vg: # vgdisplay system_vg --- Volume group --- VG Name system_vg System ID Format lvm2 Metadata Areas 2 Metadata Sequence No 6 VG Access read/write VG Status resizable MAX LV 0 Cur",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.573805",
+    "chunk_number": 876,
+    "word_count": 175
+  }
+}

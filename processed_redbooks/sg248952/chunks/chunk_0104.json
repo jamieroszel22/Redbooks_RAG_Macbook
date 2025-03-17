@@ -1,0 +1,18 @@
+{
+  "content": "services, were developed to help you protect data and keys against a potential future quantum attack like harvest now, decrypt later. \u0002 IBM z16 A02 and IBM z16 AGZ will position clients to use quantum-safe cryptography along with classical cryptography as they begin modernizing existing applications and building new applications. For more information about cryptographic features and functions, see Chapter 6, \u201cCryptographic features\u201d on page 199. 1.3.9 Supported connectivity and crypto features The IBM z16 A02 and IBM z16 AGZ provide a PCIe-based infrastructure for the PCIe+ I/O drawers to support the following features: \u0002 Storage connectivity: \u2013 zHyperLink Express1.1 (new build and carry forward) \u2013 zHyperLink Express (carry forward only) \u2013 FICON Express32S (new build only) \u2013 FICON Express16S+ (carry forward only) \u0002 Network connectivity: 9 DISCLAIMER: IBM z16 A02 and IBM z16 AGZ with the Crypto Express 8S card provide quantum-safe APIs enabling access to quantum-safe algorithms which",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.556880",
+    "chunk_number": 104,
+    "word_count": 150
+  }
+}

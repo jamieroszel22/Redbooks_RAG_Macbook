@@ -1,0 +1,18 @@
+{
+  "content": "links to examples of that risk in third-party publications whenever possible. 4.4 Considerations for financial stakeholders for approving a new foundation model A stakeholder from a Finance function will want to consider at least the following dimensions when considering a new foundation model. 50 Ensuring Trustworthy AI with IBM watsonx.governance 4.4.1 Total cost of ownership First, what is the sum total of the costs associated with acquiring and using another foundation model? Many models are available under a \u201cfree\u201d license, but there's more to the total cost of ownership than that. What is the initial investment? \u0002 What are the initial license costs to acquire the foundation model? This might take the form of a license for a model specifically, but could (also) include licenses for a platform that the model is hosted on. Based on existing vendor relationships, discounts might be available. As the market for generative AI evolves, new pricing models might appear. \u0002 What are the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.009476",
+    "chunk_number": 150,
+    "word_count": 159
+  }
+}

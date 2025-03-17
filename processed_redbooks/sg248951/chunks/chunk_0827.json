@@ -1,0 +1,18 @@
+{
+  "content": "Type Name Upgrade Process Permanent MES CPs, ICFs, zIIPs, IFLs, SAPs, processor drawer, memory, and I/Os Installed by IBM SSRs Online permanent upgrade CPs, ICFs, zIIPs, IFLs, SAPs, and memory Performed through the CIU facility Temporary On/Off CoD CPs, ICFs, zIIPs, IFLs, and SAPs Performed through the On/Off CoD facility CBU CPs, ICFs, zIIPs, IFLs, and SAPs Activated through model conversion CPEa a. On IBM z16, only ICFs are supported. CPs, ICFs, zIIPs, IFLs, and SAPs Activated through model conversion System Recovery Boost Record zIIPs Activated through model conversion Flexible Capacity Record CPs, ICFs, zIIPs, IFLs, and SAPs Activated through model conversion 4 Other adapter types, such as zHyperlink, Coupling Express LR, and Remote Direct Memory Access (RDMA) over Converged Ethernet (RoCE), also can be added to the PCIe+ I/O drawers through an MES. 342 IBM z16 (3931) Technical Guide \u2013 By using the CPC Enhanced Drawer Availability (EDA), where possible, on multi-drawer systems to",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.411861",
+    "chunk_number": 827,
+    "word_count": 155
+  }
+}

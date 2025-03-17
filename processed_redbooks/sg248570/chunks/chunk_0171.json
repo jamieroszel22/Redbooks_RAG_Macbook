@@ -1,0 +1,18 @@
+{
+  "content": "Figure 5-18 Generate an IAM token 3. Example 5-2 shows the REST API to submit application. Example 5-2 REST API to submit application instance_id=spark788 crn=crn:v1:bluemix:public:lakehouse:us-south:a/3422342342e:3232-nsd-a83s-abcd-sdf7 sadf:: 78 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data curl -v -X POST https://us-south.lakehouse.cloud.ibm.com/lakehouse/api/v2/spark_engines/$instance_ id/applications -H \"AuthInstanceID: $crn\" --header \"Authorization: Bearer $token\" -H \"content-type: application/json\" -d @submit.json 4. In the curl (Example 5-2 on page 77), the submit.json application payload is shown in Figure 5-19. Figure 5-19 Application payload Figure 5-20 Generate value for specific acccount Tip:The value for spark.hadoop.wxd.cas.apiKey should be in the format Basic base64. For example, we generated the value as shown in Figure 5-20 on page 78. Replace myemailid@ibm.com with your id. And replace the password with your own",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.998177",
+    "chunk_number": 171,
+    "word_count": 122
+  }
+}

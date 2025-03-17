@@ -1,0 +1,18 @@
+{
+  "content": "support overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . 254 7.3.1 Supported CPC functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 255 7.3.2 Coupling and clustering . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 258 7.3.3 Storage connectivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259 7.3.4 Network connectivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 261 7.3.5 Cryptographic functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 265 7.4 Support by features and functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 267 7.4.1 LPAR Configuration and Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 267 7.4.2 Base CPC features and functions. . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.238679",
+    "chunk_number": 24,
+    "word_count": 389
+  }
+}

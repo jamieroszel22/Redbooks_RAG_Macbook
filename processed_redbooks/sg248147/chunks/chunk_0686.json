@@ -1,0 +1,18 @@
+{
+  "content": "ALL LNXMAINT * 150A ADGHOPS 314 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 To configure the EXTENT CONTROL file, complete the following steps: 1. Issue the QUERY DASD command to see the disks that are attached to SYSTEM. Disregard the CP-owned DASD and the common volumes. Write down the output or copy and paste it out of your 3270 emulator into a new text document on your workstation because you will need to refer to it while you perform the next steps: ===> query dasd DASD 953E CP OWNED RS3CM1 23 DASD 95BE CP SYSTEM RS3RL1 28 DASD 963E CP OWNED RDGRES 105 DASD 96BE CP OWNED RDGS01 1 DASD 973E CP OWNED RDGP01 0 DASD 983E CP OWNED RDHS01 0 2. Make a copy of the original EXTENT CONTROL file: ===> copy extent control j = contorig = (olddate 3. Add the DASD that is attached to SYSTEM in the :REGIONS. section (assuming that these volumes will be available for minidisk creation or several of the default system minidisks are present). The convention that is used in this example is that the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.913282",
+    "chunk_number": 686,
+    "word_count": 183
+  }
+}

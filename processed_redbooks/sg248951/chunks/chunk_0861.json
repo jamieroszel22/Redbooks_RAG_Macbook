@@ -1,0 +1,18 @@
+{
+  "content": "maintenance price is adjusted as a result of an On/Off CoD activation. Software Software Parallel Sysplex license charge (PSLC) clients are billed at the MSU level that is represented by the combined permanent and temporary capacity. All PSLC products are billed at the peak MSUs that are enabled during the month, regardless of usage. Customers with WLC licenses are billed by product at the highest four-hour rolling average for the month. In this instance, temporary capacity does not increase the software bill until that capacity is allocated to LPARs and used. Results from the STSI instruction reflect the current permanent and temporary CPs. For more information, see \u201cStore System Information instruction\u201d on page 375. 8.7 z/OS Capacity Provisioning This section describes how z/OS Capacity Provisioning can help you manage the addition of capacity to a server to handle workload peaks. z/OS Capacity Provisioning is delivered as part of the z/OS MVS Base Control Program (BCP). Capacity",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.526297",
+    "chunk_number": 861,
+    "word_count": 156
+  }
+}

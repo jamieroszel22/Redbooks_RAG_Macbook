@@ -1,0 +1,18 @@
+{
+  "content": "installation and migrations considerations Consider the following important points about z/VM 7.2: \u0002 Previous versions of z/VM required that you allocate a lesser amount of INITIAL real storage to the LPAR for installation (typically 8 GB or less). With z/VM 7.2, this requirement no longer exists. \u0002 If you are migrating to z/VM 7.2 from an older version, the LPAR activation profile might be configured to define Expanded Storage, or XSTORE. As of z/VM 6.2, IBM no longer recommends XSTORE as an auxiliary paging device, and usage of XSTORE with z/VM 6.4 was at that point considered to be deprecated. The aging and filtering functions that were provided by XSTORE are now provided by z/VM\u2019s Global Aging List (GAL). If your LPAR has XSTORE that is defined for it, convert your XSTORE to real storage and then, run the system with no XSTORE at all. For example, if you ran an earlier version of z/VM in a 32 GB partition with 4 GB of XSTORE, you change to 36 GB of real storage with no XSTORE when",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.803572",
+    "chunk_number": 163,
+    "word_count": 177
+  }
+}

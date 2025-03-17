@@ -1,0 +1,18 @@
+{
+  "content": "it, which is line 57 in Example 6-29. Enter dd in the prefix area for this line. Enter another dd on the last line of the file, and then press Enter: g. ====> /PROFILE TCPIP h. ====> up 2 Example 6-29 Example PROFILE TCPIP dd 00058 * ----------------------------------------------------------------- 00059 * Example TCP/IP Server Configuration (PROFILE TCPIP) Modifications 00060 * ----------------------------------------------------------------- 00061 ... 00073 dd 74 * * * End of File * * * i. Filter to show all lines that contain an asterisk (*): ====> all/* j. Suppress any visible lines that are not comment lines by typing an X into the prefix area on those two lines, as shown in Example 6-30. Example 6-30 Suppress lines X 088 :nick.SSL* :type.server :class.ssl ... X 099 :for.SSL* 226 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 k. Modify the beginning of each comment line to use the correct syntax of .* (period asterisk), shift indented lines to the left, and replace parentheses with",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.195410",
+    "chunk_number": 512,
+    "word_count": 162
+  }
+}

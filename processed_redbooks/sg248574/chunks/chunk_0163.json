@@ -1,0 +1,18 @@
+{
+  "content": "example Using InstructLab involves several key steps, each of which is designed to make the process as efficient and accessible as possible: 1. Users download a base model from a supported repository, such as Hugging Face, and initialize the InstructLab command-line interface (CLI). 2. Once the environment is set up, the user creates a knowledge base, which is stored in a structured directory that follows the taxonomy format. This knowledge base is populated with question-answer pairs, references to external documents (for example, PDFs or markdown files), and metadata to describe the knowledge, such as the domain and relevant attributes. 3. Now, you generate synthetic data based on the knowledge base. This synthetic data is used to train the model, with the InstructLab system automatically generating examples that adhere to the structure of the taxonomy. The SDG process is designed to produce high-quality training samples by following the patterns and relationships that are defined",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.832135",
+    "chunk_number": 163,
+    "word_count": 153
+  }
+}

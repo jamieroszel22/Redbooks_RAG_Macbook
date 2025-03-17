@@ -1,0 +1,18 @@
+{
+  "content": "concurrently repair the storage module if the IBM z16 is a multi-drawer system. The process to repair the storage module is to isolate or \u201cfence off\u201d the drawer, remove the drawer, replace the failing storage module and then, add the drawer. The flexible memory option might be necessary to maintain sufficient capacity while repairing the storage module. \u0002 Single processor core checkstop and sparing. 392 IBM z16 (3931) Technical Guide This indicator shows that a processor core malfunctioned and is spared. IBM determines what to do based on the system and the history of that system. \u0002 Point-to-point fabric for symmetric multiprocessing (SMP) RAS design \u2013 The A-bus is the logical bus and it is split over 2 SMP9 cables: \u2022 11 bits per A-Bus \u2022 One SMP9 cable has six bits and the other has five bits. \u2013 CRC detection and replay \u2013 RAS lane Degrade and Call Home Strategy design \u2013 Concurrent repair of the SMP9 cable. Having fewer components that can fail is an advantage. In a multi-drawer",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.736425",
+    "chunk_number": 929,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "decompression operations. It does not require any special hypervisor support, which removes the virtualization layer (sharing the zEDC Express PCIe adapter among LPARs requires virtualization support). \u0002 Asynchronous optimization for Large Operations under z/OS. The authorized application (for example, BSAM/QSAM) issues I/O for asynchronous execution and SAP (PU) starts instruction (synchronously) on behalf of application. The on-chip accelerator enables load balancing of high compression loads and low latency and high bandwidth compared to zEDC Express, while maintaining current user experience on compression. Function support for the IBM Integrated Accelerator for zEDC is listed in Table 7-3 on page 253 and Table 7-4 on page 254. For more information, see Appendix C, \u201cIBM Integrated Accelerator for zEnterprise Data Compression\u201d on page 507. 7.4.3 Coupling and clustering features and functions In this section, we describe the coupling and cluster features. Coupling facility and CFCC",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.873736",
+    "chunk_number": 671,
+    "word_count": 142
+  }
+}

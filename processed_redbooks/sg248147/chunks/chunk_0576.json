@@ -1,0 +1,18 @@
+{
+  "content": "two digits represent the sequential RSU level within that year. Examples are 1902RSU, which is the second RSU for calendar year 2019, and 2001RSU, which is the first RSU of calendar year 2020. Use the following overall steps in applying an RSU: 1. Getting service from the internet. 2. Downloading the service files. 3. Receive, apply, and build the service. 4. Putting the service into production. 8.3.1 Getting service from the internet An RSU is obtained by its PTF number. The PTF for the most current RSU is of the form UM97xyz where xyz is the z/VM version-release-modification level. So for z/VM 6.3, the RSU is UM97630, and for z/VM 7.2, it is UM97720. With Shopz, you do not need to know the PTF number. If you know that you want the latest RSU, you can get it directly, based on the version of z/VM that you are running. Complete the following steps, which are the same steps that are described with some figures in 8.4, \u201cApplying a program temporary fix\u201d on page 265: 1. Point a web",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.472222",
+    "chunk_number": 576,
+    "word_count": 178
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "the marketing-campaign-analysis IBM Cloud Object Storage bucket, as shown n Figure 8-4. Figure 8-4 The marketing-campaign-analysis IBM Cloud Object Storage bucket 4. Within that bucket, the data engineer selects the Objects tab and confirms that the file that contains the marketing campaign data is present, as shown in Figure 8-5. Figure 8-5 The marketing-campaign-data.csv file 5. The data engineer adds permissions to the IBM Cloud Object Storage bucket for the service credential marketing-user-1. On the Permissions tab, they select Access policies \u2192 Service ID \u2192 Create access policy to create an access policy for the marketing-user-1 Service ID, with the Manager role assigned. This action is important because insufficient access can result in issues later when creating tables and schemas in IBM watsonx.data. Figure 8-6 on page 105 shows the Bucket access policies window. Chapter 8. Marketing campaign analysis use case 105 Figure 8-6 Creating an access policy 6. On the Configuration",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.188371",
+    "chunk_number": 221,
+    "word_count": 152
+  }
+}

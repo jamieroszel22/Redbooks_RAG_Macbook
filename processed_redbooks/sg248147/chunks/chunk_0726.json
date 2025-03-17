@@ -1,0 +1,18 @@
+{
+  "content": "ENROLL command to SMAPI userids ENROLL USER VSMWORK1 VMSYS: (BLOCKS 6000 STORGROUP 2 ENROLL USER VSMWORK2 VMSYS: ENROLL USER VSMWORK3 VMSYS: ENROLL USER VSMREQIN VMSYS: ENROLL USER VSMREQIU VMSYS: ENROLL USER VSMGUARD VMPSFS: (BLOCKS 1000 STORGROUP 2 ENROLL USER VSMGUARD VMSYS: ENROLL USER VSMREQI6 VMSYS: ENROLL USER VSMEVSRV VMSYS: ENROLL USER DTCSMAPI VMSYS: ENROLL USER OPERATNS VMSYS: ENROLL USER PERSMAPI VMSYS: (BLOCKS 24000 STORGROUP 2 ENROLL USER OPNCLOUD VMSYS: Note: For more information about managing and auditing the VMSYS or VMPSFS file pools, see z/VM: CMS File Pool Planning, Administration, and Operation, SC24-6261. Note: You can run the steps that are shown in Example 10-9 or create an EXEC, as described in \u201cSMAPISFS EXEC\u201d on page 331. Chapter 10. DirMaint, RACF-connector, and SMAPI 331 If you do not grant access to the specific directory, you cannot access it. Example 10-10 shows SFS GRANT commands that are automatically performed during z/VM installation. Example 10-10",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.056855",
+    "chunk_number": 726,
+    "word_count": 153
+  }
+}

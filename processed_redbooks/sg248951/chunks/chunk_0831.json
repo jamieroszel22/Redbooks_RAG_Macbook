@@ -1,0 +1,18 @@
+{
+  "content": "and IFLs and the addition of a processor drawer works. The addition of a processor drawer to an IBM z16 Max 39 upgrades the machine to Max82. After the second CPC drawer addition, CPC drawer 0 has 39 configurable PUs and CPC drawer 1 has 43 configurable PUs, which allows 82 PUs to be characterized on the new Max82 configuration. Consideration: All available processors on a server (including reserved processors) can be defined to an LPAR. However, do not define more processors to an LPAR than the target operating system supports. 344 IBM z16 (3931) Technical Guide The number of processors that are supported by various operating systems releases are listed in Table 8-3. Table 8-3 Number of processors that are supported by operating system Software charges, which are based on the total capacity of the system on which the software is installed, are adjusted to the new capacity after the MES upgrade. Software products that use Workload License Charges (WLC) or Taylor Fit Pricing (TFP)",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.423377",
+    "chunk_number": 831,
+    "word_count": 166
+  }
+}

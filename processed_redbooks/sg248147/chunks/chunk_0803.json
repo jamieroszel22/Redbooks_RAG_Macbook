@@ -1,0 +1,18 @@
+{
+  "content": "machine. The output from virtual machines with class E privilege (for example, MAINT or OPERATOR) is shown. The lines are numbered for clarity with a description that follows the output: ===> ind load 1 AVGPROC-000% 04 2 MDC READS-000068/SEC WRITES-000001/SEC HIT RATIO-099% 3 PAGING-0/SE 4 Q0-00001(00000) DORMANT-00012 5 Q1-00000(00000) E1-00000(00000) 6 Q2-00001(00000) EXPAN-001 E2-00000(00000) 7 Q3-00001(00000) EXPAN-001 E3-00000(00000) 8 9 PROC 0000-000% CP VM PROC 0001-000% CP VL 10 PROC 0002-000% IFL VM PROC 0003-000% IFL VL 11 12 LIMITED-00000 The INDICATE LOAD command gives a snapshot of current system performance. Except for the counts of virtual machines in various queues and the limited list, the values that you see here are a smoothed average over the past 4 minutes. z/VM performance analysts tend to focus on the following areas: \u0002 AVGPROC on line 1 gives the overall processor utilization, which is 38% in this example. The number that follows it is the number of online",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.322665",
+    "chunk_number": 803,
+    "word_count": 156
+  }
+}

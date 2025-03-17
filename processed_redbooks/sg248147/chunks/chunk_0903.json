@@ -1,0 +1,18 @@
+{
+  "content": "VSWITCH IVL wit h MAC address 02-03-11-00-00-00. Ready; T=0.01/0.01 05:28:07 HCPSWU2830I VSWITCH SYSTEM IVL status is ready. HCPSWU2830I DTCVSW3 is VSWITCH controller for device 1933.P01. HCPSWU3181I The system is initiating IVL Member Discovery on IVL Domain A. HCPSWU3175I System RDBKZVMF has been added to IVL Domain A. HCPSWU2830I DTCVSW4 is VSWITCH controller for backup device 1913.P01. We also saw a message on the first system console to indicate that the second system was discovered by the first: HCPSWU3175I System RDBKZVMC has been added to IVL Domain A. Verifying IVL connectivity We used the QUERY VSWITCH command to check the status of our IVL Network. Example 14-3 shows the result of this query. Example 14-3 QUERY VSWITCH on the IVL VSwitch q vswitch ivl VSWITCH SYSTEM IVL Type: IVL Domain: A Maxconn: INFINITE PERSISTENT RESTRICTED ETHERNET Accounting: OFF PORTBASED LOCAL VLAN Unaware MAC address: 02-00-00-00-00-0E MAC Protection: Unspecified IPTimeout: 5 QueueStorage: 8",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.650795",
+    "chunk_number": 903,
+    "word_count": 151
+  }
+}

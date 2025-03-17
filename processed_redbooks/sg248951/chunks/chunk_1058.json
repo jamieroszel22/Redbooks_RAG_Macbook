@@ -1,0 +1,18 @@
+{
+  "content": "fan-outs). Also assumed is that maximum ambient temperature is used. \u0002 Typical configurations and data center conditions result in lower power. A calculator that is available on Resource Link calculates power and weight for specific configurations and environmental conditions. Consideration: Power consumption is lower when in a normal ambient temperature room, and for configurations that feature a lesser number of I/O slots, smaller amount of memory, and fewer processors. Power estimation for any configuration, power source, and room condition can be obtained by using the power estimation tool at IBM Resource Link website (authentication required). On the Resource Link page, click Tools \u2192 Power and weight estimation. 462 IBM z16 (3931) Technical Guide The IBM z16 servers include a recommended (long-term) ambient temperature range of 18\u00b0C (64.4\u00b0F) - 27\u00b0C (80.6\u00b0F). The minimum allowed ambient temperature is 5\u00b0C (41\u00b0F); the maximum allowed temperature is 40\u00b0C (104\u00b0F). For more",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.186891",
+    "chunk_number": 1058,
+    "word_count": 147
+  }
+}

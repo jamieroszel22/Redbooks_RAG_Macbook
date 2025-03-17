@@ -1,0 +1,18 @@
+{
+  "content": "various SMAPI servers and system settings that are useful for investigating suspected problems involving SMAPI. Use it to perform the same function as SMAPI_Status_Capture when that API cannot be executed because SMAPI is not responsive. To use this EXEC, complete the following steps: 1. The SMSTATUS EXEC is designed to be run by MAINT. Complete the following steps to run the exec: a. Log on as MAINT. b. b. Access the vmsys:vsmwork1.data directory: set filepool vmsys acc vmsys:vsmwork1.data f c. Access MAINT's 193 disk as G. It must be accessed in your search order after the vmsys:vsmwork1.data directory. d. Enter SMSTATUS. 2. Running SMSTATUS might prompt you for a password to test that the directory manager is configured correctly. You are prompted to check whether you are in a VMREAD state. If you are, enter your log on password to continue. 3. When the SMSTATUS EXEC completes, an output file is created in the VMSYS:VSMWORK1.STATUS directory, as specified by the Server_STATUS =",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.103959",
+    "chunk_number": 739,
+    "word_count": 162
+  }
+}

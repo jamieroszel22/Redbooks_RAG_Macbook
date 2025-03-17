@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . 36 2.2 Choosing a z/VM installation method . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 2.2.1 Understanding traditional and upgrade installations . . . . . . . . . . . . . . . . . . . . . . . 37 iv Virtualization Cookbook: Vol 1: IBM z/VM 7.2 2.2.2 Classifications used in this book . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37 2.2.3 New and upgrade installations to DASD. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 2.2.4 Installing as VMSSI with live guest relocation. . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 2.2.5 Planning aids . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 2.3 Bill of materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 2.3.1 Hardware . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.179046",
+    "chunk_number": 6,
+    "word_count": 375
+  }
+}

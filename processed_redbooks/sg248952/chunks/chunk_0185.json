@@ -1,0 +1,18 @@
+{
+  "content": "are allowed to be activated \u0002 Number of IFL CBUs that are allowed to be activated \u0002 Number of ICF CBUs that are allowed to be activated \u0002 Number of zIIP CBUs that are allowed to be activated \u0002 Number of SAP CBUs that are allowed to be activated \u0002 Number of extra CBU tests that are allowed for this CBU record \u0002 Number of total CBU years ordered (duration of the contract) \u0002 Expiration date of the CBU contract The record content of the CBU configuration is documented in IBM configurator output, which is shown in Example 2-1. In this example, one CBU record is made for a five-year CBU contract without more CBU tests for the activation of one CP CBU. Example 2-1 Simple CBU record and related configuration features On-Demand Capacity Selections: NEW00001 - CBU - CP(1) - Years(5) - Tests(5) Resulting feature numbers in configuration: 6817 Total CBU Years Ordered 5 6818 CBU Records Ordered 1 6820 Single CBU CP-Year 5 Chapter 2. Central processor complex hardware components 63 In Example 2-2,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.909242",
+    "chunk_number": 185,
+    "word_count": 176
+  }
+}

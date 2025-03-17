@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . 462 12.9 Capacity planning for z16 A02 and AGZ. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463 12.9.1 Collect CPU MF counter data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463 12.9.2 Creating EDF file with CP3KEXTR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463 12.9.3 Loading EDF file to the capacity planning tool . . . . . . . . . . . . . . . . . . . . . . . . . 463 12.9.4 Tips to maximize IBM z16 A02 and IBM z16 AGZ capacity . . . . . . . . . . . . . . . 464 Appendix A. Channel options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 467 Appendix B. IBM Z Integrated Accelerator for AI. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 471 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 472 NNPA and IBM z16 A02 and IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.299878",
+    "chunk_number": 43,
+    "word_count": 377
+  }
+}

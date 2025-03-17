@@ -1,0 +1,18 @@
+{
+  "content": "successfully access z/VM and Linux from your workstation to complete the tasks that are described in this book: \u0002 A 3270 terminal emulator with TLS support \u0002 A TTY terminal emulator with SSH support \u0002 A remote graphical display client with support for the Virtual Network Computing (VNC) protocol Many options are available to provide these three clients. The operating system that is running on your workstation determines which options are available to you. Several programs or products to consider are described for each of the these requirements. 3270 terminal emulators The 3270 terminal emulators have been around for some time now. As you consider the options that are available to you for this requirement, be aware that the terminology that is used to refer to these options feature several variations. However, do not allow this issue to confuse you. In general, all of the following terms refer to a 3270 terminal emulator: \u0002 TN3270 client \u0002 Host access client \u0002 Mainframe terminal",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.885001",
+    "chunk_number": 972,
+    "word_count": 163
+  }
+}

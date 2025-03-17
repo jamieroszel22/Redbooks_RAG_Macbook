@@ -1,0 +1,18 @@
+{
+  "content": "are free to allow for the removal of a drawer. You can run this preparation on each drawer to determine which resource changes are necessary. Use the results as input in the planning stage to help identify critical resources. With this planning information, you can examine the LPAR configuration and workload priorities to determine how resources might be reduced and still allow the drawer to be concurrently removed. Include the following tasks in the planning process: \u0002 Review of the IBM z16 A02 and IBM z16 AGZ configuration to determine the following values: \u2013 Number of drawers that are installed and the number of PUs enabled. Consider the following points: \u2022 Use the Resource Link machine information or the HMA to determine the model, number, and types of PUs (CPs, IFLs, ICFs, and zIIPs). \u2022 Determine the amount of memory (physically installed and LICCC-enabled). \u2022 Work with your IBM Service Support Representative (IBM SSR) to determine the memory card size in each drawer. The memory",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.784005",
+    "chunk_number": 933,
+    "word_count": 165
+  }
+}

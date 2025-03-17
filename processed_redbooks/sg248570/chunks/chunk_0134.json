@@ -1,0 +1,18 @@
+{
+  "content": "within the lakehouse. By using these three layers in tandem, IBM watsonx.data enables organizations to implement a structured, scalable access control model that meets both security and operational needs. This layered approach to role management simplifies access assignments, minimizes administrative overhead, and enhances data governance. 4.2.2 Platform roles and instance roles in IBM watsonx.data IBM watsonx.data provides two primary role types: platform roles and instance roles. They govern access at different scopes within the lakehouse environment. Platform roles Platform roles in IBM watsonx.data grant permissions that apply across the entire platform. These roles provide high-level administrative control over users, configurations, and settings. Platform roles are typically assigned to IT administrators or platform owners who are responsible for managing IBM watsonx.data. Here are the platform roles: \u0002 Administrator role: Grants comprehensive administrative access so that users",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.860655",
+    "chunk_number": 134,
+    "word_count": 135
+  }
+}

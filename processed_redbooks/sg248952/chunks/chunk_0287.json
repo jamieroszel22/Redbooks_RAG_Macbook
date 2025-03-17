@@ -1,0 +1,18 @@
+{
+  "content": "are based on XML, HTTP, SOAP, and Java, and traditional file transfer can benefit. \u0002 During the SRB boost period, ANY work in a boosting image is eligible to run on a zIIP processor associated with the image (LPAR). Many more workloads and software can use zIIP processors, such as the following examples: \u0002 IBM z/OS Container Extensions (zCX) \u0002 IBM z/OS CIM monitoring \u0002 IBM z/OS Management Facility (z/OSMF) \u0002 System Display and Search Facility (SDSF) \u0002 IBM z/OS Connect EE components \u0002 IBM Sterling\u2122 Connect:Direct\u00ae \u0002 IBM Z System Automation: \u0002 Java components of IBM Z SMS and SAS \u0002 IBM Z NetView RESTful API server \u0002 IBM Z Workload Scheduler & Dynamic Workload Console (under WebSphere Liberty) \u0002 IMS workloads (DRDA, SOAP, MSC, ISC) \u0002 IBM Python V3.11 \u0002 Db2 for z/OS Data Gate Chapter 3. Central processor complex design 111 \u0002 Db2 Sort for z/OS \u0002 Db2 Analytics Accelerator Loader for z/OS \u0002 Db2 Utilities Suite for z/OS \u0002 Db2 Log Analysis Tool for z/OS \u0002 Data Virtualization Manager for z/OS",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.347691",
+    "chunk_number": 287,
+    "word_count": 175
+  }
+}

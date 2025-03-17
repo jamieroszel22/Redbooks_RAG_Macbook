@@ -1,0 +1,18 @@
+{
+  "content": "(3931) Technical Guide \u0002 FC 0062 \u0002 FC 0063 \u0002 FC 0082 \u0002 FC 0083 With these HMC feature codes, Driver 51/Version 2.16.0 can be installed to support IBM z16. Also, Driver 51/Version 2.16.0 can be installed on the two HMCs that are provided with the HMA feature FC 0100 on IBM z15. You also can use the IBM z16 with previous ordered HMCs and no HMA. It is possible to order the HMA FC 0129 later as an MES feature. It then provides new microcode, and no new hardware. The HMCs can be accessed by using a remote web browser and can manage N-2 generations systems (IBM z16 A01, IBM z15 T02, IBM z15 T01, IBM z14 ZR1, and IBM z14 M0x). 10.2.4 HMC and SE server The two 1U rack-mounted hardware servers that are installed at the top of the IBM z16 A frame (as shown in Figure 10-14) are used for HMC (optional feature) and SE functions. Figure 10-14 HMC and SE server location (front view) HMC and Support Element Keyboard Mouse Monitor With IBM z16, a Keyboard Mouse Monitor (KMM) device that is in the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.916072",
+    "chunk_number": 980,
+    "word_count": 189
+  }
+}

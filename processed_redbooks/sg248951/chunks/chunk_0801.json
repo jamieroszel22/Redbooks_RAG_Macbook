@@ -1,0 +1,18 @@
+{
+  "content": "by the client. It can be higher than the permanent capacity. Permanent/ Temporary entitlement record The internal representation of a temporary (TER) or permanent (PER) capacity upgrade that is processed by the CIU facility. An entitlement record contains the encrypted representation of the upgrade configuration with the associated time limit conditions. Term Description Chapter 8. System upgrades 331 8.2.3 Concurrent and nondisruptive upgrades Depending on the effect on the system and application availability, upgrades can be classified in the following manner: \u0002 Concurrent In general, concurrency addresses the continuity of operations of the hardware during an upgrade; for example, whether a system (hardware) must be turned off during the upgrade. For more information, see 8.3, \u201cConcurrent upgrades\u201d on page 334. \u0002 Nonconcurrent This type of upgrade requires turning off the hardware that is being upgraded. Examples include memory upgrades to an IBM z16 A01 max 39. \u0002 Nondisruptive",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.325368",
+    "chunk_number": 801,
+    "word_count": 148
+  }
+}

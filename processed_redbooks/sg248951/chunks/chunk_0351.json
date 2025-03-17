@@ -1,0 +1,18 @@
+{
+  "content": "Duplexing for Lock Structures: \u2013 New asynchronous duplexing protocol for lock structures: \u2022 z/OS sends command to primary CF only \u2022 Primary CF processes command and returns result \u2022 Primary CF forwards description of required updates to secondary CF \u2022 Secondary CF updates secondary structure instance asynchronously \u2013 Provided for lock structures only: \u2022 z/OS V2R2 SPE with PTFs for APAR OA47796 \u2022 Db2 V12 with PTFs \u2022 Most performance-sensitive structures for duplexing \u2013 Benefit and value: \u2022 Db2 locking receives performance similar to simplex operations \u2022 Reduces CPU and CF link overhead \u2022 Avoids the overhead of synchronous protocol handshakes on every update \u2022 Duplexing failover much faster than log-based recovery \u2013 Targeted at multi-site clients who run split workloads at distance to make duplexing lock structures at distance practical. \u0002 CF Processor Scalability: \u2013 CF work management and dispatcher changes to allow improved efficiency as processors are added to scale up the capacity",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.601171",
+    "chunk_number": 351,
+    "word_count": 155
+  }
+}

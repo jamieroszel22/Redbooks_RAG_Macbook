@@ -1,0 +1,18 @@
+{
+  "content": "by: IBM.Device.Server.-3931.RecommendedService Fixes that are recommended to run z/OS on the IBM z16. These fixes also are listed in the Recommended Service section of the hardware PSP bucket. They represent fixes that were recommended by IBM Service. It is recommended that you review and install these PTFs. For more information about supported functions and their minimum required support levels, see 7.3, \u201cIBM z16 features and function support overview\u201d on page 252. 1 Use support for select features by way of PTFs. Toleration support for new hardware might also require PTFs. 250 IBM z16 (3931) Technical Guide 7.2.2 z/VM IBM z16 support is provided with PTFs for z/VM 7.1 and 7.2 including PTFs for IOCP, HCD, and HLASM. IBM z16 support will be included in the z/VM 7.32 base. z/VM Compatibility Support enables guest use for several new facilities: \u0002 Embedded Artificial Intelligence Acceleration \u2013 Designed to reduce the overall time required to execute CPU operations for neural networking",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.594866",
+    "chunk_number": 602,
+    "word_count": 158
+  }
+}

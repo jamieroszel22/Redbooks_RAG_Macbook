@@ -1,0 +1,18 @@
+{
+  "content": "3584 512 3424 28 128 64 64 64 64 128 4096 512 3936 29 128 128 64 64 64 128 4608 512 4448 30 128 128 64 64 128 128 5120 512 4960 31 128 128 128 128 128 128 6144 1024 5984 32 256 128 128 128 128 128 7168 1024 7008 33 256 128 128 256 256 8192 1024 8032 Chapter 2. Central processor complex hardware components 47 DIMM plugging for the configurations in each CPC drawer do not have to be similar. Each memory 8 slot DIMM bank must have the same DIMM size; however, a drawer can have a mix of DIMM banks. The support element View Hardware Configuration task can be used to determine the size and quantity of the memory plugged in each drawer. Figure 2-19 shows an example of an IBM z16 AGZ using drawer configuration number 30 from the previous tables, and displays some of the locations and descriptions of the installed memory modules. Figure 2-19 View Hardware Configuration task on the Support Element Figure 2-20 shows the CPC drawer and DIMM locations for an IBM z16 A02 and IBM z16 AGZ. Figure",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.796803",
+    "chunk_number": 157,
+    "word_count": 191
+  }
+}

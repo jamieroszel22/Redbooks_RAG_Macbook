@@ -1,0 +1,18 @@
+{
+  "content": "format continues with installing and customizing Linux. Volume 5 provides an explanation of the kernel-based virtual machine (KVM) on IBM Z and how it can use the z/Architecture\u00ae. It focuses on the planning of the environment and provides installation and configuration definitions that are necessary to build, manage, and monitor a KVM on Z environment. This publication applies to the supported Linux on Z distributions (Red Hat, SUSE, and Ubuntu). 2 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Volumes in this series This book series consists of the following volumes: \u0002 The Virtualization Cookbook for IBM z Systems Volume 1: IBM z/VM 6.3, SG24-8147 introduces the entire concept of the IBM virtualization solution by using z/VM to run Linux servers on an IBM Z system. It also describes the z/VM functions, planning, installation, and configuration of a two-member SSI with z/VM 7.2. For Volume 1, you need at least two IBM Z logical partitions (LPARs) with associated resources and z/VM 7.2",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.358409",
+    "chunk_number": 59,
+    "word_count": 161
+  }
+}

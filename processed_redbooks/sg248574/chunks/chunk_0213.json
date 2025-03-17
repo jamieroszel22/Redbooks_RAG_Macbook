@@ -1,0 +1,18 @@
+{
+  "content": "agent and through thoughtful design and continuous refinement, agents are poised to become indispensable tools in the ever-expanding landscape of AI. An AI agent, as illustrated in Figure 6-2 on page 91, consists of a centralized planning system that is supported by a general-purpose generative LLM. This LLM serves as the core orchestrator, which can devise a structured plan of actions to address user queries. Its decision-making process is enhanced by a memory module, which maintains contextual information and is continuously updated based on past actions and outcomes, which help ensure adaptive and dynamic responses. Chapter 6. Artificial intelligence agents 91 Figure 6-2 High-level view at the core of an AI agent The planning system interacts with an I/O communication layer to run the planned actions effectively. This layer acts as a bridge between the LLM and an extensive Tool Library, which enables the agent to perform specialized tasks beyond its intrinsic capabilities. The",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.047164",
+    "chunk_number": 213,
+    "word_count": 154
+  }
+}

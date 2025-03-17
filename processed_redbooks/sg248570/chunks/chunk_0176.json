@@ -1,0 +1,18 @@
+{
+  "content": "mission-critical systems and provided a bedrock of reliability that organizations came to rely on. IBM watsonx.data carries these transactional semantics into environments where data may reside in a combination of object stores, on-premises file systems, or distributed cloud storage-often using open file formats like Parquet, ORC, or Delta Lake. Implementing ACID in such a heterogeneous ecosystem involves careful orchestration of metadata operations, versioning, and concurrency control across large, possibly partitioned datasets. The platform ensures that data transformations, such as batch ingestion, schema evolutions, incremental updates, or data masking, happen in an all-or-nothing manner, just as they would in a traditional RDBMS. Thus, watsonx.data preserves the consistency and trustworthiness of data, even as it spans multiple file-based storage layers. Organizations gain the confidence 82 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data that their",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.021790",
+    "chunk_number": 176,
+    "word_count": 136
+  }
+}

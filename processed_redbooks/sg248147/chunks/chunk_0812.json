@@ -1,0 +1,18 @@
+{
+  "content": "command several times to see the amount of resources changing or if the number of I/Os is increasing. 376 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 ...... : PAGES=396235760 XSTORE : --- LIMITHARD METHOD: CONSUMPTION POLARIZATION: VERTICAL GLOBAL PERFORMANCE DATA: ON EXCESSUSE: CP-MEDIUM ZAAP-MEDIUM IFL-MEDIUM ICF-MEDIUM ZIIP-MEDIUM CPUPAD: CP-100% ZAAP-100% IFL-100% ICF-100% ZIIP-100% DSPWDMETHOD: RESHUFFLE UNPARKING: MEDIUM CP QUERY ALLOC Use QUERY ALLOC to display the number of cylinders or pages that are allocated, in use, and available for DASD volumes that are attached to the system. Use Q ALLOC PAGE for detailed information about paging space or Q ALLOC SPOOL for detailed information about spool space. You can define it dynamically, but if the system restarts, this definition is lost. For the definition to be permanently set up, you must define on SYSTEM CONFIG file, in the PARM disk of z/VM. The CP QUERY ALLOC command: \u0002 Displays a list of the paging DASDs and the allocation",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.349203",
+    "chunk_number": 812,
+    "word_count": 158
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "total input current is switched to the remaining phase pair without any power interruption. Depending on the configuration input power draw, the system can run from several minutes to indefinitely in this condition. Because most single phase losses are transients that recover in seconds, this redundancy provides protection against virtually all single phase outages. Power cords for the BPAs are attached to the options that are listed in Table 11-5. Table 11-5 Power cords for the BPAs Supply type Nominal voltage range Voltage tolerance Frequency range Two or four redundant 3-phase power cords 200 - 480 V AC 180 - 508 V AC 50 / 60 Hz Chapter 11. Environmental requirements 459 The source power cords ratings for BPA systems are listed in Table 11-6. Table 11-6 Source power cords for BPA A rear view of a maximum configured BPA powered system with two BPA pairs, IBF, four CPC drawers, and 10 PCIe+ I/O drawers is shown in Figure 11-2. Figure 11-2 Rear view of maximum configured BPA system",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.176872",
+    "chunk_number": 1054,
+    "word_count": 169
+  }
+}

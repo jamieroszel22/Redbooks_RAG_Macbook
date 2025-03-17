@@ -1,0 +1,18 @@
+{
+  "content": "connectivity for the external time source (ETS). In previous generation IBM Z servers, the ETS for the STP was provided by connecting Important: The Sysplex Time task on the SE was discontinued with IBM z15. Therefore, with Driver 51/Version 2.16.0 the task Manage System Time on the HMC has to be used to managing STP and the according timing functions. 432 IBM z16 A02 and IBM z16 AGZ Technical Guide the Support Element to the client network. With IBM z16 A02 and IBM z16 AGZ the ETS, either PTP (IEEE 1588) or NTP network connectivity is provided using the IBM z16 A02 and IBM z16 AGZ CPC drawer oscillator (OSC) cards dedicated network ports (RJ45) to client LAN for accessing the time synchronization information. Pulse-per-second connectivity is also provided for higher timing information accuracy. Connection of the ETS direct to the IBM Z CPC provides less delay in accessing the time source than connection through the Support Element. For more information see 2.2.2, \u201cOscillator\u201d on page",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.111421",
+    "chunk_number": 1027,
+    "word_count": 166
+  }
+}

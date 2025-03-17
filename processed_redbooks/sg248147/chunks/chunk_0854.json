@@ -1,0 +1,18 @@
+{
+  "content": "/proc/sys/appldata/timer # echo 1 > /proc/sys/appldata/mem # echo 1 > /proc/sys/appldata/os # echo 1 > /proc/sys/appldata/net_sum Built-in kernel monitoring is now turned on. You might want to leave only the monitoring on for specific periods of time. While Linux monitoring data is captured, the Performance Toolkit\u2019s minidisk space can fill up quickly. 396 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Viewing performance data from the Linux kernel in the Performance Toolkit After the system has time to collect data, you can use the Performance Toolkit to view Linux performance data. To view that data, drill down into menu 29, Linux systems. Use either the browser interface or the 3270 interface, as shown in Figure 12-7. Figure 12-7 Linux Displays Then, type S over the period on the left side of the submenu window in the row that corresponds to the report that you want to see. You will see a new report window with the Linux guest systems memory overview, as shown in Figure 12-8. Figure",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.500759",
+    "chunk_number": 854,
+    "word_count": 166
+  }
+}

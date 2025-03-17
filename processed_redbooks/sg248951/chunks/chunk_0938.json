@@ -1,0 +1,18 @@
+{
+  "content": "serviceability 395 \u0002 No special feature codes are required for PU and model configuration. \u0002 Feature Max39 to Max168 each have 5 SAPs in each drawer. Max200 has in total 24 standard SAPs. \u0002 The flexible memory option delivers physical memory so that 100% of the purchased memory increment can be activated even when one drawer is fenced. The system configuration must have sufficient dormant resources on the remaining drawers in the system for the evacuation of the drawer that is to be replaced or upgraded. Dormant resources include the following possibilities: \u0002 Unused PUs or memory that is not enabled by LICCC \u0002 Inactive resources that are enabled by LICCC (memory that is not being used by any activated LPARs) \u0002 Memory that is purchased with the flexible memory option \u0002 Extra drawers The I/O connectivity also must support drawer removal. Most of the paths to the I/O feature redundant I/O interconnect support in the I/O infrastructure (drawers) that enable connections through multiple",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.787854",
+    "chunk_number": 938,
+    "word_count": 164
+  }
+}

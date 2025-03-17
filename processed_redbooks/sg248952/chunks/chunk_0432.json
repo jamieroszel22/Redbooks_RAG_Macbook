@@ -1,0 +1,18 @@
+{
+  "content": "speed and runs in full duplex mode only. \u0002 25GbE/10GbE RoCE features should not be mixed in a z/OS SMC-R Link Group. Switch configuration for 25 GbE RoCE Express2.1: The switches must meet the following requirements: \u0002 Global Pause function enabled \u0002 Priority flow control (PFC) disabled 172 IBM z16 A02 and IBM z16 AGZ Technical Guide Both point-to-point connections and switched connections with an enterprise-class switch are supported (ports running at matching speeds). 10GbE RoCE Express2.1 (FC 0432) 10GbE RoCE Express2.1 (FC 0432) is installed in the PCIe+ I/O drawer and is supported on IBM z16 A02 and IBM z16 AGZ configurations (carry forward). The 10GbE RoCE Express2.1 is a native PCIe feature. It does not use a CHPID and is defined by using the IOCP FUNCTION statement or in the hardware configuration definition (HCD). The maximum supported unrepeated distance, point-to-point, is 100 meters (328 feet). A client-supplied cable is required. Two types of cables can be used for",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.902242",
+    "chunk_number": 432,
+    "word_count": 160
+  }
+}

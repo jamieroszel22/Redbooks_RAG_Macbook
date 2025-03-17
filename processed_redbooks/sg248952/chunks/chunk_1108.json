@@ -1,0 +1,18 @@
+{
+  "content": "fully compatible with zEDC. Data compressed by zEDC can be read by IBM z16 A02 and IBM z16 AGZ (the on-chip) nest accelerator unit and vice versa. All z/OS configuration stay the same No changes are required when moving from earlier systems using zEDC to IBM z16 A02 and IBM z16 AGZ. The IFAPRDxx feature is still required for authorized services. For problem state services, such as zlib usage of Java, it is not required. Consider fail-over and DR sizing The order of magnitude throughput increase on IBM z16 A02 and IBM z16 AGZ means that the throughput requirements need to be considered whether failing over to earlier systems with zEDC. Performance metrics On-chip compression introduces the following system reporting changes: \u0002 No RMF PCIE reporting for zEDC \u0002 Synchronous executions are not recorded (just an instruction invocation) \u0002 Asynchronous executions are recorded: \u2013 SMF30 information is captured for asynchronous usage \u2013 RMF EADM reporting is enhanced (RMF 74.10) \u2013 SAP utilization",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.317627",
+    "chunk_number": 1108,
+    "word_count": 162
+  }
+}

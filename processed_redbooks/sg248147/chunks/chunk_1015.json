@@ -1,0 +1,18 @@
+{
+  "content": "SSIname' If (SSIname = \"SSINAME\") Then /* variable not set */ inSSI = 'no' Else inSSI = 'yes' /* Iterate through all DASD in list */ Do i = 1 to numDasd label = labelPrefix || 'RIGHT'(dasdList.i,4,'0') retVal = formatOne(dasdList.i type label) If retVal <> 0 Then Do Say 'Error from CPFMTXA on DASD' label 'rc =' retVal Leave /* error - abort this format */ End /* add owner info for CP owned devices */ If (type != 'PERM') Then /* CP owned => owner info is needed */ If (inSSI = 'yes') Then /* add owner info */ call addOwnerInfo(dasdList.i label SSIname systemID) Else call addOwnerInfo(dasdList.i label \"NOSSI\" systemID) formatted = formatted label End /* Do i = */ 'CP TERM MORE' morevalues Return retVal /* from doFormat */ Appendix C. Additional material 495 /*+------------------------------------------------------------------+*/ checkReserved: Procedure /*| Try copying an already formatted DASD Then relabelling it |*/ /*| parm 1: dasd - the virtual address of the DASD |*/",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.041603",
+    "chunk_number": 1015,
+    "word_count": 162
+  }
+}

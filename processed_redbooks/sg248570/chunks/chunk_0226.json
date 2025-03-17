@@ -1,0 +1,18 @@
+{
+  "content": "engines in IBM watsonx.data by using the Infrastructure manager. 112 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data To do so, they complete the following steps: 1. The data engineer hovers their cursor over the newly created catalog catalog01 and clicks Manage associations, as shown in Figure 8-17. Figure 8-17 Infrastructure manager: Manage associations 2. The data engineer selects the two engines that are available in their IBM watsonx.data instance, presto-01 and spark-01, and clicks Save and restart 2 engines, as shown in Figure 8-18 on page 113. Chapter 8. Marketing campaign analysis use case 113 Figure 8-18 Manage associations: Save and restart 2 engines It takes a few minutes for the engines to restart with the new changes and associations. Once the process is complete, the data engineer can see the associations in the Infrastructure manager, as shown in Figure 8-19. Figure 8-19 Infrastructure manager 114 Simplify Your AI Journey: Hybrid, Open Data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.211687",
+    "chunk_number": 226,
+    "word_count": 157
+  }
+}

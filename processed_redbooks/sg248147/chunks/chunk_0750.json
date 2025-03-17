@@ -1,0 +1,18 @@
+{
+  "content": "dirm freext Get all DASD free space list dirm usedext Get all DASD used space list For more information, see 11.4, \u201cCommon DirMaint tasks\u201d on page 362. 344 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 345 Chapter 11. Deploying and maintaining Linux workloads This chapter describes how to begin your first Linux installation. It also describes common tasks that are run during administration, maintenance, and expansion tasks to accommodate more workloads. This chapter includes the following topics: \u0002 11.1, \u201cPlanning a Linux virtual machine\u201d on page 346 \u0002 11.2, \u201cConsiderations for disk storage types\u201d on page 346 \u0002 11.3, \u201cNetwork attachment options and considerations\u201d on page 361 \u0002 11.4, \u201cCommon DirMaint tasks\u201d on page 362 11 346 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 11.1 Planning a Linux virtual machine Every server needs the following minimal set of items to operate: \u0002 CPU \u0002 Memory (the mainframe term is storage; the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.142569",
+    "chunk_number": 750,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "built-in integrated capabilities that allow advanced virtualization management on IBM Z servers. With DPM, you can use your Linux and virtualization skills while taking advantage of the full value of IBM Z hardware, robustness, and security in a workload optimized environment. DPM provides facilities to define and run virtualized computing systems by using a firmware-managed environment that coordinate the physical system resources that are shared by the partitions. The partitions\u2019 resources include processors, memory, network, storage, crypto, and accelerators. DPM provides a new mode of operation for IBM Z servers that provide the following services: \u0002 Facilitates defining, configuring, and operating PR/SM LPARs in a similar way to how these tasks are performed on another platform. \u0002 Lays the foundation for a general IBM Z new user experience. DPM is not another hypervisor for IBM Z servers. DPM uses the PR/SM hypervisor infrastructure and provides an intelligent interface on top of",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.473039",
+    "chunk_number": 318,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "----------------------------------------------------------- ... 5. Save your changes with the FILE subcommand: ====> file 6. Use the QUERY ENROLL ADMIN command to verify that the TCP/IP installation and service user ID - 6VMTCP30 and both MAINT and MAINT720 are correctly listed as administrators for the VMSYS file pool: ===> query enroll admin for all vmsys Number Of Administrators = 8 MAINT MAINT720 MIGMAINT 6VMTCP30 VSMGUARD VSMWORK1 VSMWORK2 VSMWORK3 7. Log off TCPMAINT. 8. Log on as MAINT720. 224 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 9. Ensure that both MAINT and TCPMAINT are logged off. If either one is logged on, log them off and IPL CMS again before you proceed: ===> query maint # query tcpmaint HCPCQU045E MAINT not logged on HCPCQU045E TCPMAINT not logged on 10.Use VMLINK to access the TCPMAINT 591 and 592 minidisks: ===> VMLINK TCPMAINT 592 ===> VMLINK TCPMAINT 591 11.Run the SSLPOOL utility with the PLAN option to generate an installation plan for the SSL worker pool.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.182205",
+    "chunk_number": 508,
+    "word_count": 161
+  }
+}

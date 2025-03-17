@@ -1,0 +1,18 @@
+{
+  "content": "system name when entering and leaving configuration mode are also supported. z/VM does not use InfiniBand or ICA, and does not support the use of InfiniBand or ICA coupling links by guests. The supported operating systems are listed in Table 7-5 on page 252. 7.4.4 Storage connectivity-related features and functions In this section, we describe the storage connectivity-related features and functions. zHyperlink Express IBM z14 introduced IBM zHyperLink Express as a brand new IBM Z input/output (I/O) channel link technology since FICON. The zHyperLink Express 1.1 feature is available with new IBM z16 A02 and IBM z16 AGZ systems and is designed to help bring data close to processing power, increase the scalability of transaction processing, and lower I/O latency. zHyperLink Express is designed for up to 5x lower latency than High-Performance FICON for IBM Z (zHPF) by directly connecting the IBM Z central processor complex (CPC) to the I/O Bay of the DS8000 (DS8880 or later). This short",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.940580",
+    "chunk_number": 691,
+    "word_count": 159
+  }
+}

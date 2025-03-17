@@ -1,0 +1,18 @@
+{
+  "content": "coupling fanouts. These two fanouts features are housed in the PCIe+ Gen3 I/O fanout slot on the IBM z16 A02 and IBM z16 AGZ CPC drawers. Up 24 ICA SR and ICA SR1.1 features (up to 48 ports) are supported. OM3 fiber optic can be used for distances up to 100 meters (328 feet). OM4 fiber optic cables can be used for distances up to 150 meters (492 feet). For more information, see the following manuals: \u0002 Planning for Fiber Optic Links, GA23-1409 \u0002 3931 Installation Manual for Physical Planning, GC28-7015 4.4.3 Fanout considerations Fanout slots in the CPC drawer can be used to plug different fanouts. On IBM z16 A02 and IBM z16 AGZ, the CPC drawers can hold up to 24 PCIe fanout cards for two-CPC drawers configuration, i.e. Max68, and 12 PCIe fanout cards for one CPC drawer, i.e. Max5, Max16 and Max32. Adapter ID number assignment PCIe fanouts and ports are identified by an Adapter ID (AID) that is initially dependent on their physical locations, which is unlike channels that are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.686992",
+    "chunk_number": 377,
+    "word_count": 175
+  }
+}

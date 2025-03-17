@@ -1,0 +1,18 @@
+{
+  "content": "cluster, all members use the same SYSTEM CONFIG file; however, you can specify that certain configuration statements apply only to specific members by qualifying the statements with a system identifier. This topic has examples of this specifying method. The SYSTEM CONFIG file resides on a special CMS-formatted minidisk (CF0) that belongs to the PMAINT user ID. Minidisks that contain such objects are called \u201cparameter (parm) disks\u201d because when they are allocated, those disks are given a special record category type called \u201cPARM\u201d. More than one parm disk can be allocated in a z/VM system for backup and recovery. More subcommands for XEDIT also are described. 6.5.1 Modifying features and optimizing parameter settings The FEATURES statement in SYSTEM CONFIG allows you to modify attributes that are associated with the running system at IPL time. Some defaults were changed on z/VM 7.2. The following important features options were changed: \u0002 The Auto_Warm_IPL feature causes CP to bypass",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.529244",
+    "chunk_number": 340,
+    "word_count": 155
+  }
+}

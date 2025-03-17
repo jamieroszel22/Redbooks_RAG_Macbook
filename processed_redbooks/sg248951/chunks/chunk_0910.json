@@ -1,0 +1,18 @@
+{
+  "content": "(3931) Technical Guide 9.2.2 Main memory IBM z16 memory consists of the following features: \u0002 Up to 48 DIMM are used per drawer in two rows (40 TB system maximum): \u2013 Organized in 8-channel Reed-Solomon RAIM groups \u2022 50% reduced RAIM overhead (compared to IBM z15) \u2022 RAIM protection (similar to IBM z15) \u2013 Up to three chip marks and one channel mark \u2013 DDR4 DRAM with on chip power regulation: N+1 voltage regulators \u2013 Standard Open Memory Interface (OMI); up to six OMI per drawer: \u2022 CRC/Retry for soft errors \u2022 Degrade bus lanes from four lanes to two lanes on hard error \u2013 No waiting for all eight RAIM channels, use first seven to respond: \u2022 RAIM recovery is used to enhance performance without affecting RAS \u2022 Processor uses data from the first seven channels to respond \u2022 Refetch data by using all eight RAIM channels if an error occurs \u0002 Flexible memory: \u2013 Provides more physical memory DIMMs that are needed to support activation of all customer-purchased memory and HSA on a multiple drawer",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.678867",
+    "chunk_number": 910,
+    "word_count": 177
+  }
+}

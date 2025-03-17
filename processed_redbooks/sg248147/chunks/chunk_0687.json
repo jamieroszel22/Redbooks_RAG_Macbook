@@ -1,0 +1,18 @@
+{
+  "content": "RegionID, field 1, is set to the VolSer, field 2. Fields 3 and 4 set the cylinder range to all cylinders except cylinder 0, and the Dev-Type, the last field, informs DirMaint of the size of the disk. Each region name is also added to one or more GROUPs. If you are not sure of the device type, use the QUERY DASD DETAILS <rdev> command from MAINT or MAINT720 user ID that has the CP class to issue this command. Example 10-2 is an example of a pipe command to get the size information. You can put the DASD addresses individually or issue the command by using a contiguous DASD range. Example 10-2 Example of a pipe to get the size information of each disk pipe cp q da details 9432 94b2 9532 953e 95b2 9632 96b2 | locate /CYLS =/| cons 9432 CUTYPE = 2107-E8, DEVTYPE = 3390-0E, VOLSER = VMBCM1, CYLS = 10017 94B2 CUTYPE = 2107-E8, DEVTYPE = 3390-0E, VOLSER = VMBRL1, CYLS = 10017 9532 CUTYPE = 2107-E8, DEVTYPE = 3390-0E, VOLSER = VMBRL2, CYLS = 10017 953E CUTYPE = 2107-E8, DEVTYPE = 3390-0E,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.915870",
+    "chunk_number": 687,
+    "word_count": 188
+  }
+}

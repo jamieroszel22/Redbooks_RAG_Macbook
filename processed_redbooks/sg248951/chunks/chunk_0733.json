@@ -1,0 +1,18 @@
+{
+  "content": "forward to an IBM z15 (T01 and T02), and ordered with a new IBM z16 A01 The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. OSA-Express7S Gigabit Ethernet LX and SX (carry forward) IBM z16 introduces an Ethernet technology refresh with OSA-Express7S Gigabit Ethernet features to be installed in the PCIe I/O drawer, which is supported by the 16 GBps PCIe Gen3 host bus. The performance characteristics are comparable to the OSA-Express6S features and they also retain the same form factor and port granularity. Each adapter can be configured in the following modes: \u0002 QDIO, with CHPID types OSD \u0002 Local 3270 emulation, including OSA-ICC, with CHPID type OSC The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. Note: Operating system support is required to recognize and use the second port on the OSA-Express6S 1000BASE-T Ethernet feature. 304 IBM z16 (3931) Technical Guide OSA-Express7S 1000BASE-T Ethernet",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.099618",
+    "chunk_number": 733,
+    "word_count": 164
+  }
+}

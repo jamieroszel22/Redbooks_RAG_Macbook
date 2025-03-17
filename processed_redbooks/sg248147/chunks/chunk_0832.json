@@ -1,0 +1,18 @@
+{
+  "content": "files, which are on PERFSVM\u2019s D disk, to your A disk: ===> copy * * d = = a 4. The main configuration file is FCONX $PROFILE. Edit that file and search for the string VMCF: ===> x fconx $profile ====> /VMCF This search takes you to line 149 where the next eight lines are comments that start with an asterisk (*). Complete the following changes: \u2013 Uncomment the second, fourth, sixth, and eighth lines by changing *C to FC. \u2013 Change maxconn from 10 to 100 on the fourth line so that you can raise the connections limit. \u2013 Change port 81 to 80 on the fourth line so that you can use a browser interface without needing to specify port 81 on the URL (with a :81 suffix). The modified lines look similar to the lines that are shown in Example 12-3. Save your changes by using the FILE command. Example 12-3 Modifications to the FCONX $PROFILE. * Following command activates VMCF data retrieval interface FC MONCOLL VMCF ON * Define the maximum allowed number of Internet connections FC MONCOLL WEBSERV",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.414609",
+    "chunk_number": 832,
+    "word_count": 183
+  }
+}

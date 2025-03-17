@@ -1,0 +1,18 @@
+{
+  "content": "Channel Endpoint Security feature (FC 1146). FC 1146 provides FC/FCP link encryption and endpoint authentication. This optional priced feature requires the following components: \u0002 FICON Express32S and FICON Express16SA (carry forward) for both link encryption and endpoint authentication \u0002 FICON Express16S+ (carry forward) for endpoint authentication only \u0002 Select DS8000 storage \u0002 Supporting infrastructure: IBM Security Guardium Key Lifecycle Manager \u0002 CPACF enablement (FC 3863) For more information, see this announcement letter. FICON Express16SA FICON Express16SA (carry forward to IBM z16 server) supports a link data rate of 16 gigabits per second (Gbps) and auto negotiation to 8 Gbps for synergy with switches, directors, and storage devices. With support for native FICON, High-Performance FICON for IBM Z (zHPF), and Fibre Channel Protocol (FCP), the IBM z16 server enables you to position your SAN for even higher performance, which helps you to prepare for an end-to-end 16 Gbps",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.934734",
+    "chunk_number": 688,
+    "word_count": 147
+  }
+}

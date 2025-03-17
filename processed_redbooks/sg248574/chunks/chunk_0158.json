@@ -1,0 +1,18 @@
+{
+  "content": "What makes this approach powerful is that the knowledge that is curated in these taxonomies is used to generate synthetic data. Unlike traditional fine-tuning methods that rely heavily on vast amounts of manually labeled training data, InstructLab uses SDG to produce the training examples that are needed to adjust model behavior. This task is accomplished by feeding the curated taxonomies into the system (composed of Knowledge and Skills taxonomies), which contains question-answer pairs and other types of data. 68 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai An example of Skills taxonomies is provided in Figure 5-7, where the Skill that is defined here is made to make a model learn to better interpret particular tables. Figure 5-7 Skill Taxonomy example This data generation process is not random: It follows predefined patterns based on the taxonomy\u2019s structure, which helps ensure that the synthetic examples are highly relevant to the domain. This synthetic",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.810788",
+    "chunk_number": 158,
+    "word_count": 156
+  }
+}

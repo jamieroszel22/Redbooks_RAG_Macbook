@@ -1,0 +1,18 @@
+{
+  "content": "introduced with IBM z16 A02 and IBM z16 AGZ. OSA-Express7S 1.2 GbE SX (FC 0455) and OSA-Express7S 1.2 10 GbE LX (FC 0454) are installed in the PCIe+ I/O Drawer and have two GbE physical ports. The features connect to a GbE switch and do not support auto-negotiation to a different speed. Chapter 7. Operating system support 297 Each adapter can be configured in the following modes: \u0002 QDIO mode, with CHPID types OSD \u0002 Local 3270 emulation mode, including OSA-ICC, with CHPID type OSC The supported operating systems are listed in Table 7-8 on page 255 and Table 7-9 on page 257. OSA-Express7S 1.2 1000BASE-T features (FC 0458) OSA-Express7S 1.2 features are an Ethernet technology refresh introduced with IBM z16 A02 and IBM z16 AGZ. The performance characteristics are comparable to the OSA-Express7S and OSA-Express6S features and they also retain the same form factor and port granularity. Each adapter can be configured in the following modes: \u0002 QDIO mode, with CHPID types OSD \u0002 Non-QDIO mode,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.106102",
+    "chunk_number": 735,
+    "word_count": 167
+  }
+}

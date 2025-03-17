@@ -1,0 +1,18 @@
+{
+  "content": "465 consider the workload characteristics and LPAR configuration. For these reasons, the use of zPCR and involving IBM technical support are recommended when you plan capacity. 12.9 Capacity planning for z16 A02 and AGZ In this section, we describe recommended ways conduct capacity planning for z16 A02 and AGZ. 12.9.1 Collect CPU MF counter data It is important to recognize the LSPR workload type of your production system. As described in 12.7, \u201cCPU MF counter data and LSPR workload type\u201d on page 463, the capacity of the processor is different from the LSPR workload type. By collecting the CPU MF SMF 113 record, you can recognize the workload type in a specific IBM-provided capacity planning tool. Therefore, collecting CPU MF counter data is a first step to begin the capacity planning. 12.9.2 Creating EDF file with CP3KEXTR EDF file is an input file of the IBM Z capacity planning tool. You can create this file by using the CP3KEXTR program. The CP3KEXTR program reads SMF records and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.275844",
+    "chunk_number": 1088,
+    "word_count": 167
+  }
+}

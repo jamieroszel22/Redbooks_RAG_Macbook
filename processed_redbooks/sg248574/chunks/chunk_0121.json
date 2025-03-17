@@ -1,0 +1,18 @@
+{
+  "content": "into existing applications, we briefly walk through how to call these models, and integrate them into the DevOps and ModelOps lifecycle. 4.9.1 Calling ML models by using API calls When you have built a model, your ML model is live and ready to perform as an inference endpoint. This endpoint is your gateway to interact with the model so that you can send data and receive predictions in return. Here, we walk through how you can use it effectively. Securing your API key Before making any calls to your endpoint, you need an API key for secure access. For more information about generating this key, see 4.8, \u201cwatsonx.ai LLM deployment\u201d on page 45. Here is a quick overview: 1. Go to your deployed model in watsonx.ai Studio. 2. Go to the Access tab under the Deployment settings. 3. Generate your API key and store it securely. (You use it to authenticate your requests.) Chapter 4. Building and using artificial intelligence models 51 Making an API call With your API key in hand, you are ready",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.632479",
+    "chunk_number": 121,
+    "word_count": 175
+  }
+}

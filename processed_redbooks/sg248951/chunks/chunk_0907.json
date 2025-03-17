@@ -1,0 +1,18 @@
+{
+  "content": "Technical Guide \u0002 The processor recovery logic is on the DCM and includes the following RAS characteristics: \u2013 PU refresh for soft errors \u2013 Hardened RU (recovery unit) with wordline failure detection \u2013 Improved latch interleaving (spacing) for soft error resistance \u2013 Core sparing for hard errors: All servers ship with two spare cores \u2013 Improved long-term thresholding \u2013 Redesigned nest \u2013 Concurrent repair by way of concurrent drawer repair (CDR) \u2013 Concurrent upgrade by way of LICCC and enhanced drawer availability (EDA) \u0002 L1 and L1 shadow: L1 shadow is new on IBM z16 and includes the following characteristics: \u2013 Behaves like the L1 (for repairs) \u2013 Contains changed data \u2013 All unrecoverable error (UE) checkstop core: UEs are refetched before acting \u2013 UE impact depends on system state: \u2022 Before end OP, IPD without storage validity \u2022 Before SIE sync, System Damage \u0002 IBM Z Integrated Accelerator for AI (AIU) AIU is an on-chip AI Accelerator, which is new on IBM z16. AIU behaves like a",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.671032",
+    "chunk_number": 907,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "supported. 46 IBM z16 (3931) Technical Guide 2.5.7 Flexible Memory Option With the Flexible Memory Option, more physical memory is supplied to support the activation of the purchased memory entitlement in a single CPC drawer that is out of service during activation (POR), or in a scheduled concurrent drawer upgrade (memory add) or drawer maintenance (n+1 repair) with the use of enhanced drawer availability. When you order memory, you can request extra flexible memory. The extra physical memory, (if required) is calculated by the configuration and priced accordingly. The required memory DIMMs are installed before shipping and are based on a target capacity that is specified by the customer. These memory DIMMs are enabled by using a Licensed Internal Code Configuration Control (LICCC) order that is placed by the customer when they determine more memory capacity is needed. The flexible memory sizes that are available for the IBM z16 A01 are listed in Table 2-10. Table 2-10 Flexible",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.766177",
+    "chunk_number": 151,
+    "word_count": 158
+  }
+}

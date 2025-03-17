@@ -1,0 +1,18 @@
+{
+  "content": "CPCs Chapter 2. Central processor complex hardware components 23 The IBM z16 A01 can be configured with 1 - 4 CPC drawers (three in the A frame and one in the B frame). A CPC drawer and its components are shown in Figure 2-6. Figure 2-6 CPC drawer components (top view) The IBM z16 Model A01 5u CPC drawer always contains four Processor Unit (PU) DCMs, and up to 48 memory DIMMs. Depending on the feature, the IBM z16 A01 contains the following CPC components: \u0002 The number of CPC drawers installed is driven by the following feature codes: \u2013 FC 0667: One CPC drawer, Max39, up to 39 characterizable PUs \u2013 FC 0668: Two CPC drawers, Max82, up to 82 characterizable PUs \u2013 FC 0669: Three CPC drawers, Max125, up to 125 characterizable PUs \u2013 FC 0670: Four CPC drawers, Max168, up to 168 characterizable PUs \u2013 FC 0671: Four CPC drawers, Max200, up to 200 characterizable PUs \u0002 The following Processor Unit DCM is used: PU DCM contains two PU chips (Telum) on one single module that use 7 nm silicon wafer",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.581432",
+    "chunk_number": 113,
+    "word_count": 184
+  }
+}

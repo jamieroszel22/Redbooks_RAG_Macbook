@@ -1,0 +1,18 @@
+{
+  "content": "enough to hold one day\u2019s worth of data. (Because two disks are available, it can hold double that amount per day.) \u0002 The RACFSMF 192 archive disk needs to be large enough to hold 'n' archives, where 'n' is your defined value, as a safety mechanism. The oldest files need to be erased as required to make room for the latest archive. Warning: As shipped, RACFSMF does not wrap; it simply sends a message to OPERATOR when the disk is 80% full. \u0002 You must modify RACFSMF to send the newly archived file to a more permanent location. It can use File Transfer Protocol (FTP) to send it, put it in SFS, SENDFILE to IBM MVS, dump to tape, or IBM FlashCopy\u00ae the 192 to the next in a series of disks. It is useful to have several pre-packaged skeleton activities in SMFPROF. Chapter 6. Configuring z/VM 157 RDR FILE 0004 SENT FROM DIRMAINT PUN WAS 0005 RECS 4539 CPY 001 A NOHOLD NOKEEP DVHREQ2289I Your USER request for MAINT at * has completed; with RC = 0. Receive the file onto the 7VMRAC20 191 disk (F).",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.637271",
+    "chunk_number": 369,
+    "word_count": 187
+  }
+}

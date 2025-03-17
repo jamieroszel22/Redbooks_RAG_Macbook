@@ -1,0 +1,18 @@
+{
+  "content": "enhancement \u0002 The new RAIM scheme achieves a higher ratio of data to ECC symbols, while also providing an additional chip mark. 9.5 Reducing touches IBM Z RAS efforts focus on the reduction of unscheduled, scheduled, planned, and unplanned outages. IBM Z technology has a long history of demonstrated RAS improvements, and this effort continues with changes that reduce service touches on the system. Firmware was updated to improve filtering and resolution of errors that do not require action. Enhanced integrated sparing in processor cores, cache relocates, N+1 SEEPROM and POL3 N+2 redundancies, and DRAM marking also are incorporated to reduce touches. The following RAS enhancements reduce service touches: \u0002 Improved error resolution to enable filtering \u0002 Enhanced integrated sparing in processor cores \u0002 Cache relocates \u0002 N+1 SEEPROM \u0002 N+2 POL \u0002 DRAM marking \u0002 (Dynamic) Spare BUS lanes for PU-PU, PU-MEM, MEM-MEM fabric \u0002 N+1 Support Element (SE) (with N+1 SE power supplies) \u0002 Redundant",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.683125",
+    "chunk_number": 909,
+    "word_count": 157
+  }
+}

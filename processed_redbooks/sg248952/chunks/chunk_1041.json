@@ -1,0 +1,18 @@
+{
+  "content": "IBM Z hardware, robustness, and security in a workload optimized environment. A system can be configured in DPM mode or in PR/SM mode (POR is required to switch modes). DPM supports in general the following functions: \u0002 Create, provision, and manage partitions (processor, memory, and adapters) and storage \u0002 Monitor and troubleshoot the environment The following LPAR modes are available for DPM: \u0002 z/VM \u0002 Linux on IBM Z (also used for KVM deployments) \u0002 Secure Service Container If DPM is enabled, the IBM z16 A02 and IBM z16 AGZ cannot run z/OS, 21CS VSEn, and z/TPF LPARs. The IBM z16 A02 and IBM z16 AGZ can be initialized in PR/SM mode or in Dynamic Partition Manager (DPM) mode. No mix. 438 IBM z16 A02 and IBM z16 AGZ Technical Guide DPM provides a GUI for PR/SM to manage resources. Tools like HCD are in DPM mode not necessary. This book does not cover scenarios that use DPM. For more information about the use of DPM, see IBM Dynamic Partition Manager (DPM) Guide, SB10-7182. Important:",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.149448",
+    "chunk_number": 1041,
+    "word_count": 175
+  }
+}

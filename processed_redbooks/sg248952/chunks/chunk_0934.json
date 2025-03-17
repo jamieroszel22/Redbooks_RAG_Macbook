@@ -1,0 +1,18 @@
+{
+  "content": "card sizes and the number of cards that are installed for each drawer can be viewed from the SE under the CPC configuration task list. Use the View Hardware Configuration option. \u2013 ICA SR fanout layouts and ICA to ICA connections. Use the Resource Link machine information to review the channel configuration. This process is a normal part of the I/O connectivity planning. The alternative paths must be separated as far into the system as possible. \u0002 Review the system image configurations to determine the resources for each image. \u0002 Determine the importance and relative priority of each LPAR. \u0002 Identify the LPAR or workloads and the actions to be taken: \u2013 Deactivate the entire LPAR. \u2013 Configure PUs. \u2013 Reconfigure memory, which might require the use of reconfigurable storage unit (RSU) values. \u2013 Vary off the channels. Exception: Single-drawer systems cannot use the EDA procedure. 382 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Review the channel layout and determine whether any changes",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.787724",
+    "chunk_number": 934,
+    "word_count": 166
+  }
+}

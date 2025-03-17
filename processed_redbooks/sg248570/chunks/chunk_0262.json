@@ -1,0 +1,18 @@
+{
+  "content": "workflow, including document ingestion, chunking, embedding generation, vector storage and searching. We also demonstrate how to implement RAG using IBM watsonx, with a practical example. IBM watsonx is an integrated platform for AI and data applications that ensures high scalability and performance, enhanced security and governance, and continuous development with cutting-edge technology. \u00a9 Copyright IBM Corp. 2025. 155 Chapter 10. Data and AI modernization strategy in banking use case By leveraging data-driven insights, banks can enhance customer experience, optimize operations, and gain a competitive edge. This chapter discusses an architecture for modernized data management pattern in banking. This chapter has the following sections: \u0002 \u201cIntroduction\u201d on page 156 \u0002 \u201cData lakehouses: Empowering data-driven decisions in banking\u201d on page 156 \u0002 \u201cData modernization pattern in banking\u201d on page 157 \u0002 \u201cModernized data management pattern in banking on analytic use cases\u201d on page 157 \u0002",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.357410",
+    "chunk_number": 262,
+    "word_count": 143
+  }
+}

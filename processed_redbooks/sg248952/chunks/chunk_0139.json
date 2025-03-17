@@ -1,0 +1,18 @@
+{
+  "content": "multiple zSystems servers to maintain time synchronization with each other and synchronization to an ETS. For more information, see the Redbook: IBM Z Server Time Protocol Guide, SG24-8480. 36 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 2-11 Conceptual overview of system control element - HMA and SEs/ BMCs connections A typical BMC operation is to control a power supply. An SE sends a command to the BMC to start the power supply. The BMC cycles the various components of the power supply, monitors the success of each step and the resulting voltages, and reports the status back to the SE. SEs are duplexed (N+1), and each support element has at least one BMC and two internal Ethernet LANs for redundancy. Crossover capability between the LANs is available so both SEs can operate on both. The Hardware Management Consoles (HMCs) and SEs/HMAs are connected directly to one or two Client Ethernet LANs. One or more HMCs can be used. 2.2.4 CPC drawer power The power for the CPC drawer has",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.713271",
+    "chunk_number": 139,
+    "word_count": 172
+  }
+}

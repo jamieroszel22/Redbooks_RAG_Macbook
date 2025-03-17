@@ -1,0 +1,18 @@
+{
+  "content": "The driver level must move forward to driver level N+1 after CDM is started. Unrecoverable errors during an update might require a scheduled outage to recover. The CDM function does not eliminate the need for planned outages for driver-level upgrades. Upgrades might require a system level or a functional element scheduled outage to activate the new LIC. The following circumstances require a scheduled outage: \u0002 Specific complex code changes might dictate a disruptive driver upgrade. You are alerted in advance so that you can plan for the following changes: \u2013 Design data or hardware initialization data fixes \u2013 CFCC release level change \u0002 OSA CHPID code changes might require PCHID Vary OFF/ON to activate new code. \u0002 Crypto code changes might require PCHID Vary OFF/ON to activate new code. Note: zUDX clients should contact their User Defined Extensions (UDX) provider before installing Microcode Change Levels (MCLs). Any changes to Segments 2 and 3 from a previous MCL level might require a",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.837671",
+    "chunk_number": 955,
+    "word_count": 161
+  }
+}

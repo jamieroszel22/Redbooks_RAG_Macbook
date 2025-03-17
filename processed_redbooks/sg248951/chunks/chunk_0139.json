@@ -1,0 +1,18 @@
+{
+  "content": "\u0002 Each drawer contains minimum 1024 GB of memory. Supported drawer memory configurations are listed in Table 2-8. Each CPC drawer is included from manufacturing with one of these memory configurations. Table 2-8 Drawer memory plugging configurations (all values in GB) 3 Reed-Solomon error correction CFG number M0CP0 MD01-04 and MD25-28 M1CP0 MD05-08 and MD29-32 M1CP1 MD09-12 and MD33-36 M2CP0 MD13-16 and MD37-40 M2CP1 MD17-20 and MD41-44 M3CP0 MD21-24 and MD45-48 Physical INC -HSA 256 GB 22 0 32 32 32 32 0 1024 768 23 0 64 32 64 32 0 1536 512 1280 24 0 64 64 64 64 0 2048 512 1792 25 64 64 64 64 64 0 2560 512 2304 26 64 64 64 64 64 64 3072 512 2816 27 128 64 64 64 64 64 3584 512 3328 28 128 64 64 64 64 128 4096 512 3840 29 128 128 64 64 64 128 4608 512 4352 40 IBM z16 (3931) Technical Guide Consider the following points: \u0002 A CPC drawer contains a minimum of 32 (4x8) 32 GB DIMMs as listed in drawer configuration number 22 in Table 2-8 on page 39. \u0002 A CPC drawer can have more memory that",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.699859",
+    "chunk_number": 139,
+    "word_count": 200
+  }
+}

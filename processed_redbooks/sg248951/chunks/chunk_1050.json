@@ -1,0 +1,18 @@
+{
+  "content": "63 Hz with tolerance) 48 A 2, 4, 6, or 8, 3-phase power cords 380 - 415 V AC 50/60 Hz (47 - 63 Hz with tolerance) 24 A 456 IBM z16 (3931) Technical Guide : Figure 11-1 Rear View of maximum configured PDU system The number of PDUs and power cords that are required based on the number of CPC drawers and PCIe+ I/O drawers are in Table 11-3. Table 11-3 Number of PDUs installed Power consumption The utility power consumption for the IBM z16 for PDU option is listed in Table 11-4. Table 11-4 IBM z16 utility power consumption for PDU Number of CPCs Number of PCIe+ I/O drawers 0 1 2 3 4 5 6 7 8 9 10 11 12 1 2 2 2 2 6 6 6 6 2 4 4 4 4 4 4 4 4 6 6 6 6 6 3 4 4 4 4 4 4 4 6 6 6 6 6 N/A 4 6 6 6 6 6 6 6 6 6 6 8 8 8 FC CPC number Number of PCIe+ I/O drawers 0 1 2 3 4 5 6 7 8 9 10 11 12 max39 FC0667 5.1 kw 6.0 kw 7.0 kw 7.9 kw 8.8 kw 9.7 kw 10.6 kw N/A N/A N/A N/A N/A N/A Chapter 11. Environmental requirements 457 11.2.2 Bulk power assembly The bulk power assembly (BPA) consists of the following",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.166748",
+    "chunk_number": 1050,
+    "word_count": 236
+  }
+}

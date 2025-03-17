@@ -1,0 +1,18 @@
+{
+  "content": "use case, such as rules for testing fairness or screening output for hateful and abusive speech. \u0002 Model Developer or Data Scientist: This role involves working with the data in a dataset or a large language model (LLM) to create the machine learning model or LLM prompt template. Chapter 3. Implementing AI governance strategy 31 \u0002 Model Validator: The validator tests the solution to ensure it meets the goals outlined in the AI use case. \u0002 Model Evaluator: After deployment, the app developer evaluates the deployment to monitor performance against the metric thresholds set by the risk and compliance manager. If performance falls below specified thresholds, the app developer collaborates with other stakeholders to address issues and update the model or prompt template. 3.2.2 Objects Figure 3-3 illustrates the key components of AI governance, which is a critical aspect of ensuring responsible and ethical AI development and deployment. The three main elements of AI governance are model",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.825931",
+    "chunk_number": 100,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "engines in a CF LPAR. Specification of OFF or ON in CF commands and the CF configuration file will be preserved, for compatibility, but a warning message will be issued to indicate that these options are no longer supported, and that DYNDISP=THIN behavior will be used. 3.9.3 Dynamic CF dispatching With the introduction of the Coupling Thin Interrupt support (only available option on IBM z16 A02 and IBM z16 AGZ), which is used only when the CF partition uses shared engines, the CFCC code is changed to handle these interrupts correctly. CFCC was also changed to relinquish voluntarily control of the processor whenever it runs out of work to do. It relies on Note: Parallel sysplex coupling and timing links connectivity for IBM z16 A02 and IBM z16 AGZ is supported to N-2 generation CPCs (z16, z15, and z14). Consideration: IBM z16, z15, and z14 cannot coexist in the same sysplex with IBM z13, IBM z13s or earlier generation systems. 134 IBM z16 A02 and IBM z16 AGZ Technical Guide Coupling",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.574806",
+    "chunk_number": 347,
+    "word_count": 171
+  }
+}

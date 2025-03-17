@@ -1,0 +1,18 @@
+{
+  "content": "z16 directly to I/O Bay of the DS8k by using PCIe Gen3 x 8 physical link (up to 150 meters [492 feet]). A new transport protocol is defined for reading and writing IBM CKD data records9, as documented in the zHyperLink interface specification. On IBM z16, zHyperLink Express1.1 card is a PCIe Gen3 adapter, which installed in the PCIe+ I/O drawer. HCD definition support was added for new PCIe function type with PORT attributes. Requirements of zHyperLink Express1.1 The zHyperLink Express1.1 feature is available on IBM z16 servers, and includes the following requirements: \u0002 z/OS 2.2 or later \u0002 150 m (492 feet) maximum distance in a point-to-point configuration \u0002 Supported DS8000 (see Getting Started with IBM zHyperLink for z/OS, REDP-5493) \u0002 zHyperLink Express1.1 adapter (FC 0451) installed \u0002 FICON channel as a driver \u0002 Only ECKD supported \u0002 z/VM is not supported Up to 16 zHyperLink Express1.1 adapters can be installed in an IBM z16 (up to 32 links). The zHyperLink Express1.1 is",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.876040",
+    "chunk_number": 420,
+    "word_count": 164
+  }
+}

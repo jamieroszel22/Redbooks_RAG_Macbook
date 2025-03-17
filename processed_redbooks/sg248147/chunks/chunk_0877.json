@@ -1,0 +1,18 @@
+{
+  "content": "LV 5 Open LV 4 Max PV 0 Cur PV 2 Act PV 2 VG Size 5.88 GiB PE Size 4.00 MiB Total PE 1504 Alloc PE / Size 1504 / 5.88 GiB Free PE / Size 0 / 0 VG UUID 4i89gF-b0xm-dkHo-blWP-3Kca-0xCI-V6TAXk This output shows no free extents in the volume group. 2. Use the lsdasd command to show the enabled disks: # lsdasd Bus-ID Status Name Device Type BlkSz Size Blocks ============================================================================== 0.0.0700 active dasda 94:0 ECKD 4096 3521MB 901440 0.0.0901 active dasdb 94:4 FBA 512 512MB 1048576 0.0.0900 active dasdc 94:8 FBA 512 256MB 524288 0.0.0701 active dasdd 94:12 ECKD 4096 3521MB 901440 0.0.0702 active dasde 94:16 ECKD 4096 3521MB 901440 0.0.0703 active dasdf 94:20 ECKD 4096 3521MB 901440 0.0.0704 active dasdg 94:24 ECKD 4096 7042MB 1802880 This output shows that minidisk 104 is at /dev/dasdg. 3. Make minidisk 104 a physical volume with the pvcreate command: # pvcreate /dev/dasdg1 Physical volume \"/dev/dasdg1\" successfully created 4. Use the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.576504",
+    "chunk_number": 877,
+    "word_count": 161
+  }
+}

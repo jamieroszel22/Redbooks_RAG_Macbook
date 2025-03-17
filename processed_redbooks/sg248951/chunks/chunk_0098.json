@@ -1,0 +1,18 @@
+{
+  "content": "of the IBM z15\u2122 family with the following RAS improvements: \u0002 System Recovery Boost \u2013 System Recovery Boost was introduced with IBM z15. It offers customers more Central Processor (CP) capacity during system recovery operations to accelerate the startup (IPL), shutdown, or stand-alone memory dump operations (at image level - LPAR11). System Recovery Boost requires operating system support. No other IBM software charges are made during the boost period. System Recovery Boost can be used during LPAR shutdown or start to make the running operating system and services available in a shorter period. The System Recovery Boost provides the following options for the capacity increase: \u2022 Subcapacity CP speed boost: During the boost period, subcapacity engines that are allocated to the boosted LPAR are transparently activated at their full capacity (CP engines). \u2022 zIIP Capacity Boost: During the boost period, all active zIIPs that are assigned to an LPAR are used to extend the CP capacity (CP",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.518770",
+    "chunk_number": 98,
+    "word_count": 157
+  }
+}

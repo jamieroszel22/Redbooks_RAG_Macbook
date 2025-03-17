@@ -1,0 +1,18 @@
+{
+  "content": "traditional metrics to monitor against. For more information, see Quality evaluations. Additionally, users can implement their own custom evaluation metrics. For custom metrics implementation, users can use this sample notebook from the IBM GitHub. Note: This subsection will utilize code-driven approaches. For more information, see Tracking a machine learning model. Chapter 6. Governing the end-to-end lifecycle of an AI asset 71 Inventory and AI use case setup AI Inventories are used to hold AI use cases. These Inventories are agnostic to asset type - a generative AI use case can be held in the same inventory as a traditional ML/AI use case. Inventory setup This notebook from IBM's github showcases how to create an AI Inventory. This sample notebook demonstrates a variety of functionality including: \u0002 Open a new AI inventory \u0002 Add collaborators \u0002 Delete inventory \u0002 Modify existing inventories Because the AI Inventory concept is native to watsonx.governance, it is always implemented",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.154500",
+    "chunk_number": 190,
+    "word_count": 154
+  }
+}

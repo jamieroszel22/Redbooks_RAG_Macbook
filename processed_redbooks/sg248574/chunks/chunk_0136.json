@@ -1,0 +1,18 @@
+{
+  "content": "practices for incorporating system tokens are to understand model documentation. Because the behavior of system tokens is model-dependent, consulting the model's technical documentation is essential to understanding how tokens are implemented and what variations are supported. 60 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai 5.1.4 How watsonx.ai supports prompt engineering Regarding prompt engineering, the simplest way to interact with LLMs is extensive but peculiar. Fortunately, the watsonx.ai platform enables prompt engineering by providing a series of tools for its usage. Figure 5-2 shows a series of these tools in the Prompt Lab section of watsonx.ai. Figure 5-2 watsonx.ai Prompt Lab dashboard Prompt Lab is the main area to access and interact with LLMs. Here, it is possible to interact with models and perform prompt engineering techniques. In Prompt Lab, users have three modes to select from to interact with LLMs: \u0002 Chat mode: Provides a simplistic,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.707213",
+    "chunk_number": 136,
+    "word_count": 151
+  }
+}

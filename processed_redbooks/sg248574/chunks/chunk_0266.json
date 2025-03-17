@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.ai platform was used to generate a 1 - 2 paragraph summary of each of the essays, which was included with the application abstracts. Figure 7-1 shows the watsonx.ai workflow that accomplished this task. Figure 7-1 watsonx.ai workflow example Chapter 7. Use cases 111 7.1.3 Special considerations From the start of this project, both IBM and the medical school recognized the importance of developing a solution that met the institution's needs and aligned with IBM AI Ethics. The usage of AI in the admissions process raised important ethical considerations, such as helping ensure fairness, transparency, and accountability. The goal was to create a system that would augment human decision-making rather than replace it, and provide the admissions committee with the tools that they needed to make informed decisions. The project incorporated a range of both technical and non-technical guardrails to address AI ethics considerations throughout the project lifecycle: \u0002 Augmenting human",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.248047",
+    "chunk_number": 266,
+    "word_count": 151
+  }
+}

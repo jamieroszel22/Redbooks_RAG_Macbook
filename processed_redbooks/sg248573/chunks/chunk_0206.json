@@ -1,0 +1,18 @@
+{
+  "content": "texts from multiple data sources, enabling lawyers to track regulatory changes and link them to specific business units and banking product offerings, such as banking cards and insurance. The client required a governance tool to: \u0002 Aggregate legal texts from multiple data sources. \u0002 Maintain a history of regulatory changes and link this data to impacted products and business units. 7.1.4 Client challenges The client wants to address the challenges in the following areas: \u0002 The client faced significant hurdles in streamlining their governance, risk, and compliance (GRC) processes: \u2013 Fragmented data systems: GRC data was scattered across multiple disparate systems, creating silos and making it difficult to obtain a unified view of risks. \u2013 Manual dependency: Reliance on manual processes for managing GRC was inefficient and error-prone, especially in the context of the monitoring and management of the rapid number of regulatory changes. \u0002 The handling of large volumes of data, which",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.215156",
+    "chunk_number": 206,
+    "word_count": 153
+  }
+}

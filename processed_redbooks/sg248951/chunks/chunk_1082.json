@@ -1,0 +1,18 @@
+{
+  "content": "instructions and data must be retrieved from farther out in the hierarchy, the processor spends more time waiting for their arrival. As workloads are moved between processors with various memory hierarchy designs, performance varies because the average time to retrieve instructions and data from within the memory hierarchy varies. Also, when on a processor, this component continues to vary because the location of a workload\u2019s instructions and data within the memory hierarchy is affected by several factors that include, but are not limited to, the following factors: \u0002 Locality of reference \u0002 I/O rate \u0002 Competition from other applications and LPARs 12.4 Relative Nest Intensity The most performance-sensitive area of the memory hierarchy is the activity to the memory nest. This area is the distribution of activity to the shared caches and memory. The term Relative Nest Intensity (RNI) indicates the level of activity to this part of the memory hierarchy. By using data from CPU MF, the RNI",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.254365",
+    "chunk_number": 1082,
+    "word_count": 159
+  }
+}

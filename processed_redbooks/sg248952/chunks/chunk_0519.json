@@ -1,0 +1,18 @@
+{
+  "content": "starting the cryptographic hardware features. Other functions result in ICSF going into routines that contain proprietary IBM Z crypto instructions. These instructions are run by a CPU engine and result in a work request that is generated for a cryptographic hardware feature. Chapter 6. Cryptographic features 211 6.4 CP Assist for cryptographic functions Attached to every PU (core) of a IBM z16 A02 and IBM z16 AGZ are two independent engines, one for compression and one for cryptographic functions, as shown in Figure 6-4. Figure 6-4 The cryptographic coprocessor CPACF This cryptographic coprocessor, which is known as the CPACF, is not qualified as an HSM; therefore, it is not suitable for handling algorithms that use secret keys. However, the coprocessor can be used for cryptographic algorithms that use clear keys or protected keys. The CPACF works synchronously with the PU, which means that the owning processor is busy when its coprocessor is busy. This setup provides a fast device",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.231132",
+    "chunk_number": 519,
+    "word_count": 159
+  }
+}

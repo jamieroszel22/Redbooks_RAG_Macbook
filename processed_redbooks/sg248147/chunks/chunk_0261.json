@@ -1,0 +1,18 @@
+{
+  "content": "7.2 5.1 Obtaining z/VM through electronic download z/VM can be ordered and delivered electronically through IBM Shopz. A detailed description is outside the scope of this book; however, short steps are documented. The steps and links might change over time, but the basic process will remain the same. You can download the z/VM product installer to a staging machine, such as a workstation, as we did in this example, and later upload them to a File Transfer Program (FTP) server. However, you can also download them directly to the machine that will be the FTP server, such as a Linux personal computer if it has access to the Internet. 5.1.1 Placing the order To order z/VM, complete the following steps: 1. Visit the z/VM Buy/Order page at the following URL: http://www.ibm.com/vm/buy/ \u2013 You might want to review the links that describe the System Delivery Offering (SDO) and Subscription and Support (S&S) so you understand the details. \u2013 When you are ready to proceed, under the heading How to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.184979",
+    "chunk_number": 261,
+    "word_count": 168
+  }
+}

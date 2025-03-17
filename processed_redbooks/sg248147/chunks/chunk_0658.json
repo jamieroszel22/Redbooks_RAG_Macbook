@@ -1,0 +1,18 @@
+{
+  "content": "command processing is in progress, which might require several seconds (or minutes) to complete VMFCTR4078I Transfer results: 4 of 4 files successfully transferred VMFCTR4084I Initiating installation of package C5756289 for system RDBKZVMC VMFCTR2936I PKGLOAD command processing is in progress, which might require several seconds (or minutes) to complete VMFCTR4085I SEND processing for system RDBKZVMC is complete VMFCTR2760I CSMTRNSP processing completed successfully (RC=0) VMFCSV2760I CSMSRVMT EXEC processing completed successfully (RC=0) VMFCMG2760I SERVMGR processing completed successfully (RC=0) Ready; Reviewing the console of our managed system, we saw that VMCSM logged on the MAINT720 ID several times during the SEND action. If a problem occurs during the package send action, messages are recorded in the $CSMCMG $MSGLOG file. After any problems are rectified, the SERVMGR SERVLVL SEND command is run again with the (RESTART option. 9.3.6 Putting the service into production The",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.809390",
+    "chunk_number": 658,
+    "word_count": 139
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "failure can be reviewed. For the GUI and Web Services APIs the HMC returns a message indication that the login has failed. No additional information is provided. \u0002 HMC/SE TLS 1.3 support With Driver 51/Version 2.16.0, the HMC and SE support TLS 1.3. Before setting the TLS level to 1.3, you have to ensure that all services and servers connecting via TLS to the HMC and SE do support TLS 1.3 as well (for example, the remote browser, LDAP Authentication Servers, WebServices API connections, Fibre Channel End Point Security, FTPS, Single Object Operations). TLS 1.0 and 1.1 are not supported with Driver 51/Version 2.16.0. If minimum TLS version is set to 1.2, TLS 1.3 will be attempted first, then fall back to TLS 1.2 if required. 1 IBM ID is required for authentication and access to Resource Link. 396 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 10-1 on page 396 shows the HMC panel that allows the selection of the desired TLS version. Figure 10-1 Minimum TLS version selection on HMC \u0002",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.868646",
+    "chunk_number": 962,
+    "word_count": 175
+  }
+}

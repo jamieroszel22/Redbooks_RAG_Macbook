@@ -1,0 +1,18 @@
+{
+  "content": "governance strategy, an organization should start by analyzing various factors including: regions where it operates and utilizes AI models, the industry it serves, the specific AI tools and applications it relies on, its organizational structure, and its existing technology stack (for example, IBM Watson Studio). This evaluation will help the organization understand its operational landscape and tailor its AI governance strategy to address its specific needs. A well-designed governance strategy enables the organization to manage cross-team collaboration efforts, control access to sensitive data, and ensure compliance with regional regulations. Additionally, it helps support the implementation of a clear communication, aligning stakeholders and providing a strong foundation for continuous monitoring, auditing, transparency, and accountability over time. 40 Ensuring Trustworthy AI with IBM watsonx.governance \u00a9 Copyright IBM Corp. 2025. 41 Chapter 4. Onboarding a new foundation model The",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.907704",
+    "chunk_number": 123,
+    "word_count": 136
+  }
+}

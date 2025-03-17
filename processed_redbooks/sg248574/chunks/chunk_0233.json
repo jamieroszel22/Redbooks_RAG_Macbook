@@ -1,0 +1,18 @@
+{
+  "content": "belief state, which is an internal model that encapsulates its understanding of the world, its knowledge of tasks at hand, and its memory of past interactions. This belief state is dynamic and constantly updated through observations, actions, and communications with other agents or external systems. The belief state also integrates inputs from memory. Memory is bifurcated into long-term and short-term storage, each serving distinct roles. Short-term memory retains ephemeral information that is crucial for immediate task execution and contextual reasoning. For example, an agent might use short-term memory to temporarily store user input or intermediate results of calculations. In contrast, long-term memory preserves knowledge that is accumulated over time, such as procedural expertise, domain-specific facts, or historical interactions. The integration of memory with the agent\u2019s belief state helps ensure that decisions are informed by both the immediate context and historical knowledge.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.118815",
+    "chunk_number": 233,
+    "word_count": 141
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "activated up to a 710. On top of the active Flexible Capacity sits a TFP-Hardware capacity of two extra CPs to a maximum of 712. The inactive part of the Flexible Capacity record floats on top of the TFP-Hardware capacity. System A is in a Sysplex with System B that has the same configuration. Now, the data-center operator decides to perform maintenance on System A and transfers its active Flexible Capacity to System B. 526 IBM z16 (3931) Technical Guide Figure D-11shows the configuration of both machines after the transfer. Figure D-11 Flexible Capacity with two site sysplex - transfer System A transferred all of its Flexible Capacity to System B and is left with only the base capacity of 401. On top of the base capacity sits the TFP-Hardware capacity. Now, System A can safely perform maintenance. System B has now the entire Flexible Capacity record activated and shows an active capacity of 720. The TFP-Hardware capacity sits again on top of the active capacity and adds now another 2",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.411360",
+    "chunk_number": 1154,
+    "word_count": 171
+  }
+}

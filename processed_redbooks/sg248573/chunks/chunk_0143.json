@@ -1,0 +1,18 @@
+{
+  "content": "considering a new foundation model, an ethical stakeholder will want to consider at least the following dimensions. 4.3.1 Fairness An AI system or a model should be fair and free of any direct or indirect bias in its prediction. With the AI system using a foundation model, the foundation model itself needs to be evaluated for fairness. Bias can be detected by evaluating the foundation model for differences in accuracy and performance by using social demographic-protected attributes. A model can exhibit fairness issues in various ways. If the model is looked at in isolation and without sufficient context, it might not appear to exhibit a favorable or unfavorable outcome. In other cases, the model output can decide the prioritization level and can introduce bias in the entire end-to-end process where the source of bias is tied to the model behavior. It is critical that the business owners, stakeholders, and designers look at the model in the context of the overall ecosystem where the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.982122",
+    "chunk_number": 143,
+    "word_count": 163
+  }
+}

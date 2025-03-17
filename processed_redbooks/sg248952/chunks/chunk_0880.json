@@ -1,0 +1,18 @@
+{
+  "content": "CP CBU features. During an activation, many target configurations are available. With four CP CBU features, you can add up to 4 CPs within the same MCI, which enables the activation of a B03, B04, B05, or a B06 (the blue path). Alternatively, two CP CBU features can be used to change the MCI (in the example from a B02 to a E02) and then add the remaining two CP CBU features to upgrade to a E04 (the red path). Figure 8-12 CBU example Tip: The CBU test activation is done the same way as the real activation; that is, by using the same Perform a Model Conversion task and selecting the Temporary upgrades option. The HMC windows were changed to avoid accidental real CBU activations by setting the test activation as the default option. Chapter 8. System upgrades 355 8.8.3 Automatic CBU enablement for GDPS The IBM Geographically Dispersed Parallel Sysplex (GDPS) enables automatic management of the PUs that are provided by the CBU feature during a system or site failure. Upon detection of a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.600848",
+    "chunk_number": 880,
+    "word_count": 176
+  }
+}

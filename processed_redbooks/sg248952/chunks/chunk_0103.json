@@ -1,0 +1,18 @@
+{
+  "content": "tamper-responding Crypto-Express8S features provide acceleration for high-performance cryptographic operations and support up to 40 domains with IBM z16 A02 and IBM z16 AGZ. This specialized hardware performs AES, DES and TDES, RSA, Elliptic Curve (ECC), SHA-1, and SHA-2, and other cryptographic operations. It supports specialized high-level cryptographic APIs and functions, including those functions that are required with quantum-safe cryptography and in the banking industry. Crypto-Express8S features are designed to meet the Federal Information Processing Standards (FIPS) 140-2 Level 4 and PCI HSM security requirements for hardware security modules. IBM z16 A02 and IBM z16 AGZ are the industry's first quantum-safe systems9. \u0002 IBM z16 A02 and IBM z16 AGZ quantum-safe secure boot technology helps to protect IBM Z firmware from quantum attacks through a build-in dual signature scheme with no changes required. \u0002 IBM z16 A02 and IBM z16 AGZ quantum-safe technology and key management",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.548637",
+    "chunk_number": 103,
+    "word_count": 145
+  }
+}

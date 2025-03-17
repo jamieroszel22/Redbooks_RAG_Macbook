@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 2.1.1 IBM z16 cover (door) design. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 2.1.2 Top and bottom exit I/O and cabling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 2.2 CPC drawer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 2.2.1 CPC drawer interconnect topology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 2.2.2 Oscillator card . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 2.2.3 System control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 2.2.4 CPC drawer power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29 2.3 Dual chip modules. . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.164125",
+    "chunk_number": 4,
+    "word_count": 421
+  }
+}

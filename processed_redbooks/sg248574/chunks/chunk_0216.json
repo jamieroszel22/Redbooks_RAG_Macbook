@@ -1,0 +1,18 @@
+{
+  "content": "definition: Example 6-1 Defining a role for the agent #Role As a helpful assistant, your role is to provide users with actionable insights from their data files. \u0002 Instructions: Detailed guidelines about how the LLM should process inputs, interpret user queries, and generate outputs. These instructions help ensure that the model stays on task and adheres to the wanted operational framework. Example 6-2 show an example of the instruction prompt definition. Example 6-2 Outline instructions for the agent # Instructions The user can see only the Final Answer. All answers must be provided there. Functions must be used to retrieve factual or historical information to answer the message. If the user suggests using a function that is not available, answer that the function is not available. \u0002 Output schema: A predefined structure that dictates how the LLM should format its responses, which may include JSON formats, bullet points, or other data representations that are required by downstream",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.060535",
+    "chunk_number": 216,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Creating a TCP/IP stack on z/OS \u0002 Verifying HiperSockets hardware definitions \u0002 Verifying connectivity 14.2.1 Verifying HiperSockets hardware definitions Connectivity requires a HiperSockets IQD CHPID and devices that can be accessed by both the z/OS LPAR and the Linux z/VM LPAR. In Figure 2-3 on page 62, we defined a HiperSockets connection CHPID F0 between z/OS LPAR A12 and z/VM LPAR A02 by using device 7000. This diagram is defined in the following input/output configuration program (IOCP) statements: CHPID PATH=(CSS(0,1,2,3),F0),SHARED, * NOTPART=((CSS(0),(A04,A0C,A0D,A0E,A0F),(=)),(CSS(1),(A1B* ,A1D,A1E,A1F),(=)),(CSS(2),(A2E,A2F),(=)),(CSS(3),(A32,A* 3D,A3E,A3F),(=))),TYPE=IQD CNTLUNIT CUNUMBR=7000, * PATH=((CSS(0),F0),(CSS(1),F0),(CSS(2),F0),(CSS(3),F0)), * UNIT=IQD IODEVICE ADDRESS=(7000,16),UNITADD=00,CUNUMBR=(7000),UNIT=IQD VM LPAR A02 and z/OS LPAR A12 can access the HiperSockets CHPID F0, and it is an IQD type. 14.2.2 Creating a TCP/IP stack on z/OS To create a TCP/IP",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.613292",
+    "chunk_number": 890,
+    "word_count": 122
+  }
+}

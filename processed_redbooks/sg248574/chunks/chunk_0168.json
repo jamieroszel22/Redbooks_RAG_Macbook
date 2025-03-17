@@ -1,0 +1,18 @@
+{
+  "content": "to train LLMs. The InstructLab tuning method is driven by manually created taxonomies. InstructLab provides a process for optimizing and tuning LLMs by collecting knowledge and skills as part of a taxonomy tree. To start the InstructLab process, ilab must be installed. You can download it from its official repository. ilab is a CLI tool that you can use to perform the following actions: \u0002 Download a pre-trained LLM. \u0002 Chat with the LLM. \u0002 Add new knowledge and skills to the pre-trained LLM by adding information to the companion taxonomy repository. After you add knowledge and skills to the taxonomy, you can perform the following actions: \u0002 Use ilab to generate new synthetic training data based on the changes in your local taxonomy repository. \u0002 Retrain the LLM with the new training data. \u0002 Chat with the retrained LLM to see the results. 72 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai Figure 5-10 shows the ilab flow of commands, which show how to start",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.856729",
+    "chunk_number": 168,
+    "word_count": 170
+  }
+}

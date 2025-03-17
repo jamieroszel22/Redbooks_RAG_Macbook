@@ -1,0 +1,18 @@
+{
+  "content": "Guide Current z/VM versions MSS support for mirrored direct access storage device (DASD) provides a subset of host support for the MSS facility to allow the use of an alternative subchannel set for Peer-to-Peer Remote Copy (PPRC) secondary volumes. The supported operating systems are listed in Table 7-6 on page 252 and Table 7-7 on page 253. For more information about channel subsystem, see Chapter 5, \u201cLogical I/O - Channel Subsystem\u201d on page 187. Subchannel sets IBM z16 A02 and IBM z16 AGZ support four subchannel sets (SS0, SS1, SS2, SS3). Subchannel sets SS1, SS2, and SS3 can be used for disk alias devices of primary and secondary devices, and as Metro Mirror secondary devices. This set helps facilitate storage growth and complements other functions, such as extended address volume (EAV) and Hyper Parallel Access Volumes (Hyperplane). See Table 7-6 on page 252 and Table 7-7 on page 253 for list of supported operating systems. IPL from an alternative subchannel set IBM z16 A02 and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.027021",
+    "chunk_number": 714,
+    "word_count": 165
+  }
+}

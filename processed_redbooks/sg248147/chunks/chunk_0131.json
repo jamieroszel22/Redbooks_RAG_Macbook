@@ -1,0 +1,18 @@
+{
+  "content": "paths The IBM Z virtualization landscape is unique by providing native support for two levels of virtualization: The first level is used by PR/SM to enable logic partitioning and the second level is used by z/VM to enable the efficient execution of virtual machines. z/VM is a specialized operating system entirely dedicated to the execution of virtual machines which makes it a type 1 hypervisor (see Figure 2-1). Figure 2-1 Hardware and software hypervisors 36 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 2.1.2 IBM Dynamic Partition Manager IBM Dynamic Partition Manager (DPM) is a new administrative mode that was introduced to LinuxONE servers. A system can be configured in DPM mode or PR/SM mode. DPM provides a simplified way to configure a LinuxONE server. It supports Linux and KVM systems with FCP-attached SCSI storage. It removes the need for IBM Z configuration tools, such as Hardware Configuration Definition (HCD) and Hardware Configuration Manager (HCM). The entire system",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.652945",
+    "chunk_number": 131,
+    "word_count": 157
+  }
+}

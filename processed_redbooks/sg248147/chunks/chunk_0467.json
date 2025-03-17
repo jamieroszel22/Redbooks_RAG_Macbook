@@ -1,0 +1,18 @@
+{
+  "content": "parameters supplied by IBM for proper operation. Use the instructions in this section to create your own custom profiles and tailor them to suit your needs. 204 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 3. Create a file that is named LNXPDFLT DIRECT A and populate it by using the contents from Figure 6-8. The comments that are shown to the right of the dual asterisks (**) explain functionality and are optional: ===> XEDIT LNXPDFLT DIRECT A Figure 6-8 Contents of the LNXPDFLT PROFILE that is created The following information refers to Figure 6-8: \u2013 The three COMMAND lines give the virtual machine access to virtual switch VSW1 at logon when the virtual machine is created, which precludes the need to add a VSWITCH GRANT statement each time that a Linux virtual machine is created. \u2013 The two CPU lines define two virtual CPUs. It is recommended to set the number of virtual CPUs to no more than the number of available CPUs shown from Q PROC. \u2013 The MACHINE statement sets the virtual",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.026450",
+    "chunk_number": 467,
+    "word_count": 174
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "partitions approaching, within 10%, the maximum drawer size. This critical notice indicates that one or more partitions partition are getting close to a drawer boundary. When that happens, capacity growth by adding LCPs is very limited. The new notice appears as a \u201cNote\u201d message in the Partition Detail Report. The \u201cNote\u201d and the partition LCPs are shaded with the same violet color, as shown for partition IFL-01 in Figure 12-12 above and for partition GP-02 in Figure 12-14 on page 496. Chapter 12. Performance and capacity planning 495 Figure 12-13 Estimated distribution of real CPs across drawers report Figure 12-14 on page 496 shows another example of a Partition Detail Report this time for an IBM z16, 3931-A01, (Max200)/700 with 165 CPS (45 GPs, 44 zIIPs, 60 IFLs and 16 ICFs), and six active partitions (2 GP, 2 zIIP, 1 IFL and 1 ICF). Resources are allocated as shown in the Partition Identification and Partition Configuration fields. As the IBM z16 (Figure 12-14 on page 496) has 165",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.313239",
+    "chunk_number": 1110,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "EDEV paths that lead to any of the WWPNs of the node. Once the paths are removed from the EDEVs, the V7000 node can be serviced. After the service is complete, it is desirable to put back the removed paths: \u0002 The EDEVPATH tool lets a class B user control the paths of the system\u2019s EDEVs en masse. The following functions are provided: \u0002 All of the paths that share a trait, such as a specific FCP CHPID, can be removed from the EDEVs\u2019 path configurations. The paths removed are recorded in a log file. \u0002 All of the paths that are removed by an invocation of the \u201cremove\u201d function can be returned. This process is done by reading the log file and undoing the logged removals. \u0002 A snapshot of the system's EDEVs\u2019 path configurations can be collected. The package consists of an exec and a NAMES file. The exec\u2019s command line implements the remove, restore, and snapshot functions. The NAMES file holds lists of WWPNs, each list representing a SAN storage controller node. To remove all paths that lead",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.779276",
+    "chunk_number": 937,
+    "word_count": 181
+  }
+}

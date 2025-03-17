@@ -1,0 +1,18 @@
+{
+  "content": "server. The following TKE workstations can be ordered with a new IBM z16 A02 and IBM z16 AGZ: \u0002 TKE 10.0 tower workstation (FC 0058) \u0002 TKE 10.0 rack-mounted workstation (FC 0057) The TKE 10.0 LIC requires the 4770 crypto adapter. The TKE 9.x and TKE 8.x8 workstations can be upgraded to the TKE 10.0 tower workstation by purchasing a 4770 crypto adapter. The Omnikey Cardman 3821 smart card readers can be carried forward to any TKE 10.0 workstation. Smart cards 45D3398, 74Y0551, 00JA710 and 00RY790 can be used on TKE 10.0. When performing a MES upgrade from TKE 8.x, or TKE 9.x to a TKE 10.0 installation, the following steps must be completed: 1. Save Upgrade Data on an old TKE to USB memory to save client data. 2. Replace the 4768 crypto adapter with the 4770 crypto adapter. 3. Upgrade the firmware to TKE 10.0. 4. Install the Frame Roll to apply Save Upgrade Data (client data) to the TKE 10.0 system. 5. Run the TKE Workstation Setup wizard. TKE upgrade considerations If you are migrating",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.482461",
+    "chunk_number": 576,
+    "word_count": 178
+  }
+}

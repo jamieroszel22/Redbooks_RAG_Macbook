@@ -1,0 +1,18 @@
+{
+  "content": "pg_gosales for PostgreSQL. Chapter 3. Ingesting data into an open data lakehouse 35 3.3 Techniques for ingesting data (structured or unstructured) Data ingestion, the process of bringing your data into IBM watsonx.data, is simple and secure for the following reasons: \u0002 Visual interface: The Ingest data tab in the Data manager page offers an interface for loading data into IBM watsonx.data. \u0002 Flexible data sources: Choose between ingesting local files or remote data sources to create tables by using the Create table from file option. \u0002 Automatic schema inference: You do not need to predefine the table schema because IBM watsonx.data intelligently discovers the structure of your data (schema) during the first query execution. \u0002 Consistent data format: Help ensure that your data files are in the same format type with a consistent structure (schema) for a smooth ingestion process. IBM watsonx.data auto-discovers the schema based on the source file being ingested: \u0002 Presto is used as the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.739051",
+    "chunk_number": 101,
+    "word_count": 158
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Express2.1 feature uses SR optics and supports the use of a multimode fiber optic cable that ends with an LC Duplex connector. Point-to-point connections and switched connections with an enterprise-class switch are supported (ports running at matching speeds). 10 GbE RoCE Express2.1 (FC 0432) 10 GbE RoCE Express2.1 (FC 0432) is installed in the PCIe+ I/O drawer and is supported on IBM z16 servers when carried forward. The 10 GbE RoCE Express2.1 is a native PCIe feature. It does not use a CHPID. It is defined by using the IOCP FUNCTION statement or in the hardware configuration definition (HCD). The maximum supported unrepeated distance, point-to-point, is 100 meters (328 feet). A client-supplied cable is required. Two types of cables can be used for connecting the port to the selected 10 GbE switch or to another 10 GbE RoCE Express3 SR feature: \u0002 OM3 50-micron multimode fiber optic cable that is rated at 2000 MHz-km that ends with an LC Duplex connector, which supports 70 meters (229",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.986190",
+    "chunk_number": 451,
+    "word_count": 166
+  }
+}

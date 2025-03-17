@@ -1,0 +1,18 @@
+{
+  "content": "region.services.cloud.techzone.ibm.com \u2013 Port: port \u2013 Username: ibmlhadmin \u2013 Password: password \u2013 Database: tpch Set the following driver properties: \u2013 SSL True \u2013 SSLTrustStorePath /mydownload/presto-key.jks \u2013 SSLTrustStorePassword watsonx.data 5. The /mydownload/presto-key.jks value must be replaced with the location that you copied the key from in step 1 on page 30. When connecting to the Db2 engine, select the Db2 LUW driver. The Db2 server can be accessed on port 50000 inside the virtual machine by using the following credentials: \u2013 Hostname: watsonxdata \u2013 Port: 50000 \u2013 Username: db2inst1 \u2013 Password: db2inst1 \u2013 Database: gosales \u2013 SSL: off 6. When accessing the database outside the virtual machine, you must change the host to region.services.cloud.techzone.ibm.com and the port number based on your TechZone reservation. All the other settings remain the same. \u2013 Hostname: region.services.cloud.techzone.ibm.com \u2013 Port: port \u2013 Username: db2inst1 \u2013 Password: db2inst1 \u2013 Database:",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.714459",
+    "chunk_number": 97,
+    "word_count": 142
+  }
+}

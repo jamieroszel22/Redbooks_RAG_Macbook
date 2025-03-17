@@ -1,0 +1,18 @@
+{
+  "content": "accessed as file mode M (which were configured in 6.7, \u201cEnabling and configuring RACF\u201d on page 155): ===> filelist MAINT FILELIST A0 V 169 Trunc=169 Size=3 Line=1 Col=1 Alt=0 Directory = VMPSFS:MAINT720.UTILS Cmd Filename Filetype Fm Format Lrecl Records Blocks Date Time CALLSM1 EXEC M1 V 75 853 8 2015-04-28 17:43:26 CPFORMAT EXEC M1 V 77 272 3 2015-04-28 17:43:26 SSICMD EXEC M1 V 64 71 1 2015-04-28 17:43:26 3. Move your cursor to the line with the CPFORMAT EXEC on it, and then either type an X (to indicate that you want to use XEDIT on that file) or press PF11 to invoke XEDIT for the file. Edit the file to set the first character that will be used in labels. Look for the variable firstChar: ===> xedit cpformat exec ====> /firstChar /*************************************************************/ ... Address COMMAND firstChar = 'V' ... If you want the first character in the labels to be a letter other than V, change this setting. 4. You can get brief help on CPFORMAT by using a",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.917446",
+    "chunk_number": 438,
+    "word_count": 171
+  }
+}

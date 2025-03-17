@@ -1,0 +1,18 @@
+{
+  "content": "PU chips packaged on one DCM) includes the following features and improvements: \u0002 4.6 GHz core frequency \u0002 eight core design (versus 10 for z15) each with 32MB L2 cache \u0002 Two PCIe Gen5 interfaces running at Gen3/4 speeds \u0002 DDR4 memory controller \u0002 2x M-Bus to support DCM internal chip to chip connectivity \u0002 6x X-Bus to support DCM to DCM connectivity in the CPC drawer \u0002 1x A-Bus to support drawer to drawer connectivity \u0002 New cache structure design compared to z15 PU: \u2013 L1D(ata) and L1I(nstruction) cache - ON-core (128kB each) \u2013 L2 - 32 MB dense SRAM - outside the core, semi-private to the core \u2013 L3 (virtual) - up to 256 MB \u2013 L4 (virtual) - up to 2048 MB7 \u0002 New Core-Nest Interface \u0002 Brand new branch prediction design using SRAM \u0002 On chip AIU \u2013 IBM Z Accelerator for Artificial Intelligence 7 Max5 and Max16 L4 is limited to 1024 MB Chapter 2. Central processor complex hardware components 39 2.3.1 Processor unit (core) Each processor unit, or core, is a superscalar and out-of-order",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.726317",
+    "chunk_number": 142,
+    "word_count": 180
+  }
+}

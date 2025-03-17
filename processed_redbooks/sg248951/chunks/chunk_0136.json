@@ -1,0 +1,18 @@
+{
+  "content": "Offered memory sizes (GB) 64 512 - 768 128 896 - 2048 256 2304 - 3840 512 4352 - 17152 1024 18176 - 32512 2048 34560 - 40704 38 IBM z16 (3931) Technical Guide 2.5.1 Memory subsystem topology The IBM z16 memory subsystem uses high-speed, differential-ended communications memory channels to link a host memory to the main memory storage devices. The CPC drawer memory topology of an IBM z16 is shown in Figure 2-20. Figure 2-20 CPC drawer memory topology at maximum configuration Consider the following points regarding the topology: \u0002 Six memory controllers populated per drawer, one per PU chip (two chips do not have their MCUs populated). \u0002 Each memory controller supports eight DIMM slots. \u0002 The eight DIMMs on a controller are all the same size. \u0002 Four, five, or six memory controllers per drawer are populated (32, 40, or 48 DIMMs). \u0002 Different memory controllers might have different size DIMMs. \u0002 Features with different DIMMs sizes can be mixed in the same drawer. \u0002 The eight DIMMs per MCU",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.688042",
+    "chunk_number": 136,
+    "word_count": 173
+  }
+}

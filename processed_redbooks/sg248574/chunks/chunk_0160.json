@@ -1,0 +1,18 @@
+{
+  "content": "explicit instructions (similar to how humans learn new tasks) about how to generate responses based on the synthetic data. This process is highly flexible because the SMEs can continually tweak the instructions and the knowledge base based on the evolving needs of the model and the domain it is being trained on. This process uses a 2-phase approach with a replay that serves the purpose of ensuring high diversity and quality in the synthetically generated instruction-tuning dataset while ensuring training stability. It also prevents catastrophic forgetting, which is a common situation that happens in the FM fine-tuning process when it is not well controlled. Once the initial synthetic data is generated from the curated taxonomy, the InstructLab system trains the model by providing it with a series of questions and answers that align with the knowledge base. The process is iterative, which means that the model does not undergo a single round of training and then stop. Instead, as new",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.818737",
+    "chunk_number": 160,
+    "word_count": 160
+  }
+}

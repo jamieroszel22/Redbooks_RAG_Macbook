@@ -1,0 +1,18 @@
+{
+  "content": "Express8S feature that is defined as a CCA coprocessor in normal mode. However, it is mandatory when it is used to manage a Crypto Express8S feature that is defined as a CCA coprocessor in PCI-HSM mode or is defined as an EP11 coprocessor (CCA in PCI-HSM mode and EP11 also require a smart card reader plus smart cards with FIPS certification). <<For more information, link to Crypto>> 10.5.14 Installation support for z/VM that uses the HMC Starting with z/VM V5R4 and z10, Linux on IBM Z can be installed in a z/VM virtual machine from HMC workstation media. This Linux on IBM Z installation can use the communication path between the HMC and the SE. No external network or extra network setup is necessary for the installation. 10.5.15 Dynamic Partition Manager (DPM) DPM is an administrative mode (GUI to PR/SM) that was introduced for Linux only systems for IBM z13 and following systems. With DPM, you can use your Linux and virtualization skills while taking advantage of the full value of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.145951",
+    "chunk_number": 1040,
+    "word_count": 171
+  }
+}

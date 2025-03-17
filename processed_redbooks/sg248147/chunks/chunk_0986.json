@@ -1,0 +1,18 @@
+{
+  "content": "books and publications The following publications can be used as information sources: \u0002 z/VM installation guide You want to have a copy of z/VM 7.2.0 Installation Guide, GC24-6292, to use as reference. \u0002 Documentation for Linux on IBM Z and LinuxONE is available at this web page. \u0002 z/VM Internet Library Online documentation is at this web page. The following useful publications are available at this web page: \u2013 z/VM CP Messages and Codes \u2013 z/VM TCP/IP Messages and Codes \u2013 z/VM CP Commands and Utilities Reference \u2013 z/VM CP Planning and Administration \u2013 z/VM Getting Started with Linux on System z \u2013 z/VM TCP/IP Planning and Customization \u2013 z/VM Performance Toolkit Guide, SC24-6156 \u2013 z/VM Performance Toolkit Reference, SC24-6157 \u0002 z/VM configuration and performance information from Dr. Brian Wade: \u2013 CPU Utilization in an SMT World \u2013 Topics in LPAR Performance \u0002 Linux on IBM Z and LinuxONE Troubleshooting Guide, SC34-2612 \u0002 z/Architecture Principles of Operation, SA22-7832 The",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.927276",
+    "chunk_number": 986,
+    "word_count": 159
+  }
+}

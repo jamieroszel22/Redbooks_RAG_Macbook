@@ -1,0 +1,18 @@
+{
+  "content": "result in what is effectively a new model. It is derived from the base model but is a new object in its own right that needs the appropriate amount of oversight. Lastly, other AI techniques such as prompt chaining (where different prompts are executed in a defined sequence) might result in other assets to be governed. Chapter 6, \u201cGoverning the end-to-end lifecycle of an AI asset\u201d on page 61 describes the governance considerations for different AI assets More sources of AI In machine learning and deep learning projects, organizations usually train their own models, potentially with assistance from external service providers, using either their data or trusted third-party data. With the advent of Generative AI and foundation models, these models are typically sourced from third party as pre-trained models, such as IBM's Granite family of models. However, organizations often lack adequate insight into the data used to train these external foundation models. Therefore, it is crucial for",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.644997",
+    "chunk_number": 58,
+    "word_count": 157
+  }
+}

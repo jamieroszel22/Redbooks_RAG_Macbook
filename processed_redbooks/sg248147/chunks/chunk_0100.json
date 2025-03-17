@@ -1,0 +1,18 @@
+{
+  "content": "System z\u00ae, SC24-6194. 22 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 1.4.3 z/VM capabilities and enhancements by version and release An incredible number of significant enhancements and new functions were added to z/VM over the last two versions of the product. The following levels are supported at the time of this writing: \u0002 Version 6, Release 4. (6.4) \u0002 Version 7, Release 1. (7.1) \u0002 Version 7, Release 2. (7.2) The following brief summary describes what is new or enhanced by version and release. z/VM 7.2 Debuting September 2020, z/VM 7.2 provides organizations with the premier hypervisor for hosting enterprise-class virtual servers to use the IBM Z and IBM LinuxONE advantages in scalability, performance, high availability, and security. The objective of z/VM 7.2 is to enhance the capabilities that support digital transformation, specifically those capabilities that are associated with scalability and efficiency. z/VM 7.2 is designed to enable the deployment of up to thousands of",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.527511",
+    "chunk_number": 100,
+    "word_count": 155
+  }
+}

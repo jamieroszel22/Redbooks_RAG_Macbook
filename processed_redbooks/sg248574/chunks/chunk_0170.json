@@ -1,0 +1,18 @@
+{
+  "content": "python3.11-devel ilab can be installed with various configurations, depending on your hardware and preferred accelerators. Different hardware setups often require specific steps to optimize performance and ensure compatibility with the chosen accelerators, such as Apple Metal, AMD ROCm, or NVIDIA CUDA. If a GPU is available, you can leverage more processing power by using the following commands for initialization: python3.11 -m venv --upgrade-deps venv source venv/bin/activate pip cache remove llama_cpp_python CMAKE_ARGS=\"-DGGML_CUDA=on -DGGML_NATIVE=off\" pip install 'instructlab[cuda]' pip install vllm@git+https://github.com/opendatahub-io/vllm@v0.6.2 After you install ilab, proceed with the first initialization by running the following command: Ilab config init During initialization, ilab prompts you to perform specific tasks that influence how the environment is configured. By following these prompts, you can tailor ilab to meet your needs by setting up essential components like",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.865114",
+    "chunk_number": 170,
+    "word_count": 129
+  }
+}

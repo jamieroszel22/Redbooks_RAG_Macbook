@@ -1,0 +1,18 @@
+{
+  "content": "Problem state execution \u0002 Hardware and firmware interlocks to ensure system responsiveness \u0002 Designed instruction \u0002 Run in millicode On-Chip Compression provides an up to 5% improvement in compression ratios for BSAM/VSAM data sets over zEDC while maintaining full compatibility. Eliminating adapter sharing by using Nest Compression Accelerator Sharing of zEDC cards is limited to 15 LPAR guests per adapter. The Nest Compression Accelerator removes this virtualization constraint because it is shared by all PUs on the processor chip and therefore is available to all LPARs and guests. Moving the compression function from the (PCIe) I/O drawer to the processor chip means that compression can operate directly in L3 cache and data does not need to be passed by using I/O operations. Compression modes Compression is run in one of the following modes: \u0002 Synchronous Execution occurs in problem state where the user application starts the instruction in its virtual address space. \u0002 Asynchronous",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.364889",
+    "chunk_number": 1127,
+    "word_count": 154
+  }
+}

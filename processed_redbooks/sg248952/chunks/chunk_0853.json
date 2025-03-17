@@ -1,0 +1,18 @@
+{
+  "content": "results in more capacity being made available to a system configuration. Extra planning tasks are required for nondisruptive upgrades. For more information, see \u201cGuidelines to avoid disruptive upgrades\u201d on page 362. 344 IBM z16 A02 and IBM z16 AGZ Technical Guide When the order is downloaded and activated, the daily costs are based on the pricing at the time of the order. The staged orders do not have to be installed in the order sequence. If a staged order is installed out of sequence and later a higher-priced order is staged, the daily cost is based on the lower price. Another possibility is to store multiple On/Off CoD LICCC records on the SE with the same or different capacities, which gives you greater flexibility to enable quickly needed temporary capacity. Each record is easily identified with descriptive names, and you can select from a list of records that can be activated. Resource Link provides the interface to order a dynamic upgrade for a specific system. You can create,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.510314",
+    "chunk_number": 853,
+    "word_count": 168
+  }
+}

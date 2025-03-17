@@ -1,0 +1,18 @@
+{
+  "content": "located in the PCIe+ drawer and support unrepeated distances of up to 10 km or up to 100 km over qualified WDM services. \u0002 Internal Coupling (IC) links are for internal links within a CPC. Figure 4-4 shows the supported Coupling Link connections for the IBM z16 A0214. Only ICA SR and CE LR links are supported on IBM z16 A02 and IBM z16 AGZ, IBM z15, and IBM z14 ZR1 systems. Figure 4-4 Parallel Sysplex connectivity options The coupling link options that are listed in Table 4-10 on page 179. Also listed are the coupling link support for each IBM Z platform. Restrictions on the maximum numbers can apply, depending on the configuration. Always check with your IBM support team for more information. Note: Parallel Sysplex supports connectivity between systems that differ by up to two generations (n-2). For example, an IBM z16 A02 and IBM z16 AGZ can participate in an IBM Parallel Sysplex cluster with IBM z15, and IBM z14 systems. Only Integrated Coupling Adapter Short Reach (ICA SR) and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.963377",
+    "chunk_number": 449,
+    "word_count": 173
+  }
+}

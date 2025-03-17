@@ -1,0 +1,18 @@
+{
+  "content": "z16 family server with driver D51C bundle 19 applied. \u00a9 Copyright IBM Corp. 2023. All rights reserved. 243 Chapter 7. Operating system support This chapter describes the minimum operating system requirements and support considerations for the IBM z16\u2122 Machine Type 3932. It addresses IBM z/OS, z/VM, 21st Century Software VSEn (21CS VSEn), z/TPF, Linux on IBM Z and the KVM hypervisor. Because this information is subject to change, see the following hardware fix categories for most current information: \u0002 IBM.Device.Server.IBM z16 A02 and IBM z16 AGZ -3931.* and \u0002 IBM.Device.Server.IBM z16 A02 and IBM z16 AGZ A02-3932.* specific for IBM z16 A02 and IBM z16 AGZ. Support of IBM z16 A02 and IBM z16 AGZ functions depends on the operating system and version and release. This chapter includes the following topics: \u0002 7.1, \u201cOperating systems summary\u201d on page 244 \u0002 7.2, \u201cSupport by operating system\u201d on page 244 \u0002 7.3, \u201cIBM z16 A02 and IBM z16 AGZ features and functions support overview\u201d on page",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.561380",
+    "chunk_number": 597,
+    "word_count": 164
+  }
+}

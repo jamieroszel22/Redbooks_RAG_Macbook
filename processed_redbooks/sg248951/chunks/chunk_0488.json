@@ -1,0 +1,18 @@
+{
+  "content": "25 GbE RoCE Express2.1 \u0002 10 GbE RoCE Express2.1 \u0002 25 GbE RoCE Express2 196 IBM z16 (3931) Technical Guide \u0002 10 GbE RoCE Express2 \u0002 IBM zHyperlink Express1.1 \u0002 IBM zHyperlink Express \u0002 Coupling Express2 Long Reach (CE LR) All native PCIe features should be ordered in pairs for redundancy. The features are assigned to one of the four resource groups (RGs) that are running on the IFP according to their physical location in the PCIe+ I/O drawer, which provides management functions and virtualization functions. If two features of the same type are installed, one always is managed by resource group 1 (RG 1) or resource group 3 (RG3); the other feature is managed by resource group 2 (RG 2) or resource group 4 (RG 4). This configuration provides redundancy if one of the features or resource groups needs maintenance or fails. The IFP and RGs support the following infrastructure management functions: \u0002 Firmware update of adapters and resource groups \u0002 Error recovery and failure data collection",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.124056",
+    "chunk_number": 488,
+    "word_count": 168
+  }
+}

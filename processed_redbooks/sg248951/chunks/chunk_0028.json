@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . 330 8.2.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 330 8.2.2 CoD for IBM z16 systems-related terminology . . . . . . . . . . . . . . . . . . . . . . . . . . 331 8.2.3 Concurrent and nondisruptive upgrades. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 333 8.2.4 Permanent upgrades . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 334 8.2.5 Temporary upgrades. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 335 8.3 Concurrent upgrades . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 336 8.3.1 PU Capacity feature upgrades . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 336 8.3.2 Customer Initiated Upgrade facility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 338 8.3.3 Concurrent",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.247460",
+    "chunk_number": 28,
+    "word_count": 384
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Owners, Model Validators, and Model Risk Reviewers. Figure 3-4 on page 32 illustrates a hierarchical framework for implementing AI governance strategies, comprising three key components: Evaluation and Monitoring, Model Validation and Review, and Risk and Compliance. Such a framework enables the creation of multiple hierarchical structures, each with its own unique architecture, which can be used to organize and capture Models. One possible organizational structure could include divisions into groups such as geography, business unit, line of business etc. 32 Ensuring Trustworthy AI with IBM watsonx.governance Figure 3-4 Hierarchical framework for implementing AI governance Business Entity Business Entities are abstract representations of your business structure. A business entity can contain sub-entities (such as departments, business units, or geographic locations). This structure is used within the system to organize access rights and simplify corporate reporting needs. For example:",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.834898",
+    "chunk_number": 102,
+    "word_count": 137
+  }
+}

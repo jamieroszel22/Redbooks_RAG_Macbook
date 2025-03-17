@@ -1,0 +1,18 @@
+{
+  "content": "This implementation requires special circuitry to make execution and memory accesses display in order to the software. The logical diagram of an IBM z16 core is shown in Figure 3-11 on page 83. Chapter 3. Central processor complex design 83 Figure 3-11 IBM z16 PU core logical diagram Memory address generation and memory accesses can occur out of (program) order. This capability can provide a greater use of the IBM z16 superscalar core, and improve system performance. The IBM z16 A01 processor unit core is a superscalar, out-of-order, SMT processor with eight execution units. Up to six instructions can be decoded per cycle, and up to 12 instructions or operations can be started to run per clock cycle (0.192 ns). The execution of the instructions can occur out of program order and memory address generation and memory accesses can also occur out of program order. Each core includes special circuitry to display execution and memory accesses in order to the software. The IBM z16",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.052130",
+    "chunk_number": 220,
+    "word_count": 164
+  }
+}

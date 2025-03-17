@@ -1,0 +1,18 @@
+{
+  "content": "model\u2019s weights to encode new knowledge or adapt to complex industry-specific language structures, terminologies, and operational protocols. This process is beneficial for industries that require high precision in terminology and context, such as healthcare, finance, and legal services. Fine-tuning within the watsonx.ai ecosystem exemplifies a sophisticated approach to model specialization, which enables foundation LLMs to adapt to domain-specific needs through retraining. Unlike prompt tuning, which focuses on lightweight modifications to steer model behavior, fine-tuning directly alters the model\u2019s weights to encode new knowledge or align with complex industry-specific language structures and terminologies. 5.3.1 Challenges with fine-tuning To fully appreciate the significance of watsonx.ai capabilities, it is essential to understand the inherent complexity of fine-tuning in general. At its core, fine-tuning involves retraining a model\u2019s internal weights on carefully curated",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.765999",
+    "chunk_number": 147,
+    "word_count": 129
+  }
+}

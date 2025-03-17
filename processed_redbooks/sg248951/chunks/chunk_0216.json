@@ -1,0 +1,18 @@
+{
+  "content": "and register vector B and stores the result in the register vector A (A = A + B). A schematic representation of a SIMD instruction with 16-byte size elements in each vector operand is shown in Figure 3-9. Figure 3-9 SIMD operation logic Chapter 3. Central processor complex design 81 The vector register file overlays the floating-point registers (FPRs), as shown in Figure 3-10. The FPRs use the first 64 bits of the first 16 vector registers, which saves hardware area and power, and makes it easier to mix scalar and SIMD codes. Effectively, the core gets 64 FPRs, which can further improve FP code efficiency. Figure 3-10 Floating point registers overlaid by vector registers SIMD instructions include the following examples: \u0002 Integer byte to quadword add, sub, and compare \u0002 Integer byte to doubleword min, max, and average \u0002 Integer byte to word multiply \u0002 String find 8-bit, 16-bit, and 32-bit \u0002 String range compare \u0002 String find any equal \u0002 String load to block boundaries and load/store",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.038562",
+    "chunk_number": 216,
+    "word_count": 169
+  }
+}

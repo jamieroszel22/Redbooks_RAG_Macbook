@@ -1,0 +1,18 @@
+{
+  "content": "you create a new group you can define a Resource Pattern (for example if you specified abc.*, all the resources that begin with abc will be included in that group). With IBM z16 A02 and IBM z16 AGZ also the for the child management permission for Pattern Match Groups is implemented. Chapter 10. Hardware Management Console and Support Element 401 \u0002 Summary of API version updates In general there are lot of changes / updates in the HMC Web Services API. Not all are mentioned here in this Redbook. Please see the Hardware Management Console Web Services API Version 2.16.0, SC27-2642, \u201cSummary of API version updates\u201d for all new functions. \u0002 Manage System Time Enhancements Starting with IBM z14 there was a major change how STP management is handled on the HMC and SE. All STP management is now done via the Manage System Time on the HMC. With IBM z16 A02 and IBM z16 AGZ further improvements are made on the wizards to guide you through the different configuration possibilities. The most of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.898380",
+    "chunk_number": 971,
+    "word_count": 174
+  }
+}

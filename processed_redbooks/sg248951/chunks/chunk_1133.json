@@ -1,0 +1,18 @@
+{
+  "content": "user must pick and choose which guests are granted access to the accelerator. The IBM z16 On-Chip Compression accelerator solves these virtualization limitations because the function is no longer an I/O device and is available as a problem state instruction to all Linux on IBM Z guests without constraints. This feature enables pervasive usage in highly virtualized environments. IBM z16 On-Chip Compression is available to open source applications by way of zlib. \u00a9 Copyright IBM Corp. 2022. 513 Appendix D. Tailored Fit Pricing and IBM Z Flexible Capacity for Cyber Resiliency This appendix describes IBM Z Tailored Fit Pricing and IBM Z Flexible Capacity for Cyber Resiliency. Although they are two different offerings, Tailored Fit Pricing for Software is prerequisite requirement of Flexible Capacity for Cyber Resiliency (or short \u2018Flexible Capacity\u2019). This appendix includes the following topics: \u0002 \u201cTailored Fit Pricing\u201d on page 514 \u0002 \u201cSoftware Consumption Model\u201d on page 515 \u0002 \u201cHardware",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.376806",
+    "chunk_number": 1133,
+    "word_count": 153
+  }
+}

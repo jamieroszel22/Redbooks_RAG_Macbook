@@ -1,0 +1,18 @@
+{
+  "content": "that is used for controlling errors in data transmission over unreliable or noisy communication channels. When running at 32 Gbps link speeds, clients often see fewer I/O errors, which reduces the potential effect to production workloads from those I/O errors. Read Diagnostic Parameters (RDP) improve Fault Isolation. After a link error is detected (for example, IFCC, CC3, reset event, or a link incident report), link data that is returned from Read Diagnostic Parameters is used to differentiate between errors that result from failures in the optics versus failures because of dirty or faulty links. Key metrics can be displayed on the operator console. The results of a display matrix command with the LINKINFO=FIRST parameter, which collects information from each device in the path from the channel to the I/O device (see Figure 9-6 on page 375): \u2013 Transmit (Tx) and Receive (Rx) optic power levels from the PCHID, Switch Input and Output, and I/O device \u2013 Capable and Operating speed",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.701802",
+    "chunk_number": 915,
+    "word_count": 160
+  }
+}

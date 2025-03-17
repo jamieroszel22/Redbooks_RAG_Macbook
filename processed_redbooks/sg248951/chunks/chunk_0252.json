@@ -1,0 +1,18 @@
+{
+  "content": "activation assigns a PU function to a previously non-characterized PU. No hardware changes are required. The upgrade can be done concurrently through the following facilities: \u0002 Customer Initiated Upgrade (CIU) for permanent upgrades \u0002 On/Off Capacity on Demand (On/Off CoD) for temporary upgrades \u0002 Capacity BackUp (CBU) for temporary upgrades \u0002 Capacity for Planned Event (CPE) for temporary upgrades (available only if the CPE feature code was carried forward from a previous IBM z14 or IBM z15 machine) \u0002 System Recovery Boost upgrades \u0002 Flexible Capacity for Cyber Resilience upgrades Chapter 3. Central processor complex design 99 If the PU chips in the installed CPC drawers have no available remaining PUs, an upgrade results in a feature upgrade and the installation of an extra CPC drawer. Field add (MES) of a CPC drawer is possible for IBM z16 Model A01 features Max39 and Max82 only. These features can be upgraded to a Max125 provided initial order for the CPC Reserve features FC 2981",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.172912",
+    "chunk_number": 252,
+    "word_count": 163
+  }
+}

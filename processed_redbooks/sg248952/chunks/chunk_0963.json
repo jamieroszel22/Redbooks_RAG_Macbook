@@ -1,0 +1,18 @@
+{
+  "content": "HMC/SE certification expiration updates The new default for HMC and SE certification expiration is 398 days and it can be modified. This is driven by industry shorter certificates by the Apple Safari browser and iOS. A Hardware Message will be posted for every expiration event 90, 30, 7 and 1 day before the expiry date is reached. If the expiration occurs, a HW message will then be posted daily. A call-home to IBM will also be placed 7, and 1 day before the certificate expiration and daily afterwards. These events will also be recorded in the Audit Log and Resource Link. It is the clients responsibility to manage all certificates. Figure 10-2 shows an example to change the number of days until the expiration occurs while you create a new certificate. If you like to change the expiration days for an existing certificate go to Certificate Management -> select Valid Until -> Selected -> Modify. Figure 10-2 Certificate Management on the HMC Chapter 10. Hardware Management Console and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.873524",
+    "chunk_number": 963,
+    "word_count": 168
+  }
+}

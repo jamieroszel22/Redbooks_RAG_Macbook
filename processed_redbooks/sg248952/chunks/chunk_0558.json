@@ -1,0 +1,18 @@
+{
+  "content": "UDX functions are integrated into the base CCA code over time to accomplish the following tasks: \u0002 Remove headaches and challenges that are associated with UDX management and currency. \u0002 Make available popular UDX functions to a wider audience to encourage adoption. 6 Always check the latest information about security certification status for your specific model. Note: VFPE technology forms part of Visa, Inc.\u2019s, Data Secure Platform (DSP). The use of this function requires a service agreement with Visa. You must maintain a valid service agreement with Visa when you use DSP/FPE. Chapter 6. Cryptographic features 225 UDX is integrated into the base CCA code to support translating an external RSA CRT key into new formats. These formats use tags to identify key components. Depending on which new rule array keyword is used with the PKA Key Translate callable service, the service TDES encrypts those components in CBC or ECB mode. In addition, AES CMAC support is delivered. Verb Algorithm",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.406147",
+    "chunk_number": 558,
+    "word_count": 160
+  }
+}

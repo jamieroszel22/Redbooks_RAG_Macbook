@@ -1,0 +1,18 @@
+{
+  "content": "Dynamic Partition Manager (DPM) mode. DPM provides a GUI for PR/SM to manage system resources (including I/O) dynamically. PR/SM is aware of the processor drawer structure on IBM z16 A02 and IBM z16 AGZ configurations. However, LPARs do not feature this awareness. LPARs feature resources that are allocated to them from various physical resources. From a systems standpoint, LPARs have no control over these physical resources, but the PR/SM functions do have this control. PR/SM manages and optimizes allocation and the dispatching of work on the physical topology. Most physical topology that was handled by the operating systems is the responsibility of PR/SM. As described in 3.5.9, \u201cProcessor unit assignment\u201d on page 113, the initial PU assignment is done during POR by using rules to optimize cache usage. This step is the \u201cphysical\u201d step, where CPs, zIIPs, IFLs, ICFs, and SAPs are allocated on the processor drawers. When an LPAR is activated, PR/SM builds logical processors and allocates",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.440114",
+    "chunk_number": 311,
+    "word_count": 158
+  }
+}

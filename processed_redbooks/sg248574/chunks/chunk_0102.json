@@ -1,0 +1,18 @@
+{
+  "content": "Handling outliers: \u2013 Detection: Outliers are identified by using methods like Z-scores, Interquartile Range (IQR), or visualization techniques like boxplots. \u2013 Treatment: Once detected, outliers can be managed by removal, transformation (for example, log transformation), or capping values based on acceptable thresholds. \u2013 Contextual consideration: Not all outliers are problematic; they might represent genuine data points. Understanding their impact is crucial before deciding on a course of action. \u0002 Addressing bias: \u2013 Data auditing: Systematic review of datasets to identify sources of bias, such as underrepresentation of specific groups. \u2013 Data balancing: Techniques like oversampling, undersampling, or generating synthetic data (for example, SMOTE) can help balance datasets. 36 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai \u2013 Algorithmic bias mitigation: Algorithms can be fine-tuned by using fairness constraints or reweighting schemes to minimize bias during",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.529929",
+    "chunk_number": 102,
+    "word_count": 139
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "helps to keep all of the necessary resource information synchronized across all of the SSI. DirMaint offers these important features: \u0002 DirMaint keeps changes in sync across all of the SSI. \u0002 It handles all minidisk assignments and prevents user errors in minidisk assignments. \u0002 DirMaint supports all user directory statements within z/VM. \u0002 The sequence of directory statements is handled automatically. Several standard tasks need to be performed frequently on z/VM. We provide assistance for these common tasks. 11.4.2 Checking the status of DirMaint and subcomponents The DirMaint QUERY command opens the query window (Figure 11-3), where you can complete various fields to obtain information about the status. Place an X in any one of the options and press PF5 to submit for processing. Use the following command: ===> dirmaint query Figure 11-3 DirMaint QUERY window 11.4.3 Adding a USER to z/VM by using a prototype A USER entry in the z/VM user directory is also known as a Single",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.280111",
+    "chunk_number": 788,
+    "word_count": 161
+  }
+}

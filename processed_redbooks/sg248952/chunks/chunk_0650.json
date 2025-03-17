@@ -1,0 +1,18 @@
+{
+  "content": "highly parallelized applications. TX is used by IBM Java virtual machine (JVM) and might be used by other software. The supported operating systems are listed in Table 7-3 on page 249 and Table 7-4 on page 250. System Recovery Boost System Recovery Boost is a feature that was implemented on the IBM z15 system. The feature provides additional temporary processer capacity and delivers substantially faster system shutdown and restart, critical system operations such as stand-alone dump, short duration Recovery process boost for sysplex events and fast catch-up of an accumulated backlog of critical workload after a planned or unplanned event. There is no additional or increasing IBM software costs by using System Recovery Boost. With the IBM z16 A02 and IBM z16 AGZ system additional Recovery process boost scenarios are supported that allow the customer to define some boost granularity. For more information see IBM Z System Recovery Boost, REDP-5563-02. Table 7-14 Operating system support",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.794384",
+    "chunk_number": 650,
+    "word_count": 155
+  }
+}

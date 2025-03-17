@@ -1,0 +1,18 @@
+{
+  "content": "Signature Algorithm (ECDSA) Prime/NIST method is used for ECC digital signatures, which are recommended for government use by NIST. \u0002 ECDSA (160, 192, 224, 256, 320, 384, and 512 BrainPool) ECC Brainpool is a work group of companies and institutions that collaborate on developing ECC algorithms. The ECDSA algorithms that are recommended by this group are supported. \u0002 ECDH (192, 224, 256, 384, and 521 Prime/NIST) Elliptic Curve Diffie-Hellman (ECDH) is an asymmetric protocol that is used for key agreement between two parties by using ECC-based private keys. The recommendations by NIST are supported. \u0002 ECDH (160, 192, 224, 256, 320, 384, and 512 BrainPool) ECDH according to the Brainpool recommendations. \u0002 Montgomery Modular Math Engine The Montgomery Modular Math Engine is a method for fast modular multiplication. Many crypto systems, such as RSA and Diffie-Hellman key Exchange, can use this method. \u0002 Clear Key Fast Path (Symmetric and Asymmetric) This mode of operation gives a direct",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.380295",
+    "chunk_number": 555,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Express2, can be used for this purpose. Chapter 11. Deploying and maintaining Linux workloads 349 You must track the FCP adapters like the DASD that is available to the system. Although it is not possible to attach the same FCP adapter to two different z/VM virtual machine systems, it is important to maintain accurate records that show the adapter that is dedicated to each virtual machine. Configuring z/VM to use direct-attached Fibre Channel To be able to relocate a running Linux virtual machine with FCP devices from one LPAR to another, FCP device numbers on each LPAR must be the same and the equivalency identifier (EQID) must be set up. To create an EQID dynamically, run the SET RDEVICE command on each single system image (SSI) LPAR where Linux needs to relocate. Complete the following steps: 1. Log on as MAINT. 2. Vary devices offline: ===> vary off b801-b802 ba01-ba02 BA01 varied offline BA02 varied offline BB01 varied offline BB02 varied offline 4 device(s) specified; 4",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.173254",
+    "chunk_number": 758,
+    "word_count": 166
+  }
+}

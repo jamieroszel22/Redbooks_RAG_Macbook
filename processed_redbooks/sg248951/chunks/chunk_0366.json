@@ -1,0 +1,18 @@
+{
+  "content": "(formerly IBM Data Privacy Passports) provides end-to-end, data-centric encryption and privacy to keep your data protected no matter where it travels in your enterprise. It maintains the suitable use of data, revokes future access at any time, and keeps an audit trail, which permits only authorized users to extract value from your data. For more information, see this web page. 144 IBM z16 (3931) Technical Guide \u00a9 Copyright IBM Corp. 2022. 145 Chapter 4. Central processor complex I/O structure This chapter describes the I/O system structure and connectivity options that are available on the IBM z16. This chapter includes the following topics: \u0002 4.1, \u201cIntroduction to I/O infrastructure\u201d on page 146 \u0002 4.2, \u201cI/O system overview\u201d on page 148 \u0002 4.3, \u201cPCIe+ I/O drawer\u201d on page 151 \u0002 4.4, \u201cCPC drawer fan-outs\u201d on page 154 \u0002 4.5, \u201cI/O features\u201d on page 158 \u0002 4.6, \u201cConnectivity\u201d on page 161 \u0002 4.7, \u201cCryptographic functions\u201d on page 192 \u0002 4.8, \u201cIntegrated Firmware Processor\u201d on page 195 4 146 IBM",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.666272",
+    "chunk_number": 366,
+    "word_count": 166
+  }
+}

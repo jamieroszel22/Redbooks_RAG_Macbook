@@ -1,0 +1,18 @@
+{
+  "content": "dispatched to a CF image by LPAR. The CF image never voluntarily gives up control of the shared processor. This option provides the least efficient sharing, and worst shared-engine CF performance. 134 IBM z16 (3931) Technical Guide \u2013 DYNDISP=ON An optimization over pure LPAR time-slicing; the CF image sets timer interrupts to give the LPAR the initiative to redispatch it, and the CF image voluntarily gives up control of the shared processor. This option provides the most efficient sharing, and better shared-engine CF performance. \u2013 DYNDISP=THIN An interrupt-driven model in which the CF processor is dispatched in response to a set of events that generate Thin Interrupts, runs until it runs out of work and then, gives up control voluntarily. This option provides the most efficient sharing, and best overall shared-engine CF performance. DYNDISP=THIN support to use Thin Interrupts was available since zEC12/zBC12, and proved to be efficient and well-performing in several shared-engine",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.560348",
+    "chunk_number": 340,
+    "word_count": 153
+  }
+}

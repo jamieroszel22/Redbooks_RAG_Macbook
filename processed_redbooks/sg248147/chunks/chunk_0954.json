@@ -1,0 +1,18 @@
+{
+  "content": "other than the default. 00056 // Note: The maximum linesize is equal to 222; because the maximum 450 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 00057 // length of the CP command buffer is 240, minus 9 for the userid and 00058 // intervening blank, minus 10 for the \"CP MSGNOH\" command and another 00059 // blank. The minimum linesize is 40. 00060 // SAMPL_LINESIZE_140A= 222 00061 // SAMPL_LINESIZE_150A= 222 00062 AMENG_LINESIZE_140A= 127 00063 AMENG_LINESIZE_150A= 127 The output from a command with longer lines showing all of the wrapping is shown in Example 15-14. Example 15-14 Typical 73 character line wrapping DIRMAINT QUERY DVHLEVEL DVHXMT1191I Your QUERY request has been sent for processing to DVHXMT1191I DIRMAINT at *. Ready; T=0.01/0.01 09:41:03 DVHREQ2288I Your QUERY request for PWNOVAK at * has DVHREQ2288I been accepted. DVHQRY3844I Service machine DIRMAINT at node * is DVHQRY3844I currently running: DVHQRY3844I IBM Directory Maintenance Facility DVHQRY3844I for z/VM",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.831187",
+    "chunk_number": 954,
+    "word_count": 152
+  }
+}

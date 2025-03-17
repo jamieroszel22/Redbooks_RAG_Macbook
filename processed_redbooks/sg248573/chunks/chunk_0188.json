@@ -1,0 +1,18 @@
+{
+  "content": "use case set up at watsonx.governance. The following sections will become more technical with various links to resources in the form of SDKs, notebooks, and code commands to help programmers accelerate implementation. 6.4.2 Considerations for lifecycle governance for traditional ML hosted on watsonx.ai The same seamless integration applies for traditional ML when considering the watsonx.ai and watsonx.governance platforms. Assuming the initial ML model has been saved as an asset to the watsonx.ai project space, it can be associated to a use case through the UI in the same manner as explained in section 6.4.1. In addition to the UI-based approach, lifecycle governance can be implemented via code. This section will focus on useful APIs that can be used to achieve full lifecycle governance this as well as code examples. It will make an assumption of intermediate Python programming skills on behalf of the implementer. API and SDK for watsonx.governance This section assumes an API or",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.149508",
+    "chunk_number": 188,
+    "word_count": 155
+  }
+}

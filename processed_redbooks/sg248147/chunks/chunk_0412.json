@@ -1,0 +1,18 @@
+{
+  "content": "for processing. DVHBIU3428I Changes made to directory entry USERID1 have been placed DVHBIU3428I online. DVHREQ2289I Your ADD request for USERID1 at * has completed; with RC DVHREQ2289I = 0. DVHREQ2288I Your DSATCTL request for DIRMAINT at DVHREQ2288I * has been accepted. DVHREQ2289I Your DSATCTL request for DIRMAINT at DVHREQ2289I * has completed; with RC = 0. 4. Set up the surrogate RACF class if it does not exist: ===> rac setr classact(surrogat) ===> rac setr generic(surrogat) ===> rac setr gencmd(surrogat) ===> rac setr classact(surrogat) ===> rac setr raclist(surrogat) 5. Allow logon by processing for SYSADMIN only: ===> rac rdef surrogat logonby.SYSADMIN audit(all) 6. Allow SYSADMIN to be logged on to by USERID1: ===> rac permit logonby.sysadmin cl(surr) acc(read) id(userid1) ===> rac setr raclist(surr) refresh 178 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 7. Test the log on, as shown in Figure 6-3. Figure 6-3 Test the logon You are prompted to change the password at the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.818833",
+    "chunk_number": 412,
+    "word_count": 156
+  }
+}

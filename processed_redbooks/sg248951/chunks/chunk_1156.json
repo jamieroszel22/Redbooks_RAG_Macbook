@@ -1,0 +1,18 @@
+{
+  "content": "Cyber Resiliency The terms and conditions of IBM Z Flexible Capacity for Cyber Resiliency are listed in Table D-1. Table D-1 Terms and conditions of IBM Flexible Capacity Term or condition Description Cross site movement Inter-site moves can be done, regardless of distance, mirroring, or coupling technology. Intra-site moves are not allowed (two machines in the same data center cannot move capacity back and forth). Entitlement The owner of the machine holds a title to the physical hardware. The capacity of that machine is enabled and controlled by way of the LIC of the machine, which is licensed, not sold Overlap period A 24-hour period in which the temporary record can be active on both systems. Activation limit 12 activations or deactivations per record in a year (12 activations translates to 6 round trips). Activation period Keep the flexible capacity record active on your alternative site for up to one year. License transfer LIC is licensed to one specific serial numbered machine",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.413850",
+    "chunk_number": 1156,
+    "word_count": 162
+  }
+}

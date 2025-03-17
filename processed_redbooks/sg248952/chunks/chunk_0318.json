@@ -1,0 +1,18 @@
+{
+  "content": "capping). When the rolling four-hour average returns below the defined capacity, the soft cap is removed. For more information about WLM, see System Programmer's Guide to: Workload Manager, SG24-6472. For more information about software licensing, see 7.8, \u201cSoftware licensing\u201d on page 316. 122 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Memory Memory (main storage) must be dedicated to an LPAR. The defined storage must be available during the LPAR activation; otherwise, the LPAR activation fails. Reserved storage can be defined to an LPAR, which enables nondisruptive memory addition to and removal from an LPAR by using the LPAR dynamic storage reconfiguration (z/OS and z/VM). For more information, see 3.7.4, \u201cLogical partition storage granularity\u201d on page 129. \u0002 Channels Channels can be shared between LPARs by including the partition name in the partition list of a channel-path identifier (CHPID). I/O configurations are defined by the IOCP or the HCD with the CHPID mapping tool",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.465225",
+    "chunk_number": 318,
+    "word_count": 156
+  }
+}

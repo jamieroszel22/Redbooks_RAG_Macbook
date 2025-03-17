@@ -1,0 +1,18 @@
+{
+  "content": "Support QSC (Can only include Crypto Express8S HSMs) \u2013 Not support QSC (Can\u2019t include Crypto Express8S HSMs) \u0002 Configuration migration tasks support: \u2013 Can collect and apply data to a Crypto Express8S HSM \u2013 Can apply data from a pre Crypto Express8S HSM. Chapter 6. Cryptographic features 231 \u2013 Can use EC-521 strength migration zones when working with EP11 HSMs \u0002 Launch Point For CHIM - For clients that also have IBM 4769 HSMs on linux x86, AIX x86, or Power AIX servers those HSMs can be managed using the Cryptographic Hardware Initialization and Maintenance (CHIM) feature of TKE. \u0002 New default wrapping method for the Crypto Express8S HSM. \u0002 New AES DUKPT key attribute on AES DKYGENKY parts. \u0002 New EP11 attributes and control points can be managed from the TKE. \u0002 Smart Card Reader Buzzer \u2013 For Identiv smart card readers, the reader's buzzer can be controlled by the TKE. When it is on, a sound is heard when it is time to provide input, and each time a button is pressed. 6.6.1 Logical",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.469975",
+    "chunk_number": 572,
+    "word_count": 176
+  }
+}

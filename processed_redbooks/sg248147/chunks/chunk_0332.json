@@ -1,0 +1,18 @@
+{
+  "content": "Press Enter to move to the command line (====>) at the bottom of the window. d. Because our active XEDIT session was started by using the unchanged profile, we must define PF12 as RETRIEVE for the active session. Enter the subcommands that are shown to set the definition and then, verify the result: ====> set pf12 ? ====> query pf12 The active definition for PF12 appears at the top of the window, as shown in Figure 6-1. Figure 6-1 Output from XEDIT that displays the active definition for PF12 PROFILE XEDIT A1 V 255 Trunc=255 Size=120 Line=0 Col=1 Alt=0 PF12 ONLY ? ... ====> query pf12 X E D I T 1 File Chapter 6. Configuring z/VM 141 e. Save the changes up to this point to disk: ====> save f. Enter the following subcommands to find the string SET and replace it with 'SET instead. Then, move back to the top of the file. The CHANGE command is equivalent to 1,$s/SET/'SET/g in Linux vi or vim: ====> top ====> change/SET/'SET/* * g. Move to line number 2. Then, use the CAPPEND (character",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.501148",
+    "chunk_number": 332,
+    "word_count": 183
+  }
+}

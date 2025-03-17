@@ -1,0 +1,18 @@
+{
+  "content": "facility\u2019s internal data 278 IBM z16 A02 and IBM z16 AGZ Technical Guide structures increase in size to accommodate new functions and capabilities, as such, CF structures should always be re-sized on any CFLEVEL increase. CFCC Level 24 CFCC Level 24 is delivered on IBM z15 servers with driver level 41. CFCC Level 24 introduced the following enhancements: \u0002 CFCC Fair Latch Manager This enhancement to the internals of the Coupling Facility (CFCC) dispatcher provides CF work management efficiency and processor scalability improvements, and improve the \u201cfairness\u201d of arbitration for internal CF resource latches across tasks \u0002 CFCC Message Path Resiliency enhancement CF Message Paths use a z/OS-provided system identifier (SYID) to uniquely identify which z/OS system image, and instance of that system image, is sending requests over a message path to the CF. With IBM z15, we are providing a new resiliency mechanism that transparently recovers for this \u201cmissing\u201d message path deactivate (if",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.904592",
+    "chunk_number": 680,
+    "word_count": 154
+  }
+}

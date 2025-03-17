@@ -1,0 +1,18 @@
+{
+  "content": "operating system and in the case of z/VM, to its guests. The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254. Dynamic LPAR memory upgrade An LPAR can be defined with an initial and a reserved amount of memory. At activation time, the initial amount is made available to the partition and the reserved amount can be added later, partially or totally. Although these two memory zones do not have to be contiguous in real memory, they appear as logically contiguous to the operating system that runs in the LPAR. Operating system Maximum supported main storagea a. On IBM z16 A01, LPAR storage definition supports 32 TB (IBM z16 A01 supports up to 40 TB of usable memory). z/OS z/OS V2R5 supports 16 TB. Prior z/OS releases support 4 TB z/VM z/VM V7R1 supports 2 TB while z/VM 7.2b and z/VM 7.3 support 4 TB b. With fix for APAR VM66173. z/VSE z/VSE V6R2 supports 32 GB z/TPF z/TPF supports 4 TB CFCC Levels 23, 24 and 25 support up to 3 TB Secure Service",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.739432",
+    "chunk_number": 634,
+    "word_count": 183
+  }
+}

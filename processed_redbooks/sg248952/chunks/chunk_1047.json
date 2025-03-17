@@ -1,0 +1,18 @@
+{
+  "content": "conditions. On Resource Link click Tools \u2192 Power and weight estimation. 11.2.2 Cooling requirements The IBM z16 A02 is an air cooled system. All internal components are air cooled (heatsink cooled by forced air). PCIe+ I/O drawers, power enclosures, and CPC drawers are also cooled by chilled air with internal blowers. The IBM z16 A02 support ASHRAE1 Class A3 guidelines, which recommends a (long-term) ambient temperature range of 18\u00b0C (64.4\u00b0F) - 27\u00b0C (80.6\u00b0F). The minimum allowed ambient temperature is 5\u00b0C (41\u00b0F) and the maximum allowed temperature is 40\u00b0C (104\u00b0F). The system requires chilled air to fulfill the air-cooling requirements. The airflow is from the front of the frame (intake, chilled air) to the rear (exhausts, warm air) of the frame. The chilled air is provided through perforated floor panels in front of the system. The hot and cold airflow and the arrangement of server aisles are shown in Figure 11-1. Note: IBM z16 A02 configurations with one CPC drawer (Max5, Max16, and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.168494",
+    "chunk_number": 1047,
+    "word_count": 162
+  }
+}

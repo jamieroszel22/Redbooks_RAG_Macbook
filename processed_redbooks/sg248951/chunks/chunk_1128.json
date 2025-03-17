@@ -1,0 +1,18 @@
+{
+  "content": "Execution is optimized for Large Operations under z/OS for authorized applications (for example, BSAM) and issues I/O by using EADMF for asynchronous execution. 1 Virtual L3 (shared victim) cache for IBM z16. For more information, see Chapter 2, \u201cCentral processor complex hardware components\u201d on page 15. 510 IBM z16 (3931) Technical Guide This type of execution maintains the current user experience and provides a transparent implementation for authorized users of zEDC. IBM z16 migration considerations The IBM Integrated Accelerator for zEDC is fully compatible with zEDC. Data that is compressed by zEDC can be read by IBM z16 (the on-chip) NXU and vice versa. All z/OS configurations stay the same No changes are required when moving from earlier systems by using zEDC to IBM z16. The IFAPRDxx feature is still required for authorized services. For problem state services, such as zlib use of Java, it is not required. Consider fail-over and disaster recovery sizing The order of magnitude",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.368443",
+    "chunk_number": 1128,
+    "word_count": 158
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Provisioning includes the following components: \u0002 Capacity Provisioning Manager (Provisioning Manager) \u0002 Capacity Provisioning Management Console (available in the IBM z/OS Management Facility) \u0002 Sample data sets and files The Provisioning Manager monitors the workload on a set of z/OS systems and organizes the provisioning of extra capacity to these systems when required. You define the systems to be observed in a domain configuration file. The details of extra capacity and the rules for its provisioning are stored in a policy file. These two files are created and maintained through the Capacity Provisioning Management Console (CPMC). The operational flow of Capacity Provisioning is shown in Figure 8-13 on page 360. 360 IBM z16 (3931) Technical Guide Figure 8-13 The capacity provisioning process and infrastructure The z/OS WLM manages the workload by goals and business importance on each z/OS system. WLM metrics are available through existing interfaces, and are reported through IBM",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.528225",
+    "chunk_number": 862,
+    "word_count": 151
+  }
+}

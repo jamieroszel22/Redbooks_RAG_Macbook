@@ -1,0 +1,18 @@
+{
+  "content": "you must access the 190 disk as C/A to copy the file. The target for the copy is U1 and not U: ===> access 190 C/A DMSACC724I 190 replaces C (2CC) DMSACP723I C (190) R/O DMSACP725I 190 also = S disk Ready; ===> copy prop rtable C = = U1 ===> release C 7. Modify the PROP routing table: ===> xedit prop rtable U Complete the following steps: a. Issue the following subcommands to XEDIT: ====> SET CASE UPPER ====> SET NUM ON b. Locate the LGLOPR statement: ====> /LGLOPR c. Replace \u201cOPERATOR\u201d with \u201cLGLOPR\u201d and remove the string \u201cHOSTNODE\u201d so that the result is similar to Example 6-15. Example 6-15 PROP CONFIGURATION after changes 00001 * ----- SPECIFY THE PROP CONFIGURATION ----- 00002 00003 * IDENTIFY THE LOGICAL OPERATOR 00004 00005 LGLOPR LGLOPR 00006 d. Delete lines 26 - 31 by using the block-delete prefix command DD as shown. Type over 00026 with DD. Then, move the cursor to line 31 and type over 00031 with DD, as shown in Example 6-16 on page 199. Press Enter to delete the lines.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.986135",
+    "chunk_number": 456,
+    "word_count": 182
+  }
+}

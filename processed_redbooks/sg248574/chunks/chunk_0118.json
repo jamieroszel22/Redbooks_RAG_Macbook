@@ -1,0 +1,18 @@
+{
+  "content": "Unleashing the Power of AI with IBM watsonx.ai To look up the project ID, select Project \u2192 General \u2192 Manage in the watsonx.ai project, as shown in Figure 4-39. Figure 4-39 Projects Manage view 6. Save the newly configured prompt as a notebook. Select Standard notebook as the asset type and then select Save as, as shown in Figure 4-40. Figure 4-40 Notebook save icon 7. You will now create an authentication token. Open the navigation menu (four horizontal bars) in the upper left of the watsonx interface and select Access (IAM), as shown in Figure 4-41 on page 49. Chapter 4. Building and using artificial intelligence models 49 Figure 4-41 Access (IAM) menu item 8. Select API Keys \u2192 Create. Give the token a name and save it in a notepad (Figure 4-42). You use the token in a Python notebook. Figure 4-42 API keys 9. Go to your watsonx project and open the notebook that you saved in step 8 (Figure 4-43). Figure 4-43 watsonx Studio projects overview 50 Simplify Your AI Journey: Unleashing the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.617628",
+    "chunk_number": 118,
+    "word_count": 177
+  }
+}

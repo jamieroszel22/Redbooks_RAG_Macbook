@@ -1,0 +1,18 @@
+{
+  "content": "your configuration with Crypto Express6S Crypto Express7S and TKE Release 9.x to a IBM z16 A02 and IBM z16 AGZ, you do not need to upgrade the TKE LIC. For more information about TKE hardware support, see Table 6-3 on page 233. For some functionality, requirements must be considered; for example, the characterization of a Crypto Express adapter in EP 11 mode always requires the use of a TKE. Note: Several options for ordering the TKE with or without ordering Keyboard, Mouse, and Display are available. Ask your IBM Representative for more information about which option is the best option for you. 8 TKE 8.x can be upgraded to TKE 10.0 in a limited number of cases. Please verify possibilities in e-Config. Note: If your IBM z16 A02 and IBM z16 AGZ includes Crypto Express7S or Crypto Express6S, you can use TKE V9.2, which requires the 4768 cryptographic adapter. Chapter 6. Cryptographic features 233 Table 6-3 TKE Compatibility Matrix 6.7 Cryptographic functions comparison The functions or",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.488858",
+    "chunk_number": 577,
+    "word_count": 166
+  }
+}

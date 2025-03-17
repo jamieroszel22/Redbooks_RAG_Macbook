@@ -1,0 +1,18 @@
+{
+  "content": "the performance technical papers that are available at the IBM Z I/O connectivity page of the IBM IT infrastructure website. Modified Indirect Data Address Word facility The Modified Indirect Data Address Word (MIDAW) facility improves FICON performance. It provides a more efficient channel command word (CCW)/indirect data address word (IDAW) structure for specific categories of data-chaining I/O operations. The MIDAW facility is a system architecture and software feature that is designed to improve FICON performance. This facility was first made available on IBM System z9\u00ae servers, and is used by the Media Manager in z/OS. The MIDAW facility provides a more efficient CCW/IDAW structure for certain categories of data-chaining I/O operations. Requirement: All FICON channel path identifiers (CHPIDs) that are defined to the same LCU must support zHPF. The inclusion of any non-compliant zHPF features in the path group causes the entire path group to support command mode only. 290 IBM z16",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.963041",
+    "chunk_number": 695,
+    "word_count": 152
+  }
+}

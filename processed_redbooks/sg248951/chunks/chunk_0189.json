@@ -1,0 +1,18 @@
+{
+  "content": "per core 32 MB 32 MB 32 MB 32 MB 32 MB L3 virtual cache on PU chip 32 x 8 = 256 MB 32 x 8 = 256 MB 32 x 8 = 256 MB 32 x 8 = 256 MB 32 x 8 = 256 MB L4 virtual cache on chips in drawer 32 x 8 x 8 = 2 GB 32 x 8 x 8 = 2 GB 32 x 8 x 8 = 2 GB 32 x 8 x 8 = 2 GB 32 x 8 x 8 = 2 GB Cycle time (ns) 0.192 0.192 0.192 0.192 0.192 Clock frequency 5.2 GHz 5.2 GHz 5.2 GHz 5.2 GHz 5.2 GHz Maximum number of PCIe fan-outs 12 24 36 48 60 PCIe bandwidth 16 GBps 16 GBps 16 GBps 16 GBps 16 GBps Number of support elements 2 2 2 2 2 External AC power 3-phase 3-phase 3-phase 3-phase 3-phase \u00a9 Copyright IBM Corp. 2022. All rights reserved. 67 Chapter 3. Central processor complex design This chapter describes the design of the IBM z16 processor unit. By understanding this design, users become familiar with the functions that make the IBM z16 a system that accommodates a broad mix of workloads for large enterprises. This chapter includes the following topics: \u0002 3.1, \u201cOverview\u201d on page 68 \u0002 3.2, \u201cDesign",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.934333",
+    "chunk_number": 189,
+    "word_count": 222
+  }
+}

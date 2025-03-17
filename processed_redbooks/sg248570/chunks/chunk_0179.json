@@ -1,0 +1,18 @@
+{
+  "content": "engine can execute complex queries against immense datasets with surprising speed. This empowers analysts to explore data interactively, iterate on hypotheses, and refine models without suffering from long turnaround times or hefty data movement costs. 5.3.3 Standard SQL support Despite the proliferation of new programming languages, frameworks, and query paradigms, SQL endures as the default language of choice for analytics. Its declarative syntax, standardized grammar, and broad support across numerous tools and platforms make it accessible to a vast audience-business analysts, data scientists, developers, and even managers with technical acumen. SQL's universality and expressiveness have kept it at the center of data querying and manipulation. In classical relational settings, SQL acts as a powerful yet relatively simple interface that abstracts away the complexity of underlying data structures. Users do not need to write intricate, low-level code to retrieve data or perform",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.029580",
+    "chunk_number": 179,
+    "word_count": 141
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "tables, columns, and rows. Chapter 2. Introduction to IBM watsonx.data 21 Users are checked for access based on defined access policies. Advanced governance involving the masking of data, for example, leverages Watson Knowledge Catalog governance. Querying The querying layer, as previously mentioned, enables multiple query engines to coexist within watsonx.data. One size does not fit all when it comes to querying all the different types of data that may exist in a lakehouse. This layer enables the best engines to be intelligently assigned to query the target data sets for cost optimization of workloads. The different query engines are assigned infrastructure profiles. For example, Presto can leverage different flavors of worker nodes (used to run containerized applications and handle networking to ensure that traffic between applications across the cluster and from outside of the cluster can be properly facilitated). One node might be used to better manage CPU-dense tasks that require",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.635069",
+    "chunk_number": 77,
+    "word_count": 151
+  }
+}

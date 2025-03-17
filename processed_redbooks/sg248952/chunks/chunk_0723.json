@@ -1,0 +1,18 @@
+{
+  "content": "10GbE RoCE Express3 SR and 10GbE RoCE Express3 LR 10GbE RoCE Express3 features (FC 0440 and FC 0441) are a RDMA/Ethernet technology refresh.The features support now also LR optics and 10 Gbit Ethernet switches with relaxed requirements. The features are installed in the PCIe+ I/O drawer and are supported only on IBM z16 A02 and IBM z16 AGZ configurations. The 10GbE RoCE Express3 are native PCIe features which not use a CHPID and are defined by using the IOCP FUNCTION statement or in the hardware configuration definition (HCD). The virtualization capabilities for IBM z16 A02 and IBM z16 AGZ are 63 Virtual Functions per port (126 VFs per feature/PCHID). One RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID). The 25GbE RoCE Express3 SR (FC 0452) feature connects using SR optics and multimode fiber terminated with LC connector, while 25GbE RoCE Express3 LR (FC 0453) connects using LR optics and single mode fiber terminated with LC connector.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.061162",
+    "chunk_number": 723,
+    "word_count": 165
+  }
+}

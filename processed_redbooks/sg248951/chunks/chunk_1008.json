@@ -1,0 +1,18 @@
+{
+  "content": "Customize Console Services task. To enable or disable the Remote operation service, click Change... in the Customize Console Services window, as shown in Figure 10-23. Note: Remote web browser access is the default for the HMA HMCs. Chapter 10. Hardware Management Console and Support Element 435 Figure 10-23 Customizing HMC remote operation Microsoft Internet Explorer, Microsoft Edge, Mozilla Firefox, Safari, and Goggle Chrome were tested as remote web browsers. For more information about web browser requirements, see the HMC and SE console help system or see the IBM Resource Link. At this web page, select Library, the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide. Single Object Operations It is not necessary to be physically close to a SE to use it. The HMC can be used to access the SE remotely by using the SOO task. The interface is the same as the interface that is used on the SE. For more information, see the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.013538",
+    "chunk_number": 1008,
+    "word_count": 163
+  }
+}

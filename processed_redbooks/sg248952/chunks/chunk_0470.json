@@ -1,0 +1,18 @@
+{
+  "content": "features. The following features installed in the PCIe+ I/O drawer are managed by the resource group firmware (running on IFP): \u0002 25GbE RoCE Express3 SR \u0002 25GbE RoCE Express3 LR \u0002 10GbE RoCE Express3 SR \u0002 10GbE RoCE Express3 LR \u0002 25GbE RoCE Express2.1 \u0002 10GbE RoCE Express2.1 \u0002 25GbE RoCE Express2 \u0002 10GbE RoCE Express2 \u0002 Coupling Express2 Long Reach (CE LR) All native PCIe features should be ordered in pairs for redundancy. The features are assigned to one of the four resource groups (RGs) that are running on the IFP according to their physical location in the PCIe+ I/O drawer, which provides management functions and virtualization functions. If two features of the same type are installed, one always is managed by resource group 1 (RG 1) or resource group 3 (RG3) while the other feature is managed by resource group 2 (RG 2) or resource group 4 (RG 4). This configuration provides redundancy if one of the features or resource groups needs maintenance or fails. The IFP and RGs support the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.044036",
+    "chunk_number": 470,
+    "word_count": 173
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "selected from its candidate list in the partition image profile. b. This feature is not required for Linux if only RSA clear key operations are used. DES or triple DES encryption requires CPACF to be enabled. c. This feature is physically present, but is not used when configured as an accelerator (clear key only). Functions or attributes CPACF CEX8C CEX8P CEX8A 236 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 21CS VSEn V6.3 with PTFs \u0002 z/TPF V1.1 with PTFs \u0002 Linux on IBM Z: IBM is working with its Linux distribution partners to provide support by way of maintenance or future releases for the following distributions: \u2013 SUSE Linux Enterprise Server 12 and SLES 11 \u2013 Red Hat Enterprise Linux (RHEL) 8 and Red Hat Enterprise Linux 7 \u2013 Ubuntu 16.04 LTS (or higher) The KVM hypervisor, which is offered supported Linux distributions. For more information about minimal and recommended distribution levels, see the Tested platforms for Linux web page of the IBM IT infrastructure website. 6.8.2",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.509841",
+    "chunk_number": 583,
+    "word_count": 170
+  }
+}

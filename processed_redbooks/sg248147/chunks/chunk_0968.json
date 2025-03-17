@@ -1,0 +1,18 @@
+{
+  "content": "referenced via $HOME/.ssh) does not exist, create it as shown in the following example: ===> mkdir -p $HOME/.ssh Chapter 15. Miscellaneous recipes and helpful information 457 15.9 Sharing IBM WebSphere Application Server binaries It is suggested that anyone who is thinking about running WebSphere Application Server Traditional Profile (Network Deployment and stand-alone alike) to explore this topic further. The IBM Washington Systems Center published the WSC Whitepaper (document ID WP102730), which is available at this IBM Support web page, that provides more information about this issue, which includes the following abstract text: This document describes a process that enables you to share one installation of WebSphere Application Server among many Linux guests running under z/VM. This is an update to the previous versions of this document, which covered WebSphere v8.0.x. As a platform for Linux, one of the strengths of IBM Z is the ability to centrally manage many Linux images. But",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.872067",
+    "chunk_number": 968,
+    "word_count": 152
+  }
+}

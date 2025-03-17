@@ -1,0 +1,18 @@
+{
+  "content": "Express3 LR 0453 25 SM 9 \u00b5m New build 25GbE RoCE Express3 SR 0452 25 OM3, OM4 New build Channel feature Feature codes Bit ratea in Gbps (or stated) Cable type Maximum unrepeated distanceb Ordering information Appendix A. Channel options 501 The unrepeated distances for different multimode (MM) fiber optic types for zHyperLink Express are listed in Table A-2. Table A-2 Unrepeated distances 10GbE RoCE Express3 LR 0441 10 SM 9 \u00b5m New build 10GbE RoCE Express3 SR 0440 10 OM2, OM3 OM4 33 m (200) 82 m (500) 300m (2000)d New build 25GbE RoCE Express2.1 0450 25 OM3, OM4 70 m (2000) 100 m (4700) Carry forward 25GbE RoCE Express2 0430 10GbE RoCE Express2.1 0432 10 OM2, OM3 OM4 33 m (200) 82 m (500) 300m (2000)d Carry forward 10GbE RoCE Express2 0412 Parallel Sysplex CE2 LR 0434 10 Gbps SM 9 \u00b5m 10 km (6.2 miles) New build ICA SR1.1 0176 8 GBps OM4 OM3 150 m 100 m New build, Carry forward ICA SR 0172 Carry forward a. The link data rate does not represent the performance of the link. The",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.337127",
+    "chunk_number": 1116,
+    "word_count": 184
+  }
+}

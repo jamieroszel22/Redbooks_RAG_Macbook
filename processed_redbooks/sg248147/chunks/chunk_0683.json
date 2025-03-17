@@ -1,0 +1,18 @@
+{
+  "content": "Example CONFIGAA DATADVH file contents DISK_CLEANUP= YES PW_INTERVAL_FOR_SET= 90 ONLINE= IMMED RUNMODE= OPERATIONAL RACF_RDEFINE_VMBATCH_DEFAULTS= MESSAGE_LOGGING_FILETYPE= TRANSLOG MESSAGE_LOG_RETENTION_PERIOD= 3 (MONTHS) PURGE_COMMAND_PROCESSING= FULL SHUTDOWN_MESSAGE_FAILURE= LOGOFF DATAMOVE_MACHINE= DATAMOVE * * 6. Copy CONFIGAA DATADVH to the 11F minidisk: ===> ACC 41F L ===> ACCESS 11F F ===> COPY CONFIGAA DATADVH L = = F (OLDDATE TIP: Some definitions are required for compliance reasons and it can vary upon your security policies (for example, the log retention period and disk cleanup settings). You might also consider other options, such as altering the output line length, as described in 15.5, \u201cSystem modifications for wide-screen terminals\u201d on page 449 Chapter 10. DirMaint, RACF-connector, and SMAPI 313 10.2.3 Working with DirMaint AUTHFOR file The AUTHFOR CONTROL file specifies user IDs that are allowed to perform authorized DirMaint tasks. Only grant authorization to the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.901843",
+    "chunk_number": 683,
+    "word_count": 136
+  }
+}

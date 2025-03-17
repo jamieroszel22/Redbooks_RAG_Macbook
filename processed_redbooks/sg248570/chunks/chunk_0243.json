@@ -1,0 +1,18 @@
+{
+  "content": "chart image locally by selecting Actions \u2192 Download chart image, as shown in Figure 8-62. This option is helpful when sharing with users who do not have access to the project, and for cases when the data visualization must be embedded into other mediums, such as a presentation. Figure 8-62 Download chart image menu 4. Figure 8-63 shows the data visualization asset on the Assets tab of the project. Figure 8-63 All assets: Bank Term Deposit Subscriptions by Profession The data analyst selects this asset to view the data visualization from the perspective of the user to confirm that the data visualization appears as expected. Figure 8-64 on page 141 shows this view when the data visualization asset is opened. Chapter 8. Marketing campaign analysis use case 141 Figure 8-64 All assets: Bank Term Deposit Subscriptions by Profession - Chart 8.5 Building and developing machine learning models The data connection in the IBM watsonx.ai project can also be used by data scientists. In this",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.281116",
+    "chunk_number": 243,
+    "word_count": 164
+  }
+}

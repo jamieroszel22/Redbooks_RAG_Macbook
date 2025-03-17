@@ -1,0 +1,18 @@
+{
+  "content": "RC=0 MDREST: WROTE 1800 BLOCKS ON 04CC, RC=0 IUGDVP8392I DVDPRIME EXEC ended successfully Chapter 5. Installing z/VM 125 3. Run the INSTPLAN TRADITIONAL command to set up the configuration for the installation process. You see the z/VM INSTALLATION PLANNING panel, as shown in Figure 5-27. In specific instances, you might need to clear the terminal panel by pressing Esc before the INSTPLAN panel appears: ===> instplan traditional It is recommended that you leave the Ms that are in the top section as is for a minidisk installation. Figure 5-27 z/VM STANDALONE INSTALLATION PLANNING 4. Enter the letter X next to both AMENG (or select your language) and 3390 Mod 9 (or the type of DASD you use), as shown. The common service file pool default name is VMPSFS and it is recommended that you use this value. *** z/VM INSTALLATION PLANNING *** Mark the product(s) selected to be installed into the filepool with an \"F\" and those selected to be installed to minidisks with an \"M\" F VM F DIRM F ICKDSF",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.400382",
+    "chunk_number": 305,
+    "word_count": 172
+  }
+}

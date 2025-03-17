@@ -1,0 +1,18 @@
+{
+  "content": "includes the following requirements: \u0002 z/OS 2.2 or later \u0002 Supported DS8000 (see Getting Started with IBM zHyperLink for z/OS, REDP-5493) \u0002 zHyperLink Express adapter (FC 0431 or FC0451) installed \u0002 FICON channel as a driver \u0002 Only ECKD supported \u0002 z/VM is not supported Up to 16 zHyperLink Express adapters can be installed in an IBM z16 A02 or IBM z16 AGZ (up to 32 links). The zHyperLink Express is virtualized as a native PCIe adapter and can be shared by multiple LPARs. Each port can support up to 127 Virtual Functions (VFs), with one or more VFs/PFIDs being assigned to each LPAR. This configuration gives a maximum of 254 VFs per adapter. The zHyperLink Express requires the following components: \u0002 zHyperLink connector on supported DS8000 I/O Bay. \u0002 Optic Fiber Cable The zHyperLink Express and zHyperlink Express1.1 use optical cable with MTP connector. Maximum supported cable length is 150 meters (492 feet). 4.6.3 Network connectivity Communication for LANs is provided by the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.827319",
+    "chunk_number": 411,
+    "word_count": 164
+  }
+}

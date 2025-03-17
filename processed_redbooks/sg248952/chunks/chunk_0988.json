@@ -1,0 +1,18 @@
+{
+  "content": "51/ Version 2.16.0 and later are supported only when the HMC is connected to an IBM Z with Driver 51/Version 2.16.0. Important: The ISO image server must be in the same IP subnet with the target system to load the HMC or SE ISO. 412 IBM z16 A02 and IBM z16 AGZ Technical Guide The following SE Drivers/Versions are supported by the HMC Driver 51/Version 2.16.0 as listed in Table 10-1. Table 10-1 SE supported with HMC Driver 51/Version 2.16.0 10.3 HMC and SE connectivity The connectivity for multiple CPC generations and mixing standalone HMCs and HMAs environments (IBM z16 N-2 only) is shown in Figure 10-18. Figure 10-18 IBM z16 A02 and IBM z16 AGZ HMC/SE connectivity with multiple CPCs Various methods are available for setting up the network. Designing and planning the HMC and SE connectivity is the clients\u2019 responsibility, based on the environment\u2019s connectivity and security requirements. For further references to setting up the HMC/SE communication please, see (per your",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.955130",
+    "chunk_number": 988,
+    "word_count": 163
+  }
+}

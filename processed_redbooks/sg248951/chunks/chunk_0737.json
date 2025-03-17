@@ -1,0 +1,18 @@
+{
+  "content": "up to 120 console session connections. To improve security of console operations and to provide a secure, validated connectivity, OSA-ICC supports Transport Layer Security/Secure Sockets Layer (TLS/SSL) with Certificate Authentication staring with IBM z13 GA2 (Driver level 27). OSA-ICC Enhancements With HMC 2.14.1 and newer the following enhancements are available: \u0002 The IPv6 communications protocol is supported by OSA-ICC 3270 so that clients can comply with regulations that require all computer purchases to support IPv6. \u0002 TLS negotiation levels (the supported TLS protocol levels) for the OSA-ICC 3270 client connection can now be specified: \u2013 TLS 1.0 OSA-ICC 3270 server permits TLS 1.0, TLS 1.1, and TLS 1.2 client connections. \u2013 TLS 1.1 OSA-ICC 3270 server permits TLS 1.1 and TLS 1.2 client connections. \u2013 TLS 1.2 OSA-ICC 3270 server permits only TLS 1.2 client connections. \u0002 Separate and unique OSA-ICC 3270 certificates are supported (for each PCHID) for the benefit of customers who",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.115303",
+    "chunk_number": 737,
+    "word_count": 154
+  }
+}

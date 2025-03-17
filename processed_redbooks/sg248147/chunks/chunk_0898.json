@@ -1,0 +1,18 @@
+{
+  "content": "virtual switch by using the priv01 port group on all members of the SSI (ITSOZVM1 and ITSOZVM2 in this example): ===> define vswitch vswprv1 rdev none ethernet vlan aware group priv01 gvrp Note: Port number 1, not port number 0, was used for this connection. Note: Consider the following points: \u0002 Link Aggregation Control Protocol (LACP) is set as active, by default. To use LACP, the network switch needs LACP to be active on the ports to which the CHPIDs connect. If LACP is not active in the switch, the port group does not activate when it is defined to a VSWITCH. \u0002 If you receive message HCPSWU2832E, the LPAR does not have exclusive use of the device. Another LPAR has the device online. However, exclusive use does not require that only one LPAR in the I/O configuration data set (IOCDS) has the CHPID defined and the devices dedicated. SCZP301 - z196 SCZP401 - zEC12 zVM63A - zVM 6.3 zVM63B- zVM 6.3 Inxadmin 0604 Inxadmin 0604 2106. P01 2126. P01 2146. P01 2166. P01 Vswprv1 vSwitch",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.635942",
+    "chunk_number": 898,
+    "word_count": 176
+  }
+}

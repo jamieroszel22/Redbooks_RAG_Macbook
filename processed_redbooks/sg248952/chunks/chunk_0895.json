@@ -1,0 +1,18 @@
+{
+  "content": "CPs cannot exceed the number of CPs that are supported by the operating system. z/OS V2.R5, V2.R4, and V2.R3 support 200 PUs per z/OS LPAR in non-SMT mode and 128 PUs per z/OS LPAR in SMT mode. For both, the PU total is the sum of CPs and zIIPs. z/VM supports up to 64 processors. \u0002 Configure reserved storage to LPARs. Configuring reserved storage for all LPARs before their activation enables them to be nondisruptive upgraded. The operating system that is running in the LPAR must configure memory online. The amount of reserved storage can be greater than the CPC drawer threshold limit, even if no other CPC drawer is installed. With IBM z16 A02 or IBM z16 AGZ, the current partition storage limit is 4TB for z/OS V2.R3 & V2.R4 and 16TB for z/OS V2.R5 and later. z/VM V7.R1 supports 2 TB and z/VM V7.R2 supports 4TB memory partitions. Chapter 8. System upgrades 363 Considerations when installing second CPC drawer During an upgrade, a second CPC drawer can be installed concurrently if",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.639766",
+    "chunk_number": 895,
+    "word_count": 173
+  }
+}

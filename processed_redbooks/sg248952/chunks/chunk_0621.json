@@ -1,0 +1,18 @@
+{
+  "content": "CPACF enablement and FICON Express32S LX/SX e. Feature is OS independent (transparent to OS); OS support is only needed for displaying configuration and monitoring (fixes may be required) Functiona VSEn V6R3 z/TPF V1R1 Linux on IBM Zb Chapter 7. Operating system support 255 7.3.4 Network connectivity The supported network connectivity functions for z/OS and z/VM are listed in Table 7-8. Table 7-8 Supported network connectivity functions for z/OS and z/VM Statements of Directiona: \u0002 IBM z16 A02 and IBM z16 AGZ generation will be the last IBM Z to support the OSE CHPID type. \u0002 IBM z16 A02 and IBM z16 AGZ generation will be the last IBM Z to support OSA Express 1000BASE-T hardware adapters. a. Statements by IBM regarding its plans, directions, and intent are subject to change or withdrawal without notice at the sole discretion of IBM. Note: z/OS V2R2 support ended as of September 2020. No new function is provided for exploiting the new HW features (toleration support only). Although",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.681781",
+    "chunk_number": 621,
+    "word_count": 164
+  }
+}

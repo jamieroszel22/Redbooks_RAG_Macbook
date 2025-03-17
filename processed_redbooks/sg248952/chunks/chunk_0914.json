@@ -1,0 +1,18 @@
+{
+  "content": "resume the task, in most cases without client intervention. \u0002 Cooling change The IBM z16 A02 and IBM z16 AGZ configurations include front to rear cooling (air flow), which includes blowers, controls, and sensors that are N+1 redundant. The replacement of blowers is concurrent with no affect on performance. \u0002 FICON Express 32S with Forward Error Correction (FEC) FICON Express32S features continue to provide a new standard for transmitting data over 32 Gbps links by using 256b/257b encoding. The new standard that is defined by T11.org FC-FS-3 is more efficient than the 64b/66b or older 8b/10b encoding. FICON Express32S channels that are running at 32 Gbps can take advantage of FEC capabilities when connected to devices that support FEC. FEC allows FICON Express32S channels to operate at higher speeds, over longer distances, with reduced power and higher throughput. They also retain the same reliability and robustness for which FICON channels are traditionally known. FEC is a technique",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.701570",
+    "chunk_number": 914,
+    "word_count": 157
+  }
+}

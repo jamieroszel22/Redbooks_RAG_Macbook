@@ -1,0 +1,18 @@
+{
+  "content": "2-20 CPC Drawer DIMM locations Front Rear DCM1 DCM3 DCM4 DCM2 MD25-28 MD01-04 MD29-32 MD05-08 MD33-36 MD09-12 MD37-40 MD13-16 MD41-44 MD17-20 MD45-489 MD21-24 48 IBM z16 A02 and IBM z16 AGZ Technical Guide Table 11lists the physical memory plugging configurations by feature code from manufacturing when the system is ordered. Consider the following points: \u0002 The CPC drawer columns for the specific feature contain the Memory Plug Drawer Configuration number that is referenced in Table 2-10 and the Population by DIMM Bank that is listed in Table . \u0002 Dial Max indicates the maximum memory that can be enabled by way of the LICC concurrent upgrade. If more storage is ordered by using other feature codes, such as Virtual Flash Memory, the extra storage is installed and plugged as necessary. Example1: A customer orders FC 3146 that provides 4448 GB customer memory, and FC 0675 (Max68). The two drawer configurations include the following components: CPC0 (2560 GB) and CPC1 (2560 GB) - both CPC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.801613",
+    "chunk_number": 158,
+    "word_count": 164
+  }
+}

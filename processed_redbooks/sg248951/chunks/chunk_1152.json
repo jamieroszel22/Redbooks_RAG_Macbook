@@ -1,0 +1,18 @@
+{
+  "content": "Capacity can remain active on both sites, as shown in Figure D-7 Figure D-7 Transfer window After 24 hours, the Flexible Capacity in Site A is removed and System A is reduced to base capacity (see Figure D-8). Flexible Capacity on System B can stay running for up to one year. Figure D-8 Stay in DR for up to one year 524 IBM z16 (3931) Technical Guide Multi-system environment A two-site, two-system environment is only the base infrastructure. Flexible Capacity for Cyber Resiliency also is suited for complex multi-system environments. Flexible Capacity from several systems can be transferred to single systems in Site B or vice-versa (see Figure D-9). Figure D-9 Multi-system Flex Capacity example Movement of capacity does not need to be \u201call to one\u201d: the capacity also can be split. However, the total capacity that is active on all systems after the swap cannot exceed the total capacity that is active before the swap. Flexibly Capacity is available on all engine types; exceeding the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.408494",
+    "chunk_number": 1152,
+    "word_count": 166
+  }
+}

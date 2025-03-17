@@ -1,0 +1,18 @@
+{
+  "content": "include a nondestructive operand encoding that allows the addition of the register vector A and register vector B and stores the result in the register vector A (A = A + B). A schematic representation of a SIMD instruction with 16-byte size elements in each vector operand is shown in Figure 3-9 on page 84. 84 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 3-9 SIMD operation logic The vector register file overlays the floating-point registers (FPRs), as shown in Figure 3-10. The FPRs use the first 64 bits of the first 16 vector registers, which saves hardware area and power, and makes it easier to mix scalar and SIMD codes. Effectively, the core gets 64 FPRs, which can further improve FP code efficiency. Figure 3-10 Floating point registers overlaid by vector registers SIMD instructions include the following examples: \u0002 Integer byte to quadword add, sub, and compare \u0002 Integer byte to doubleword min, max, and average \u0002 Integer byte to word multiply \u0002 String find 8-bit, 16-bit, and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.075690",
+    "chunk_number": 227,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Recovery Boost Upgrade The System Recovery Boost Upgrade optional feature is offered with IBM z16 A01 to provide more capacity for System Recovery Boost processing. For example, if a z/OS operating system change requires a sequence of system shutdowns and restarts, and these procedures can benefit from extra CPU capacity, the System Recovery Boost record can be used to activate more zIIPs on the server at the commencement of the change window. These zIIPs are used by the z/OS systems to run general CP work during the boost periods. The System Recovery Boost Upgrade requires the following feature codes: \u0002 FC 6802: System Recovery Boost Record This feature code provides extra zIIP capacity (20 zIIP records for 1 - 5 years, orderable by FC 6799, and must be renewed if expired) for use in System Recovery Boost events (shutdown, restart/IPL, and stand-alone memory dumps). \u0002 FC 9930: Boost Authorization contract This code enables the ordering of On/Off CoD for System Recovery Boost through",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.564660",
+    "chunk_number": 871,
+    "word_count": 163
+  }
+}

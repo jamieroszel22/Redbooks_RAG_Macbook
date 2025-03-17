@@ -1,0 +1,18 @@
+{
+  "content": "amount of available resources. A multi-LPAR mainframe can run thousands of Linux virtual servers, depending on the size and resources that are required. With a z/VM and Linux infrastructure, you can reduce the time between deciding on the acquisition of new servers and then implementing them because new servers can be easily deployed in a matter of minutes. With this powerful capability, you can launch new products and services without the exhaustive planning for, purchasing, installing, and configuring new hardware and software that can be associated with conventional discrete hardware servers. Chapter 1. Conceptual overview 17 Development groups that require test environments that are built and rebuilt rapidly to enable them to efficiently deliver their projects (and handle change management in the process) can also benefit from this unique advantage. The addition of new companion products, such as IBM Wave for z/VM, now permit many of these tasks to be accomplished with a point and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.464380",
+    "chunk_number": 87,
+    "word_count": 155
+  }
+}

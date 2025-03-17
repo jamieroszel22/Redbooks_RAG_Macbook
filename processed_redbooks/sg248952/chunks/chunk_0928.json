@@ -1,0 +1,18 @@
+{
+  "content": "communication adapter (ICA) Short Reach (SR) links are used, an unambiguous \u201cgoing away signal\u201d is sent when the server on which the coupling link is running is about to enter a failed (check stopped) state. When the \u201cgoing away signal\u201d that is sent by the Current Time Server (CTS) in an STP-only Coordinated Timing Network (CTN) is received by the Backup Time Server (BTS), the BTS can safely take over as the CTS without relying on the previous Offline Signal (OLS) in a two-server CTN, or as the Arbiter in a CTN with three or more servers. Enhanced Console Assisted Recovery (ECAR) contains recovery algorithms during a failing Primary Time Server (PTS) and uses communication over the HMA/SE network to assist with BTS takeover. For more information, see Chapter 10, \u201cHardware Management Console and Support Element\u201d on page 393. Coupling Express2 LR does not support the \u201cgoing away signal\u201d; however, ECAR can be used to assist with recovery in the following configurations: \u0002 Design of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.739397",
+    "chunk_number": 928,
+    "word_count": 165
+  }
+}

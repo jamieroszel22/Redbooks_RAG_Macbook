@@ -1,0 +1,18 @@
+{
+  "content": "and are too small for any practical Linux usage. Because of these factors, this book does not use or discuss this model. \u2022 3390-09: 3390 Model 9, or \u201cMod-9s\u201d, \u2022 3390-27: 3390 Model 27, or \u201cMod-27s\u201d, \u2022 3390-54: 3390 Model 54, or \u201cMod-54s\u201d, \u2013 Oversize models, or volumes larger than 3390-54: 3390-A Extended Address Volumes (EAVs) that are larger than Mod-54s. \u0002 Amount of disk storage per Linux image and how to allocate file systems. IMPORTANT: If you plan to install Ubuntu Server by using Volume 4 of this book series, review Appendix C of The Virtualization Cookbook for IBM z Systems Volume 4: Ubuntu Server 16.04, SG24-8354 for considerations regarding systems that are behind a network proxy or firewall. Important: If you have a storage administrator that meets our definition, you must involve them in your planning activities. Never assume anything; therefore, if you are not sure, check with your CIO office to determine if such a person or group exists. 44 Virtualization Cookbook: Vol 1:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.747077",
+    "chunk_number": 151,
+    "word_count": 167
+  }
+}

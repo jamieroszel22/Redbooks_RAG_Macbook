@@ -1,0 +1,18 @@
+{
+  "content": "provide the password at any time to the IBM System Service Representative (SSR). The client need an established process to avoid service delays, not having the password available for the IBM technician. Chapter 10. Hardware Management Console and Support Element 407 \u0002 CoD automation scripts \u0002 Sustainability / Environmental monitoring As sustainability gets more important for many clients, there was a request to have more monitoring possibilities. The following features at HMC level are improved: \u2013 The previous task Environmental Efficiency Statistics is replaced by a new task called Environmental Dashboard. With the new Environmental Dashboard the following new observations are now possible: \u2022 View of power utilized by components assigned to individual partitions \u2022 View of power used by the infrastructure components (including top of rack switches, SE/HMAs, and PDUs) which are not included in the power view for partitions \u2022 View of power of unused I/O adapters / components that are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.929797",
+    "chunk_number": 980,
+    "word_count": 153
+  }
+}

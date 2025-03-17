@@ -1,0 +1,18 @@
+{
+  "content": "2.9.3 Network attachment options and considerations The use of z/VM Virtual Network Switches (VSWITCH) is the IBM recommended practice. It features less computational expense than the other alternatives. When it is correctly configured, it provides built-in fail-over. It also supports 802.1q VLAN by port, 802.1q VLAN by user, port isolation, and 802.3ad link aggregation. VSWITCH interfaces The VSWITCH type of network is provided to z/VM VM systems by z/VM. During the installation phase, a basic VSWITCH is configured. VSWITCHES are software switches that offer many of the capabilities that are provided by a real switch. The IBM recommended configuration for z/VM VSWITCHES is ETHERNET mode, which is also frequently referred to as Layer 2. Ethernet-based networks are currently used for most z/VM installations that run Linux as a VM operating system. Under virtually all circumstances, z/VM VSWITCHES must be configured as ETHERNET/Layer 2. Characteristics of VSWITCH interfaces VSWITCH",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.875362",
+    "chunk_number": 180,
+    "word_count": 148
+  }
+}

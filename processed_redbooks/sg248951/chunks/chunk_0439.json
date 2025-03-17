@@ -1,0 +1,18 @@
+{
+  "content": "Duplex connector. Ensure that the attaching or downstream device includes an LR transceiver. The transceivers at both ends must be the same (LR to LR). Note: CHPID types OSM, OSN, and OSX are not supported on IBM z16. 178 IBM z16 (3931) Technical Guide The OSA-Express6S 10 GbE LR feature does not support auto-negotiation to any other speed and runs in full duplex mode only. A 9 \u00b5m single-mode fiber optic cable that ends with an LC Duplex connector is required for connecting this feature to the selected device. For more information about supported distances, see Table 4-8 on page 179. OSA-Express6S Gigabit Ethernet SX (FC 0423) The OSA-Express6S GbE SX feature includes one PCIe adapter and two ports. The two ports share a channel path identifier (CHPID type OSD). The ports support attachment to a 1 Gbps Ethernet LAN. Each port can be defined as a spanned channel and shared among LPARs and across logical channel subsystems. The OSA-Express6S GbE SX feature supports the use of an LC",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.939541",
+    "chunk_number": 439,
+    "word_count": 169
+  }
+}

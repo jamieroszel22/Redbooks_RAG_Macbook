@@ -1,0 +1,18 @@
+{
+  "content": "disk MAINT720 FILELIST A0 V 169 Trunc=169 Size=3 Line=1 Col=1 Alt=0 Cmd Filename Filetype Fm Format Lrecl Records Blocks Date Time LOGO CONFIG Y1 V 69 63 1 2020-06-24 09:14:16 SYSTEM CONFIG Y1 F 80 368 8 2020-10-05 11:36:03 2. Create a copy of LOGO CONFIG from the file by moving your cursor to the beginning of the LOGO CONFIG line, entering the following text, and then, pressing Enter. You type over part of the existing text, as shown in Example 15-3. COPY / LOGO-1 = = (OLDDATE) Example 15-3 Typing over visible text to copy the file MAINT720 FILELIST A0 V 169 Trunc=169 Size=3 Line=1 Col=1 Alt=0 Cmd Filename Filetype Fm Format Lrecl Records Blocks Date Time COPY / LOGO-1 = = (OLDDATE) 69 63 1 2020-06-24 09:14:16 SYSTEM CONFIG Y1 F 80 368 8 2020-10-05 11:36:03 3. Press F2 to refresh your display. It should look similar to Example 15-4. Example 15-4 Refreshed display MAINT720 FILELIST A0 V 169 Trunc=169 Size=3 Line=1 Col=1 Alt=6 Cmd Filename Filetype Fm Format Lrecl Records Blocks Date",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.787808",
+    "chunk_number": 940,
+    "word_count": 175
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "generation, summarization, text classification, and data extraction. \u0002 Tuning Studio: Fine-tune FMs to customize outputs for specific use cases to enhance model performance and accuracy. \u0002 InstructLab: At the time of writing, this feature is planned to be integrated into watsonx.ai in the future. 4.4 Getting started with watsonx.ai: Setting up the environment To set up the watsonx.ai environment, you must have an IBM Cloud account. To register for an account, see Create an IBM Cloud account. At the time of writing, here are the high-level steps to provision watsonx.ai in a Software-as-a-Service (SaaS) environment: 1. Set up your IBM Cloud account. 2. Create a Project in watsonx: a. Log in to https://dataplatform.cloud.ibm.com/login b. Expand the \u2018hamburger\u2019 navigation menu, as shown in Figure 4-1. Figure 4-1 watsonx navigation menu icon c. Select Projects \u2192 View all projects, as shown in Figure 4-2. Figure 4-2 View all projects menu 30 Simplify Your AI Journey: Unleashing the Power of",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.500702",
+    "chunk_number": 95,
+    "word_count": 157
+  }
+}

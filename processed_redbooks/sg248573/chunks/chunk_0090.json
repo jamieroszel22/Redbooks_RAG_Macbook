@@ -1,0 +1,18 @@
+{
+  "content": "no-code tools, including Auto AI for creating traditional machine learning models, Prompt Lab for prompt engineering, and Prompt Studio for adapting and fine-tuning generative AI models. Additionally, watsonx.ai offers a Studio and a Python Software Development Kit (SDK) designed for data scientists and AI engineers to build, train, adapt, fine-tune, and deploy both traditional machine learning and generative AI assets. 2.5.4 AI Lifecycle Management and Governance The IBM watsonx platform enables end-to-end AI lifecycle management and governance. IBM recommends following an end-to-end process to build AI solutions that are ethical and responsible - secure, safe, transparent, and trustworthy, as shown in Figure 2-3. Figure 2-3 End-to-end flow for AI lifecycle and governance powered by IBM watsonx In this approach, an AI Use Case Owner or Requestor starts by creating an AI use case in watsonx.governance. This involves outlining the business purpose of the use case and detailing how AI",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.789695",
+    "chunk_number": 90,
+    "word_count": 149
+  }
+}

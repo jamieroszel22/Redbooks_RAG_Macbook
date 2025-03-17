@@ -1,0 +1,18 @@
+{
+  "content": "drawer). IBM z16 A02 and IBM z16 AGZ memory is designed with a new memory buffer chip that provides up to DDR4-3200 memory speed, depending on memory size, delivering 50% more memory bandwidth per drawer than IBM z15 T02. This design improves overall workload performance, particularly for data-intensive analytics and AI applications. The new memory interface uses transparent memory encryption technology to protect all data leaving the processor chips before it gets stored in the memory DIMMs. 2 See https://www.ibm.com/downloads/cas/75EXOKDJ Chapter 1. Introduction and overview 5 1.1.2 A cyber-resilient system A cyber-resilient system can help protect against risks, vulnerabilities, attacks, and failures that might happen while digitally transforming your business. With the opportunity that is created by quantum computing comes the threat to today\u2019s public key cryptography. Businesses must start now to prepare for the time when a quantum computer can break today\u2019s cryptography. In",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.404222",
+    "chunk_number": 70,
+    "word_count": 145
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "that you pick up IPWIZARD from that minidisk. Complete the following steps: 1. Access the MAINT 193 disk: ===> access 193 G 2. Invoke IPWIZARD: ===> ipwizard 3. The z/VM TCP/IP Configuration Wizard opens, as shown in Figure 5-30 on page 129: a. The first field, User ID, must always be TCPIP. b. Obtain the remaining values for your installation from Table B-8 on page 486. Our values are shown in Table 2-9 on page 66. Continue by pressing F8. Note: The TCPIP configuration steps are valid for VMSSI z/VM and Non-SSI z/VM systems. Chapter 5. Installing z/VM 129 Figure 5-30 z/VM TCP/IP Configuration Wizard (panel 1 of 3) 4. Complete the General Interface Configuration Panel that is shown in Figure 5-31 with the following information: \u2013 Set the Interface Name to QDIOETH0, which is recommended, as shown. \u2013 The Device Number, which is the starting address of the OSA triplet that the z/VM TCP/IP stack uses. \u2013 The IP address that must be routed to the OSA card, which becomes the IP address of",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.428864",
+    "chunk_number": 312,
+    "word_count": 175
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "each OS image. ISM is defined by the FUNCTION statement with a virtual CHPID (VCHID) in hardware configuration definition (HCD)/IOCDS. Identified by the PNETID parameter, each ISM VCHID defines an isolated, internal virtual network for SMC-D communication, without any hardware component required. Virtual adapters are defined by virtual function (VF) statements. Multiple 10GbE RoCE Express2 requirements: \u0002 The 10GbE RoCE Express2 feature does not support auto-negotiation to any other speed and runs in full duplex mode only. \u0002 25GbE and 10GbE RoCE features should not be mixed in a z/OS SMC-R Link Group. Chapter 4. I/O structure 175 LPARs can access the same virtual network for SMC-D data exchange by associating their VF with same VCHID. Applications that use HiperSockets can realize network latency and CPU reduction benefits and performance improvement by using the SMC-D over ISM. IBM z16 A02 and IBM z16 AGZ support up to 32 ISM VCHIDs per CPC. Each VCHID supports up to 255 VFs, with a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.927978",
+    "chunk_number": 440,
+    "word_count": 161
+  }
+}

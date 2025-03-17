@@ -1,0 +1,18 @@
+{
+  "content": "or HMA 2 2 2 2 External AC power 1- or 3-phase 1- or 3-phase 1- or 3-phase 3-phase Description Max5 Max16 Max32 Max68 70 IBM z16 A02 and IBM z16 AGZ Technical Guide \u00a9 Copyright IBM Corp. 2023. All rights reserved. 71 Chapter 3. Central processor complex design This chapter describes the design of the IBM z16 A02 and IBM z16 AGZ processor unit. By understanding this design, users become familiar with the functions that make the IBM z16 A02 and IBM z16 AGZ a system that accommodates a broad mix of workloads for the enterprise. This chapter includes the following topics: \u0002 3.1, \u201cOverview\u201d on page 72 \u0002 3.2, \u201cDesign highlights\u201d on page 73 \u0002 3.3, \u201cCPC drawer design\u201d on page 75 \u0002 3.4, \u201cProcessor unit design\u201d on page 80 \u0002 3.5, \u201cProcessor unit functions\u201d on page 100 \u0002 3.6, \u201cMemory design\u201d on page 115 \u0002 3.7, \u201cLogical partitioning\u201d on page 119 \u0002 3.8, \u201cIntelligent Resource Director\u201d on page 130 \u0002 3.9, \u201cClustering technology\u201d on page 131 \u0002 3.10, \u201cVirtual Flash Memory\u201d on page 134 \u0002 3.11, \u201cSecure",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.971104",
+    "chunk_number": 200,
+    "word_count": 180
+  }
+}

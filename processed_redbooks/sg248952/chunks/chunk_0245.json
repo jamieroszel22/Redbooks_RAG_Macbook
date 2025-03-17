@@ -1,0 +1,18 @@
+{
+  "content": "generation to another. This enhancement enables various data manipulations (such as compression, sorting, cryptography) directly in hardware, on the processor chip by way of purpose-built accelerators. It also provides eligible workloads with low latency time, high performance, and high throughput. The new IBM z16 A02 and IBM z16 AGZ microprocessor chip, also called the IBM Telum processor, integrates a new AI accelerator. This innovation brings incredible value to applications and workloads that are running on IBM Z platform. Customers can benefit from the integrated AI accelerator by adding AI operations that are used to perform fraud prevention and fraud detection, customer behavior predictions, and supply chain operations. All of these operations are done in real time and fully integrated in transactional workloads. As a result, valuable insights are gained from their data instantly. The integrated accelerator for AI delivers AI inference in real time, at large scale, and high",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.142352",
+    "chunk_number": 245,
+    "word_count": 149
+  }
+}

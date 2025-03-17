@@ -1,0 +1,18 @@
+{
+  "content": "The supported operating systems are listed in Table 7-6 on page 257. For more information about FICON Dynamic Routing (FIDR), see Chapter 4, \u201cCentral processor complex I/O structure\u201d on page 145. Global resource serialization FICON CTC toleration For some configurations that depend on ESCON CTC definitions, global resource serialization (GRS) FICON CTC toleration that is provided with APAR OA38230 is essential, especially after ESCON channel support was removed from IBM Z starting with IBM zEC12. The supported operating systems are listed in Table 7-6 on page 257. Increased performance for the FCP protocol The FCP LIC is modified to help increase I/O operations per second for small and large block sizes, and to support 32-Gbps link speeds. For more information about FCP channel performance, see the performance technical papers that are available at the IBM Z I/O connectivity page of the IBM IT infrastructure website. The FCP protocol is supported by z/VM, z/VSE, and Linux on IBM Z.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.023979",
+    "chunk_number": 712,
+    "word_count": 158
+  }
+}

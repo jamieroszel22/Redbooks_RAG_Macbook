@@ -1,0 +1,18 @@
+{
+  "content": "generative AI models specific to the use case. The AI Developer then validates these traditional ML models and AI assets leveraging generative AI models and test data to evaluate performance metrics such as F1 score and ROUGE, as well as fairness, explainability, and model health (including latency, number of transactions, and token count). Subsequently, a Model Validator-an independent Data Scientist or AI Engineer- evaluates the traditional ML model or Generative AI assets in a pre-production environment using production-like data within watsonx.governance. An AI Risk Reviewer then examines the evaluation performance metrics, risk scorecard, and model health metrics. Based on this final risk assessment, the reviewer either approves or rejects the AI asset for deployment in production within watsonx.governance. Finally, the ModelOps Engineer deploys the approved model into production using CI/CD pipelines and activates ongoing AI monitoring to track key metrics, such as runtime",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.794680",
+    "chunk_number": 92,
+    "word_count": 143
+  }
+}

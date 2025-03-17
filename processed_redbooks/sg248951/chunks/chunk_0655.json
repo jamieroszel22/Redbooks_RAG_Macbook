@@ -1,0 +1,18 @@
+{
+  "content": "varying the active threads per core. The number of active threads per core can be changed dynamically without a system outage and potential capacity gains going from SMT-1 to SMT-2 (one to two threads per core) can be achieved dynamically. z/VM V7R3, V7R2, and V7R1 support up to 40 multithreaded cores (80 threads) for IFLs, and each thread is treated as an independent processor. z/VM dispatches virtual IFLs on the IFL logical processor so that the same or different guests can share a core. Each core has a single dispatch vector, and z/VM attempts to place virtual sibling IFLs on the same dispatch vector to maximize cache reuses. z/VM guests have no awareness of SMT, and cannot use it directly. z/VM SMT use does not include guest support for multithreading. The value of this support for guests is that the first-level z/VM host of the guests can achieve higher throughput from the multi-threaded IFL cores. Linux on IBM Z and the KVM hypervisor The Linux kernel features SMT functions that",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.818691",
+    "chunk_number": 655,
+    "word_count": 170
+  }
+}

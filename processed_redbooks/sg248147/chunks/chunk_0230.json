@@ -1,0 +1,18 @@
+{
+  "content": "if the ID became compromised. Any such convenience must be viewed as temporary, and reviewed and removed at the earliest opportunity. Note: When MFA is used for an ID, the ESM password or passphrase is not one of the available tokens that can be used. The only time the ESM password or passphrase is used for an MFA-enabled user is if fallback is enabled (and the user uses their fallback). 78 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 3.5 TLS for network traffic As part of the TCP/IP for z/VM feature, z/VM includes a System SSL component that can provide TLS encryption of network connections. The TN3270 server and FTP server are supported. The IBM Performance Toolkit HTTP interface also can be configured to support TLS. The z/VM LDAP Server also supports TLS, but it does not use the z/VM System SSL. Instead, it uses its own internal TLS implementation. 3.5.1 Why secure z/VM traffic? For the most part, sensitive data is managed by the Linux instances under a z/VM environment;",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.071613",
+    "chunk_number": 230,
+    "word_count": 171
+  }
+}

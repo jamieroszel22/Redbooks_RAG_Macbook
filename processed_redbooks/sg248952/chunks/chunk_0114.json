@@ -1,0 +1,18 @@
+{
+  "content": "(virtual) cache enhancements include the use symbol ECC to extend the reach of prior IBM Z generations cache and memory improvements for augmented availability. The L2, L3, and L4 cache powerful symbol ECC is designed to make it resistant to more failure mechanisms. Preemptive DRAM marking is added to the main memory to isolate and recover failures more quickly. 16 z/OS configured as a guest system under z/VM does not use the boost. \u00a9 Copyright IBM Corp. 2023. 21 Chapter 2. Central processor complex hardware components This chapter provides information about the new IBM z16 A02 and IBM z16 AGZ, their hardware building blocks, and how these components physically interconnect. This information is useful for planning purposes and can help in defining configurations that meet your requirements. This chapter includes the following topics: \u0002 2.1, \u201cSystem overview: frames and drawers\u201d on page 22 \u0002 2.2, \u201cCPC drawer\u201d on page 29 \u0002 2.3, \u201cDual chip modules\u201d on page 37 \u0002 2.4, \u201cPCIe+ I/O drawer\u201d on",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.599824",
+    "chunk_number": 114,
+    "word_count": 164
+  }
+}

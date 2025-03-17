@@ -1,0 +1,18 @@
+{
+  "content": "ONNX model compiler that is optimized for IBM Z. IBM also optimized key Open Source frameworks, such as TensorFlow and TensorFlow Serving, for use on IBM Z platform. IBM open-sourced zDNN library provides common APIs for the functions that allow to convert tensor format to the accelerator required one. Customers can run zDNN under z/OS (in zCX) and Linux on IBM Z. A Deep Learning Compiler (DLC) for z/OS and for Linux on IBM Z provides the AI functions to the applications. Chapter 3. Central processor complex design 93 3.4.7 Decimal floating point accelerator The decimal floating point (DFP) accelerator function is on each of the microprocessors (cores) on the 8-core chip. Its implementation meets business application requirements for better performance, precision, and function. Base 10 arithmetic is used for most business and financial computation. Floating point computation that is used for work that is typically done in decimal arithmetic involves frequent data conversions and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.120999",
+    "chunk_number": 238,
+    "word_count": 155
+  }
+}

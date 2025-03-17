@@ -1,0 +1,18 @@
+{
+  "content": "For example, it enables all engines to access the same storage, leverage the same table formats, and access the same metadata stores, thereby enabling organizations to look at the same sets of data through a unified catalog. Users are able to understand exactly what the data is, where it is, and what it looks like, no matter which query engine they are using. When a user changes or updates data in watsonx.data with an engine such as Presto, the metadata and catalog will be updated so that when that same user looks at that catalog later through a different query engine (for example, the Netezza engine), that user can continue exactly where they left off in watsonx.data. Figure 2-9 watsonx.data governance and metadata layer Access-control management helps provide consistent governance across all watsonx.data lakehouse assets, integrating with IBM Knowledge Catalog capabilities to participate in global governance and providing a single source of the truth for policies and their",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.628116",
+    "chunk_number": 75,
+    "word_count": 158
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "are not already. 2. Add a minidisk to the operator ID to use for PROP with the command: ===> dirmaint for operator amdisk 3. Complete the DirMaint AMDISK panel, as shown in Figure 6-6. Figure 6-6 Complete the DirMaint AMDISK panel --------------------------------DirMaint AMDISK---------------------------- To add a new minidisk to a user definition, fill in the following: Minidisk Address ===> 0692 Device Type ===> 3390 Fill in one of the following rows: Explicit Start ===> Size ===> Volser ===> AUTOV Size ===> Volser ===> VBLK Blksize ===> Blocks ===> Volser ===> AUTOG Size ===> 002 Grpname ===> POOL1 GBLK Blksize ===> Blocks ===> Grpname ===> AUTOR Size ===> Region ===> RBLK Blksize ===> Blocks ===> Region ===> T-DISK Size ===> TBLK Blksize ===> Blocks ===> V-DISK Size ===> VDBS Blksize ===> Blocks ===> DEVNO Real Device Number ===> Optionally fill in: Link Mode ===> R BLKSIZE ===> LABEL ===> OPE692 PWS Read ===> Write ===> Multi ===> (passwords) 198 Virtualization Cookbook: Vol 1:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.978943",
+    "chunk_number": 454,
+    "word_count": 162
+  }
+}

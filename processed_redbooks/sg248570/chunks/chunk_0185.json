@@ -1,0 +1,18 @@
+{
+  "content": "and match best-in-class tools-ranging from data science notebooks and BI dashboards to machine learning frameworks and data cataloging services without introducing compatibility roadblocks. Over time, organizations can seamlessly adopt emerging technologies, move workloads between clouds, and integrate with evolving data stacks while retaining the storage foundation that open formats provide. Metadata management and governance As data environments grow in scale and complexity, a critical challenge emerges - ensuring that analysts, engineers, and data stewards can find, understand, trust, and appropriately secure the data they need. Without robust metadata management and governance frameworks, even the most flexible lakehouse can become difficult to navigate, resulting in data swamps where valuable insights are submerged beneath an ocean of unstructured files. IBM watsonx.data addresses these challenges by providing a comprehensive metadata layer that elevates raw files into",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.054843",
+    "chunk_number": 185,
+    "word_count": 133
+  }
+}

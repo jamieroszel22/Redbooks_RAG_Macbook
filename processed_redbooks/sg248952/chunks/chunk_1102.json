@@ -1,0 +1,18 @@
+{
+  "content": "Linux on IBM Z. There's also a DLC (Deep Learning Compiler) for z/OS and Linux, providing the AI functionality to the applications. References \u0002 IBM Telum Processor: the next-gen microprocessor for IBM Z and IBM LinuxONE: https://www.ibm.com/blogs/systems/ibm-telum-processor-the-next-gen-microprocessor- for-ibm-z-and-ibm-linuxone/ \u0002 Leveraging ONNX Models on IBM Z and LinuxONE https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/andrew-sica/2021/ 10/29/leveraging-onnx-models-on-ibm-z-and-linuxone \u0002 Jump starting your experience with AI on IBM Z https://blog.share.org/Article/jump-starting-your-experience-with-ai-on-ibm-z 1 zDNN is zCX eligible which it runs on zIIPs under z/OS \u00a9 Copyright IBM Corp. 2023. All rights reserved. 477 Appendix C. IBM Integrated Accelerator for zEnterprise Data Compression This appendix describes the new IBM Integrated Accelerator for zEnterprise Data Compression (zEDC) that is implemented in IBM Z hardware. The appendix includes the following",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.304688",
+    "chunk_number": 1102,
+    "word_count": 115
+  }
+}

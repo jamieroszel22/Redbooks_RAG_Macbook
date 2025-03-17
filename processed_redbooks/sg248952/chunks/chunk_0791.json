@@ -1,0 +1,18 @@
+{
+  "content": "growth with additional engine-based licenses purchased. \u2013 Most Linux middleware is also priced based on the number of engines. The number of engines is converted into Processor Value Units under the Passport Advantage terms and conditions. For more information see the zIPLA section under the licensing tab at: https://www.ibm.com/it-infrastructure/z/pricing-licensing \u0002 Sub-capacity licensing Sub-capacity licensing includes software charges for certain IBM products based on the utilization capacity of the logical partitions (LPARs) on which the product runs. Subcapacity licensing removes the dependency between the software charges and CPC (hardware) installed capacity. The subcapacity licensed products are charged monthly based on the highest observed 4-hour rolling average utilization of the logical partitions in which the product runs. The 4-hour rolling average utilization of the logical partition can be limited by a defined capacity value on the image profile of the partition. This",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.295073",
+    "chunk_number": 791,
+    "word_count": 140
+  }
+}

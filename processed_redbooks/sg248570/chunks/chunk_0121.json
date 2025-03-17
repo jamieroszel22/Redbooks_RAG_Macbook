@@ -1,0 +1,18 @@
+{
+  "content": "the open lakehouse framework. 4.1.1 Overview of user and group management in open lakehouses User and group management in a lakehouse environment involves defining roles, policies, and permissions that dictate who can access data and under what conditions. Effective user and group management allows organizations to accomplish the following goals: \u0002 Control data access: Ensure that users access only the data that they are permitted to see. \u0002 Simplify permission assignments: Use groups and roles to efficiently assign permissions to multiple users. \u0002 Maintain auditability: Track and monitor data access for regulatory and compliance requirements. \u0002 Enable scalability: Implement access controls that support large and diverse teams without manual overhead. With lakehouses, where data might be semi-structured or unstructured and stored across distributed systems, maintaining this level of control and visibility requires advanced strategies, which include the use of attribute-based access",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.806997",
+    "chunk_number": 121,
+    "word_count": 141
+  }
+}

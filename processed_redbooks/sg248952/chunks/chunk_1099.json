@@ -1,0 +1,18 @@
+{
+  "content": "placement algorithms, contributing to the better overall system performance. The co-processor is driven by the new NNPA (Neural Networks Processing Assist) instruction. Appendix B. IBM Z Integrated Accelerator for AI 475 NNPA and IBM z16 A02 and IBM z16 AGZ Hardware NNPA is a new non-privileged CISC (Complex Instruction Set Computer) memory-to-memory instruction that operates on tensor objects that are in user programs\u2019 memory. AI functions and macros are abstracted by NNPA. The logical diagram in Figure 12-8 shows the AI accelerator and its components: the data movers surrounding the compute arrays composed by the Processor Tiles (PT), the Processing Elements (PE) and the Special Function Processors (SFP). Figure 12-8 AIU logical diagram Intelligent data movers and prefetchers are connected to the chip via ring interface for high speed low latency read-write cache operations: 200+GBps read/store bandwidth; and 600+GBps bandwidth between engines. Compute Arrays consist of 128",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.300041",
+    "chunk_number": 1099,
+    "word_count": 147
+  }
+}

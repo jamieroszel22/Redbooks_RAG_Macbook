@@ -1,0 +1,18 @@
+{
+  "content": "following steps: 1. Partition deactivation. 2. An initial storage size definition change. 3. Partition activation. The extra storage capacity for an LPAR upgrade can come from the following sources: \u0002 Any unused available storage \u0002 Another partition that features released storage \u0002 A memory upgrade A concurrent LPAR storage upgrade uses DSR. z/OS uses the reconfigurable storage unit (RSU) definition to add or remove storage units in a nondisruptive way. z/VM V7R1 and later releases support the dynamic addition of memory to a running LPAR by using reserved storage. It also virtualizes this support to its guests. In z/VM 7.1, removing storage from the z/VM LPAR is disruptive. Removing memory from a z/VM guest is not disruptive to the z/VM LPAR. z/VM V7R2 and later also support Dynamic Memory Downgrade (DMD), which allows the removal of up to 50% of the real storage from a running z/VM system. SLES 11 and later supports concurrent add and remove. Chapter 3. Central processor complex",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.498634",
+    "chunk_number": 324,
+    "word_count": 162
+  }
+}

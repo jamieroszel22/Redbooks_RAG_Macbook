@@ -1,0 +1,18 @@
+{
+  "content": "\u2013 Certificates \u2022 Personal Identity Verification (PIV) \u2022 Common Access Card (CAC) \u2022 Certificates on USB keys \u2013 Generic Remote Authentication Dia-In User Service (RADIUS) allows for support of all various RADIUS factor types. Involves customer provided RADIUS server. \u2013 Support of IBM Z Multi-Factor authentication for RedHat Enterprise Linux Server or SUSE Linux Enterprise Server running on z/VM or native in an LPAR. For more information see https://www.ibm.com/docs/en/zma and 10.3.7, \u201cHMC Multi-factor authentication\u201d on page 418. \u0002 Login changes to support PCI-DSS To support Payment Card Industry-Data Security Standard (PCI-DSS) there is now a single GUI login panel for user ID, password, and the authentication code if MFA is used. Before, the entry for the authentication code was on a separate panel. You have to select Use authentication code to be able to enter it. For further security, only in the Audit and Security Log (which needs specific access level) the details about the login",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.867295",
+    "chunk_number": 961,
+    "word_count": 156
+  }
+}

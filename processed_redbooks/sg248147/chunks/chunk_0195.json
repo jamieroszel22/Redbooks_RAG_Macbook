@@ -1,0 +1,18 @@
+{
+  "content": "case you need to reference them. Because z/VM file names are limited to 16 characters (eight for the file name and eight for the file type), only the last four characters of the file type are used, which often requires characters to be overwritten. Originals For the original file, the suffix ORIG is used. For example, before any editing is done, the original USER DIRECT file is copied to the file USER DIREORIG before it is modified for the first time. The original SYSTEM CONFIG file is copied to the SYSTEM CONFORIG file. This process ensures that you always retain the original copy. Note: The previous edition of this book used 0600 as the default virtual device for Virtual NICs. We recommend any user that is still using this default to discontinue it and instead adopt the advice that is presented in this section. Note: Previous iterations of this book recommended the use of 0100 as the first virtual device number for a minidisk to be used with a Linux virtual server. We recommend",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.934477",
+    "chunk_number": 195,
+    "word_count": 174
+  }
+}

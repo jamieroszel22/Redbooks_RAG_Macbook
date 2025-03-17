@@ -1,0 +1,18 @@
+{
+  "content": "permissions that govern what actions users can take on data resources. Here are the key permissions for resource-level roles: Create Presto (Java) Admin User Restart the internal HMS X Unregister any storage X Unregister any DB connection X Activate cataloged buckets (restart HMS) X Register and unregister own storage X X Register and unregister own DB connection X X Access the metastore x Read access to HMS API X Chapter 4. Protecting data 53 \u0002 Read Permission: Enables users to view data within the resource. \u0002 Write Permission: Enables users to update data, make modifications, and manage data transformations. \u0002 Execute Permission: Grants the ability to run jobs or workflows that are associated with the resource. This permission is commonly used in ETL processes or data transformations. \u0002 Manage Permissions: Enables users to set permissions for other users. This permission is suitable for resource owners or administrators. By combining resource-level roles with platform and instance",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.875863",
+    "chunk_number": 138,
+    "word_count": 155
+  }
+}

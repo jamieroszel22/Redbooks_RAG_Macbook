@@ -1,0 +1,18 @@
+{
+  "content": "with RC=0 VMFCTL4003I File PRODID VVTLCL X created VMFCSY2760I CSMSYSMT processing completed successfully (RC=0) VMFCMG2760I SERVMGR processing completed successfully (RC=0) VMCSM is now initialized. A new VMPSFS:CSM720 directory was created that contains the CSM structures for z/VM 7.2. The customized FTP DATA file now must be copied from the MAINTCSM 191 disk to the newly created VMPSFS:CSM720 directory. Because SERVMGR accessed VMPSFS:CSM720 as filemode A, and MAINTCSM 191 is now accessed as filemode Z, the following command to copy the file is used: COPYF FTP DATA Z = = A (OLDD 286 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 9.3.2 Creating a service level To start managing service on z/VM systems by using VMCSM, service levels must be created. The first service level contains all of the service that was shipped with the base z/VM product (further service is added to it before it is delivered to managed systems). We used the SERVMGR SRVLVL ADD command to create a service level, as",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.694458",
+    "chunk_number": 628,
+    "word_count": 162
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "grouping common access requirements under a role. Here are some examples of these roles: \u0002 Catalog Admin: Full access to create, modify, and delete data (schemas and tables) in a particular catalog, and grant or revoke permissions for other users and groups. \u0002 Storage Writer: Read/write access on the bucket in a particular object store. 54 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data \u0002 Milvus Viewer: Read-only access on the collections and partitions in a particular Milvus service. For more information about permissions on predefined roles, see the Managing roles and privileges. 4.3.2 Policy-based ACL Policies define a set of rules that can be applied to user and group access. The rules enable more granular access control and automation of access management. Usually, a policy contains the following items: \u0002 Subject: The data objects that the access is being requested for. \u0002 Rules: Define the behavior of the access control. It contains the following",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.886109",
+    "chunk_number": 141,
+    "word_count": 158
+  }
+}

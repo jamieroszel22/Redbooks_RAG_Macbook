@@ -1,0 +1,18 @@
+{
+  "content": "'ACCESS 193 C' 'CP SET EMSG ON' 'CP SET RUN ON' 'SET AUTOREAD OFF' 'EXEC FILESERV START' IF DISC() THEN 'CP LOGOFF' EXIT DISC: RETURN (SUBSTR(DIAG(24,-1),13,1)<>0) 240 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 ===> copy profile exec a setup = = 4. Edit SETUP EXEC and delete these lines: 'CP SET RUN ON' 'SET AUTOREAD OFF' 'EXEC FILESERV START' 5. Create a start-up parameters file, as shown in Figure 6-21: ===> xedit lnxserv1 dmsparms a Figure 6-21 LNXSERV1 DMSPARMS contents 6. Issue the following commands to generate the file pool: ===> access 193 c ===> fileserv generate DMS4PD3400I Initializing begins for DDNAME = CONTROL DMS4PD3400I Initializing ends for DDNAME = CONTROL DMS4PD3400I Initializing begins for DDNAME = MDK00001 DMS4PD3400I Initializing ends for DDNAME = MDK00001 DMS4PD3400I Initializing begins for DDNAME = MDK00002 DMS4PD3400I Initializing ends for DDNAME = MDK00002 DMS4PD3400I Initializing begins for DDNAME = LOG1 DMS4PD3400I Initializing ends for DDNAME = LOG1",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.313549",
+    "chunk_number": 542,
+    "word_count": 154
+  }
+}

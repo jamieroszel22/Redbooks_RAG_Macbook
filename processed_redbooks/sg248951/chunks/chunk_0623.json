@@ -1,0 +1,18 @@
+{
+  "content": "OSA-Express7S GbE CHPID type OSD and OSC Y Y Y Y Y Y OSA-Express6S GbE CHPID type OSD Y Y Y Y Y Y OSA-Express7S 1.2 1000BASE-T Ethernet CHPID type OSEj Y Y Y Y Y Y OSA-Express7S 1000BASE-T Ethernet CHPID type OSEj Y Y Y Y Y Y OSA-Express6S 1000BASE-T Ethernet CHPID type OSEj Y Y Y Y Y Y a. PTFs might be required for toleration support or use of IBM z16 features and functions. b. For guest use or exploitation. c. On IBM z16, the CHPID statement of HiperSockets devices requires the keyword VCHID. If you are migrating from a zEC12 or earlier, the IBM z16 IOCP definitions must be migrated to support the HiperSockets definitions (from CHPID type IQD). VCHID specifies the virtual channel identification number that is associated with the channel path (valid range is 7C0 - 7FF). d. Shared Memory Communications - Direct Memory Access. e. Does not require a peer OSA. Functiona z/OS V2R4 z/OS V2R3 z/OS V2R2 z/VM V7R2 z/VM V7R1 z/VM V6R4 Chapter 7. Operating system support 261 The supported",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.698889",
+    "chunk_number": 623,
+    "word_count": 179
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "rsu1 all 7201rsu1 VMFCMG2760I SERVMGR processing started . . . < < Many SERVICE command messages appear > > . . . VMFSRV2760I SERVICE processing completed successfully (RC=0) VMFCSV2760I SERVICE ALL 7201RSU1 ( PPFNAME CSM processing completed successfully (RC=0) VMFCTL3040I Issuing command VMFBTMAP with operands/options: LESFS (LOG CMG+$CSM RETAIN T VMFCTL3038I Command VMFBTMAP LESFS (LOG CMG+$CSM RETAIN T completed with RC=0 VMFCTL4003I File PRODID BITMCSM$ T created VMFCTL3040I Issuing command VMFBTMAP with operands/options: CPSFS (LOG CMG+$CSM RETAIN T VMFCTL3038I Command VMFBTMAP CPSFS (LOG CMG+$CSM RETAIN T completed with RC=0 VMFCTL4003I File PRODID BITMCSM$ T created VMFCSV4116I Updated CSM SVCSTAT for new service level RSU1 VMFCSV2760I CSMSRVMT EXEC processing completed successfully (RC=0) VMFCMG2760I SERVMGR processing completed successfully (RC=0) Ready; The SERVMGR command that we ran selected the service level RSU1 in version 720 and performed the SERVICE command against",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.709888",
+    "chunk_number": 632,
+    "word_count": 138
+  }
+}

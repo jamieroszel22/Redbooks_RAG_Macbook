@@ -1,0 +1,18 @@
+{
+  "content": "have one, you can create one at this link. We will be using a newly created bucket named \"my-bucket.\" See Figure 5-9 on page 71. Chapter 5. Querying and manipulating data and leveraging persona-specific engines 71 Figure 5-9 Create an IBM Object Storage instance 10.Next, you need to test the connection. For IBM Cloud Object storage, choose a direct endpoint. In the example shown in Figure 5-10 on page 72, we use a public endpoint. 72 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Figure 5-10 Add the credentials 11.Next, you add the storage. See Figure 5-11 on page 73. Chapter 5. Querying and manipulating data and leveraging persona-specific engines 73 Figure 5-11 Add the storage 12.Add the associated catalog. This is what was associated with the Native Spark engine in the first section of this chapter. See Figure 5-12 on page 74. 74 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Figure 5-12 Manage associations 5.2.2 Explore the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.983802",
+    "chunk_number": 167,
+    "word_count": 165
+  }
+}

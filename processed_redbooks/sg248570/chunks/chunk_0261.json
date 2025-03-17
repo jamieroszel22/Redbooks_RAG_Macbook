@@ -1,0 +1,18 @@
+{
+  "content": "the general guidance on access controls. Milvus is one of the services in watsonx.data and inherit the security consideration in the platform level as well as the fine grained access control particularly on Milvus data objects such as databases, collections, partitions. 154 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data High-quality embeddings IBM watsonx.ai provides quite a few embedding models including IBM own modes such as IBM Slate-30m embedding model and IBM Slate-125m embedding model, and some embedding models from third-party such as all-MiniLM-L6-v2 from open source NLP and computer vision community provided by Hugging Face. Enhanced retrieval efficiency IBM watsonx.data Milvus provides various search algorithms such as Sparse vector search, Multi-vector and Hybrid search, and Grouping search to improve the retrieval efficiency as well as the accuracy. 9.4 Summary In this use case, we introduce RAG and outline the key steps involved in the RAG",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.349043",
+    "chunk_number": 261,
+    "word_count": 149
+  }
+}

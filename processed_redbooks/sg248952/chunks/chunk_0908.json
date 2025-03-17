@@ -1,0 +1,18 @@
+{
+  "content": "oscillator design \u0002 Redundant combined Base Management Card (BMC) and Oscillator Cards (OSC) are provided per CPU drawer. \u0002 Redundant N+1 Power Supply Units (PSU) to CPC drawer and PCIe+ I/O drawer. 372 IBM z16 A02 and IBM z16 AGZ Technical Guide 9.4 Reducing complexity IBM z16 A02 and IBM z16 AGZ continue the IBM z15 enhancements that reduced system RAS complexity. Independent channel recovery with replay buffers on all interfaces allows recovery of a single DIMM channel, while other channels remain active. Further redundancies are incorporated in I/O pins for clock lines to main memory, which eliminates the loss of memory clocks because of connector (pin) failure. The following RAS enhancements reduce service complexity: \u0002 Continued use of RAIM ECC. \u0002 RAIM logic moved on DIMM \u0002 N+1 on-DIMM voltage regulation \u0002 Replay buffer for hardware retry on soft errors on the main memory interface. \u0002 Redundant I/O pins for clock lines to main memory. \u0002 Staggered refresh for performance",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.682827",
+    "chunk_number": 908,
+    "word_count": 161
+  }
+}

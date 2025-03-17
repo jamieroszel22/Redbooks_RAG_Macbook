@@ -1,0 +1,18 @@
+{
+  "content": "X X X Requires system master keys to be loaded - X X - System (master) key storage - X X - Retained key storage - X - - Tamper-resistant hardware packaging - X X Xc Designed for FIPS 140-2 Level 4 certification - X X X Chapter 6. Cryptographic features 243 Supports Linux applications that perform SSL handshakes - - - X RSA functions - X X X High-performance SHA-1, SHA-2, and SHA-3 X X X - Clear key DES or triple DES X - - - Advanced Encryption Standard (AES) for 128-bit, 192-bit, and 256-bit keys X X X - True random number generator (TRNG) X X X - Deterministic random number generator (DRNG) X X X - Pseudo random number generator (PRNG) X X X - Clear key RSA - - - X Payment Card Industry (PCI) PIN Transaction (PTS) Hardware Security Module (HSM) PCI-HSM X X Europay, MasterCard, and Visa (EMV) support - X - - Public Key Decrypt (PKD) support for Zero-Pad option for clear RSA private keys - X - - Public Key Encrypt (PKE) support for Mod_Raised_to Power (MRP) function - X X - Remote",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.554435",
+    "chunk_number": 592,
+    "word_count": 192
+  }
+}

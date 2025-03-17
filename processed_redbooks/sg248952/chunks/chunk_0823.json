@@ -1,0 +1,18 @@
+{
+  "content": "Query Activation Authorization Layer R1 R2 R3 R6 Dormant capacity Purchased capacity Base model Change permanent capacity through CIU or MES order Enforce terms and conditions and physical model limitations Up to 8 records installed and active Orders downloaded from RSF/media API Manual operations R8 R7 R5 R4 330 IBM z16 A02 and IBM z16 AGZ Technical Guide For a CPE record, only the ordered configuration can be activated. This approach also enables you to update and replenish temporary upgrades, even in situations where the upgrades are active. Likewise, depending on the configuration, permanent upgrades can be performed while temporary upgrades are active. Examples of the activation sequence of multiple temporary upgrades are shown in Figure 8-2. Figure 8-2 Example of temporary upgrade activation sequence As shown in Figure 8-2, if R2, R3, and R1 are active at the same time, only parts of R1 can be activated because not enough resources are available to fulfill all of R1. When R2 is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.397789",
+    "chunk_number": 823,
+    "word_count": 162
+  }
+}

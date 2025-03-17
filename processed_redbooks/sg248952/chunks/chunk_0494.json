@@ -1,0 +1,18 @@
+{
+  "content": "flight and at rest, with the goal of substantially simplifying data security and reducing the costs that are associated with protecting data while achieving compliance mandates. This chapter also introduces the principles of cryptography and describes the implementation of cryptography in the hardware and software architecture of IBM Z. It also describes the features that IBM z16 A02 and IBM z16 AGZ offer. Finally, the chapter summarizes the cryptographic features and required software. This chapter includes the following topics: \u0002 6.1, \u201cCryptography enhancements on IBM z16 A02 and IBM z16 AGZ\u201d on page 201 \u0002 6.2, \u201cCryptography overview\u201d on page 202 \u0002 6.3, \u201cCryptography on IBM z16 A02 and IBM z16 AGZ\u201d on page 206 \u0002 6.4, \u201cCP Assist for cryptographic functions\u201d on page 211 \u0002 6.5, \u201cCrypto Express8S\u201d on page 215 \u0002 6.6, \u201cTrusted Key Entry workstation\u201d on page 230 \u0002 6.7, \u201cCryptographic functions comparison\u201d on page 233 \u0002 6.8, \u201cCryptographic operating system support for IBM z16 A02 and IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.138659",
+    "chunk_number": 494,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Z processor chip, Telum, with new Artificial Intelligence (AI) accelerator (Figure 12-7), an innovation that will bring incredible value to the applications and workloads running on IBM Z. Figure 12-7 IBM z16 A02 and IBM z16 AGZ Processor chip - AIU location With the new IBM Z Integrated Accelerator for AI clients can benefit from the acceleration of AI operations such as fraud detection, customer behavior predictions and streamlining of supply chain operations - all in real time, clients are able to derive the valuable insights from their data instantly. AI accelerator is designed to deliver AI inference in real time, at large scale and rate, with no transaction left behind without the need to offload data off the IBM Z for performing AI inference. The AI capability is applied directly into the running transaction - shifting the traditional paradigm of applying AI to the transactions that have already completed. This innovative technology can be used for intelligent IT workloads",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.296575",
+    "chunk_number": 1098,
+    "word_count": 160
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Typically, you compare the current system performance to the past performance so that data is available for troubleshooting, or to generate reports. 12.3.1 Collecting CP monitor data CP monitor records are collected by the MONWRITE utility and written to a disk or tape. The resulting file contains all of the original unprocessed data. This data can be used later to generate reports or the Performance Toolkit can use this data in Monitor Data Scan Mode to look at historical data as though it was current: 1. Log on to the MONWRITE virtual machine. 2. Edit the PROFILE EXEC: LOGON MONWRITE z/VM Version 7 Release 2.0, Service Level 2001(64-bit), built on IBM Virtualization Technology There is no logmsg data FILES: NO RDR, NO PRT, NO PUN LOGON AT 10:40:31 EDT FRIDAY 06/07/13 z/VM V7.2.0 2020-06-04 12:50 Ready; T=0.01/0.01 10:40:34 ===> x profile exec a input /* ALL MONITOR COMMANDS ARE LOCATED IN AUTOLOG1'S PROFILE EXEC */ 'MONWRITE MONDCSS *MONITOR DISK CLOSE 480' ===> file 3. Execute the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.446083",
+    "chunk_number": 842,
+    "word_count": 166
+  }
+}

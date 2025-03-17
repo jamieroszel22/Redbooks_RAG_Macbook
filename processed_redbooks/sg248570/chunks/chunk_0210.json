@@ -1,0 +1,18 @@
+{
+  "content": "advanced search functions to find specific data assets IBM watsonx.data provides a suite of advanced search functions that significantly enhance the discoverability of data assets within a large catalog. Unlike basic search engines that rely on simple keyword matching, the IBM watsonx.data search engine incorporates advanced Boolean operators, filters, and facets to help users create highly specific queries by combining multiple search parameters to narrow down results with precision. With Boolean operators, users can include or exclude data sets based on criteria such as tags, metadata fields, or data set attributes. Moreover, IBM watsonx.data supports fuzzy search, which accommodates minor discrepancies in search terms, such as spelling errors or slight variations in metadata entries. This approach helps ensure that even imperfect search terms yield relevant results, which reduce the likelihood of missing critical data sets due to human error. For organizations with complex and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.147956",
+    "chunk_number": 210,
+    "word_count": 144
+  }
+}

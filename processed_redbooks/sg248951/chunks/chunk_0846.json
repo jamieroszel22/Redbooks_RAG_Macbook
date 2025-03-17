@@ -1,0 +1,18 @@
+{
+  "content": "of each resource during the billing window. If any resource in a record does not have enough tokens to cover usage for the next billing window, the entire record is deactivated. The On/Off CoD to Permanent Upgrade Option gives customers a window of opportunity to assess capacity additions to your permanent configurations by using On/Off CoD. If a purchase is made, the hardware On/Off CoD charges during this window (three days or less) are waived. If no purchase is made, you are charged for the temporary use. The following resources are eligible for temporary use: \u0002 CPs \u0002 ICFs \u0002 zIIPs \u0002 IFLs \u0002 SAPs Note: On/Off CoD requires that the Online CoD Buying feature (FC 9900) is installed on the system that you want to upgrade. Chapter 8. System upgrades 353 The temporary addition of memory and I/O ports or adapters is not supported. Unassigned PUs that are on the installed processor drawers can be temporarily and concurrently activated as CPs, ICFs, zIIPs, IFLs, and SAPs through LICCC. You",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.487780",
+    "chunk_number": 846,
+    "word_count": 170
+  }
+}

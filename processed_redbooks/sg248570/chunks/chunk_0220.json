@@ -1,0 +1,18 @@
+{
+  "content": "searches for the bucket that contains the marketing campaign performance data and selects the marketing-campaign-analysis bucket, as shown in Figure 8-2. Figure 8-2 Searching for the bucket 3. The data engineer checks whether the service credentials for marketing-user-1 are present by selecting Service credentials \u2192 marketing-user-1. If not, the data engineer must assign the Manager role to the service credential and that the HMAC credentials are included so that the necessary information for the credentials is available to connect to in IBM watsonx.data. The data engineer notes the access key and secret because they know that this information will be needed later when configuring the IBM Cloud Object Storage storage in IBM watsonx.data. Figure 8-3 shows the service credentials. Figure 8-3 Service credentials 104 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Once the service credentials are confirmed, the data engineer selects the Buckets tab and clicks",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.183682",
+    "chunk_number": 220,
+    "word_count": 150
+  }
+}

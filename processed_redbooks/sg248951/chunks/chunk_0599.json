@@ -1,0 +1,18 @@
+{
+  "content": "software buckets contain installation information, hardware and software service levels, service guidelines, and cross-product dependencies. For more information about Linux on IBM Z distributions and KVM hypervisor, see the distributor\u2019s support information. End of service operating systems: Operating system levels that are no longer in service are not covered in this publication. Operating systems Supported Version and release on IBM z16a a. Service is required. z/OS V2R2b b. z/OS V2R2 - Toleration mode only. The IBM Software Support Services for z/OS V2R2 offered as 1 October 2020, provides the ability for customers to purchase extended defect support service for z/OS V2.R2. z/VM V7R1 z/VSE V6.2 21st Century Software z/VSEn c c. z/VSEn is supported by 21st Century Software. V6.3 z/TPF V1R1 Linux on IBM Z d d. KVM hypervisor is supported by Linux distribution partners. See Table 7-2 on page 251 Chapter 7. Operating system support 249 7.2 Support by operating system IBM z16 systems",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.581184",
+    "chunk_number": 599,
+    "word_count": 155
+  }
+}

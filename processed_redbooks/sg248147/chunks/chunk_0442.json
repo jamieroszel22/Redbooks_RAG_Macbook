@@ -1,0 +1,18 @@
+{
+  "content": "data! Are you sure you want to format the DASD as PAGE space (y/n)? y 192 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 ... DASD status after: TargetID Tdev OwnerID Odev Dtype Vol-ID Rdev StartLoc Size MAINT 1567 MAINT 1567 3390 VM1567 1567 0 10017 ... MAINT 156F MAINT 156F 3390 VM156F 156F 0 10017 Now, many volumes can be used for minidisks. The labels are prefixed with VM in this example. 6.11.5 Updating the SYSTEM CONFIG file Now that the PAGE and PERM volumes are ready for use, they must be added to the SYSTEM CONFIG file. Follow these steps to update the SYSTEM CONFIG file: To make these changes, complete the following steps as MAINT720: 1. Use VMLINK to access the PMAINT CF0 disk as multi-read/write (MR) and file mode F: ===> vmlink pmaint CF0 < * F MR > DMSVML2060I PMAINT CF0 linked MR as 0120 file mode F 2. Rename the previous backup. Then, make a new backup copy of the previously edited SYSTEM CONFIG file by using the COPYFILE command with the OLDDATE parameter so that the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.932279",
+    "chunk_number": 442,
+    "word_count": 182
+  }
+}

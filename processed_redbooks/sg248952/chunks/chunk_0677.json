@@ -1,0 +1,18 @@
+{
+  "content": "\u201c\u201cMigration considerations\u201d on page 181. Chapter 7. Operating system support 277 Processing and dispatching enhancements that result in meaningful scaling of effective throughput up to the limit of 16 ICF processors. \u0002 Request latency/performance improvements CFCC and coupling link firmware and hardware improvements to reduce link latency. \u0002 Elimination of VSAM RLS orphaned castout lock problems and improved VSAM RLS Structure Full recovery processing Addresses reoccurring problems encountered by installations running VSAM RLS datasharing Retry Buffer support that is already used on list and lock commands is extended to non-idempotent cache commands and optimized lock commands. The new support also allows connectors to lock structures to specify a percentage of record data entries to be reserved. These reserved entries are off limits to normal requests to the coupling facility and can only be used if a new keyword is used on lock requests that generate record data entries. \u0002 Cache",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.892950",
+    "chunk_number": 677,
+    "word_count": 150
+  }
+}

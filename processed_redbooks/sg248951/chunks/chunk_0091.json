@@ -1,0 +1,18 @@
+{
+  "content": "P-384, and P-521) \u0002 ECDH (P-256, P-384, P521, X25519, and X448) \u0002 Support for protected key signature creation Crypto-Express8S The tamper-sensing and tamper-responding Crypto-Express8S features provide acceleration for high-performance cryptographic operations and support up to 85 domains with the IBM z16 A01. This specialized hardware performs AES, DES and TDES, RSA, Elliptic Curve (ECC), SHA-1, and SHA-2, and other cryptographic operations. It supports specialized high-level cryptographic APIs and functions, including those functions that are required with quantum-safe cryptography and in the banking industry. Crypto-Express8S features are designed to meet the Federal Information Processing Standards (FIPS) 140-2 Level 4 and PCI HSM security requirements for hardware security modules. IBM z16 is the industry\u2019s first quantum-safe system5. Consider the following points: \u0002 IBM z16 quantum-safe secure boot technology helps to protect IBM Z firmware from quantum attacks by using a",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.483995",
+    "chunk_number": 91,
+    "word_count": 138
+  }
+}

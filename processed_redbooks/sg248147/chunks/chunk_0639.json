@@ -1,0 +1,18 @@
+{
+  "content": "successfully (RC=0) VMFSET2760I VMFSETUP processing started for ENVSAVE SCSMUTLSEXEC20201012000332 VMFSET2760I VMFSETUP processing completed successfully (RC=0) . . . VMFBMP1909I VMPFX-UM BITMAP created on your D-disk VMFBMP1909I VMPRODS BITMAP created on your D-disk VMFBMP1909I VMPFXALL BITMAP created on your D-disk VMFCTL3038I Command VMFBTMAP VMSESSFS (LOG CMG+$CSM RETAIN T completed with RC=0 VMFCTL4003I File PRODID BITMCSM$ T created 290 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 VMFSET2760I VMFSETUP processing started for ENVRESTORE SCSMUTLSEXEC20201012000353 VMFSET2760I VMFSETUP processing completed successfully (RC=0) VMFCSV4116I Updated CSM SVCSTAT for new service level RSU1 VMFCSV2760I CSMSRVMT EXEC processing completed successfully (RC=0) VMFCMG2760I SERVMGR processing completed successfully (RC=0) Ready; Now our service level was successfully created, and we can query information about the service level. Example 9-16 shows the results of the SERVMGR SRVLVL QUERY command",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.739310",
+    "chunk_number": 639,
+    "word_count": 127
+  }
+}

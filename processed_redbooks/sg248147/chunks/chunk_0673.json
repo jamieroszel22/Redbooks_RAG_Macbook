@@ -1,0 +1,18 @@
+{
+  "content": "following configuration files are available: \u0002 CONFIG: DirMaint standard configuration that is included with the product. Do not change this file. If you must customize your installation, create another CONFIG file by using CONFIG plus A - Z, 1 - 9 to form the new CONFIG name, as shown in the following examples: \u2013 CONFIGn (from A - Z, 1 - 9): Customizable according to your needs; for example, CONFIGAA, CONFIGB, and so on. \u2013 CONFIGRC: Configuration when having RACF installed. \u2013 CONFIGSS: Configuration when z/VM SSI is used, it describes the IBM Satellite\u2122 and Datamove user ID s that run in each SSI member. \u2013 CONFIGSM: Configuration when need to work with SMAPI. \u0002 EXTENT CONTROL: Where you include the DASDs and the name of groups pool. \u0002 AUTHFOR CONTROL: Where you list all of the user IDs that are authorized to issue commands to DIRMAINT. 308 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 10.1.3 Finding DirMaint In this section, we describe how to find the following codes that you need to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.864073",
+    "chunk_number": 673,
+    "word_count": 173
+  }
+}

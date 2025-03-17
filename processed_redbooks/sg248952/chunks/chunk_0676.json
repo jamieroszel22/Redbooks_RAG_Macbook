@@ -1,0 +1,18 @@
+{
+  "content": "Coupling facility (CF) connectivity to an IBM z16 A02 and IBM z16 AGZ is supported on the z15, IBM z14, or another IBM z16 A02 and IBM z16 AGZ. The CFCC levels that are supported on IBM Z are listed in Table 7-15. Table 7-15 IBM Z CFCC code-levels CFCC Level 25 CFCC Level 25 is delivered on IBM z16 A02 and IBM z16 AGZ servers with driver level 51. CFCC Level 25 introduces the following enhancements: \u0002 Scalability Improvements IBM Z server Code level IBM z16 A02 and IBM z16 AGZ CFCC Level 25 IBM z15 T01 and T02 CFCC Level 24 IBM z14M0x and IBM z14ZR1 CFCC Level 23a a. CFCC Level 22 is not supported when an IBM z16 A02 or IBM z16 AGZ participate in the sysplex. Consideration: Because coupling link connectivity with on IBM z16 A02 and IBM z16 AGZ, IBM z15, and IBM z14 ZR1 do not support InfiniBand, you must carefuly plan your configuration if IBM z14 M0x systems with InfiniBand coupling are present in your configuration. Also, consider the level of CFCC. For more information, see",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.890333",
+    "chunk_number": 676,
+    "word_count": 184
+  }
+}

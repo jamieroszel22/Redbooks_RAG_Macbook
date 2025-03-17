@@ -1,0 +1,18 @@
+{
+  "content": "support the weight. 464 IBM z16 (3931) Technical Guide 11.4 Physical planning This section describes the floor mounting, power, and I/O cabling options. For more information, see IBM 3931 Installation Manual for Physical Planning, GC28-7015. 11.4.1 Raised floor or nonraised floor IBM z16 servers can be installed on a raised or nonraised floor. Raised floor The IBM z16 server can installed in a raised floor environment. You can select top exit features to manage I/O cables from the top frame of the IBM z16. The following top exit options are available for z16 servers: \u0002 Top Exit I/O cabling without Tophat feature code (FC 7816) \u0002 Bottom Exit cabling feature code (FC 7899) \u0002 Top Exit Cabling with Tophat feature code (FC 7898) 11.4.2 Top Exit cabling feature (optional) The optional Top Exit cabling feature (FC 7816) allows for I/O cabling and power cords to exit the top of the frame. This feature adds cable management options, such as trunking and retainer brackets, as shown in Figure",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.199037",
+    "chunk_number": 1062,
+    "word_count": 167
+  }
+}

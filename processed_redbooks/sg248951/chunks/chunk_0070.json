@@ -1,0 +1,18 @@
+{
+  "content": "for storage, network, and clustering connectivity, and cryptography. Feature name Number of CPC drawers Feature Code Characterizable PUs Standard SAPsa a. More SAPs can be ordered by using Feature Code 1963. Spare PUs Max39 1 0667 1 - 39 5 2 Max82 2 0668 1 - 82 10 2 Max125 3 0669 1 - 125 15 2 Max168 4 0670 1 - 168 20 2 Max200 4 0671 1 - 200 24 2 Chapter 1. Introducing the IBM z16 3 The following features were introduced with the IBM z16: \u0002 FICON Express32S \u0002 OSA-Express7S 1.2 \u0002 RoCE Express3 (Long Reach and Short Reach) \u0002 Coupling Express2 Long Reach \u0002 Crypto Express8S The IBM z16 is more flexible and features simplified on-demand capacity to satisfy peak processing demands and quicker recovery times with built-in resiliency capabilities. The Capacity on Demand (CoD) function can dynamically change available system capacity. This function can help respond to new business requirements with flexibility and precise granularity. The IBM Tailored Fit Pricing for IBM Z options delivers",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.406814",
+    "chunk_number": 70,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "highlights\u201d on page 69 \u0002 3.3, \u201cCPC drawer design\u201d on page 71 \u0002 3.4, \u201cProcessor unit design\u201d on page 77 \u0002 3.5, \u201cProcessor unit functions\u201d on page 98 \u0002 3.6, \u201cMemory design\u201d on page 113 \u0002 3.7, \u201cLogical partitioning\u201d on page 117 \u0002 3.8, \u201cIntelligent Resource Director\u201d on page 128 \u0002 3.9, \u201cClustering technology\u201d on page 130 \u0002 3.10, \u201cVirtual Flash Memory\u201d on page 140 \u0002 3.11, \u201cIBM Secure Service Container\u201d on page 141 3 Note: The IBM z16 Model A01, Machine Type (M/T) 3931 (M/T 3931), is further identified in this document as IBM z16, unless otherwise specified. For more information about the processor unit, see z/Architecture Principles of Operation, SA22-7832. 68 IBM z16 (3931) Technical Guide 3.1 Overview The IBM z16 symmetric multiprocessor (SMP) system is the next step in an evolutionary trajectory that began with the introduction of the IBM System/360 in 1964. Over time, the design was adapted to the changing requirements that were dictated by the shift toward new types of applications on",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.936848",
+    "chunk_number": 190,
+    "word_count": 168
+  }
+}

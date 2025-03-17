@@ -1,0 +1,18 @@
+{
+  "content": "15.3 Using DirMaint to set special passwords for an ID . . . . . . . . . . . . . . . . . . . . . . . . . . 447 15.4 Resuming a revoked ID in RACF/VM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 448 15.5 System modifications for wide-screen terminals . . . . . . . . . . . . . . . . . . . . . . . . . . . . 449 15.6 Manually formatting DASD for use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 452 15.7 Running Linux under z/VM with restricted permissions. . . . . . . . . . . . . . . . . . . . . . . 454 15.8 Mitigating SSH client timeout disconnects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 455 15.9 Sharing IBM WebSphere Application Server binaries. . . . . . . . . . . . . . . . . . . . . . . . 457 Part 4. Appendixes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 459 Appendix A. Configuring a workstation to deploy and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.300120",
+    "chunk_number": 42,
+    "word_count": 340
+  }
+}

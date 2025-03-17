@@ -1,0 +1,18 @@
+{
+  "content": "challenge in retail data management: the manual classification and organization of data sets. It automates this process by using machine learning and NLP to identify patterns, classify content, and apply relevant business tags. For example, transactional data sets can be automatically tagged with attributes like \u201cRegion: North America\u201d, \u201cQuarter: Q3\u201d, and \u201cProduct Category: Electronics\u201d. This automation reduces the burden on data stewards while helping ensure that data sets remain consistently organized. As a result, analysts can quickly locate data sets that meet their criteria, even in expansive catalogs. IBM watsonx.data advanced search capabilities enable retailers to perform scenario-based analyses. Imagine a scenario where a retail executive wants to evaluate the effectiveness of a summer promotion. By using IBM watsonx.data, the executive can search for data sets that are related to summer sales, customer feedback during the promotional period, and inventory levels before and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.156109",
+    "chunk_number": 213,
+    "word_count": 143
+  }
+}

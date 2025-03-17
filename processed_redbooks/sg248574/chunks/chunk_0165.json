@@ -1,0 +1,18 @@
+{
+  "content": "handles real-world queries and performs in live environments. Figure 5-9 shows a high-level view of the InstructLab pipeline. Figure 5-9 High-level overview of the InstructLab pipeline 5.4.1 Advantages of InstructLab The InstructLab methodology provides numerous advantages over traditional fine-tuning techniques: \u0002 Synthetic data generation (SDG): Facing and solving an older problem of data availability, InstructLab offers within its automatic capabilities a process to enhance, in cardinality and variability, a training dataset for LLM fine-tuning by using SDG, which is integrated into its core. \u0002 Cost and complexity reduction: One of the most significant benefits of InstructLab is its ability to drastically reduce the cost and complexity of fine-tuning. By relying on SDG rather than manually labeled datasets, InstructLab eliminates one of the most time-consuming and expensive aspects of model customization. \u0002 Agile development: The iterative feedback loops and the ability to work",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.843126",
+    "chunk_number": 165,
+    "word_count": 142
+  }
+}

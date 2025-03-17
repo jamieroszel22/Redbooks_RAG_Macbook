@@ -1,0 +1,18 @@
+{
+  "content": "to test Systems Management API (SMAPI) vm/maint/cpformat.execEXEC to format multiple DASD volumes vm/maint/ssicmd.execEXEC to run a command on all single system image (SSI) members System requirements for downloading the web material The web material requires the following system configuration: Hard disk space: 41 KB Operating System: Linux Appendix C. Additional material 491 Downloading and extracting the web material This section lists code that is associated with this book. z/VM REXX EXECs and XEDIT macros This section lists all of the z/VM code that is included in the associated tar file: \u0002 CPFORMAT EXEC \u0002 SSICMD EXEC \u0002 PROFILE EXEC for Linux virtual machines \u0002 RHEL64 EXEC \u0002 SLES11S3 EXEC CPFORMAT EXEC The following code is for the EXEC that formats multiple DASD using CPFMTXA. It is described in 6.12, \u201cEnabling z/VM basic system automation\u201d on page 196. /*************************************************************/ /* */ /* This program is provided on an \"AS IS\" basis, without",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.000915",
+    "chunk_number": 1008,
+    "word_count": 151
+  }
+}

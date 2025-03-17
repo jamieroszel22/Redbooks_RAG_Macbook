@@ -1,0 +1,18 @@
+{
+  "content": "contact. 458 IBM z16 (3931) Technical Guide Power requirements The 3931 operates from 2 or 4 fully redundant power supplies. These redundant power supplies each have their own power cords, or pair of power cords, which allows the system to survive the loss of customer power to either power cord or power cord pair. If power is interrupted to one of the power supplies, the other power supply assumes the entire load and the system continues to operate without interruption. Therefore, the power cords for each power supply must be wired to support the entire power load of the system. For the most reliable availability, the power cords in the rear of the frame should be powered from different PDUs. All power cords exit through the rear of the frame. The utility current distribution across the phase conductors (phase current balance) depends on the system configuration. Each front-end power supply is provided with phase switching redundancy. The loss of an input phase is detected and the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.172902",
+    "chunk_number": 1053,
+    "word_count": 166
+  }
+}

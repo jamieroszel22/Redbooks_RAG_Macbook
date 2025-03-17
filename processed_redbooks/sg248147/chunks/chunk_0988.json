@@ -1,0 +1,18 @@
+{
+  "content": "Appendix B. Reference, cheat sheets, blank worksheets, and education 477 \u0002 IBM Redbooks publications The following IBM Redbooks publications are available at this web page: \u2013 IBM z Systems Connectivity Handbook, SG24-5444 \u2013 Deploying a Cloud on IBM System z, REDP-4711 \u2013 Installing Oracle 11gR2 RAC on Linux on System z, REDP-4788 \u2013 Linux on IBM System z: Performance Measurement and Tuning, SG24-6926 \u2013 Fibre Channel Protocol for Linux and z/VM on IBM System z, SG24-7266 \u2013 Security for Linux on System z, SG24-7728 \u2013 Advanced Networking Concepts Applied Using Linux on IBM System z, SG24-7995 \u2013 Set up Linux on IBM System z for Production, SG24-8137 \u2013 Practical Migration from x86 to Linux on IBM System z, SG24-8217 \u2013 End-to-End High Availability Solution for System z from a Linux Perspective, SG24-8233 \u2013 Security for Linux on System z: Securing Your Network, TIPS0981 \u2013 Linux on System z: An Ideal Platform to Migrate Your IT Workload, TIPS1166 \u2013 Linux on IBM eServer\u2122 zSeries and S/390\u00ae:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.932786",
+    "chunk_number": 988,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "(RG) parameter also is shown in the PCHID REPORT for native PCIe features. A balanced plugging of native PCIe features exists between four resource groups (RG1, RG2, RG3, and RG4). The preassigned PCHID number of each I/O port relates directly to its physical location (jack location in a specific slot). Chapter 4. Central processor complex I/O structure 161 4.6 Connectivity I/O channels are part of the CSS. They provide connectivity for data exchange between servers, between servers and external control units (CUs) and devices, or between networks. For more information about connectivity to external I/O subsystems (for example, disks), see 4.6.2, \u201cStorage connectivity\u201d on page 165. For more information about communication to LANs, see 4.6.3, \u201cNetwork connectivity\u201d on page 173. Communication between servers is implemented by using CE LR, ICA SR, or channel-to-channel (FICON CTC) connections. For more information, see 4.6.4, \u201cParallel Sysplex connectivity\u201d on page 187. 4.6.1 I/O feature",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.780940",
+    "chunk_number": 395,
+    "word_count": 150
+  }
+}

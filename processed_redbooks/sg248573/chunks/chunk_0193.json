@@ -1,0 +1,18 @@
+{
+  "content": "validation stage. One way is to use the direct API call: model.set_environment_type(from_container=\"develop\", to_container=\"validate\"). For more information, see Managing the Lifecycle Phases of a Model. Additionally, you can deploy the model to a development deployment space or a validation deployment space and this will trigger the lifecycle move. For more information, see Tracking prompt templates. This functionality applies to all kinds of implementation, not just traditional ML. Users can set the environment directly if the asset is in a preceding stage, or users can promote models to a validation space in watsonx.ai runtimes. Operation The operation stage is a uniquely important stage of the AI/ML lifecycle. Section 6.4.1, \u201cUI-driven implementation of lifecycle governance\u201d on page 68 covered basic steps to move an asset to the operation, but many more activities can be accomplished for a thorough implementation of a production monitor. As mentioned in section 6.2, \u201cMetrics in",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.168871",
+    "chunk_number": 193,
+    "word_count": 147
+  }
+}

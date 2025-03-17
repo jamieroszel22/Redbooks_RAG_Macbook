@@ -1,0 +1,18 @@
+{
+  "content": "service package is made up of separate SERVLINK files for each z/VM component being serviced. 5. z/VM CSM commands are used to query each managed system for its service processing state (pending, received, in production, or error). Note: After a system is added to a z/VM CSM management group, all the SERVICE commands (except SERVICE ... STATUS) are blocked on that system. Only z/VM CSM commands can be used to apply service to that system. Chapter 9. z/VM Centralized Service Management 277 9.1.2 z/VM CSM system requirements The following requirements must be met for z/VM CSM to be used: \u0002 z/VM CSM and z/VM SSI do not inter-operate. A system in a z/VM SSI cluster cannot be a principal or managed system in z/VM CSM. \u0002 TCP/IP is required on all z/VM CSM systems, both the principal and all managed systems. A dedicated FTP server is used for z/VM CSM management of remote systems. The CSMSERVE user ID is defined as part of z/VM 7.2 for you to use for this purpose. For more information about",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.590332",
+    "chunk_number": 607,
+    "word_count": 176
+  }
+}

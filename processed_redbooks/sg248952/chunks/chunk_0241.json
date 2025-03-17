@@ -1,0 +1,18 @@
+{
+  "content": "Co-processor results (data) are stored by way of level 1 (L1) cache. The crypto/hashing/UTF-conversion/compression engines were redesigned for increased throughput. CPACF accelerator that is built into every core supports Pervasive Encryption by providing fast synchronous cryptographic services: \u0002 Encryption (DES, TDES, and AES) \u0002 Hashing (SHA-1, SHA-2, SHA-3, and SHAKE) \u0002 Random Number Generation (PRNG, DRNG, and TRNG) \u0002 Elliptic Curve supported operations: \u2013 ECDH[E]: \u2022 P256, P384, and P521 \u2022 X25519 and X448 \u2013 ECDSA: \u2022 Keygen, sign, and verify \u2022 P256, P384, and P521 \u2013 EdDSA: \u2022 Keygen, sign, and verify \u2022 Ed25519 and Ed448 Chapter 3. Central processor complex design 91 For more information about cryptographic functions on IBM z16 A02 and IBM z16 AGZ, see Chapter 6, \u201cCryptographic features\u201d on page 199. IBM Integrated Accelerator for Z Sort (on-core) Sorting data is a significant part of IBM Z workloads including batch workloads, database query processing, and utility processing. The",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.129717",
+    "chunk_number": 241,
+    "word_count": 153
+  }
+}

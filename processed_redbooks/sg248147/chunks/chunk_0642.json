@@ -1,0 +1,18 @@
+{
+  "content": "components in that level. Now, we were ready to add systems to VMCSM management, as described next. 9.3.3 Adding a managed system We started by managing a single remote system, RDBKZVMC. This system was upgraded from z/VM 7.1 by using Upgrade In Place, and had the PTF for VMCSM applied. We went through the TCP/IP configuration process described in \u201cTCP/IP configuration changes\u201d on page 279, except for the FTP DATA file change, which is intended for the principal system only. We also defined the CSMSERVE ID to be an administrator of the VMPSFS file pool. For our first test, we made this definition temporarily by using the following command: ENROLL ADMINISTRATOR CSMSERVE VMPSFS: We used the SERVMGR SYSTEM ADD command to set up RDBKZVMC for VMCSM management, as shown in Example 9-17. The command prompts for a user ID and password to use to authenticate. A special ID of CSMWORK is defined in the base system for this purpose. Example 9-17 Adding a VMCSM managed system, attempt 1 servmgr",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.752129",
+    "chunk_number": 642,
+    "word_count": 169
+  }
+}

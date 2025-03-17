@@ -1,0 +1,18 @@
+{
+  "content": "IBM AI Risk Atlas that will need to be addressed during the life of the use case. \u0002 Applicability Assessments: It is important to ensure your use case will remain compliant with external regulations, such as the EU AI Act in Europe. Once a use case is created, watsonx.governance will create an EU AI Act applicability assessment to determine if the use case is complaint or at risk of violating the mandates of this regulation. While the EU AI Act Assessment is installed with watsonx.governance, additional assessments are available from IBM partners for regulations that may be applicable in other regions. \u0002 SME Review: Once the use case and the appropriate assessments are completed, a subject matter expert (SME) will review the auto-populated risks and further enrich the use case with mandates, processes, and policies that could be affected by the identified risks. The SME can also setup controls to address issues that arise after the use case is approved for the next steps in the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.035432",
+    "chunk_number": 157,
+    "word_count": 166
+  }
+}

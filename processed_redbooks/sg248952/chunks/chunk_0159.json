@@ -1,0 +1,18 @@
+{
+  "content": "drawers use config #25 (See Table 2-10 ). Total Installed memory: 5120GB - 160GB HSA = 4960 (Dial Max). Example 2: Customer orders FC 3145 that features 3936 GB customer memory, and FC 0674 Max32 (1 CPC drawer). The drawer configuration include the following components: CPC0 (4096 GB Physical) - Configuration #43 (from Table 2-10 ). Total 4096 GB - 160GB HSA= 3936 GB (Dial Max). Example 3: Customer orders FC 3153 that features 8032 GB customer memory, and FC 0674 Max68 (2 CPC drawers). The drawer configuration include the following components: CPC0 (4096GB Physical) - Configuration #28 and CPC1 (4096 GB Physical) - Configuration #28 (from Table 2-10 ). Total 8192 GB - 160GB HSA= 8032 GB (Dial Max). The previous examples do not consider the amount of Virtual Flash Memory (VFM). If VFM is part of the initial order, you need to subtract the amount of VFM (FC 0644) from the Dial Max and ensure that the reminder satisfies customer memory requirements. 2.5.5 Memory Offerings (initial order)",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.803798",
+    "chunk_number": 159,
+    "word_count": 169
+  }
+}

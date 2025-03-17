@@ -1,0 +1,18 @@
+{
+  "content": ". 485 12.9 Capacity planning considerations for IBM z16 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486 x IBM z16 (3931) Technical Guide 12.9.1 Collect CPU MF counter data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486 12.9.2 Creating EDF files with CP3KEXTR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486 12.9.3 Loading EDF files to the capacity planning tool . . . . . . . . . . . . . . . . . . . . . . . . 487 12.9.4 IBM z16 Performance Best Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 488 12.9.5 IBM zPCR HiperDispatch Report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 489 12.9.6 IBM zPCR Topology Report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 492 12.9.7 IBM z16 HMC - View Partition Resource Assignments. . . . . . . . . . . . . . . . . . . 493 12.9.8 IBM zPCR Large Partition Support . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.304648",
+    "chunk_number": 43,
+    "word_count": 345
+  }
+}

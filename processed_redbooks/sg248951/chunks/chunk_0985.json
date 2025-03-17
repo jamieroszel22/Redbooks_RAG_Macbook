@@ -1,0 +1,18 @@
+{
+  "content": "installed to support IBM z16. On the HMCs of the HMA for IBM z15, FC 0100, Driver 51/Version 2.16.0 also can be installed. 10.3 HMC and SE connectivity 10.3.1 Hardware Management Appliance connectivity On IBM z16, two HMCs are delivered with the HMA FC 0129. The HMC code runs on the two integrated 1U rack-mounted servers on the top of the A frame. Stand-alone HMCs (Tower or Rack Mount) can no longer be ordered. With IBM z16 and HMA, the SE code runs virtualized on the two integrated HMCs on the two integrated 1U rack-mounted servers on the top of the IBM z16 A frame. One SE is the Primary SE (active) and the other is the Alternative SE (backup). IBM z15 T01 8561 41 2.15.0 IBM z14 ZR1 3907 36 2.14.1 IBM z14 M0x 3906 36 2.14.1 IBM Z product name Machine type SE driver SE version Security: The configuration of network components, such as routers or firewalls, is beyond the scope of this document. Whenever the networks are interconnected, security exposures can exist. For more information",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.927320",
+    "chunk_number": 985,
+    "word_count": 178
+  }
+}

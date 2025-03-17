@@ -1,0 +1,18 @@
+{
+  "content": "Crypto Express feature in CCA mode in non PCI-compliant environment. It is required for running in EP11 mode and CCA mode with full PCI compliance. The TKE workstation has one 1000BASE-T Ethernet port, and supports connectivity to an Ethernet local area network (LAN). Up to 10 features combined (0057/0058) can be ordered per IBM z16 A02 and IBM z16 AGZ. 0157 TKE Table Top Keyboard/Monitor/Mouse A table top monitor with a US English language keyboard. There is a touchpad for pointing, and a country-specific power cord. 0057 TKE rack-mounted workstation The rack-mounted version of the TKE, which needs a customer-provided standard 19-inch rack. It features a 1u TKE unit and an (optional) 1u console tray (screen, keyboard, and pointing device). When smart card readers are used, another customer-provided tray is needed. Up to 10 features combined (0057/0058) can be ordered per IBM z16 A02 and IBM z16 AGZ. 0156 TKE Rack Keyboard/Monitor/Mouse A 1U rack-mounted display and keyboard with a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.205834",
+    "chunk_number": 513,
+    "word_count": 160
+  }
+}

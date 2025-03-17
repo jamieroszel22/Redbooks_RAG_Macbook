@@ -1,0 +1,18 @@
+{
+  "content": "DYNDISP=THIN the default mode of operation for coupling facility images that use shared processors. CFCC Level 23 CFCC Level 23 is delivered on IBM z14 servers with driver level 36. In addition to CFCC Level 22 enhancements, it introduces the following enhancements: \u0002 Asynchronous cross invalidation (XI) for CF cache structures This enhancement requires z/OS fixes for APARs OA54688 (exploitation) and OA54985 (toleration). It also requires explicit data manager support (Db2 V12 with PTFs). \u0002 Coupling Facility hang detection These enhancements provide a significant reduction in failure scope and client disruption (CF-level to structure-level), with no loss of FFDC collection capability. With this support, the CFCC dispatcher significantly reduces the CF hang detection interval to only 2 seconds, which allows more timely detection and recovery from such events. When a hang is detected, in most cases the CF confines the scope of the failure to \u201cstructure damage\u201d for the single CF",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.916124",
+    "chunk_number": 684,
+    "word_count": 151
+  }
+}

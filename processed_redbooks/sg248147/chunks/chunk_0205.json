@@ -1,0 +1,18 @@
+{
+  "content": "server 2 9.0.128.50 Obtain from network administrator. DNS server 3 9.60.70.80 Obtain from network administrator. Interface name OSAETH0 OSAETH0 is recommended. The first character is the letter O. The last character is the numeral 0 (zero). OSA starting device number 1944 Start of OSA triplet for z/VM TCP/IP stack. Subnet mask Subnet CIDR mask 255.255.255.0 /24 Assigned by your network administrator. OSA device type QDIO (layer2) VLAN ID Obtain from network administrator if required. MTU size 8992 1492 or 8992 for jumbo frames. Recommend 8992 with PMTUD on. VSWITCH1 primary OSA triplet 0FA0 0FA1 0FA2 Specify the first real device number and the next two device numbers will also be used. VSWITCH1 second OSA triplet 19A0 19A1 19A2 Ideally, it needs to be on a different CHPID. VMLAN MAC prefix, member 1 0200A1 Assigned by your network administrator. VMLAN MAC prefix, member 2 0200A2 Assigned by your network administrator. Important: For setting the VMLAN MACPREFIX value, IBM z/VM CP",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.969855",
+    "chunk_number": 205,
+    "word_count": 159
+  }
+}

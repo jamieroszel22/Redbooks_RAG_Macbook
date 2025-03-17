@@ -1,0 +1,18 @@
+{
+  "content": "cache is implemented as SRAM5 and has the same size as on IBM z15 T02 (128 KB for instructions and 128 KB for data). \u0002 L2 cache (32 MB in total) also uses SRAM technology, and is semi-private to each PU core with 16 MB dedicated to the associated core, and 16 MB shared with the system (the 50/50 split is adjustable). \u0002 L3 cache (up to 256 MB per chip) now becomes a virtual cache and can be allocated on any of the share part of a L2 cache. \u0002 L4 cache (per drawer - up to 1024 MB for the Max5 and Max16, up to 2048 MB for the Max32 and Max68) is also a virtual cache and can be allocated on any of the share part of a L2 cache. Figure 3-4 on page 78 shows the new cache structure that is implemented in an fully populated IBM z16 A02 and IBM z16 AGZ CPC drawer. 5 SRAM - Static Random Access Memory (not refresh required) 78 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 3-4 IBM z16 A02 and IBM z16 AGZ cache structure at CPC drawer level Main storage has up to 8 TB addressable memory per",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.029506",
+    "chunk_number": 214,
+    "word_count": 204
+  }
+}

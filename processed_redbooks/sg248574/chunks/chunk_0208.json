@@ -1,0 +1,18 @@
+{
+  "content": "its interactions. Memory modules are integral to the agent\u2019s ability to maintain contextual awareness and continuity. These modules are responsible for storing and managing information that supports the agent\u2019s operations. Memory can be categorized into two main types: \u0002 Short-term memory Short-term memory focuses on capturing the agent\u2019s immediate actions, thoughts, and observations during ongoing interactions, which include data that is retrieved from vector searches, outputs from API calls, and results from database queries. Short-term memory is essential for helping ensure that the agent can respond effectively to the immediate context of a user\u2019s query. \u0002 Long-term memory In contrast, long-term memory serves as a repository for information that is accumulated over extended periods, which include summarized logs of prior interactions, personal details and preferences of the user, and other contextual information that might influence the agent\u2019s behavior. Long-term memory enables",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.027371",
+    "chunk_number": 208,
+    "word_count": 141
+  }
+}

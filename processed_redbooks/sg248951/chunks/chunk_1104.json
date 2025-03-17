@@ -1,0 +1,18 @@
+{
+  "content": "scope, so need all LPARs to get the total picture. z/OS SMF 99 Subtype 14 contains HiperDispatch Topology data including: \u0002 Logical Processor characteristics: Polarity (VH, VM, VL) and Afinity Node \u0002 Physical topology information: Drawer/ DCM/ Chip location data for each logical CP. \u0002 z/OS SMF 99 Subtype 14 is written every 5 minutes or when a Topology change occurs \u2013 Topology changes: \u2022 Configuration Change or weight change \u2022 Driven by IRD weight management \u2022 Record provides a Topology Change indicator to show when the topology changed \u0002 LPAR topology may have a very significant impact on processor CPU efficiency. Remote cache accesses may take hundreds of machine cycles. SMF 99.14 records are produced every 5 minutes and capture drawer/DCM/chip location data for each logical CP. In the Topology Reports, IBM zPCR reports \u201cmeasured\u201d data and it shows the \u201cwhat-is\u201d and not the \u201cwhat-if\u201d topology scenarios. 12.9.7 IBM z16 HMC - View Partition Resource Assignments Note: To access HMC",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.300158",
+    "chunk_number": 1104,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "support is applicable only when both the driving CPC and the target CPC are z16s with the required firmware support (Bundle S24 or higher) and when the driving system\u2019s z/OS level is 2.3 or higher with APAR OA65559. 7.5.7 Coupling links17 IBM z16 A02 and IBM z16 AGZ servers support only active participation in the same Parallel Sysplex with IBM z15 and IBM z14. Configurations with z/OS on one of these servers can add an IBM z16 A02 and IBM z16 AGZ to their Sysplex for a z/OS or a Coupling Facility image. Configurations with a Coupling Facility on one of these servers can add an IBM z16 A02 and IBM z16 AGZ to their Sysplex for a z/OS or a Coupling Facility image. IBM z16 A02 and IBM z16 AGZ does not support participating in a Parallel Sysplex with System IBM z13/IBM z13s and earlier systems. Each system can use, or not use, internal coupling links, CE LR links, or ICA SR coupling links independently of what other systems are using. Coupling connectivity is available only when other",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.268551",
+    "chunk_number": 781,
+    "word_count": 179
+  }
+}

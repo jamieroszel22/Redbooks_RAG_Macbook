@@ -1,0 +1,18 @@
+{
+  "content": "Processing Elements (PE), and Special Function Processors (SFP). Figure B-2 AIU logical diagram Intelligent data movers and prefetchers are connected to the chip by way of a ring interface for high-speed, low-latency, read/write cache operations (200+ GBps read/store bandwidth, and 600+GBps bandwidth between engines). Compute Arrays consist of 128 processor tiles with 8-way FP-16 FMA SIMD, which are optimized for matrix multiplication and convolution, and 32 processor tiles with 8-way FP-16/FP-32 SIMD, which is optimized for activation functions and complex functions. The integrated AI accelerator delivers more than 6 TFLOPs per chip and over 200 TFLOPs in the 32 chip system (a fully configured IBM z16 with four CPC drawers). The AI accelerator is shared by all cores on the chip. The firmware, which is running on the cores and accelerator, orchestrates and synchronizes the execution on the accelerator. 506 IBM z16 (3931) Technical Guide How to use IBM Z Integrated AI Accelerator in",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.354608",
+    "chunk_number": 1121,
+    "word_count": 154
+  }
+}

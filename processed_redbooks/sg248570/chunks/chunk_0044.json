@@ -1,0 +1,18 @@
+{
+  "content": "return on their data lake investment or even rely on the data (partly due to poor-quality data). Poor-quality data continues to concern most organizations. Once poor-quality data is shared across multiple business units and decisions are made based on that data, it can be a difficult, costly, and lengthy process to recover from that mistake. Data warehouses can be considered as the first iteration of tools to support analytics, which enabled organizations to analyze data and decide at scale. Data warehouses enabled organizations to look at historical data. Over time, as volumes continued to grow, it became challenging to store and retain all data in a data warehouse. Also, organizations might have only a few years\u2019 worth of data or only a small slice of the operational data in their warehouses. Organizations recognize that large volumes of unstructured data, even if they are not suitable for data warehouses, also contain great value because the data can be extracted. Unfortunately,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.507980",
+    "chunk_number": 44,
+    "word_count": 159
+  }
+}

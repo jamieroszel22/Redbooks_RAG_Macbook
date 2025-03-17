@@ -1,0 +1,18 @@
+{
+  "content": "compatible with the following standards: \u0002 Fibre Channel Framing and Signaling standard (FC-FS) \u0002 Fibre Channel Switch Fabric and Switch Control Requirements (FC-SW) \u0002 Fibre Channel Single-Byte-4 (FC-SB-4) standards For example, the zHPF channel programs can be used by the z/OS OLTP I/O workloads, Db2, VSAM, the partitioned data set extended (PDSE), and the z/OS file system (zFS). At the zHPF announcement, zHPF supported the transfer of small blocks of fixed size data (4 K) from a single track. This capability was extended, first to 64 KB, and then to multitrack operations. The 64 KB data transfer limit on multitrack operations was removed by z196. This improvement allows the channel to fully use the bandwidth of FICON channels, which results in higher throughputs and lower response times. The multitrack operations extension applies to the FICON Express32S and FICON Express16S+, when configured as CHPID type FC and connecting to z/OS. zHPF requires matching support by the DS8000",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.963105",
+    "chunk_number": 697,
+    "word_count": 156
+  }
+}

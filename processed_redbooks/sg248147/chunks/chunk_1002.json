@@ -1,0 +1,18 @@
+{
+  "content": "work volume 1 Mem 2 WORK Member 2 work vol 2 (3390-3 only) Mem 2 WORK Member 2 work vol 3 (3390-3 only) Mem 3 RES Member 3 residence vol (optional) Mem 3 SPOOL Member 3 spool volume Mem 3 PAGE Member 3 page volume Mem 3 WORK Member 3 work volume 1 Appendix B. Reference, cheat sheets, blank worksheets, and education 485 INSTPLAN worksheet 4 Complete the worksheet in Table B-7 to record the common volume and channel-to-channel (CTC) addresses that are required in the INSTPLAN panel. This panel is shown at the end of 5.6.1, \u201cCopying in-memory z/VM system to DASD\u201d on page 124. If only two members exist in the SSI, you need to specify only two pairs of CTCs (from member 1 to member 2, and vice versa). Table B-7 INSTPLAN values worksheet for volume definition Mem 3 WORK Member 3 work vol 2 (3390-3 only) Mem 3 WORK Member 3 work vol 3 (3390-3 only) Mem 4 RES Member 4 residence vol (optional) Mem 4 SPOOL Member 4 spool volume Mem 4 PAGE Member 4 page volume Mem 4 WORK Member 4 work volume 1",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.975084",
+    "chunk_number": 1002,
+    "word_count": 190
+  }
+}

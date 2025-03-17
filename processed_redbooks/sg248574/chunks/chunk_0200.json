@@ -1,0 +1,18 @@
+{
+  "content": "customer support call transcripts. The system must extract and organize information based on a predefined set of 80 questions. Examples include \u201cDid the customer want to upgrade their plan?\u201d or \u201cDid the customer report bandwidth issues?\u201d \u2013 Knowledge: The primary data source will be call transcripts, which contain varied human expressions and conversational styles. \u2013 Skill requirements: Interpreting and analyzing natural language, which includes understanding diverse writing styles and linguistic nuances to extract relevant insights from conversations. Chapter 5. Advanced capabilities of watsonx.ai 85 \u0002 Personalized retail recommendations use case: A retailer aims to deploy a personalized recommendation engine that suggests in-stock products that are tailored to a user\u2019s dietary preferences, which include offering recommendations based on food allergies, nutritional goals, or ingredient restrictions. \u2013 Knowledge: The engine must use detailed product nutritional information and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.995222",
+    "chunk_number": 200,
+    "word_count": 135
+  }
+}

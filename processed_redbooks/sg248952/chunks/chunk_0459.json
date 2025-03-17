@@ -1,0 +1,18 @@
+{
+  "content": "IBM z16 AGZ Technical Guide IBM z16 A02 and IBM z16 AGZ PTP17 support Precision Time Protocol (PTP) is introduced as an alternative to NTP. \u0002 PTP provides more accurate timestamps to connected devices \u0002 Initially used for Power Distribution Systems, Telecommunications, and Laboratories \u0002 Requires Customer Network Infrastructure to be PTP capable \u0002 IBM z16 A02 and IBM z16 AGZ provide PTP connectivity direct to the CPC 4.7 Cryptographic functions Cryptographic functions are provided by the CP Assist for Cryptographic Function (CPACF) and the PCI Express cryptographic adapters. IBM z16 A02 and IBM z16 AGZ support the Crypto Express8S, and as carry forward, Crypto Express7S and crypto Express6S features. 4.7.1 CPACF functions (FC 3863) FC 386318 is required to enable Cryptographic functions. 4.7.2 Crypto Express8S feature (FC 0908 and FC 0909) The Crypto Express8S represents the newest generation of the Peripheral Component Interconnect Express (PCIe) cryptographic coprocessors, which are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.006367",
+    "chunk_number": 459,
+    "word_count": 150
+  }
+}

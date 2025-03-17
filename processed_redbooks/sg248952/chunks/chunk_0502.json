@@ -1,0 +1,18 @@
+{
+  "content": "after Auguste Kerckhoffs, a Dutch cryptographer, who formulated it in 1883: \u201cA system should not depend on secrecy, and it should be able to fall into the enemy\u2019s hands without disadvantage.\u201d In other words, the security of a cryptographic system should depend on the security of the key, so the key must be kept secret. Therefore, the secure management of keys is the primal task of modern cryptographic systems. Adhering to Kerckhoffs\u2019 Principle is done for the following reasons: \u0002 It is much more difficult to keep an algorithm secret than a key. \u0002 It is harder to exchange a compromised algorithm than to exchange a compromised key. \u0002 Secret algorithms can be reconstructed by reverse engineering software or hardware implementations. \u0002 Errors in public algorithms can generally be found more easily, when many experts examine it. \u0002 In history, most secret encryption methods proved to be weak and inadequate. \u0002 When a secret encryption method is used, it is possible that a back door was built",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.165385",
+    "chunk_number": 502,
+    "word_count": 167
+  }
+}

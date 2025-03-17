@@ -1,0 +1,18 @@
+{
+  "content": "on page 119 \u0002 \u201cVisualizing and exploring data\u201d on page 129 \u0002 \u201cBuilding and developing machine learning models\u201d on page 141 8 102 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 8.1 Use case introduction This chapter explores how a leading financial services company uses IBM watsonx.data and IBM watsonx.ai to unlock the power of marketing data. This use case follows a marketing team at a financial services company. The team is looking to better understand the performance of their direct marketing campaigns for the bank's bank term deposit product (certificate of deposit). A senior vice-president at the financial services company pulled together various individuals to help with this initiative: a data engineer, a data analyst, a data scientist, and various individuals from the business. For this analysis, the team wants to use their environment. The organization is running IBM watsonx.ai and IBM watsonx.data on-premises on Red Hat OpenShift. By analyzing the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.172293",
+    "chunk_number": 217,
+    "word_count": 155
+  }
+}

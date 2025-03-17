@@ -1,0 +1,18 @@
+{
+  "content": "processing data for synthetic data generation and the fine-tuning process. Figure 5-10 The ilab flow of commands Before you begin working with ilab, ensure that your system meets the following requirements: \u0002 Operating system: Linux (tested on Fedora), or macOS with Apple M1/M2/M3 chipsets. \u0002 Disk space: Minimum of 250 GB. 500 GB is recommended for complete workflows. \u0002 Python Version 3.10 or 3.11. At the time of writing, Python 3.12+ is unsupported due to dependency constraints. \u0002 C++ compiler: Ensure that a modern GCC version or equivalent is installed. If you use Python environment management tools, ensure that they build libraries that are implemented in C by including flags during Python compilation. For example, when using pyenv, you use the following string: PYTHON_CONFIGURE_OPTS=\"--enable-framework\" pyenv install 3.11.5 Chapter 5. Advanced capabilities of watsonx.ai 73 To install the required tools, run the following command: sudo dnf install gcc gcc-c++ make git python3.11",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.862728",
+    "chunk_number": 169,
+    "word_count": 151
+  }
+}

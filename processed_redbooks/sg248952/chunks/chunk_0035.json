@@ -1,0 +1,18 @@
+{
+  "content": "availability processing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 380 9.9 Concurrent Driver Maintenance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 385 9.9.1 Resource Group and native PCIe features MCLs. . . . . . . . . . . . . . . . . . . . . . . . 386 9.10 RAS capability for the HMA and SE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 387 9.11 IBM z16 AGZ specifics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 388 Chapter 10. Hardware Management Console and Support Element . . . . . . . . . . . . . 391 10.1 Introduction and overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 392 10.2 HMC and SE new features and changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 393 10.2.1 Driver 51/Version 2.16.0 HMC and SE new features . . . . . . . . . . . . . . . . . . . . 393 10.2.2 Hardware",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.267474",
+    "chunk_number": 35,
+    "word_count": 356
+  }
+}

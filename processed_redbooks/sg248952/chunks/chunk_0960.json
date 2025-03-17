@@ -1,0 +1,18 @@
+{
+  "content": "new features and changes The initial release that is included with IBM z16 A02 and IBM z16 AGZ is HMC and SE Driver 51/Version 2.16.0. When you log in to the HMC, the Dashboard is displayed. In the dashboard check the \u201cWhat\u2019s new\u201d widget to examine the new features that are available. For more information about HMC and SE functions, use the HMC and SE console help system or see Resource Link1 (https://www.ibm.com/servers/resourcelink), select Library, the applicable server, then select either HMC Version 2.16.0 help file content or SE Version 2.16.0 help file content. 10.2.1 Driver 51/Version 2.16.0 HMC and SE new features The following support was added with Driver 51/Version 2.16.0: \u0002 Enhanced Multi-Factor Authentication (MFA) functions With Driver 41/Version 2.15.0, MFA on the HMC is supported via Time-based One-time Password (TOTP) or IBM Z Multi-Factor Authentication (z/OS) and RSA Secure ID. New with Driver 51/Version 2.16.0 the following further MFA possibilities are supported:",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.865960",
+    "chunk_number": 960,
+    "word_count": 155
+  }
+}

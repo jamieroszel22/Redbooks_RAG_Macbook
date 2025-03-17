@@ -1,0 +1,18 @@
+{
+  "content": "Apache Hive tables in large and demanding data lake environments. Vendors supporting Apache Iceberg tables in their products at the time of writing include Buster, CelerData, Cloudera, Dremio, IOMETE, Snowflake, Starburst, Tabular, and AWS. Apache Parquet Apache Parquet is a no-charge, open-source, and column-oriented data storage format in the Apache Hadoop ecosystem. It is similar to Apache Hive Record Columnar File (RCFile) and Apache Optimized Row Columnar (ORC), which are the other columnar-storage file formats in Hadoop. It is compatible with most of the data processing frameworks of Apache Hadoop. It provides efficient data compression and encoding schemes with enhanced performance to handle complex data in bulk. Apache Avro Apache Avro is a row-oriented, remote procedure call and data serialization framework that is developed within the Apache Hadoop project. It uses JSON for defining data types and protocols, and serializes data in a compact binary format. Its primary use is",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.550956",
+    "chunk_number": 55,
+    "word_count": 150
+  }
+}

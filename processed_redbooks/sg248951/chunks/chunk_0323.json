@@ -1,0 +1,18 @@
+{
+  "content": "For information about the (kernel) supported amount of memory, check the Linux Distribution specific documentation. 126 IBM z16 (3931) Technical Guide 3.7.3 Reserved storage Reserved storage can be optionally defined to an LPAR, which allows a nondisruptive image memory upgrade for this partition. Reserved storage can be defined to central and expanded storage, and to any image mode except CF mode. An LPAR must define an amount of main storage: \u0002 The initial value is the storage size that is allocated to the partition when it is activated. \u0002 The reserved value is another storage capacity that is beyond its initial storage size that an LPAR can acquire dynamically. The reserved storage sizes that are defined to an LPAR do not have to be available when the partition is activated. Instead, they are predefined storage sizes to allow a storage increase, from an LPAR perspective. Without the reserved storage definition, an LPAR storage upgrade is a disruptive process that requires the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.494514",
+    "chunk_number": 323,
+    "word_count": 161
+  }
+}

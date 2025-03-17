@@ -1,0 +1,18 @@
+{
+  "content": "$CLONE_MNT_PT/etc/sysconfig/network-scripts/ifcfg-eth0 # Modify MACADDR/HWADDR if specified (optional) [ -n \"$MACADDR\" ] && sed -i -e \"s/MACADDR=.*/MACADDR=$MACADDR/g\" \\ $CLONE_MNT_PT/etc/sysconfig/network-scripts/ifcfg-eth0 [ -n \"$HWADDR\" ] && sed -i -e \"s/HWADDR=.*/HWADDR=$HWADDR/g\" \\ $CLONE_MNT_PT/etc/sysconfig/network-scripts/ifcfg-eth0 # Regenerate the SSH keys on the new clone's root filesystem [ -n \"$VERBOSE\" ] && echo \"Regenerating SSH keys in $CLONE_MNT_PT/etc/ssh/ ...\" rm -f $CLONE_MNT_PT/etc/ssh/ssh_host* ssh-keygen -t rsa -N \"\" -q -f $CLONE_MNT_PT/etc/ssh/ssh_host_rsa_key ssh-keygen -t dsa -N \"\" -q -f $CLONE_MNT_PT/etc/ssh/ssh_host_dsa_key ssh-keygen -t rsa1 -N \"\" -q -f $CLONE_MNT_PT/etc/ssh/ssh_host_key copy_key } 508 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 #+--------------------------------------------------------------------------+ function set_online # This will set online the target minidisk. # Arg1 - Minidisk virtual address to set online",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.126161",
+    "chunk_number": 1038,
+    "word_count": 109
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "and querying data within the Hive ecosystem. For seamless data management, IBM watsonx.data uses the Hive Metastore as its back-end system, which enables the platform to maintain, manage, and catalog the meta-data that is associated with tables, like Hive itself. This integration helps ensure efficient data discovery and simplifies querying within IBM watsonx.data. \u0002 Apache Spark is a powerful open-source, distributed processing system that is designed to handle big data workloads efficiently. Spark's efficient data processing capabilities make it a powerful tool for executing critical Iceberg table operations like updates, deletes, and merges, ensuring data integrity and consistency in data warehouses. Spark offers even more value beyond this specific use case: \u2013 Data processing: Spark excels at data processing tasks like filtering and transforming raw data. Its procedural code capabilities enable efficient manipulation compared to pure SQL. You can process data with Spark and then",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.739808",
+    "chunk_number": 103,
+    "word_count": 145
+  }
+}

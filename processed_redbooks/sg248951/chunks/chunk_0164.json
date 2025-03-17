@@ -1,0 +1,18 @@
+{
+  "content": "to that CPC drawer is lost. To prevent connectivity loss, the redundant I/O interconnect feature allows you to maintain connection to critical I/O devices installed in PCIe+I/O Drawers when a CPC drawer is removed. ICA SR1.1 (and ICA SR) can also be installed for coupling and timing links redundancy. 2.7.1 Redundant I/O interconnect Redundancy is provided for PCIe I/O interconnects. The PCIe+ I/O drawer supports up to 16 PCIe features, which are organized in two hardware domains (for each drawer). The infrastructure for the fan-out to I/O drawers and external coupling is shown in Figure 2-23. Figure 2-23 Infrastructure for PCIe+ I/O drawer (system with two PCIe+ I/O drawers) The PCIe+ Gen3 fan-out cards are used to provide the connection from the PU DCM PCIe Bridge Unit (PBU), which uses split the PCIe Gen4 (@32GBps) processor busses into two PCIe Gen3 x16 (@16 GBps) interfaces to the PCIe switch card in the PCIe+ I/O drawer. Chapter 2. Central processor complex hardware components 53",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.818691",
+    "chunk_number": 164,
+    "word_count": 163
+  }
+}

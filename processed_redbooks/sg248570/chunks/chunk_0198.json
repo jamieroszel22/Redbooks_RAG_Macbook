@@ -1,0 +1,18 @@
+{
+  "content": "Management Endpoints: This component is used to facilitate IKC access to the metadata and data of watsonx.data and allow the service token of IKC to bypass the built-in access controls, enabling profiling of raw data and identifying the correct data classes for columns. \u0002 Query Audit and Governance: This component is a Presto engine plugin. When users attempt to access data from watsonx.data, it triggers corresponding data governance requests to IKC and protect the sensitive data using data masking or row level filtering based on the predefined data protection rules in IKC. \u0002 Policy Enforcement Point: This component is used to evaluate the IKC data protection rules using IKC SDKs and cache the policy evaluation results for repeating access. Chapter 6. Establishing data governance 91 6.3.2 Implementation of the integration Before data governance can be fully implemented, several preparatory steps must be completed in the IBM Knowledge Catalog. Typically, a role called Data Steward, is",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.104908",
+    "chunk_number": 198,
+    "word_count": 155
+  }
+}

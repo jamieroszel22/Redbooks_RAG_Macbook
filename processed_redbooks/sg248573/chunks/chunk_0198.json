@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.governance 6.4.4 Considerations for traditional ML from another platform Just like prompt templates from other platforms, ML assets and deployments can exist outside of watsonx.governance and still be monitored and tracked by watsonx.governance. Lifecycle governance of third-party ML models deployed on other platforms can be implemented through python code. IBM watsonx.governance provides all of the tools and methods necessary to achieve lifecycle governance regardless of where the asset exists. Section 6.4.2, \u201cConsiderations for lifecycle governance for traditional ML hosted on watsonx.ai\u201d on page 70 introduces the tools which will be used to achieve these goals. Many of the same steps apply when implementing lifecycle governance for ML assets deployed on other platforms. Review the setup steps covered in section 6.4.2, \u201cConsiderations for lifecycle governance for traditional ML hosted on watsonx.ai\u201d on page 70 to configure the AI Inventory and AI use case and review the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.189099",
+    "chunk_number": 198,
+    "word_count": 145
+  }
+}

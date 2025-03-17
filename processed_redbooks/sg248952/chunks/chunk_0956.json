@@ -1,0 +1,18 @@
+{
+  "content": "Chapter 10. Hardware Management Console and Support Element 393 Chapter 10. Hardware Management Console and Support Element The Hardware Management Console (HMC) supports the functions and tasks that are required to manage the IBM Z servers. When tasks are performed on the HMC, the commands are sent to the Primary Support Element (SE) of the targeted system, which then issues commands to their respective central processor complex (CPC). This chapter describes the newest and most important elements for the HMC and SE. This chapter includes the following topics: \u0002 10.1, \u201cIntroduction and overview\u201d on page 394 \u0002 10.2, \u201cHMC and SE new features and changes\u201d on page 395 \u0002 10.3, \u201cHMC and SE connectivity\u201d on page 412 \u0002 10.4, \u201cRemote Support Facility\u201d on page 419 \u0002 10.5, \u201cHMC and SE capabilities\u201d on page 420 10 Tip: The Help function is a good starting point to get more information about all of the functions that can be used by the HMC and SE. The Help feature is available by clicking Help",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.851195",
+    "chunk_number": 956,
+    "word_count": 170
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Cloud API key d. After the API key is successfully created, copy or download the key and save it locally, as shown in Figure 4-10 Figure 4-10 API key creation 5. Open watsonx.ai Studio and associate the watsonx.ai service: a. In the upper left of your screen, click the four horizontal lines, as shown in Figure 4-11 Figure 4-11 watsonx.ai studio menu icon 32 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai b. Select Resource list, as shown in Figure 4-12. Figure 4-12 watsonx.ai studio Resource list option c. Expand AI / Machine Learning, as shown in Figure 4-13. Figure 4-13 AI / Machine Learning menu option d. Click the watsonx.ai Studio record, as shown in Figure 4-14. Figure 4-14 watsonx.ai Studio record icon e. Click View full details, as shown in Figure 4-15. Figure 4-15 watsonx.ai studio details f. Select Launch in \u2192 IBM watsonx, as shown in Figure 4-16. Figure 4-16 watsonx.ai Launch in option Figure 4-17 shows the Welcome to watsonx window. Figure 4-17",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.509453",
+    "chunk_number": 97,
+    "word_count": 171
+  }
+}

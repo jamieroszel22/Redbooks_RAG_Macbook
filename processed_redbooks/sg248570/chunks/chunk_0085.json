@@ -1,0 +1,18 @@
+{
+  "content": "Performance tuning: Optimize resource allocation, caching strategies, and data partitioning. \u0002 Fault tolerance: Design for resilience with retry mechanisms, checkpointing (especially for streaming), and redundancy. The combination of Apache Spark, ETL tools like DataStage, and StreamSets creates a powerful, flexible, and efficient pipeline for open lakehouse architectures. Spark handles intensive computation and analytics, DataStage ensures structured ETL processes, and StreamSets provides real-time ingestion and monitoring. Together, these tools facilitate seamless data flow, governance, and scalability across the pipeline. 2.5 Data pipelines integration with watsonx.data The integration of tools like Apache Spark, IBM DataStage, and StreamSets with watsonx.data becomes essential for building robust, scalable, and efficient data pipelines. watsonx.data is designed to unify data across various formats and environments, enabling advanced analytics and AI workloads. Here is how these",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.674177",
+    "chunk_number": 85,
+    "word_count": 128
+  }
+}

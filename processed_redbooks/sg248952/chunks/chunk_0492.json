@@ -1,0 +1,18 @@
+{
+  "content": "Certain functions might require specific levels of an operating system, PTFs, or both. Chapter 5. Logical I/O - Channel Subsystem 197 5.3 Channel subsystem summary IBM z16 A02 and IBM z16 AGZ support the channel subsystem features of multiple LCSS, MSS, and the channel spanning that is described in this chapter. The channel subsystem capabilities of IBM z16 A02 and IBM z16 AGZ are listed in Table 5-1. Table 5-1 IBM z16 A02 and IBM z16 AGZ CSS overview Maximum number of CSSs 3 Maximum number of LPARs per CSS CSS0 - CSS1: 15 CSS2: 10 Maximum number of LPARs per system 40 Maximum number of subchannel sets per CSS 3 Maximum number of subchannels per CSS 191.74 K SS0: 65280 SS1 - SS2: 65535 Maximum number of CHPIDs per CSS 256 198 IBM z16 A02 and IBM z16 AGZ Technical Guide \u00a9 Copyright IBM Corp. 2023. All rights reserved. 199 Chapter 6. Cryptographic features This chapter describes the hardware cryptographic functions that are available on IBM z16 A02 and IBM z16 AGZ. The CP Assist for",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.134318",
+    "chunk_number": 492,
+    "word_count": 177
+  }
+}

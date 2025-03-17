@@ -1,0 +1,18 @@
+{
+  "content": "modules (HSMs) per feature. The HSM is one IBM 4770 PCIe Cryptographic Coprocessor (PCIeCC). The max. number of HSMs per IBM z16 A02 or IBM z16 AGZ, combining all cryptographic features is 40, while the max. number of single HSM (port) cryptographic features is 16 (CEX8S (single HSM), CEX7S (1 port), and CEX6S) c. More than one partition, which is defined to the same channel subsystem (CSS) or to different CSSs, can use the same domain number when assigned to different PCIe cryptographic adapters. 218 IBM z16 A02 and IBM z16 AGZ Technical Guide WRAPENH3 is supported, which is very important for independently reviewed key block protection for keys used in PCI PIN audited workloads. \u0002 AES, AESKW, AES GMAC, AES GCM, AES XTS, AES CIPHER mode, and CMAC: AES replaced DES as the official US standard in October 2000. The enhanced standards for AES Key Warp (AESKW), the AES Galois Message Authentication Code (AES GMAC) and Galois/Counter Mode (AES GCM), the XEX-based tweaked-codebook mode with",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.311818",
+    "chunk_number": 538,
+    "word_count": 166
+  }
+}

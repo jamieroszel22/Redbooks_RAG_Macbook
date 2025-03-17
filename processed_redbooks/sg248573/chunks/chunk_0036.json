@@ -1,0 +1,18 @@
+{
+  "content": "describes the key challenges and opportunities it presents. This chapter has the following sections: \u0002 \u201cWhat is AI governance?\u201d on page 2 \u0002 \u201cGovernance as a key enabler for realizing AI value\u201d on page 4 \u0002 \u201cChallenges with governance of enterprise AI\u201d on page 6 \u0002 \u201cAn example of legislation and standards related to AI\u201d on page 12 1 2 Ensuring Trustworthy AI with IBM watsonx.governance 1.1 What is AI governance? There is not one formal definition of AI governance that is generally accepted. Many organizations have created a definition that focuses on specific elements of the overall AI governance picture. The one that, in the opinion of the author, captures a broad spectrum succinctly best is this one from the Data & AI Alliance: ___________________________________________________________________ \u201cA system of rules, practices, processes and tools that help an organization use AI in alignment with its values and strategies, address compliance requirements and drive trustworthy",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.558574",
+    "chunk_number": 36,
+    "word_count": 153
+  }
+}

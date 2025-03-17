@@ -1,0 +1,18 @@
+{
+  "content": "odd-numbered BPAs (BPA1 and BPA3) to one power source or distribution panel, and the even-numbered BPAs (BPA2 and BPA4) to a separate power source or distribution panel. Tip: The exact power consumption for your system varies. The object of the tool is to estimate the power requirements to aid you in planning for your system installation. Actual power consumption after installation can be confirmed by using the HMC Monitors Dashboard task. 64 IBM z16 (3931) Technical Guide 2.9.5 Radiator Cooling Unit A total of 1 - 2 Radiator Cooling Units (RCUs) are used in the system: One in Frame A and one in Frame B in support of water cooling of the PU DCMs within the CPC drawers. The unit includes N+1 pumps and N+1 fans. Water loops to each drawer are directly delivered by way of hoses to each drawer from manifolds. The RCU discharges heat from the internal frame water loop to the customer\u2019s data center. Each RCU provides cooling to PU DCMs with closed loop water within the respective frame. No",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.916789",
+    "chunk_number": 185,
+    "word_count": 174
+  }
+}

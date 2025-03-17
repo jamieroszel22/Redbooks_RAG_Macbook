@@ -1,0 +1,18 @@
+{
+  "content": "SMP, I/O and memory interfaces (see Figure 9-2). Figure 9-2 PU chip structure (w/ bidirectional ring shown) \u0002 Two PU chips are packaged on a dual chip module (DCM), shown in Figure 9-3 on page 368. PU chip to PU chip communication is performed through the M-Bus, a high-speed bus and acting as ring-to-ring extension communication at 160 Gbps data rate. \u2013 ECC on data path and snoop bus \u2013 Parity on miscellaneous control lines \u2013 One spare per ~50 data bit bus 368 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 9-3 IBM z16 A02 and IBM z16 AGZ Dual Chip Module (M-Bus connects the two chips) \u0002 The processor recovery logic resides on the DCM and has the following RAS characteristics: \u2013 PU refresh for soft errors \u2013 Hardened RU (recovery unit) with wordline failure detection \u2013 Improved latch interleaving (spacing) for soft error resistance \u2013 Core sparing for hard errors \u2022 All servers ship with two spare cores \u2013 Improved long term thresholding \u2013 Redesigned nest \u2013 Concurrent repair via CDR",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.660997",
+    "chunk_number": 901,
+    "word_count": 176
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "The point-to-point SMP9 connection topology for CPC drawers is shown in Figure 2-10. Each CPC drawer communicates directly to all of the other CPC drawers DCMs by using point-to-point links. Figure 2-10 Maximum CPC drawer SMP connections (rear view) The CPC drawers that are installed in Frame A and Frame B are populated from bottom to top. The order of CPC drawer installation is listed in Table 2-4. Table 2-4 CPC drawer installation order and position CPC drawer installation in the A frame is concurrent. Non-disruptive addition of CPC1 or CPC2 drawers is possible in the field (MES upgrade) if the reserve features (FC 2981 or FC 2982) are included with the initial system order. Concurrent drawer repair requires a minimum of two CPC drawers. CPC drawera a. CPC3 is factory-installed only (no field MES available). CPC0 CPC1 CPC2 CPC3 Installation order First Second Third Fourth Position in Frame A A10B A15B A20B B10B Chapter 2. Central processor complex hardware components 27 2.2.2",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.598952",
+    "chunk_number": 117,
+    "word_count": 163
+  }
+}

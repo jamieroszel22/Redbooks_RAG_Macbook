@@ -1,0 +1,18 @@
+{
+  "content": "with IBM watsonx.ai \u0002 Custom FMs: For organizations with unique requirements, watsonx.ai also supports the import of custom FMs if they have fewer than 20 billion parameters. This approach opens the possibility of automatically fine-tuning tons of available models on Hugging Face and on watsonx.ai. This flexibility helps ensure that the platform can accommodate a wide range of use cases and industries. \u0002 Monitoring and optimization: Throughout the fine-tuning process, watsonx.ai provides robust tools for monitoring and optimization. Real-time performance tracking enables users to assess key metrics, such as validation loss and gradient stability, which helps ensure that the model improves as expected. The platform also employs advanced early-stopping mechanisms to prevent overfitting by halting training when further iterations would yield diminishing returns. These features enhance the efficiency of the process and improve the quality of the final model. Figure 5-5 shows the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.792762",
+    "chunk_number": 154,
+    "word_count": 143
+  }
+}

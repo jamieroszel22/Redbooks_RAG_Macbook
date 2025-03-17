@@ -1,0 +1,18 @@
+{
+  "content": "an IBM machine in a level-1 configuration (basic machine mode), or for a program being run by a level-2 configuration (in a logical partition), the environment field contains 00 hex. \u2013 For a program that is run natively by the System z Personal-Development Tool, the environment field contains C1 hex or D3 hex. \u2013 For a program that is run by a level-3 configuration (a virtual machine, such as a z/VM guest), the environment field contains FF hex. \u0002 Bit positions 8 - 31 Contains six hexadecimal digits. The right-most of these digits can represent the machine\u2019s serial number. \u0002 Bit positions 32 - 47 Contains an unsigned packed-decimal number that identifies the machine type of the CPU. \u0002 Bit position 48 Specifies the format of the first two hexadecimal digits of the configuration-identification field. \u0002 Bit positions 49 - 63 are reserved and stored as zeros. For more information about the STIDP instruction, see z/Architecture Principles of Operation, SA22-7832. Environment 0 8",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.629480",
+    "chunk_number": 892,
+    "word_count": 163
+  }
+}

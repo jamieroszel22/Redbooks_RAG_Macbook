@@ -1,0 +1,18 @@
+{
+  "content": "REXX exec named profile: ===> profile HCPMOW6272I Now recording in file D060713 T110146 A1 HCPMOW6265A MONITOR WRITER CONNECTED TO *MONITOR 4. Disconnect from MONWRITE: ===> #cp disc The CLOSE 480 statement tells MONWRITE to close the output file every 8 hours (480 minutes), starting from midnight. It means, regardless of when it starts recording, that it will close the file at 08:00, at 16:00, and at 24:00. The file name will clearly show the date and time when the recording started. To collect MONWRITE data automatically, start the MONWRITE virtual machine when you IPL z/VM. Add a line to the PROFILE EXEC of the AUTOLOG1 191 disk (or AUTOLOG2 191 if an external security manager, such as RACF, is running): ===> x profile exec ... \"CP XAUTOLOG MONWRITE\" /* Start the MONWRITE VM */ ... The MONWRITE\u2019s A-disk is shipped as 300 cylinders, which is small. Depending on the monitor interval activity of the system and the number of samples/events, it can fill quickly. When the disk is full,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.455981",
+    "chunk_number": 843,
+    "word_count": 169
+  }
+}

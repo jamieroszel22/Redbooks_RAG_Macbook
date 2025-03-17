@@ -1,0 +1,18 @@
+{
+  "content": "single FRU because of a packaging design. \u0002 Two local redundant oscillator cards are available per CPC drawer, each with one PPS port and one ETS port (RJ45 Ethernet, for both PTP and NTP). \u0002 The current design requires Pulse Per Second to provide maximum time accuracy for NTP and PTP. \u0002 An enhanced precision oscillator (20 PPM6 versus 50 PPM on previous systems) is used. \u0002 The following PPS plugging rules apply (see Figure 2-10 on page 35): \u2013 Single CPC drawer plug left and right OSC PPS coaxial connectors. \u2013 Multi-drawer plug CPC0 left OSC PPS and CPC1 left OSC PPS coaxial connectors. \u2013 Cables are routed from rear to front using a pass-through hole in the frame and under the CPC bezel using a right-angle Bayonet Neill-Concelman (BNC) connector that provides the pulse per second (PPS) input for synchronization to an external time source with PPS output. Cables are supplied by the customer. \u2013 Connected PPS ports must be assigned in the Manage System Time menus on the HMC. 6 PPM -",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.702415",
+    "chunk_number": 137,
+    "word_count": 175
+  }
+}

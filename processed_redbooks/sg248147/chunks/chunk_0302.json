@@ -1,0 +1,18 @@
+{
+  "content": "===> warm 7. Because spool data is shared, the warm start typically proceeds without any additional prompts. If you receive a message that states that no warm start data is available, answer the prompt to proceed by using a cold start. 8. After a short time, you see z/VM coming up. 9. After a minute or two, when z/VM completes the IPL, verify that basic VMSSI awareness is functional by using the QUERY SSI command. You see the VMSSI Mode listed as Stable, and any z/VM LPARs for which you performed the IPL are in a state of Joined. If you do not see these results, troubleshoot your channel-to-channel adapter (CTCA) configuration: ===> query ssi SSI Name: ITSOSSIA SSI Mode: Stable Cross-System Timeouts: Enabled SSI Persistent Data Record (PDR) device: VV155A on 155A SLOT SYSTEMID STATE PDR HEARTBEAT RECEIVED HEARTBEAT 1 RDBKZVMG Joined 2020-09-19 09:03:01 2020-09-19 09:03:01 2 RDBKZVMH Joined 2020-00-19 09:03:08 2020-09-19 09:03:08 3 -------- Available 4 -------- Available 10.Run the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.394243",
+    "chunk_number": 302,
+    "word_count": 162
+  }
+}

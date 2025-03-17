@@ -1,0 +1,18 @@
+{
+  "content": "slot, but does not include a PCHID type. However, LPARs in all CSSs can access the features. Each Crypto Express adapter can support up to 40 domains. \u0002 Each 25GbE RoCE Express(3 / 2.1 / 2) feature occupies one I/O slot but does not include a CHPID type. However, LPARs in all CSSs can access the feature. The 25GbE RoCE Express3 can be defined to up to 126 virtual functions (VFs) per feature (port is defined in z/OS Communications Server). The 25GbE RoCE Express3 feature support up to 63 VFs per port (up to 126 VFs per feature). \u0002 Each 10GbE RoCE Express(3 / 2.1 / 2) feature occupies one I/O slot but does not include a CHPID type. However, LPARs in all CSSs can access the feature. The 10GbE RoCE RoCE Express features 25GbE RoCE Express3 2 2 16 8 Yes N/A 10GbE RoCE Express3 2 2 16 8 Yes N/A 25GbE RoCE Express2.1 2 2 16 8 Yes N/A 10GbE RoCE Express2.1 2 2 16 8 Yes N/A 25GbE RoCE Express2 2 2 16 8 Yes N/Ac 10GbE RoCE Express2 2 2 16 8 Yes N/Ac Coupling features Coupling Express2 LR 2 2 64",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.729122",
+    "chunk_number": 388,
+    "word_count": 196
+  }
+}

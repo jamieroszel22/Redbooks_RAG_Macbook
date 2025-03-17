@@ -1,0 +1,18 @@
+{
+  "content": "link speeds provides reduced latency for large read/write operations and increased bandwidth compared to the FICON Express8S feature. Chapter 7. Operating system support 283 The supported operating systems are listed in Table 7-6 on page 252 and Table 7-7 on page 253. Extended distance FICON An enhancement to the industry-standard FICON architecture (FC-SB-3) helps avoid degradation of performance at extended distances by implementing a new protocol for persistent IU pacing. Extended distance FICON is transparent to operating systems and applies to all FICON Express32S, FICON Express16SA, and FICON Express16S+ features that carry native FICON traffic (CHPID type FC). To use this enhancement, the control unit must support the new IU pacing protocol. IBM System Storage\u2122 DS8000 series supports extended distance FICON for IBM Z environments. The channel defaults to current pacing values when it operates with control units that cannot use extended distance FICON. High-performance FICON",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.958930",
+    "chunk_number": 695,
+    "word_count": 146
+  }
+}

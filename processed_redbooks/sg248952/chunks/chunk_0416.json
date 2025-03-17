@@ -1,0 +1,18 @@
+{
+  "content": "feature does not support auto-negotiation to any other speed and runs in full duplex mode only. A 50 or a 62.5 \u00b5m multimode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature to the selected device. 166 IBM z16 A02 and IBM z16 AGZ Technical Guide OSA-Express7S 1.2 GbE LX (FC 0454) The OSA-Express7S 1.2 GbE LX feature includes one PCIe adapter and two ports. The two ports share a channel path identifier (CHPID type OSD). The ports support attachment to a 1 Gbps Ethernet LAN. Each port can be defined as a spanned channel and can be shared among LPARs and across logical channel subsystems. The OSA-Express7S 1.2 GbE LX feature supports the use of an LC Duplex connector. Ensure that the attaching or downstream device has an LX transceiver. The sending and receiving transceivers must be the same (LX to LX). A 9 \u00b5m single-mode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.842717",
+    "chunk_number": 416,
+    "word_count": 176
+  }
+}

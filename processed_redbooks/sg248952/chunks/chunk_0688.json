@@ -1,0 +1,18 @@
+{
+  "content": "of a CF partition and the dispatching of z/OS LPARs that are awaiting the arrival of returned asynchronous CF requests when used in a shared engine environment. For more information, see \u201cCoupling Thin Interrupts\u201d on page 105. The supported operating systems are listed in Table 7-5 on page 252. Asynchronous CF Duplexing for lock structures Asynchronous CF Duplexing enhancement is a general-purpose interface for any CF Lock structure user. It enables secondary structure updates to be performed asynchronously from primary CF updates. It offers performance advantages for duplexing lock structures and avoids the need for synchronous communication delays during the processing of every duplexed update operation. Asynchronous CF Duplexing for lock structures requires the following software support: \u0002 z/OS V2R5, V2R4 \u0002 z/OS V2R3 with PTFs for APAR OA47796 and OA49148 \u0002 z/VM V7R3, V7R2 \u0002 Db2 V12 with PTFs for APAR PI66689 or newer \u0002 IRLM V2.R3 with PTFs for APAR PI68378 The supported operating",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.929797",
+    "chunk_number": 688,
+    "word_count": 156
+  }
+}

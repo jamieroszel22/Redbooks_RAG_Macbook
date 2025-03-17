@@ -1,0 +1,18 @@
+{
+  "content": "reference/archive purposes, this can greatly simplify that task as well. Name Value User ID Order number Order name Date/Time Appendix B. Reference, cheat sheets, blank worksheets, and education 483 Hardware Management Console In Chapter 5.3, \u201cInstalling z/VM from a DVD or an FTP server\u201d on page 110, we describe how to start a z/VM installation from the Hardware Management Console (HMC). Complete Table B-3 to record the values that you will use. Table B-3 HMC values z/VM Installation Planning Panels (INSTPLAN) In Chapter 5.4.2, \u201cIn-memory z/VM system loaded\u201d on page 113, we describe the INSTPLAN command under step number 2 on page 115 that is run from the Integrated 3270 Console. The following information will be necessary. INSTPLAN panels 1 and 2 Complete Table B-4 to record the values that are required in the first two INSTPLAN panels. Table B-4 INSTPLAN values for the first two panels Name Value HMC location or URL HMC user ID FTP source system (if installing from FTP) z/VM",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.964908",
+    "chunk_number": 999,
+    "word_count": 164
+  }
+}

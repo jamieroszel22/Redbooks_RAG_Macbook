@@ -1,0 +1,18 @@
+{
+  "content": "FQC support \u0002 Ships bottom seal plate Non-Raised Floor No Yes (no Top Hat) 7998 and 7816 \u0002 No FQC support \u0002 Ships bottom seal plate Non-Raised Floor No Yes (with Top Hat) 7990 and 7898 \u0002 Top FQC support \u0002 Ships bottom seal plate 22 IBM z16 (3931) Technical Guide The rack with the spine mounted and the optional fiber cable organizer hoops is shown in Figure 2-5. If necessary, the spine, and organizer hoops can be easily relocated for service procedures. Figure 2-5 I/O cable management spine and fiber cable organizer (rear view) 2.2 CPC drawer The IBM z16 Model A01 (machine type 3931) features some design changes (compared to IBM z15), primarily with the processor modules and memory packaging in the drawers. An IBM z16 A01 CPC drawer includes the following features: \u0002 Four Dual chip modules (DCMs) \u0002 Up to 48 Memory DIMMs \u0002 Symmetric multiprocessor (SMP) connectivity \u0002 Connectors to support PCIe+ Gen3 fan-out cards for PCIe+ I/O drawers or coupling fan-outs for coupling links to other",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.579737",
+    "chunk_number": 112,
+    "word_count": 172
+  }
+}

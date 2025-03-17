@@ -1,0 +1,18 @@
+{
+  "content": "Enter 232 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 26.Select option 10 to stash the password that you set into an encrypted file. The SSL-TLS server will use this stash file during run time to access the key database. 27.After you are notified that the stash file is created, press Enter twice to return to the top-level menu. Then, select option 0 to exit from the utility. 28.Issue the following OPENVM commands to ensure that the necessary database files were created and to list the permissions of these files: ===> openvm list /etc/gskadm/ Directory = '/etc/gskadm/' Update-Dt Update-Tm Type Links Bytes Path name component 04/28/2015 13:32:14 F 1 105080 'Database.kdb' 04/28/2015 13:42:54 F 1 80 'Database.rdb' 04/28/2015 13:33:06 F 1 129 'Database.sth' ===> openvm list /etc/gskadm/ (own Directory = '/etc/gskadm/' User ID Group Name Permissions Type Path name component gskadmin security rw- --- --- F 'Database.kdb' gskadmin security rw- --- --- F 'Database.rdb' gskadmin security rw-",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.249995",
+    "chunk_number": 526,
+    "word_count": 156
+  }
+}

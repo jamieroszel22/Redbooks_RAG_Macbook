@@ -1,0 +1,18 @@
+{
+  "content": "17 Figure 2-1 IBM watsonx platform and its core components -.ai, .data, .governance This platform has three components: \u0002 IBM watsonx.ai: An enterprise-grade AI studio that helps operationalize and scale the development of AI applications by bringing together traditional machine learning and generative AI capabilities with high-quality data across the AI lifecycle. With watsonx.ai, AI developers can build, train, adapt, and tune models with your enterprise data and operationalize the models to generate insights, support tasks, and automate business workflows. \u0002 IBM watsonx.data: A fit-for-purpose data lakehouse service, that makes it possible for enterprises to scale AI workloads using all their data optimized for governed data and AI workloads. It serves as a data source for AI, enabling the enterprise ecosystem to access trusted and quality data while enforcing policies and rules for data privacy and security. watsonx.data supports querying, governance, and open data formats to",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.721792",
+    "chunk_number": 71,
+    "word_count": 146
+  }
+}

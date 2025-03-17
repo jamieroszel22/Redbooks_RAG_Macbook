@@ -1,0 +1,18 @@
+{
+  "content": "the bottom with support to filter by partition \u0002 Report is accessed from the Partition Detail Window \u0002 Latest versions of extract are required: \u2013 available here: IBM Support page. Note: The Topology report in Figure 12-10 on page 491 is showing all active partitions. Information about a specific partition can be obtained by clicking on the \u201cRemove all\u201d button to the left of the Partition Totals by Pool table at the bottom right and then clicking on the \u201cView\u201d check-box for a specific partition. Chapter 12. Performance and capacity planning 491 Figure 12-10 IBM zPCR Topology report example IBM zPCR Topology Report is based in the z/OS new Data Gatherer functionality delivered with APAR A62064, PTF available for z/OS 2.5 and z/OS 2.4. z/OS data is in the SMF 70.1 record. z/VM support is provided in the 7.3 version and APARs are available for z/VM 7.1 and 7.2. Additionally, consider collecting the z/OS SMF 99 Subtype 14 records for all LPARs in the IBM z16. Record has a single LPAR",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.298213",
+    "chunk_number": 1103,
+    "word_count": 171
+  }
+}

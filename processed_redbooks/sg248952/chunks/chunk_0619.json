@@ -1,0 +1,18 @@
+{
+  "content": "subchannels for FICON Express Y Y Y Y Y Request node identification data (RNID) Y Y Y N N FICON link incident reporting Y Y Y N N CHPID (Channel-Path Identifier) type FCP FICON Express support of SCSI devices - - - Y Y FICON Express support of hardware data router - - - Ye Ye FICON Express support of T10 Data Integrity Field (DIF) - - - Ye Ye N_Port ID Virtualization (NPIV) - - - Y Y Worldwide port name tool - - - Y Y a. PTFs might be required for toleration support or exploitation of IBM z16 A02 and IBM z16 AGZ features and functions. b. With PTFs c. DS8900F only, 9.1 release with z/OS PTFs, does not include XRC d. DS8900F only, 9.2 release with z/OS PTFs e. For guest use f. Requires FC 1146. Minimum, DS8910 or DS8890 storage, CPACF enablement and FICON Express32S LX/SX Functiona VSEn V6R3 z/TPF V1R1 Linux on IBM Zb The 63.75-K subchannels N N Y Six logical channel subsystems (LCSSs) Y N Y Four subchannel set per LCSS Y N Y Functiona z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3 z/VM V7R2",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.654755",
+    "chunk_number": 619,
+    "word_count": 193
+  }
+}

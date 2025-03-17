@@ -1,0 +1,18 @@
+{
+  "content": "distance (up to 150 m [492.1 feet]), direct 8 InfiniBand coupling is not supported on IBM z16 A02 and IBM z16 AGZ. 282 IBM z16 A02 and IBM z16 AGZ Technical Guide connection is intended to speed Db2 for z/OS transaction processing and improve active log throughput. The improved performance of zHyperLink Express allows the Processing Unit (PU) to make a synchronous request for the data that is in the DS8000 cache. This eliminates the undispatch of the running request, the queuing delays to resume the request, and the PU cache disruption. Support for zHyperLink Writes can accelerate Db2 log writes to help deliver superior service levels by processing high-volume Db2 transactions at speed. IBM zHyperLink Express requires compatible levels of DS8000/F hardware, firmware R8.5.1 or later, and Db2 12 with PTFs and later. The supported operating systems are listed in Table 7-6 on page 252 and Table 7-7 on page 253. FICON Express32S FICON Express32S (available for new build IBM z16 A02 and IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.947845",
+    "chunk_number": 692,
+    "word_count": 165
+  }
+}

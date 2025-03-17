@@ -1,0 +1,18 @@
+{
+  "content": "OSA-Express7S 1.2 10 GbE LR (FC 0456) are installed in the PCIe+ I/O Drawer and have 10 GbE physical port. The features connect to a 10 GbE switch and do not support auto-negotiation to a different speed. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. OSA-Express7S 1.2 GbE LX and SX features OSA-Express7S 1.2 features are an Ethernet technology refresh that was introduced with IBM z16. OSA-Express7S 1.2 GbE SX (FC 0455) and OSA-Express7S 1.2 10 GbE LX (FC 0454) are installed in the PCIe+ I/O Drawer and have two GbE physical ports. The features connect to a GbE switch and do not support auto-negotiation to a different speed. Each adapter can be configured in the following modes: \u0002 QDIO, with CHPID types OSD \u0002 Local 3270 emulation, including OSA-ICC, with CHPID type OSC The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. OSA-Express7S 1.2 1000BASE-T features (FC 0458) OSA-Express7S 1.2 features",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.085465",
+    "chunk_number": 729,
+    "word_count": 171
+  }
+}

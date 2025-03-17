@@ -1,0 +1,18 @@
+{
+  "content": "processor complex design 123 The 64-bit z/Architecture mode has no special operating mode because the architecture mode is not an attribute of the definable images operating mode. The 64-bit operating systems are in 31-bit mode at IPL and change to 64-bit mode during their initialization. The operating system is responsible for taking advantage of the addressing capabilities that are provided by the architectural mode. For more information about operating system support, see Chapter 7, \u201cOperating system support\u201d on page 243. Logically partitioned mode If the IBM z16 A02 and IBM z16 AGZ runs in LPAR mode, each of the 40 LPARs can be defined to operate in one of the following image modes: \u0002 General mode to run the following systems: \u2013 A z/Architecture operating system, on dedicated or shared CPs \u2013 A Linux on Z operating system, on dedicated or shared CPs \u2013 z/OS, on any of the following processor units: \u2022 Dedicated or shared CPs \u2022 Dedicated CPs and dedicated zIIPs \u2022 Shared CPs and shared",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.475808",
+    "chunk_number": 321,
+    "word_count": 168
+  }
+}

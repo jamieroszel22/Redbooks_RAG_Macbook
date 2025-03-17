@@ -1,0 +1,18 @@
+{
+  "content": "auto-negotiation, the OSA-Express port examines the signal that it is receiving and connects at the speed and duplex mode of the device at the other end of the cable. The OSA-Express6S 1000BASE-T Ethernet feature can be configured as CHPID type OSC, OSD, OSE, or OSM. Non-QDIO operation mode requires CHPID type OSE. 168 IBM z16 A02 and IBM z16 AGZ Technical Guide The following settings are supported on the OSA-Express6S 1000BASE-T Ethernet feature port: \u0002 Auto-negotiate \u0002 100 Mbps half-duplex or full-duplex \u0002 1000 Mbps full-duplex If auto-negotiate is not used, the OSA-Express port attempts to join the LAN at the specified speed and duplex mode. If this specified speed and duplex mode do not match the speed and duplex mode of the signal on the cable, the OSA-Express port does not connect. For supported distances, see Table 4-8. OSA-Express features summary The OSA-Express feature codes, cable type, maximum unrepeated distance, and the link rate on an IBM z16 A02 and IBM z16 AGZ are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.862725",
+    "chunk_number": 422,
+    "word_count": 165
+  }
+}

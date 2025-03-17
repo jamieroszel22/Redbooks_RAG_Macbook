@@ -1,0 +1,18 @@
+{
+  "content": "Generation (PRNG, DRNG, TRNG) Y Ycd c. z/TPF supports only AES-128 and AES-256 d. z/TPF supports only SHA-1 and SHA-256 Y CPACF protected key N N N Crypto Express8S Y Y Y Crypto Express7S Y Y Y Crypto Support for Visa Format Preserving Encryption N N N Crypto Support for Coprocessor in PCI-HSM Compliance Mode N N N Crypto Express6S Y Y Y Elliptic Curve Cryptography (ECC) Y N Y Secure IBM Enterprise PKCS #11 (EP11) coprocessor mode N N Y z/TPF transparent database encryption - Y - Chapter 7. Operating system support 261 7.4.1 LPAR Configuration and Management A single system image can control multiple processor units (PUs), such as CPs, zIIPs, or IFLs. Maximum number of PUs per system image The maximum number of PUs that is supported by each operating system image and by special-purpose LPARs are listed in Table 7-12. Table 7-12 Maximum number of PUs per system image Maximum main storage size The maximum amount of main storage that is supported by current operating systems is listed in",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.730345",
+    "chunk_number": 632,
+    "word_count": 173
+  }
+}

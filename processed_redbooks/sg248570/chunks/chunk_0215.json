@@ -1,0 +1,18 @@
+{
+  "content": "tools, such as sentiment analysis platforms, which enable richer interpretations of unstructured data. Retail organizations also face stringent compliance requirements, particularly regarding the handling of sensitive customer information. IBM watsonx.data provides robust security features, which include RBAC and data masking to ensure compliance with regulations such as GDPR and CCPA. For example, personally identifiable information (PII), such as customer names and addresses, can be masked in search results while still allowing users to analyze non-sensitive attributes like purchase history or customer demographics. This capability helps ensure that analysts can work with data sets without risking privacy breaches or regulatory violations. Although retail environments present unique challenges due to the diversity and scale of their data, IBM watsonx.data provides the necessary tools to address these complexities. By automating cataloging, enabling cross-functional data integration,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.163110",
+    "chunk_number": 215,
+    "word_count": 132
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Say ' in the SSI cluster using the AT command.' Exit PROFILE EXEC for Linux virtual machines This section lists the code for the PROFILE EXEC that is shared among Linux virtual machines from the LNXMAINT 192 disk. /* PROFILE EXEC for Linux virtual servers */ 'CP SET RUN ON' 'CP SET PF11 RETRIEVE FORWARD' 'CP SET PF12 RETRIEVE' 'ACC 592 C' 498 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 'SWAPGEN 300 524288' /* create a 256M VDISK disk swap space */ 'SWAPGEN 301 1048576' /* create a 512M VDISK disk swap space */ 'PIPE CP QUERY' userid() '| var user' parse value user with id . dsc . if (dsc = 'DSC') then /* user is disconnected */ 'CP IPL 100' else /* user is interactive -> prompt */ do say 'Do you want to IPL Linux from minidisk 100? y/n' parse upper pull answer . if (answer = 'Y') then 'CP IPL 100' end RHEL64 EXEC This section lists the code for the RHEL64 EXEC that starts an RHEL 6.4 installation. It is recommended to be on the LNXMAINT 192 disk.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.074419",
+    "chunk_number": 1021,
+    "word_count": 183
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "support DCM within a channel subsystem. \u0002 Channel subsystem priority queuing This function allows the priority queuing of I/O requests in the channel subsystem and the specification of relative priority among LPARs. When running in goal mode, WLM sets the priority for an LPAR and coordinates this activity among clustered LPARs. For more information about implementing LPAR processor management under IRD, see z/OS Intelligent Resource Director, SG24-5952. 3.9 Clustering technology Parallel Sysplex is the clustering technology that is used with IBM Z servers. The components of a Parallel Sysplex as implemented within the z/Architecture are shown in Figure 3-22 on page 132. The example in Figure 3-22 on page 132 shows one of many possible Parallel Sysplex configurations. 132 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 3-22 Sysplex hardware overview Figure 3-22 shows an IBM z16 A02 or an IBM z16 AGZ system (represented by IBM z16 in the figure) that contains multiple z/OS sysplex",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.553015",
+    "chunk_number": 342,
+    "word_count": 158
+  }
+}

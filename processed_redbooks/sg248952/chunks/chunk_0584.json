@@ -1,0 +1,18 @@
+{
+  "content": "Crypto Express8S support of VFPE The following minimum prerequisites must be met to use this element: \u0002 z/OS V2.5 (base, which is HCR77D2) \u0002 z/OS V2.2 to V2.4 (Web Deliverable HCR77D1) \u0002 z/VM V7.3 for guest use \u0002 z/VM V7.2 for guest use \u0002 Linux on IBM Z: \u2013 SUSE SLES 15 SP1 with service, SUSE SLES 12 SP4 with service, and SUSE SLES 11 SP4 with service. \u2013 Red Hat RHEL 9.0, RHEL 8.0 with service, Red Hat RHEL 7.9 with service. \u2013 Ubuntu 18.04.1 LTS with service and newer. \u2013 The support statements for IBM z16 A02 and IBM z16 AGZ also cover the KVM hypervisor on distribution levels that have KVM support. For more information about the minimum required and recommended distribution levels, see the IBM Z website. 6.8.3 Crypto Express8S support of greater than 16 domains The following prerequisites must be met to support more than 16 domains: \u0002 z/OS 2.5 \u0002 z/OS V2.4 with PTFs \u0002 z/OS V2.3 with PTFs \u0002 z/OS V2.2 with the Enhanced Cryptographic Support for z/OS V1.13-V2.2 Web deliverable installed \u0002",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.510256",
+    "chunk_number": 584,
+    "word_count": 180
+  }
+}

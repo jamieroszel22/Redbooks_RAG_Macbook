@@ -1,0 +1,18 @@
+{
+  "content": "bank term deposit direct marketing campaign, the team aims to achieve the following goals: \u0002 Assess the performance of direct marketing campaigns for bank term deposits and find ways to optimize their current marketing campaigns. \u0002 Deepen their understanding of customer behavior and better understand the demographic of people they are reaching out to. \u0002 Develop ways to predict whether a client will subscribe to a bank term deposit, and understand whether there are key factors that influence this decision. In this use case, we use a basic data set to make the examples simple to follow and understand. This simplified bank marketing data set was retrieved from the UC Irvine Machine Learning Repository. To see the full data set, see Bank Marketing. 8.2 Data ingestion Before data analysts and data scientists can analyze the marketing campaign data, the data engineer must make it available and accessible for analysis. The direct marketing campaign data for the bank term deposit is in an IBM",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.174885",
+    "chunk_number": 218,
+    "word_count": 163
+  }
+}

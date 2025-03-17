@@ -1,0 +1,18 @@
+{
+  "content": "can utilize over 60 native connectors or establish custom connections for enhanced flexibility. Data can be loaded into a cloud storage bucket for initial staging. At the time of writing, data transfer to IBM watsonx.data requires a notebook script. However, a future-optimized connector will enable direct, native integration for efficient data loading. Superior performance with parallel processing DataStage uses parallel processing to ingest data faster. It can automatically or manually partition and repartition data flows for optimal performance. This approach efficiently distributes workload across resources by scaling to handle varying data volumes. By speeding up ingestion, DataStage reduces time to insight for faster analytics and decision-making. Reducing costs while maximizing accessibility and throughput Combining DataStage with IBM watsonx.data helps users cut data warehouse expenses. Cloud data warehouses can be expensive for storage and compute, especially with growing data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.783566",
+    "chunk_number": 115,
+    "word_count": 138
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Server Time Protocol Guide, SG24-8480. CTN split The HMC menus for Server Time Protocol (STP) provide support when one or more systems must be split in to a separate CTN without interruption in the clock source. The task is available under the Advanced Actions menu in the Manage System Time task. Several checks are performed to avoid potential disruptive actions. If targeted CTN includes only members with the roles, the task start fails with an error message. If targeted CTN includes at least one system without any roles, the task starts. An informational warning is presented to the user to acknowledge that sysplex workloads are divided suitably. Merging two CTNs When two separate CTNs must be merged in to the single CTN without interruption in the clock source, the system administrator must perform the Join existing CTN action, which is available in the Advanced Actions menu. Attention: IBM z16, IBM z15, and IBM z14 ZR1 do not support InfiniBand connectivity. Although IBM z14 M0x",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.101308",
+    "chunk_number": 1029,
+    "word_count": 164
+  }
+}

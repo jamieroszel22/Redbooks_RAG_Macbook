@@ -1,0 +1,18 @@
+{
+  "content": "Modules per CPC Drawer \u0002 Each PU chip features: \u2013 Two PCIe Generation 4 interfaces (x16 @ 32 GBps) \u2013 IBM integrated accelerator for AI (on-chip AI accelerator) \u2013 Transparent memory encryption. \u2013 Optimized pipeline \u2013 Improved SMT and SIMD \u2013 Improved branch prediction \u2013 Improved co-processor functions (CPACF) \u2013 IBM integrated accelerator for zEnterprise Data Compression (zEDC) (on-chip compression accelerator) \u2013 IBM integrated accelerator for Z Sort (on-core sort accelerator) The processor architecture uses 24-, 31-, and 64-bit addressing modes, multiple arithmetic formats, and multiple address spaces for robust interprocess security. The IBM z16 A02 and IBM z16 AGZ system design features the following main objectives: \u0002 Offer a data-centric approach to information (data) security that is simple, transparent, and consumable (extensive data encryption from inception to archive, in-flight, and at-rest). \u0002 Offer a flexible infrastructure to concurrently accommodate a wide range of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.995269",
+    "chunk_number": 205,
+    "word_count": 144
+  }
+}

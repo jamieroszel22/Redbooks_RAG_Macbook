@@ -1,0 +1,18 @@
+{
+  "content": "the Connection information window in IBM watsonx.data \u2013 Instance ID: This value is retrieved from the Connection information window in IBM watsonx.data. Figure 8-38 Connection details 126 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 7. Under Credentials, the data engineer updates the following fields, as shown in Figure 8-39. \u2013 Credential setting: Personal \u2013 Authentication method: Username and password \u2013 Username: cpadmin \u2013 Password: password associated with username Figure 8-39 Credentials Note: The username and password values vary depending on the user's login credentials Chapter 8. Marketing campaign analysis use case 127 8. Under Certificate, the data engineer ensures that SSL is enabled, and then inputs the SSL certificate that is provided in their IBM watsonx.data instance, as shown in Figure 8-40. Figure 8-40 Certificates 128 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 9. The data engineer adds the connection",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.246225",
+    "chunk_number": 235,
+    "word_count": 148
+  }
+}

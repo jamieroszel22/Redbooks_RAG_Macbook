@@ -1,0 +1,18 @@
+{
+  "content": "allow each channel to be individually serviced in a fiber optic module failure. The traffic on the other channels on the same feature can continue to flow if a channel requires servicing. \u2013 The zHyperLink Express feature uses fiber optics cable with MTP3 connector and the cable uses a CXP connection to the adapter. The CXP4 optics are provided with the adapter. \u0002 Concurrent I/O card maintenance Every I/O card that is plugged in a PCIe+ I/O drawer supports concurrent card replacement during a repair action. 2 OSA-Express 1000BASE-T features do not have optics (copper only, RJ45 connectors). 3 Multifiber Termination Push-On. 4 For more information, see https://cw.infinibandta.org/document/dl/7157. 150 IBM z16 (3931) Technical Guide 4.2.2 Supported I/O features The following I/O features are supported on an IBM z16 A01 system (maximum for each individual adapter type): \u0002 Up to 384 FICON Express32S channels \u0002 Up to 384 FICON Express16SA channels \u0002 Up to 320 FICON Express16S+ channels \u0002 Up",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.702760",
+    "chunk_number": 376,
+    "word_count": 159
+  }
+}

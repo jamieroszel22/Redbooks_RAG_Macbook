@@ -1,0 +1,18 @@
+{
+  "content": "C05076DD90000A70 4010401A00000000 LINUX4 A0A C05076DD90000490 C05076DD90000AF0 B805 B905 A09 C05076DD90000414 C05076DD90000A74 4010401B00000000 LINUX5 A0A C05076DD90000494 C05076DD90000AF4 B806 B906 A09 C05076DD90000418 C05076DD90000A78 4011401600000000 LINUX6 A0A C05076DD90000498 C05076DD90000AF8 Chapter 2. Planning 69 2.13.7 Linux resources Table 2-13 and Table 2-14 list the Linux resources that were used in this book. Table 2-13 External Linux FTP server resources that were used in this book Table 2-14 Linux common configuration values that were used in this book B807 B907 A09 C05076DD9000041C C05076DD90000A7C 4011401700000000 A0A C05076DD9000049C C05076DD90000AFC B808 B908 A09 C05076DD90000420 C05076DD90000A80 4011401800000000 LNXADMIN on Member 1 (RHEL) B809 B909 A0A C05076DD900004A4 C05076DD90000B04 4011401900000000 LNXADMIN on Member 2 (SLES) B80A B90A A0C C05076DD900004F6 C05076DD90000C06 4011401A00000000 LNXADMIN on Member 3 (Ubuntu) N_Port ID Virtualization (NPIV) device",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.990028",
+    "chunk_number": 209,
+    "word_count": 120
+  }
+}

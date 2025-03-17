@@ -1,0 +1,18 @@
+{
+  "content": "well. 112 IBM z16 A02 and IBM z16 AGZ Technical Guide 3.5.6 System assist processors A system assist processor (SAP) is a PU that runs the channel subsystem LIC to control I/O operations. All SAPs run I/O operations for all LPARs. As with IBM z14, z15 and z16, in IBM z16 A02 and IBM z16 AGZ, SMT is enabled13 for SAPs. All features include standard SAPs configured. SAPs increase the capability of the channel subsystem to run I/O operations. The number of standard SAPs depends on the IBM z16 A02 and IBM z16 AGZ feature, as listed in Table 3-6. Table 3-6 Standard SAPs per feature 3.5.7 Reserved processors Reserved processors are defined by PR/SM to allow for a nondestructive capacity upgrade. Reserved processors are similar to spare logical processors and can be shared or dedicated. Reserved CPs can be defined to an LPAR dynamically to allow for nondisruptive image upgrades. Reserved processors can be dynamically configured online by an operating system that supports this function if",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.355367",
+    "chunk_number": 290,
+    "word_count": 167
+  }
+}

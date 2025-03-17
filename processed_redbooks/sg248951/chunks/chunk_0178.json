@@ -1,0 +1,18 @@
+{
+  "content": "frame. Unused power ports never should be used by any external device. 60 IBM z16 (3931) Technical Guide A schematic view of a maximum that is configured system with PDU-based power is shown in Figure 2-27. Figure 2-27 Rear view of maximum configured system PDU power Each PDU installed requires a customer-supplied power feed. The number of power cords that are required depends on the system configuration. PDUs are installed in pairs. A system can have 2, 4, 6, or 8 PDUs, depending on the configuration. Consider the following points: \u0002 Paired PDUs are A1/A2, A3/A4, B1/B2, and C1/C2. \u0002 From the rear of the system, the odd-numbered PDUs are on the left side of the rack; the even-numbered PDUs are on the right side of the rack. \u0002 The total loss of one PDU in a pair does not affect the system operation. Components that plug into the PDUs for redundancy (by using two power cords) include the following features: \u0002 CPC Drawers, PCIe+ I/O drawers, Radiators, and Support Elements \u0002 The",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.881512",
+    "chunk_number": 178,
+    "word_count": 173
+  }
+}

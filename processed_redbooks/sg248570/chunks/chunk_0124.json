@@ -1,0 +1,18 @@
+{
+  "content": "grouping for departmental access A large retail company that uses a lakehouse for operational analytics has different departments that require varied access to the data. For example, marketing needs access to customer analytics, and logistics requires supply chain data. Because employees move between departments or take on new roles, their access rights must change dynamically. By implementing dynamic groups based on attributes such as Department, Job Title, and Location, the retail company can automatically update group memberships and permissions. When an employee changes departments, their group memberships and their access to data are updated without manual intervention. Hierarchical access models and group inheritance Hierarchical access models use a parent-child structure to organize users and groups. This approach is useful in lakehouses where there are nested levels of data sensitivity or user roles, and it enables administrators to apply access controls to a top-level group",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.819313",
+    "chunk_number": 124,
+    "word_count": 144
+  }
+}

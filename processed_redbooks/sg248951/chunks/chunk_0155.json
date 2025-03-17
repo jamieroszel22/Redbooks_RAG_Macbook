@@ -1,0 +1,18 @@
+{
+  "content": "serviceability IBM Z servers continue to deliver enterprise class RAS with IBM z16. The main philosophy behind RAS is about preventing or tolerating (masking) outages. It is also about providing the necessary instrumentation (in hardware, LIC and microcode, and software) to capture or collect the relevant failure information to help identify an issue without requiring a re-creation of the event. These outages can be planned or unplanned, as shown in the following examples: \u0002 An unplanned outage because of loss of cache coherency \u0002 An unplanned outage because of a firmware problem \u0002 A planned outage for a disruptive firmware upgrade \u0002 A planned outage to add physical memory to a single CPC drawer configuration The IBM Z hardware has decades of intense engineering behind it, which results in a robust and reliable platform. The hardware has many RAS features that are built into it. For more information, see Chapter 9, \u201cReliability, availability, and serviceability\u201d on page 379. 2.6.1 RAS",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.785562",
+    "chunk_number": 155,
+    "word_count": 160
+  }
+}

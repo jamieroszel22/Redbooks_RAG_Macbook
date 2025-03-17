@@ -1,0 +1,18 @@
+{
+  "content": "CBU zIIP-Year 10 CBU for CP rules Consider the following guidelines when you are planning for CBU for CP capacity: \u0002 The total CBU CP capacity features are equal to the number of added CPs plus the number of permanent CPs that change the capacity level. For example, if two CBU CPs are added to the current model D03, and the capacity level does not change, the D03 becomes D05, as shown in the following example: (D03 + 2 = D05) If the capacity level changes to a E06, the number of extra CPs (three) is added to the three CPs of the D03, which results in a total number of CBU CP capacity features of six: (3 + 3 = 6) \u0002 The CBU cannot decrease the number of CPs. \u0002 The CBU cannot lower the capacity setting. Remember: CBU for CPs, IFLs, ICFs, and zIIPs can be activated together with On/Off Capacity on-Demand (CoD) temporary upgrades. Both facilities can be on a single system, and can be activated simultaneously. 64 IBM z16 A02 and IBM z16 AGZ Technical Guide CBU for specialty engines",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.919183",
+    "chunk_number": 187,
+    "word_count": 185
+  }
+}

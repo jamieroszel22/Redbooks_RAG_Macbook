@@ -1,0 +1,18 @@
+{
+  "content": "for capacity level 7nn. Model Permanent Capacity Identifier (MPCI) Keeps information about the capacity settings that are active before any temporary capacity is activated. Model Temporary Capacity Identifier (MTCI) Reflects the permanent capacity with billable capacity only, without replacement capacity. If no billable temporary capacity is active, MTCI equals the MPCI. On/Off Capacity on Demand Represents a function that allows spare capacity in a CPC to be made available to increase the total capacity of a CPC. For example, On/Off CoD can be used to acquire capacity for handling a workload peak. Permanent capacity The capacity that a client purchases and activates. This amount might be less capacity than the total capacity purchased. Permanent upgrade LICC that is licensed by IBM to enable the activation of applicable computing resources, such as processors or memory, for a specific CIU-eligible system on a permanent basis. Purchased capacity Capacity that is delivered to and owned",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.322561",
+    "chunk_number": 800,
+    "word_count": 152
+  }
+}

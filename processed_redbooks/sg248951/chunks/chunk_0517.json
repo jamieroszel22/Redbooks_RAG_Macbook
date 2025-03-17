@@ -1,0 +1,18 @@
+{
+  "content": "specification implies a legal liability and contractual obligation, which is the same as a signature on a contract. These goals should all be possible without unacceptable overhead to the communication. The goal is to keep the system secure, manageable, and productive. The basic data protection method is achieved by encrypting and decrypting the data, while hash algorithms, message authentication codes (MACs), digital signatures, and certificates are used for authentication, data integrity, and nonrepudiation. 212 IBM z16 (3931) Technical Guide When encrypting a message, the sender transforms the clear text into a secret text. Doing so requires the following main elements: \u0002 The algorithm is the mathematical or logical formula that is applied to the key and the clear text to deliver a ciphered result, or to take a ciphered text and deliver the original clear text. \u0002 The key ensures that the result of the encrypting data transformation by the algorithm is only the same when the same",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.236922",
+    "chunk_number": 517,
+    "word_count": 158
+  }
+}

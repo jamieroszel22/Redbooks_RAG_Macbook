@@ -1,0 +1,18 @@
+{
+  "content": "support, z/OS is designed to help improve system availability and responsiveness by using VFM across transitional workload events, such as market openings and diagnostic data collection. z/OS also helps improve processor performance by supporting middleware use of pageable large (1 MB) pages, and eliminates delays that can occur when collecting diagnostic data during failures. VFM also can be used in CF images to provide extended capacity and availability for workloads that use IBM WebSphere MQ Shared Queues structures. 3.10.2 VFM feature A VFM feature (FC 0644) is 512 GB of memory on IBM z16 A01. The maximum number of VFM features is 12 per IBM z16 A01 system. Ordered VFM memory reduces the maximum orderable memory for the model. Simplification in its management is of great value because no hardware adapter is needed to manage. It also has no hardware repair and verify. It has a better performance because no I/O to attached adapter occurs. Finally, because this feature is part of",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.628230",
+    "chunk_number": 358,
+    "word_count": 162
+  }
+}

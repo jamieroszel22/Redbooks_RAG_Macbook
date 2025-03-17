@@ -1,0 +1,18 @@
+{
+  "content": "Virtualization Cookbook: Vol 1: IBM z/VM 7.2 For the operating system, instances of z/VM hypervisor must be included on each LPAR. 4.2.5 Virtualization and hypervisors RHOCP on IBM Z and IBM LinuxONE is deployed in a virtualized environment and offers the following configuration options: \u0002 Using z/VM as hypervisor The most common virtualization of RHOCP on IBM Z and IBM LinuxONE takes advantage of the z/VM hypervisor. This virtualization offers the security certification EAL 4+ which is the highest level of certification and represents the highest level of isolation in virtualized environments. Because z/VM is a well-established hypervisor for the mainframe, it is a proven technology and commonly used by many customers. \u0002 Using a KVM-based deployment An alternative approach for virtualization is planned to be based on a KVM-based deployment. 4.3 Operations Manager The Operations Manager product improves the management of z/VM systems by automating tasks, responses, and sessions (see",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.138005",
+    "chunk_number": 249,
+    "word_count": 151
+  }
+}

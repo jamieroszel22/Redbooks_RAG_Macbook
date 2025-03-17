@@ -1,0 +1,18 @@
+{
+  "content": "heavy computing of arcane encryption. Another might be cache-optimized to cope with large data scans or work with large amounts of data that need to be close to the engine. By scaling out the worker nodes, organizations can be assured they have a sufficient cache to handle the workloads. All engines can be ephemeral and elastic as well as be usage-based so organizations can use instances of these engines to run their workloads, pause them, or delete them at will. Organizations are billed for only what they use and when they use it, scaling up and down to meet the necessary service-level agreements (SLAs). See Figure 2-10. Figure 2-10 watsonx.data querying layer 2.3 Benefits of using watsonx.data for businesses IBM watsonx.data is designed to help organizations: \u0002 Access all their data and maximize workload coverage across all hybrid-cloud environments. Expect seamless deployment of a fully managed service across any cloud or on-premises environment. Access any data source, wherever it",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.637318",
+    "chunk_number": 78,
+    "word_count": 159
+  }
+}

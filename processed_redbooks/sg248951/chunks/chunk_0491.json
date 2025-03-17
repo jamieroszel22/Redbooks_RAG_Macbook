@@ -1,0 +1,18 @@
+{
+  "content": "The IOCDS is loaded into the hardware system area (HSA) during a central processor complex (CPC) power-on reset (POR) to start all of the channel subsystems. On IBM z16 A01 systems, the HSA is pre-allocated in memory with a fixed size of 256 GB, which is in addition to the customer purchased memory. This fixed size memory for HSA eliminates the requirement for more planning of the initial I/O configuration and planning for future I/O expansions. The following objects are always reserved in the IBM z16 A01 HSA during POR, whether they are defined in the IOCDS for use: CPC drawer repair: The HSA can be moved from one CPC drawer to a different drawer in an enhanced availability configuration as part of a concurrent CPC drawer repair (CDR) action. Chapter 5. Central processor complex channel subsystem 199 \u0002 Six CSSs \u0002 A total of 15 LPARs in each CSS0 to CSS4 \u0002 A total of 10 LPARs in CSS5 \u0002 Subchannel set 0 with 63.75 K devices in each CSS \u0002 Subchannel set 1 with 64 K minus one device in",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.136712",
+    "chunk_number": 491,
+    "word_count": 182
+  }
+}

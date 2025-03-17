@@ -1,0 +1,18 @@
+{
+  "content": "options: \u0002 USB If the HMC and SE code is shipped on a USB drive when a new system is ordered, the load procedure is similar to that used with a DVD. \u0002 Electronic If USB load is not allowed, or if FC 0846 (no physical media option) is ordered, an ISO image is used for a firmware load over a local area network (LAN). The ISO image can be downloaded through zRSF or an FTP (/FTPS/SFTP) server accessible in the LAN. Operating system load from removable media or server z/OS, z/VM, 21CS VSEn, and Linux on IBM Z are available via USB or network distribution. z/TPF does not use the HMC for code load. 10.2.5 SE Driver/Version support with the HMC Driver 51/Version 2.16.0 The Driver of the HMC and SE is equivalent to a specific HMC and SE Version: \u0002 Driver 36 is equivalent to Version 2.14.1 \u0002 Driver 41 is equivalent to Version 2.15.0 \u0002 Driver 51 is equivalent to version 2.16.0 An HMC with Driver 51/Version 2.16.0 supports N-2 IBM Z server generations. Some functions that are available on Driver",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.952106",
+    "chunk_number": 987,
+    "word_count": 184
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "algorithms always being added. The IBM CCA provides functions for the following tasks5: \u0002 Encryption of data (DES/TDES/AES) \u0002 Key management: \u0002 Using TDES or AES keys \u0002 Using RSA or Elliptic Curve keys \u0002 Message authentication for MAC/HMAC/AES-CMAC \u0002 Key generation \u0002 Digital signatures \u0002 Random number generation \u0002 Hashing (SHA, MD5, and others) \u0002 ATM PIN generation and processing \u0002 Credit card transaction processing \u0002 Visa Data Secure Platform (DSP) Point to Point Encryption (P2PE) \u0002 Europay, MasterCard, and Visa (EMV) card transaction processing \u0002 Card personalization \u0002 Other financial transaction processing \u0002 Integrated role-based access control system \u0002 Compliance support for: \u2013 All DES services \u2013 AES services \u2013 RSA services, including full use of X.509 certificates \u0002 TR-34 Remote Key Load User-defined extensions support User-defined extension (UDX) allows a developer to add customized operations to IBM\u2019s CCA Support Program. UDXs to the CCA support customized operations that run",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.403841",
+    "chunk_number": 557,
+    "word_count": 152
+  }
+}

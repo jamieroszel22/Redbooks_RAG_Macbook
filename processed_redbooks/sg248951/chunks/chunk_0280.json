@@ -1,0 +1,18 @@
+{
+  "content": "z16 (3931) Technical Guide The maximum number of reserved processors that can be defined to an LPAR depends on the number of logical processors that are defined. A maximum of 300 logical processors plus reserved processors can be used. If the operating system in the LPAR supports the logical processor add function, reserved processors are no longer needed. Do not define more active and reserved processors than the operating system for the LPAR can support. For more information about logical processors and reserved processors and their definitions, see 3.7, \u201cLogical partitioning\u201d on page 117. 3.5.8 Integrated firmware processors Integrated Firmware Processors (IFP) are allocated from the pool of PUs and are available for the entire system. Unlike other characterized PUs, IFPs are standard on all IBM z16 models and not defined by the client. The two PUs that are characterized as IFP are dedicated to supporting firmware functions that are implemented in Licensed Internal Code (LIC); for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.284547",
+    "chunk_number": 280,
+    "word_count": 157
+  }
+}

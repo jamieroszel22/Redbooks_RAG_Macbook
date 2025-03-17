@@ -1,0 +1,18 @@
+{
+  "content": "instance is used to apply the new I/O configuration changes. The firmware-based LPAR is driven by updates from an HCD instance that is running in a z/OS LPAR on a different IBM z16 CPC that is connected to the same IBM z16 HMA. \u0002 System Recovery Boost Stage 3 System Recovery Boost enhancements for IBM z16 introduce the possibility of significantly reducing the effect of these disruptions by boosting a set of recovery processes that create significant pain points for users. These recovery processes include the following examples: \u2013 IBM SAN Volume Controller memory dump boost \u2013 Middleware restart or recycle boost \u2013 HyperSwap configuration load boost For more information about System Recovery Boost, see Introducing IBM Z System Recovery Boost, REDP-5563. 9.7.1 Scheduled outages Concurrent hardware upgrades, parts replacement, driver upgrades, and firmware fixes that are available with IBM z16 all address the elimination of scheduled outages. Also, the following indicators and functions",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.728353",
+    "chunk_number": 927,
+    "word_count": 154
+  }
+}

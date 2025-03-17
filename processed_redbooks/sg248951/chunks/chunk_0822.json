@@ -1,0 +1,18 @@
+{
+  "content": "an increase of the model capacity identifier; or both. Note: CBU cannot be used for peak workload management in any form. Time R2 R2 R2 R4 R2 R4 R2 R4 R3 R2 R4 R3 R2 R3 R1 R4 R2 R3 R1 R4 R2 R3 R1 R2 R3 R1 R2 R3 R2 R3 R3 R1 R3 R1 Record and associated authorization Activation and usage of dormant resources over time CPE OOCoD CBU CBU OOCoD OOCoD OOCoD OOCoD OOCoD CPE CPE CBU CBU CBU CBU CBU CBU 340 IBM z16 (3931) Technical Guide On/Off CoD is the correct method to use for workload management. A CBU activation can last up to 90 days when a disaster or recovery situation occurs. CBU features are optional, and require unused capacity to be available on installed processor drawers of the backup system. They can be available as unused PUs, an increase in the model capacity identifier, or both. A CBU contract must be in place before the special code that enables this capability can be loaded on the system. The standard CBU contract provides for five 10-day tests (the CBU test activation) and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.392101",
+    "chunk_number": 822,
+    "word_count": 188
+  }
+}

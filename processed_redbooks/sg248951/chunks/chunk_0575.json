@@ -1,0 +1,18 @@
+{
+  "content": "support for EP11 Host Firmware and EP11 now use a hybrid scheme for authenticating management functions that are started from the SE/HMC. \u0002 EP11 for all of CEX8S (5.8.x), CEX7S (4.8.x) and CEX6S (3.8.x): \u2013 Support for HSM backed Hierarchical Deterministic Wallets for Bitcoin (BIP 0032 and SLIP 0010) \u2013 Hash collision resistant Schnorr signature scheme BSI TR 03111, two variants: \u2022 Plain BSI TR 03111 \u2022 With compressed keys and signing party\u2019s public key as extra input \u2013 Support for Edwards and Montgomery elliptic curves: EdDSA (Ed25519, Ed448) and ECDH (X25519, X448) (8s and 7s) \u2013 RSA OAEP with SHA 2 and SHA 3 (8s and 7s only) \u2013 Extensive IBM Cloud Crypto support: \u2022 Domains fully manageable by clients without cloud admins assistance \u2022 Do not Disturb: Actively prohibit cloud administrators from domain management \u2013 HSM internal re encrypt support for block-based cipher modes \u0002 EP11 for CEX8S (5.8.x) only \u2013 Three new compliance modes: FIPS2021, FIPS2024, and Administrative FIPS2021 (first",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.488897",
+    "chunk_number": 575,
+    "word_count": 163
+  }
+}

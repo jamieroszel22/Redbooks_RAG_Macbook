@@ -1,0 +1,18 @@
+{
+  "content": "Power estimation tool on Resource Link \u0002 Energy Optimization Advisor task for maximum potential power on HMC and SE \u0002 Monitors Dashboard and Environmental Efficiency Statistics tasks on HMC and SE Chapter 11. Environmental requirements 469 11.5.1 Environmental monitoring This section describes energy monitoring HMC and SE tasks. Energy Optimization Advisor This window is started from the HMC targeting the system and task under Energy Management. The window displays the following recommendations: \u0002 Thermal Advice \u0002 Processor Utilization Advice Select the advice hyperlinks to provide specific recommendations for your system, as shown in Figure 11-10. Figure 11-10 Energy Optimization Advisor 470 IBM z16 (3931) Technical Guide Monitors Dashboard task In IBM z16 servers, the Monitors Dashboard task in the Monitor task group provides a tree-based view of resources. Multiple graphical views display data, including history charts. This task monitors processor and channel usage. It produces",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.224556",
+    "chunk_number": 1068,
+    "word_count": 145
+  }
+}

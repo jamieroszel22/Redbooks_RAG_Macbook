@@ -1,0 +1,18 @@
+{
+  "content": "Core features of watsonx.data The following list highlights the core features of watsonx.data: \u0002 High-performance Data Querying and Analytics: Provides rapid querying capabilities for large datasets, empowering businesses to extract insights efficiently. \u0002 Built-in Governance and Security: Ensures compliance with data privacy and security regulations across multi-cloud environments. \u0002 Cost Optimization: Reduces data warehousing costs by up to 50%, offering a more economical solution for data storage and processing. \u0002 Shared Metadata Layer: Facilitates seamless data access and operations, streamlining workflows and improving data consistency. Note: For more information on watsonx.ai refer to IBM Redbooks Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai, SG24-8574. 20 Ensuring Trustworthy AI with IBM watsonx.governance Key features IBM watsonx.data key features include the following items: \u0002 Scalable Data Lakehouse: watsonx.data blends the flexibility of data",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.752093",
+    "chunk_number": 78,
+    "word_count": 135
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Problem. You can report a problem for the CPC/LPAR via task Service -> Report a Problem (RaP). Now you can also perform these tasks with the Web Services API interface: \u2013 Report a Console Problem can be invoked with the following URI: \u2022 /api/console/operations/report-problem \u2013 Report a CPC Problem can be invoked with the following URI: \u2022 /api/cpcs/{cpc-id}/operations/report-problem Where {cpc-id} is the Object ID of the CPC object. \u2013 Report a Logical Partition Problem can be invoked with the following URI: \u2022 /api/logical-partitions/{logical-partition-id}/operations/report-problem Where {logical-partition-id} is the Object ID of the Logical Partition object. \u2013 Report a Partition Problem can be invoked with the following URI: \u2022 /api/partitions/{partition-id}/operations/report-problem Where {partition-id} is object ID of the Partition object. \u0002 Pattern Match Group child permission The Custom Groups task provides a mechanism for you to group system resources together in a single view. If",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.895319",
+    "chunk_number": 970,
+    "word_count": 142
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "program from Brown University. This native Mac OSX program provides 3270 emulation, but it is a 32-bit application. Apple removed support for 32-bit applications in macOS Catalina, and the maintainers of the program said that they do not have resources to port the program to 64-bit. Linux The x3270 suite is the main option for 3270 emulation on Linux. Most distributions provide an x3270 package; for example, the package x3270-x11 provides the x3270 program and x3270-text provides c3270 on Red Hat and Fedora. Mobile applications Mobile device users can also get 3270 emulation programs. Various options are available, such as Mocha TN3270 and Glink 3270 on iOS, iPadOS, and Android. Web-to-host platforms Several systems can provide 3270 access by using a web browser. These systems remove the requirement to have a program installed on a workstation. They also permit access by using Java applets or HTML5-style rendering in a browser. Most of these systems also support the transformation of",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.916101",
+    "chunk_number": 982,
+    "word_count": 159
+  }
+}

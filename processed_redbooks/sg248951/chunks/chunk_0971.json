@@ -1,0 +1,18 @@
+{
+  "content": "sends data to IBM Resource Link to have MCL and configuration information available. Also, Capacity on Demand (CoD) information is exchanged. IBM proactive monitors Reliability, Availability, and Serviceability (RAS) data for potential actions or improvements for the system. Users sometimes wanted to modify the execution time of this TSAD and accidentally deleted this TSAD Scheduled Operation. With previous IBM Z generations, TSAD was scheduled in the Customize Scheduled Operation task for the HMC and the SE/CPC. 414 IBM z16 (3931) Technical Guide With IBM z16, this TSAD function moved to the Customize Console Services task, as shown in Figure 10-6. Figure 10-6 New option in Customize Console Services A weekly schedule for health and diagnostic data (which is also sent to IBM Resource Link) is available in a new window (see Figure 10-7). The active health checking feeds data daily to IBM for an automatic analysis of your IBM Z for potential problems. Figure 10-7 Window for Manage",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.886041",
+    "chunk_number": 971,
+    "word_count": 158
+  }
+}

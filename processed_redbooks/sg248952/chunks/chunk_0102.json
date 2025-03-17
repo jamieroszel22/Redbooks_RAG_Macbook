@@ -1,0 +1,18 @@
+{
+  "content": "(CTN). For more information about coupling and clustering features, see 4.5, \u201cI/O features\u201d on page 151. 1.3.8 Cryptography IBM z16 A02 and IBM z16 AGZ provide two main cryptographic functions: CP Assist for Cryptographic Functions (CPACF) and Crypto-Express8S. CPACF CPACF is a high performance, low-latency coprocessor that performs symmetric key encryption operations and calculates message digests (hashes) in hardware. The following algorithms are supported: \u0002 AES \u0002 Data Encryption Standard (DES) and Triple Data Encryption Standard (TDES) \u0002 Secure Hash Algorithm (SHA)-1 \u0002 SHA-2 Chapter 1. Introduction and overview 17 \u0002 SHA-3 CPACF supports Elliptic Curve Cryptography (ECC) clear key, improving the performance of Elliptic Curve algorithms. The following algorithms are supported: \u0002 EdDSA (Ed448 and Ed25519) \u0002 ECDSA (P-256, P-384, and P-521) \u0002 ECDH (P-256, P-384, P521, X25519, and X448) \u0002 Support for protected key signature creation Crypto-Express8S The tamper-sensing and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.537996",
+    "chunk_number": 102,
+    "word_count": 142
+  }
+}

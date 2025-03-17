@@ -1,0 +1,18 @@
+{
+  "content": "listed in Table 4-8. Table 4-8 OSA features Note: CHPID types OSM, OSN and OSX are not supported on IBM z16 A02 and IBM z16 AGZ. Channel feature Feature code Bit rate in Gbps Cable type Maximum unrepeated distancea (MHz - km) OSA-Express7S 1.2 25GbE SR 0459 25 MM 50 \u00b5m 70 m (2000) 100 m (4700) OSA-Express7S 1.2 25GbE LR 0460 25 SM 9 \u00b5m 10 km (6.8 miles) OSA-Express7S 1.2 10GbE LR 0456 10 SM 9 \u00b5m 10 km (6.8 miles) OSA-Express7S 1.2 10GbE SR 0457 10 MM 62.5 \u00b5m MM 50 \u00b5m 33 m (200) 82 m (500) 300 m (2000) OSA-Express7S 1.2 GbE LX 0454 1.25 SM 9 \u00b5m 5 km (3.1 miles) OSA-Express7S 1.2 GbE SX 0455 1.25 MM 62.5 \u00b5m MM 50 \u00b5m 275 m (200) 550 m (500) OSA-Express7S 1.2 1000BASE-T 0458 1000Mbps Cat 5, Cat 6 unshielded twisted pair (UTP) 100 m OSA-Express6S 10GbE LR 0424 10 SM 9 \u00b5m 10 km (6.8 miles) OSA-Express6S 10GbE SR 0425 10 MM 62.5 \u00b5m MM 50 \u00b5m 33 m (200) 82 m (500) 300 m (2000) OSA-Express6S GbE LX 0422 1.25 SM 9 \u00b5m 5 km (3.1 miles) Chapter 4. I/O structure 169 25GbE RoCE Express3 SR (FC 0452)",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.871028",
+    "chunk_number": 423,
+    "word_count": 205
+  }
+}

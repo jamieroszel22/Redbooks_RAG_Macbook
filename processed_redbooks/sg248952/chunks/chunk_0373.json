@@ -1,0 +1,18 @@
+{
+  "content": "RoCE Express2 \u0002 Crypto Express7S (one or two ports/HSMs) \u0002 Crypto Express6S IBM z16 A02 and IBM z16 AGZ support the following PCIe I/O new features that are hosted in the PCIe+ I/O drawers: \u0002 FICON Express32S \u0002 OSA-Express7S 1.2 25GbE \u0002 OSA-Express7S 1.2 10GbE \u0002 OSA-Express7S 1.2 GbE \u0002 OSA-Express7S 1.2 1000BASE-T \u0002 25GbE RoCE Express3 \u0002 10GbE RoCE Express3 \u0002 Crypto Express8S (one or two HSMs) \u0002 Coupling Express2 Long Reach (CE2 LR) \u0002 zHyperLink Express1.1 4.4 CPC drawer fanouts The IBM z16 A02 and IBM z16 AGZ use PCIe+ Gen3 fanout cards to connect the I/O subsystem in the CPC drawer to the PCIe+ I/O drawers. The fanout cards also include the Domain I/O slot in the domain 0 LG02, LG03, LG04, LG05, LG07, LG08, LG09, and LG10 1 LG12, LG13, LG14, LG15, LG17, LG18, LG19, and LG20 Note: On an IBM z16 A02 and IBM z16 AGZ system, only PCIe+ I/O drawers are supported. Older generation I/O drawers cannot be carried forward. 148 IBM z16 A02 and IBM z16 AGZ Technical Guide ICA SR (ICA SR and ICA",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.674096",
+    "chunk_number": 373,
+    "word_count": 182
+  }
+}

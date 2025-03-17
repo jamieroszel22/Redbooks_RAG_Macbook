@@ -1,0 +1,18 @@
+{
+  "content": "process PIN blocks \u0002 Format Preserving Encryption (FPE) supports three algorithms that are standardized by NIST and in X9.124: FF1, FF2, and FF2.1 Consideration: CCA features a new code level starting with z13 systems, and the UDX clients require a new UDX. 230 IBM z16 (3931) Technical Guide \u0002 Elliptic Curve support for the Koblitz curve secp256k1, to all ECC services including native support for X.509 certificates CCA 7.3, CCA 6.6 WRAPENH3 Enhanced Wrapping Method for TDES key tokens was added. CCA 7.4 and CCA 6.7 The following CCA 7.4 and 6.7 improvements were made: \u0002 German banking API updates for program currency \u0002 X9.23 random padding for AES encryption for important cryptographic operation protection \u0002 Enhanced triple length TDES PIN encryption key support for PIN change workloads \u0002 New service to compare encrypted PINs, which is required for ISO 4 PIN block verification inside the HSM \u0002 EC SDSA signature support, which is useful for new EMV certificate formats \u0002 PKCS#11 update",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.435841",
+    "chunk_number": 561,
+    "word_count": 163
+  }
+}

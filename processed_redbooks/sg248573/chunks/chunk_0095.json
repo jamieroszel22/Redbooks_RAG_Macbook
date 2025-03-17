@@ -1,0 +1,18 @@
+{
+  "content": "Macro level The macro level encompasses high-level strategic steps such as defining legal obligations, articulating AI principles, and extending enterprise risk frameworks. These steps ensure that the overarching governance structure aligns with organizational values and regulatory requirements. Micro level The micro level involves more granular tasks, including assigning business owners, performing risk assessments, and documenting go/no-go decisions. These steps ensure that day-to-day operations are conducted in a manner that supports the macro-level objectives. The intersection of macro and micro-level specifics dictates actions related to AI models, such as model approval, deployment, and monitoring. This level ensures that each AI model is rigorously evaluated and managed throughout its lifecycle. The process begins with model proposal approval, where a model entry is created in the Model Inventory and continuously updated with new information. The data scientist then uses a tool",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.806661",
+    "chunk_number": 95,
+    "word_count": 138
+  }
+}

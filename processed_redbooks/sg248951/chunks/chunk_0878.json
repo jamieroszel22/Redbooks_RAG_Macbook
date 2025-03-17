@@ -1,0 +1,18 @@
+{
+  "content": "when calculating this limit. If two years and eight months exist before the expiration date at the time of the order, the expiration date can be extended by no more than two years. One test activation is provided for each CBU year that is added to the CBU entitlement record. FC 6805 allows for ordering more tests in increments of one. The maximum number of tests that is allowed is 15 for each FC 6818. The processors that can be activated by CBU come from the available unassigned PUs on any installed processor drawer. A maximum of 200 CBU features that can be ordered. The number of features that can be activated is limited by the number of unused PUs on the system; for example: \u0002 An IBM z16 Max 39 with Capacity Model Identifier 401 can activate up to 39 CBU features. These CBU features can be used to change the capacity setting of the CPs, and to activate unused PUs. \u0002 An IBM z16 Max 82 CMI 715 with 15 CPs, 4 IFLs, and 1 ICF has 62 unused PUs available. It can activate up to 62 CBU",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.583979",
+    "chunk_number": 878,
+    "word_count": 190
+  }
+}

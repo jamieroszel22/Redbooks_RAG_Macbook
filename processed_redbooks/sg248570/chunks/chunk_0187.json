@@ -1,0 +1,18 @@
+{
+  "content": "analytical pipelines often involve multiple transformations, joins, and enrichments. Without lineage tracking, it can be nearly impossible to reconstruct how a particular metric was derived or to assess the impact of a schema change on downstream analytics. IBM watsonx.data's metadata layer captures lineage information, providing transparency and auditability. This not only aids troubleshooting and regression analysis but also strengthens compliance efforts by documenting data transformations and validating data sources. \u0002 Security, compliance, and access controls: Regulatory mandates like GDPR, HIPAA, or CCPA often require stringent controls over who can see which data and under what conditions. IBM watsonx.data integrates with enterprise security frameworks, enabling role-based access control, encryption at rest and in transit, and data masking. Sensitive information-like personal identifiers-can be masked or tokenized to protect privacy. These governance measures ensure that",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.065636",
+    "chunk_number": 187,
+    "word_count": 132
+  }
+}

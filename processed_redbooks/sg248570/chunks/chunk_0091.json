@@ -1,0 +1,18 @@
+{
+  "content": "designed to work cohesively, with each component strengthening the others. Here is how watsonx.data specifically synergizes with other components to improve the overall AI experience Synergy between watsonx.data and watsonx.ai IBM watsonx.data and watsonx.ai work together to provide a seamless pipeline for data-driven AI initiatives. watsonx.data serves as a high-performance, scalable data lakehouse designed to store and process both structured and unstructured data. It optimizes data access for AI workloads by integrating tools for querying, data transformation, and analysis. This foundation enables watsonx.ai: a platform focused on building, deploying, and managing AI models, to leverage high-quality, well-prepared data for training and inferencing. Together, watsonx.data ensures that AI workflows powered by watsonx.ai are fueled by reliable and optimized data sources, reducing preprocessing bottlenecks and accelerating insights. By integrating these solutions, organizations can",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.695717",
+    "chunk_number": 91,
+    "word_count": 131
+  }
+}

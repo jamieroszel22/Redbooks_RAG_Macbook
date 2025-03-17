@@ -1,0 +1,18 @@
+{
+  "content": "file modes A, X, and Y. Chapter 15. Miscellaneous recipes and helpful information 447 \u2013 ZVMCLOUD ONLINE should have the same values for FORMAT, LRECL, BLOCKS, DATE, and TIME for file modes X and Y. If everything looks correct, it is time to put the CPDISK A back into service by using the following commands: \u2013 RELEASE X ( DETACH ) \u2013 RELEASE Y ( DETACH ) \u2013 CP CPACCESS MAINT 0CF1 A SR \u2013 CPACCESS request for mode A scheduled. \u2013 Ready; T=0.01/0.01 13:17:40 \u2013 HCPZAC6732I CPACCESS request for MAINT's 0CF1 in mode A completed. Next, we must tell the system to begin using these new files. Use VMLINK to access the PMAINT 0CF0 disk: VMLINK PMAINT 0CF0 < = = MR > ( FILELIST You should see something similar to Example 15-10. Example 15-10 MAINT720 FILELIST A0 V 169 Trunc=169 Size=2 Line=1 Col=1 Alt=0 Cmd Filename Filetype Fm Format Lrecl Records Blocks Date Time SYSTEM CONFIG Z1 F 80 368 8 2020-10-05 11:36:03 LOGO CONFIG Z1 V 69 63 1 2020-06-24 09:14:16 11.Because the contents of all the following",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.813021",
+    "chunk_number": 948,
+    "word_count": 181
+  }
+}

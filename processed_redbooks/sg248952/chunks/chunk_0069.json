@@ -1,0 +1,18 @@
+{
+  "content": "Accelerator for AI is designed for high-speed, real-time inferencing at scale. It is designed to add up to 5.8 TFLOPS of processing power shared by all cores on the chip. This centralized AI design is intended to provide extremely high performance and consistent low-latency inferencing for processing a mix of transactional and AI workloads at speed and scale. Now, complex neural network inferencing that uses real-time data can be run and delivers insights within high throughput enterprise workloads in real-time while still meeting stringent SLAs. \u0002 A robust ecosystem of frameworks and open source tools, combined with the IBM Deep Learning Compiler that generates inferencing programs that are highly optimized for the IBM Z architecture and the Integrated Accelerator for AI, help enable rapid development and deployment of deep learning and machine learning models on IBM Z to accelerate time to market. \u0002 The IBM z16 A02 and IBM z16 AGZ support 16 TB per system (with up to 8TB per CPC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.397314",
+    "chunk_number": 69,
+    "word_count": 162
+  }
+}

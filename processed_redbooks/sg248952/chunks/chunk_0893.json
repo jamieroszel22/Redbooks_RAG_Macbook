@@ -1,0 +1,18 @@
+{
+  "content": "Configuration Identification 31 Machine-Type Number 32 48 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 63 F 49 362 IBM z16 A02 and IBM z16 AGZ Technical Guide Planning for nondisruptive upgrades Online permanent upgrades, On/Off CoD, CBU, and CPE can be used to upgrade an IBM z16 A02 and IBM z16 AGZ concurrently. However, certain situations require a disruptive task to enable capacity that was recently added to the system. Some of these situations can be avoided if planning is done in advance. Planning ahead is a key factor for nondisruptive upgrades. In a multi-site high-availability configuration, another option is the use of Flexible Capacity for Cyber Resilience to move workload to another site while hardware maintenance is performed. Disruptive upgrades are performed for the following reasons: \u0002 LPAR memory upgrades when reserved storage was not previously defined are disruptive to image upgrades. z/OS and z/VM support this function. \u0002 An I/O upgrade when the operating system cannot use the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.633128",
+    "chunk_number": 893,
+    "word_count": 168
+  }
+}

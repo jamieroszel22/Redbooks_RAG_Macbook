@@ -1,0 +1,18 @@
+{
+  "content": "more efficient way to disable DAT protection, such as during copy-on-write or page change tracking operations \u0002 RoCE Express3 adapter: \u2013 allows guests to exploit Routable RoCE, Zero Touch RoCE, and SMC-R V2 support \u0002 Guest Enablement for the CEX8S crypto adapter and assorted crypto enhancements: \u2013 Including Quantum Safe API Guest Exploitation Support available to dedicated guests \u0002 CPU/Core topology location information within z/VM monitor data: \u2013 providing a better picture of the system for diagnostic and tuning purposes \u0002 Consolidated Boot Loader for guest IPL from SCSI: \u2013 Guest Exploitation support for Secure IPL (Support for Linux Guest Secure IPL) Uses digital signatures to provide an IPL-time check that IPL data is intact, unaltered, and originates from a trusted build-time source. \u0002 Secure boot (a.k.a. validated boot) for z/OS as a z/VM guest supports AUDIT mode only \u2013 Crypto stateless command filtering: Support new capability in Crypto Express8s when configured in CCA",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.592735",
+    "chunk_number": 604,
+    "word_count": 154
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Partner Switch Capabilities: No_Reflective_Relay RDEV: 2120.P00 VDEV: 0600 Controller: DTCVSW1 BACKUP EQID: OSA1SET1 Adapter Connections: Adapter Owner: TCPIP NIC: 0600.P00 Name: UNASSIGNED Type: QDIO RX Packets: 5044 Discarded: 0 Errors: 0 TX Packets: 82 Discarded: 0 Errors: 0 RX Bytes: 220405 TX Bytes: 12478 Device: 0600 Unit: 000 Role: DATA Port: 0003 Options: Ethernet Broadcast Unicast MAC Addresses: 02-00-0E-0A-00-05 IP: 9.60.87.13 Multicast MAC Addresses: 01-00-5E-00-00-01 Member 1 is back up with TCP/IP attached to the highly available VSWITCH and the FTP server is running. 6.9.1 IPLing the other SSI members Complete the following steps to IPL the other SSI members: 1. Go to the HMC and start an Integrated 3270 Console for the second SSI member. 2. IPL the LPAR with the Load task. 3. Go to the Integrated 3270 Console and complete the IPL of z/VM: a. Press F10 at the SAPL window. b. Type WARM at the Start command. c. Type NO at the request to reset the Time of Day (TOD) clock.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.871292",
+    "chunk_number": 426,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "of new CPC drawers is not supported. However, the activation of an On/Off CoD upgrade can increase the model capacity identifier (A0x-Z0x). 8.5.2 Capacity Provisioning Manager The installation of the capacity provision function on z/OS requires the following prerequisites: \u0002 Setting up and customizing z/OS RMF, including the Distributed Data Server (DDS). \u0002 Setting up the z/OS CIM Server (included in z/OS base). \u0002 Performing capacity provisioning customization. For more information, see z/OS MVS Capacity Provisioning User\u2019s Guide, SC34-2661. Note: On/Off CoD requires that the Online CoD Buying features (FC 9900) and (FC 9896) are installed on the system that you want to upgrade. 342 IBM z16 A02 and IBM z16 AGZ Technical Guide Using the capacity provisioning function requires the following prerequisites: \u0002 TCP/IP connectivity to observed systems. \u0002 RMF Distributed Data Server must be active. \u0002 CIM server must be active. \u0002 Security and CIM customization. \u0002 Capacity Provisioning Manager",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.490601",
+    "chunk_number": 846,
+    "word_count": 152
+  }
+}

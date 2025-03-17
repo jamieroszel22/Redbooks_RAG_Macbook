@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.data 6.3 Integration with IBM Knowledge Catalog (IKC) The integration between IBM watsonx.data and IBM Knowledge Catalog enables comprehensive data governance through several aspects such as Data linage, Semantic enrichment, and Data Privacy protection, etc. In this chapter, we focus on how IKC's data protection rules play a critical role in ensuring data privacy as part of the broader data governance framework. 6.3.1 Architecture and core components of the integration IBM Knowledge Catalog servers as an enterprise data governance solution, managing the metadata for data sources across the enterprise. IBM watsonx.data acts as one of the data sources to support deep policy enforcement - dynamically enforce data protection whenever user access data. Figure 6-1 shows the architecture of the IBM Knowledge Catalog integration. Figure 6-1 Architecture of the integration In the architecture diagram above, there are several key components involved in the integration. \u0002 Access",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.099371",
+    "chunk_number": 197,
+    "word_count": 145
+  }
+}

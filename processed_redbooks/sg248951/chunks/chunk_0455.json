@@ -1,0 +1,18 @@
+{
+  "content": "definition (HCD). Note: Consider the following 10 GbE RoCE Express2.1 requirements: \u0002 The 10 GbE RoCE Express2.1 feature does not support auto-negotiation to any other speed and runs in full duplex mode only. \u0002 25 GbE and 10 GbE RoCE features should not be mixed in a z/OS SMC-R Link Group. Switch configuration for RoCE Express2: If the IBM 25 GbE RoCE Express2 features are connected to 25 GbE switches, the switches must meet the following requirements: \u0002 Global Pause function is enabled \u0002 Priority flow control (PFC) is disabled Note: Consider the following 25 GbE RoCE Express2 requirements: \u0002 The 25 GbE RoCE Express2 feature does not support auto-negotiation to any other speed and runs in full duplex mode only. \u0002 25 GbE and 10 GbE RoCE features should not be mixed in a z/OS SMC-R Link Group. 184 IBM z16 (3931) Technical Guide The maximum supported unrepeated distance, point-to-point, is 100 meters (328 feet). A client-supplied cable is required. Two types of cables can be used for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.002846",
+    "chunk_number": 455,
+    "word_count": 169
+  }
+}

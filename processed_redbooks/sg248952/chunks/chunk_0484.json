@@ -1,0 +1,18 @@
+{
+  "content": "Copy [PPRC]). \u0002 FlashCopy SOURCE and TARGET devices with program temporary fix (PTF) OA46900. \u0002 Db2 data backup volumes with PTF OA24142. The use of another subchannel set for these special devices helps reduce the number of devices in the subchannel set 0, which increases the growth capability for accessing more devices. Initial program load from an alternative subchannel set IBM z16 A02 and IBM z16 AGZ support initial program load (IPL) from alternative subchannel sets in addition to subchannel set 0. Devices that are used early during IPL processing now can be accessed by using subchannel set 1 or subchannel set 2 on an IBM z16 A02 and IBM IBM z16 AGZ. This configuration allows the users of Metro Mirror (formerly PPRC) secondary devices that are defined by using the same device number and a new device type in an alternative subchannel set to be used for IPL, an I/O definition file (IODF), and stand-alone memory dump volumes, when needed. The display ios,config command The z/OS",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.099322",
+    "chunk_number": 484,
+    "word_count": 167
+  }
+}

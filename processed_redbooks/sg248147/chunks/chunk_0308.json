@@ -1,0 +1,18 @@
+{
+  "content": "92BE____ TYPE LABEL ADDRESS TYPE LABEL ADDRESS RDBKZVMF RES VMFRES 933E____ SPOOL VMFS01 93BE____ PAGE VMFP01 943E____ Chapter 5. Installing z/VM 127 9. Reference your planning worksheet and attach all DASDs that are part of the VMSSI cluster to your virtual machine by using the ATTACH command. The * that is used in the ATTACH command means \u201cself\u201d (the ID that is running the command). In this example, we used the following command: ===> attach 923e 92be 933e 93be 943e to * 15:40:57 DASD 923E ATTACHED TO MAINT 923E WITH DEVCTL HYPERPAV BASE 15:40:57 DASD 92BE ATTACHED TO MAINT 92BE WITH DEVCTL HYPERPAV BASE 15:40:57 DASD 933E ATTACHED TO MAINT 933E WITH DEVCTL HYPERPAV BASE 15:40:57 DASD 93BE ATTACHED TO MAINT 93BE WITH DEVCTL HYPERPAV BASE 15:40:57 DASD 943E ATTACHED TO MAINT 943E WITH DEVCTL HYPERPAV BASE 10.Run the INSTALL command. The DASD is formatted and the z/VM system disks are copied, as shown in Figure 5-3. This step usually takes more than one hour: ===> install Example 5-3",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.416501",
+    "chunk_number": 308,
+    "word_count": 169
+  }
+}

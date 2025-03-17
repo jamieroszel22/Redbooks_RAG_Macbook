@@ -1,0 +1,18 @@
+{
+  "content": "VSWITCH \u0002 z/VM hypervisor instances: \u2013 Three guest virtual machines for RHOCP control plane machines, one per hypervisor \u2013 At least six guest virtual machines for RHOCP compute machines, distributed across the hypervisor instances \u2013 One guest virtual machine for the temporary RHOCP bootstrap machine \u0002 Disk storage for the z/VM hypervisor guest virtual machines: \u2013 FICON attached disk storage (DASDs). For z/VM hypervisor, these can be z/VM minidisks, fullpack minidisks, or dedicated DASDs. To reach the minimum required DASD size for Red Hat Enterprise Linux CoreOS (RHCOS) installations, you need extended address volumes (EAVs) in z/VM. It is highly recommended to use Parallel Access Volume access (HyperPAV) and High-Performance FICON (zHPF) to ensure optimal performance. \u2013 FCP attached disk storage. \u2013 For FCP/SCSI attached storage. \u0002 Storage and main memory: \u2013 16 GB for RHOCP control plane machines \u2013 8 GB for RHOCP compute machines \u2013 16 GB for the temporary RHOCP bootstrap machine 88",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.133714",
+    "chunk_number": 248,
+    "word_count": 156
+  }
+}

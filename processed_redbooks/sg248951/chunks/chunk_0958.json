@@ -1,0 +1,18 @@
+{
+  "content": "installed in the PCIe+ I/O drawer are not affected because they are not managed by the Resource Groups. 404 IBM z16 (3931) Technical Guide The front, rear, and top view of the PCIe+ I/O drawer and the Resource Group assignment by card slot are shown in Figure 9-11. All PCIe+ I/O drawers that are installed in the system feature the same Resource Group assignment. Figure 9-11 Resource Group slot assignment 9.10 RAS capability for the HMA and SE The HMA and the SE include the following RAS capabilities: \u0002 Back up from HMA and SE On a scheduled basis, the HMA hard disk drive (HDD) is backed up to the USB flash memory drive (UFD), a defined FTP server, or both. SE HDDs are backed up on to the primary SE HDD and an alternative SE HDD. In addition, you can save the backup to a defined FTP server. For more information, see 10.2, \u201cHMC and SE changes and new features\u201d on page 409. \u0002 Remote Support Facility (RSF) The HMA RSF provides the important communication to a centralized IBM support",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.847535",
+    "chunk_number": 958,
+    "word_count": 181
+  }
+}

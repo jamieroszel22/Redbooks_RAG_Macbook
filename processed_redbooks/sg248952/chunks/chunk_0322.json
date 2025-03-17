@@ -1,0 +1,18 @@
+{
+  "content": "zIIPs \u0002 General mode is also used to run the z/TPF operating system on dedicated or shared CPs \u0002 CF mode, by loading the CFCC code into the LPAR that is defined as one of the following types: \u2013 Dedicated or shared CPs \u2013 Dedicated or shared ICFs \u0002 Linux only mode to run the following systems: Linux only IFL or CP \u0002 Linux on IBM Z (64-bit) \u0002 z/VM 64-bit Linux on IBM Z (31-bit) 31-bit z/VM CP, IFL, zIIPb, or ICFb z/VM 64-bit SSCc IFL or CP Linux-based applianced 64 bit a. General mode uses 64-bit z/Architecture b. zIIP and ICF for guest use only c. Secure Service Container d. IBM Db2 Analytics Accelerator (IDAA), Hyper Protect Virtual Servers (HPVS), and others zIIP usage: zIIPs can be defined to General mode or z/VM mode image, as listed in Table 3-7 on page 122. However, zIIPs are used only by z/OS. Other operating systems cannot use zIIPs, even if they are defined to the LPAR. z/VM V7R1 and later support real and virtual zIIPs to guest z/OS systems. Image mode PU type Operating system",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.480140",
+    "chunk_number": 322,
+    "word_count": 185
+  }
+}

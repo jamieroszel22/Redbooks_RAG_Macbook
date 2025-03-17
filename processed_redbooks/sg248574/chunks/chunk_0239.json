@@ -1,0 +1,18 @@
+{
+  "content": "flexibility and reduce bottlenecks. \u0002 Centralized communication: A hub-and-spoke model where a central coordinator manages all interactions. \u0002 Shared message pool: A collaborative mechanism where agents exchange messages through a shared repository. Hybrid patterns, such as shared message pools or global workspaces, enable agents to post intermediate results or discoveries to a common repository, which enables asynchronous collaboration and emergent problem-solving. The blackboard pattern or global workspace serves as a central knowledge-sharing hub within the MAS. Agents use this shared repository to post updates, intermediate calculations, or unresolved queries, which create a collaborative environment where other agents can contribute insights or take over pending tasks. For example, an agent working on a data analysis task might upload partial results to the blackboard, which another agent can use to generate visualizations or summaries. The MAS is supported by an agents and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.141999",
+    "chunk_number": 239,
+    "word_count": 140
+  }
+}

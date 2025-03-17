@@ -1,0 +1,18 @@
+{
+  "content": "DIRMAINT FOR TCPIP NICDEF 0600 TYPE QDIO LAN SYSTEM VSW1 3. Ask DirMaint for the list of CP COMMAND statements that are defined for TCPIP. At this point, it states that no COMMAND statements exist: ===> DIRMAINT FOR TCPIP COMMAND ? DVHXMT1191I Your COMMAND request has been sent for processing ... Ready; T=0.01/0.01 23:34:49 DVHREQ2288I Your COMMAND request for TCPIP at * has been accepted. DVHCOM3581I There are no COMMAND statements to query. Note: Commands that modify directory entries are processed exactly as they are entered. So, for consistency, it is a preferred practice to enter DirMaint commands in all uppercase characters, although it is not required. Chapter 6. Configuring z/VM 183 DVHREQ2289I Your COMMAND request for TCPIP at * has completed; with RC = 0. 4. Add a command to the TCP/IP directory definition to allow it to access the VSWITCH: ===> DIRMAINT FOR TCPIP COMMAND ADD 001 SET VSWITCH VSW1 GRANT &USERID These statements grant TCP/IP access to VSWITCH VSW1, define a",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.857694",
+    "chunk_number": 422,
+    "word_count": 164
+  }
+}

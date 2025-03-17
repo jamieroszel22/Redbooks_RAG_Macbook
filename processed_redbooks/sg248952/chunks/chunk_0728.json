@@ -1,0 +1,18 @@
+{
+  "content": "processing in the data path, yet preserve TCP/IP Qualities of Service for connection management purposes. Support in select Linux on IBM Z distributions is now provided for Shared Memory Communications over Direct Memory Access (SMC-D). For more information, see this Linux on IBM Z Blogspot web page. The supported operating systems are listed in Table 7-8 on page 255 and Table 7-9 on page 257. Shared Memory Communications Version 2 Shared Memory Communications v2 is available in z/OS V2R4 (with PTFs) and z/OS V2R5. The initial version of SMC was limited to TCP/IP connections over the same layer 2 network and therefore was not routable across multiple IP subnets. The associated TCP/IP connection was limited to hosts within a single IP subnet requiring the hosts to have direct access to the same physical layer 2 network (i.e. same Ethernet LAN over a single VLAN ID). The scope of eligible TCP/IP connections for SMC was limited to and defined by the single IP subnet. SMC Version 2",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.078614",
+    "chunk_number": 728,
+    "word_count": 166
+  }
+}

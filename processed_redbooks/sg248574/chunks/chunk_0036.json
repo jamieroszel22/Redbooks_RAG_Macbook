@@ -1,0 +1,18 @@
+{
+  "content": "convolutional neural networks (CNNs) specialize in image processing by identifying spatial hierarchies in pixels, and recurrent neural networks (RNNs) and transformers tackle sequential data with unparalleled efficiency. By leveraging high-performance computing and large datasets, DL approximates nonlinear functions to enable machines to solve intricate, high-dimensional problems. \u0002 Unsupervised learning: Unsupervised learning focuses on deriving patterns and structures from unlabeled datasets. This method trains algorithms to identify inherent groupings, clusters, or associations in data without human-provided annotations. Common techniques include clustering algorithms, such as k-means and hierarchical clustering, and dimensionality reduction methods, such as Principal Component Analysis (PCA) and t-SNE. Applications of unsupervised learning are vast, ranging from customer segmentation in marketing to anomaly detection in cybersecurity. These systems are particularly valuable in",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.280101",
+    "chunk_number": 36,
+    "word_count": 122
+  }
+}

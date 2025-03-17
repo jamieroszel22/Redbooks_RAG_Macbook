@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.ai and watsonx.governance helps ensure that AI models are high-performing, compliant, ethical, and transparent. Here is how they complement each other: \u0002 Ethical AI deployment: watsonx.governance provides guardrails for AI models that are developed and deployed through watsonx.ai. These guardrails include bias detection, explainability, and compliance tracking to help ensure that AI decisions are fair and aligned with regulatory standards. \u0002 Lifecycle management and monitoring: watsonx.governance tracks the entire lifecycle of AI models by monitoring performance, drift, and adherence to governance policies. This approach enables watsonx.ai users to maintain the integrity of deployed models over time. \u0002 Transparency and auditability: Models that are built on watsonx.ai benefit from the watsonx.governance robust reporting and audit capabilities, which provide stakeholders with clear insights into how AI models make decisions, which help ensure trustworthiness. \u0002 Risk mitigation",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.417834",
+    "chunk_number": 73,
+    "word_count": 134
+  }
+}

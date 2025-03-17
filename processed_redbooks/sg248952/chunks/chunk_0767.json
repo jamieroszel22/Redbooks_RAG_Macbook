@@ -1,0 +1,18 @@
+{
+  "content": "encryption enables broad use of network encryption. IBM Z Security and Compliance Center The IBM Z Security and Compliance Center is a modern, browser-based application providing compliance capability mapping, fact collection, and validation. Designed for use with minimal technical skills, this solution can automate evidence collection of compliant-relevant facts from IBM Z platforms including the new CPACF usage counters which demonstrate crypto algorithm strength and key protection. The IBM Z Security and Compliance Center enables clients to: \u0002 Generate detailed reports to enable executives, administrators, and auditors to understand compliance metrics with ease \u0002 Track compliance drift over time with dashboard visualizations that include historical compliance information \u0002 Utilize compliance evidence generation facilities from IBM Z software stack (for example, z/OS, z/OS Middleware, z/OS Compliance Integration Manager, Oracle on Linux on IBM Z, and PostgreSQL on Linux on IBM Z) \u0002",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.221350",
+    "chunk_number": 767,
+    "word_count": 141
+  }
+}

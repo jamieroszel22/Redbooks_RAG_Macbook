@@ -1,0 +1,18 @@
+{
+  "content": "9.1 release with z/OS PTFs, does not include XRC. Y Yb Yb N N N zHyperLink Consistent read from metro mirror secondaryd d. DS8900F only, 9.2 release with z/OS PTFs. Y Yb Yb N N N z/VM Dynamic I/O support for FICON FC and FCP CHPIDs - - - Y Y Y CHPID (Channel-Path Identifier) type FC FICON support for zHPF (IBM Z High-Performance FICON) Y Y Y Ye Ye e. For guest use. Ye IBM Fibre Channel Endpoint Securityf f. FC 1146 (optional) is available for IBM z16 A01 and IBM z15 T01 only. Minimum, DS8910 or DS8890 storage, CPACF enablement and FICON Express16SA or FICON FICON Express32S LX/SX. Y Y Y Y Y Y FICON when using CTC (channel-to-channel) Y Y Y Yg Yg Yg g. CTC channel type is now supported when CPC is managed in DPM mode. See 7.2.2, \u201cz/VM\u201d on page 250. IPL from an alternative subchannel set Y Y Y N N N 32 K subchannels for FICON Express Y Y Y Y Y Y Request node identification data (RNID) Y Y Y N N N FICON link incident reporting Y Y Y N N N CHPID (Channel-Path Identifier) type FCP FICON",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.651458",
+    "chunk_number": 617,
+    "word_count": 198
+  }
+}

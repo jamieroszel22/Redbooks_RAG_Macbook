@@ -1,0 +1,18 @@
+{
+  "content": "a block of lines. f Line after which a copy (c) or a move (m) is to be inserted. p Line before which a copy (c) or a move (m) is to be inserted. i Insert a line. i<n> Insert 'n' lines. m Move one line. mm Move a block of lines. \" Replicate a line. \"<n> Replicate a line 'n' times. \"\" Replicate a block of lines. You may also want to refer to \u201cOnline resources\u201d on page 477, for a more expansive XEDIT summary option. A vi cheat sheet The following list is a small subset of vi commands that are most commonly used. The vi editor has three modes: \u0002 Input mode: The Insert key, i, o (add a line below), O (add a line above), and other commands put you in this mode where you can type text into the file. When you are in this mode, you see the text --INSERT-- in the last line. \u0002 Command mode: The Esc key takes you out of input mode and into command mode. You can issue the following commands: i Brings you back to input mode. dd Deletes a line and puts it in the buffer. <n>dd Delete <n> lines. x",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.949493",
+    "chunk_number": 994,
+    "word_count": 204
+  }
+}

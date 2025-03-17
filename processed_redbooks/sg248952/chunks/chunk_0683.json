@@ -1,0 +1,18 @@
+{
+  "content": "back the specific abusive workloads that are causing problems for other workloads. z/OS XCF/XES exploitation APAR support is required to provide this functionality. \u0002 CFCC Change Shared-Engine CF Default to DYNDISP=THIN Coupling Facility images can run with shared or dedicated processors. Shared processor CFs can operate with different Dynamic Dispatching (DYNDISP) models: Chapter 7. Operating system support 279 \u2013 DYNDISP=OFF: LPAR timeslicing completely controls the CF processor. \u2013 DYNDISP=ON: an optimization over pure LPAR timeslicing, in which the CFCC code manages timer interrupts to share processors more efficiently. \u2013 DYNDISP=THIN: An interrupt-driven model in which the CF processor is dispatched in response to a set of events that generate Thin Interrupts. Thin Interrupt support was available since zEC12/zBC12, and is proven to be efficient and well-performing in numerous different test and customer shared-engine coupling facility configurations. Therefore, IBM z15 has made",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.915667",
+    "chunk_number": 683,
+    "word_count": 141
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "the first time ever, it was possible to have multiple virtual systems, or VMs all co-existing on one physical system. The VM operating system moved the concept of shared access ahead by a massive leap by allowing individual users to effectively have their own personal mainframe. By the early 1980s, VMs continued to evolve, pioneering ground breaking concepts later to become cloud fundamentals. Automated systems management and self-service functionality for common tasks, such as identity and access management, are just two of many examples. 1.2.2 The ultimate virtualization platform If someone were to tell you that they recently purchased their \u201cultimate dream car\u201d; describing a high-performance luxury-sport automobile with a multitude of premium features, you likely assume that it was an expensive purchase with expensive ongoing maintenance costs, and it might not be \\ reliable based on all the complexity. What if they then continued on to inform you that: \u0002 The overall total cost of",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.450728",
+    "chunk_number": 83,
+    "word_count": 156
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Environmental monitoring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 471 Chapter 12. Performance and capacity planning. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 475 12.1 IBM z16 performance characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 476 12.1.1 IBM z16 single-thread capacity. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 476 12.1.2 IBM z16 SMT capacity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 477 12.1.3 IBM Integrated Accelerator for zEnterprise Data Compression (zEDC) . . . . . . 477 12.1.4 Primary performance improvement drivers with IBM z16 . . . . . . . . . . . . . . . . . 477 12.2 IBM z16 Large System Performance Reference ratio. . . . . . . . . . . . . . . . . . . . . . . . 478 12.2.1 LSPR workload suite. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 478 12.3 Fundamental",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.291357",
+    "chunk_number": 41,
+    "word_count": 337
+  }
+}

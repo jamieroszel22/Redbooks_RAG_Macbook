@@ -1,0 +1,18 @@
+{
+  "content": "activation for the specific purpose of System Recovery Boost only. For more information, contact your IBM representative. Activation of System Recovery Boost Record does not change the MCI of your system. Notes: Consider the following points: \u0002 CPE cannot be used for peak load management of client workload or for a disaster situation. \u0002 CPE is available only as carry forward on IBM z16. Chapter 8. System upgrades 341 8.3.3 Concurrent upgrade functions summary The possible concurrent upgrades combinations are listed in Table 8-2. Table 8-2 Concurrent upgrade summary 8.4 Miscellaneous equipment specification upgrades MES upgrades enable concurrent and permanent capacity growth. MES upgrades allow the concurrent adding of processors (CPs, ICFs, zIIPs, IFLs, and SAPs), memory capacity, and I/O ports. For sub-capacity models, MES upgrades allow the concurrent adjustment of the number of processors and the capacity level. The MES upgrade can be performed by using LICCC only, installing more",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.404548",
+    "chunk_number": 825,
+    "word_count": 151
+  }
+}

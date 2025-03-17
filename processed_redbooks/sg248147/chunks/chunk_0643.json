@@ -1,0 +1,18 @@
+{
+  "content": "system add 720 rdbkzvmc rsu1 nonesm hostname 9.76.61.239 commtype ftp VMFCMG2195I SERVMGR SYSTEM ADD 720 RDBKZVMC RSU1 NONESM HOSTNAME 9.76.61.239 COMMTYPE FTP VMFCMG2760I SERVMGR processing started VMFUTL2767I Reading VMSESE PROFILE B for additional options VMFCSY2760I CSMSYSMT processing started VMFCSY2195I CSMSYSMT CMG VMFCTL4017R Enter the login user ID to be used for RDBKZVMC host system: 9.76.61.239 csmwork VMFCTL4018R Enter the login password for user 'csmwork' on RDBKZVMC host system: 9.76.61.239 < < password > > VMFCSY4047I System directory VMPSFS:MAINTCSM.RDBKZVMC created VMFCTL1965E Command FTP 9.76.61.239 4535 failed (00:45:20) with RC=34539 when issued with argument(s): (WIDTH 110 NONETRC EXIT VMFCSY4060E Unable to XAUTOLOG MAINT720 on system RDBKZVMC; XAUTOLOG return code 54 VMFCSY4046E Error occurred during SYSTEM ADD processing; completed work will be undone VMFCSY2760E CSMSYSMT processing completed unsuccessfully (RC=8) VMFCMG1965E Command SERVMGR failed with RC=8",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.752400",
+    "chunk_number": 643,
+    "word_count": 132
+  }
+}

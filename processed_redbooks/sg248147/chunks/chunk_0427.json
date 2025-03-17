@@ -1,0 +1,18 @@
+{
+  "content": "d. If you are prompted for anything that requires a response of go, type GO. 4. Disconnect from OPERATOR on the Integrated 3270 Console by typing DISCO HOLD. You will see a z/VM logon panel. 5. If more than two member nodes are in your cluster, repeat steps 1 through 4 to start those members. Chapter 6. Configuring z/VM 185 6. Verify that the other nodes in the cluster can be accessed through the highly available VSWITCH. The entire SSI cluster is now back up. 6.10 Validating and testing your changes To test several of the changes that you made, perform the following steps: 1. Start a 3270 emulator session to the first SSI member. 2. Log on as MAINT. 3. Issue the QUERY SSI command: ===> query ssi SSI Name: ITSOSSIA SSI Mode: Stable Cross-System Timeouts: Enabled SSI Persistent Data Record (PDR) device: VV155A on 155A SLOT SYSTEMID STATE PDR HEARTBEAT RECEIVED HEARTBEAT 1 RDBKZVMG Joined 2015-04-26 17:53:11 2015-04-26 17:53:11 2 RDBKZVMH Joined 2015-04-26 17:53:04 2015-04-26 17:53:04 3",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.877337",
+    "chunk_number": 427,
+    "word_count": 169
+  }
+}

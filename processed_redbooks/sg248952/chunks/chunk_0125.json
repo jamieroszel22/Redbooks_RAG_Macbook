@@ -1,0 +1,18 @@
+{
+  "content": "can be powered either form single-phase or three-phase utility power. For more information see Chapter 11, \u201cEnvironmentals\u201d on page 433 and 3932 Single Frame Installation Manual for Physical Planning (Models A02/LA2), GC28-7040. Dual CPC drawer system or system with FC 0675 For systems with two CPC drawers, the PCIe+ I/O drawers (1, 2, and 3) are installed in order in the following EIA locations: A01B, A20B, and A28B. There is no need to define Reserved space feature codes for future CPC or I/O drawer empty locations, as all placements in the rack are defined and will be filled according to the features ordered. Power 0534 PWR Jumper 1m w/C13 0535 PWR Jumper 1m w/C19 0536 PWR Jumper 2m w/C13 0537 PWR Jumper 2m w/C19 0538 PWR Jumper 3m w/C13 0539 PWR Jumper 3m w/C19 I/O 4023 PCIe+ I/O drawer Maximum three (feature dependant) Feature Code Description Comments Important: IBM z16 A02 does not support the installation any other equipment in the rack (as previous systems allowed - i.e. IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.653261",
+    "chunk_number": 125,
+    "word_count": 169
+  }
+}

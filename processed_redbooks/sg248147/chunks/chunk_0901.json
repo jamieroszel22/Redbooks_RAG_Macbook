@@ -1,0 +1,18 @@
+{
+  "content": "environment. Also, although it is not technically a requirement, we recommend that all the cards that are used in the Global VSwitch be the same type (or at least the same link speed). Because the traffic requirement of the IVL Network is modest, OSA-Express 1000BaseT or Gigabit Ethernet cards can be used (even if the Global VSwitch uses 10 Gigabit cards). Defining the IVL VSwitch on each system The IVL VSwitch is defined by using the DEFINE VSWITCH command, as with a normal VSwitch, but the type of IVL must be used. Example 14-1 shows the result of creating the IVL VSwitch on the first of our systems. Example 14-1 Creating the IVL VSwitch on the first system define vswitch ivl type ivl rdev 1913.p01 1933.p01 VSWITCH SYSTEM IVL is created HCPIVA3164I System RDBKZVMF is connected to IVL Domain A through VSWITCH IVL wit h MAC address 02-00-00-00-00-00. HCPSWU3230I Priority Queuing is not enabled for device 1913.P01 for VSWITCH SYST EM IVL. HCPSWU3230I Priority Queuing is not enabled for",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.645182",
+    "chunk_number": 901,
+    "word_count": 169
+  }
+}

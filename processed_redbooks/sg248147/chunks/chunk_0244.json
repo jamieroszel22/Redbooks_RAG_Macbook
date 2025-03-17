@@ -1,0 +1,18 @@
+{
+  "content": "deploying new containerized applications on a secure platform. RHOCP also offers scalable resources that require minimal configuration and management. Developer can create and deploy applications by delivering a consistent environment throughout the lifecycle of the application, including development, deployment, and maintenance. The self-service capabilities and minimal maintenance requirements reduce the burden on IT organizations that are associated with deploying and maintaining application platforms. 4.2.1 Benefits of Red Hat OpenShift Container Platform RHOCP includes the following benefits: \u0002 Faster innovation and time-to-value: Well-defined recommendations and best practices for designing and operating RHOCP lead to a standardized architecture. \u0002 Simplification: A consistent set of APIs is defined for developers and administrators. Kubernetes Operators dramatically simplify a solution architecture and the required skills to operate it. \u0002 Safer deployments: RHOCP automates and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.118676",
+    "chunk_number": 244,
+    "word_count": 129
+  }
+}

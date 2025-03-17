@@ -1,0 +1,18 @@
+{
+  "content": "(Luminous), Ceph does not rely on any other conventional file system and directly manages HDDs and SSDs with its own storage back end BlueStore. It can expose a POSIX file system. Ceph replicates data with fault tolerance by using commodity hardware and Ethernet IP, and it requires no specific hardware support. Ceph is highly available and helps ensure strong data durability through techniques that include replication, erasure coding, snapshots, and clones. By design, the system is both self-healing and self-managing, minimizing administration time and other costs. Chapter 1. Challenges and opportunities with data 7 Google Cloud Storage Google Cloud Storage is a RESTful online file storage web service for storing and accessing data on the Google Cloud Platform infrastructure. The service combines the performance and scalability of Google's cloud with advanced security and sharing capabilities. It is an Infrastructure as a Service (IaaS), and it is comparable to Amazon S3. Contrary to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.546109",
+    "chunk_number": 53,
+    "word_count": 152
+  }
+}

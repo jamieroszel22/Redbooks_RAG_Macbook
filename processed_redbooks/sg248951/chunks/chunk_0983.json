@@ -1,0 +1,18 @@
+{
+  "content": "ordered, the load procedure is similar that which was used with a DVD. \u0002 Electronic If USB load is not allowed, or if FC 0846 (No physical media options is ordered, an ISO image is used for a firmware load over a local area network (LAN). The ISO image can be downloaded through zRSF or an FTP (/FTPS/SFTP) server that is accessible by the LAN. Operating system load from removable media or server z/OS, z/VM, z/VSE, and Linux on IBM Z are available by using a USB or network distribution. z/TPF does not use the HMC for code load. 10.2.6 SE driver and version support with the HMC Driver 51/Version 2.16.0 The driver of the HMC and SE is equivalent to a specific HMC and SE version: \u0002 Driver 36 is equivalent to Version 2.14.1 \u0002 Driver 41 is equivalent to Version 2.15.0 \u0002 Driver 51 is equivalent to version 2.16.0 An HMC with Driver 51/Version 2.16.0 supports N-2 IBM Z server generations. Some functions that are available on Driver 51/Version 2.16.0 and later are supported only when the HMC is",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.922443",
+    "chunk_number": 983,
+    "word_count": 181
+  }
+}

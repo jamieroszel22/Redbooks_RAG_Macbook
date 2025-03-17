@@ -1,0 +1,18 @@
+{
+  "content": "clients without cloud admin\u2019s assistance \u2022 Do not Disturb: actively prohibit cloud admin\u2019s from domain management \u2013 HSM internal re encrypt support for block based cipher modes \u0002 EP11 for CEX8S (5.8.x) only \u2013 Enhanced concurrent update support now includes kernel modules \u2013 Enhanced maximum performance for digest and random number generation \u2013 Allow for regular extractable keys to be tagged as protected key exportable \u0002 EP11 Support Program 4.0 for Linux \u2013 enables PQC Dilithium and Kyber exploitation by Linux/opencryptoki \u2013 adds TLS support for TKE to ep11tked connections 6.5.4 Crypto Express8S as an accelerator A Crypto Express8S adapter that is running in accelerator mode supports only RSA clear key and SSL Acceleration. A request is processed fully in hardware. The Crypto Express accelerator is a coprocessor that is reconfigured by the installation process so that it uses only a subset of the coprocessor functions at a higher speed. Reconfiguration is disruptive to coprocessor and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.433702",
+    "chunk_number": 562,
+    "word_count": 156
+  }
+}

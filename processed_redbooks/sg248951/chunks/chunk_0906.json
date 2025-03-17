@@ -1,0 +1,18 @@
+{
+  "content": "using EUV process with 7 nm FinFET lithography, and has eight cores (PUs) per chip (design) that are running at 5.2 GHz. \u0002 Each core has private L1 (instruction and data) caches and a semi-private L2 cache, which are 32 MB. The eight cores and L2 caches on the chip communicate through bidirectional high-speed on-chip ring and with all SMP, I/O, and memory interfaces (see Figure 9-2 on page 381). Chapter 9. Reliability, availability, and serviceability 381 Figure 9-2 PU chip structure (with bidirectional ring shown) \u0002 Two PU chips are packaged on a dual chip module (DCM), as shown in Figure 9-3. PU chip to PU chip communication is performed through the M-Bus, which is a high-speed bus that acts as ring-to-ring extension communication at 160 Gbps data rate, with the following RAS characteristics: \u2013 ECC on data path and snoop bus \u2013 Parity on miscellaneous control lines \u2013 One spare per ~50 data bit bus Figure 9-3 IBM z16 Dual Chip Module (M-Bus connects the two chips) 382 IBM z16 (3931)",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.668067",
+    "chunk_number": 906,
+    "word_count": 173
+  }
+}

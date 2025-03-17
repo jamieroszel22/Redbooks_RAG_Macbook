@@ -1,0 +1,18 @@
+{
+  "content": "customer purchased memory is not available for use in most cases. Some work might need to be shut down or not restarted. Chapter 9. Reliability, availability, and serviceability 385 \u2013 Crypto Express 8S \u2013 RoCE Express3 \u0002 The number of PSP, support partitions, for managing native PCIe I/O: \u2013 Four partitions \u2013 Reduced effect on MCL updates \u2013 Better availability \u0002 Faster Dynamic Memory Relocation engine: \u2013 Enables faster reallocation of memory that is used for LPAR activations, CDR, and concurrent upgrade \u2013 Enables also LPAR Optimizations with Dynamic Storage Reconfiguration (DSR) \u2013 Provides faster, more robust service actions \u0002 IBM z16 has same Fill and Drain tool as IBM z15. 9.3 Structure The IBM z16 was designed in a 19-inch frames format. The IBM z16 A01 can be delivered only as an air-cooled system and fulfills the requirements for ASHRAE A3 class environment. The IBM z16 A01 can have up to 10 PCIe+ I/O drawers when delivered with Bulk Power Assembly (BPA) and 12 PCIe+ I/O drawers",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.685020",
+    "chunk_number": 912,
+    "word_count": 168
+  }
+}

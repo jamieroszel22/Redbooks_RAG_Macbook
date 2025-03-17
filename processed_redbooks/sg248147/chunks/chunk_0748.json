@@ -1,0 +1,18 @@
+{
+  "content": "present a few of the most useful DirMaint commands. General management and administration dirm direct Places the current directory online dirm enable Places the DirMaint in an enabled state dirm backup Creates a USER BACKUP file on DIRMAINT 1DB MDisk dirm user withpass Get a copy of USER DIRECT with passwords dirm user nopass Get a copy of USER DIRECT without passwords Tip: The following options are available on the HELP MENU: \u0002 DirMaint Commands \u0002 DirMaint Topics 342 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 dirm query dvhlevel Get the DirMaint release and maintenance applied dirm status workunit all Get the list of pending work units dirm status datamove all Get the list of pending work units dirm cms q disk Get the info of which MDisks are accessed by DIRMAINT dirm status locked Get a list of userids locked dirm dat shutdown Shutdown the datamove user ID dirm sat shutdown Shutdown the dirmsat user ID dirm shutdown Shutdown the dirmaint user ID User ID and disk management dirm",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.137791",
+    "chunk_number": 748,
+    "word_count": 170
+  }
+}

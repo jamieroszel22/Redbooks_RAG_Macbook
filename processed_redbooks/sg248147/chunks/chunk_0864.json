@@ -1,0 +1,18 @@
+{
+  "content": "cio_ignore -r fc00 # cio_ignore -r fd00 If you use Red Hat Enterprise Linux 8, follow these steps: 1. Enable the FCP adapters by using the chccwdev command: # chccwdev -e fc00 Setting device 0.0.fc00 online Done # chccwdev -e fd00 Setting device 0.0.fd00 online Done 402 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 2. Verify that the auto LUN scan feature detected all of the paths to the LUNs: # lsluns Scanning for LUNs on adapter 0.0.fc00 at port 0x500507630500c74c: 0x4010401700000000 at port 0x50050763050bc74c: 0x4010401700000000 Scanning for LUNs on adapter 0.0.fd00 at port 0x500507630510c74c: 0x4010401700000000 at port 0x50050763051bc74c: 0x4010401700000000 3. If multipath is not yet configured, complete the following steps: a. Install the device-mapper-multipath: # yum -y install device-mapper-multipath Installed: device-mapper-multipath-0.4.9-77.el7.s390x ... b. Copy the multipath reference configuration file to the /etc/multipath.conf file: # cp",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.530044",
+    "chunk_number": 864,
+    "word_count": 136
+  }
+}

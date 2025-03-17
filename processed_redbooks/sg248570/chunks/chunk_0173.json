@@ -1,0 +1,18 @@
+{
+  "content": "code (for example, show(), print()), as well as the Spark executor and driver logs. For more information, see Debug the Spark application. Figure 5-23 Application logs Tip: You can type the following in the filter box of the home instance bucket of your Spark engine spark/spark788/logs/8ac12670, which is of the format spark/<engineID>/logs/<first-few-characters-instance-crn>. See Figure 5-23. Chapter 5. Querying and manipulating data and leveraging persona-specific engines 81 5.3 Execute important queries using the power of traditional RDBMS with shared open lakehouse formats As organizations increasingly embrace the flexibility and scalability of lakehouse architectures - fusing the schema-on-read philosophy of data lakes with the performance characteristics of data warehouses - one challenge often emerges: how to preserve the established benefits of traditional relational systems. Longstanding RDBMS platforms have earned their place in enterprise environments by providing",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.009328",
+    "chunk_number": 173,
+    "word_count": 134
+  }
+}

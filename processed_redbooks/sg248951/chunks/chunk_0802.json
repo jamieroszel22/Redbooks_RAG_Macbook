@@ -1,0 +1,18 @@
+{
+  "content": "Nondisruptive upgrades do not require the software or operating system to be restarted for the upgrade to take effect. \u0002 Disruptive An upgrade is considered disruptive when resources that are modified or added to an operating system image require that the operating system be restarted to configure the newly added resources. A Concurrent upgrade might be disruptive to operating systems or programs that do not support the upgrades while being nondisruptive to others. For more information, see 8.12, \u201cPlanning for nondisruptive upgrades\u201d on page 372. Replacement capacity A temporary capacity that is used for situations in which processing capacity in other parts of the enterprise is lost. This loss can be a planned event or an unexpected disaster. The two replacement offerings available are Capacity for Planned Events and Capacity Backup. Resource Link The IBM Resource Link website a technical support website that provides a comprehensive set of tools and resources (log in required).",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.328194",
+    "chunk_number": 802,
+    "word_count": 154
+  }
+}

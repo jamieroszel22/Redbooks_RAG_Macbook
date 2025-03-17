@@ -1,0 +1,18 @@
+{
+  "content": "size \u0002 Latencies (sensitive to distance from the microprocessor) \u0002 Number of levels, the Modified, Exclusive, Shared, Invalid (MESI) protocol, controllers, switches, the number and bandwidth of data buses, and so on. With IBM z16, physical L3/L4 caches no longer exist. L2 caches that are on each processor core are virtual L3/L4 caches on IBM z16. For more information, see Chapter 3, \u201cCentral processor complex design\u201d on page 67. 5 Available for IFL, zIIP, and SAP processors only. Chapter 12. Performance and capacity planning 479 A memory nest in an IBM z16 CPC drawer is shown in Figure 12-2. Figure 12-2 IBM z16 physical and virtual single drawer memory hierarchy Workload performance is sensitive to how deep into the memory hierarchy the processor must go to retrieve the workload instructions and data for running. The best performance occurs when the instructions and data are in the caches that are nearest the processor because little time is spent waiting before running. If the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.254160",
+    "chunk_number": 1081,
+    "word_count": 162
+  }
+}

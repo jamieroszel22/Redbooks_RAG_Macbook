@@ -1,0 +1,18 @@
+{
+  "content": "(lpar a09 CONFIGURATION FILE PROCESSING COMPLETE -- NO ERRORS ENCOUNTERED. ===> cpsyntax system config f (lpar a0a CONFIGURATION FILE PROCESSING COMPLETE -- NO ERRORS ENCOUNTERED. After you confirm that no syntax errors occurred, you can release and detach the PMAINT CF0: ===> release F (detach DASD 0120 DETACHED The volumes are now formatted for paging and minidisks. 6.11.6 Attaching minidisk volumes to the system for use Detach the volumes for minidisks from MAINT and attach them to SYSTEM: ===> detach 1567-1569 156A-156F from * 1567-1569 156A-156F DETACHED ===> attach 1567-1569 156A-156F to system DASD 1567 ATTACHED TO SYSTEM VM1567 HYPERPAV BASE ... Important: If other z/VM LPARs might attach volumes with the VM prefix, specifically list each volume to attach to SYSTEM by using the User_Volume_List statement. This step will prevent multiple z/VM systems from writing to the same volume. The list looks like the following list in this example: User_Volume_List VM1567 User_Volume_List",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.948250",
+    "chunk_number": 447,
+    "word_count": 153
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Protocol support IBM z16 implements the following major enhancements in support of the Server Time Protocol function: \u0002 CPC direct Ethernet connectivity for the external time source (ETS) In previous generation IBM Z, the ETS for the STP was provided by connecting the Support element to the client network. With IBM z16 the ETS, PTP (IEEE 1588) or NTP network connectivity is provided by using the IBM z16 CPC oscillator (OSC) cards dedicated network ports (RJ45) to client LAN for accessing the time synchronization information. Pulse-per-second connectivity also is provided for the highest timing information accuracy. Connection of the ETS direct to the IBM Z CPC provides less delay in accessing the time source that connection through the Support Element. \u0002 n-mode Power STP Imminent Disruption Signal option On IBM Z, losing a Preferred Time Server (PTS) has significant consequences to the timing network and the overall workload execution environment of the IBM Z sysplex. The IBM Z and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.079822",
+    "chunk_number": 1021,
+    "word_count": 159
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "changes that are being made for a new system, or a system upgrade, and what the target configuration looks like. \u0002 Hardware configuration definition (HCD) HCD supplies an interactive dialog to generate the IODF, and later the IOCDS. Generally, use HCD or Hardware Configuration Manager (HCM) to generate the I/O configuration rather than writing I/O configuration program (IOCP) statements. The validation checking that HCD runs against a IODF source file helps minimize the risk of errors before an I/O configuration is activated. HCD support for multiple channel subsystems is available with z/VM and z/OS. HCD provides the capability to make dynamic hardware and software I/O configuration changes. Consult the appropriate fix categories: \u2013 IBM z16 A02 and IBM z16 AGZ A01: IBM.Device.Server.IBM z16 A02 and IBM z16 AGZ -3931 \u2013 IBM z16 A02 and IBM z16 AGZ: IBM.Device.Server.IBMz16A02-3932.* \u2013 IBM z15 T01: IBM.Device.Server.IBM z15-8561 \u2013 IBM z15 T02: IBM.Device.Server.IBM z15-8562 \u2013 IBM z14",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.123201",
+    "chunk_number": 490,
+    "word_count": 153
+  }
+}

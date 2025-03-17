@@ -1,0 +1,18 @@
+{
+  "content": "planning, see the home pages for the following operating systems: \u0002 z/OS \u0002 z/VM \u0002 21CS VSEn \u0002 z/TPF \u0002 Linux on IBM Z \u0002 KVM for IBM Z \u00a9 Copyright IBM Corp. 2023. All rights reserved. 319 Chapter 8. System upgrades This chapter provides an overview of the IBM Z upgrade process and how, in many cases, customers can manage capacity upgrades by using online tools and automation. The chapter also includes a detailed description of capacity on demand (CoD) offerings available on the IBM z16 A02 and IBM z16 AGZ. IBM z16 A02 and IBM z16 AGZ support dynamic provisioning features to give clients exceptional flexibility and control over system capacity and costs. A key resource for managing client IBM Z is the IBM Resource Link website. Once registered, a client can view product information by clicking Resource Link \u2192 Client Initiated Upgrade Information, and selecting Education. Select your particular product from the list of available systems. This chapter includes the following topics: \u0002 8.1,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.308212",
+    "chunk_number": 796,
+    "word_count": 167
+  }
+}

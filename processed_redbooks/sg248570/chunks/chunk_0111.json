@@ -1,0 +1,18 @@
+{
+  "content": "process is complete, you can confirm success by verifying the presence of both data files and their corresponding metadata files within the IBM watsonx.data catalog's associated bucket. 3.5 Data pipeline considerations for open lakehouse IBM StreamSets infuses intelligent apps with the power of streaming data, and data that is streamed intelligently. StreamSets provides real-time data ingestion at scale so that you can deploy reliable, smart streaming data pipelines across hybrid cloud environments at scale. StreamSets pipelines stream structured, semi-structured, and unstructured data from any source. StreamSets also automatically detects changes in data structures and schemas and sends alerts about them, so you can seamlessly adapt to changing business requirements with zero downtime. These intelligent data pipelines also adapt to unexpected data structural shifts with drag-and-drop, pre-built processors to automatically identify and adapt to data drift. The net effect is to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.769437",
+    "chunk_number": 111,
+    "word_count": 140
+  }
+}

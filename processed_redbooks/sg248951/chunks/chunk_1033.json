@@ -1,0 +1,18 @@
+{
+  "content": "HMC offers the following symmetric key and autokey authentication and NTP commands: \u0002 Symmetric key (NTP V3-V4) authentication Symmetric key authentication is described in RFC 1305, which was made available in NTP Version 3. Symmetric key encryption uses the same key for encryption and decryption. Users that are exchanging data keep this key to themselves. Messages that are encrypted with a secret key can be decrypted only with the same secret key. Symmetric key authentication supports network address translation (NAT). \u0002 Symmetric key autokey (NTP V4) authentication This autokey uses public key cryptography, as described in RFC 5906, which was made available in NTP Version 4. You can generate keys for the HMC NTP by clicking Generate Local Host Key in the Autokey Configuration window. This option issues the ntp-keygen command to generate the specific key and certificate for this system. Autokey authentication is not available with the NAT firewall. \u0002 Issue NTP commands NTP command",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.116267",
+    "chunk_number": 1033,
+    "word_count": 156
+  }
+}

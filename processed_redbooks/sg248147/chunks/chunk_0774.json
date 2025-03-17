@@ -1,0 +1,18 @@
+{
+  "content": "POOL. Working around this central configuration can easily result in errors in the future. To create a list of all available space within the different minidisk regions, run the following command: ===> dirmaint FREEXT When you follow the basic label syntax that was introduced, you can see the volumes that are planned for a specific purpose, even in the resulting report. The report is sent to the reader. The procedure to receive the files was explained earlier in this chapter. The resulting file looks similar to the following example: * * * Top of File * * * VOLUME DEVTYPE -------------- FREE EXTENTS --------------- VV155B 3390-09 START= 5959 AVAIL= 500 VV155B 3390-09 START= 6959 AVAIL= 3058 VV155F 3390-09 START= 3351 AVAIL= 6666 VV156A 3390-09 START= 14 AVAIL= 189 VV156A 3390-09 START= 855 AVAIL= 9162 VV1222 3390-03 START= 1 AVAIL= 3338 Multiple \u201choles\u201d are within single volumes. An entry for each of these holes is in the report. To add the volume VV1222 as a full-pack minidisk to the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.229153",
+    "chunk_number": 774,
+    "word_count": 168
+  }
+}

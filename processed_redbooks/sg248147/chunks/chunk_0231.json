@@ -1,0 +1,18 @@
+{
+  "content": "therefore, securing z/VM traffic might seem to be superfluous. However, it is important to ensure that administrator access and other connections to z/VM are protected from accidental or malicious interception. TN3270 is the main access method to a z/VM system. Because it is based on the Telnet protocol, it provides no security by default. Therefore, passwords and other information can be retrieved from an intercepted network session. Such an exposure might occur for entirely innocent reasons. At some point, your organization\u2019s network team might be conducting problem identification on the network. As a result, they might be required to capture network traffic. During that traffic capture, you happen to log on to your z/VM system, so your z/VM login details are captured. Then, that capture data might be sent to your organization\u2019s network hardware vendor or other external organization for analysis, including your z/VM credentials. Despite being an EBCDIC data flow, a login by using",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.071905",
+    "chunk_number": 231,
+    "word_count": 155
+  }
+}

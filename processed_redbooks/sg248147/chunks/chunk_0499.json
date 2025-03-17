@@ -1,0 +1,18 @@
+{
+  "content": "password. It will not be shown. To exit DVHPWC1362R without changing your password, just press ENTER. // Type your new password and press Enter. Nothing shows up on the window. DVHPWC1364R Enter your new password again, for typographical DVHPWC1364R verification. It will not be shown. To exit without DVHPWC1364R changing your password, just press ENTER. // Retype your new password and press Enter. Nothing shows up on the window. DVHXMT1191I Your PW request has been sent for processing to DIRMAINT ... Ready; DVHREQ2288I Your PW request for EDIALVEES at * has been accepted. DVHREQ2289I Your PW request for EDIALVES at * has completed; with RC = 0. 5. Log on as one of the privileged z/VM IDs by using your ID and by entering the command that is shown in Figure 6-12 on page 220. Then, press the Enter key. Completing the USERID and PASSWORD fields will not work, you must go immediately to the COMMAND field. 220 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Figure 6-12 Log on by using LOGONBY",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.145510",
+    "chunk_number": 499,
+    "word_count": 172
+  }
+}

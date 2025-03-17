@@ -1,0 +1,18 @@
+{
+  "content": "The automated process does not perform the redundancy check for you. If you are unsure about adapter redundancy, we recommend toggling each adapter manually off/on. 418 IBM z16 (3931) Technical Guide Figure 10-12 Crypto and OSA adapters concurrent firmware update results \u0002 Default HMC and SE users security changes With IBM z16, default users ADVANCED, OPERATOR, STORAGEADMIN, and SYSPROG no longer are preinstalled on the new shipped HMCs and SEs. Default user roles for ADVANCED, OPERATOR, STORAGEADMIN, and SYSPROG are shipped and the corresponding user IDs can be created from those roles. Any default user ID that was part of a previous HMC can be carried forward to the new HMCs as part of a MES upgrade or by using the tasks User Profile Data for the Save/Restore Customizable Console Data or Configure Data Replication. At first log-on, the default password for the ACSADMIN and SERVICE user must be changed. \u0002 Report a Problem update If your IBM Z encounters a hardware or microcode",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.901643",
+    "chunk_number": 976,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "distances up to 100 kilometers to be run in a single round trip to the control unit. This improvement avoids elongating the I/O service time for these write operations at extended distances. Read Diagnostic Parameter Extended Link Service support To improve the accuracy of identifying a failed component without unnecessarily replacing components in a SAN fabric, a new Extended Link Service (ELS) command called Read Diagnostic Parameters (RDP) was added to the Fibre Channel T11 standard to allow IBM Z to obtain extra diagnostic data from the SFP optics that are throughout the SAN fabric. IBM z14 and newer IBM Z can read this extra diagnostic data for all the ports that are accessed in the I/O configuration and make the data available to an LPAR. For z/OS LPARs that use FICON channels, z/OS displays the data with a new message and display command. For Linux on IBM Z, z/VM, z/VSE9, 21CS VSEn, and LPARs that use FCP channels, this diagnostic data is available in a new window in the SAN",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.791303",
+    "chunk_number": 403,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Supply Units (PSUs) that provide power to the CPC drawer. The loss of one power supply leaves enough power to satisfy the drawer\u2019s power requirements (N+1 redundancy). The power supplies can be concurrently removed and replaced individually. \u2013 5x 12v distribution point-of-load (POL) that plug in slots that divide the memory banks. \u2013 3x Voltage Regulator Modules that plug outside of the memory DIMMs. \u2013 Two Processor Power Control cards to control the five CPC fans at the front of the CPC drawer, and contain the ambient temperature sensors. \u0002 Six SMP9 connectors (three pairs for redundancy) that provide the CPC drawer to CPC drawer SMP/NUMA communication. The front view of the CPC drawer, which includes the cooling fans, BMC/OSC and processor power cards (PPC), is shown in Figure 2-7. Figure 2-7 Front view of the CPC drawer Chapter 2. Central processor complex hardware components 25 The rear view of a fully populated CPC Drawer is shown in Figure 2-8. Figure 2-8 Rear view of the CPC",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.591790",
+    "chunk_number": 115,
+    "word_count": 167
+  }
+}

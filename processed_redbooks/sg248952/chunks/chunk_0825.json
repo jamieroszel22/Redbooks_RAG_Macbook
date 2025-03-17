@@ -1,0 +1,18 @@
+{
+  "content": "activation time and resources. \u0002 CBU is a concurrent and temporary activation of more CPs, ICFs, zIIPs, and IFLs; or an increase of the model capacity identifier; or both. Time R2 R2 R2 R4 R2 R4 R2 R4 R3 R2 R4 R3 R2 R3 R1 R4 R2 R3 R1 R4 R2 R3 R1 R2 R3 R1 R2 R3 R2 R3 R3 R1 R3 R1 Record and associated authorization Activation and usage of dormant resources over time CPE OOCoD CBU CBU OOCoD OOCoD OOCoD OOCoD OOCoD CPE CPE CBU CBU CBU CBU CBU CBU Chapter 8. System upgrades 331 On/Off CoD is the correct method to use for workload management. A CBU activation can last up to 90 days when a disaster or recovery situation occurs. CBU features are optional, and require unused capacity to be available on installed CPC drawers of the backup system. They can be available as unused PUs, an increase in the model capacity identifier, or both. A CBU contract must be in place before the special code that enables this capability can be loaded on the system. The standard CBU contract provides for five",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.402027",
+    "chunk_number": 825,
+    "word_count": 188
+  }
+}

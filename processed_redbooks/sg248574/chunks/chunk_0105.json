@@ -1,0 +1,18 @@
+{
+  "content": "shows the watsonx cloud services connections window. Chapter 4. Building and using artificial intelligence models 37 Figure 4-24 watsonx cloud services connections At the time of publication, here are the repositories and services that are supported: \u0002 Amazon Redshift \u0002 Amazon S3 \u0002 Apache Cassandra \u0002 Apache Derby \u0002 Apache HDFS \u0002 Apache Hive \u0002 Apache Impala \u0002 Apache Kafka \u0002 Box \u0002 DataStax Enterprise \u0002 Denodo \u0002 Dremio \u0002 Dropbox \u0002 Elasticsearch \u0002 Google BigQuery \u0002 Google Cloud Pub/Sub \u0002 Google Cloud Storage \u0002 Google Locker \u0002 Greenplum Database \u0002 IBM Cloud Data Engine \u0002 IBM Cloud Object Storage \u0002 IBM Cloudant\u00ae \u0002 IBM Cognos\u00ae Analytics \u0002 IBM Data Virtualization Manager for IBM z/OS\u00ae \u0002 IBM DataStage\u00ae for Cloud Pak for Data \u0002 IBM Db2\u00ae \u0002 IBM Informix\u00ae \u0002 IBM InfoSphere\u00ae DataStage \u0002 IBM Match 360 \u0002 IBM MQ \u0002 IBM Netezza\u00ae Performance Server \u0002 IBM Planning Analytics \u0002 IBM watsonx.data \u0002 MariaDB \u0002 Microsoft Azure Blob Storage \u0002 Microsoft Azure Cosmos DB \u0002 Microsoft Azure Data Lake Storage 38",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.545115",
+    "chunk_number": 105,
+    "word_count": 171
+  }
+}

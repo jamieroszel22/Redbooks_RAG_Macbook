@@ -1,0 +1,18 @@
+{
+  "content": "SR 1 1 48 48 Yes OSD OSA-Express7S 10 GbE LR/SR 1 1 48 48 Yes OSD 162 IBM z16 (3931) Technical Guide At least one I/O feature (FICON) or one coupling link feature (ICA SR or CE LR) must be present in the minimum configuration. The following features can be shared and spanned: \u0002 FICON channels that are defined as FC or FCP \u0002 OSA-Express features that are defined as OSC, OSD, or OSE \u0002 Coupling links that are defined as CS5 or CL5 \u0002 HiperSockets that are defined as IQD OSA-Express7S GbE LR/SR 1 1 48 48 Yes OSC, OSD OSA-Express7S 1000BASE-T 2 2 96 48 Yes OSC, OSD, OSE OSA-Express6S 10 GbE LR/SR 1 1 48 48 Yes OSD OSA-Express6S GbE LX/SX 2 2 96 48 Yes OSD OSA-Express6S 1000BASE-T 2 2 96 48 Yes OSC, OSD, OSE RoCE Express features 25 GbE RoCE Express3 2 2 32 16 Yes N/A 10 GbE RoCE Express3 2 2 32 16 Yes N/A 25 GbE RoCE Express2.1 2 2 32 16 Yes N/A 10 GbE RoCE Express2.1 2 2 32 16 Yes N/A 25 GbE RoCE Express2 2 2 8 4 Yes N/Ac 10 GbE RoCE Express2 2 2 8 4 Yes N/Ac Coupling features Coupling",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.791090",
+    "chunk_number": 397,
+    "word_count": 207
+  }
+}

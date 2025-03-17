@@ -1,0 +1,18 @@
+{
+  "content": "instruction-level parallelism (ILP) for a better cycles per instruction (CPI) design. \u0002 Maximized performance per watt. \u0002 Enhanced instruction dispatch and grouping efficiency. \u0002 Increased Out-of-Order) resources, such as Global Completion Table entries, physical GPR entries, and physical FPR entries. \u0002 Improved completion rate. \u0002 Reduced cache/TLB miss penalty. \u0002 Improved execution of D-Cache store and reload and new Fixed-point divide. \u0002 New Operand Store Compare (OSC) (load-hit-store conflict) avoidance scheme. \u0002 Enhanced branch prediction structure and sequential instruction fetching. Program results The Out-of-Order execution does not change any program results. Execution can occur out of (program) order, but all program dependencies are accepted, and the same results are seen as in-order (program) execution. The design was optimized by increasing the Global Completion Table (GCT) from 48x3 to 60x3, which increased the issue queue size from 2x30 to 2x36 and designed a new Mapper.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.050502",
+    "chunk_number": 219,
+    "word_count": 144
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "information, see 6.4.2, \u201cCPACF protected key\u201d on page 213. The CPACF feature provides hardware acceleration for the following cryptographic services: \u0002 Symmetric ciphers \u2013 DES \u2013 Triple-DES \u2013 AES-128 \u2013 AES-192 \u2013 AES-256 (all for clear and protected keys) \u0002 Elliptic curves cryptography (ECC) \u2013 ECDSA, ECDH, support for the NIST P256, NIST P386, NIST P521 \u2013 EdDSA for Ed25519, Ed448 Curves \u2013 ECDH for X25519, X448 Curves 212 IBM z16 A02 and IBM z16 AGZ Technical Guide \u2013 Key generation for NIST, Ed and X curves \u0002 Hashes/MACs \u2013 SHA-1 \u2013 SHA-224 (SHA-2 or SHA-3 standard) \u2013 SHA-256 (SHA-2 or SHA-3 standard) \u2013 SHA-384 (SHA-2 or SHA-3 standard) \u2013 SHA-512 (SHA-2 or SHA-3 standard) \u2013 SHAKE-128 \u2013 SHAKE-256 \u2013 GHASH \u0002 Random number generator \u2013 PRNG (3DES based) \u2013 DRNG (NIST SP-800-90A SHA-512 based) \u2013 TRNG (true random number generator It provides high-performance hardware encryption, decryption, hashing, and random number generation support. The following instructions support the cryptographic assist",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.240809",
+    "chunk_number": 521,
+    "word_count": 160
+  }
+}

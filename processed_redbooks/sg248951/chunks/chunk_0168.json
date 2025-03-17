@@ -1,0 +1,18 @@
+{
+  "content": "become unavailable. Chapter 2. Central processor complex hardware components 55 2.8 Model configurations When an IBM z16 is ordered, the PUs are characterized according to their intended usage. The PUs can be ordered as any of the following items: CP The processor is purchased and activated. PU supports running the z/OS, z/VSE, z/VM, z/TPF, and Linux on IBM Z7 operating systems. It also can run Coupling Facility Control Code. IFL The Integrated Facility for Linux (IFL) is a processor that is purchased and activated for use by z/VM for Linux guests and Linux on IBM Z7 operating systems. Unassigned IFL A processor that is purchased for future use as an IFL. It is offline and cannot be used until an upgrade for the IFL is installed. It does not affect software licenses or maintenance charges. ICF An internal coupling facility (ICF) processor that is purchased and activated for use by the Coupling Facility Control Code. Unassigned ICF A processor that is purchased for future use as an",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.842938",
+    "chunk_number": 168,
+    "word_count": 167
+  }
+}

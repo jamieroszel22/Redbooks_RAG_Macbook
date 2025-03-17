@@ -1,0 +1,18 @@
+{
+  "content": "the active IOCDS of the IBM Z. CPC drawer repair: The HSA can be moved from one CPC drawer to the additional CPC drawer, if available, in an enhanced availability configuration as part of a concurrent CPC drawer repair (CDR) action (available only on Max68 feature). Note: The phrase channel subsystem has same meaning as logical channel subsystem in this section, unless otherwise stated. 190 IBM z16 A02 and IBM z16 AGZ Technical Guide A subchannel set (SS) is a collection of subchannels within a channel subsystem. The maximum number of subchannels of a subchannel set determines how many devices are accessible to a channel subsystem. In z/Architecture, the first subchannel set of an LCSS can have 63.75 K subchannels (with 0.25 K reserved), with a subchannel set ID (SSID) of 0. By enabling the multiple subchannel sets, extra subchannel sets are available to increase the device addressability of a channel subsystem. For more information about multiple subchannel sets, see 5.1.2, \u201cMultiple",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.073686",
+    "chunk_number": 476,
+    "word_count": 162
+  }
+}

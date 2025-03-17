@@ -1,0 +1,18 @@
+{
+  "content": "32 processor tiles with 8-way FP-16/FP-32 SIMD, which are optimized for activation functions and complex functions. The AI accelerator is shared by all cores on the chip. The firmware, running on the cores and accelerator, orchestrates and synchronizes the execution on the accelerator. Using IBM Integrated AI Accelerator in your enterprise Figure 3-16 on page 95 shows the software ecosystem and high-level integration of the AI accelerator into enterprise AI/Machine Learning solution stack. Great flexibility and interoperability are available for training and building models. Chapter 3. Central processor complex design 95 Figure 3-16 Software ecosystem for the AI accelerator Acknowledging the diverse AI training frameworks, customers can train their models on platforms of their choice, (including IBM Z on-premises and in hybrid cloud) and then, deploy it efficiently on IBM Z in collocation with the transactional workloads. No other development effort is needed to enable this strategy.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.156239",
+    "chunk_number": 248,
+    "word_count": 147
+  }
+}

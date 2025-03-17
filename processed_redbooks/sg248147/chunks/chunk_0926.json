@@ -1,0 +1,18 @@
+{
+  "content": "enabled on partner Uplink Port Connection: MAC address: 02-00-00-00-00-0C RX Packets: 0 Discarded: 3 Errors: 1 TX Packets: 66 Discarded: 0 Errors: 0 RX Bytes: 0 TX Bytes: 8184 Device: 0603 Unit: 000 Role: DATA Port: 2050 Partner Switch Capabilities: No_Reflective_Relay Ready; T=0.01/0.01 02:03:37 The port group GLBLGRP was defined with LACP, and the VSwitch VSWGLBL was then defined by using the group. The error reason \u201cLACP not enabled on partner\u201d is shown against both of the OSA ports in the group. Only an exclusive-mode port group can operate without LACP, and in that configuration, traffic for the group is distributed between the ports in the group without being managed by a control protocol. Depending on the operating characteristics of the network switch, this configuration might result in traffic not being handled optimally. Some modern network equipment can operate poorly and even experience traffic loss when traffic appears across different ports unexpectedly. Red Hat",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.721520",
+    "chunk_number": 926,
+    "word_count": 154
+  }
+}

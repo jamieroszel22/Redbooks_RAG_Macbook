@@ -1,0 +1,18 @@
+{
+  "content": "Management Appliance (HMA) . . . . . . . . . . . . . . . . . . . . . . . . . . . . 405 10.2.3 HMC and SE servers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 407 10.2.4 USB support for HMC and SE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 409 10.2.5 SE Driver/Version support with the HMC Driver 51/Version 2.16.0 . . . . . . . . . 409 10.3 HMC and SE connectivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 410 10.3.1 Hardware Management Appliance (HMA) HMC/SE connectivity . . . . . . . . . . . 411 10.3.2 Legacy standalone HMC connectivity. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 411 10.3.3 Network planning for the HMC, SE, and ETS . . . . . . . . . . . . . . . . . . . . . . . . . . 412 10.3.4 Hardware considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 414 10.3.5 TCP/IP Version 6 on the HMC and SE . .",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.270753",
+    "chunk_number": 36,
+    "word_count": 346
+  }
+}

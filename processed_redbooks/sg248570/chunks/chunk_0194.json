@@ -1,0 +1,18 @@
+{
+  "content": "Knowledge Catalog (IKC) integration: IBM watsonx.data integrates seamlessly with IKC, enabling a centralized catalog across your entire data ecosystem. This promotes consistency and simplifies data discovery. 6.3, \u201cIntegration with IBM Knowledge Catalog (IKC)\u201d on page 90 discusses this integration in depth. Chapter 6. Establishing data governance 89 \u0002 Standardize data organization: Implement a consistent naming convention and classification system for data assets within the catalog. This improves searchability and understanding for all users. \u0002 Utilize business glossaries: Define clear and concise business terms within the catalog to ensure everyone interprets data attributes the same way. 6.2.2 Metadata management The following are best practices for metadata management: \u0002 Adopt a metadata governance strategy: Define clear ownership and responsibilities for capturing, validating, and maintaining metadata. This ensures its accuracy and consistency. \u0002 Automate metadata capture: Utilize",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.090700",
+    "chunk_number": 194,
+    "word_count": 134
+  }
+}

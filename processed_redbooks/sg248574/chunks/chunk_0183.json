@@ -1,0 +1,18 @@
+{
+  "content": "prompt templates that it uses. There is a plan to expand compatibility in the future, and on watsonx.ai (as described in Chapter 6, \u201cArtificial intelligence agents\u201d on page 87). To start generation, run the following command: ilab data generate [--pipeline full --gpus <NUM_OF_GPUS> --model <MODEL_PATH> Optionally, you can start SDG by using GPUs when they are available. You can specify the teacher model that is used (the default one for the ilab CLI is Merlinte-7B). After generation finished, the synthetic dataset consists of two files in the ~/.local/share/instructlab/datasets directory: \u0002 skills_train_msgs_*.jsonl \u0002 knowledge_train_msgs_*.jsonl You can run the generate step against a different model through a compatible API, such as the one that is created by the ilab model serve or any remote or locally hosted LLM (through ollama, LM Studio, or others). Run the following command: ilab data generate --endpoint-url http://localhost:8000/v1 Now that the curated dataset for a",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.925102",
+    "chunk_number": 183,
+    "word_count": 148
+  }
+}

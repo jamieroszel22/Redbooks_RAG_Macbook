@@ -1,0 +1,18 @@
+{
+  "content": "possible to access the disk while the file pool server is running. You can wait for a time when the file pool is not in use, and make the changes by logging on to the VMSERVP SVM and stopping the file pool server. We chose to log out of the file pool server by using SIGNAL SHUTDOWN, and then, connected to the 191 disk by using VMLINK VMSERVP 191 (WRITE FILEL. From the resulting FILELIST window, we edited VMPSFS DMSPARMS to make the required change. After we exited FILE List, we then logged on the server by using XAUTOLOG VMSERVP. Note: For more information about working with file pool servers, see z/VM Version 7 Release 2 CMS File Pool Planning, Administration, and Operation, SC24-6261. Note: We found that the DIRMAINT operation was affected by directory update operations on the VMSERVP ID. At first, we used the DIRM AMDISK command to add the first of the two minidisks to VMSERVP, but DirMaint became unresponsive after that and we had to recycle the DIRMAINT SVM to add the second",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.609997",
+    "chunk_number": 612,
+    "word_count": 177
+  }
+}

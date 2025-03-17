@@ -1,0 +1,18 @@
+{
+  "content": "Provisioning Manager is customized The Capacity Provisioning Manager Console is provided as part of z/OSMF, which provides a browser-based interface for managing z/OS systems. Customizing the capacity provisioning function is required on the following systems: \u0002 Observed z/OS systems These systems are in one or multiple sysplexes that are to be monitored. For more information about the capacity provisioning domain, see 8.12, \u201cPlanning for nondisruptive upgrades\u201d on page 372. \u0002 Runtime systems These are systems where the Capacity Provisioning Manager is running, or to which the server can fail over after a system failure. 8.6.3 Ordering Concurrently installing temporary capacity by ordering On/Off CoD is possible in the following manner: \u0002 CP features equal to the MSU capacity of installed CPs \u0002 IFL features up to the number of installed IFLs \u0002 ICF features up to the number of installed ICFs \u0002 zIIP features up to the number of installed zIIPs \u0002 SAPs: Up to eight 354 IBM z16 (3931)",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.493314",
+    "chunk_number": 848,
+    "word_count": 160
+  }
+}

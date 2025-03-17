@@ -1,0 +1,18 @@
+{
+  "content": "Stakeholder Review stage. \u0002 Stakeholder Review: At this stage, the stakeholders identified in the Use Case Data Gathering stage are notified to review the use case details, provide comments and approve or reject the use case for development. The use case cannot be approved unless all stakeholders have provided approval. Once all stakeholders have approved the use case, it is placed in \u201cApproved for development\u201d status. The owner and technical owner of the use case are automatically notified when the use case has been approved for development. 5.3 Risk identification assessment As part of the Initial Approval stage of the use case assessment workflow, the use case owner or risk assessor completes a risk identification assessment created by an assessment workflow in the watsonx governance console, as seen in Figure 5-3. Figure 5-3 Risk Identification Workflow as seen in the watsonx.governance console A risk identification assessment is a dynamic questionnaire that identifies applicable",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.049527",
+    "chunk_number": 161,
+    "word_count": 153
+  }
+}

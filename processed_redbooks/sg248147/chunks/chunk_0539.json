@@ -1,0 +1,18 @@
+{
+  "content": "designated as the target for this SFS server\u2019s minidisks in 2.13.5, \u201cz/VM DASD\u201d on page 67. That volume is VM156A in our environment. MDISK 0191 is too small to run the backup later. Increase MDISK 0191 to at least 10 cylinders. (More cylinders might be required during normal operation.) Example 6-33 Sample directory entry for a new SFS server machine USER LNXSERV1 LBYONLY 64M 128M BG INCLUDE IBMDFLT LOGONBY AUTOLOG1 BG FMIRANDA KWERNER PARZIALE PWNOVAK SPIEDIE ACCOUNT 1 LNXMAINT IPL CMS IUCV ALLOW IUCV *IDENT RESANY GLOBAL MACH XC OPTION MAXCONN 2000 NOMDCFS APPLMON ACCT QUICKDSP SVMSTAT POSIXOPT SETIDS ALLOW SHARE RELATIVE 1500 XCONFIG ADDRSPACE MAXNUMBER 100 TOTSIZE 8192G SHARE XCONFIG ACCESSLIST ALSIZE 1022 CONSOLE 0009 3215 T OPERATOR LINK MAINT 0190 0190 RR LINK MAINT 0193 0193 RR LINK MAINT 019D 019D RR MDISK 0091 3390 0001 0001 VM156A RR MDISK 0191 3390 0202 0001 VM156A MR MDISK 0192 3390 0203 0100 VM156A MR MDISK 0301 3390 0303 0009 VM156A WR MINIOPT NOMDC MDISK 0302 3390",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.305172",
+    "chunk_number": 539,
+    "word_count": 167
+  }
+}

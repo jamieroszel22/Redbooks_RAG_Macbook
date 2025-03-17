@@ -1,0 +1,18 @@
+{
+  "content": "after the campaign. By combining these data sets, the executive can identify trends, such as which products performed well during the promotion, whether customer satisfaction improved, and how effectively inventory was managed. These insights inform strategic decisions for future campaigns, such as product selection, pricing strategies, and marketing approaches. Retail data is often diverse, encompassing structured formats (for example, relational databases with sales records), semi-structured formats (for example, JSON logs from e-commerce platforms), and unstructured formats (for example, customer reviews or social media posts). IBM watsonx.data is designed to handle this heterogeneity. For example, it can catalog structured sales data alongside unstructured customer feed-back. By indexing these data sets by using enriched metadata, IBM watsonx.data helps ensure that users can find and use both types of data in their analyses. Furthermore, it supports integrations with external",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.161095",
+    "chunk_number": 214,
+    "word_count": 136
+  }
+}

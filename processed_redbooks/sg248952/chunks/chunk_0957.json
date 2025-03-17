@@ -1,0 +1,18 @@
+{
+  "content": "from the drop-down menu that appears when you click your user ID on the upper right corner. For more information, see Resource Link (https://www.ibm.com/servers/resourcelink), select Library, the applicable server, then select either HMC Version 2.16.0 help file content or SE Version 2.16.0 help file content. 394 IBM z16 A02 and IBM z16 AGZ Technical Guide 10.1 Introduction and overview The HMC runs a set of management applications. On IBM z16 A02 and IBM z16 AGZ two HMCs will be delivered with the Hardware Management Appliance (HMA) feature FC 0129. The HMC code runs on the two 1U rack-mounted servers in the frame. The HMC is a closed system (appliance), which means that no other applications can be installed on it. The new Driver level for HMC and SE for IBM z16 A02 and IBM z16 AGZ is Driver 51. Driver 51 is equivalent to Version 2.16.0. Stand-alone, outside the IBM z16 A02 and IBM z16 AGZ HMCs (tower or AGZ) can no longer be ordered for new build systems. The following HMC feature",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.856084",
+    "chunk_number": 957,
+    "word_count": 173
+  }
+}

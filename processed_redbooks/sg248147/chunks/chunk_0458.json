@@ -1,0 +1,18 @@
+{
+  "content": "at specific columns. You must keep entries in their correct columns and keep characters in mixed case, as shown in Example 6-17. Example 6-17 New routing table entries for PROP *------------------------ --- --- -- -------- -------- -------- -------- * NOTIFY LOGICAL OPERATOR IF LINUX ABENDS *------------------------ --- --- -- -------- -------- -------- -------- /OOPS/ 8 DMSPOS LGLOPR $DISABLED 8 DMSPOS LGLOPR $PSW$ 8 DMSPOS LGLOPR $psw$ 8 DMSPOS LGLOPR $disconnected/ 8 DMSPOS LGLOPR /HCP$ 8 DMSPOS LGLOPR $FAILURE/ 8 DMSPOS LGLOPR $failed/ 8 DMSPOS LGLOPR $Failed/ 8 DMSPOS LGLOPR $No such/ 8 DMSPOS LGLOPR $ERROR/ 8 DMSPOS LGLOPR $error/ 8 DMSPOS LGLOPR $_MACHINE$ 8 DMSPOS LGLOPR $cannot open/ 8 DMSPOS LGLOPR *------------------------ --- --- -- -------- -------- -------- -------- * DON'T WORRY ABOUT ANY OTHER SCIF OUTPUT FROM MONITORED USERS *------------------------ --- --- -- -------- -------- -------- -------- 200 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 8",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.995113",
+    "chunk_number": 458,
+    "word_count": 147
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "frames) \u0002 Choice of power Intelligent Power Distribution Unit (iPDU or PDU) or Bulk Power Assembly (BPA) \u0002 Feature codes that reserve slots for plan-ahead CPC drawers \u0002 Internal water cooling plumbing for systems with more than three CPC drawers (Frames A and B) \u0002 PCIe+ Gen3 I/O drawers (19-inch format) supporting 16 PCIe adapters The power options include PDU-based power or BPA-based power. The IBM z16 A01 system is designed as a radiator (air) cooled system. The IBM z16 A01 includes the following basic hardware building blocks: \u0002 19-inch 42u frame (1 - 4) \u0002 CPC (Processor) drawers (1 - 4) \u0002 PCIe+ Gen3 I/O drawers (up to 12) \u0002 Radiator cooling assembly (RCA) for CPC drawers cooling \u0002 Power, with choice of: \u2013 Intelligent Power Distribution Units (iPDU) pairs (2 - 4 per frame, maximum 8, depending on the configuration). \u2013 Bulk Power Regulators (1 - 6 pairs, depending on the configuration) \u0002 Support Elements combined with optional Hardware Management Appliance (two): \u2013 Single Keyboard,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.541563",
+    "chunk_number": 104,
+    "word_count": 167
+  }
+}

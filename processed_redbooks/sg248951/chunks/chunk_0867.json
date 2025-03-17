@@ -1,0 +1,18 @@
+{
+  "content": "deactivation of capacity must begin. \u0002 A workload condition is which work qualifies for provisioning. It can have the following parameters: \u2013 The z/OS systems that can run eligible work. \u2013 The importance filter indicates eligible service class periods, which are identified by WLM importance. \u2013 Performance Index (PI) criteria: \u2022 Activation threshold: PI of service class periods must exceed the activation threshold for a specified duration before the work is considered to be suffering. \u2022 Deactivation threshold: PI of service class periods must fall below the deactivation threshold for a specified duration before the work is considered to no longer be suffering. \u2013 Included service classes are eligible service class periods. \u2013 Excluded service classes are service class periods that must not be considered. \u0002 Provisioning scope is how much more capacity can be activated and is expressed in MSUs. The number of zIIPs must be one specification per CPC that is part of the CPD and are specified",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.551787",
+    "chunk_number": 867,
+    "word_count": 160
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "For example, you can execute FORCE TCPIP and log on to TCP/IP interactively and watch for error messages. Note: If RACF is enabled on your system, invoke the following commands: RAC PERMIT SYSTEM.vsw1 CLASS(VMLAN) ID(tcpip) ACCESS(UPDATE) RAC SETROPTS CLASSACT(VMLAN) 184 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 8. Verify that TCP/IP is attached with the QUERY VSWITCH with DETAILS command: ===> query vswitch vsw1 details VSWITCH SYSTEM VSW1 Type: QDIO Connected: 1 Maxconn: INFINITE PERSISTENT RESTRICTED ETHERNET Accounting: OFF USERBASED VLAN Unaware MAC address: 02-00-0A-00-00-01 MAC Protection: Unspecified IPTimeout: 5 QueueStorage: 8 Isolation Status: OFF VEPA Status: OFF Uplink Port: State: Ready PMTUD setting: EXTERNAL PMTUD value: 8992 RDEV: 2100.P00 VDEV: 0600 Controller: DTCVSW2 ACTIVE EQID: OSA1SET1 Uplink Port Connection: RX Packets: 45 Discarded: 0 Errors: 0 TX Packets: 82 Discarded: 0 Errors: 0 RX Bytes: 3330 TX Bytes: 12478 Device: 0600 Unit: 000 Role: DATA Port: 2049",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.868644",
+    "chunk_number": 425,
+    "word_count": 148
+  }
+}

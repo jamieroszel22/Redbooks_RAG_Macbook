@@ -1,0 +1,18 @@
+{
+  "content": "before the work is considered to be suffering. \u2022 Deactivation threshold: PI of service class periods must fall below the deactivation threshold for a specified duration before the work is considered to no longer be suffering. \u2013 Included service classes are eligible service class periods. \u2013 Excluded service classes are service class periods that must not be considered. \u0002 Provisioning scope is how much more capacity can be activated and is expressed in MSUs. The number of zIIPs must be one specification per CPC that is part of the CPD and are specified in MSUs. The maximum provisioning scope is the maximum extra capacity that can be activated for all the rules in the CPD. In the specified time interval, the provisioning rule is that up to the defined extra capacity can be activated if the specified workload is behind its objective. The rules and conditions are named and stored in the Capacity Provisioning Policy. For more information about z/OS Capacity Provisioning functions, see z/OS",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.556444",
+    "chunk_number": 866,
+    "word_count": 165
+  }
+}

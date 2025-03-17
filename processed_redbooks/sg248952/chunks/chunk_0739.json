@@ -1,0 +1,18 @@
+{
+  "content": "a port on the OSA-Express7S 1000BASE-T, OSA-Express7S GbE, OSA-Express6S 1000BASE-T, or OSA-Express5S 1000BASE-T. OSA-ICC can be configured on a PCHID-by-PCHID basis, and is supported at any of the feature settings. Each port can support up to 120 console session connections. To improve security of console operations and to provide a secure, validated connectivity, OSA-ICC supports Transport Layer Security/Secure Sockets Layer (TLS/SSL) with Certificate Authentication staring with IBM z13 GA2 (Driver level 27). OSA-ICC Enhancements With HMC 2.14.1 and newer the following enhancements are available: \u0002 The IPv6 communications protocol is supported by OSA-ICC 3270 so that clients can comply with regulations that require all computer purchases to support IPv6. \u0002 TLS negotiation levels (the supported TLS protocol levels) for the OSA-ICC 3270 client connection can now be specified: Note: Operating system support is required to recognize and use the second port on the OSA-Express6S",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.117235",
+    "chunk_number": 739,
+    "word_count": 144
+  }
+}

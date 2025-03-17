@@ -1,0 +1,18 @@
+{
+  "content": "enable organizations to tailor profiling strategies to meet their unique governance needs, which provide a flexible solution for diverse data environments. 7.4 Data cataloging: Building a comprehensive data catalog for findability The creation of a comprehensive data catalog in IBM watsonx.data is a multi-step process that involves careful planning, taxonomy development, and strategic organization of data sets. The catalog\u2019s architecture is designed to help ensure that data is discoverable and actionable. A key aspect is creating a clear taxonomy that aligns with organizational goals and the way that data is used across the business. This taxonomy defines the logical categories in which data sets are organized, which creates a hierarchical structure that enables users to quickly find and explore related data sets. To ensure that the catalog is dynamic and adaptable, IBM watsonx.data provides tools to define metadata standards that specify which attributes should be associated with",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.138983",
+    "chunk_number": 208,
+    "word_count": 147
+  }
+}

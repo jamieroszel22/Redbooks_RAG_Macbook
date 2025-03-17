@@ -1,0 +1,18 @@
+{
+  "content": "104 3390 0 END VOL005 MR For more information about HyperPAV in z/VM, see z/VM CP Planning and Administration, SC24-6178. 11.3 Network attachment options and considerations For more information about connectivity, see Chapter 2, \u201cPlanning\u201d on page 33. On IBM Z and LinuxONE systems, different networking methods are available, which are provided by the I/O subsystem that controls the LPARs, such as IBM PR/SM, or by the z/VM hypervisor. 11.3.1 z/VM virtual switch (VSWITCH) No special action is necessary to use the VSWITCH interfaces that are at the address triplet 0AD0, 0AD1, and 0AD2. The groundwork for the use of the VSWITCH interfaces was set up and configured as part of the shared user profiles. 11.3.2 Direct-attached Open Systems Adapter Linux uses the identical drivers to run a direct-attached Open Systems Adapter (OSA) that it uses to run VSWITCH interfaces. With a direct-attached OSA, you tradeoff lower TCO, high availability, and stall prevention for a possible faster network",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.266186",
+    "chunk_number": 784,
+    "word_count": 158
+  }
+}

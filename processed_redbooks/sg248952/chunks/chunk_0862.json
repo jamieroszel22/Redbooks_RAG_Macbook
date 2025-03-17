@@ -1,0 +1,18 @@
+{
+  "content": "The five days are based on the assumption that the consumption is constant for the five days. You must put operational procedures in place to handle these situations. You can deactivate the record manually, allow it occur automatically, or replenish the specified capacity token by using the Resource Link application. PR/SM z/OSMF Capacity Prov isioning Manager (CPM) RMF CIM server z/OS console(s) RMF DDS WLM RMF WLM CIM server HMC Ethernet Switch (SNMP) z/OS image z/OS image(s) Capacity Provisioning Management Console Provisioning Policy IBM z16 A02 348 IBM z16 A02 and IBM z16 AGZ Technical Guide The Capacity Provisioning Management Console (CPMC) is a console that administrators use to work with provisioning policies and domain configurations and to monitor the status of a Provisioning Manager. The management console is implemented by the Capacity Provisioning task in the IBM z/OS Management Facility (z/OSMF). z/OSMF provides a framework for managing various aspects of a z/OS system",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.545598",
+    "chunk_number": 862,
+    "word_count": 154
+  }
+}

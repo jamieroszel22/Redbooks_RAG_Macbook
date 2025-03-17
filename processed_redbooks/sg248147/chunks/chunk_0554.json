@@ -1,0 +1,18 @@
+{
+  "content": "D1 F 80 43 1 2013-12-17 21:52:19 SWPUMEC TEXT D1 V 80 47 1 2013-12-17 21:52:20 SWPUMED TEXT D1 V 80 47 1 2013-12-17 21:52:20 SWPUMEE TEXT D1 F 80 57 2 2013-12-17 21:52:20 SWPUMEF TEXT D1 V 80 47 1 2013-12-17 21:52:20 SWPUMEG TEXT D1 V 80 47 1 2013-12-17 21:52:20 SWPUMEJ TEXT D1 V 80 47 1 2013-12-17 21:52:20 You can also perform this task by using a special invocation of FILELIST that is used for working with SFS called DIRLIST: ===> DIRLIST D 5. Create ALIASes for the Linux virtual machines. Each Linux virtual machine will see what appears to be an individual copy of PROFILE EXEC in their SFS directory that is accessed as file mode A. In reality, it will be a read-only pointer back to LNX:LNXADMIN. PROFILE EXEC: ===> access lnx:linux1. G (forcerw ===> create alias profile exec D profile exec G ===> release G An abbreviated version is used for LINUX2: ===> access linux2. G (forcerw ===> create alias profile exec D profile exec G # release G 246 Virtualization Cookbook: Vol 1: IBM z/VM",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.361913",
+    "chunk_number": 554,
+    "word_count": 182
+  }
+}

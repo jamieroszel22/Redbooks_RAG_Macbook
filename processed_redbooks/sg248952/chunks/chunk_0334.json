@@ -1,0 +1,18 @@
+{
+  "content": "systems, see the PR/SM Planning Guide, SB10-7178, which is available at the IBM Resource Link website (log in required). 128 IBM z16 A02 and IBM z16 AGZ Technical Guide The following CFCC levels are supported in a Sysplex with IBM z16 A02 and IBM z16 AGZ: \u2013 CFCC Level 25, available on z16 (Driver level 51) \u2013 CFCC Level 24, available on z15 (Driver level 41) \u2013 CFCC Level 23, available on z14 (Driver level 36) For more information, see 7.4.3, \u201cCoupling and clustering features and functions\u201d on page 276. Only IBM CFCC can run in CF mode. \u0002 Linux only mode In Linux only mode, storage addressing can be 31 bit or 64 bit, depending on the operating system architecture and the operating system configuration. Only Linux and z/VM operating systems can run in Linux only mode. Linux on IBM Z 64-bit distributions (SUSE Linux Enterprise Server 12 SP5, SLES 15 SP4, Red Hat RHEL 7.9, RHEL 8.4, RHEL 9, Ubuntu 20.04.1 LTS and Ubuntu 22.04 LTS and later) use 64-bit addressing and operate in",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.526213",
+    "chunk_number": 334,
+    "word_count": 176
+  }
+}

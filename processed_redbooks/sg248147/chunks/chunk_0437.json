@@ -1,0 +1,18 @@
+{
+  "content": "It is a global (clustered) file pool, which is identified to CP as a global resource for SFS and z/VM Byte File System (BFS) functions. The items that are added to VMPSFS are a few small tools and utilities that will be accessed exclusively by z/VM system programmers and administrators. Do not add user data into this file pool. Instead, use VMSYSU, which is intended to hold user data. If you choose to add additional content to this SFS directory in the future, you must use caution to ensure that you do not fill up the only data storage group, group 2, beyond around 80%. You can check utilization with the TALLY command on the MAINT 193 minidisk. If the disk is not already accessed, use VMLINK: ===> VMLINK MAINT 193 ( INVOKE TALLY VMPSFS 190 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6.11.3 Using the CPFORMAT EXEC To use the CPFORMAT EXEC, complete the following steps: 1. Log in to MAINT on the first member. 2. Use the FILELIST command to list the files on the SFS directory that are",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.913021",
+    "chunk_number": 437,
+    "word_count": 181
+  }
+}

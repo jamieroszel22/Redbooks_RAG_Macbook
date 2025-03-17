@@ -1,0 +1,18 @@
+{
+  "content": "data over time to ensure consistent outcomes for the model. These evaluations can be used to identify changes in the model output, the accuracy of your predictions, the distribution of the input features, the metadata and more. The drift in the user deployments is always detected in comparison to a baseline data. This baseline data needs to be a good representation of the ideal dataset that the user is expecting in their deployment. It can be the training data used to train the predictive model, the test data used to validate the model, or even the past production data. As part of the monitor configuration process, certain computations are learned on the baseline data to learn the data patterns. These can vary from dividing data in frequency bins to learn the density functions of your input features (feature drift), to training auto-encoders to learn the context represented by the embeddings (embedding drift), training proxy/meta models to learn user model behavior (model quality",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.085332",
+    "chunk_number": 170,
+    "word_count": 162
+  }
+}

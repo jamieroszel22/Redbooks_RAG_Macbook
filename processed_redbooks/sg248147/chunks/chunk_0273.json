@@ -1,0 +1,18 @@
+{
+  "content": "book, we chose the Download to your workstation using IBM Download Director option \\ whenever it was available. Download Director is a multi-connection threaded applet that results in a much faster download than the basic HTTPS method. 106 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 You are presented with the list of files that correspond to the products that you want to download, as shown in Figure 5-4. Figure 5-4 Files that are associated with selected package downloads The window that is shown in Figure 5-5 opens. Figure 5-5 Downloads confirmation window Chapter 5. Installing z/VM 107 3. Click Download now to display the window that is shown in Figure 5-6. The options were selected because z/VM 7.2 is installed onto 3390 DASD. The 1.9 GB of data was downloaded relatively quickly because of multiple connections that are opened by using IBM Download Director. Figure 5-6 Selecting products to download In our example environment, all of the items that were downloaded from the Shop Z",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.230658",
+    "chunk_number": 273,
+    "word_count": 165
+  }
+}

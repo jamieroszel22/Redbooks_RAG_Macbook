@@ -1,0 +1,18 @@
+{
+  "content": "from the planning worksheet. In this example, 02000A and 02000B are used. \u2013 The VMLAN LIMIT TRANSIENT 0 statement prevents dynamic definition of Guest LANs by class G users that interfere with the ability to relocate. \u2013 The DEFINE VSWITCH statements define a pair of MAC-based Ethernet virtual switches (VSWITCHES). MAC Ethernet VSWITCHES are sometimes referred to as LAYER 2 VSWITCHES. Modify the two starting addresses of the OSA triplets to those addresses that you specified in your planning worksheet. Tip: If you are reading an electronic copy of this book, you can copy the entire block of text from Example 6-9 or Example 6-10 on page 151 and paste it directly into your 3270 XEDIT session while you are in INPUT mode. If you are manually entering the information, carefully enter the text from Example 6-9 and then, use the XEDIT block copy operation to duplicate the entire block of text for each extra LPAR in your cluster. Note: Ensure that you double-check your work to avoid creating",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.584713",
+    "chunk_number": 355,
+    "word_count": 169
+  }
+}

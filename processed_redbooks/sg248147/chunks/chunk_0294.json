@@ -1,0 +1,18 @@
+{
+  "content": "DEFINITION panel with default labels Figure 5-19 on page 119 shows the results of the use of the example values from the environment that was used to produce this book. In this example, a prefix character of V is used. After you update the label values, press F5 to continue. *** z/VM INSTALLATION PLANNING PANEL 3 *** SSI Cluster Name: RDBKSSI03 After installation is complete, the SSI cluster will be IPLed: X First-Level _ Second-Level SSI Member Name(s): SLOT # MEMBER NAME IPL LPAR/USERID ====== =========== =============== 1 RDBKZVMG A09 2 RDBKZVMH A0A *** z/VM INSTALLATION VOLUME DEFINITION *** TYPE LABEL ADDRESS FORMAT (Y/N) COMMON VMCOM1 ____ _ RELVOL 720RL1 ____ TYPE LABEL ADDRESS TYPE LABEL ADDRESS RDBKZVMG RDBKZVMH RES M01RES ____ RES M02RES ____ SPOOL M01S01 ____ SPOOL M02S01 ____ PAGE M01P01 ____ PAGE M02P01 ____ WORK M01W01 ____ WORK M02W01 ____ Chapter 5. Installing z/VM 119 Figure 5-19 z/VM INSTALLATION VOLUME DEFINITION panel with planning worksheet values 11.You see the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.360810",
+    "chunk_number": 294,
+    "word_count": 162
+  }
+}

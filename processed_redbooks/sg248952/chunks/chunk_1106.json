@@ -1,0 +1,18 @@
+{
+  "content": "Nest Accelerator Unit (NXU, see Figure 3-15 on page 94) on each processor chip and replaces the existing zEDC Express adapter in the PCIe+ I/O drawer. One Nest Accelerator Unit is available per processor chip, which is shared by all cores on the chip and features the following benefits: \u0002 New concept of sharing and operating an accelerator function in the nest \u0002 Supports DEFLATE compliant compression/decompression and GZIP CRC/ZLIB Adler \u0002 Low latency \u0002 High bandwidth \u0002 Problem state execution \u0002 Hardware and firmware interlocks to ensure system responsiveness \u0002 Designed instruction \u0002 Run in millicode On-Chip Compression provides an up to 5% improvement in compression ratios for BSAM/VSAM datasets over zEDC while maintaining full compatibility. Eliminating adapter sharing by using Nest Compression Accelerator Sharing of zEDC cards is limited to 15 LPAR guests per adaptor. The Nest Compression Accelerator removes this virtualization constraint because it is shared by all PUs on the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.313503",
+    "chunk_number": 1106,
+    "word_count": 154
+  }
+}

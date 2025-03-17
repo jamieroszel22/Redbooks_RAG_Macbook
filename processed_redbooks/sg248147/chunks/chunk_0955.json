@@ -1,0 +1,18 @@
+{
+  "content": "(DirMaint) DVHQRY3844I 5741-A09 (C) Copyright IBM DVHQRY3844I Corporation 1979, 2020. DVHQRY3844I Function Level 720 Service Level 0000. DVHREQ2289I Your QUERY request for PWNOVAK at * has DVHREQ2289I completed; with RC = 0. The output from the same command after having made the change to override the line length is shown in Example 15-15. Example 15-15 Output with overriding the line length DVHREQ2288I Your CMS request for DIRMAINT at * has been accepted. DVHCMS3868I FILENAME FILETYPE FM FORMAT LRECL RECS BLOCKS DATE TIME DVHCMS3868I LINUX PROTODIR E2 V 37 4 1 2013-04-25 14:19:45 DVHCMS3868I LINUX PROTODIR G2 V 37 4 1 2013-04-25 14:19:45 DVHREQ2289I Your CMS request for DIRMAINT at * has completed; with RC = 0. To override the line length on a system that is set up and running, you must determine which DirMaint override files are in place. If you used this book to setup your z/VM system, it is likely that you have only the single configuration override, as described in 10.2.2,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.833723",
+    "chunk_number": 955,
+    "word_count": 165
+  }
+}

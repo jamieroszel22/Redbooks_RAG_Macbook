@@ -1,0 +1,18 @@
+{
+  "content": "to enable performance and capacity growth. \u0002 New cache structure design, including a larger cache Level 2 (SRAM) and virtual Level 3 and Level 4 cache to reduce latency. \u0002 On-chip IBM Integrated Accelerator for zEnterprise Data Compression (Nest compression accelerator, or NXU. For more information, see Table 2-14 on page 64.) \u0002 Enhancement of nest-core staging. \u0002 On-chip IBM Integrated Accelerator for AI. For more information, see 3.4.6, \u201cIBM Integrated Accelerator for Artificial Intelligence (on-chip)\u201d on page 92, and Appendix B, \u201cIBM Z Integrated Accelerator for AI\u201d on page 473. Because of these enhancements, the IBM z16 A02 and IBM z16 AGZ processor full speed z/OS single-thread performance is on average 1.14 times faster than the IBM z15 T02 at equal N-way. For more information about performance, see Chapter 12, \u201cPerformance\u201d on page 455. IBM z13 introduced architectural extensions with instructions that reduce processor quiesce effects, cache misses, and pipeline disruption, and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.052206",
+    "chunk_number": 221,
+    "word_count": 153
+  }
+}

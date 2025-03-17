@@ -1,0 +1,18 @@
+{
+  "content": "functions provide performance improvements for applications by using new IBM z16 instructions: \u0002 High-performance math libraries \u0002 MASS \u0002 Replace Atlas with OpenBLAS \u0002 Metal C for modernizing HLASM applications and systems programming To enable the use of new functions, specify ARCH(14) and VECTOR for compilation. The binaries that are produced by the compiler on IBM z16 can be run only on IBM z16 and above because it uses the vector facility on IBM z16 for new functions. The use of older versions of the compiler on IBM z16 does not enable new functions. z/OS V2R4 can use the latest level (14) of the following C/C++ compiler options: \u0002 ARCHITECTURE: This option selects the minimum level of system architecture on which the program can run. Specific features that are provided by the compiler require a minimum architecture level. ARCH(14) uses instructions that are available on the IBM z16. \u0002 TUNE: This option allows optimization of the application for a specific system architecture",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.259750",
+    "chunk_number": 778,
+    "word_count": 162
+  }
+}

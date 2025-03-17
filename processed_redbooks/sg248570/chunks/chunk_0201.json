@@ -1,0 +1,18 @@
+{
+  "content": "Lakehouse with IBM watsonx.data \u00a9 Copyright IBM Corp. 2025. 95 Chapter 7. Establishing a data catalog This chapter describes the steps to establish a data catalog with IBM watsonx.data so that you can do achieve the following goals: \u0002 Unify data sources: Consolidate data from across your organization, regardless of format or location. \u0002 Navigate with ease: Discover relevant data sets quickly by using intuitive search and metadata management. \u0002 Boost data governance: Help ensure data quality and security by using robust access controls and lineage tracking. This chapter has the following sections: \u0002 \u201cIntroduction\u201d on page 96 \u0002 \u201cData discovery: Automating data classification and tagging for better organization\u201d on page 96 \u0002 \u201cData profiling\u201d on page 97 \u0002 \u201cData cataloging: Building a comprehensive data catalog for findability\u201d on page 97 \u0002 \u201cUsing advanced search functions to find specific data assets\u201d on page 98 \u0002 \u201cCase study: Improving data discoverability for faster decision-making in",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.114744",
+    "chunk_number": 201,
+    "word_count": 154
+  }
+}

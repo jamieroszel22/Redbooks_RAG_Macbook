@@ -1,0 +1,18 @@
+{
+  "content": "the Hardware Management Console. The HMC provides the Manage System Time task. For managing time on IBM z16 A02 and IBM z16 AGZ, the HMC must be at level 2.16.0 (Driver 51). The IBM z16 A02 and IBM z16 AGZ supports the following timing information synchronization protocols: \u0002 Network Time Protocol (NTP) \u0002 Network Time protocol w/ Pulse Per Second (PPS) \u0002 Precision Time Protocol (PTP) \u0002 Precision Time Protocol w/ Pulse Per Second With IBM z16 A02 and IBM z16 AGZ, the STP External Time Source connects directly to the CPC (dedicated LAN ports) through the OSC card. This is different from the previous IBM Z where the Support Element was connected to the External Time Source For additional information about Server Time Protocol, see the Redbook IBM Z Server Time Protocol Guide, SG24-8480. Consider the following points: \u0002 A new card that combines the BMC and OSC is implemented with IBM z16 A02 and IBM z16 AGZ. Internally, the physical cards (BMC and OSC) are separated but incorporated as a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.698072",
+    "chunk_number": 136,
+    "word_count": 172
+  }
+}

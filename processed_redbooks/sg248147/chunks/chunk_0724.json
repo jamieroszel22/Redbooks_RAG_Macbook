@@ -1,0 +1,18 @@
+{
+  "content": "ACC(READ) ID(VSMWORK3)' 'RAC PERMIT MAINT CLASS(VMRDR) ID(DTCSMAPI) ACCESS(UPDATE)' 'RAC PERMIT TCPMAINT CLASS(VMRDR) ID(DTCSMAPI) ACCESS(UPDATE)' 'RAC PERMIT DIRMAINT CLASS(VMRDR) ID(VSMWORK2) ACCESS(UPDATE)' 'RAC PERMIT DIRMAINT CLASS(VMRDR) ID(VSMWORK3) ACCESS(UPDATE)' 'RAC PERMIT ** CLASS(VMBATCH) ID(VSMWORK1) ACCESS(CONTROL)' 'RAC PERMIT ** CLASS(VMBATCH) ID(VSMWORK2) ACCESS(CONTROL)' 'RAC PERMIT ** CLASS(VMBATCH) ID(VSMWORK3) ACCESS(CONTROL)' 'RAC PERMIT ** CLASS(VMBATCH) ID(DTCSMAPI) ACCESS(CONTROL)' 'RAC PERMIT CLASS(VMBATCH) ID(VSMWORK1) ACCESS(CONTROL)' 'RAC PERMIT CLASS(VMBATCH) ID(VSMWORK2) ACCESS(CONTROL)' 'RAC PERMIT CLASS(VMBATCH) ID(VSMWORK3) ACCESS(CONTROL)' 330 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 'RAC PERMIT CLASS(VMBATCH) ID(DTCSMAPI) ACCESS(CONTROL)' RACF can now allow SMAPI to do its job. It is recommended that you follow the instructions in \u201cTest SMAPI from Linux by using smaclient.\u201d on page 333, and 10.5.10, \u201cTesting SMAPI from Linux by using smaclient\u201d",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.049435",
+    "chunk_number": 724,
+    "word_count": 115
+  }
+}

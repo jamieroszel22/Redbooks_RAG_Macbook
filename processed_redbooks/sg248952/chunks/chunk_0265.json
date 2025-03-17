@@ -1,0 +1,18 @@
+{
+  "content": "not characterized on a CPC configuration can also be used as extra spare PUs. For more information about PU sparing, see 3.5.10, \u201cSparing rules\u201d on page 114. PU pools PUs that are defined as CPs, IFLs, ICFs, and zIIPs are grouped in their own pools from where they can be managed separately. This configuration significantly simplifies capacity planning and management for LPARs. The separation also affects weight management because CP and zIIP weights can be managed separately. For more information, see \u201cPU weighting\u201d on page 102. All assigned PUs are grouped in the PU pool. These PUs are dispatched to online logical PUs. As an example, consider a z16 A02 Max32 with 6 CPs, 6 IFLs, 5 zIIPs, and 1 ICF. This system has a PU pool of 18 PUs, called the pool width. Subdivision defines the following pools: \u0002 A CP pool of six CPs \u0002 An ICF pool of one ICF \u0002 An IFL pool of six IFLs \u0002 A zIIP pool of five zIIPs 102 IBM z16 A02 and IBM z16 AGZ Technical Guide PUs are placed in the pools in the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.221382",
+    "chunk_number": 265,
+    "word_count": 185
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "new page volumes (PAGE) by name as CP_Owned. When your system IPLs, it will pick up these volumes as paging volumes: ===> xedit system config f ====> /page and Chapter 6. Configuring z/VM 193 The pertinent information before the modification is shown in Figure 6-4. Figure 6-4 SYSTEM CONFIG file before modification The pertinent information after the modification is shown in Figure 6-5. Figure 6-5 SYSTEM CONFIG file after modification 5. Move down to the User_Volume_List section. User volumes (PERM) can be specified individually with the User_Volume_List statement, or with wildcards by using the User_Volume_Include statement. If you are using the labeling convention that is enforced by the CPFORMAT EXEC and no other LPAR will use the same volumes with the same prefix, you can use wildcards with the User_Volume_Include statement. In Example 6-13, all volume labels that begin with VM15 will be attached to SYSTEM and be available for the creation of minidisks. Example 6-13 Adding volumes",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.937181",
+    "chunk_number": 444,
+    "word_count": 158
+  }
+}

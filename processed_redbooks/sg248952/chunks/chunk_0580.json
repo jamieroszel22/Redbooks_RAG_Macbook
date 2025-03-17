@@ -1,0 +1,18 @@
+{
+  "content": "UDX - X - - Usable for data privacy: Encryption and decryption processing X X X - Usable for data integrity: Hashing and message authentication X X X - Usable for financial processes and key management operations - X X - Crypto performance IBM RMF monitoring - X X X Requires system master keys to be loaded - X X - System (master) key storage - X X - Retained key storage - X - - Tamper-resistant hardware packaging - X X Xc Hardware Designed for FIPS 140 Level 4 certification - X X X Supports Linux applications that perform SSL handshakes - - - X RSA functions - X X X High-performance SHA-1, SHA-2, and SHA-3 X X X - Clear key DES or triple DES X - - - Advanced Encryption Standard (AES) for 128-bit, 192-bit, and 256-bit keys X X X - True random number generator (TRNG) X X X - Deterministic random number generator (DRNG) X X X - Pseudo random number generator (PRNG) X X X - Clear key RSA - - - X Payment Card Industry (PCI) PIN Transaction (PTS) Hardware Security Module (HSM) PCI-HSM X X",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.497511",
+    "chunk_number": 580,
+    "word_count": 193
+  }
+}

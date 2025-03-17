@@ -1,0 +1,18 @@
+{
+  "content": "interval (in seconds) is exceeded, or all of the virtual machines that are enabled for the signal shutdown reported a successful shutdown. Some Linux distributions support this function, which allows Linux to shut down cleanly before z/VM shuts down. To modify attributes, complete the following steps as MAINT720: 1. Use VMLINK to access the PMAINT CF0 disk as multi-read/write (MR) and file mode F. Include the left less than symbol or angle bracket (<) and the right greater than symbol or angle bracket (>) in your command: ===> VMLINK PMAINT CF0 < * F MR > DMSVML2060I PMAINT CF0 linked MR as 0120 file mode F ===> VMLINK MAINT 193 < * G RR > DMSVML2060I MAINT 193 linked RR as 0121 file mode G 2. Review the file information for files that match SYS* CONF* F: ===> listfile sys* conf* F (ISO FILENAME FILETYPE FM FORMAT LRECL RECS BLOCKS DATE TIME SYSTEM CONFIG F1 V 80 378 5 2020-09-19 09:48:05 3. Back up the plain SYSTEM CONFIG file by using the COPYFILE command with the OLDDATE parameter",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.539583",
+    "chunk_number": 343,
+    "word_count": 178
+  }
+}

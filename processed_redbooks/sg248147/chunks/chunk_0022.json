@@ -1,0 +1,18 @@
+{
+  "content": "AUTOLOG1\u2019s PROFILE EXEC . . . . . . . . . . . . . . . . . . . . . . . . . . . 196 6.12.2 Configuring and enabling the programmable operator facility. . . . . . . . . . . . . . 197 6.13 z/VM User Directory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 201 6.13.1 z/VM User Directory PROFILEs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 202 6.13.2 Role-based access controls and CP privilege classes . . . . . . . . . . . . . . . . . . . 206 6.13.3 Creating and using z/VM User Directory prototypes. . . . . . . . . . . . . . . . . . . . . 208 6.13.4 Creating CMSPROTO. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 208 6.13.5 Creating LNXPROTO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 211 6.13.6 Creating a time-based virtual service machine named CRONSVM . . . . . . . . . 212 6.13.7 Creating a console logs repository . . . . . . .",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.226459",
+    "chunk_number": 22,
+    "word_count": 333
+  }
+}

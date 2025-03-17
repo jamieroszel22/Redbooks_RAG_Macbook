@@ -1,0 +1,18 @@
+{
+  "content": "values, which allows the hardware features to be used by applications. The cryptographic hardware that is installed in IBM z16 determines the cryptographic features and services that are available to the applications. The users of the cryptographic services call the ICSF API. Some functions are performed by the ICSF software without starting the cryptographic hardware features. Other functions result in ICSF going into routines that contain proprietary IBM Z crypto instructions. These instructions are run by a CPU engine and result in a work request that is generated for a cryptographic hardware feature. 6.4 CP Assist for Cryptographic Functions Attached to every PU (core) of an IBM z16 system are two independent engines: one for compression and one for cryptographic functions, as shown in Figure 6-4. Figure 6-4 The cryptographic coprocessor CPACF This cryptographic coprocessor, which is known as the CPACF, is not qualified as an HSM; therefore, it is not suitable for handling",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.305205",
+    "chunk_number": 534,
+    "word_count": 154
+  }
+}

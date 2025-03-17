@@ -1,0 +1,18 @@
+{
+  "content": "Banking credit risk management This section explains the concept of credit risk management, emphasizing fair, transparent approval processes, proactive monitoring with alerts, and automation of model metadata documentation to support credit decisions. It highlights of the importance of a successful credit risk management system include the following: \u0002 Fair and transparent approval processes. \u0002 Proactive risk detection with alerts to avoid biased decisions. \u0002 Automating the capture and documentation of model metadata with fact sheets to support credit decisions. Figure 7-1 shows how watsonx.governance can improve businesses credit risk management system. Improvements are shown based on business function to help illustrate the cross-departmental value that proper governance has in any organization. Figure 7-1 Credit risk management 7.1.1 Banking credit risk management use case Credit risk management is the practice of mitigating losses by assessing borrowers' credit risk - including",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.207771",
+    "chunk_number": 204,
+    "word_count": 139
+  }
+}

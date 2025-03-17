@@ -1,0 +1,18 @@
+{
+  "content": "LACP is required when a port group is shared in Multi-VSwitch LAG configuration. Various techniques are available for link aggregation in the networking world. Terms, such as Etherchannel and port trunk are used to describe different techniques that are used by various switch and operating system vendors to describe their link aggregation methods. These techniques are often proprietary and incompatible with each other. Example 14-15 shows an example where a port group (in the example, it is an exclusive port group, but the same situation exists for a shared port group) is not functioning because LACP is unavailable. This issue occurs is because the network switch does not support LACP, or the switch ports the z/VM port group is attached to are not configured for LACP. Example 14-15 Unsuccessful port group activation example define vswitch vswglbl ether group glblgrp VSWITCH SYSTEM VSWGLBL is created Ready; T=0.01/0.01 02:00:17 HCPSWU2830I VSWITCH SYSTEM VSWGLBL status is ready.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.717299",
+    "chunk_number": 924,
+    "word_count": 154
+  }
+}

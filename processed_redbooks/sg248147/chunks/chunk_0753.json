@@ -1,0 +1,18 @@
+{
+  "content": "All CKD disks are identified by a 4-digit hexadecimal number within a logical partition (LPAR). Table 11-1 on page 347 shows the standard 3390 DASD models. Chapter 11. Deploying and maintaining Linux workloads 347 Table 11-1 Standard 3390 DASD models Using dedicated DASD for Linux virtual machines When you use DASD, it is helpful to track all of the different DASD numbers and assignments by using the planning worksheet in Appendix B, \u201cReference, cheat sheets, blank worksheets, and education\u201d on page 475. Although use cases exist for directly dedicating DASD to an individual virtual machine, the preferred method is to add a full-pack minidisk to the virtual machine instead. To attach a DASD to a z/VM virtual machine directly, use the DIRMAINT command, as shown in Example 11-1. DirMaint automatically places the entry at the correct location in the directory entry for you. Example 11-1 Dedicate DASD number 1570 with virtual address 0705 ===> dirmaint foruser linux2 dedicate 0705 1570",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.159450",
+    "chunk_number": 753,
+    "word_count": 160
+  }
+}

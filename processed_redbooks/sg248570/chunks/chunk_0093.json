@@ -1,0 +1,18 @@
+{
+  "content": "systems. Chapter 2. Introduction to IBM watsonx.data 27 These synergies provide the backbone for scalable, trustworthy, and efficient AI operations, ensuring that businesses can innovate while maintaining compliance and reliability. 28 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data \u00a9 Copyright IBM Corp. 2025. 29 Chapter 3. Ingesting data into an open data lakehouse The foundation of any data-driven organization is its ability to efficiently ingest data from diverse sources. IBM watsonx.data, which is a powerful open data lakehouse platform, streamlines this process by providing a scalable and secure environment for data ingestion. This approach simplifies data intake so that you can unlock the full potential of your data for advanced analytics and AI-powered insights. This chapter covers how to ingest data into an open data lakehouse in watsonx.data and has the following sections: \u0002 \u201cProvisioning and configuring IBM watsonx.data\u201d on page 30 \u0002 \u201cIntegrating",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.700950",
+    "chunk_number": 93,
+    "word_count": 148
+  }
+}

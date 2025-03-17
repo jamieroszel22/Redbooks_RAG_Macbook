@@ -1,0 +1,18 @@
+{
+  "content": "employ a comprehensive approach, using a combination of internal and external, automated and manual red teaming techniques to thoroughly identify and mitigate weaknesses. Traditional security measures, such as data encryption (at rest and in transit), user access controls, and firewalls, are also essential. 4.1.4 Ensuring model health and performance To guarantee that a model meets the desired output and performance expectations of end-users, data scientists should evaluate model health metrics relative to the use cases expected to be delivered with this foundation model. Two key metrics to track are latency and throughput. Latency Latency measures the time it takes for a model to process a scoring request. It is calculated by tracking the time elapsed between receiving a request and generating a response, typically measured in milliseconds (ms). This metric helps identify any delays or bottlenecks in the model's processing pipeline. Throughput Throughput measures the number of",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.934760",
+    "chunk_number": 130,
+    "word_count": 147
+  }
+}

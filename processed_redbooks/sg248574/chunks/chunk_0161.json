@@ -1,0 +1,18 @@
+{
+  "content": "feedback is gathered from the model\u2019s performance, the data is refined, and further training is conducted. This iterative feedback loop is crucial in guiding the model toward better understanding, more accurate outputs, and more aligned responses to specific use cases. Chapter 5. Advanced capabilities of watsonx.ai 69 The power of iterative feedback lies in its ability to refine the model's responses over time, which enhances its accuracy and applicability to real-world problems. SMEs can continuously assess the model\u2019s performance in relation to specific tasks or topics, and helps ensure that the model becomes progressively better at understanding the subtleties of the domain and generating more precise, contextually relevant responses. Another key feature of InstructLab is its model-neutral and open-source nature. Unlike proprietary fine-tuning solutions that are often tightly coupled with specific models or platforms, InstructLab enables users to contribute to the fine-tuning of",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.827048",
+    "chunk_number": 161,
+    "word_count": 143
+  }
+}

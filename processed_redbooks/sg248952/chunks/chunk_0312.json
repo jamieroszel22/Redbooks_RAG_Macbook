@@ -1,0 +1,18 @@
+{
+  "content": "memory for the LPAR. 120 IBM z16 A02 and IBM z16 AGZ Technical Guide PR/SM assigns all logical processors to one CPC drawer that are packed into chips of that drawer and cooperates with operating system use of HiperDispatch. All processor types of an IBM z16 A02 and IBM z16 AGZ can be dynamically reassigned, except IFPs. Memory allocation changed from the previous IBM Z servers. Partition memory is now allocated based on processor drawer affinity. For more information, see \u201cMemory allocation\u201d on page 116. Logical processors are dispatched by PR/SM on physical processors. The assignment topology that is used by PR/SM to dispatch logical processors on physical PUs is also based on cache usage optimization. Processor drawers assignment is more important because they optimize virtual L4 cache usage. Therefore, logical processors from a specific LPAR are packed into a processor drawer as much as possible. PR/SM optimizes chip assignments within the assigned processor drawer (or drawers) to",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.444538",
+    "chunk_number": 312,
+    "word_count": 158
+  }
+}

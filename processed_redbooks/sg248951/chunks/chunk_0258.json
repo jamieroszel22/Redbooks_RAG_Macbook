@@ -1,0 +1,18 @@
+{
+  "content": "and designated software products can run on IFLs. IFLs are orderable by using FC 1959. Chapter 3. Central processor complex design 101 IFL pool All PUs that are characterized as IFLs within a configuration are grouped into the IFL pool. The IFL pool can be seen on the HMC workplace. IFLs do not change the model capacity identifier of the IBM z16. Software product license charges that are based on the model capacity identifier are not affected by the addition of IFLs. Unassigned IFLs An IFL that is purchased but not activated is registered as an unassigned IFL (FC 1962). When the system is later upgraded with another IFL, the system recognizes that an IFL was purchased and is present. The allowable number of IFLs and Unassigned IFLs per feature is listed in Table 3-1. Table 3-1 IFLs and Unassigned IFLs per feature 3.5.4 Internal Coupling Facility (FC 1960) An Internal Coupling Facility (ICF) is a PU that is used to run the CFCC for Parallel Sysplex environments. Within the sum of all",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.193829",
+    "chunk_number": 258,
+    "word_count": 173
+  }
+}

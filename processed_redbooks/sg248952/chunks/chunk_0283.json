@@ -1,0 +1,18 @@
+{
+  "content": "CPs in order of priority. The system ignores the IIPHONORPRIORITY parameter in this case and handles the work as though it had no eligibility to zIIPs. zIIPs provide the following benefits: \u0002 Potential software cost savings. \u0002 Simplification of infrastructure as a result of the collocation and integration of new applications with their associated database systems and transaction middleware, such as Db2, IMS, or CICS. Simplification can happen, for example, by introducing a uniform security environment, and by reducing the number of TCP/IP programming stacks and system interconnect links. \u0002 Prevention of processing latencies that occur if Java application servers and their database servers are deployed on separate server platforms. The following Db2 UDB for z/OS V8 or later workloads can run in Service Request Block (SRB) mode: \u0002 Query processing of network-connected applications that access the Db2 database over a TCP/IP connection by using IBM Distributed Relational Database",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.290235",
+    "chunk_number": 283,
+    "word_count": 149
+  }
+}

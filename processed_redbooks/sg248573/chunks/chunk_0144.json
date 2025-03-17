@@ -1,0 +1,18 @@
+{
+  "content": "training, testing, or the production of data is generated, how the model is developed and evaluated, and where the model is being used to decide different ways in which the model might lead to a biased outcome. This is a key step in the overall methodology relating to bias detection. It is important to note that bias in some attributes of a model might be reasonable. For example, a foundation model that is fine-tuned to pre-screen loan applications might be biased against people with poor credit. This is deemed as reasonable. Since most model bias is injected unwittingly through skewed data or constrained training methods, it cannot be effectively detected and resolved exclusively through manual testing or checklist validations. 48 Ensuring Trustworthy AI with IBM watsonx.governance 4.3.2 Transparency With AI usage gaining momentum, there is an increased focus on the transparency aspect of the foundation models for audit purposes. There are various governance, risk, compliance, or",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.988126",
+    "chunk_number": 144,
+    "word_count": 156
+  }
+}

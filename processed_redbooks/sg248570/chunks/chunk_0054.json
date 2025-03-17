@@ -1,0 +1,18 @@
+{
+  "content": "Google Drive and according to different service specifications, Google Cloud Storage appears to be more suitable for enterprises. HDFS Hadoop Distributed File System (HDFS) is a distributed file system that handles massive data sets efficiently on commodity hardware. As a core component of Apache Hadoop, HDFS enables the scaling of single clusters to hundreds or even thousands of nodes. It works in tandem with MapReduce and YARN to form the foundation of the Hadoop ecosystem. 1.3.2 Open data formats This section describes some prominent open data formats. Apache Iceberg Apache Iceberg is an open-source, high-performance format for huge analytic tables. Apache Iceberg enables SQL tables for big data while making it possible for engines like Spark, Trino, Flink, Presto, Hive, Impala, StarRocks, Doris, and Pig to work with the same tables at the same time. Apache Iceberg is released under the Apache License. Apache Iceberg addresses the performance and usability challenges of using",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.548202",
+    "chunk_number": 54,
+    "word_count": 153
+  }
+}

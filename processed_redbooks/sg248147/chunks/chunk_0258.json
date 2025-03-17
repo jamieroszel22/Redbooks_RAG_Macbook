@@ -1,0 +1,18 @@
+{
+  "content": "and groups \u0002 Modify access permissions \u0002 Set and revoke user IDs and passwords \u0002 Search for users and groups \u0002 Generate audit reports zSecure analyses and audits the RACF database and audit logs, and displays security issues, such as missing or invalid definitions, privileged access by users, and others. It also includes support for Linux on z audit events, which helps detect Linux security issues and generate compliance records. It also analyses the system to help reveal breaches in the system integrity, unintended exposures, potential threats, and other irregularities. A careful analysis generates a report for those exposures, indicates the severity of each, and includes a description that help determines the corrective actions to be taken. For more information about zSecure, see this IBM Documentation web page. 94 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. 95 Part 2 Installation, configuration, and service In this part, we describe how to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.176398",
+    "chunk_number": 258,
+    "word_count": 157
+  }
+}

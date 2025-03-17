@@ -1,0 +1,18 @@
+{
+  "content": "use minidisks\u201d on page 357. 11.4.11 Getting a copy of the user directory Complete the following steps to get a complete directory definition: 1. Ask DirMaint to send the user directory: ===> dirm user withpass 2. Receive the file: ===> receive <nr on reader> (repl 11.4.12 Getting and updating the EXTENT CONTROL file The EXTENT CONTROL file holds all information about the disks that are available for minidisk storage. You can modify the contents with the command dirm dasd, but you can also get the complete file and replace it with changes. Complete the following steps: 1. Get the EXTENT CONTROL from the directory: ===> dirm send extent control 2. Receive the file from the reader: ===> receive <nr on reader> (repl 3. Edit the file: ===> xedit extent control 4. Send the file back: ===> dirm file extent control 5. Reload that file in the system: ===> dirm rldext 368 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 11.4.13 Cleaning up the work units At times, the DirMaint commands never finish",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.304148",
+    "chunk_number": 797,
+    "word_count": 171
+  }
+}

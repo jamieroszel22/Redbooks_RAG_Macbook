@@ -1,0 +1,18 @@
+{
+  "content": "user ID example USER DIRMAINT AUTOONLY 128M 256M BDG IPL CMS PARM AUTOCR MACHINE ESA ACCOUNT SYSTEM SYSPROG D8ONECMD FAIL LOCK OPTION CONCEAL DIAG88 D84NOPAS IGNMAXU IUCV ALLOW PRIORITY MSGLIMIT 100 CONSOLE 009 3215 T SPOOL 00C 2540 READER A SPOOL 00D 2540 PUNCH A SPOOL 00E 1403 A Tip: The USER DIRECT file is a CMS file that contains the configuration values and the definition settings for each virtual machine (known as z/VM user ID). It acts as a catalog of user IDs that can log on to z/VM, including Linux servers. Chapter 10. DirMaint, RACF-connector, and SMAPI 341 LINK 7VMDIR20 491 191 MR LINK 7VMDIR20 492 192 MR LINK 7VMDIR20 11F 11F MR LINK 7VMDIR20 41F 21F MR LINK MAINT 190 190 RR * CMS system disk LINK MAINT 19D 19D RR * help disk LINK MAINT 19E 19E RR * Product code disk LINK MAINT 123 123 MW LINK PMAINT 551 551 RR LINK TCPMAINT 592 592 RR MDISK 1AA 3390 06160 020 VMBCM1 MR MDISK 1FA 3390 06180 012 VMBCM1 MR MDISK 1DE 3390 06192 020 VMBCM1 MR MDISK 2AA 3390 06212 020 VMBCM1 MR",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.128905",
+    "chunk_number": 746,
+    "word_count": 189
+  }
+}

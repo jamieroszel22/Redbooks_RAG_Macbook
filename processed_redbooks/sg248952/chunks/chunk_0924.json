@@ -1,0 +1,18 @@
+{
+  "content": "A02 and IBM z16 AGZ can isolate recovery to only the failing channel. \u0002 Out-of-band access to DIMM (for background maintenance functions). Out-of-band access (by using an I2C interface) allows maintenance (such as logging) without disrupting customer memory accesses. \u0002 OMI Memory Bus lane sparing. \u0002 Improved DIMM exerciser for testing memory during IML. \u0002 PCIe redrive hub cards plug straight in (no blind mating of connector). Simplified plugging that is more reliable is included. \u0002 ICA SR (short distance) coupling cards plug straight in (no blind mating of connector). Simplified plugging that is more reliable is included. \u0002 Coupling Express2 LR (CE2 LR) coupling cards plug into the PCIe+ I/O drawer, which allows more connections while maintaining link compatibility with previous generation Coupling Express features (CE LR). 9.7.2 Unscheduled outages An unscheduled outage occurs because of an unrecoverable malfunction in a hardware component of the system. The following improvements",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.728311",
+    "chunk_number": 924,
+    "word_count": 150
+  }
+}

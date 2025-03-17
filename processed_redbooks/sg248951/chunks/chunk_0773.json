@@ -1,0 +1,18 @@
+{
+  "content": "enterprise. \u0002 IBM Open Data Analytics for z/OS provides enhancements to simplify data analysis by combining open source run times and libraries with analysis of z/OS data at its source, \u0002 Enhancements to security and data protection on the system with support for new industry cryptography and continued enhancements driving pervasive encryption through the ability to encrypt data without application changes. A new RACF capability improves management of access and privileges. \u0002 The use of IBM z16 capabilities System Recovery Boost reduces the time that z/OS is offline when the operating system is offline for any reason. The use of IBM System Recovery Boost expedites planned operating system shutdown processing, operating system Initial Program Load (IPL), middleware and workload restart and recovery, and the client workload execution that follows. It enables businesses to return their systems to work faster, not just from catastrophes, but after all kinds of disruptions (planned and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.238557",
+    "chunk_number": 773,
+    "word_count": 151
+  }
+}

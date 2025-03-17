@@ -1,0 +1,18 @@
+{
+  "content": "pervasive infrastructure controls in processor chips in memory ASICs. 380 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Improved error checking in the processor recovery unit (RU) to better protect against word line failures in the RU arrays. 9.8 Enhanced drawer availability Enhanced drawer availability (EDA) is a procedure in which a drawer in a multidrawer system can be removed and reinstalled during an upgrade or repair action. This procedure has no effect on the running workload5. The EDA procedure and careful planning help ensure that all the resources are still available to run critical applications in an (n-1) drawer configuration. This process allows you to avoid planned outages. Consider the flexible memory option to provide more memory resources when you are replacing a drawer. To minimize the effect on current workloads, ensure that sufficient inactive physical resources exist on the remaining drawers to complete a drawer removal. Also, consider deactivating non-critical",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.751849",
+    "chunk_number": 929,
+    "word_count": 154
+  }
+}

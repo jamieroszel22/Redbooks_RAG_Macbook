@@ -1,0 +1,18 @@
+{
+  "content": "COLOR CURLINE YE REV' 'SET COLOR PREFIX BL NO' RDK = 'PF1-HELP 3-Quit 7-PgDn 8-PgUp 9-SpJn 10-R10 11-L10 12-Repeat' 'SET RESERVED -2 WH HI 'RDK k. Press Enter twice to exit out of INPUT mode and return back to the command line. Enter the subcommand FILE and press Enter again to save your changes, quit XEDIT, and return to CMS and the ready prompt: ====> file Ready; Before you edit your PROFILE XEDIT, it looks similar to the output that is shown in Example 6-1 on page 139. After you edit it, your PROFILE XEDIT looks similar to Example 6-2. Example 6-2 Modified MAINT/MAINTvrm XEDIT profile with example date and user ID shown ===> type profile xedit /*** DEFAULT PROFILE XEDIT FOR z/VM -- MOD 2015-04-06 PWNOVAK ***/ 'SET NUM ON' 'SET NULLS ON' 'SET CASE M I' Tip: If you are reading an electronic copy of this book, you might paste the entire block of text from the book directly into your 3270 XEDIT session while in INPUT mode. 142 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 'SET SERIAL",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.511581",
+    "chunk_number": 334,
+    "word_count": 180
+  }
+}

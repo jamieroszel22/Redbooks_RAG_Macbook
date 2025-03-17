@@ -1,0 +1,18 @@
+{
+  "content": "deemed valid by the order process. It also allows upgrades only within the bounds of the currently installed hardware. 8.4.2 Retrieval and activation After an order is placed and processed, the upgrade record is passed to the IBM support system for download. When the order is available for download, you receive an email that contains an activation number. You can then retrieve the order by using the Perform Model Conversion task from the SE, or through the Single Object Operation to the SE from an HMC. 340 IBM z16 A02 and IBM z16 AGZ Technical Guide In the Perform Model Conversion window, select Permanent upgrades to start the process, as shown in Figure 8-7. Figure 8-7 IBM z16 Perform Model Conversion window The window provides several possible options. If you select the Retrieve and apply data option, you are prompted to enter the order activation number to start the permanent upgrade, as shown in Figure 8-8. Figure 8-8 Customer Initiated Upgrade Order Activation Number window 8.5",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.477786",
+    "chunk_number": 842,
+    "word_count": 166
+  }
+}

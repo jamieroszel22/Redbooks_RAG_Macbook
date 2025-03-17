@@ -1,0 +1,18 @@
+{
+  "content": "Getting started with Spark use case. Creating a database or schema in IBM watsonx.data By using Spark, establish a new schema within the previously configured catalog. Then, create multiple tables within this schema and load them with the necessary data. Data ingestion by using INSERT: Creating a simple table and inserting data Note the clause that uses iceberg. Iceberg is the table format that is specified, as shown in Figure 3-7. Figure 3-7 Iceberg is the table format that is specified 40 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Data ingestion of the Parquet data: Creating a Parquet format table that is managed by the Iceberg table format In this example, you use the Iceberg table format and Parquet as the data format. Read data from the designated test bucket and write it back to the lakehouse bucket (lh-xxx-data in this example). Data ingestion of the CSV data: Creating a CSV format table that is managed by the Iceberg table format Read a CSV",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.764241",
+    "chunk_number": 109,
+    "word_count": 168
+  }
+}

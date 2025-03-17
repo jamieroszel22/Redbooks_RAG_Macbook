@@ -1,0 +1,18 @@
+{
+  "content": "factory frame (19-inch standard) while the I IBM z16 AGZ is delivered as a bundle installed on site in client supplied standard 19-inch rack. Both share the same feature names (maximum number of characterizable processor units (PUs)): Max5, Max16, Max32, and Max68. The number of characterizable PUs, spare PUs, and System Assist Processors (SAPs) are included with each feature of IBM z16 A02 and IBM z16 AGZ (see Table 1-1). Table 1-1 IBM z16 A02 and IBM z16 AGZ processor unit (PU) configurations The IBM z16 A02 and IBM z16 AGZ memory subsystem use proven redundant array of independent memory (RAIM) technology to ensure high availability. Up to 16TB (8 TB per CPC drawer) of addressable memory per system can be ordered. The IBM z16 A02 and IBM z16 AGZ also have unprecedented capacity to meet consolidation needs with innovative I/O features for transactional and hybrid cloud environments. The IBM z16 A02 and IBM z16 AGZ (at maximum configuration) can support up to 3 PCIe+ I/O drawers.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.436676",
+    "chunk_number": 78,
+    "word_count": 167
+  }
+}

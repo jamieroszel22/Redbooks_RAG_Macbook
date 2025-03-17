@@ -1,0 +1,18 @@
+{
+  "content": "contains four DCMs. Feature CPC Drawers DCMs Max Fanouts Max I/O Drawers Max 5 1 2 6 3 Max16 1 2 6 3 Max32 1 4 12 3 Max68 2 8 24 3 30 IBM z16 A02 and IBM z16 AGZ Technical Guide Depending on the feature, IBM z16 A02 or IBM z16 AGZ have the following CPC components: \u0002 The number of CPC drawers installed is driven by the following feature codes: \u2013 FC 0672: One CPC drawer, Max5, two PU DCMs up to 5 characterizable PUs \u2013 FC 0673: One CPC drawer, Max16, two PU DCMs up to 16 characterizable PUs \u2013 FC 0674: One CPC drawer, Max32, four PU DCMs up to 32 characterizable PUs \u2013 FC 0675: Two CPC drawers, Max68, eight PU DCMs up to 68 characterizable PUs \u0002 The following DCMs are used: \u2013 PU DCM contains two PU chips (Telum) using 7nm FinFET silicon wafer technology, 22.5 Billion transistors, core running at 4.6 GHz: (with 8 cores per chip / 16 cores per PU DCM design) \u0002 Memory plugging: \u2013 Up to six memory controllers per drawer (two on DCM2/DCM1) (one on DCM3/DCM0) \u2013 Each memory controller supports 8",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.673634",
+    "chunk_number": 130,
+    "word_count": 196
+  }
+}

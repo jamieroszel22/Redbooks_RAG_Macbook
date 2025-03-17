@@ -1,0 +1,18 @@
+{
+  "content": "traditional ML/AI assets. Considerations for third parties do exist, but the tools that we have covered up to this point will be adapted to cover those additional considerations. 6.4.3 Considerations for prompt templates from another platform IBM watsonx.governance empowers organizations to evaluate and monitor prompt templates for a variety of externally-hosted LLMs without the need to conduct inference on those models. This flexibility allows AI and Data Science practitioners to work with models hosted on platforms such as Google Vertex AI, Azure OpenAI, or AWS Bedrock, where all inference is performed remotely. The platform offers a method known as the detached prompt template for evaluating and monitoring prompt templates for externally-hosted LLMs without requiring model inference. Chapter 6. Governing the end-to-end lifecycle of an AI asset 73 This approach involves programmatically creating a detached prompt template asset, which provides a high level of control. Evaluations",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.177413",
+    "chunk_number": 195,
+    "word_count": 145
+  }
+}

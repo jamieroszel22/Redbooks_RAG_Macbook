@@ -1,0 +1,18 @@
+{
+  "content": "Packets: 0 Discarded: 0 Errors: 0 RX Bytes: 5952 TX Bytes: 0 Device: 0603 Unit: 000 Role: DATA Port: 2050 Partner Switch Capabilities: No_Reflective_Relay LAG Port Controller: Standby Member: RDBKZVMF.VSWGLBL State: Synchronized Member: RDBKZVMC.VSWGLBL State: Synchronized Ready; We see the following important details in this display: \u0002 The MAC addresses against each of the ports are different on each system. This result shows that although the Global VSwitch functions like a logical single VSwitch that is present in both systems, it is two separate VSwitches that share the global port group. For this reason, the VSwitch must be defined on each system, while the port group did not need to be defined. \u0002 Now that the Global VSwtich is defined on our second system, RDBKZVMF now appears as Synchronized at the end of the QUERY VSWITCH DETAILS output. For completeness, we repeated the Q PORT GROUP DETAILS display on RDBKZVMF to compare the output (see Example 14-13). Example 14-13 QUERY",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.694584",
+    "chunk_number": 917,
+    "word_count": 160
+  }
+}

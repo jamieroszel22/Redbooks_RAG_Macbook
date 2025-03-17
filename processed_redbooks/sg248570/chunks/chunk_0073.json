@@ -1,0 +1,18 @@
+{
+  "content": "available, highly scalable, and inexpensive. A governance and metadata layer integrates existing Netezza and Db2 services to achieve metadata sharing using open-data formats such as Parquet, ORC, and Avro (a serialization format for record data and for streaming data pipelines) and leverages the Apache Iceberg table format. It uses multiple engines, such as Presto and Spark, which provide fast, reliable, efficient processing of big data at scale. Let us take a look at each layer in more detail. Infrastructure From an infrastructure layer perspective (Figure 2-7 on page 19), quick start steps enable organizations using Software as a Service (SaaS) tools to deploy in minutes, ready to bring and store their data into S3 object storage. Organizations may also choose to connect to existing data warehouses and look at the data using virtualization or federation techniques. Chapter 2. Introduction to IBM watsonx.data 19 Figure 2-7 watsonx.data infrastructure layer Storage and data formats",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.617297",
+    "chunk_number": 73,
+    "word_count": 152
+  }
+}

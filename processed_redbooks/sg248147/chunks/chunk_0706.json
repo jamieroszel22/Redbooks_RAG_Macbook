@@ -1,0 +1,18 @@
+{
+  "content": "AUDIT(FAILURES(READ)) RACF_RDEFINE_VMRDR_DEFAULTS= UACC(NONE) AUDIT(FAILURES(READ)) RACF_RDEFINE_VMMDISK_DEFAULTS= UACC(NONE) AUDIT(FAILURES(READ)) RACF_RDEFINE_VSWITCH_LAN= YES | NO PW_WARN_MODE= MANUAL PW_LOCK_MODE= MANUAL ESM_PASSWORD_AUTHENTICATION_EXIT= DVHXPA EXEC /ESM_LOG_RECORDING_EXIT= DVHESMLR EXEC PASSWORD_CHANGE_NOTIFICATION_EXIT = DVHXPN EXEC USER_CHANGE_NOTIFICATION_EXIT = DVHXUN EXEC ===> file Your new configuration file was created successfully on DIRMAINT 1DF mdisk. When DirMaint is up Create the same DirMaint configuration file, CONFIGRC DATADVH A, on your MDisk A. Then, send them to DIRMAINT. This process is done because the MDisk 1DF is accessed as read/write by DirMaint and cannot be linked as read/write at the same time. Add the following lines: ===> x configrc datadvh a ===> a 10 (include the same lines listed before) ===> file To send the file to DirMaint you need: ===> dirm file CONFIGRC DATADVH To load the file to DirMaint you need: Note: For more",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.982060",
+    "chunk_number": 706,
+    "word_count": 132
+  }
+}

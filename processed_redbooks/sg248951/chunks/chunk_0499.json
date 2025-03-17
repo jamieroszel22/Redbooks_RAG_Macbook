@@ -1,0 +1,18 @@
+{
+  "content": "number provides a means to identify a device that is independent of any limitations that are imposed by the system model, configuration, or channel-path protocols. A device number also can be used to designate an I/O function to a specific I/O device. Because it is an arbitrary number, it can easily be fit into any configuration management and operating management scenarios. For example, a system administrator can set all of the z/OS systems in an environment to device number 1000 for their system RES volumes. With multiple subchannel sets, a subchannel is assigned to a specific I/O device by the channel subsystem with an automatically assigned subchannel number and a device number that is defined by user. An I/O device can always be identified by an SSID with a subchannel number or a device number. For example, a device with device number AB00 of subchannel set 1 can be designated as 1AB00. Note: Do not confuse the multiple subchannel sets function with multiple channel subsystems.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.163080",
+    "chunk_number": 499,
+    "word_count": 165
+  }
+}

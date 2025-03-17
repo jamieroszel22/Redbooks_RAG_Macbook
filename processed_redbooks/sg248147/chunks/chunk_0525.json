@@ -1,0 +1,18 @@
+{
+  "content": "answer is 0, but check with your business controls office if you are unsure. 25.After you are notified that the key database is created, press Enter twice to return to the top-level menu. Figure 6-17 Initial run of GSKKYMAN Important: As you begin working with GSKit utilities, be aware that they use the OpenVM Bit File System, which means that you are now effectively working on a UNIX or an AIX system. Commands, file names, paths, and passwords are case-sensitive. Database Menu 1 - Create new database ... Enter option number: 1 Enter key database name (press ENTER to return to menu): Database.kdb Enter database password (press ENTER to return to menu): P@ssw0rd4zVMgsk! Re-enter database password: P@ssw0rd4zVMgsk! Enter password expiration in days (press ENTER for no expiration): Enter Enter Enter database record length (press ENTER to use 5000): Enter Enter Enter 1 for FIPS mode database or 0 to continue: 0 Key database /etc/gskadm/Database.kdb created. Press ENTER to continue. Enter",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.244748",
+    "chunk_number": 525,
+    "word_count": 160
+  }
+}

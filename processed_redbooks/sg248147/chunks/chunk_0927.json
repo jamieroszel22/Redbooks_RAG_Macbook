@@ -1,0 +1,18 @@
+{
+  "content": "Enterprise Linux If you are on a Red Hat Enterprise Linux system, perform the following steps to create the network device ETH1: 1. From the Linux image, create a device group for the 0604 devices: # echo 0.0.0604,0.0.0605,0.0.0606 > /sys/bus/ccwgroup/drivers/qeth/group 2. Bring the device online with the following command: # echo 1 > /sys/devices/qeth/0.0.0604/online 3. Get the name of the device: # cat /sys/devices/qeth/0.0.0604/if_name eth1 4. Create a network configuration file by using the name eth1 in the file: /etc/sysconfig/network-scripts/ifcfg-eth1: ===> vi /etc/sysconfig/network-scripts/ifcfg-eth1 #IBM QETH DEVICE=eth1 BOOTPROTO=static IPADDR=10.1.1.47 NETMASK=255.255.255.0 NETTYPE=qeth ONBOOT=yes SUBCHANNELS=0.0.0604,0.0.0605,0.0.0606 TYPE=ethernet ARP=no 5. Start the eth1 network device with the ifup command: ===> ifup eth1 436 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6. Verify the status of eth1 with the ifconfig command: ===> ifconfig eth1 eth1 Link encap:Ethernet",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.725346",
+    "chunk_number": 927,
+    "word_count": 131
+  }
+}

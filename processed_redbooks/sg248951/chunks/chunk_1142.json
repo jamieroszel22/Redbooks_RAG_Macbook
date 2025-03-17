@@ -1,0 +1,18 @@
+{
+  "content": "is available for customers, starting with IBM z15, z/OS general-purpose CPs, and who are using Tailored Fit Pricing for IBM Z software. Appendix D. Tailored Fit Pricing and IBM Z Flexible Capacity for Cyber Resiliency 517 Tailored Fit Pricing for IBM Z hardware in more detail Tailored Fit Pricing (TFP)-Hardware pricing includes two aspects: a Subscription charge, and a Usage charge (see Figure D-2). Figure D-2 TFP-Hardware use One of the most important facts about TFP-Hardware is that a single system or central processing complex (CPC) always is considered. It is on this level that use is measured. The blue bars that are shown in Figure D-2 represent individual 15-minute intervals, and the use is measured in each one. In Figure D-2, the dark green line shows the average use of the machine over the entire period that is measure (normally a month). The black line shows the Rolling 4 Hour Average (R4HA), and it is displayed for information purposes only because the R4HA is not used for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.397720",
+    "chunk_number": 1142,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Feature code New build Carry-forward Chapter 4. I/O structure 153 Machine: 3932-A02 SN1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Source Drwr Slot F/C PCHID/Ports or AID Comment A10/LG03 A10B LG03 0176 AID=02 A10/LG06 A10B LG06 0176 AID=05 A10/LG07 A10B LG07 0176 AID=06 A10/LG10 A10B LG10 0176 AID=09 A10/LG01/J02 A01B 02 0439 100/D1 101/D2 A10/LG01/J02 A01B 03 0439 104/D1 105/D2 A10/LG01/J02 A01B 04 0439 108/D1 109/D2 A10/LG01/J02 A01B 05 0908 10C/P00 10D/P01 A10/LG01/J02 A01B 07 0425 110/ ...........<< snippet >>................ The PCHID REPORT that is shown in Example 4-2 on page 152 includes the following components (among others): \u0002 Feature code 0176 (Integrated Coupling Adapters (ICA SR1.1) is installed in the CPC drawer (location A10B, slots LG03, LG06, LG07. and LG10), and have AIDs 02, 05, 06, and 09 assigned. \u0002 Feature codes 0439 (FICON Express32S+ SX) are installed in PCIe+ I/O drawer 1: \u2013 Location A01B, slot 02 with PCHIDs 100/D1 and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.715874",
+    "chunk_number": 384,
+    "word_count": 185
+  }
+}

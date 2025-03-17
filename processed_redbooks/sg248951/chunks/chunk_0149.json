@@ -1,0 +1,18 @@
+{
+  "content": "flexible memory option, removing the affected memory and reallocating its use elsewhere in the system is possible. (For more information, see 2.5.7, \u201cFlexible Memory Option\u201d on page 46.) This process requires more available memory to compensate for the memory that becomes unavailable with the removal of the drawer. 2.5.6 Virtual Flash Memory IBM Virtual Flash Memory (VFM) FC 0644 offers up to 6.0 TB of virtual flash memory in 512 GB (0.5 TB) increments (a maximum of 12 features for IBM z16 A01) for improved application availability and to handle paging workload spikes. No application changes are required to change from IBM Flash Express to VFM. Consider the following points: \u0002 Dialed memory + VFM = total hardware plugged \u0002 Dialed memory + VFM + Flex memory option = total hardware plugged VFM helps improve availability and handling of paging workload spikes when z/OS V2.1, V2.2, V2.3, V2.4, or V2.5 is run. With this support, z/OS helps improve system availability and responsiveness by",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.751179",
+    "chunk_number": 149,
+    "word_count": 163
+  }
+}

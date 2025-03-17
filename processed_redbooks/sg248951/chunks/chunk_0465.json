@@ -1,0 +1,18 @@
+{
+  "content": "UPLINK port RoCE Express features summary The RoCE Express feature codes, cable type, maximum unrepeated distance, and the link rate on an IBM z16 are listed in Table 4-9. Table 4-9 RoCE Express features summary 4.6.4 Parallel Sysplex connectivity Coupling links are required in a Parallel Sysplex configuration to provide connectivity from the z/OS images to the coupling facility (CF). A properly configured Parallel Sysplex provides a highly reliable, redundant, and robust IBM Z technology solution to achieve near-continuous availability. A Parallel Sysplex is composed of one or more z/OS operating system images that are coupled through one or more CFs. This section describes coupling link features supported in a Parallel Sysplex in which an IBM z16 can participate. Coupling links The type of coupling link that is used to connect a CF to an operating system LPAR is important. The link performance significantly affects response times and coupling processor usage. For configurations that",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.038652",
+    "chunk_number": 465,
+    "word_count": 154
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "enabled. c. This feature is physically present, but is not used when configured as an accelerator (clear key only). Functions or attributes CPACF CEX8C CEX8P CEX8A 244 IBM z16 (3931) Technical Guide 6.8 Cryptographic operating system support for IBM z16 In this section, we provide an overview of the operating systems requirements in relation to cryptographic elements. 6.8.1 Crypto Express8S Toleration Crypto Express8S (0908/0909) Toleration treats Crypto Express8S cryptographic coprocessors and accelerators as Crypto Express5 coprocessors and accelerators. The following minimum prerequisites must be met: \u0002 z/OS V2.5; specific functions require WD 20 (HCR77D2) \u0002 z/OS V2.4; specific functions require WD19 (HCR77D1) \u0002 z/OS V2.3 with PTFs \u0002 z/OS V2.2 with PTFs \u0002 z/VM V7.1 and V7.2 for guest use \u0002 z/VSE V6.2 with PTFs \u0002 z/TPF V1.1 with PTFs \u0002 Linux on IBM Z: IBM is working with its Linux distribution partners to provide support by way of maintenance or future releases for the following",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.562963",
+    "chunk_number": 594,
+    "word_count": 156
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Integrated Facility for Linux (FC 1959) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101 3.5.4 Internal Coupling Facility (FC 1960) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102 3.5.5 IBM Z Integrated Information Processor (FC 1961) . . . . . . . . . . . . . . . . . . . . . . 105 3.5.6 System assist processors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110 3.5.7 Reserved processors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110 3.5.8 Integrated Firmware Processors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110 3.5.9 Processor unit assignment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 111 3.5.10 Sparing rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112 3.5.11 CPC drawer numbering. . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.201513",
+    "chunk_number": 13,
+    "word_count": 376
+  }
+}

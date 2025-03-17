@@ -1,0 +1,18 @@
+{
+  "content": "DMSACP725I 190 also = S disk VMFP2P2204I Linking MAINT 19D as 019D with link mode M DASD 019D LINKED R/W; R/O BY 15 USERS VMFP2P1231I Copying files from MAINT720 49D to MAINT 19D VMFP2P2204I Linking MAINT 402 as 0402 with link mode M DASD 0402 LINKED R/W; R/O BY 13 USERS VMFP2P1231I Copying files from MAINT720 49D to MAINT 402 VMFP2P1231I Copying files from MAINT720 490 to MAINT 190 DMSACP726I 5E6 B released VMFP2P1231I Copying files from MAINT720 5E6 to MAINT720 5E5 . . . HCPNSD440I The Named Saved System (NSS) CMS was successfully defined in HCPNSD440I fileid 0047. BLDCMS : HCPNSS440I Named Saved System (NSS) CMS was successfully saved in BLDCMS : HCPNSS440I fileid 0047. Chapter 9. z/VM Centralized Service Management 283 BLDCMS : z/VM V7.2.0 2020-10-07 10:05 HCPQCS150A User BLDCMS has issued a VM read HCPNSD440I The Named Saved System (NSS) ZCMS was successfully defined in HCPNSD440I fileid 0048. BLDCMS : Ready; T=0.01/0.01 23:07:32 BLDCMS : HCPNSS440I Named Saved System (NSS) ZCMS",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.649158",
+    "chunk_number": 621,
+    "word_count": 164
+  }
+}

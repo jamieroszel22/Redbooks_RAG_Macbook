@@ -1,0 +1,18 @@
+{
+  "content": "(SCRT), no matter how busy the zIIPs are. If zIIPs are defined to the LPAR but are not online, the zIIP-eligible work units are processed by CPs in order of priority. The system ignores the IIPHONORPRIORITY parameter in this case and handles the work as though it had no eligibility to zIIPs. zIIPs provide the following benefits: \u0002 Potential software cost savings. \u0002 Simplification of infrastructure as a result of the colocation and integration of new applications with their associated database systems and transaction middleware, such as Db2, IMS, or CICS. Simplification can happen, for example, by introducing a uniform security environment, and by reducing the number of TCP/IP programming stacks and system interconnect links. \u0002 Prevention of processing latencies that occur if Java application servers and their database servers are deployed on separate server platforms. The following Db2 UDB for z/OS V8 or later workloads can run in Service Request Block (SRB) mode: \u0002 Query processing",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.240491",
+    "chunk_number": 270,
+    "word_count": 157
+  }
+}

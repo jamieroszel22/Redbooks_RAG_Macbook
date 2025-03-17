@@ -1,0 +1,18 @@
+{
+  "content": "models, MES upgrades allow the concurrent adjustment of both the number of processors and the capacity level. The MES upgrade can be performed by using LICCC only, installing the second CPC drawer, adding I/O drawers, adding I/O features, or using the following combinations: \u0002 MES upgrades for processors are done by any of the following methods: \u2013 LICCC assigning and activating unassigned PUs up to the limit of the installed CPC drawers. \u2013 LICCC to adjust the number and types of PUs to change the capacity setting, or both. \u2013 Installing the second CPC drawer and LICCC assigning and activating unassigned PUs on the installed CPC drawers. \u0002 MES upgrades for memory are done by one of the following methods: \u2013 By using LICCC to activate more memory capacity up to the limit of the memory cards on the currently installed CPC drawers. \u2013 Installing the second CPC drawer and the use of LICCC to activate more memory capacity on installed CPC drawers. \u2013 By using the CPC Enhanced Drawer",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.411922",
+    "chunk_number": 828,
+    "word_count": 170
+  }
+}

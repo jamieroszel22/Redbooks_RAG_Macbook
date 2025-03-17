@@ -1,0 +1,18 @@
+{
+  "content": "the IBM documentation website, followed by converting the PDF files to text for embeddings. Example 9-1 Code example - 1 from pyspark.sql import SparkSession import os spark = SparkSession.builder \\ .appName(\"Download watsonx.data PDF documentation\") \\ .getOrCreate() def download_pdf(url, local_path): response = requests.get(url) if response.status_code == 200: with open(local_path, 'wb') as file: file.write(response.content) print(f\"PDF downloaded successfully to {local_path}\") else: print(f\"Failed to download PDF. Status code: {response.status_code}\") pdf_url = \"https://www.ibm.com/support/pages/system/files/inline-files/IBM%20watsonx.data%20 version%202.0.3.pdf\" local_file_path = \"wxd_doc_pdf.pdf\" download_pdf(pdf_url, local_file_path) spark.stop() 152 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data asset_li=wslib.assets.list_assets(\"data_asset\") wslib.download_file(\"wxd_doc_pdf\") doc = fitz.open(\"wxd_doc_pdf\") pdf_text = \"\" for page in doc: pdf_text +=",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.339151",
+    "chunk_number": 257,
+    "word_count": 101
+  }
+}

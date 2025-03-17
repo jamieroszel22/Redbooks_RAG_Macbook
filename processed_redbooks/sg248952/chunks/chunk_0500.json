@@ -1,0 +1,18 @@
+{
+  "content": "message. \u0002 Message (data) Integrity The verification of data ensures that what was received is identical to what was sent. It must be proven that the data is complete and was not altered during the moment it was transmitted (by the sender) and the moment it was received (by the receiver). \u0002 Non-repudiation It must be impossible for the owner of the data or the sender of the message to deny authorship. Non-repudiation ensures that both sides of a communication know that the other side agreed to what was exchanged, and not someone else. This specification implies a legal liability and contractual obligation, which is the same as a signature on a contract. Chapter 6. Cryptographic features 203 These goals should all be possible without unacceptable overhead to the communication. The goal is to keep the system secure, manageable, and productive. The basic data protection method is achieved by encrypting and decrypting the data, while hash algorithms, message authentication codes (MACs),",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.161007",
+    "chunk_number": 500,
+    "word_count": 161
+  }
+}

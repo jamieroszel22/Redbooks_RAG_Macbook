@@ -1,0 +1,18 @@
+{
+  "content": "M0x: IBM.Device.Server.IBM z14-3906 \u2013 IBM z14 ZR1: IBM.Device.Server.IBM z14ZR1-3907 \u0002 HCM HCM is a priced optional feature that supplies a graphical interface of HCD. It is installed on a PC and allows you to manage the physical and logical aspects of a mainframe\u2019s hardware configuration. \u0002 CHPID Mapping Tool (CMT) The CMT helps to map CHPIDs onto PCHIDs that are based on an IODF source file and the eConfig configuration file of a mainframe. It provides a CHPID to PCHID mapping with high availability for the targeted I/O configuration. It also features built-in mechanisms to generate a mapping according to customized I/O performance groups. More enhancements are implemented in CMT to support IBM z16 A02 and IBM z16 AGZ configurations. The CMT is available for download from the IBM Resource Link website. The configuration file for a new machine or upgrade is also available from IBM Resource Link. Ask your IBM technical sales representative for the name of the file to download. Note:",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.124252",
+    "chunk_number": 491,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "offline. Review the results. The result of the preparation task is a list of resources that must be made available before the drawer replacement can occur. Freeing any resources At this stage, create a plan to free these resources. The following resources and actions are necessary to free them: Chapter 9. Reliability, availability, and serviceability 387 \u0002 Freeing any PUs: \u2013 Vary off the PUs by using the Perform a Model Conversion window, which reduces the number of PUs in the shared PU pool. \u2013 Deactivate the LPARs. \u0002 Freeing memory: \u2013 Deactivate an LPAR. \u2013 Vary offline a portion of the reserved (online) memory. For example, in z/OS, run the following command: CONFIG_STOR(E=1),<OFFLINE/ONLINE> This command enables a storage element to be taken offline. The size of the storage element depends on the RSU value. In z/OS, the following command configures offline smaller amounts of storage than the amount that was set for the storage element: CONFIG_STOR(nnM),<OFFLINE/ONLINE> \u2013 A",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.819478",
+    "chunk_number": 945,
+    "word_count": 159
+  }
+}

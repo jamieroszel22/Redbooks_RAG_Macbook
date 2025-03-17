@@ -1,0 +1,18 @@
+{
+  "content": "virtualized platform that can support many system images at once. Therefore, network connectivity covers not only the connections between the platform and external networks with Open Systems Adapter-Express (OSA-Express) and RoCE Express features, it supports specialized internal connections for intra-system communication through IBM HiperSockets and Internal Shared Memory (ISM). OSA-Express The OSA-Express features provide local area network (LAN) connectivity and comply with IEEE standards. In addition, OSA-Express features assume several functions of the TCP/IP stack that normally are performed by the PU, which allows significant performance benefits by offloading processing from the operating system. OSA-Express7S 1.2 features continue to support copper and fiber optic (single-mode and multi-mode) environments. HiperSockets IBM HiperSockets is an integrated function of the IBM Z platforms that supplies attachments to up to 32 high-speed virtual LANs, with minimal system and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.515914",
+    "chunk_number": 97,
+    "word_count": 134
+  }
+}

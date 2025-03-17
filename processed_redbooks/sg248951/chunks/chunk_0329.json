@@ -1,0 +1,18 @@
+{
+  "content": "resources more efficiently by trying to stay within the local cache structure. Doing so makes efficient use of the advantages of the high-frequency microprocessors, and improves throughput and response times. \u0002 Dynamic channel path management (DCM) DCM moves FICON channel bandwidth between disk control units to address current processing needs. IBM z16 systems support DCM within a channel subsystem. \u0002 Channel subsystem priority queuing This function on IBM z16 and IBM Z allows the priority queuing of I/O requests in the channel subsystem and the specification of relative priority among LPARs. When running in goal mode, WLM sets the priority for an LPAR and coordinates this activity among clustered LPARs. For more information about implementing LPAR processor management under IRD, see z/OS Intelligent Resource Director, SG24-5952. 130 IBM z16 (3931) Technical Guide 3.9 Clustering technology Parallel Sysplex is the clustering technology that is used with IBM Z servers. The components of",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.513220",
+    "chunk_number": 329,
+    "word_count": 151
+  }
+}

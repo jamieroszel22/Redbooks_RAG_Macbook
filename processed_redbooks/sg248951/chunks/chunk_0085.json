@@ -1,0 +1,18 @@
+{
+  "content": "FICON SAN Infrastructure, zHyperLink can improve application response time, which cuts I/O-sensitive workload response time in half without requiring application changes.3 3 The performance results can vary depending on the workload. Use the zBNA tool for the zHyperLink planning. Note: The zHyperLink channels complement FICON channels, but they do not replace FICON channels. FICON remains the main data driver and is mandatory for zHyperLink usage. Chapter 1. Introducing the IBM z16 9 1.2.5 Network connectivity The IBM z16 is a fully virtualized platform that can support many system images at once. Therefore, network connectivity covers not only the connections between the platform and external networks with Open Systems Adapter-Express (OSA-Express) and RoCE Express features, it supports specialized internal connections for intra-system communication through IBM HiperSockets and Internal Shared Memory (ISM). OSA-Express The OSA-Express features provide local area network (LAN)",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.461591",
+    "chunk_number": 85,
+    "word_count": 139
+  }
+}

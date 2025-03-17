@@ -1,0 +1,18 @@
+{
+  "content": "z16 AGZ Compression/Decompression accelerator is implemented in the Nest Accelerator Unit (NXU) on each processor chip of the IBM Telum microprocessor. IBM z16 A02 and IBM z16 AGZ On-Chip Compression delivers industry-leading throughput and replaces the zEDC Express PCIe adapter available on the IBM z14. One Nest Accelerator Unit (NXU) is used per processor chip, which is shared by all cores on the chip and features the following benefits: \u0002 Brand new concept of sharing and operating an accelerator function in the nest \u0002 Supports DEFLATE compliant compression/decompression and GZIP CRC/ZLIB Adler \u0002 Low latency \u0002 High bandwidth \u0002 Problem state execution \u0002 Hardware/Firmware interlocks to ensure system responsiveness \u0002 Designed instruction \u0002 Run in millicode The On-Chip Compression Accelerator removes this virtualization constraint because it is shared by all PUs on the processors chip; therefore, it is available to all LPARs and guests. Moving the compression function from the I/O",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.113794",
+    "chunk_number": 237,
+    "word_count": 151
+  }
+}

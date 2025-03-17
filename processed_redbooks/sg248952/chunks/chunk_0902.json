@@ -1,0 +1,18 @@
+{
+  "content": "(concurrent drawer repair) \u2013 Concurrent upgrade via LICCC and EDA (enhanced drawer availability) \u0002 L1 and L1 shadow - L1 shadow is new on IBM z16 A02 and IBM z16 AGZ: Behaves like the L1 (for repairs) Contains changed data All UE1 checkstop core \u2022 UE are refetched before acting \u2013 UE impact dependent on system state \u2022 Before end OP, IPD w/o Storage validity \u2022 Before SIE synch, System Damage \u0002 IBM Z Integrated Accelerator for AI (AIU) AIU is an on-chip AI Accelerator which is new on IBM z16 A02 and IBM z16 AGZ. AIU behaves like a co-processor to process the synchronous instructions but AIU is located in nest. The core control the AIU by issuing instruction (NNPA). \u2013 The array macro have row and column repair (MD and ABIST) \u2013 1MB cache with SECDEC2 ECC \u0002 On-chip L2 caches are implemented in dense SRAM. The IBM z16 A02 and IBM z16 AGZ has removed the physical L3 (on-chip for IBM z15) and L4 (on additional storage controller single chip module - SC SCM) and has implemented clustered cache",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.662793",
+    "chunk_number": 902,
+    "word_count": 182
+  }
+}

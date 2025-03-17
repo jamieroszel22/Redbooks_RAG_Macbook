@@ -1,0 +1,18 @@
+{
+  "content": "items: \u2013 Type: Usually allow or deny. Some advanced types such as data masking and row-level filtering are supported by external policy engines. \u2013 Principal: The entity (user or group) that is requesting access. \u2013 Action: The operation that is requested (select, insert, delete, and others). In Figure 4-2, the policy contains a single rule to grant \u201cselect\u201d and \u201cinsert\u201d permissions on the table store_returns under the schema tpcds_10gb in the catalog sample_data to the user liuljun@ibm.com. Figure 4-2 Create an access control policy: Add a rule IBM watsonx.data supports access control policies for several types of resources. The data objects and the corresponding rules are different. Table 4-2 describes them in detail. Table 4-2 Access control policies Resource Data object Action Catalog Schema/Table/Column Select, Insert, Update, Alter, and others Chapter 4. Protecting data 55 For more information about how to manage the access control policies, see Managing data policy rules. Storage",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.889076",
+    "chunk_number": 142,
+    "word_count": 152
+  }
+}

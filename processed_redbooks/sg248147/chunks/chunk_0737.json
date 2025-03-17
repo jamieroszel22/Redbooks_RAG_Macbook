@@ -1,0 +1,18 @@
+{
+  "content": ": TCPIP - DSC , MAINT -L0003 RDBKZVMG : VSM - TCPIP 2. If you are sure that you are in a position to shut down, shut down and re-IPL the SSI cluster: ===> ssicmd shutdown reipl or ===> cp shutdown reipl SYSTEM SHUTDOWN STARTED HCPSHU960I System shutdown may be delayed for up to 630 seconds VMSERVP : DMS5BC3108I Shutdown Signal received. STOP processing started VMSERVU : DMS5BC3108I Shutdown Signal received. STOP processing started ... 3. When the SSI cluster comes back up, log on as MAINT to the first SSI member. 4. Query the virtual machines by running with the SSICMD EXEC as a reference (the SMAPI virtual machines are shown in bold): ===> ssicmd q n or ===> cp q n at all RDBKZVMH: DIRMSAT2 - SSI VSMWORK2 - DSC , VSMWORK1 - DSC , FTPSERVE - DSC , VSMGUARD - DSC LNXADMIN - DSC , TCPIP - DSC , DIRMAINT - DSC , DTCVSW2 - DSC DTCVSW1 - DSC , VMSERVP - DSC , VMSERVR - DSC , VMSERVU - DSC VMSERVS - DSC , OPERSYMP - DSC , DISKACNT - DSC , EREP - DSC OPERATOR - DSC , LOHCOST - DSC , VSMEVSRV",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.097312",
+    "chunk_number": 737,
+    "word_count": 198
+  }
+}

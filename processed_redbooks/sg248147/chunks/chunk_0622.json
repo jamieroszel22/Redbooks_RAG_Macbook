@@ -1,0 +1,18 @@
+{
+  "content": "was successfully saved in BLDCMS : HCPNSS440I fileid 0048. BLDCMS : z/CMS V7.2.0 2020-10-07 10:05 HCPQCS150A User BLDCMS has issued a VM read . . . VMFP2P1233I The following products have been put into production. Recycle the appropriate servers. VMFP2P1233I VMSES VMFP2P2264I Restoring prior system environment using saved access/minidisk information VMFSET2760I VMFSETUP processing started for ENVRESTORE PUT2PRODEXEC20201010095021 VMFSET2760I VMFSETUP processing completed successfully (RC=0) VMFP2P2760I PUT2PROD processing completed successfully (RC=0) Files were copied to the CMS and VMSES/E disks, and then, the CMS Named Saved Systems were saved. 9.3 Working with z/VM CSM After the setup work is complete, you are ready to initialize VMCSM and start building service releases. 9.3.1 Initializing z/VM CSM by using SERVMGR INIT We logged on to our principal system with the MAINTCSM ID. We ensured the FTP DATA change that is described in \u201cFTP DATA update on principal system\u201d was done.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.651418",
+    "chunk_number": 622,
+    "word_count": 146
+  }
+}

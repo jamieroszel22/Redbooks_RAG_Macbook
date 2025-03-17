@@ -1,0 +1,18 @@
+{
+  "content": "Prime and BrainPool curves. \u0002 ECC Protected Keys Crypto Express7S provides support in CCA coprocessors to take advantage of fast DES, AES data encryption speeds in CPACF while maintaining high levels of security for the secure key material.The key remains encrypted and the key encrypting key never appears in host storage. When using CCA ECC services, ICSF can now take advantage of ECC support in CPACF (protected key support) for these curves: \u2013 Prime: P256, P384, P521 \u2013 Edwards: ED25519, ED448 CPACF can achieve much faster crypto speeds compared to the coprocessor The translation to protected key happens automatically once the attribute is set in the key token. No application change is required. \u0002 New signatures Support for the Cryptographic Suite for Algebraic Lattices signatures algorithm with the largest key sizes (MODE=3) 222 IBM z16 A02 and IBM z16 AGZ Technical Guide \u2013 Public Key size: 1760 bytes \u2013 Private Key Size: 3856 bytes \u2013 Signature Size: 3366 bytes Lattice-based",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.356419",
+    "chunk_number": 549,
+    "word_count": 160
+  }
+}

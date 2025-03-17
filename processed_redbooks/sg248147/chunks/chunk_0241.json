@@ -1,0 +1,18 @@
+{
+  "content": "4.1, \u201cIBM Cloud Infrastructure Center\u201d on page 84 \u0002 4.2, \u201cOpenShift\u201d on page 85 \u0002 4.3, \u201cOperations Manager\u201d on page 88 \u0002 4.4, \u201cBackup and Restore Manager\u201d on page 89 \u0002 4.5, \u201cCMS Pipelines and VM utilities\u201d on page 91 \u0002 4.6, \u201czSecure Manager for RACF z/VM\u201d on page 93 4 84 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 4.1 IBM Cloud Infrastructure Center IBM Cloud Infrastructure Center is an Infrastructure as a Service (IaaS) management solution. It provides on-premises cloud deployment of Linux guests under z/VM and integrates with high-level cloud automation tools; for example, IBM Cloud Automation Manager, VMware vRealize Automation (vRA), and vRealize Orchestration (vRO). It is built with OpenStack compatible APIs, which allows current OpenStack implementations to easily integrate a z/VM environment. 4.1.1 Infrastructure management Cloud Infrastructure Center provides a consistent experience to manage the virtualization environment (see Figure 4-1). It allows the definition,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.107188",
+    "chunk_number": 241,
+    "word_count": 148
+  }
+}

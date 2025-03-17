@@ -1,0 +1,18 @@
+{
+  "content": "z16 AGZ is part of a Parallel Sysplex or Coordinated Timing Network, InfiniBand links cannot be used on older IBM Z even if installed. Unless otherwise noted, ICA SR is used for ICA SR and ICA SR1.1 for the rest of the chapter. Note: The PCIe fanout is used exclusively for I/O and cannot be shared for any other purpose. Chapter 4. I/O structure 149 Both cards are designed to drive distances up to 150 meters (492 feet) with a link data rate of 8 GBps. ICA SR supports up to four channel-path identifiers (CHPIDs) per port and eight subchannels (devices) per CHPID. The coupling links can be defined as shared between images (z/OS) within a CSS. They also can be spanned across multiple CSSs in a CPC. For ICA SR features, a maximum four CHPIDs per port can be defined. When STP5 (FC 1021) is available, ICA SR coupling links can be defined as timing-only links to other IBM z16 A02 and IBM z16 AGZ, IBM z15, IBM z14 ZR1, or IBM z14 M0x systems. The ICA SR cannot be connected to InfiniBand",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.686591",
+    "chunk_number": 376,
+    "word_count": 184
+  }
+}

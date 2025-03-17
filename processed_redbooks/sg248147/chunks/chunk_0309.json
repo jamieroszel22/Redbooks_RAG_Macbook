@@ -1,0 +1,18 @@
+{
+  "content": "Install process HCPIIS8490I NOW FORMATTING VOLUME 923E (1 OF ##) ... IUGIIS8380I Restoring IIS to VMFOM1, VMFRL1, VMFRES, and VMFS01 ... IUGILB8440I Now loading PMAINT 2CC (2CC) disk 1 of 192 ... HCPMLP8392I INSTALL EXEC ENDED SUCCESSFULLY. 11.You see the message: HCPMLP8392I INSTALL EXEC ENDED SUCCESSFULLY. 12.Run the SHUTDOWN command. This command shuts down the last VMSSI member that IPLed. You see the system shutting down, which ends in a disabled wait with a state code of 961: ===> shutdown ... HCPGIR450W CP entered; disabled wait PSW 00020000 00000000 00000000 00000961 You see the system identifier in the lower right return to IBMVMRAM, which is the in-memory copy of z/VM that was used to begin the installation process. 13.Shut down the in-memory system: ===> shutdown system ibmvmram 16:03:37 SYSTEM SHUTDOWN STARTED The in-memory copy of z/VM is halted on VMSSI member 1. On the HMC, the LPAR status changes from Operating to Not Operating instead. z/VM 7.2 is now installed.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.419247",
+    "chunk_number": 309,
+    "word_count": 160
+  }
+}

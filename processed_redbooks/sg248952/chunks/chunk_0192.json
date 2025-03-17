@@ -1,0 +1,18 @@
+{
+  "content": "for all configurations \u0002 The three-phase power iPDUs can be: \u2013 Low voltage 4 wire \u201cDelta\u201d \u2013 High voltage 5 wire \u201cWye\u201d \u0002 No EPO (emergency power off) switch is used. IBM z16 A02 has a support element task to simulate the EPO function (only used when necessary to do a System Reset Function). \u0002 No DC input feature is available. Internal Battery Feature is not available for z16 A02. \u0002 The system is air-cooled and has redundant design for the blowers (fans) and power supplies. \u0002 No Top Exit Power feature is available because the 19-inch frame is capable of top or bottom exit of power. All line cords are 4.26 meters (14 feet). Combined with the Top Exit I/O Cabling feature, more options are available when you are planning your computer room cabling. \u0002 The new PSCN12 structure uses industry standard Ethernet switches (redundant, 1+1). 2.9.1 Power considerations- IBM z16 A02 (factory frame) The IBM Z operates with redundant power infrastructure. The IBM z16 A02 is designed with a power",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.938559",
+    "chunk_number": 192,
+    "word_count": 172
+  }
+}

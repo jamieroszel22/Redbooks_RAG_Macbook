@@ -1,0 +1,18 @@
+{
+  "content": "STATUS UM35728 VMFSRV2760I SERVICE processing started VMFSRV1226I CP (7VMCPR20%CP) PTF UM35728 status: VMFSRV1226I RECEIVED 09/17/20 15:19:15 VMFSRV1226I APPLIED 09/17/20 15:19:15 VMFSRV1226I BUILT 09/17/20 15:19:27 VMFSRV1226I PUT2PROD 09/17/20 15:24:46 POKDEV72 VMFSRV2760I SERVICE processing completed successfully This query shows that the PTF was successfully applied. 7. Repeat the steps in this section for all members in the SSI cluster. 8.4.6 Checking for APARMEMO files After you apply PTFs, check for files with a file type of APARMEMO on the MAINT720 500 disk. These files might provide instructions for more work after the PTFs are applied. Complete the following steps: 1. Access the MAINT 500 disk as C and list the files with file type APARMEMO: ==> access 500 c DMSACC724I 500 replaces C (2CC) ==> listfile * aparmemo c 7VMCPR20 APARMEMO C1 This example shows one APARMEMO file. 2. Review the contents of the file: ==> type 7vmcpr20 aparmemo c APAR MEMOS 09/17/20.16:16:55",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.563044",
+    "chunk_number": 599,
+    "word_count": 151
+  }
+}

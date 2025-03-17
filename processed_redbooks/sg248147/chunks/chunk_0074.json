@@ -1,0 +1,18 @@
+{
+  "content": "newsletter: ibm.com/redbooks/redbooks.nsf/subscribe \u0002 Stay current on recent Redbooks publications with RSS Feeds: ibm.com/redbooks/rss.html 8 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 9 Summary of changes This section describes the technical changes made in this edition of the book and in previous editions. This edition might also include minor corrections and editorial changes that are not identified. Summary of Changes for SG24-8147-02 for Virtualization Cookbook: Vol 1: IBM z/VM 7.2 as created or updated on November 11, 2024. Summary of changes in this book The following changes were made to this book from the prior publication: Setup of IBM z/VM: \u0002 The chapter to install a z/VM non-single system image (SSI) logical partition (LPAR) was removed because we encourage you to install SSI if only as a single member cluster. This approach provides the environment to use SSI in the future. \u0002 Naming conventions for virtual",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.413109",
+    "chunk_number": 74,
+    "word_count": 155
+  }
+}

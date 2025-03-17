@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . 64 6.2.2 Explainability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64 6.2.3 Model health . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65 6.2.4 Generative AI quality. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65 6.2.5 RAG quality metrics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65 6.3 How to implement Lifecycle Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66 6.3.1 Getting started: Setting up your AI use cases. . . . . . . . . . . . . . . . . . . . . . . . . . . . 66 6.4 Lifecycle implementation and considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67 6.4.1 UI-driven implementation of lifecycle governance. . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.460241",
+    "chunk_number": 10,
+    "word_count": 388
+  }
+}

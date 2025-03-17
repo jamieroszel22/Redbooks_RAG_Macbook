@@ -1,0 +1,18 @@
+{
+  "content": "is your responsibility to ensure that you are not violating terms, licensing, or any applicable laws. Furthermore, always check with your IT department or Help Desk before you attempt to install any product on a company asset. Chapter 5. Installing z/VM 109 7. Create directories for the files that are associated with this book. For more information about these files, see Appendix C, \u201cAdditional material\u201d on page 489. 8. Create a directory where the files are to be stored. In our example, we use the following command: # mkdir -p /ftp/zvm/cookbook 9. Obtain the latest version of the associated files. You can choose to download the compressed tar archive (.tgz) to an intermediate system such as a workstation, or download it directly from the Internet. The following example shows downloading a compressed tarball that is named example.tgz to the correct directory directly from the Internet: # cd /ftp/zvm/cookbook # wget -v www.vm.ibm.com/pubs/redbooks/sg248147/files/example.tgz ...",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.250513",
+    "chunk_number": 277,
+    "word_count": 153
+  }
+}

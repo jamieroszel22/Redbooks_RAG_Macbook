@@ -1,0 +1,18 @@
+{
+  "content": "with mis-classified or undiscovered sensitive data. \u0002 Help protect digital assets automatically. \u0002 Achieve application transparent encryption. IBM Db2\u00ae for z/OS and IBM Information Management System (IMS) intend to use z/OS Data Set Encryption. With z/OS, Data Set Encryption DFSMS enhances data security with support for data set level encryption by using DFSMS access methods. This function is designed to give users the ability to encrypt their data sets without changing their application programs. DFSMS users can identify which data sets require encryption by using JCL, Data Class, or the RACF data set profile. Data set level encryption can allow the data to remain encrypted during functions, such as backup and restore, migration and recall, and replication. z/OS Data Set Encryption requires CP Assist for Cryptographic Functions (CPACF). Chapter 7. Operating system support 307 Considering the significant enhancements that were introduced with z14, the encryption mode of XTS is used by",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.203463",
+    "chunk_number": 762,
+    "word_count": 151
+  }
+}

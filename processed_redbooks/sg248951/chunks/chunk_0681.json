@@ -1,0 +1,18 @@
+{
+  "content": "Coupling links support Integrated Coupling Adapter (ICA) Short Reach and Coupling Express2 Long Reach (CE2 LR) coupling link options provide high-speed connectivity at short and longer distances over fiber optic interconnections. For more information, see 4.6.4, \u201cParallel Sysplex connectivity\u201d on page 187. Integrated Coupling Adapter PCIe Gen3 coupling fan-out, which is also known as Integrated Coupling Adapter Short Reach (ICA SR, ICA SR1.1), supports a maximum distance of 150 meters (492 feet) and is defined as CHPID type CS5 in IOCP. Chapter 7. Operating system support 285 Coupling Express2 Long Reach8 The CE LR link provides point-to-point coupling connectivity at distances of 10 km (6.21 miles) unrepeated and defined as CHPID type CL5 in IOCP. The supported operating systems are listed in Table 7-5 on page 256. Virtual Flash Memory use by CFCC VFM can be used in coupling facility images to provide extended capacity and availability for workloads that use WebSphere MQ Shared",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.910353",
+    "chunk_number": 681,
+    "word_count": 154
+  }
+}

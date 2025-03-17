@@ -1,0 +1,18 @@
+{
+  "content": "operation for outbound large messages (originating from z/OS) to be run by a zIIP. Application workloads that are based on XML, HTTP, SOAP, and Java, and traditional file transfer can benefit. \u0002 During the SRB boost period, ANY work in a boosting image is eligible to run on a zIIP processor associated with the image (LPAR). Many more workloads and software can use zIIP processors, such as the following examples: \u0002 IBM z/OS Container Extensions (zCX) \u0002 IBM z/OS CIM monitoring \u0002 IBM z/OS Management Facility (z/OSMF) \u0002 System Display and Search Facility (SDSF) \u0002 IBM z/OS Connect EE components \u0002 IBM Sterling\u2122 Connect:Direct\u00ae \u0002 IBM Z System Automation: \u0002 Java components of IBM Z SMS and SAS \u0002 IBM Z NetView RESTful API server \u0002 IBM Z Workload Scheduler & Dynamic Workload Console (under WebSphere Liberty) \u0002 IMS workloads (DRDA, SOAP, MSC, ISC) \u0002 Db2 for z/OS Data Gate \u0002 Db2 Sort for z/OS \u0002 Db2 Analytics Accelerator Loader for z/OS \u0002 Db2 Utilities Suite for z/OS \u0002 Db2 Log Analysis Tool for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.257280",
+    "chunk_number": 274,
+    "word_count": 174
+  }
+}

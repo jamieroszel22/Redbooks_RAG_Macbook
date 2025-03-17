@@ -1,0 +1,18 @@
+{
+  "content": "been sent for processing to DIRMAINT at DVHXMT1191I POKDEV62. DVHREQ2288I Your ADD request for LINUX76 at * has been accepted. ... DVHSHN3430I AMDISK operation for LINUX76 address 0101 has finished (WUCF DVHSHN3430I 07101436). DVHREQ2289I Your ADD request for LINUX76 at * has completed; with RC = DVHREQ2289I 0. 5. Allow the new user access to the virtual switches that are named VSW1 and VSW2: ===> rac permit system.vsw1 class(vmlan) id(linux8) access(update) ===> rac permit system.vsw2 class(vmlan) id(linux8) access(update) This example shows DirMaint working with RACF when it is creating virtual machines. 324 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 10.5 Systems Management API SMAPI simplifies the task of managing many virtual images running under a single z/VM LPAR. It is a standard, platform-independent client interface that reduces the amount of required z/VM-specific programming skills. A robust suite of Application Programming Interfaces (APIs) that perform system management",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.995580",
+    "chunk_number": 709,
+    "word_count": 146
+  }
+}

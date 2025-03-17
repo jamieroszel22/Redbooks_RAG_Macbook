@@ -1,0 +1,18 @@
+{
+  "content": "can configure and manage resources across the platform. Common use cases include managing users and defining security policies. \u0002 Editor role: Provides permissions to modify resources but not manage user roles or platform-wide configurations. \u0002 Viewer role: Enables read-only access, which is useful for monitoring and auditing activities. \u0002 Operator role: Focused on operational management, such as managing jobs and workflows. These roles are typically managed through IBM Cloud Identity and Access Management (IAM) tools, which streamline role assignment and enforce compliance requirements across the platform Instance roles Instance roles operate at the scope of a specific IBM watsonx.data deployment or resource, which provide more granular control over data and compute resources. Here are the instance roles: \u0002 Metastore Admin: Full access to metadata repositories and configuration, which is critical for administrators managing catalogs in services like Db2 or Netezza. \u0002 Metastore",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.860924",
+    "chunk_number": 135,
+    "word_count": 142
+  }
+}

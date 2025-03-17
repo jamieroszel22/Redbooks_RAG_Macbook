@@ -1,0 +1,18 @@
+{
+  "content": "results. Additionally, use cases synchronize the watsonx.governance Evaluation and Monitoring Component (performance metrics and quality control) with the Model Inventory and Lifecycle Tracking Component (model reports). Changes in one are automatically reflected in the other. This ensures that users always have up-to-date information about AI models. 2. Model - The Model object represents a quantitative method, system, or approach used within an organization to transform input data into quantitative estimates. This is achieved through the application of statistical, economic, financial, or mathematical theories, techniques, and assumptions. The Model object captures essential information, including: \u2013 Model Description: A detailed description of the model \u2013 Model Ownership: Information about the model's owner \u2013 Model Status: The current status of the model \u2013 Development Lifecycle Dates: Important dates related to the model's development \u2013 Model Type and Category: Classification of",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.846170",
+    "chunk_number": 105,
+    "word_count": 137
+  }
+}

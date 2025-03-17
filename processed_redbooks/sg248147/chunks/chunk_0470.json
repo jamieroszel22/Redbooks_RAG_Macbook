@@ -1,0 +1,18 @@
+{
+  "content": "DVHREQ2288I Your REVIEW request for IBMDFLT at * has been accepted. RDR FILE 0347 SENT FROM DIRMAINT PUN WAS 0706 RECS 0020 ... ... ===> peek 0347 Note: Modifications made to the above entries supplied by IBM are not recommended. System components may rely on the default values, and changes can result in unexpected and unwanted results. If you want to use one of these profiles, but want to alter the contents you should make a copy of the profile with a different name and use that instead. 206 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 The contents are similar to Figure 6-9. Figure 6-9 Contents of IBMDFLT PROFILE entry When your review is complete, discard the file so that it does not occupy spool space unnecessarily. Peek will close and the file will be discarded: ====> discard File IBMDFLT DIRECT has been discarded. 6.13.2 Role-based access controls and CP privilege classes In z/VM, a user can have no privileges or be assigned to one or more privilege classes. Each privilege class",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.038447",
+    "chunk_number": 470,
+    "word_count": 172
+  }
+}

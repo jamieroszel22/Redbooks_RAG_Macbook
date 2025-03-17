@@ -1,0 +1,18 @@
+{
+  "content": "Because all of the definitions of users and their resources is in the user directory, the directory administrator is involved in all changes. By using an ESM, authority can be delegated to different individuals. For example, RACF provides a capability to make a user ID a security administrator for a group to which the user is connected. This capability is known as group-special. A user with the group-special attribute on their connection to a group can perform security operations against users in that group without having to be made a system-wide administrator. By using this mechanism, different users can be made security administrators of different parts of the z/VM environment (such as one or more Linux system administrators can be given group-special over the Linux systems they manage). Auditing The security of a system is only as good as its administrator\u2019s ability to prove it is secure. One of the strengths of a z/VM system that is secured by using an ESM is the audit stream that",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.024128",
+    "chunk_number": 219,
+    "word_count": 167
+  }
+}

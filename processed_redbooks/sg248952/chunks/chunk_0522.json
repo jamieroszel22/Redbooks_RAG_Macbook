@@ -1,0 +1,18 @@
+{
+  "content": "function: \u0002 KMAC: Compute Message Authentic Code \u0002 KM: Cipher Message \u0002 KMC: Cipher Message with Chaining \u0002 KMF: Cipher Message with CFB \u0002 KMCTR: Cipher Message with Counter \u0002 KMO: Cipher Message with OFB \u0002 KIMD: Compute Intermediate Message Digest \u0002 KLMD: Compute Last Message Digest \u0002 PCKMO: Provide Cryptographic Key Management Operation These functions are provided as problem-state z/Architecture instructions that are directly available to application programs. These instructions are known as Message-Security Assist (MSA). When enabled, the CPACF runs at processor speed for every CP, IFL, and zIIP. For more information about MSA instructions, see z/Architecture Principles of Operation, SA22-7832. For activating these functions, the CPACF must be enabled by using feature code (FC) 3863, which is available for no extra charge. Support for hashing algorithms SHA-1, SHA-256, SHA-384, and SHA-512 is always enabled. 6.4.1 Cryptographic synchronous functions Because the CPACF works",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.244648",
+    "chunk_number": 522,
+    "word_count": 145
+  }
+}

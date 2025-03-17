@@ -1,0 +1,18 @@
+{
+  "content": "disaster recovery situation. \u0002 For 10 days, for testing your disaster recovery procedures or running the production workload. This option requires that IBM Z workload capacity that is equivalent to the CBU upgrade capacity is shut down or otherwise made unusable during the CBU test.3 8.8.1 Ordering The CBU process allows for CBU to activate CPs, ICFs, zIIPs, and IFLs. To use the CBU process, a CBU enablement feature (FC 9910) must be ordered and installed. You must order the quantity and type of PU that you require by using the following feature codes: \u0002 FC 6805: More CBU test activations Note: The Capacity Planned Event feature (6833) can no longer be ordered for a new IBM BM z16 A02 or IBM z16 AGZ, but, if installed on the base system, the record will be brought forward during an upgrade into IBM z16 A02 and IBM z16 AGZ (via the Support Element Save/Restore process). Also, the CPE record cannot be replenished through e-config or Resource Link. Flexible Capacity for Cyber Resiliency",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.569368",
+    "chunk_number": 870,
+    "word_count": 171
+  }
+}

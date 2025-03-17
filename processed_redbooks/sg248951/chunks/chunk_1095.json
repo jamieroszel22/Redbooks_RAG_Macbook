@@ -1,0 +1,18 @@
+{
+  "content": "your system. For more information about CP3KEXTR, see the IBM Techdoc z/OS Data Extraction Program (CP3KEXTR) for IBM zPCR and IBM zBNA. Creating EDF file with CP3KVMXT (z/VM) CP3KVMXT is the VM Extract Utility for IBM zCP3000 and IBM zPCR Capacity Planning Support Tools. CP3KVMXT reads CP Monitor data from a z/VM system, and generates an Enterprise Data File (EDF) of PR/SM, system image, and workload-related measurements for input into the IBM zCP3000 and IBM zPCR capacity planning tools. A CP3KVMXT-created EDF can be used to model interactive VM workloads or workloads under guest operating systems such as Linux and can be concurrently loaded with a CP3KEXTR-created z/OS EDF for the same data intervals. Do not use MIPS or MSUs for capacity planning: Do not use \u201cone number\u201d capacity comparisons, such as MIPS or MSUs. IBM does not officially announce the processor performance as \u201cMIPS\u201d. MSU is only a number for software license charge and it does not represent the processor's",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.279613",
+    "chunk_number": 1095,
+    "word_count": 161
+  }
+}

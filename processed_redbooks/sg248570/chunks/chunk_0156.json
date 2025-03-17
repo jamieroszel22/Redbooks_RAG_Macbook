@@ -1,0 +1,18 @@
+{
+  "content": "is the same as in any relational database. The mapping from source data to tables is defined by the connector. Figure 5-4 on page 64 shows a Presto cluster between coordinator and workers data structure. 64 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Figure 5-4 Presto cluster between coordinator and workers data structure 5.1.3 Executing a query If your query joins together many large tables, it may need multiple stages to execute, aggregating tables together. After each execution stage, there may be intermediate data sets. Unlike distributed query engines such as Hive that were designed to persist intermediate results to disk, Presto saves time by executing queries in the memory of the worker machines. It performs operations on intermediate datasets there, instead of persisting them to disk. With Presto, data can reside in many different places and Presto performs the executions in memory across your workers, moving data between workers as needed. This",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.943517",
+    "chunk_number": 156,
+    "word_count": 157
+  }
+}

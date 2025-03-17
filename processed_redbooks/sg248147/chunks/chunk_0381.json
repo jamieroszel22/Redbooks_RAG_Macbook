@@ -1,0 +1,18 @@
+{
+  "content": "z/VM 163 BUILD ON RIGHT630 USING SUBCONFIG RACFVM-2 * BUILD ON @@member3name USING SUBCONFIG RACFVM-3 * BUILD ON @@member4name USING SUBCONFIG RACFVM-4 IUCV *RPI PRIORITY MSGLIMIT 100 IUCV ANY PRIORITY MSGLIMIT 50 IUCV ALLOW MSGLIMIT 255 ACCOUNT SYSTEMS MACH XA IPL 490 PARM AUTOCR OPTION QUICKDSP MAXCONN 300 CONSOLE 009 3215 T OPERATOR SPOOL 00C 2540 READER * SPOOL 00D 2540 PUNCH A SPOOL 00E 1403 A * Add minidisks 200 and 300 for a shared RACF database MDISK 200 3390 DEVNO 103B MWV READ WRITE MULTIPLE MDISK 300 3390 DEVNO 113B MWV READ WRITE MULTIPLE ... The DEVNO operand on the MDISK statement specifies a full-pack minidisk. It allows CP to not depend on the volume labels of the disks. 9. Replace the RACFVM SUBCONFIG definition: ===> dirm for racfvm rep ... DVHREQ2289I Your REPLACE request for RACFVM at * has completed; with DVHREQ2289I RC = 0. Watch for a return code of 0. The RACFVM virtual machine now references the two shared DASD volumes. Modifying the RACMAINT identity The",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.686850",
+    "chunk_number": 381,
+    "word_count": 171
+  }
+}

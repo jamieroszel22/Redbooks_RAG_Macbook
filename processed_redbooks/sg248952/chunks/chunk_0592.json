@@ -1,0 +1,18 @@
+{
+  "content": "page-in from PLPA page dataset on disk cannot be validated and would be inherently insecure. The process of performing a Validated Boot via List-Directed IPL is shown in Figure 6-11. Figure 6-11 z/OS Validated Boot Process (via LD-IPL) 6.9.2 Secure Boot for ECKD devices Linux on IBM Z has supported secure boot from FCP-attached devices since IBM z15. With support for a Validated Boot for z/OS, support in IBM z16 extends existing Linux secure boot capabilities to ECKD devices and allows client-provided validation certificates provided through the SE/HMC to be used for validation purposes during Linux secure boot. This new function is embedded in the baseline offering functionality. In addition, z/VM(R) 7.3 has been enhanced with support to securely boot a Linux guest. Before you can use an ECKD type DASD as a disk for Linux on IBM Z, you must format it with a suitable disk layout. You must then create a file systemor define a swap space. Please review Preparing an ECKD type DASD for",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.540788",
+    "chunk_number": 592,
+    "word_count": 167
+  }
+}

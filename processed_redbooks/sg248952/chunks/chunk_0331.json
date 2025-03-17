@@ -1,0 +1,18 @@
+{
+  "content": "value of IBM Z hardware, robustness, and security in a workload optimized environment. DPM provides facilities to define and run virtualized computing systems by using a firmware-managed environment that coordinate the physical system resources that are shared by the partitions. The partitions\u2019 resources include processors, memory, network, storage, crypto, and accelerators. Chapter 3. Central processor complex design 127 DPM provides a new mode of operation for IBM Z servers that provide the following services: \u0002 Facilitates defining, configuring, and operating PR/SM LPARs in a similar way to how someone performs these tasks on another platform. \u0002 Lays the foundation for a general IBM Z new user experience. DPM is not another hypervisor for IBM Z servers. DPM uses the PR/SM hypervisor infrastructure and provides an intelligent interface on top of it that allows customers to define, use, and operate the platform virtualization without IBM Z experience or skills. 3.7.2 Storage",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.515387",
+    "chunk_number": 331,
+    "word_count": 150
+  }
+}

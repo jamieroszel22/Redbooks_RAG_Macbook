@@ -1,0 +1,18 @@
+{
+  "content": "cryptographic coprocessor domains that can be administered from this logical partition if it is set up as the TCP/IP host for the TKE. If you are setting up the host TCP/IP in this logical partition to communicate with the TKE, the partition is used as a path to other domains\u2019 Master Keys. Indicate all the control domains that you want to access (including this partition\u2019s own control domain) from this partition. \u0002 Control and Usage Domain Identifies the cryptographic coprocessor domains that are assigned to the partition for all cryptographic coprocessors that are configured on the partition. The usage domains cannot be removed if they are online. The numbers that are selected must match the domain numbers that are entered in the Options data set when you start this partition instance of ICSF. The same usage domain index can be used by multiple partitions, regardless to which CSS they are defined. However, the combination of PCIe adapter number and usage domain index number must be",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.450568",
+    "chunk_number": 567,
+    "word_count": 165
+  }
+}

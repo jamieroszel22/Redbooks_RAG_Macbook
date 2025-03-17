@@ -1,0 +1,18 @@
+{
+  "content": "DATAKDVH L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * DATAUDVH L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * MSGADVH L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * MSGKDVH L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Chapter 10. DirMaint, RACF-connector, and SMAPI 317 Command: VMFCOPY * MODULE L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * NEWMAIL L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * REXX L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE DIR2PROD: Copy of 41F disk to 11F disk has completed. DIR2PROD: Normal Termination. 7. Log off from 7vmdir20. The EXTENT CONTROL file, which is read when DirMaint starts, is now configured. 10.2.5 Copy User Direct to be initialized by DirMaint Complete the following steps to put the USER DIRECT file under control of DirMaint: 1. Log on to the user ID MAINT720. 2. Issue the command q disk or q accessed to check whether 2CC MDisk is accessed as letter C,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.937400",
+    "chunk_number": 693,
+    "word_count": 169
+  }
+}

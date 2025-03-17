@@ -1,0 +1,18 @@
+{
+  "content": "in group must: \u2013 Support QSC (can include Crypto Express8S HSMs only) \u2013 Not support QSC (cannot include Crypto Express8S HSMs) \u0002 Configuration migration tasks support: \u2013 Can collect and apply data to a Crypto Express8S HSM \u2013 Can apply data from a pre-Crypto Express8S HSM. \u0002 New default wrapping method for the Crypto Express8S HSM \u0002 New AES DUKPT key attribute on AES DKYGENKY parts Tip: For more information about handling a TKE, see the TKE Introduction video. 240 IBM z16 (3931) Technical Guide 6.6.1 Logical partition, TKE host, and TKE target If one or more LPARs are configured to use Crypto Express coprocessors, the TKE workstation can be used to manage DES, AES, ECC, and PKA master keys. This management can be done for all cryptographic domains of each Crypto Express coprocessor feature that is assigned to the LPARs that are defined to the TKE workstation. Each LPAR in the same system that uses a domain that is managed through a TKE workstation connection is a TKE host or TKE",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.532096",
+    "chunk_number": 585,
+    "word_count": 172
+  }
+}

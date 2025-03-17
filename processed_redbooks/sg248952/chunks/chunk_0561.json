@@ -1,0 +1,18 @@
+{
+  "content": "for EP11 \u2013 Host Firmware and EP11 now employ a hybrid scheme combining ECDH and Kyber to accomplish a quantum safe transport key exchange for protected key import \u0002 Quantum Safe host firmware management support for EP11 7 At the time of this writing (December 2022) 226 IBM z16 A02 and IBM z16 AGZ Technical Guide \u2013 Host Firmware and EP11 now employ a hybrid scheme for authenticating management functions initiated from the SE/HMC \u0002 EP11 for all of CEX8S (5.8.x), CEX7S (4.8.x) and CEX6S (3.8.x) \u2013 Support for HSM backed Hierarchical Deterministic Wallets for Bitcoin (BIP 0032 and SLIP 0010) \u2013 Hash collision resistant Schnorr signature scheme BSI TR 03111, two variants: \u2022 plain BSI TR 03111 \u2022 with compressed keys and signing party\u2019s public key as additional input \u2013 Support for Edwards and Montgomery elliptic curves: EdDSA (Ed25519, Ed448) and ECDH (X25519, X448) (8s and 7s \u2013 RSA OAEP with SHA 2 and SHA 3 (8s and 7s only) \u2013 Extensive IBM Cloud Crypto support: \u2022 Domains fully manageable by",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.431220",
+    "chunk_number": 561,
+    "word_count": 172
+  }
+}

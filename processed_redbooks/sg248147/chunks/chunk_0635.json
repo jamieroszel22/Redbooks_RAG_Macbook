@@ -1,0 +1,18 @@
+{
+  "content": "started for CSM LESFS ST:VMFSET2760I VMFSETUP processing started for CSM LESFS ST:VMFUTL2205I Minidisk|Directory Assignments: ST: String Mode Stat Vdev Label (OwnerID Odev : Cyl/%Used) ST: -or- SFS Directory Name ST:VMFUTL2205I LOCALMOD E/E R/O DIR VMPSFS:CSM720.RSU1.LE.LOCALMOD ST:VMFUTL2205I LOCALSAM F/F R/O DIR VMPSFS:CSM720.RSU1.LE.SAMPLE ST:VMFUTL2205I APPLY G/G R/O DIR VMPSFS:CSM720.RSU1.LE.APPLYALT ST:VMFUTL2205I H/H R/O DIR VMPSFS:CSM720.RSU1.LE.APPLYINT ST:VMFUTL2205I I/I R/O DIR VMPSFS:CSM720.RSU1.LE.APPLYPROD ST:VMFUTL2205I DELTA J/J R/O DIR VMPSFS:CSM720.RSU1.LE.DELTAPROD ST:VMFUTL2205I BUILD0 K/K R/O DIR VMPSFS:CSM720.RSU1.LE.49E ST:VMFUTL2205I BUILD2 L/L R/O DIR VMPSFS:CSM720.RSU1.LE.49B ST:VMFUTL2205I BUILD4 M/M R/O DIR VMPSFS:CSM720.RSU1.LE.4DD ST:VMFUTL2205I BASE1 N/N R/O DIR VMPSFS:CSM720.RSU1.LE.OBJECT ST:VMFUTL2205I -------- A R/W DIR VMPSFS:CSM720. ST:VMFUTL2205I -------- B R/W DIR VMPSFS:CSM720.RSU1.VMSES.5E6 ST:VMFUTL2205I -------- C R/O 500 MNT500 (MAINT720",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.722052",
+    "chunk_number": 635,
+    "word_count": 106
+  }
+}

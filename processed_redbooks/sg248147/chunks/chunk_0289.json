@@ -1,0 +1,18 @@
+{
+  "content": "following message: Figure 5-13 DVDPRIME execution messages 2. Run the INSTPLAN TRADITIONAL command to set up the configuration for the installation process. ===> INSTPLAN TRADITIONAL If the status at the bottom of the window changes to HOLDING IBMVMRAM, you must press the ESC to clear the hold. You see the z/VM INSTALLATION PLANNING window as shown in Figure 5-14 on page 116. Note: The information in this section is not to be used for a stand-alone installation or if you want to use VMCSM. For more information about that type of installation, see 5.6, \u201cInstalling non-SSI z/VM\u201d on page 124. DVDPRIME 3390 (SERVER IUGDVP8327I ** Now executing DVDPRIME on 26 Sep 2020 at 14:19:37 ** IUGDVP8440I Now loading 4CC disk DVDLOAD: LOADING FILE 'FBA22200 IMAGE *' DVDLOAD: RC=0 MDREST: WROTE 1800 BLOCKS ON 04CC, RC=0 IUGDVP8392I DVDPRIME EXEC ended successfully 116 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Figure 5-14 The instplan window 3. It is the recommendation of IBM z/VM Development and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.326990",
+    "chunk_number": 289,
+    "word_count": 163
+  }
+}

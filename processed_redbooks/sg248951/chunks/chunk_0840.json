@@ -1,0 +1,18 @@
+{
+  "content": "target configuration allows you to maximize the value of these plan-ahead features. Consideration: A permanent upgrade of processors can provide a concurrent upgrade, which results in more enabled processors that are available to a system configuration. More planning and tasks are required for nondisruptive logical upgrades. For more information, see \u201cGuidelines to avoid disruptive upgrades\u201d on page 377. 348 IBM z16 (3931) Technical Guide The CIU facility process on IBM Resource Link is shown in Figure 8-5. Figure 8-5 Permanent upgrade order example The following sample sequence shows how to start an order on the IBM Resource Link: 1. Sign on to Resource Link. 2. Select Customer Initiated Upgrade from the main Resource Link page. Client and system information that is associated with the user ID are displayed. 3. Select the system to receive the upgrade. The current configuration (PU allocation and memory) is shown for the selected system. 4. Select Order Permanent Upgrade. The",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.464242",
+    "chunk_number": 840,
+    "word_count": 155
+  }
+}

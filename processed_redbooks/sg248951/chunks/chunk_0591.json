@@ -1,0 +1,18 @@
+{
+  "content": "attributes CPACF CEX8C CEX8P CEX8A Supports z/OS applications that use CSF X X X X Supports Linux on IBM Z CCA applications X X - X Encryption and decryption by using secret-key algorithm - X X - Provides the highest SSL/TLS handshake performance - - - X Supports SSL/TLS functions X X X X Provides the highest symmetric (clear key) encryption performance X - - - Provides the highest asymmetric (clear key) encryption performance - - - X Provides the highest asymmetric (encrypted key) encryption performance - X X - Nondisruptive process to enablea - X X X Requires IOCDS definition - - - - Uses CHPID numbers - - - - Uses PCHIDs (one PCHID) - X X X Requires CPACF enablement (FC 3863)b X X X X Requires ICSF to be active - X X X Offers UDX - X - - Usable for data privacy: Encryption and decryption processing X X X - Usable for data integrity: Hashing and message authentication X X X - Usable for financial processes and key management operations - X X - Crypto performance IBM RMF monitoring -",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.549763",
+    "chunk_number": 591,
+    "word_count": 186
+  }
+}

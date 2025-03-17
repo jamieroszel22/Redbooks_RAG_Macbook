@@ -1,0 +1,18 @@
+{
+  "content": "machines that scan documents for legal issues. Or, a web server and a certain back-end machine might need to communicate with each other without interference from other machines. Before live relocation, it was sufficient to merely set up a VSWITCH without an external interface to accomplish these tasks. However, when you try to run this interconnect between hosts that run on a cross-central processor complex (CPC) SSI cluster, the private interconnect must be able to connect the network on the guests regardless of which CPC the guest is running on. 14.1.1 Directory Network Authorization APAR VM65925 for z/VM 6.4, included in the base of z/VM 7.1 and later, provides a new and simplified process for defining and connecting guests to VSWITCHes called Directory Network Authorization (DNA). Instead of separate definitions for a virtual NIC and its authorization, DNA enhances the NICDEF directory statement to include authorization information. Before DNA, a VSWITCH was defined for",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.601049",
+    "chunk_number": 885,
+    "word_count": 154
+  }
+}

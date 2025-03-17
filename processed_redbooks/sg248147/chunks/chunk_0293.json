@@ -1,0 +1,18 @@
+{
+  "content": "Mind: If you say YES, you should not attempt to manage your system in any other way. If you'd like to manage your own system, or use a purchased external security manager or a purchased directory manager say NO 118 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 8. You see the z/VM INSTALLATION PLANNING PANEL 3, as shown in Figure 5-17. Enter the VMSSI member names and their corresponding LPAR names as seen on the HMC. Press F5 to continue. Figure 5-17 z/VM INSTALLATION PLANNING PANEL 3 9. You see a summary of your choices and are prompted whether you want to continue. Carefully review all of the values. If the values are correct, enter Y to the question and press Enter. 10.You now see the z/VM INSTALLATION VOLUME DEFINITION panel. Initially, it is populated with the default z/VM volume labels VMCOM1, 720RL1, M0... as shown in Figure 5-18. Update these default values with the correct information from the planning worksheet that you completed. Figure 5-18 z/VM INSTALLATION VOLUME",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.357634",
+    "chunk_number": 293,
+    "word_count": 169
+  }
+}

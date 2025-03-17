@@ -1,0 +1,18 @@
+{
+  "content": "the JMX connector. When you run a SQL statement in Presto, you are running it against one or more catalogs. Other examples of catalogs include the Hive catalog to connect to a Hive data source. When addressing a table in Presto, the fully-qualified table name is always rooted in a catalog. For example, a fully-qualified table name of hive.test_data.test would refer to the test table in the test_data schema in the hive catalog. Catalogs are defined in properties files stored in the Presto configuration directory. Schema Schemas are a way to organize tables. Together, a catalog and schema define a set of tables that can be queried. When accessing Hive or a relational database such as MySQL with Presto, a schema translates to the same concept in the target database. Other types of connectors may choose to organize tables into schemas in a way that makes sense for the underlying data source. Table A table is a set of unordered rows which are organized into named columns with types. This",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.934965",
+    "chunk_number": 155,
+    "word_count": 170
+  }
+}

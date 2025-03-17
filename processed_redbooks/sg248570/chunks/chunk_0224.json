@@ -1,0 +1,18 @@
+{
+  "content": "added 8.2.3 Configure storage and catalog in IBM watsonx.data After configuring the native Spark engine and reviewing the Infrastructure manager page, the data engineer finds that they need to configure the IBM Cloud Object Storage bucket and create a catalog in IBM watsonx.data for the marketing campaign data. To do so, they complete the following steps: 1. From the Infrastructure manager window, the data engineer selects Add component to add the IBM Cloud Object Storage instance, as shown in Figure 8-12. Figure 8-12 Infrastructure Manager: Add component 2. Under the Storage section, the data engineer clicks IBM Cloud Object Storage, and then clicks Next to continue to the configuration details, as shown in Figure 8-13 on page 109. Chapter 8. Marketing campaign analysis use case 109 Figure 8-13 IBM Cloud Object Storage 3. Using the details that were saved from the IBM Cloud Object Storage instance, as highlighted in 8.2, \u201cData ingestion\u201d on page 102, the data engineer completes the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.202659",
+    "chunk_number": 224,
+    "word_count": 160
+  }
+}

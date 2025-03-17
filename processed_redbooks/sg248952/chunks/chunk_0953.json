@@ -1,0 +1,18 @@
+{
+  "content": "supplies. For more information, see 10.2.3, \u201cHMC and SE servers\u201d on page 409. 9.11 IBM z16 AGZ specifics The IBM z16 AGZ offering enables clients to procure and integrate an IBM Z air cooled configuration into their own racks and PDU power systems. \u0002 Client-provided racks and PDUs must meet the requirements specified in the IMPP \u0002 The IBM z16 AGZ uses the same IBM components as the IBM z16 A02. \u0002 The components are installed by the IBM SSR in Client racks powered by Client PDUs \u0002 Planning documents will be provided to assist with frame and power requirements for the Client The key document for all information regarding the planning is the IBM z16 and LinuxONE Rockhopper 4 Rack Mount Bundle Installation Manual for Physical Planning (IMPP), GC28-7035. Client provided PDUs \u0002 PDUs must meet power and port requirements detailed in the IMPP \u0002 Client must define which IBM z16 AGZ power jumper plugs into exactly which PDU outlet \u2013 power jumper plug lengths are defined by feature code during",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.842329",
+    "chunk_number": 953,
+    "word_count": 172
+  }
+}

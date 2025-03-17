@@ -1,0 +1,18 @@
+{
+  "content": "\u201cmonopolizing\u201d the CF, and z/OS will be informed of this monopolization. New support in z/OS will observe the monopolization state for a structure, and start to selectively queue and throttle incoming requests to the CF, on a structure-specific basis \u2013 while other requests, for other \u201cnon-monopolizing\u201d structures and workloads, are completely unaffected. z/OS will dynamically manage the queue of requests for the \u201cmonopolizing\u201d structures to limit the number of active CF requests (parallelism) to them, and will monitor the CF\u2019s monopolization state information so as to observe the structure becoming \u201cnon-monopolized\u201d again, so that request processing can eventually revert back to a non-throttled mode of operation. The overall goal of z/OS anti-monopolization support is to protect the ability of ALL well-behaved structures and workloads to access the CF, and get their requests processed in the CF in a timely fashion \u2013 while implementing queueing and throttling mechanisms in z/OS to hold",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.905998",
+    "chunk_number": 682,
+    "word_count": 151
+  }
+}

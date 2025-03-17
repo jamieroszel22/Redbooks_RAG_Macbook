@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . 318 10.3.1 Validating DirMaint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 319 10.4 DirMaint-RACF Connector . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 321 10.4.1 Configuring RACF-Connector . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 321 10.4.2 Adding RACF connector configuration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 322 10.4.3 Verifying that DirMaint and RACF work together . . . . . . . . . . . . . . . . . . . . . . . 323 10.5 Systems Management API . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 324 10.5.1 Who needs SMAPI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325 10.5.2 Configuring SMAPI to work with RACF. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 325 10.5.3 Shared File System",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.264908",
+    "chunk_number": 31,
+    "word_count": 377
+  }
+}

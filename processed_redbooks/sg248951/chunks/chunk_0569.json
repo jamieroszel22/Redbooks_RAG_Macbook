@@ -1,0 +1,18 @@
+{
+  "content": "Updating a system to use PCI-HSM compliant HSMs is expected to reduce the risk of loss for the institution and its clients. Tip: All supported levels of ICSF automatically detect what hardware cryptographic capabilities are available where it is running; then, it enables functions accordingly. No toleration of new hardware is necessary. If you want to use new capabilities, ICSF support is necessary. Chapter 6. Cryptographic features 233 The following requirements must be met to use PCI-HSM: \u0002 Hardware: IBM z167 systems and Crypto Express8S, Crypto Express7S, or Crypto Express6S \u0002 Operating systems: \u2013 z/OS - ICSF Web deliverable 19 (HCR77D1), unless otherwise noted. WD19 supports z/OS V2R2, V2R3, and V2R4. WD 20 supports z/OS V2R5 (base, which is HCR77D2) \u2013 z/VM Version 7.1 or newer for guest use Visa Format Preserving Encryption VFPE refers to a method of encryption in which the resulting cipher text features the same form as the input clear text. The form of the text can vary",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.462449",
+    "chunk_number": 569,
+    "word_count": 162
+  }
+}

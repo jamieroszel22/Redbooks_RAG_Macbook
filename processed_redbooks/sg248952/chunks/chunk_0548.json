@@ -1,0 +1,18 @@
+{
+  "content": "AES DUKPT unique key per transaction for AES based PIN and transaction protection \u0002 ISO 4 enhanced support adding AES protected PIN block support to all remaining services that process PIN blocks \u0002 Format Preserving Encryption (FPE) support 3 algorithms standardized by NIST and in X9.124: FF1, FF2,and FF2.1. \u0002 Elliptic Curve support for the Koblitz curve secp256k1, to all ECC services including native support for X.509 certificates CCA Version 7.1 improvements \u0002 Supported curves: \u2013 NIST Prime Curves: P192, P224, P256, P384, P521 \u2013 BrainPool Curves: 160, 192, 224, 256, 320, 384, 512 \u0002 Support in the CCA coprocessor for these Edwards curves: \u2013 ED25519 (128-bit security strength) and ED448 (224-bit security strength). \u2013 ED25519 is faster but ED448 is more secure. Practically though, 128-bit security strength is very secure. \u0002 Edwards curves are used for digitally signing documents and verifying those signatures. They also are less susceptible to side channel attacks when compared to",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.348051",
+    "chunk_number": 548,
+    "word_count": 156
+  }
+}

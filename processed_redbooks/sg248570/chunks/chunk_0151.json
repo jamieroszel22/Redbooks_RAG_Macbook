@@ -1,0 +1,18 @@
+{
+  "content": "aggregates data from all coordinators and workers and constructs a global view of the cluster. A Presto installation with a disaggregated coordinator needs a resource manager. Clusters support multiple resource managers, each acting as a primary. Coordinators and workers communicate with resource managers using a thrift API. Coordinator The Presto coordinator is the server that is responsible for parsing statements, planning queries, and managing Presto worker nodes. It is the \"brain\" of a Presto installation and is also the node to which a client connects to submit statements for execution. Every Presto installation must have a Presto coordinator alongside one or more Presto workers. For development or testing purposes, a single instance of Presto can be configured to perform both roles. 62 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data The coordinator keeps track of the activity on each worker and coordinates the execution of a query. The coordinator",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.925502",
+    "chunk_number": 151,
+    "word_count": 152
+  }
+}

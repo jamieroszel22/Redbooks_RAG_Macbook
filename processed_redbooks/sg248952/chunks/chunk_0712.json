@@ -1,0 +1,18 @@
+{
+  "content": "CHPID types FC and FCP. Information about the channels that are connected to a fabric (if registered) allows other nodes or storage area network (SAN) managers to query the name server to determine what is connected to the fabric. The following attributes are registered for the IBM z16 A02 and IBM z16 AGZ: \u0002 Platform information \u0002 Channel information \u0002 Worldwide port name (WWPN) \u0002 Port type (N_Port_ID) \u0002 FC-4 types that are supported \u0002 Classes of service that are supported by the channel The platform and name server registration service are defined in the Fibre Channel Generic Services 4 (FC-GS-4) standard. The 63.75-K subchannels Servers before IBM z9 EC reserved 1024 subchannels for internal system use, out of a maximum of 64 K subchannels. Starting with IBM z9 EC, the number of reserved subchannels was reduced to 256, which increased the number of subchannels that are available. Reserved subchannels exist in subchannel set 0 only. One subchannel is reserved in each of subchannel",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.014556",
+    "chunk_number": 712,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "PCIe I/O drawer(s). For more information about examples of the various configurations, see Appendix D, \u201cRack configurations\u201d on page 483. \u0002 Two PCIe+ switch cards provide connectivity to the PCIe+ Gen3 fanouts that are installed in the CPC drawers. \u0002 Each I/O drawer domain has four dedicated support partitions (two per domain) to manage the native PCIe cards. \u0002 Two Baseboard Management Controllers (BMC) cards are used to control the drawer functions. \u0002 Redundant N+1 power supplies (two) are mounted on the rear and redundant blowers (six) are mounted on the front. Figure 2-16 PCIe I/O drawer front and rear views \u0002 The IBM z16 A02 and IBM z16 AGZ support up to three PCIe+ I/O drawers and use the PCHID numbering scheme (see also diagrams in Appendix D, \u201cRack configurations\u201d on page 483) shown in Table 2-7: Table 2-7 PCHID Numbering \u0002 PCHID numbering is consecutive starting from the bottom and working up. Consideration for PCHID identification: For IBM z16 A02 and IBM z16 AGZ, the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.757186",
+    "chunk_number": 149,
+    "word_count": 167
+  }
+}

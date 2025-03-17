@@ -1,0 +1,18 @@
+{
+  "content": "computational logic. Agents in this system are equipped with advanced communication capabilities that are defined through a structured I/O schema that enables them to interact with other agents, external tools, and the environment. Communication is about exchanging messages, negotiating shared understandings, aligning goals, and ensuring coordinated action. To accomplish these tasks, agents can rely on tools that are integrated within the system. These tools extend the agent\u2019s functional repertoire and include utilities like API access for external data retrieval, calculators for mathematical computations, code interpreters for debugging and running programs, and multimodal models for handling complex data types, such as images or video. For domain-specific applications, tools like chemistry simulators or Robotic Process Automation (RPA) frameworks can be deployed, which enable agents to specialize in tasks that range from molecular modeling to workflow optimization. These tools are",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.127592",
+    "chunk_number": 235,
+    "word_count": 137
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "inline Symbol ECC (RAID4) recovery: \u2022 64:1 interleaving (4:1 physical, 16:1 logical) \u2022 L2 symbol ECC is inherited by virtual L3 and virtual L4 \u2013 The array macro includes row and column repair (module manufacturing and ABIST) \u2013 Ring can be fenced from L2 for yield and fences core (module manufacturing): \u2022 If the core checkstops, all 32 MB can be used by the system \u2022 L2 dedicated and shared split are managed in the LRU logic \u2013 Dynamic macro sparing: Four spare macros, one spare for each quarter slice \u2013 L2 1/8 portion is taken offline when a spare is needed, and none is available (named 7/8 recovery): The core must be spared \u2013 L2 directory is SECDED ECC protected IBM z16 processor memory and cache structure are shown in Figure 9-5. The physical L3 cache (on chip) and System Controller (SC) SCM (physical L4 cache for IBM z15), which was implemented in EDRAM, were removed and replaced on IBM z16 virtual L3 and L4 cache structure. Figure 9-5 IBM z16 CPC Drawer Cache structure 384 IBM z16",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.678617",
+    "chunk_number": 909,
+    "word_count": 179
+  }
+}

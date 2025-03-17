@@ -1,0 +1,18 @@
+{
+  "content": "performance and accuracy of the model after training. The testing process involves using the ilab model test command to obtain output from the model before and after the training process. With this output, you can see how well the model performs based on its previous state and after it has undergone the enhancements from the training process. The results from this test show the effectiveness of your training and provide insight into areas where further improvement might be needed. When the model is tested, you can use the ilab model evaluate command to run the model through a set of predefined benchmarks to evaluate its performance across various categories. At the time of writing, there are four primary benchmarks that are supported by InstructLab: \u0002 Multitask Language Understanding (MMLU) \u0002 MMLUBranch \u0002 MTBench \u0002 MTBenchBranch. These benchmarks assess different aspects of a model's capabilities, such as its knowledge and skills: \u0002 MMLU evaluates the model\u2019s general knowledge on a",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.934672",
+    "chunk_number": 186,
+    "word_count": 159
+  }
+}

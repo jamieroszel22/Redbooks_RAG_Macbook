@@ -1,0 +1,18 @@
+{
+  "content": "output in the Session logging radio group to go back and check the output of specific commands. b. Set the Log file name to &H&M&D&T.log so that a time stamp is in the file name (see Figure A-2). Figure A-2 Setting logging Appendix A. Configuring a workstation to deploy and administer z/VM 465 5. In the left panel, click SSH near the bottom, as shown in Figure A-3. Figure A-3 Setting SSH Protocol 2 6. On the right side, under Preferred SSH protocol version, click 2 only. 466 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 7. In the left Category panel, click Terminal, as shown in Figure A-4. Figure A-4 Customizing PuTTY SSH settings 8. Select Use background colour to erase screen, which results in a better job of painting the window for applications that use block graphics. Appendix A. Configuring a workstation to deploy and administer z/VM 467 9. Click Window in the left pane, as shown in Figure A-5. You can choose a larger window size and more lines of scrollback. In this example, 50",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.896455",
+    "chunk_number": 976,
+    "word_count": 177
+  }
+}

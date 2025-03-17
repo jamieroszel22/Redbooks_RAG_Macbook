@@ -1,0 +1,18 @@
+{
+  "content": "extend over large distances, the time that is spent on the link can be the largest part of the response time. Channel feature Feature code Bit rate in Gbps Cable type Maximum unrepeated distancea (MHz - km) a. Minimum fiber bandwidths in MHz/km for multimode fiber optic links are included in parentheses, where applicable. 25 GbE RoCE Express3 SR 0452 25 MM 50 \u00b5m \u0002 70 m (2000) \u0002 100 m (4700) 25 GbE RoCE Express3 LR 0453 25 SM 9 \u00b5m 10 km 10 GbE RoCE Express3 SR 0440 10 MM 50 \u00b5m \u0002 70 m (2000) \u0002 100 m (4700) 10 GbE RoCE Express3 LR 0441 10 SM 9 \u00b5m 10 km 25 GbE RoCE Express2.1 0450 25 MM 50 \u00b5m \u0002 70 m (2000) \u0002 100 m (4700) 10 GbE RoCE Express2.1 0432 10 MM 62.5 \u00b5m MM 50 \u00b5m \u0002 33 m (200) \u0002 82 m (500) \u0002 300 m (2000) 25 GbE RoCE Express2 0430 25 MM 50 \u00b5m \u0002 70 m (2000) \u0002 100 m (4700) 10 GbE RoCE Express2 0412 10 MM 62.5 \u00b5m MM 50 \u00b5m \u0002 33 m (200) \u0002 82 m (500) \u0002 300 m (2000) 188 IBM z16 (3931) Technical Guide IBM z16, IBM z15, and IBM z1413 support the following coupling link types: \u0002 Integrated",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.042096",
+    "chunk_number": 466,
+    "word_count": 217
+  }
+}

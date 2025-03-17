@@ -1,0 +1,18 @@
+{
+  "content": "requires that the older machines are no more than n-2 generation (namely, at least IBM z14) and that they carry enough coupling links to connect to the existing systems while also connecting to the new machine. This requirement is necessary to allow individual components (z/OS LPARs and CFs) to be shut down and moved to the target machine and continue to be connected to the remaining systems. It is beyond the scope of this book to describe all possible migration scenarios. Always consult with subject matter experts to help you to develop your migration strategy. Coupling links and Server Time Protocol All external coupling links can be used to pass time synchronization signals by using Server Time Protocol (STP). STP is a message-based protocol in which timing messages are passed over data links between servers. The same coupling links can be used to exchange time and CF messages in a Parallel Sysplex. The use of the coupling links to exchange STP messages has the following",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.076960",
+    "chunk_number": 475,
+    "word_count": 165
+  }
+}

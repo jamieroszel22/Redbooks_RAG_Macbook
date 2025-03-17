@@ -1,0 +1,18 @@
+{
+  "content": "the retail sector\u201d on page 98 7 96 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 7.1 Introduction A data catalog is foundational to any data-driven organization. It acts as a centralized and structured repository for documenting, managing, and categorizing data assets across the enterprise. It is not a passive storage system, but a dynamic resource that facilitates access, discovery, and governance of data. In IBM watsonx.data, the catalog is designed to handle vast amounts of data, and it is a critical component of the organization\u2019s data governance strategy. It provides tools for managing metadata to help ensure compliance, enable efficient collaboration, and maintain data security. This catalog is crucial in mitigating data silos and helping ensure that stakeholders, whether technical or business-oriented, have the right tools to access and make sense of the data. The core function of the IBM watsonx.data catalog is the management and enrichment of",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.119180",
+    "chunk_number": 202,
+    "word_count": 152
+  }
+}

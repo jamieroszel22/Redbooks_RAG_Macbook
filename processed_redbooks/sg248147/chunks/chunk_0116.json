@@ -1,0 +1,18 @@
+{
+  "content": "a greater capability for data to flow between members. All members of a cluster share DASD for VMs and selected z/VM data. Sharing minidisks between members improves the integrity and performance of the system and provides a foundation for LGR. Members of a z/VM VMSSI cluster are managed, serviced, and administered as one system. Resources, including the user directory, minidisks, spool files, and network devices that are used by the control program (CP) and VMs are shared among all members. Sharing of resources helps give Linux guests access to the same devices and networks, regardless of which member they are logged on to or where they are relocated. Each member of a z/VM VMSSI cluster can communicate with other active members. When a z/VM system is configured as a member of a cluster, it automatically joins the other members during system start. Coordination of members that are joining and leaving the cluster, maintaining a common view of member and resource states, and negotiating",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.579879",
+    "chunk_number": 116,
+    "word_count": 163
+  }
+}

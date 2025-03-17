@@ -1,0 +1,18 @@
+{
+  "content": "(PSW) and registers. The simultaneous threads cannot necessarily run instructions instantly and must at times compete to use certain core resources that are shared between the threads. In some cases, threads can use shared resources that are not experiencing competition. Two threads (A and B) that are running on the same processor core on different pipeline stages and sharing the core resources is shown in Figure 3-8. Figure 3-8 Two threads running simultaneously on the same processor core The use of SMT provides more efficient use of the processors\u2019 resources and helps address memory latency, which results in overall throughput gains. The active thread shares core resources in space, such as data and instruction caches, TLBs, branch history tables, and, in time, pipeline slots, execution units, and address translators. Chapter 3. Central processor complex design 83 Although SMT increases the processing capacity, the performance in some cases might be superior if a single thread is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.065048",
+    "chunk_number": 224,
+    "word_count": 155
+  }
+}

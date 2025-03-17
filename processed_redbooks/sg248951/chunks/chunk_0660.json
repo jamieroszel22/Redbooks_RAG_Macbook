@@ -1,0 +1,18 @@
+{
+  "content": "of the user application before deciding whether to use the MASS and ATLAS libraries. The SIMD functions can be disabled in z/OS partitions at IPL time by using the MACHMIG parameter in the LOADxx member. To disable SIMD code, use the MACHMIG VEF hardware-based vector facility. If you do not specify a MACHMIG statement, which is the default, the system not limited in its use of the Vector Facility for z/Architecture (SIMD). Hardware decimal floating point Industry support for decimal floating point is growing, with IBM leading the open standard definition. Examples of support for the draft standard IEEE 754r include Java BigDecimal, C#, XML, C/C++, GCC, COBOL, and other key software vendors, such as Microsoft and SAP. IBM z16 introduces COBOL optimization for Hexadecimal Floating Point (HFP) <--> Binary Coded Decimal (BCD) conversion, and Numeric Editing, and Zoned Decimal operations. The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254. For",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.835212",
+    "chunk_number": 660,
+    "word_count": 160
+  }
+}

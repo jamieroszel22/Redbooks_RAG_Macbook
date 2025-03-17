@@ -1,0 +1,18 @@
+{
+  "content": "valid or possible for the selected configuration (system). 5. After the target configuration is verified by the system, accept or cancel the order. An order is created and verified against the pre-established agreement. 6. Accept or reject the price that is quoted. A secondary order approval is optional. Upon confirmation, the order is processed. The LICCC for the upgrade is available within hours. The order activation process for a permanent upgrade is shown in Figure 8-5 on page 338 When the LICCC is passed to the Remote Support Facility, you are notified through an e-mail that the upgrade is ready to be downloaded. ibm.com/servers/resourcelink Customer Online permanent order Remote Support Facility Internet Optional customer secondary order approval 338 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 8-5 CIU-eligible order activation example 8.4.1 Ordering IBM Resource Link provides the interface that enables you to order a concurrent upgrade for a system. You can create,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.465018",
+    "chunk_number": 840,
+    "word_count": 155
+  }
+}

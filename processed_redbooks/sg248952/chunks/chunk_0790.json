@@ -1,0 +1,18 @@
+{
+  "content": "License Charges (FWLC)c,a c. Metric available only in conjunction with AWLC or CMLC. System z New Application License Charges (zNALC)d d. Metric eligible for Sub-Capacity charges / Metric eligible for Aggregation in a qualified Parallel Sysplex\u00ae Y Y Z125-7454 Parallel Sysplex License Charges (PSLC)e e. PSLC are only availableon z16 A02/AGZ, z15 T02 and z14R1when that machine is participate in a qualified Parallel Sysplex environment Y Z125-5205 zSeries Entry License Charges (zELC)f f. The z16 A02/AGZ, z15 T02 model A01 and z14 ZR1 model A01 are priced using zSystems Entry License Charges (zELC) Y Z125-3901 Chapter 7. Operating system support 317 \u2013 Value Unit pricing applies to most IPLA products that run on z/OS. Value Unit pricing is typically based upon a number of MSUs and allows for lower cost of incremental growth. \u2013 z/VM V5, V6, V7 and certain z/VM middleware have pricing based on the number of engines. Engine based Value Unit pricing allows for a lower cost of incremental",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.293190",
+    "chunk_number": 790,
+    "word_count": 162
+  }
+}

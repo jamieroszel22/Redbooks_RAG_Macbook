@@ -1,0 +1,18 @@
+{
+  "content": "z16 AGZ configurations) supports a link data rate of 32 gigabits per second (Gbps) and auto negotiation to 16 and 8 Gbps for synergy with switches, directors, and storage devices. With support for native FICON, High-Performance FICON for Z (zHPF), and Fibre Channel Protocol (FCP), the IBM z16\u2122 server enables you to position your SAN for even higher performance, which helps you to prepare for an end-to-end 16 Gbps infrastructure to meet the lower latency and increased bandwidth demands of your applications. The supported operating systems are listed in Table 7-6 on page 252 and Table 7-7 on page 253. IBM Fibre Channel Endpoint Security IBM z16 A02 and IBM z16 AGZ M/T 3932 supports IBM Fibre Channel Endpoint Security feature (FC 1146). FC 1146 provides FC/FCP link encryption and endpoint authentication. This is an optional priced feature which requires the following: \u0002 FICON Express32S for both link encryption and endpoint authentication \u2013 FICON Express16S+ (carry forward) for endpoint",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.948106",
+    "chunk_number": 693,
+    "word_count": 159
+  }
+}

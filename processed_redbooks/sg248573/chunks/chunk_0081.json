@@ -1,0 +1,18 @@
+{
+  "content": "capture of metadata about the (versions of) AI assets you build. \u0002 Quantitative evaluations of your AI assets - dozens of pre-built metrics to measure model health, drift, quality, toxic language, PII, fairness, adversarial robustness of both machine learning and generative AI use cases. \u0002 Global and local explainability of machine learning models. Note: For more information on watsonx.data refer to IBM Redbooks Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data, SG24-8570. Chapter 2. Introduction to IBM watsonx.governance 21 \u0002 Standard and ad-hoc reporting. \u0002 Integration with AI platforms such as IBM watsonx.ai, Amazon SageMaker and Bedrock, Google Vertex AI, and Microsoft Azure. \u0002 Configure the solution to fit your specific requirements. 2.4.2 Use cases IBM watsonx.governance is a comprehensive governance solution. Depending on a customer's situation, they could use the solution for one or more of the following use cases: \u0002 Comply with the EU AI Act or other",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.759201",
+    "chunk_number": 81,
+    "word_count": 153
+  }
+}

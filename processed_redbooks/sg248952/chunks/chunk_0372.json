@@ -1,0 +1,18 @@
+{
+  "content": "drawer for higher availability. The RII design provides a failover capability during a PCIe fanout card failure. Both domains in one of these PCIe+ I/O drawers are activated with two fanouts. The Base Management Cards (BMCs) are used for system control. The domains and their related I/O slots are shown in Figure 4-2 on page 145. Each I/O domain supports up to eight features (FICON, OSA, Crypto, and so on.) All I/O cards connect to the PCIe switch card through the backplane board. The I/O domains and slots are listed in Table 4-1. Chapter 4. I/O structure 147 Table 4-1 I/O domains of PCIe+ I/O drawer 4.3.1 PCIe+ I/O drawer offering Up to three PCIe+ I/O drawers can be installed for supporting up to 48 PCIe I/O features. For an upgrade to IBM z16 A02 and IBM z16 AGZ, only the following PCIe features can be carried forward: \u0002 FICON Express16S+ \u0002 zHyperLink Express (all features) \u0002 OSA-Express6S (all features) \u0002 25GbE RoCE Express2.1 \u0002 25GbE RoCE Express2 \u0002 10GbE RoCE Express2.1 \u0002 10GbE",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.668142",
+    "chunk_number": 372,
+    "word_count": 174
+  }
+}

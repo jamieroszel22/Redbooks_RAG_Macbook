@@ -1,0 +1,18 @@
+{
+  "content": "Fanout locations CPC0 Location A10 AID (Hex) CPC1 Location A15 AID (Hex) Fanout feature Feature code Use Cable type Connector type Maximum distance Link data ratea PCIe+ Gen3 fanout 0175 PCIe I/O drawer conn. Copper N/A 4 m (13.1 ft.) 16 GBps ICA SR 0172 Coupling link OM4 MTP 150 m (492 ft.) 8 Gbps OM3 MTP 100 m (328 ft.) 8 Gbps ICA SR1.1 0176 Coupling link OM4 MTP 150 m (492 ft.) 8 Gbps OM3 MTP 100 m (328 ft.) 8 Gbps Chapter 4. I/O structure 151 4.5 I/O features I/O features (adapters) include ports6 to connect the IBM z16 A02 and IBM z16 AGZ to external devices, networks, or other zSystems. I/O features are plugged into the PCIe+ I/O drawer, based on the machine\u2019s configuration rules. Different types of I/O cards are available, one for each channel or link type. I/O cards can be installed or replaced concurrently. 4.5.1 I/O feature card ordering information The I/O features that are supported by IBM z16 A02 and IBM z16 AGZ configurations and the ordering information for them are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.699536",
+    "chunk_number": 380,
+    "word_count": 179
+  }
+}

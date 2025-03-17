@@ -1,0 +1,18 @@
+{
+  "content": "foundation models, there are other types of assets used to make a specific use case come to life. The primary way to interact with a foundation models is through a prompt, which is typically text-based instructions on what you want the model to do. For many enterprise use cases, these are not one-off but repeated interactions that take the form of a parametrized prompt template. For example, for a retrieval-augmented generation use case, an LLM is prompted each time a user query comes in. The prompt always has the same structure and core instructions, with parameters for the user's query and the context data that should be used to answer the query. See Figure 1-2 on page 10. Figure 1-2 Example of a parametrized prompt template for a RAG use case So instead of training models, a lot of projects now involve creating prompts. Additionally, organizations might decide to fine-tune a pre-trained model to make it fit their specific needs better. There are different methods to do this that",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.644641",
+    "chunk_number": 57,
+    "word_count": 169
+  }
+}

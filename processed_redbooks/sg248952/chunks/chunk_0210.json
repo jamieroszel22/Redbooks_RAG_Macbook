@@ -1,0 +1,18 @@
+{
+  "content": "protecting every byte that enters and exits the IBM z16 A02 and IBM z16 AGZ. 2 Federal Information Processing Standard (FIPS) 140-2 Security Requirements for Cryptographic Modules. Chapter 3. Central processor complex design 75 The remaining sections in this chapter describe the IBM z16 A02 and IBM z16 AGZ system structure. It shows a logical representation of the data flow from PUs, caches, memory cards, and various interconnect capabilities. 3.3 CPC drawer design An IBM z16 A02 and IBM z16 AGZ can have up to two CPC drawers in a full configuration, with up to 68 PUs that can be characterized for customer use, and up to 16 TB of customer usable memory. The following features for CPC drawer configurations are available for the IBM z16 A02 and IBM z16 AGZ: \u0002 One drawer, two PU dual chip modules (DCM): Max5 \u0002 One drawer, two PU DCMs: Max16 \u0002 One drawer, four PU DCMs: Max32 \u0002 Two drawers, eight PU DCMs: Max68 The IBM z16 A02 and IBM z16 AGZ have 12 memory controller units (MCUs) for a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.015286",
+    "chunk_number": 210,
+    "word_count": 178
+  }
+}

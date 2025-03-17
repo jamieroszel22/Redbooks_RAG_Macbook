@@ -1,0 +1,18 @@
+{
+  "content": "Prompt engineering is about writing something in a better, clearer, and cleaner form. It also involves using specific system tokens that are for only the model that is used and, if available, a series of examples that provide better information to the model so that it can perform as intended. This approach is explored more in-depth in this section. 5.1.1 Prompting techniques There are three main prompting techniques: \u0002 Zero-shot prompting \u0002 One-shot prompting \u0002 Few-shot prompting These techniques are not learning techniques, but prompting techniques only, which improve model performances at inference-time without modifying the original model. These techniques leverage the model's existing capabilities without requiring fine-tuning or parameter updates, which make them lightweight and adaptable solutions for various use cases. This section provides an explanation of each prompting technique, and when it is best to use each approach. \u0002 Zero-shot prompting: Relies solely on the model's",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.689327",
+    "chunk_number": 132,
+    "word_count": 148
+  }
+}

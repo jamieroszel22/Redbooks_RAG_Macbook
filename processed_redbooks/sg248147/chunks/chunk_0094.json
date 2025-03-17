@@ -1,0 +1,18 @@
+{
+  "content": "an actual word). CEC (nor any pronounced variant of CEC) is not sanctioned by IBM for use. It is considered to be highly offensive in some languages and cultures, and should not be used. In addition, today\u2019s modern CPC evolved far past the point of a simple electronic complex. Referring to a modern Z CPC as a CEC is analogous to calling a modern state-of-the-art smart refrigerator an \u201cicebox\u201d. 20 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 The system administrator can assign one or more system processors for the exclusive use of an LPAR. Alternately, the administrator can allow all processors to be used on several or all LPARs. Here, the system control functions, which are often known as microcode or firmware, provide a dispatcher to share the processors among the selected LPARs. The administrator can specify a maximum number of concurrent processors to run in each LPAR. The administrator can also assign weights to LPARs; for example, specifying that LPAR1 receives twice as much",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.491252",
+    "chunk_number": 94,
+    "word_count": 165
+  }
+}

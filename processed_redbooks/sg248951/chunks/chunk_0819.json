@@ -1,0 +1,18 @@
+{
+  "content": "architecture The authorization layer enables administrative control over the temporary offerings. The activation and deactivation can be driven manually or under the control of an application through a documented application programming interface (API)3. By using the API approach, you can customize at activation time the resources that are necessary to respond to the current situation up to the maximum that is specified in the order record. If the situation changes, you can add or remove resources without having to return to the base configuration. This process eliminates the need for temporary upgrade specifications for all possible scenarios. For a CPE record, only the ordered configuration can be activated. 3 API details can be found in z/OS MVS Programming: Callable Services for High-Level Languages, SA23-1377 Customer defined policy or user commands Management Application HMC Application Query Activation Authorization Layer R1 R2 R3 R6 Dormant capacity Purchased capacity Base",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.375630",
+    "chunk_number": 819,
+    "word_count": 147
+  }
+}

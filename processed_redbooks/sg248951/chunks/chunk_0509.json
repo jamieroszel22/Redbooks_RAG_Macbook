@@ -1,0 +1,18 @@
+{
+  "content": "targeted I/O configuration. It also features built-in mechanisms to generate a mapping according to customized I/O performance groups. More enhancements are implemented in CMT to support IBM z16 servers. The CMT is available for download from the IBM Resource Link (log-in required). The configuration file for a new machine or upgrade also us available from the IBM Resource Link (log-in required). Contact your IBM technical sales representative for the name of the file to download. Note: Specific functions might require specific levels of an operating system, PTFs, or both. Chapter 5. Central processor complex channel subsystem 207 5.3 Channel subsystem summary IBM z16 A01 systems support the channel subsystem features of multiple LCSS, MSS, and the channel spanning that is described in this chapter. The channel subsystem capabilities of IBM z16 A01 systems are listed in Table 5-1. Table 5-1 IBM z16 A01 CSS overview Maximum number of CSSs 6 Maximum number of LPARs per CSS CSS0 - CSS4:",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.205588",
+    "chunk_number": 509,
+    "word_count": 159
+  }
+}

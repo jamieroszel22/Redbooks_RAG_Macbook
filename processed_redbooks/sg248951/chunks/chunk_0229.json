@@ -1,0 +1,18 @@
+{
+  "content": "coprocessor (CPACF) CPACF accelerates the encrypting and decrypting of SSL/TLS transactions, virtual private network (VPN)-encrypted data transfers, and data-storing applications that do not require FIPS 140-2 level 4 security. The assist function uses a special instruction set for symmetrical clear key cryptographic encryption and decryption, and for hash operations. This group of instructions is known as the Message-Security Assist (MSA). For more information about these instructions, see z/Architecture Principles of Operation, SA22-7832. Crypto functions enhancements The IBM z16 microprocessor structure was optimized and aligned to the new cache hierarchy. Co-processor results (data) are stored by way of level 1 (L1) cache. The crypto/hashing/UTF-conversion/compression engines were redesigned for increased throughput. CPACF accelerator that is built into every core supports Pervasive Encryption by providing fast synchronous cryptographic services: \u0002 Encryption (DES, TDES, and AES)",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.088932",
+    "chunk_number": 229,
+    "word_count": 132
+  }
+}

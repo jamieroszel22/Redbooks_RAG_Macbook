@@ -1,0 +1,18 @@
+{
+  "content": "/etc/sysconfig/clone ] && . /etc/sysconfig/clone # Set defaults for clone.sh configurations [ -z \"$PROMPT\" ] && PROMPT=\"y\" [ -z \"$CLONE_MNT_PT\" ] && CLONE_MNT_PT=\"/mnt/clone\" Appendix C. Additional material 511 # If the clone mount point does not exist then we'll create it for you [ ! -d $CLONE_MNT_PT ] && mkdir -p $CLONE_MNT_PT # Check if -v was specified on the command line if [ \"$1\" = \"-v\" ] ; then VERBOSE=1 shift fi # If no command line options were provided show the help message [ $# -eq 0 ] && help # If one comnand line option was provided show the help message if [ $# -lt 2 ]; then echo \"Error: incorrect number of arguments\" help fi # Check that vmcp exists and the module is loaded check_for_vmcp # Allow UPPER or lower case source, target, blacklist entries. # Convert all to lower case for consistency. source_linux_id=$(echo $1 | tr \"[:upper:]\" \"[:lower:]\") target_linux_id=$(echo $2 | tr \"[:upper:]\" \"[:lower:]\") # Check the blacklist, which prevents using the master image as a",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.139482",
+    "chunk_number": 1044,
+    "word_count": 172
+  }
+}

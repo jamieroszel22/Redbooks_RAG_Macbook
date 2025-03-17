@@ -1,0 +1,18 @@
+{
+  "content": "to MFA, the MFA interface displays an authentication token. 4. In the z/VM log on window, use your standard log on ID with the authentication token that is provided by MFA in lieu of a password or passphrase. Although MFA is configured across an entire ESM instance, MFA log on is enabled on a per-user basis. Fallback to an ESM password or passphrase can be configured, also on a per-user basis. Also, the attributes of the provided authentication token can be configured, such as the number of uses, the length of time it is valid (from seconds up to 24 hours), and the length and character composition. MFA further enhances the ability of z/VM to integrate into the security policies of an enterprise installation. Hint: During the installation or set up of a new system, the convenience of making security changes while performing installation or set up tasks might override the security concerns. However, this convenience must be weighed against the risk to system integrity that might occur",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.062708",
+    "chunk_number": 229,
+    "word_count": 168
+  }
+}

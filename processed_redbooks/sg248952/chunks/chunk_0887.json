@@ -1,0 +1,18 @@
+{
+  "content": "based on the 358 IBM z16 A02 and IBM z16 AGZ Technical Guide Linux load average value. The daemon is available in Linux SLES 10 SP2 and later, and in Red Hat Enterprise Linux (RHEL) V5R4 and up. 8.10.1 Components The following components can be added, depending on the considerations as described in this section: \u0002 PUs \u0002 Memory \u0002 I/O \u0002 Cryptographic adapters \u0002 Special features PUs CPs, ICFs, zIIPs, and IFLs can be added concurrently to an IBM z16 A02 and IBM z16 AGZ if unassigned PUs are available on any installed CPC drawer. The IBM z16 A02 and IBM z16 AGZ allow the concurrent addition of a second CPC drawer (for IBM z16 AGZ if the CPC reserve FC 2332 is installed). If necessary, more LPARs can be created concurrently to use the newly added processors. The Coupling Facility Control Code (CFCC) can also configure more processors online to coupling facility LPARs by using the CFCC image operations window. Memory Memory can be added concurrently up to the physical installed memory limit.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.617289",
+    "chunk_number": 887,
+    "word_count": 175
+  }
+}

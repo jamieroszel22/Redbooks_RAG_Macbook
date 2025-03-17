@@ -1,0 +1,18 @@
+{
+  "content": "Data Gathering: Once the use case is created, the approval workflow moves to gather more detailed information about the use case to be governed. At this stage, the use case owner or risk assessor can provide the initial assumed risk level, identify the stakeholders who will provide final approval, and identify the technical owner of the use case. It must also be determined if the use case will leverage foundation models during this stage in the workflow. Once all the required information is complete, the user can submit the case for Initial Approval. 56 Ensuring Trustworthy AI with IBM watsonx.governance \u0002 Initial Approval: In this stage, the use case owner completes a Risk Identification assessment questionnaire and validates a series of risks automatically assigned based on answers provided. In addition, the use case owner can optionally complete and applicability assessment questionnaire for the EU AI Act. Completion of the Risk Identification assessment is required to move to the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.047255",
+    "chunk_number": 160,
+    "word_count": 158
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Counters: LACP RX: 1149 Marker RX: 0 LACP TX: 1558 Marker TX: 4 Timeouts: 4 ACTOR Information: System ID: 32768,02-03-11-00-00-07 Oper Key: 2 Port Priority: 32768 Port: 2049 Group Key: 2 State: 3D - LACP_Active Slow AGG SYNC DIST COLL PARTNER Information: System ID: 32768,A4-8C-DB-94-58-00 Oper Key: 101 Port Priority: 32768 Port: 9 Group Key: 101 State: 3D - LACP_Active Slow AGG SYNC DIST COLL RDEV: 1910.P00 VDEV: 0603 Controller: DTCVSW3 ACTIVE Adapter ID: 3907000BB4B7.0174 Uplink Port Connection: MAC address: 02-03-11-00-00-09 RX Packets: 1147 Discarded: 0 Errors: 0 TX Packets: 1554 Discarded: 0 Errors: 0 RX Bytes: 142228 TX Bytes: 192696 Device: 0603 Unit: 000 Role: DATA Port: 2050 Partner Switch Capabilities: No_Reflective_Relay LAG Port Controller: Active PROTOCOL Counters: LACP RX: 1147 Marker RX: 0 LACP TX: 1554 Marker TX: 0 Timeouts: 0 ACTOR Information: System ID: 32768,02-03-11-00-00-07 Oper Key: 2 Port Priority: 32768 Port: 2050 Group Key: 2 State: 3D - LACP_Active Slow AGG",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.682909",
+    "chunk_number": 913,
+    "word_count": 155
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "data, which is also known as vital product data (VPD) \u0002 Health and diagnostic data \u0002 Capacity on Demand (CoD) enablement 10.4.1 Security characteristics The following security characteristics are in effect: \u0002 RSF requests are started always from the HMC to IBM. An inbound connection is never started from the IBM Service Support System to the HMC. \u0002 All data that is transferred between the HMC and the IBM Service Support System is encrypted with Transport Layer Security (TLS) encryption. \u0002 When starting the TLS-encrypted connection, the HMC validates the trusted host with the digital signature that is issued for the IBM Service Support System. \u0002 Data that is sent to the IBM Service Support System consists of hardware problem and configuration data. 10.4.2 RSF connections to IBM and Enhanced IBM Service Support System To have the best availability and redundancy and to be prepared for the future, the HMC connects to IBM by using the internet to the IBM Remote Support Facility (RSF) in",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.011630",
+    "chunk_number": 1003,
+    "word_count": 165
+  }
+}

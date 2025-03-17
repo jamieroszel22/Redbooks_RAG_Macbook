@@ -1,0 +1,18 @@
+{
+  "content": "maximize virtual L3 cache efficiency. Logical processors from an LPAR are dispatched on physical processors on the same PU chip as much as possible. PR/SM also tries to redispatch a logical processor on the same physical processor to optimize private cache (L1 and L2) usage. HiperDispatch PR/SM and z/OS work in tandem to use processor resources more efficiently. HiperDispatch is a function that combines the dispatcher actions and the knowledge that PR/SM has about the topology of the system. Performance can be optimized by redispatching units of work to the same processor group, which keeps processes running near their cached instructions and data, and minimizes transfers of data ownership among processors and processor drawers. The nested topology is returned to z/OS by the Store System Information (STSI) instruction. HiperDispatch uses the information to concentrate logical processors around shared caches (virtual L3 and virtual L4 caches at drawer level), and dynamically optimizes",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.446786",
+    "chunk_number": 313,
+    "word_count": 151
+  }
+}

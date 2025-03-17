@@ -1,0 +1,18 @@
+{
+  "content": "fanout cards are used to provide the connection from the PU DCM PCIe Bridge Unit (PBU), which uses split the PCIe Gen4 (@32GBps) processor busses into two PCIe Gen3 x16 (@16 GBps) interfaces to the PCIe switch card in the PCIe+ I/O drawer. 9 The IBM z16 A02 and IBM z16 AGZ with two CPC drawers use only two redundant SMP9 connectors. Chapter 2. Central processor complex hardware components 55 The PCIe switch card spreads the x16 PCIe bus to the PCIe I/O slots in the domain. In the PCIe+ I/O drawer, the two PCIe switch cards (LG06 and LG16, see Figure 2-23) provide a backup path (Redundant I/O Interconnect - RII) for each other through the passive connection in the PCIe+ I/O drawer backplane. Figure 2-23 PCIe+ I/O drawer locations To support Redundant I/O Interconnect (RII) between domain pair 0 and 1, the two interconnects to each pair must be driven from two different PCIe fanouts. Normally, each PCIe interconnect in a pair supports the eight features in its domain. In backup",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.846788",
+    "chunk_number": 171,
+    "word_count": 173
+  }
+}

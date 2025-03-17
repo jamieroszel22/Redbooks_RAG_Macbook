@@ -1,0 +1,18 @@
+{
+  "content": "completes. IBM z16 A02 and IBM z16 AGZ offers the following synchronous functions: \u0002 Data encryption and decryption algorithms for data privacy and confidentially: \u2013 Data Encryption Standard (DES): \u2022 Single-length key DES \u2022 Double-length key DES \u2022 Triple-length key DES (also known as Triple-DES) \u2013 Advanced Encryption Standard (AES) for 128-bit, 192-bit, and 256-bit keys \u2013 Elliptic Curve supported operations: \u2022 ECDH[E]: P256, P384, P52, X25519, X448 \u2022 ECDSA: Keygen, sign, verify, P256, P384, P521 \u2022 EdDSA: Keygen, sign, verify, Ed25519, Ed448 \u0002 Hashing algorithms for data integrity, such as SHA-1 and SHA-2. New for z14 ZR1 is SHA-3 support for SHA-224, SHA-256, SHA-384, and SHA-512 and the two extendable output functions as described by the standard SHAKE-128 and SHAKE-256. \u0002 Message authentication code (MAC): \u2013 Single-length key MAC \u2013 Double-length key MAC \u0002 Pseudo-Random Number Generator (PRNG), Deterministic Random Number Generation (DRNG), and True Random Number Generation (TRNG)",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.253576",
+    "chunk_number": 524,
+    "word_count": 150
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "TCP_NODELAY set % Total % Received % Xferd Average Speed Time Time Time Current Dload Upload Total Spent Left Speed 0 0 0 0 0 0 0 0 --:--:-- --:--:-- --:--:-- 0* Connected to 9.60.86.71 (9.60.86.71) port 21 (#0) < 220-FTPSERVE IBM VM Level 710 at IBMZVM.IBM.COM, 11:38:34 UTC SATURDAY 2020-09-12 < 220 Connection will close if idle for more than 5 minutes. > USER maint.by.ibmvm1 < 331 Send password please. > PASS ******** < 230-MAINT logged in; working directory = MAINT 191 (ReadOnly) < 230 write access currently unavailable > PWD < 257 \"MAINT.191\" is working directory (ReadOnly) > SYST * Entry path is 'MAINT.191' < 215-z/VM Version 7 Release 1.0, service level 2001 (64-bit) < VM/CMS Level 29, Service Level 2001 < 215 VM is the operating system of this server. Chapter 3. Security considerations 81 > CWD /../VMBFS:VMSYS:GSKSSLDB/ * ftp_perform ends with SECONDARY: 0 < 250 BFS working directory is /../VMBFS:VMSYS:GSKSSLDB/ > EPSV * Connect data stream passively < 229 Entering Extended",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.091100",
+    "chunk_number": 237,
+    "word_count": 165
+  }
+}

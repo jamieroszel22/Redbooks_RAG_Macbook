@@ -1,0 +1,18 @@
+{
+  "content": "in the taxonomy, which reduces the time and cost of manual data creation and helps ensure that the model receives high-quality, domain-specific examples. 70 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai 4. Once the synthetic data is generated, the model is trained by using the InstructLab training framework. This training can be done on a local machine or in a cloud environment, with the flexibility to use GPUs to accelerate the process. 5. After training is complete, the model undergoes a testing phase to ensure that it performs as expected. InstructLab enables users to run tests that evaluate how well the model answers questions and generates responses, which help identify areas for further improvement. 6. The final stage is deploying the trained model, which can be done through the InstructLab serving tools. Once the model is deployed, users can interact with it through the CLI or through an application interface, which enables them to assess how well it",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.839152",
+    "chunk_number": 164,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Enterprise Public Key Cryptography Standards #11 (PKCS) Coprocessor (CEX8P) \u0002 IBM Crypto Express7S Accelerator (CEX8A) During the feature installation, the PCI-X adapter is configured by default as the CCA coprocessor. The configuration of the Crypto Express8S adapter as EP11 coprocessor requires a TKE workstation (FC 0057/0058) with TKE 10.0 (FC 0882) LIC. The same requirement applies to CCA mode for a full PCI-compliant environment. The Crypto Express8S feature does not use CHPIDs from the channel subsystem pool. However, the Crypto Express8S feature requires one slot in a PCIe I/O drawer, and one PCHID for each PCIe cryptographic adapter. For enabling an LPAR to use a Crypto Express8S adapter, the following cryptographic resources in the image profile must be defined for each partition: \u0002 Usage domain index \u0002 Control domain index \u0002 PCI Cryptographic Coprocessor Candidate List \u0002 PCI Cryptographic Coprocessor Online List Chapter 6. Cryptographic features 237 This task is accomplished",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.505840",
+    "chunk_number": 579,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "files. Table B-1 Important z/VM configuration files File Location Description SYSTEM CONFIG PMAINT CF0 This file is the operating system\u2019s main configuration file. It defines the system name, control program (CP) volumes, user volumes, and other settings. USER DIRECT MAINT 2CC This file is the initial z/VM user directory. All virtual machines that are known to the system are defined here. If a directory maintenance product is in use, this file is no longer authoritative. PROFILE TCPIP TCPMAINT 198 This file defines the resources for the primary z/VM TCP/IP stack, including the TCP/IP address, Open Systems Adapter (OSA) resources, subnet mask, and gateway. It is initially created by the IPWIZARD tool as PROFILE TCPIP. SYSTEM DTCPARMS TCPMAINT 198 This file is created to define the TCP/IP stacks on the system. It is initially created by the IPWIZARD tool. TCPIP DATA TCPMAINT 592 This file defines the Domain Name System (DNS) server, the domain name, and other settings. It is initially",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.942159",
+    "chunk_number": 991,
+    "word_count": 160
+  }
+}

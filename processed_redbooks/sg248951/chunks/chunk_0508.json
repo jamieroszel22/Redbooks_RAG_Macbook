@@ -1,0 +1,18 @@
+{
+  "content": "checking that HCD runs against a IODF source file helps minimize the risk of errors before an I/O configuration is activated. HCD support for multiple channel subsystems is available with z/VM and z/OS. HCD provides the capability to make dynamic hardware and software I/O configuration changes. Consult the suitable fix categories: \u2013 IBM z16 A01:IBM.Device.Server.IBM z16-3931 \u2013 IBM z15 T01: IBM.Device.Server.IBM z15-8561 \u2013 IBM z15 T02: IBM.Device.Server.IBM z15-8562 \u2013 IBM z14 M0x: IBM.Device.Server.IBM z14-3906 \u2013 IBM z14 ZR1: IBM.Device.Server.IBM z14ZR1-3907 \u0002 HCM HCM is a priced optional feature that supplies a graphical interface of HCD. It is installed on a PC and allows you to manage the physical and logical aspects of a mainframe\u2019s hardware configuration. \u0002 CHPID Mapping Tool (CMT) The CMT helps to map CHPIDs onto PCHIDs that are based on an IODF source file and the eConfig configuration file of a mainframe. It provides a CHPID to PCHID mapping with high availability for the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.199386",
+    "chunk_number": 508,
+    "word_count": 157
+  }
+}

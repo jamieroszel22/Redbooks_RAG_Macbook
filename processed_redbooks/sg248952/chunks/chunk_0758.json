@@ -1,0 +1,18 @@
+{
+  "content": "the distribution partners. For more information, see Linux on IBM Z on the IBM developerWorks website. z/OS Integrated Cryptographic Service Facility To achieve security in a distributed computing environment, a combination of elements must work together. A security policy should be based on an appraisal of the value of data and the potential threats to that data. This provides the foundation for a secure environment. IBM has categorized these security functions according to International Organization for Standardization (ISO) standard 7498-2: \u0002 Identification and authentication - includes the ability to identify users to the system and provide proof that they are who they claim to be. \u0002 Access control - determines which users can access which resources. \u0002 Data confidentiality - protects an organization's sensitive data from being disclosed to unauthorized persons. \u0002 Data integrity - ensures that data is in its original form and that nothing has altered it. \u0002 Security management -",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.189259",
+    "chunk_number": 758,
+    "word_count": 153
+  }
+}

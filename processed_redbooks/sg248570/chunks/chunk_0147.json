@@ -1,0 +1,18 @@
+{
+  "content": "principals (who have permissions). Best practices for managing ACLs include the following ones: \u0002 Defining roles before applying policies. \u0002 Using role hierarchies to streamline permission management. \u0002 Avoiding redundant or overlapping policies to minimize complexity and conflicts. 58 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data \u00a9 Copyright IBM Corp. 2025. 59 Chapter 5. Querying and manipulating data and leveraging persona-specific engines A data lakehouse is a unified data platform that seamlessly integrates the strengths of data warehouses and data lakes. As a high-performance SQL query engine, Presto enables rapid, interactive analytics on large-scale datasets. Its versatile capabilities extend to diverse use cases, such as real-time ad-hoc queries and complex ETL processes involving terabytes of data. This chapter has the following sections: \u0002 \u201cUsing PrestoDB or Prestissimo engine for adhoc queries\u201d on page 60 \u0002 \u201cLeveraging Apache Spark engine for",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.910919",
+    "chunk_number": 147,
+    "word_count": 144
+  }
+}

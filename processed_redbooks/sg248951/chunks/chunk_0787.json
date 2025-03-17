@@ -1,0 +1,18 @@
+{
+  "content": "existing CMP customers, machines that are eligible to be included in a multiplex cannot be older than two generations before the most recently available server. Y n/a Z126-6965 Flat Workload License Charges (FWLC)c,a c. Metric available with AWLC or CMLC only. see foornotes a,c see footnotes a,c see footnotes a,c IBM Z New Application License Charges (zNALC)d d. This metric is eligible for subcapacity charges or for aggregation in a qualified Parallel Sysplex environment. Y Y Z125-7454 Parallel Sysplex License Charges (PSLC) e e. PSLCs are available only on IBM z16 A02 or IBM z16 AGZ, z15 T02, and z14R1when that machine is participating in a qualified Parallel Sysplex environment. n/a Y Z125-5205 Midrange Workload License Charges (MWLC) Y n/a Z125-7452 Chapter 7. Operating system support 325 The 4-hour rolling average use of the logical partition can be limited by a defined capacity value on the image profile of the partition. This value activates the soft capping function of PR/SM,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.285391",
+    "chunk_number": 787,
+    "word_count": 160
+  }
+}

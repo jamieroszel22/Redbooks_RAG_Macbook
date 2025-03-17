@@ -1,0 +1,18 @@
+{
+  "content": "VMBRL2 0001 END 3390-09 RS3CM1 RS3CM1 0001 END 3390-09 VMBRES VMBRES 0001 END 3390-09 VMBS01 VMBS01 0001 END 3390-09 VMBP01 VMBP01 0001 END 3390-09 :END. :GROUPS. *GroupName RegionList * SYSTEM is for z/VM System Volumes SYSTEM VMBCM1 VMBRL1 VMBRL2 RS3CM1 VMBRES VMBS01 VMBP01 * USRWORK group is for z/VM Work Volumes on all members (in our lab environment are G and H z/VM members): USRWORK RDGUS1 RDGUS2 RDHUS1 RDHUS2 * LNXADM1 group is for full-pack minidisks used by LNXADM-1 LNXADM1 VM1567 * LNXADM2 group is for full-pack minidisks used by LNXADM-2 LNXADM2 VM1569 * POOL1 is a group for Linux virtual machines POOL1 VM156A VM156B VM156C VM156D POOL1 VM156E VM156F * POOL2 is a group for Kiwi POOL2 VM1222 :END. :SSI_VOLUMES. * Added during Installation, Do not remove. *VolumeFamily Member VolSer IBM_RES RDBKZVMG RDGRES IBM_WORK1 RDBKZVMG RDGUS1 IBM_RES RDBKZVMH RDGRES IBM_WORK1 RDBKZVMH RDHUS1 :END. :EXCLUDE. * ENTRY_NAME ADDRESS 316 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 MAINT*",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.927085",
+    "chunk_number": 690,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "and IBM z16 AGZ requires that HiperDispatch is enabled on the operating system. For more information, see \u201cSimultaneous multithreading\u201d on page 268. Additionally, any LPAR that is running with more than 64 logical processors is required to operate in HiperDispatch Management Mode. The following rules control this environment: \u0002 If an LPAR is defined at IPL with more than 64 logical processors, the LPAR automatically operates in HiperDispatch Management Mode, regardless of the HIPERDISPATCH= specification. \u0002 If logical processors are added to an LPAR that has 64 or fewer logical processors and the extra logical processors raise the number of logical processors to more than 64, the LPAR automatically operates in HiperDispatch Management Mode, regardless of the HIPERDISPATCH=YES/NO specification. That is, even if the LPAR has the HIPERDISPATCH=NO specification, that LPAR is converted to operate in HiperDispatch Management Mode. \u0002 An LPAR with more than 64 logical processors that are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.761914",
+    "chunk_number": 641,
+    "word_count": 150
+  }
+}

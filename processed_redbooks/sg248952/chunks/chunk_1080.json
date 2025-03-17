@@ -1,0 +1,18 @@
+{
+  "content": "The \u201cNest\u201d L2LP L4LP L2RP L4RP MEMP Microprocessor Design Memory Hierarchy or Nest How Often? L1MP How intensely this part of the architecture is utilized L3P RNI How Far? 462 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 12-4 Traditional factors that were used to categorize workloads Little can be done to affect most of these factors. An application type is whatever is necessary to do the job. The data reference pattern and processor usage tend to be inherent to the nature of the application. The LPAR configuration and application mix are mostly a function of what must be supported on a system. The I/O rate can be influenced somewhat through buffer pool tuning. However, one factor, software configuration tuning, is often overlooked but can have a direct effect on RNI. This term refers to the number of address spaces (such as CICS application-owning regions (AORs) or batch initiators) that are needed to support a workload. This factor always existed, but its sensitivity is higher",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.261647",
+    "chunk_number": 1080,
+    "word_count": 167
+  }
+}

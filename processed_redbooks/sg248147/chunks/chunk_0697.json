@@ -1,0 +1,18 @@
+{
+  "content": "to MAINT. The second command on the right side of the # sets MAINT to be the secondary user of DIRMAINT. This way, DIRMAINT does not need to be logged on to, but MAINT can see its console output: ===> xautolog dirmaint sync # set secuser dirmaint * AUTO LOGON *** DIRMAINT USERS = 13 Ready; HCPCFX6768I SECUSER of DIRMAINT initiated. Ready; ...................................................................... DIRMAINT: PRODUCT: DIRMAINT: IBM Directory Maintenance Facility for z/VM (DirMaint) ...................................................................... DIRMAINT: DIRMAINT ENDVM363. - 2015/04/14; T=0.01/0.01 18:02:15 DIRMAINT: DVHILZ3510I Starting DVHINITL with directory: USER INPUT E DIRMAINT: DVHILZ3510I DVHINITL Parms: BLDMONO NOCRCWARN ... Important: After performing this step, do not use the USER DIRECT file on PMAINT\u2019s 2CC. To remind you that you must not use the file, you might rename it to USER DIR_ORIG on the same 2CC MDisk. Chapter 10. DirMaint, RACF-connector, and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.955991",
+    "chunk_number": 697,
+    "word_count": 139
+  }
+}

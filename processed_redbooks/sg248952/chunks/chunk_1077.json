@@ -1,0 +1,18 @@
+{
+  "content": "private to the microprocessor core, which means that only that microprocessor core can access them. Other caches are shared by multiple microprocessor cores. The term memory nest for an IBM Z processor refers to the shared caches and memory along with the data buses that interconnect them. A memory nest in a z16 A02 and I IBM z16 AGZ CPC drawer is shown in Figure 12-2. Figure 12-2 IBM z16 A02 and IBM z16 AGZ physical and virtual single drawer memory hierarchy Workload performance is sensitive to how deep into the memory hierarchy the processor must go to retrieve the workload instructions and data for running. The best performance occurs when the instructions and data are in the caches nearest the processor because little time is spent waiting before running. If the instructions and data must be retrieved from farther out in the hierarchy, the processor spends more time waiting for their arrival. As workloads are moved between processors with various memory hierarchy designs,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.254273",
+    "chunk_number": 1077,
+    "word_count": 164
+  }
+}

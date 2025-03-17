@@ -1,0 +1,18 @@
+{
+  "content": "configuration. Through System Recovery Boost, the IBM z16 A02 and IBM z16 AGZ continue to offer more CP capacity during particular system recovery operations to accelerate system (operating system and services) start when the system is being started or shutdown. System Recovery Boost is operating system-dependent. No other hardware, software, or maintenance charges are required during the boost period for the base functions of System Recovery Boost. \u2013 At the time of this writing, the main System Recovery Boost users are z/OS (running in an LPAR), z/VM, 21CS VSEn, and z/TPF, as well as standalone dump (SADMP). z/VM uses the System Recovery Boost if it runs on subcapacity CP processors only (IFLs are always at their full clock speed). Second-level z/VM guest operating systems16 can inherit the boost if they are running on CPs. For more information about RAS and System Recovery Boost, see Introducing IBM Z System Recovery Boost, REDP-5563. \u0002 Level 2 (physical), Level 3 and Level 4",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.593722",
+    "chunk_number": 113,
+    "word_count": 160
+  }
+}

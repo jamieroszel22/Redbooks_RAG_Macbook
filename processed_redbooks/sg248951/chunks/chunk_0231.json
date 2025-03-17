@@ -1,0 +1,18 @@
+{
+  "content": "the Db2 utilities for z/OS Suite to allow the use of a hardware-accelerated approach to sorting. The IBM Integrated Accelerator for Z Sort feature termed as \u201cZSORT\u201d helps to reduce the CPU costs and improve the elapsed time for eligible workloads. One of the primary requirements for ZSORT is providing enough virtual, real, and auxiliary storage. Sort jobs that run in memory-constrained environments in which the amount of memory that is available to be used by DFSORT jobs is restricted might not achieve optimal performance results or might not be able to use ZSORT. The 64-bit memory objects (above-the-bar-storage) can use the ZSORT accelerator for sort workloads for optimal results. Because ZSORT is part of the CPU and memory latency is much less than disk latency, sorting in memory is more efficient than sorting with memory and disk workspace. By allowing ZSORT to process the input completely in memory, it can achieve the best results in elapsed time and CPU time. Because the goal of",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.098517",
+    "chunk_number": 231,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "core frequency is 4.6 GHz (compared to 4.5 GHz for the IBM z15 T02), and with increased number of processors that share larger caches to have shorter access times and improved capacity and performance. Through innovative processor design (significant architecture changes, new cache structure, new Core-Nest interface, new branch prediction design that uses dense SRAM, and new on-chip AI accelerator for inference), the IBM Z processor performance continues to evolve. Enhancements were made on the processor unit design, including the following examples: \u0002 Cache structure \u0002 Branch prediction mechanism \u0002 Floating point unit \u0002 Divide engine scheduler \u0002 Load/Store Unit and Operand Store Compare (OSC) \u0002 Simultaneous multi-threading \u0002 Relative nest intensity (RNI) redesigns For more information about RNI, see 12.4, \u201cRelative Nest Intensity\u201d on page 461. The processing performance was enhanced through the following changes to the IBM z16 A02 and IBM z16 AGZ processor design: \u0002 Core optimization",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.050651",
+    "chunk_number": 220,
+    "word_count": 150
+  }
+}

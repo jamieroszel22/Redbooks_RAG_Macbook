@@ -1,0 +1,18 @@
+{
+  "content": "of security, or separation of authority Although the use of a directory manager can help to mitigate these points, it cannot eliminate them. Password management is still a concern because a system administrator can still obtain clear-text passwords. Also, the granularity of resource access control is not improved. These points can be addressed through the use of an External Security Manager (ESM). 3.2.3 Improving z/VM security by using an External Security Manager An ESM addresses the security points by applying more security configuration and control in addition to (or instead of) standard CP security. Password management When an ESM is used, the passwords in the directory are no longer used. User passwords appear in the directory as placeholders, and minidisk passwords are ignored. An ESM stores passwords in an encrypted form in its database; therefore, the passwords cannot be read from a file. Also, ESMs do not provide a method of retrieving or querying a password. The use of an",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.013185",
+    "chunk_number": 216,
+    "word_count": 160
+  }
+}

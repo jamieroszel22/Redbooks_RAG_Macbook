@@ -1,0 +1,18 @@
+{
+  "content": "processing that can decrease the amount of code and accelerate code that handles integer, string, character, and floating point data types. The SIMD instructions improve performance of complex mathematical models and allow integration of business transactions and analytic workloads on IBM Z servers. The 32 vector registers feature 128 bits. The instructions include string operations, vector integer, and vector floating point operations. Each register contains multiple data elements of a fixed size. The following instructions code specifies which data format to use and the size of the elements: \u0002 Byte (16 8-bit operands) \u0002 Halfword (eight 16-bit operands) \u0002 Word (four 32-bit operands) \u0002 Doubleword (two 64-bit operands) \u0002 Quadword (one 128-bit operand) The collection of elements in a register is called a vector. A single instruction operates on all of the elements in the register. Instructions include a nondestructive operand encoding that allows the addition of the register vector A",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.036748",
+    "chunk_number": 215,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "help ensure data security, collaboration, and governance. Best practices for defining user attributes When setting up ABAC and dynamic groups in a lakehouse, carefully selected attributes are essential for reliable and scalable access control. Here are some recommended attributes: \u0002 Role or Job Title: Specifies the user\u2019s role within the organization. \u0002 Department or Business Unit: Controls access by organizational divisions. \u0002 Project ID: Links users to specific project-based access requirements. \u0002 Location: Segments access by region or jurisdiction. Using standardized attribute names and values across systems helps ensure consistency and enables cross-functional access control. Building policies for ABAC For effective ABAC implementation, establish clear policies that reflect your organization\u2019s requirements. Policies should have the following characteristics: \u0002 Atomic: Ensure that each policy addresses one specific condition (for example, Department == \u201cFinance\u201d). \u0002 Composable:",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.829782",
+    "chunk_number": 126,
+    "word_count": 134
+  }
+}

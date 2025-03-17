@@ -1,0 +1,18 @@
+{
+  "content": "any data center. The IBM z16 A02 and IBM z16 AGZ are rated for ASHRAE class A31 data center operating environment. 2.1.1 IBM z16 A02 The IBM z16 A02 continues previous IBM Z generations improvements through the following significant characteristics of the modular hardware: \u0002 All external cabling (power, I/O, and management) is performed at the rear of the system. \u0002 Flexible configurations: Feature based CPC sizing to fit capacity requirements. \u0002 Power Distribution Unit (PDU) with single-phase or three-phase utility AC power (configuration dependent). \u0002 PCIe+ Gen3 I/O drawers (19-inch format) supporting 16 PCIe adapters each. 1 For more information, see Chapter 2, Environmental specifications in the 3932 Single Frame Installation Manual for Physical Planning, (Models A02/LA2) GC28-7040. The 8U and 16U Reserved space features discontinued: previously offered on z14 ZR1 and z15 T02 systems are not offered on IBM z16 A02 and cannot be carried forward. All components for the z16 A02 have",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.607305",
+    "chunk_number": 116,
+    "word_count": 155
+  }
+}

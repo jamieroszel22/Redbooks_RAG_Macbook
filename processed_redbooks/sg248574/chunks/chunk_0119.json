@@ -1,0 +1,18 @@
+{
+  "content": "Power of AI with IBM watsonx.ai 10.Review the sample notebook. This notebook acts as a client application that starts the deployed LLM with a Python SDK. You use the notebook as a client for simplicity of testing during this lab. Enterprise client applications can be implemented in Python, Java, .NET, and many other programming languages. LLMs that are deployed in watsonx.ai can be started either with REST calls or the Python SDK. Run the notebook to test the LLM with your prompts. 4.9 Operationalizing machine learning and LLM models Now that you have a machine learning (ML) model or LLM built, you now enter the operational phase. Much like how traditional application development created the need for formal DevOps tools and systems, so too have AI models created the need for ModelOps. ModelOps is the practice of enabling the deployment and management of models throughout the application development and deployment lifecycle with the goal of operationalizing models in production. As a",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.621298",
+    "chunk_number": 119,
+    "word_count": 161
+  }
+}

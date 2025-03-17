@@ -1,0 +1,18 @@
+{
+  "content": "identifier on a subcapacity system, or as both. A CPE contract must be in place before the special code that enables this capability can be loaded on the system. The standard CPE contract provides for one 3-day planned activation at a specific date. For more information, contact your IBM representative. Note: CBU cannot be used for peak workload management in any form. Notes: 1. CPE cannot be used for peak load management of client workload or for a disaster situation. 2. CPE is only available as carry forward on IBM z16 A02 and IBM z16 AGZ. 332 IBM z16 A02 and IBM z16 AGZ Technical Guide 8.2.3 Concurrent upgrade functions summary The possible concurrent upgrades combinations are listed in Table 8-2. Table 8-2 Concurrent upgrade summary 8.3 Miscellaneous equipment specification (MES) upgrades MES upgrades enable concurrent and permanent capacity growth. MES upgrades allow the concurrent adding of processors (CPs, ICFs, zIIPs, and IFLs), memory capacity, and I/O ports. For subcapacity",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.409704",
+    "chunk_number": 827,
+    "word_count": 160
+  }
+}

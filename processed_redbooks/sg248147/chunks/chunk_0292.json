@@ -1,0 +1,18 @@
+{
+  "content": "Installation window. Read the entire list licensing terms to ensure that you understand them. Then, press F5 to accept them. 7. The z/VM INSTALLATION PLANNING PANEL 2 appears, as shown in Figure 5-16. Answer No to the question: \u201cWould you like to have your system automatically configured to be managed by the Unified Resource Manager or some other SMAPI client for system management, such as XCAT or IBM Director?\u201d by entering N. Press F5 to continue. Figure 5-16 z/VM INSTALLATION PLANNING PANEL 2 IMPORTANT: You must ensure you respond with N (no) to the question regarding SMAPI system management. If you respond otherwise, you create a system that you cannot manage by using the concepts and processes that are described in this book. *** z/VM INSTALLATION PLANNING PANEL 2 *** N_ Would you like to have your system automatically configured to be managed by the Unified Resource Manager or some other SMAPI client for system management, such as XCAT or IBM Director? (Y/N) Keep The Following in",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.352754",
+    "chunk_number": 292,
+    "word_count": 167
+  }
+}

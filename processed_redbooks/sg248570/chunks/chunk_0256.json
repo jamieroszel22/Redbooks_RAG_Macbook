@@ -1,0 +1,18 @@
+{
+  "content": "The vector DB initially supported is based on open source vector DB Milvus. This supports up to 100 million vectors of 384 dimensions. 9.3.1 Architecture overview IBM watsonx offers an interface for experimenting with various foundation models through engineered prompts. By incorporating watsonx.data Milvus as the vector database, you can enhance model accuracy and relevance by adding grounding documents as a knowledge base. These grounding documents, supported in formats like DOCX, PDF, PPTX, and TXT, are first converted into text embeddings by using pre-trained embedding models. Then, these embeddings are indexed by using Milvus vector database for efficient searching during prompt processing, ensuring more reliable and up-to-date responses. Figure 9-1 on page 151 shows the architecture of watsonx RAG. Chapter 9. Adopting Milvus for RAG using IBM watsonx 151 Figure 9-1 Architecture of watsonx RAG 9.3.2 Code examples Example 9-1 demonstrates how to ingest documents using Spark from",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.331063",
+    "chunk_number": 256,
+    "word_count": 148
+  }
+}

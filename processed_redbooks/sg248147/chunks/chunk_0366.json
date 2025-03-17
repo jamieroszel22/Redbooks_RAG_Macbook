@@ -1,0 +1,18 @@
+{
+  "content": "must activate the management of resources before RACF takes over. For resources, such as VSWITCHES, the access control is taken over by RACF. Running commands, such as set vswitch vsw1 grant <<userid>>, does not set anything. After you activate RACF, if you encounter access problems, it is a preferred practice to review the operator console. Often, the access issue is reported on the operator console. Note: For more information about DirMaint and its configuration, see Chapter 10, \u201cDirMaint, RACF-connector, and SMAPI\u201d on page 305. Note: This section also assumes that DirMaint, RACF-connector, and SMAPI were configured according to the information in Chapter 10, \u201cDirMaint, RACF-connector, and SMAPI\u201d on page 305. 156 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6.7.1 Creating the RACF RPIDIRCT command file To set up the initial RACF database, a set of RACF commands is constructed from the user directory source file, then modified later. The RPIDIRCT EXEC helps you to migrate the user",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.628056",
+    "chunk_number": 366,
+    "word_count": 157
+  }
+}

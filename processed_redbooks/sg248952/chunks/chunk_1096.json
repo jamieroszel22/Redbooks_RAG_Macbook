@@ -1,0 +1,18 @@
+{
+  "content": "director, DWDM equipment or another FICON Express3sS) distance is limited to 5 km. d. A 600 meters maximum when sharing the switch across two RoCE Express features. Channel feature Feature codes Bit ratea in Gbps (or stated) Cable type Maximum unrepeated distanceb Ordering information Cable type (modal bandwidth) 8 Gbps OM3 (50 \u00b5m at 2000 MHz\u00b7km) 100 meters 328 feet OM4 (50 \u00b5m at 4700 MHz\u00b7km) 150 meters 492 feet Cable type/bit rate 8 Gbps 16 Gbps 32 Gbps OM1 (62.5 \u00b5m at 200 MHz\u00b7km) 21 meters 15 meters N/A 69 feet 49 feet N/A OM2 (50 \u00b5m at 500 MHz\u00b7km) 50 meters 35 meters 20 meters 164 feet 115 feet 65 feet 472 IBM z16 A02 and IBM z16 AGZ Technical Guide OM3 (50 \u00b5m at 2000 MHz\u00b7km) 150 meters 100 meters 70 meters 492 feet 328 feet 229 meters OM4a (50 \u00b5m at 4700 MHz-km) 190 meters 125 meters 100 meters 693 feet 410 feet 328 feet a. Fibre Channel Standard (not certified for Ethernet) Cable type/bit rate 8 Gbps 16 Gbps 32 Gbps \u00a9 Copyright IBM Corp. 2023. All rights reserved. 473 Appendix B.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.293292",
+    "chunk_number": 1096,
+    "word_count": 187
+  }
+}

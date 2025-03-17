@@ -1,0 +1,18 @@
+{
+  "content": "information that you were provided are correctly associated. 5.8 Adding CTCAs to an SSI cluster During installation, the VMSSI CTC installation panel allows two CTC connections to be installed for each SSI member. You must add CTCs for performance and redundancy. It is recommended that you use four of the eight CTC devices to connect SSI members by way of each channel path. Generally, eight devices are available in a Fibre Channel connection (FICON) CTC control unit. It is recommended that only four of the eight devices are used for performance reasons. The following example adds three CTCs for each member to each path that was activated during the installation: \u0002 Display the installed CTCs on the first member (ITSOZVM1): ===> q ctc active CTCA 47E0 ATTACHED TO SYSTEM -ISFC CTCA 57E0 ATTACHED TO SYSTEM -ISFC *** QDIO Interface Configuration Panel *** VLAN ID (optional): ____ Maximum Transmission Unit (MTU) size: 1500_ Port Number (optional): __ Chapter 5. Installing z/VM 131 \u0002 Display",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.446699",
+    "chunk_number": 316,
+    "word_count": 163
+  }
+}

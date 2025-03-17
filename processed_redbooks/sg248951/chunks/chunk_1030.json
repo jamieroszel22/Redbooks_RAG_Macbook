@@ -1,0 +1,18 @@
+{
+  "content": "supports InfiniBand, InfiniBand coupling and timing links cannot be configured in a Syspex/CTN with IBM z16. 446 IBM z16 (3931) Technical Guide During the transition state, most of the STP actions for the two affected CTNs are disabled. After the merge is completed, STP actions are enabled again. For more information about planning and understanding STP server roles, see the following publications: \u0002 IBM Z Server Time Protocol Guide, SG24-8480 \u0002 Server Time Protocol Planning Guide, SG24-7280 \u0002 Server Time Protocol Implementation Guide, SG24-7281 \u0002 Server Time Protocol Recovery Guide, SG24-7380 10.5.10 NTP client and server support on the HMC The NTP client support allows a STP-only CTN to use an NTP server as an ETS. This capability addresses the following requirements: \u0002 Customers who want time synchronization for the servers members of the STP-only CTN \u0002 Customers who use a common time reference across heterogeneous systems The NTP server becomes the single time source (the ETS) for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.106898",
+    "chunk_number": 1030,
+    "word_count": 158
+  }
+}

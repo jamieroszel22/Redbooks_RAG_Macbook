@@ -1,0 +1,18 @@
+{
+  "content": "(500) 300 m (2000) New build OSA-Express7S 1.2 GbE LX 0454 1.25 SM 9 \u00b5m 10 km (6.2 miles) New build OSA-Express7S 1.2 GbE SX 0455 1.25 MM 62.5 \u00b5m MM 50 \u00b5m 275 m (200) 550 m (500) New build OSA-Express7S 1.2 1000BASE-T 0458 1000Mbps Cat 5, Cat 6 unshielded twisted pair (UTP) 100 m New build OSA-Express7S 25GbE SR1.1 0449 25 MM 50 \u00b5m 70 m (2000) 100 m (4700) Carry forward OSA-Express7S 25GbE SR 0429 OSA-Express7S 10GbE LR 0444 10 SM 9 \u00b5m 10 km (6.2 miles) Carry forward OSA-Express6S 10GbE LR 0424 OSA-Expess7S 10GbE SR 0445 10 MM 62.5 \u00b5m MM 50 \u00b5m 33 m (200) 82 m (500) 300 m (2000) Carry forward OSA-Expess6S 10GbE SR 0425 OSA-Express7S GbE LX 0442 1.25 SM 9 \u00b5m 5 km (3.1 miles) Carry forward OSA-Express6S GbE LX 0422 OSA-Express7S GbE SX 0443 1.25 MM 62.5 \u00b5m MM 50 \u00b5m 275 m (200) 550 m (500) Carry forward OSA-Express6S GbE SX 0423 OSA-Express7S 1000BASE-T 0446 1000 Mbps Cat 5, Cat 6 unshielded twisted pair (UTP) 100 m Carry forward OSA-Express6S 1000BASE-T 0426 100 or 1000 Mbps 25GbE RoCE",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.324689",
+    "chunk_number": 1115,
+    "word_count": 189
+  }
+}

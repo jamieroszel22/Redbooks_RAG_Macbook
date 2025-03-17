@@ -1,0 +1,18 @@
+{
+  "content": "organization\u2019s primary site and alternative data centers. Flexible Capacity for Cyber Resiliency is designed to provide increased flexibility and control to organizations that want to shift production capacity between participating IBM z16 servers at different sites. The capacity of any engine type can be shifted up to 12 times annually and stay at the target machine for up to 12 months after the flexible capacity record activation on the target machine. Capacity shifts can be done under full customer control without IBM intervention and can be fully automated by using IBM GDPS automation tools. Flexible Capacity for Cyber Resiliency supports a broad set of scenarios and can be combined with other IBM On-Demand offerings. For more information, see \u201cIBM Z Flexible Capacity for Cyber Resiliency\u201d on page 520. 8.10 Capacity Backup CBU provides reserved emergency backup processor capacity for unplanned situations in which capacity is lost in another part of your enterprise. It allows you",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.576463",
+    "chunk_number": 875,
+    "word_count": 155
+  }
+}

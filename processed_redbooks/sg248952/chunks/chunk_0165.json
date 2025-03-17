@@ -1,0 +1,18 @@
+{
+  "content": "Drawer Availability (EDA), which is supported for IBM z16 A02 and IBM z16 AGZ when two CPC drawers are installed, sufficient resources must be available to accommodate the ones that are rendered unavailable when a CPC drawer is removed for upgrade or repair. For more information, see 2.7.1, \u201cRedundant I/O interconnect\u201d on page 54. 2.5.7 Virtual Flash Memory IBM Virtual Flash Memory (VFM) FC 0644 replaces the Flash Express features (0402 and 0403) that were available on previous IBM Z systems. It offers up to 2.0 TB of virtual flash memory in 512 GB (0.5 TB) increments for improved application availability and to handle paging workload spikes. No application changes are required to change from IBM Flash Express to VFM. Consider the following points: \u0002 Dialed memory + VFM = total hardware plugged \u0002 VFM is offered in 0.5 TB increment size; VFM for z16 is FC 0644 - Min=0, Max=4 VFM is designed to help improve availability and handling of paging workload spikes when z/OS V2.1, V2.2, V2.3,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.831993",
+    "chunk_number": 165,
+    "word_count": 169
+  }
+}

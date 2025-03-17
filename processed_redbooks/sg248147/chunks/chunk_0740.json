@@ -1,0 +1,18 @@
+{
+  "content": "attribute in the DMSSICNF COPY file. At the end of the execution, the EXEC indicates the name and location of this file: q accessed Mode Stat Files Vdev Label/Directory A R/W 26 191 MNT191 B R/O 139 5E5 MNT5E5 C R/W 4 2CC MNT2CC D R/O 210 51D MNT51D E R/O 10 551 PMT551 F R/W 19 DIR VMSYS:VSMWORK1.DATA G R/O 1144 193 MNT193 H R/O 56 100 DRM11F S R/O 693 190 MNT190 V R/W 2 DIR VMSYS:VSMWORK1.STATUS X R/O 2 120 VW1191 Y/S R/O 1122 19E MNT19E Z R/O 169 400 MNT400 338 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Usage notes Consider the following points: \u0002 SMSTATUS does not clear or rotate logs after it collects them. \u0002 If you are running an External Security Manager (ESM), SMSTATUS can fail to collect console logs, even if you configured SMAPI as described in Appendix F, \u201cUsing SMAPI with an External Security Manager,\u201d or z/VM 7.2 Systems Management Application Programming. This failure is noted in the SMSTATUS output. \u0002 The SMSTATUS output for some ESM-related problems can be incomplete.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.108087",
+    "chunk_number": 740,
+    "word_count": 180
+  }
+}

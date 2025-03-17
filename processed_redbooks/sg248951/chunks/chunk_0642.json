@@ -1,0 +1,18 @@
+{
+  "content": "cache usage. PR/SM automatically keeps a partition\u2019s memory and logical processors on the same CPC drawer where possible. This arrangement looks simple for a partition, but it is a complex optimization for multiple logical partitions because some must be split among processors drawers. All IBM z16 processor types can be dynamically reassigned except IFPs. To use HiperDispatch effectively, WLM goal adjustment might be required. Review the WLM policies and goals and update them as necessary. WLM policies can be changed without turning off HiperDispatch. A health check is provided to verify whether HiperDispatch is enabled on a system image. z/VM V7R3, V7R2 and V7R1 z/VM also uses the HiperDispatch facility for improved processor efficiency by better use of the processor cache to take advantage of the cache-rich PU chip, node, and drawer design of the IBM z16 system. CPU polarization support in Linux on IBM Z You can optimize the operation of a vertical SMP environment by adjusting the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.770610",
+    "chunk_number": 642,
+    "word_count": 159
+  }
+}

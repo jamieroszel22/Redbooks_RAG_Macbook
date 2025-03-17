@@ -1,0 +1,18 @@
+{
+  "content": "HiperDispatch. HiperDispatch uses the IBM z16 A02 and IBM z16 AGZ cache topology, which features reduced cross-cluster \u201chelp\u201d and better locality for multi-task address spaces. PR/SM can use dynamic PU reassignment to move processors (CPs, ZIIPs, IFLs, ICFs, SAPs, and spares) to a different chip and drawer to improve the reuse of shared caches by processors of the same partition. It can use dynamic memory relocation (DMR) to move a running partition\u2019s memory to different physical memory to improve the affinity and reduce the distance between the memory and processors of a partition. For more information about HiperDispatch, see 3.7, \u201cLogical partitioning\u201d on page 119. 3.3.2 CPC drawer interconnect topology In a configuration with two CPC drawers (Max68), the drawers are interconnected in a point-to-point topology that allows CPC drawers to communicate with each other to make the system appears as a single large SMP structure. The IBM z16 A02 and IBM z16 AGZ intra-CPC drawer SMP",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.043731",
+    "chunk_number": 218,
+    "word_count": 157
+  }
+}

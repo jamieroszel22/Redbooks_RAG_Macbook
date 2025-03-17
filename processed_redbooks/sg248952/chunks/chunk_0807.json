@@ -1,0 +1,18 @@
+{
+  "content": "Nondisruptive upgrades do not require the software or operating system to be restarted for the upgrade to take effect. \u0002 Disruptive An upgrade is considered disruptive when resources that are modified or added to an operating system image require that the operating system be restarted to configure the newly added resources. A Concurrent upgrade might be disruptive to operating systems or programs that do not support the upgrades while being nondisruptive to others. For more information, see 8.10, \u201cPlanning for nondisruptive upgrades\u201d on page 357. 8.1.4 Permanent upgrades Permanent upgrades can be obtained by using the following processes: \u0002 Ordered through an IBM marketing representative \u0002 Initiated by the client with the CIU on the IBM Resource Link Permanent upgrades that are ordered through an IBM representative Through a permanent upgrade, you can accomplish the following tasks: \u0002 Add CPC drawers \u0002 Add Peripheral Component Interconnect Express (PCIe) drawers and features \u0002 Add",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.341835",
+    "chunk_number": 807,
+    "word_count": 153
+  }
+}

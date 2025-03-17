@@ -1,0 +1,18 @@
+{
+  "content": "ZSORT is to reduce CPU time and elapsed time, it can require more storage than a DFSORT application that does not use ZSORT. The following restrictions disable ZSORT and revert to the use of traditional sorting technique: \u0002 SORTL facility is not enabled/unavailable on the processor \u0002 ZSORT is not enabled \u0002 OPTION COPY or SORT FIELDS=COPY is specified \u0002 Use of: \u2013 INREC \u2013 JOINKEYS \u2013 MERGE FIELDS \u2013 MODS(EXITS) statements \u2013 OUTREC \u2013 OUTFIL \u2013 SUM FIELDS \u0002 Program started sorts \u0002 Memory objects cannot be created Note: Not all sorts are eligible to use ZSORT. IBM\u2019s zBNA tool provides modeling support for identifying potential ZSORT-eligible candidate jobs and estimates the benefits of ZSORT. The tool uses information in the SMF type 16 records. Chapter 3. Central processor complex design 89 \u0002 Insufficient memory object storage available (required more than currently available) \u0002 Unsupported sort fields specified (examples Unicode, Locale, and ALTSEQ) \u0002 Unknown file size or file size=0. \u0002",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.104445",
+    "chunk_number": 232,
+    "word_count": 162
+  }
+}

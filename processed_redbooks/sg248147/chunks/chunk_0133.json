@@ -1,0 +1,18 @@
+{
+  "content": "through this section, it is suggested that you have a copy of z/VM installation guide, GC24-6292 for reference. In the z/VM 7.2.0 Installation Guide, the following methodologies are provided to install z/VM: \u0002 Traditional first level: \u2013 VMSSI installation to DASD \u2013 Non-VMSSI (stand-alone) installation to: \u2022 DASD \u2022 FCP/SCSI LUNs \u0002 Traditional second level non-VMSSI (stand-alone) installation to: \u2013 DASD \u2013 FCP/SCSI LUNs \u0002 Upgrade VMSSI installation to DASD \u0002 Upgrade non-VMSSI (stand-alone) installation to: \u2013 DASD \u2013 FCP/SCSI LUNs Note: For more information about DPM operations and capabilities, see z Systems IBM Dynamic Partition Manager (DPM) Guide, SB10-7168. Chapter 2. Planning 37 Overall, the z/VM 7.2.0 Installation Guide classifies all installations under two main categories, Traditional or Upgrade. 2.2.1 Understanding traditional and upgrade installations In this section, we describe traditional installations of z/VM versus upgrade installations. Traditional (new) installations In",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.663567",
+    "chunk_number": 133,
+    "word_count": 142
+  }
+}

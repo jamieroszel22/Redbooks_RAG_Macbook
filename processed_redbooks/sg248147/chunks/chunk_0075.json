@@ -1,0 +1,18 @@
+{
+  "content": "network adapters and mini-disks were updated to offer greater clarity and help eliminate confusion. \u0002 The setup of z/VM covers usage of the IBM z/VM Single System Image (VMSSI) feature with a directory management product. \u0002 All of the setup, planning, and service tasks were reworked and reordered into a workflow that is much faster to complete. \u0002 The chapter covering common IBM DirMaint tasks was expanded. \u0002 The section about using emulated DASD (EDEV) was expanded. \u0002 Chapter 10, \u201cDirMaint, RACF-connector, and SMAPI\u201d on page 305 was expanded to include additional detail and a new section on the z/VM Secure Sockets Layer (SSL) server. \u0002 A section about setting up a Link Aggregation Control Protocol (LACP) redundant network configuration on the IBM z13\u00ae was added. Conversion to a volume-based series \u0002 The Red Hat chapters were updated and moved to The Virtualization Cookbook for IBM Z Volume 2: Red Hat Enterprise Linux Server 8.2, SG24-8303. \u0002 The SUSE chapters were updated and moved to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.417907",
+    "chunk_number": 75,
+    "word_count": 165
+  }
+}

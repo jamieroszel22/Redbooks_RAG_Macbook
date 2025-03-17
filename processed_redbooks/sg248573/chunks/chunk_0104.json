@@ -1,0 +1,18 @@
+{
+  "content": "inventory to document model changes and updates, track issues and resolve model-related problems Chapter 3. Implementing AI governance strategy 33 \u0002 Risk and Compliance Manager: Interacts with the inventory to schedule and track model reviews, assign and track model risk assessments, monitor model performance and identify potential compliance risks associated with models Inventory is primarily comprised of the following objects: 1. Use Case - The Use Case object is a subclass of Entity and a superclass of the Model object. Its main function is to serve as a repository for models during development. The use case encapsulates both the qualitative and quantitative requirements of the AI application to be deployed. It helps define and demonstrate how a specific model can solve a particular business problem or achieve an objective. It describes practical scenarios and contexts in which the model will be implemented, offering comprehensive insight into its intended uses and expected",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.844578",
+    "chunk_number": 104,
+    "word_count": 151
+  }
+}

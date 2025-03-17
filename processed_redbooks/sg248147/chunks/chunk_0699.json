@@ -1,0 +1,18 @@
+{
+  "content": "maint COMMAND ADD 10 SCREEN STAT RED REV DVHXMT1191I Your COMMAND request has been sent for processing ... Ready; T=0.01/0.01 18:31:33 DVHREQ2288I Your COMMAND request for MAINT at * has been accepted. DVHBIU3450I The source for directory entry MAINT has been updated. DVHREQ2289I Your COMMAND request for MAINT at * has completed; with RC = 0. ===> dirmaint for maint COMMAND ADD 10 SCREEN INAR YEL UND ===> dirmaint for MAINT720 COMMAND ADD 10 SCREEN STAT RED REV ===> dirmaint for MAINT720 COMMAND ADD 10 SCREEN INAR YEL UND 2. Run the DIRMAINT REVIEW command to spool a file, which contains an overview of the directory entry for MAINT, to MAINT\u2019s reader. No prompt for a password occurs: ===> dirmaint for maint review DVHXMT1191I Your REVIEW request has been sent for processing to DIRMAINT at ... Ready; DVHREQ2288I Your REVIEW request for MAINT at * has been accepted. RDR FILE 0009 SENT FROM DIRMAINT PUN WAS 3397 RECS 0117 ... DVHREQ2289I Your REVIEW request for MAINT at * has completed;",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.959113",
+    "chunk_number": 699,
+    "word_count": 170
+  }
+}

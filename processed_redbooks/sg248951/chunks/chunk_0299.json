@@ -1,0 +1,18 @@
+{
+  "content": "standpoint, LPARs have no control over these physical resources, but the PR/SM functions do have this control. PR/SM manages and optimizes allocation and the dispatching of work on the physical topology. Most physical topology that was handled by the operating systems is the responsibility of PR/SM. As described in 3.5.9, \u201cProcessor unit assignment\u201d on page 110, the initial PU assignment is done during POR by using rules to optimize cache usage. This step is the \u201cphysical\u201d step, where CPs, zIIPs, IFLs, ICFs, and SAPs are allocated on the processor drawers. When an LPAR is activated, PR/SM builds logical processors and allocates memory for the LPAR. PR/SM assigns all logical processors to one CPC drawer that are packed into chips of that drawer and cooperates with operating system use of HiperDispatch. All processor types of an IBM z16 can be dynamically reassigned, except IFPs. Memory allocation changed from the previous IBM Z servers. Partition memory is now allocated based on",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.400443",
+    "chunk_number": 299,
+    "word_count": 159
+  }
+}

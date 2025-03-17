@@ -1,0 +1,18 @@
+{
+  "content": "processor and memory upgrades by using the IBM Resource Link and the system\u2019s Remote Support Facility (RSF) connection. Capacity on Demand (CoD) The ability of a system to increase or decrease its performance capacity as needed to meet fluctuations in demand. Capacity Provisioning Manager (CPM) As a component of z/OS Capacity Provisioning, CPM monitors business-critical workloads that are running z/OS on IBM z16 A02 and IBM z16 AGZ. Customer profile This information is on Resource Link and contains client and system information. A customer profile can contain information about systems that are related to their IBM customer numbers. Flexible Capacity for Cyber Resiliency Available on IBM z16 A02 and IBM z16 AGZ, the optional Flexible Capacity Record is an orderable feature that entitles a customer to active MIPS flexibility for all engine types between IBM z16 A02 and IBM z16 AGZ across two or more sites. It allows capacity swaps for an extended term. Full capacity CP feature For IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.328142",
+    "chunk_number": 802,
+    "word_count": 160
+  }
+}

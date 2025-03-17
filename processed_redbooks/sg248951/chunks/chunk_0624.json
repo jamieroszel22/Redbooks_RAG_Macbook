@@ -1,0 +1,18 @@
+{
+  "content": "network connectivity functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-9. Table 7-9 Supported network connectivity functions for z/VSE, z/TPF, and Linux on IBM Z f. CHPID types OSM, OSN, OSX are no longer supported. g. Statements of Direction: IBM z16 will be the last IBM Z server to support OSA Express 1000BASE-T hardware adapters. h. Require PTFs for APARs OA55256 (IBM VTAM) and PI95703 (TCP/IP). i. Require PTF for APAR PI99085. j. Statements of Direction: IBM z16 will be the last IBM Z server to support the OSE CHPID type. Functiona z/VSE V6R2 z/TPF V1R1 Linux on IBM Zb Checksum offload for IPV6 packets N N Y Checksum offload for LPAR-to-LPAR traffic with IPv4 and IPv6 N N Y QDIO Diagnostic Synchronization N N N Inbound Workload Queuing (IWQ) for OSA N N N GARP VLAN Registration Protocol N N Yc Multi-vSwitch Link Aggregation N N N Large send for IPV6 packets N N Y OSA Dynamic LAN idle N N N HiperSockets HiperSocketsd Y N Y HiperSockets Completion Queue Y N Y",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.699219",
+    "chunk_number": 624,
+    "word_count": 179
+  }
+}

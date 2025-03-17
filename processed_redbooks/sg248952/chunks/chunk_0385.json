@@ -1,0 +1,18 @@
+{
+  "content": "101/D2 assigned \u2013 Location A01B, slot 03 with PCHIDs 104/D1 and 105/D2 assigned \u2013 Location A01B, slot 04 with PCHIDs 108/D1 and 109/D2 assigned \u0002 Feature code 0908 (Crypto Express8S 2 port) installed in PCIe+ I/O drawer 1 in location A01B, slot 05. \u0002 Feature code 0457 (OSA-Express7S 10 GbE SR 1.2) installed in PCIe+ I/O drawer 1 in location A01B, slot 07 with PCHID110/D1 A resource group (RG) parameter is also shown in the PCHID REPORT for native PCIe features. A balanced plugging of native PCIe features exists between four resource groups (RG1, RG2, RG3, and RG4). The preassigned PCHID number of each I/O port relates directly to its physical location (jack location in a specific slot). 154 IBM z16 A02 and IBM z16 AGZ Technical Guide 4.6 Connectivity I/O channels are part of the CSS. They provide connectivity for data exchange between systems, between systems and external control units (CUs) and devices, or between networks. For more information about connectivity to external I/O",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.720960",
+    "chunk_number": 385,
+    "word_count": 165
+  }
+}

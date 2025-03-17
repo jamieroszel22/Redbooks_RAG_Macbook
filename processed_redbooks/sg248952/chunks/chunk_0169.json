@@ -1,0 +1,18 @@
+{
+  "content": "concurrently with the use of redundant I/O interconnect. For more information, see 2.7.1, \u201cRedundant I/O interconnect\u201d on page 54. The following types of fanouts are available: \u0002 A new PCIe+ Generation 3 dual port fanout card: This fanout provides connectivity to the PCIe switch cards in the PCIe+ I/O drawer. \u0002 A new Integrated Coupling Adapter (ICA SR1.1): This adapter provides coupling connectivity to z16, z15, and z14. Up to 12 PCIe Fanouts - Concurrent add/repair. LG01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12. SMP9 Connection to other CPC Drawers Power from PDUs PCIe F/O ICA SR1.1 54 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 One, two or three pairs of redundant SMP9 connectors providing connectivity to the other one, two, or three CPC Drawers in the configuration9. When configured for availability, the channels and coupling links are balanced across CPC drawers. In a system that is configured for maximum availability, alternative paths maintain access to critical I/O",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.840783",
+    "chunk_number": 169,
+    "word_count": 165
+  }
+}

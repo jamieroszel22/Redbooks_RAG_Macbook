@@ -1,0 +1,18 @@
+{
+  "content": "request has been sent for processing DVHREQ2288I Your REPLACE request for CRONSVM at * has been accepted. ... DVHBIU3428I Changes made to directory entry CRONSVM have been placed online. DVHREP3603I Directory entry CRONSVM is now unlocked. DVHREQ2289I Your REPLACE request for CRONSVM at * has completed; with RC = 0. Important: Consider the following points: \u0002 While you are editing a directory entry that you received by using the DIRMAINT FOR ... GET command or the short command DIRM FOR ... GET, the last line of the file contains internal data that is used by DirMaint during processing. Do not change, delete, or move the line beginning with *DVHOPT. \u0002 If you accidentally delete or modify the *DVHOPT line, use the XEDIT subcommand QQUIT to quit without saving your changes and then, restart your XEDIT session for the file. This approach is effective if you did not use the SAVE subcommand during your XEDIT session. If you performed an intermediate SAVE, use QQUIT to exit without saving",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.095980",
+    "chunk_number": 486,
+    "word_count": 167
+  }
+}

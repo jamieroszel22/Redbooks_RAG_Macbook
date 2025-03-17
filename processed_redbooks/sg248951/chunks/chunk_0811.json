@@ -1,0 +1,18 @@
+{
+  "content": "nn is a range of 01 - 99, A0 - K0, where A0 represents the decimal number 100, which combines the character A with decimal 0 and where K0 represents the decimal number 200. It is obtained by continuing the hexadecimal counting to the following values: \u2013 F = 15 \u2013 G = 16 \u2013 H = 17 \u2013 I = 18 \u2013 J = 19 \u2013 K = 20 \u2013 Adding the decimal digit 0 to make 200 An IBM z16 A01 with 200 client usable processors is an IBM z16 7K0. The model capacity identifier describes how many CPs are characterized (xx, yy, or nn) and the capacity setting (4, 5, 6, or 7) of the CPs. A hardware configuration upgrade always requires more physical hardware (processor drawers, PCIe+ I/O drawers, or both). A system upgrade can change the system model or the MCI. Consider the following points regarding model upgrades: \u0002 LICCC upgrade: \u2013 Can add memory or Virtual Flash Memory (VFM) up to the amount that is physically installed \u2013 Can change the model capacity identifier, the capacity setting, or both \u0002 Hardware installation",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.353926",
+    "chunk_number": 811,
+    "word_count": 188
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "012* MAINT* 013* PMAINT 013* PMAINT 014* SYSDUMP1 012* SYSDMP* 012* :END. :AUTOBLOCK. * IBM supplied defaults are contained in the AUTOBLK DATADVH file. * The following are customer overrides and supplements. * *DASDType BlockSize Blocks/Unit Alloc_Unit Architecture :END. :DEFAULTS. * IBM supplied defaults are contained in the DEFAULTS DATADVH file. * The following are customer overrides and supplements. * *DASDType Max-Size 3390-03 3339 3390-09 10017 3390-27 30051 3390-54 60102 :END. 5. Update the DirMaint configuration: ===> dir2prod update_files 7vmdir20 dirm DIR2PROD: Matched CONFIG SAMPDVH F with CONFIG SDV11501 G2 DIR2PROD: Replacing CONFIG SAMPDVH F with CONFIG SDV11501 G2 DIR2PROD: Matched CONFIG DATADVH F with CONFIG SDV11501 G2 ... DIR2PROD: Matched LINDFLT DIRECT J with LINDFLT SAMPDVH H2 DIR2PROD: Leaving LINDFLT DIRECT J unchanged. DIR2PROD: Normal Termination. 6. Copy the DirMaint configuration: ===> dir2prod prod 7vmdir20 dirm DIR2PROD: Copy of 492 disk to 491 disk has",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.929656",
+    "chunk_number": 691,
+    "word_count": 146
+  }
+}

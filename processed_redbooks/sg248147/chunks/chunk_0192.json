@@ -1,0 +1,18 @@
+{
+  "content": "is the pertinent line of code: /*************************************************************/ ... Address COMMAND firstchar = 'V' ... Second character in the label The following characters are used for the types of DASD in the second character of the label: M Minidisk space (PERM) P Paging space (PAGE) R RACF database volume S Spool space (SPOL) T Temporary disk space (TDISK) V z/VM operating system volumes 2.11.2 Virtual network device naming convention Default virtual network adapters should use 0AD0, which can be thought of as \u201cadapter 0\u201d. By reserving the 0AD0 - 0ADF range for networking only, it is easy to recognize a virtual NIC. Each virtual NIC uses three channels; read control, write control, and data. Therefore, when you define a virtual NIC that uses device 0AD0, it also implies that 0AD1 and 0AD2 also are used. Issuing the QUERY VIRTUAL NIC device DETAILS command displays the output that is shown in Example 2-3. Example 2-3 Query virtual NIC with details CP QUERY VIRTUAL",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.925049",
+    "chunk_number": 192,
+    "word_count": 161
+  }
+}

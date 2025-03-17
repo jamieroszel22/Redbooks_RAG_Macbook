@@ -1,0 +1,18 @@
+{
+  "content": "port (126 VFs per feature/PCHID). One RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID). The 10 GbE RoCE Express3 feature uses SR optics and supports the use of a multimode fiber optic cable that ends with an LC Duplex connector. Point-to-point connections and switched connections with an enterprise-class 10 GbE switch are supported. 10 GbE RoCE Express3 LR (FC 0441) 10 GbE RoCE Express3 LR(FC 0441) is installed in the PCIe+ I/O drawer and is supported on IBM z16 servers only. The 10 GbE RoCE Express3 LR is a native PCIe feature. It does not use a CHPID. It is defined by using the IOCP FUNCTION statement or in the HCD. \u0002 The RoCE Express3 LR (FC 0441) feature on the IBM z16 requires single-mode (SM) 9-micron fiber optic cable for a maximum connection distance of 10 kilometers (6.2 miles). A client-supplied cable is required. The virtualization capabilities for IBM z16 are 63 Virtual Functions per port (126 VFs per feature/PCHID). One RoCE",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.972580",
+    "chunk_number": 448,
+    "word_count": 172
+  }
+}

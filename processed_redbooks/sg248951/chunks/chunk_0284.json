@@ -1,0 +1,18 @@
+{
+  "content": "122. When a CPC drawer is added concurrently after POR and new LPARs are activated, or processor capacity for active partitions is dynamically expanded, the extra PU capacity can be assigned from the new CPC drawer. The processor unit assignment rules consider the newly installed CPC drawer dynamically. 3.5.10 Sparing rules On an IBM z16 A01 system, two PUs are reserved as spares. The spare PUs are available to replace any two characterized PUs, whether they are CP, IFL, ICF, zIIP, SAP, or IFP. Systems with a failed PU for which no spare is available call home for a replacement. A system with a failed PU that is spared and requires a DCM to be replaced (referred to as a pending repair) can still be upgraded when sufficient PUs are available. Transparent CP, IFL, ICF, zIIP, SAP, and IFP sparing Depending on the model, sparing of CP, IFL, ICF, zIIP, SAP, and IFP is transparent and does not require operating system or operator intervention. With transparent sparing, the status of the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.327056",
+    "chunk_number": 284,
+    "word_count": 171
+  }
+}

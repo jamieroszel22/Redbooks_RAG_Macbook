@@ -1,0 +1,18 @@
+{
+  "content": "the following manner: transmission using a domain name server (DNS). The DNS has to be More information: For more information about the benefits of Broadband RSF and the TLS-secured protocol, and a sample configuration for the Broadband RSF connection, see Integrating the HMC Broadband Remote Support Facility into your Enterprise, SC28-7026. 420 IBM z16 A02 and IBM z16 AGZ Technical Guide configured on the HMC if a proxy for RSF is not used. If a proxy for RSF is used, the proxy can provide the DNS. The following host names and IP addresses are used and your network infrastructure must allow the HMC to access RSF: \u0002 esupport.ibm.com on port 443 \u0002 Using IPv4 requires outbound connectivity to the following IP addresses with port 443: \u2013 129.42.21.70 \u2013 129.42.18.70 \u2013 129.42.19.70 \u2013 129.42.54.189 \u2013 129.42.56.189 \u2013 129.42.60.189 \u0002 Using IPv6 requires outbound connectivity to the following IP addresses with port 443: \u2013 2607:f0d0:3901:33:129:42:21:70 \u2013 2607:f0d0:1f01:9f:129:42:18:70 \u2013",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.019185",
+    "chunk_number": 1004,
+    "word_count": 156
+  }
+}

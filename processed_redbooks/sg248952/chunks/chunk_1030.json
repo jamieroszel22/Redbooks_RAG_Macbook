@@ -1,0 +1,18 @@
+{
+  "content": "\u0002 All network traffic is TLS encrypted \u0002 HMC/SE features embedded firewall \u0002 Firmware is digitally signed and validated for delivery \u0002 Firmware Integrity Monitoring is used for any attempted tempering post delivery \u0002 HMC/SE HDD encryption uses Trusted Platform Module (TPM) and Linux Unified Key Setup (LUKS) technology. HMC and SE security audit With the Audit and Log Management task, audit reports can be generated, viewed, saved, and offloaded. The Customize Scheduled Operations task allows you to schedule audit report generation, saving, and offloading. The Monitor System Events task allows Security Logs to send email notifications by using the same type of filters and rules that are used for hardware and operating system messages. You can off load the following HMC and SE log files for customer audit: \u0002 Console event log \u0002 Console service history \u0002 Tasks performed log \u0002 Security logs 434 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 System log Full log offload and delta log offload",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.122048",
+    "chunk_number": 1030,
+    "word_count": 164
+  }
+}

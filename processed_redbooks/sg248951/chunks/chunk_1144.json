@@ -1,0 +1,18 @@
+{
+  "content": "can be activated, it is always full engine sizes that are based on IBM Large System Performance Reference (LSPR) capacity levels. The Subscription charge covers the value that the extra activated capacity brings, even if no measured usage exists (see Figure D-3). Figure D-3 Charge examples The green bar in Figure D-3 represents the capacity that the customer owns (the so-called Base capacity). The transparent bars represent activated TFP-Hardware corridor. The blue bars show the measured usage within the 15-minute intervals that are greater than the customer-owned capacity. The yellow bar is the highest measured TFP-Hardware use within the defined hour. The red bar in Figure D-3 is the highest measured use during a calendar day and is only relevant if the customer has more than 4 hours of TFP-Hardware use within one calendar day. The left column that represents one calendar day shows that 10 spikes above the Base capacity were measured. The spikes that are counted for invoicing are",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.399605",
+    "chunk_number": 1144,
+    "word_count": 161
+  }
+}

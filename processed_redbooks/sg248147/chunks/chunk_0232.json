@@ -1,0 +1,18 @@
+{
+  "content": "unencrypted TN3270 can be easily decoded. We used the popular Wireshark tool to trace traffic during a log on to a non-TLS z/VM system, and can easily locate the user ID and password in the stream. 3.5.2 Enabling TLS for z/VM TN3270 server In this section, we provide an example of how to configure TLS to protect TN3270 communications with z/VM. For this example, we demonstrate how the Ansible system management tool and its OpenSSL modules (running on Linux) can be used to create and manage certificates that secure z/VM communication. Ansible provides the following modules that use OpenSSL to create and manage certificates: openssl_privatekey This module is used to create a private key file that can be used in subsequent certificate operations. openssl_csr This module creates Certificate Signing Request (CSR) files, which are sent to a Certificate Authority (CA) to generate a certificate. openssl_certificate This module performs various operations on certificates, including signing",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.074181",
+    "chunk_number": 232,
+    "word_count": 154
+  }
+}

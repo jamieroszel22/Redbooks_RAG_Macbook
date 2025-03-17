@@ -1,0 +1,18 @@
+{
+  "content": "Access (SMC-R) by using RoCE Express features. For more information, see this Linux on IBM Z Blogspot web page. The RoCE Express3 features can also provide local area network (LAN) connectivity for Linux on IBM Z, and comply with IEEE standards. In addition, RoCE Express features assume several functions of the TCP/IP stack that normally are performed by the PU, which allows significant performance benefits by offloading processing from the operating system. The supported operating systems are listed in Table 7-8 on page 255 and Table 7-9 on page 257. 10GbE RoCE Express2.1 and 10GbE RoCE Express2 IBM 10GbE RoCE Express2 provides a natively attached PCIe I/O Drawer-based Ethernet feature that supports 10 Gbps Converged Enhanced Ethernet (CEE) and RDMA over CEE (RoCE). The RoCE feature, with an OSA feature, enables shared memory communications between two CPCs by using a shared switch. RoCE Express2 provides increased virtualization (sharing capability) by supporting 63 Virtual",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.067329",
+    "chunk_number": 725,
+    "word_count": 153
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "\u2013 Automated workflows to integrate everyone's contributions into a unified framework. \u0002 Technology gaps: Individual teams will be tempted to create or deploy tooling for their specific piece of the AI governance puzzle. While their efforts are of course with the best of intentions, it does create an increasing integration problem as the company matures to a more interconnected approach. To overcome this gap, look for tooling that provides integrated support all of the activities and roles listed in the table above. Limit the use of bespoke integration to only those situations where generally available AI governance tooling does not have the integrated capabilities. In summary, the challenge lies not in providing isolated capabilities to each group but in ensuring that all these tools and workflows are interconnected effectively. For example: \u0002 Do the technical teams have a clear view of the compliance requirements they will specifically need to fulfill as they develop an AI solution?",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.630563",
+    "chunk_number": 54,
+    "word_count": 156
+  }
+}

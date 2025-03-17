@@ -1,0 +1,18 @@
+{
+  "content": "a firewall If you use a firewall, HMC NTP requests can pass through it. Use HMC authentication to ensure untampered timestamps. Note: After joining the selected CTN, all systems within the current CTN are synchronized with the Current Time Server of the selected CTN. A coupling link must be in place that connects the CTS of the selected CTN and the CTS of the current CTN. Note: For IBM z16, STP External Time Source (Ethernet) is connected directly to the CPC drawer by using a dedicated LAN port. When HMC is configured as an NTP server, it must be connected to the same client network with the dedicated CPC LAN port. Chapter 10. Hardware Management Console and Support Element 447 NTP symmetric key and autokey authentication With symmetric key and autokey authentication, the highest level of NTP security is available. HMC Level 2.12.0 and later provide windows that accept and generate key information to be configured into the HMC NTP configuration. They also can issue NTP commands. The",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.114615",
+    "chunk_number": 1032,
+    "word_count": 168
+  }
+}

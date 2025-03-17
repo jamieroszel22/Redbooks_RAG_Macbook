@@ -1,0 +1,18 @@
+{
+  "content": "as the number of Linux images grows, some of the typical problems of large server farms emerge. Software installed on the Linux images must be serviced or updated, and there is no way to do this other than servicing each image as if it were a stand-alone server. IBM Z has the ability to share file systems as VM minidisks so there ought to be a way to install WebSphere once and use that installation for many other Linux images. This was previously impractical, because the installed WebSphere program files (which are read/only) and the user data files (which are read/write) were not identified and were intermixed in the same directories. WebSphere Version 6 introduced the concept of \u201cProfiles\u201d, which are created by the manage profiles command or graphically with the pmt.sh tool. Profiles must be created for all installations of WebSphere V6 and above, and contain all the user-writable files (logs, installed applications, etc.) for WebSphere. All the profiles on a single server share the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.876115",
+    "chunk_number": 969,
+    "word_count": 166
+  }
+}

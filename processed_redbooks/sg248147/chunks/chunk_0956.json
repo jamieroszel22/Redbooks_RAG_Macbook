@@ -1,0 +1,18 @@
+{
+  "content": "\u201cConfiguring DirMaint\u201d on page 311. However, it often is the case that multiple configuration files are shown, the one with the highest number is the one that you modify. Therefore, if the output that is shown in Example 15-16 listed a CONFIGAA and CONFIG99, the values that are set in CONFIG99 override anything that was set in the default configuration file, CONFIG DATADVH, and any lower priority override files, such as CONFIGAA DATADVH. Example 15-16 Example output from DirMaint to list configuration files DIRMAINT CMS LISTFILE CONFIG* DATADVH * (ISODATE) DVHXMT1191I Your CMS request has been sent for processing to DIRMAINT at DVHXMT1191I *. Ready; T=0.01/0.01 11:38:24 DVHREQ2288I Your CMS request for MAINT at * has been accepted. Chapter 15. Miscellaneous recipes and helpful information 451 DVHCMS3868I FILENAME FILETYPE FM FORMAT LRECL RECS DVHCMS3868I BLOCKS DATE TIME DVHCMS3868I CONFIG DATADVH D2 V 73 1648 27 DVHCMS3868I 2018-06-22 13:37:31 DVHCMS3868I CONFIGAA DATADVH D2 V 73 67",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.837468",
+    "chunk_number": 956,
+    "word_count": 155
+  }
+}

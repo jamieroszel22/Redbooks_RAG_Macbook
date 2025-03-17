@@ -1,0 +1,18 @@
+{
+  "content": "user IDs that have administration roles on z/VM. You can add user IDs when needed. Create the AUTHFOR CONTROL file on the J disk (DIRMAINT 1DF). Add 8 lines to accommodate the entries that are shown in Figure 10-2 for all IDs that are required to perform DirMaint tasks. ===> xedit authfor control j ===> a 8 Figure 10-2 List of entries to add into the AUTHFOR CONTROL file A command level of 140A allows the authorized user to enter commands by using DirMaint Release 4 compatibility syntax. A command level of 150A allows the authorized user to enter commands by using the DirMaint Release 5 full-function syntax. It is recommended to give access to include records for both 140A and 150A command levels for each target ID/authorized user pair. Entries that are added to this file do not need to necessarily exist in the User Directory yet, so do not worry that undefined entries are being added. If you are working with IBM ICIC (IBM Cloud Infrastructure Center) or IBM Wave (to graphically",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.904666",
+    "chunk_number": 684,
+    "word_count": 174
+  }
+}

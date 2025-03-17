@@ -1,0 +1,18 @@
+{
+  "content": "efficient memory transfer into it. Large send support for IPv6 packets applies to the OSA-Express7S 1.2, OSA-Express7S, and OSA-Express6S11 features (CHPID type OSD) on IBM z16, IBM z15, and IBM z14. OSA-Express6S added TCP checksum on large send, which reduces the cost (CPU time) of error detection for large send. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. OSA Dynamic LAN idle The OSA Dynamic LAN idle parameter helps reduce latency and improve performance by dynamically adjusting the inbound blocking algorithm. System administrators can authorize the TCP/IP stack to enable a dynamic setting that previously was static. The blocking algorithm is modified based on the following application requirements: \u0002 For latency-sensitive applications, the blocking algorithm is modified considering latency. \u0002 For streaming (throughput-sensitive) applications, the blocking algorithm is adjusted to maximize throughput. In all cases, the TCP/IP stack",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.152280",
+    "chunk_number": 748,
+    "word_count": 148
+  }
+}

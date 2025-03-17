@@ -1,0 +1,18 @@
+{
+  "content": "ciphertext stealing (AES XTS), CMAC, AES-DUKPT (unique key per transaction for AES-based PIN and transaction protection) are supported. \u0002 MD5, SHA-1, SHA-2, or SHA-34 (224, 256, 384, and 512), and HMAC: The Secure Hash Algorithm (SHA-1 and the enhanced SHA-2 or SHA-3 for different block sizes), the older message-digest (MD5) algorithm, and the advanced keyed-hash method authentication code (HMAC) are used for verifying the data integrity and the authentication of a message. \u0002 VFPE: A method of encryption in which the resulting cipher text features the same form as the input clear text, which is developed for use with credit cards. Three algorithms are standardized by NIST and in X9.124: FF1, FF2 and FF2.1 \u0002 RSA (512, 1024, 2048, and 4096): RSA was published in 1977. It is widely used asymmetric public-key algorithm, which means that the encryption key is public whereas the decryption key is kept secret. It is based on the difficulty of factoring the product of two large prime numbers.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.318611",
+    "chunk_number": 539,
+    "word_count": 163
+  }
+}

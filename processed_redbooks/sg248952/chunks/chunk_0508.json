@@ -1,0 +1,18 @@
+{
+  "content": "which in turn are used to encrypt bulk data with a symmetric algorithm. Examples for asymmetric algorithms are RSA and the elliptic curve algorithms. \u0002 One-way algorithms are not cryptographic functions. They do not use keys, and they can scramble data only, not de-scramble it. These algorithms are used extensively within cryptographic procedures for digital signing and tend to be developed and governed by using the same principles as cryptographic algorithms. One-way algorithms are also known as hash algorithms. The most prominent one-way algorithms are the Secure Hash Algorithms (SHA). 206 IBM z16 A02 and IBM z16 AGZ Technical Guide 6.3 Cryptography on IBM z16 A02 and IBM z16 AGZ In principle, cryptographic algorithms can run on processor hardware. However, these workloads are compute-intensive, and the handling of secure keys also requires special hardware protection. Therefore, IBM Z offer several cryptographic hardware features, which are specialized to meet the requirements for",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.189833",
+    "chunk_number": 508,
+    "word_count": 151
+  }
+}

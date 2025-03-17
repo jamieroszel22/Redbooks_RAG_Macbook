@@ -1,0 +1,18 @@
+{
+  "content": "file from the test bucket and create an Iceberg table by using the Create Table As (CTAS) statement, as shown in Figure 3-8. Figure 3-8 Creating a Parquet format table that is managed by the Iceberg table format Querying the data from Presto This view that is shown in Figure 3-9 presents all the tables that you created by using the Spark application within the associated catalog. These tables can now be queried through the IBM watsonx.data Query interface. Figure 3-9 Querying the data from Presto Chapter 3. Ingesting data into an open data lakehouse 41 3.4.6 Querying from the IBM watsonx.data Query Workspace You can query tables from a stand-alone Presto CLI by running the following command: ./presto\\ --server <https://<watsonx.data_MetastoreHost:port> \\ --catalog iceberg_data \\ --schema default \\ --user ibmlhapikey_<your-username> \\ --password Figure 3-10 shows the output of this query. Figure 3-10 Output of this query 3.4.7 Querying from the Presto CLI Once the data ingestion",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.769219",
+    "chunk_number": 110,
+    "word_count": 156
+  }
+}

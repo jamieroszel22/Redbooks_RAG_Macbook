@@ -1,0 +1,18 @@
+{
+  "content": "enabling an LPAR to use a Crypto Express7S adapter, the following cryptographic resources in the image profile must be defined for each partition: \u0002 Usage domain index \u0002 Control domain index \u0002 PCI Cryptographic Coprocessor Candidate List \u0002 PCI Cryptographic Coprocessor Online List This task is accomplished by using the Customize/Delete Activation Profile task, which is in the Operational Customization Group, from the HMC or from the SE. Modify the cryptographic initial definition from the Crypto option in the image profile, as shown in Figure 6-6 on page 228. Important: After this definition is modified, any change to the image profile requires a DEACTIVATE and ACTIVATE of the logical partition for the change to take effect. Therefore, this cryptographic definition is disruptive to a running system. 228 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 6-6 Customize Image Profiles: Crypto The following cryptographic resource definitions are used: \u0002 Control Domain Identifies the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.449090",
+    "chunk_number": 566,
+    "word_count": 154
+  }
+}

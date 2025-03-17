@@ -1,0 +1,18 @@
+{
+  "content": "involves several key steps to help ensure that your AI assets are effectively managed and operational. Here is a concise guide to help you through the process: 1. Create a deployment space: Begin by establishing a deployment space within the studio. This space serves as a collaborative environment where you can manage and deploy your AI assets. To set up a deployment space, go to the Deployment Space section in the Studio interface and follow the prompts to create a space (Figure 4-25 on page 41). Chapter 4. Building and using artificial intelligence models 41 Figure 4-25 watsonx.ai studio projects: Deployments 2. Promote or import your model: When your deployment space is ready, add your trained model to it. If your model is in a project, promote it to the deployment space. Alternatively, you can import models that are trained externally by uploading them directly into the deployment space. Ensure that the model files are in a compatible format and that any necessary dependencies are",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.593654",
+    "chunk_number": 113,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "IBM Z Integrated Accelerator for AI Y Yk N - - z/OS Validated boot (a.k.a. Secure boot) Yh N N Yl Yl Guest Exploitation support for Secure IPL (Support for Linux Guest Secure IPL) N/A N/A N/A Yh Yh a. PTFs might be required for toleration support or exploitation of IBM z16 A02 and IBM z16 AGZ features and functions. b. 80-way without multithreading; 40-way with multithreading enabled c. With Service d. Statement of Direction: In a future IBM Z hardware system family, the transactional execution and constrained transactional execution facility will no longer be supported. Users of the facility on current servers should always check the facility indications before use. e. Guests are informed that TX facility is available for use f. Guests are informed that SIMD is available for use g. Guest Exploitation support h. With PTFs for exploitation i. Transparent for Guest support use of the gzip acceleration; guest support for z/OS Storage Compression j. With Exploitation PTFs k. With Required",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.630526",
+    "chunk_number": 613,
+    "word_count": 164
+  }
+}

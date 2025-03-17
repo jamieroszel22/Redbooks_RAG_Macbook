@@ -1,0 +1,18 @@
+{
+  "content": "add trusted signing certificates. For example, if the certificate that is associated with the 3270 server on the IBM host is signed and issued by a corporate certificate, it must be imported, as shown in Figure 10-24. Figure 10-24 Manage Trusted Signing Certificates The import from the remote server option can be used if the connection between the console and the IBM host can be trusted when the certificate is imported, as shown in Figure 10-25. Otherwise, import the certificate by using removable media. Figure 10-25 Import Remote Certificate example A secure Telnet connection is established by adding the prefix L: to the IP address:port of the IBM host, as shown in Figure 10-26 on page 424. 424 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 10-26 Configure 3270 Emulators 10.5.5 HMC and SE Microcode The Microcode for the HMC, SE, and CPC is included in the driver/version. At the time of this writing, Driver 51/Level 2.16.0 is current for IBM z16 A02 and IBM z16 AGZ. If in the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.058154",
+    "chunk_number": 1012,
+    "word_count": 172
+  }
+}

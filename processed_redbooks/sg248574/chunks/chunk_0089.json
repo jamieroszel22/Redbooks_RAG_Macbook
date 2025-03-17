@@ -1,0 +1,18 @@
+{
+  "content": "3-7 on page 25 shows an example SPSS Modeler flow in watsonx.ai. Chapter 3. Tools for diverse data science teams 25 Figure 3-7 SPSS Modeler flow on IBM watsonx.ai Full-code solutions on IBM watsonx.ai This section highlights a few of the full-code tools that are available on the IBM watsonx.ai platform. Jupyter Notebook editor The Jupyter Notebook editor is a full-code tool that is available on IBM watsonx.ai. Jupyter Notebooks enable more experienced data scientists and developers to write and run code directly on the IBM watsonx.ai platform. Teams can build more customized and flexible solutions. Figure 3-8 shows an example of a Jupyter Notebook on the watsonx.ai platform. Figure 3-8 Jupyter Notebook on IBM watsonx.ai 26 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai RStudio RStudio, like the Jupyter Notebook editor, is a full-code tool that is available on IBM watsonx.ai. RStudio enables individuals with programming experience in R to visualize data,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.476841",
+    "chunk_number": 89,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "automates the seamless transfer of continuous HDFS data and Hive metadata to watsonx.data. IBM watsonx.data supports loading data from existing on-premises data lakes using ETL jobs developed with DataStage or Spark. Additionally, data loading can be done through a web console or command line interface. Existing data sources like Db2 for z/OS, IMS, and VSAM on the mainframe can be replicated using IBM Data Gate in the Iceberg open data format within watsonx.data. Data Gate is a replication technology that synchronizes data from IBM Z to various hybrid-cloud targets. The architecture of watsonx.data enforces schema and data integrity, facilitating the implementation of robust data security and governance mechanisms. Integrating watsonx.data with IBM Knowledge Catalog on Cloud Pak for Data provides knowledge workers with self-service access to data assets, allowing them to utilize these assets to gain insights. Once the data from these sources is onboarded into the platform in its raw",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.779966",
+    "chunk_number": 87,
+    "word_count": 151
+  }
+}

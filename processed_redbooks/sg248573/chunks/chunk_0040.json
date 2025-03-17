@@ -1,0 +1,18 @@
+{
+  "content": "according to compliance and risk mitigation plans. Review and approve requests for changes to AI assets, including any changes to the required risk mitigation and compliance measures. Review and approve the decommissioning of AI assets. Manage periodic attestations about use cases and AI assets. Setup automated monitoring of deployed AI assets. Manage the AI assets from a technical perspective. Create and evaluate new versions of AI assets as needed. AI embedded in enterprise applications Review and approve new embedded AI capabilities before they're applied in your use cases. <not typically involved since these capabilities come to the organization prebuilt> Compliance with legal obligations across use cases Gather evidence to demonstrate compliance with obligations that go across individual use cases (for example: \u201cAI literacy\u201d in the EU AI Act) <not typically involved> Regulator interactions Manage inbound (for example: a request for information) interactions with regulators.",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.575884",
+    "chunk_number": 40,
+    "word_count": 144
+  }
+}

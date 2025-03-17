@@ -1,0 +1,18 @@
+{
+  "content": "The Virtualization Cookbook for IBM z Systems\u00ae Volume 3: SUSE Linux Enterprise Server 12, SG24-8890. \u0002 Information pertaining to Canonical Ubuntu Server was moved to The Virtualization Cookbook for IBM z Systems Volume 4: Ubuntu Server 16.04, SG24-8354 General \u0002 The chapter to configure an File Transfer Protocol (FTP)/Network File Server (NFS) server on a PC was removed. The availability of an FTP server in the local environment is assumed. 10 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u0002 All information regarding planning and good practices for initial layout, naming, and other wise have been consolidated into Chapter 2, \u201cPlanning\u201d on page 33. \u0002 A section covering IBM Dynamic Partition Manager (DPM) was added. \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 11 Part 1 z/VM cloud concepts and planning In this part of the book, we discuss laying the groundwork for using z/VM as an enterprise cloud hosting platform. This part includes the following chapters: \u0002 Chapter 1,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.420382",
+    "chunk_number": 76,
+    "word_count": 161
+  }
+}

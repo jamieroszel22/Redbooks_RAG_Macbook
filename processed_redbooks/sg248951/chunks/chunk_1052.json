@@ -1,0 +1,18 @@
+{
+  "content": "memory and I/O adapters and fan-outs). Also assumed is that maximum ambient temperature is used. \u0002 Typical configurations and data center conditions result in lower power. A calculator available on Resource Link calculates power and weight for specific configurations and environmental conditions. FC CPC number Number of PCIe+ I/O drawers 0 1 2 3 4 5 6 7 8 9 10 11 12 Considerations: Power consumption is lower in a normal ambient temperature room, and for configurations that feature a lesser number of I/O slots, smaller amount of memory, and fewer PUs. Power estimation for any configuration, power source, and room condition can be obtained by using the power estimation tool that is available at the IBM Resource Link website (login required). On the Resource Link page, click Tools \u2192 Power and weight estimation. Removal of IBF support: IBM z16 cannot be configured with an internal battery feature (IBM). Extra support for data center power planning can be requested through your IBM Sales",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.168632",
+    "chunk_number": 1052,
+    "word_count": 163
+  }
+}

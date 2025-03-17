@@ -1,0 +1,18 @@
+{
+  "content": "DMS4PD3400I Initializing begins for DDNAME = LOG2 DMS4PD3400I Initializing ends for DDNAME = LOG2 ... FILESERV GENERATE performs the following functions: \u2013 FILESERV GENERATE issues CMS FORMAT and RESERVE commands for the file pool minidisks. Depending on the number and size of your initial minidisks, this process takes a long time. \u2013 FILESERV GENERATE initializes the file pool minidisks. \u2013 FILESERV GENERATE processing places internal control information on the file pool minidisks. This control information is needed for usual server operation. \u2013 FILESERV GENERATE creates the POOLDEF file. The POOLDEF file has a file name that is the same as the file pool ID that you entered in the LNXSERV1 DMSPARMS file in the last step. The file type is POOLDEF. FILESERV GENERATE processing creates the file on the first read/write file mode in the server machine\u2019s search order, which happens to be the 191 work disk. 7. During its processing, FILESERV GENERATE calls XEDIT to display a file that",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.318678",
+    "chunk_number": 543,
+    "word_count": 160
+  }
+}

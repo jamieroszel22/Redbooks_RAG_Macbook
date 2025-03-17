@@ -1,0 +1,18 @@
+{
+  "content": "successfully (RC=0) You see a few panes of messages scroll by and finally the success messages appear. Performance Toolkit is enabled for the current z/VM session. This process modifies the SYSTEM CONFIG file by appending a line to the end. Verify that this line was added by using the following commands: ===> vmlink pmaint cf0 382 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 DMSVML2060I PMAINT CF0 linked as 0120 file mode Z ===> type system config z ... // many screens cleared PRODUCT PRODID 7VMPTK20 STATE ENABLED DESCRIPTION '10/12/20.07:36:14.MAINT720 PERFKIT Minidisk Install and Service' The QUERY PRODUCT command shows the change: ===> q product Product State Description IBMVMSSI Enabled IBM z/VM Single System Image Feature 7VMDIR20 Enabled 09/27/20.16:02:25.MAINT720 Install/service DirMaint using SFS 7VMPTK20 Enabled 10/12/20.07:36:14.MAINT720 PERFKIT SFS Install and Service 7VMRAC20 Enabled 10/11/20.17:27:42.MAINT720 RACF Feature of z/VM, FL720 7VMRSC20 Disabled",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.399765",
+    "chunk_number": 826,
+    "word_count": 140
+  }
+}

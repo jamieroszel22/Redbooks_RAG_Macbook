@@ -1,0 +1,18 @@
+{
+  "content": "VM1568 User_Volume_List VM1569 User_Volume_List VM156A User_Volume_List VM156B ... This specification is another reason to correctly configure the Input/Output Definition File (IODEF) for each LPAR so that only DASDs that are pertinent to that LPAR are visible. Separations and fencing are good. Chapter 6. Configuring z/VM 195 6.11.7 Shutting down and IPLing the SSI cluster again It is recommended that you shut down and IPL again to test the changes. Complete the following steps: 1. Log on as MAINT on the first SSI member. 2. Before you shut down, verify that only one page volume exists by using the QUERY ALLOC PAGE command. A REXX EXEC is provided to run any CP command on all members in the SSI cluster. It is named SSICMD EXEC. Use it to issue the QUERY ALLOC PAGE command across the SSI cluster. The results of SSICMD EXEC are shown in Example 6-14: ===> ssicmd query alloc page Example 6-14 Results of SSICMD EXEC RDBKZVMG: EXTENT EXTENT TOTAL PAGES HIGH % VOLID RDEV START END PAGES IN",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.954722",
+    "chunk_number": 448,
+    "word_count": 171
+  }
+}

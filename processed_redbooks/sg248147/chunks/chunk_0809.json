@@ -1,0 +1,18 @@
+{
+  "content": "column explains why a virtual machine is in a wait state: \u2013 Rnn: Current RUNUSER on the specified real processor, where nn is the processor ID \u2013 IO: Waiting for I/O \u2013 PS: PSW wait (enabled wait state) \u2013 PG: Waiting for paging Note: Consider the following points: \u0002 INDICATE I/O shows virtual machines that are in an I/O wait start and the real device number to which the most recent I/O operation was mapped. Four dashes (----) indicates a virtual device. \u0002 If you see the same real device number for several virtual machines, this issue might indicate that too many minidisks are on the same DASD or you have a DASD controller bottleneck in which too many DASD are performing I/O on the same controller. Chapter 12. Monitoring z/VM and Linux 375 CP INDICATE USER Use the INDICATE USER command to display the resources that are used or occupied by a virtual machine or system. CP displays a set of statistics for each of virtual machine. If you do not include any user ID after this command, the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.341720",
+    "chunk_number": 809,
+    "word_count": 180
+  }
+}

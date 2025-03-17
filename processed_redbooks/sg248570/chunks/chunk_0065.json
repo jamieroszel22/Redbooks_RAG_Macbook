@@ -1,0 +1,18 @@
+{
+  "content": "data, and IT events data. Examples of model categories include (but not limited to): \u0002 fm.code: Models built to automatically generate code for developers through a natural-language interface to boost developer productivity and enable the automation of many IT tasks \u0002 fm.NLP: A collection of LLMs for specific or industry-specific domains that use curated data to help mitigate bias and more quickly make domains customizable using client data 14 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data \u0002 fm.geospatial: Models built on climate and remote sensing data to help organizations understand and plan for changes in natural disaster patterns, biodiversity, land use, and other geophysical processes that could impact their businesses The watsonx.ai studio builds upon Hugging Face's open-source libraries and offers thousands of Hugging Face open models and data sets. Users can leverage the power of IBM Granite LLMs, along with the latest Mistral, Llama, and other",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.591903",
+    "chunk_number": 65,
+    "word_count": 151
+  }
+}

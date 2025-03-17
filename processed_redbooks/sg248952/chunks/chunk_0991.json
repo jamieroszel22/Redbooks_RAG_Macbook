@@ -1,0 +1,18 @@
+{
+  "content": "Resource Link (https://www.ibm.com/servers/resourcelink), select Library, the applicable server, then select either HMC Version 2.16.0 help file content or SE Version 2.16.0 help file content. Note: The HMC must be connected to the SEs by using a customer provided switch. Otherwise you will never get a communication from the HMCs to the SEs. Direct Ethernet connections between HMC and SE is not supported. 414 IBM z16 A02 and IBM z16 AGZ Technical Guide The HMC communicates with the SE through a customer-supplied Ethernet Switch (two Switches are highly recommended for redundancy). Each SE and each HMC has two Ethernet RJ45 ports. An example of how the connections are without having an HMA is shown in Figure 10-20. Figure 10-20 HMC / SE connectivity without HMA 10.3.3 Network planning for the HMC, SE, and ETS Plan the HMC and SE network connectivity carefully to allow for current and future use. Many of the IBM Z capabilities benefit from the various network connectivity options. The",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.966651",
+    "chunk_number": 991,
+    "word_count": 162
+  }
+}

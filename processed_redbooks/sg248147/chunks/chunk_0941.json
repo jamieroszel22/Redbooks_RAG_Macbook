@@ -1,0 +1,18 @@
+{
+  "content": "Time LOGO CONFIG Y1 V 69 63 1 2020-10-08 15:03:14 SYSTEM CONFIG Y1 F 80 368 8 2020-10-05 11:36:03 LOGO-1 CONFIG Y1 V 69 63 1 2020-06-24 09:14:16 4. Edit the original text by moving your cursor to the beginning of the line displaying LOGO CONFIG and entering the command XEDIT, or pressing F11: COPY / = = = (OLDDATE 444 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Putting the log on panel in place Complete the following steps: 1. Query the system to show the list of minidisks that are owned by the z/VM Control Program: ===> CP QUERY CPDISK The output should look similar to that shown in Example 15-5. Example 15-5 Output from CP QUERY CPDISK Label Userid Vdev Mode Stat Vol-ID Rdev Type StartLoc EndLoc MNTCF1 MAINT 0CF1 A R/O VMBRES 95B2 CKD 39 158 MNTCF3 MAINT 0CF3 C R/O VMBRES 95B2 CKD 160 279 2. Issue a release request for the C-DISK: ===> CP CPRELEASE C CPRELEASE request for disk C scheduled. HCPZAC6730I CPRELEASE request for disk C completed. Ready; 3. Use VMLINK to copy the new logo",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.790725",
+    "chunk_number": 941,
+    "word_count": 183
+  }
+}

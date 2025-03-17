@@ -1,0 +1,18 @@
+{
+  "content": "upgrades: \u2013 Max5 to Max16 is concurrent \u2013 Max5 to Max32 or Max68 is disruptive \u2013 Max16 to Max32 or Max68 is disruptive \u2013 More I/O drawers can be added concurrently based on available space in current frames for IBM z16 A02 and IBM z16 AGZ or with plan ahead for the IBM z16 A02 and IBM z16 AGZ. \u0002 IBM z14 (M/T 3907-ZR1) to IBM z16 A02 and IBM z16 AGZ: \u2013 Feature conversion of installed zAAPs to zIIPs (default) or another processor type \u2013 For installed OnDemand Records, stage the records \u0002 IBM z15 (M/T 8562-T02) to IBM z16 A02 or IBM z16 AGZ: Supported feature MaxYY upgrade paths are summarized in Table 2-13. Table 2-13 Supported MaxYY upgrade paths Feature To / From Max5 Max16 Max32 Max68 Max5 N/A Concurrent Disruptive Disruptive Max16 N/A NA Disruptive Disruptive Max32 N/A NA NA Concurrent w/plan ahead 60 IBM z16 A02 and IBM z16 AGZ Technical Guide 2.8.2 Model capacity identifier To recognize how many PUs are characterized as CPs, the Store System Information (STSI) instruction returns",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.879749",
+    "chunk_number": 179,
+    "word_count": 177
+  }
+}

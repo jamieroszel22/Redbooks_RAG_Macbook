@@ -1,0 +1,18 @@
+{
+  "content": "and the model capacity identifier for any temporary capacity. This data is key to the functioning of CoD offerings. Figure 8-19 Format of system-information block (SYSIB) The model capacity identifier contains the base capacity, On/Off CoD, and CBU. The Model Permanent Capacity Identifier and the Model Permanent Capacity Rating contain the base capacity of the system. The Model Temporary Capacity Identifier and Model Temporary Capacity Rating contain the base capacity and On/Off CoD. For more information about the STSI instruction, see z/Architecture Principles of Operation, SA22-7832. 376 IBM z16 (3931) Technical Guide Store CPU ID instruction The Store CPU ID (STIDP) instruction returns information about the processor type, serial number, and LPAR identifier, as shown in Figure 8-20. Figure 8-20 STIDP Information Consider the following points: \u0002 Bits 0 - 7: \u2013 For a program that is run by an IBM machine in a level-1 configuration (basic machine mode), or for a program being run by a",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.638141",
+    "chunk_number": 896,
+    "word_count": 157
+  }
+}

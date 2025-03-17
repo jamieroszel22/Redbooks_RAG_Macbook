@@ -1,0 +1,18 @@
+{
+  "content": "deactivated, the remaining parts of R1 can be activated as shown. Temporary capacity can be billable as On/Off CoD, or replacement capacity as CBU, or CPE. Consider the following points: \u0002 On/Off CoD is a function that enables concurrent and temporary capacity growth of the system. On/Off CoD can be used for client peak workload requirements, for any length of time, and includes a daily hardware and maintenance charge. The software charges can vary according to the license agreement for the individual products. For more information, contact your IBM representative. On/Off CoD can concurrently add processors (CPs, ICFs, zIIPs, and IFLs), increase the model capacity identifier, or both. It can do so up to the limit of the installed CPC drawers of a system. It is restricted to twice the installed capacity. On/Off CoD requires a contractual agreement between you and IBM. You decide whether to pre-pay or post-pay On/Off CoD. Capacity tokens that are inside the records are used to control",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.399850",
+    "chunk_number": 824,
+    "word_count": 162
+  }
+}

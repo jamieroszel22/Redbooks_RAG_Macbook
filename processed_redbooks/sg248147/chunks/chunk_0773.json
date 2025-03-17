@@ -1,0 +1,18 @@
+{
+  "content": "CONFIG. Enable minidisks for users only in PROFILE EXEC of AUTOLOG1. \u0002 z/VM provides the means to enable caching on minidisks. \u0002 If no directory maintenance program, such as DirMaint, is used, be careful to not overlap different minidisks. Chapter 11. Deploying and maintaining Linux workloads 357 Configuring z/VM to use minidisks To add a preformatted disk with LABEL VV1222 to the system, follow this procedure: 1. Add the DASD to the EXTENT CONTROL: ===> dirmaint dasd add region VV1222 VV1222 3390-03 END START 2. Check the result with the command: ===> dirmaint dasd query region VV1222 3. Attach the disk with label VV1222 to the system: ===> attach 1222 to system 4. Ensure that the disk is added to the SYSTEM CONFIG under User_Volume_List, as described in step 5 in 6.11.5, \u201cUpdating the SYSTEM CONFIG file\u201d on page 192. Defining MINIDISK for the z/VM virtual machine When you use DirMaint to manage the system minidisks, ensure that you always add all of the used volumes to the EXTENT",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.225578",
+    "chunk_number": 773,
+    "word_count": 169
+  }
+}

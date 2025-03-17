@@ -1,0 +1,18 @@
+{
+  "content": "(CPC0) Max16 (CPC0) Max32 (CPC0) Max68 (CPC0 + CPC1) Cfg. # Dial Max Extra Mem Cfg. # Dial Max Extra Mem Cfg. # Dial Max Extra Mem CPC0 Cfg. # CPC1 Cfg. # Dial Max Extra Mem Chapter 2. Central processor complex hardware components 51 Memory upgrades can be ordered and enabled by LIC, upgrading the DIMM cards, adding DIMM cards, or adding a CPC drawer. For an upgrade that results in the addition of a CPC drawer, the minimum memory increment is added to the system. Each CPC drawer has a minimum physical memory size of 1024 GB. During an upgrade, adding a CPC drawer is a concurrent operation. Adding physical memory to the added drawer is also concurrent. If all or part of the added memory is enabled for use, it might become available to an active LPAR if the partition includes defined reserved storage. (For more information, see 3.7.3, \u201cReserved storage\u201d on page 128.) Alternatively, the added memory can be used by a defined LPAR that is activated after the memory is added. 3146 512 4448",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.824374",
+    "chunk_number": 163,
+    "word_count": 179
+  }
+}

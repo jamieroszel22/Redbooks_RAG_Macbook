@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . 242 6.6.3 TKE hardware support and migration information. . . . . . . . . . . . . . . . . . . . . . . . 242 6.7 Cryptographic functions comparison. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 244 6.8 Cryptographic operating system support for IBM z16 . . . . . . . . . . . . . . . . . . . . . . . . . 246 6.8.1 Crypto Express8S Toleration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246 6.8.2 Crypto Express8S support of VFPE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 246 6.8.3 Crypto Express8S support of greater than 16 domains . . . . . . . . . . . . . . . . . . . 247 Chapter 7. Operating system support. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 249 7.1 Operating systems summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 250 7.2 Support by operating system . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.229070",
+    "chunk_number": 22,
+    "word_count": 353
+  }
+}

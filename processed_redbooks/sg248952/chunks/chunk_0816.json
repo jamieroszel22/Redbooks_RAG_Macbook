@@ -1,0 +1,18 @@
+{
+  "content": "capacity. Concurrent upgrades through LICCC can be performed for the following resources: \u0002 Processors, such as CPs, ICFs, z Integrated Information Processors (zIIPs), and IFLs, if unused PUs are available on the installed CPC drawers, or if the model capacity identifier for the CPs can be increased. \u0002 Memory and VFM, when unused capacity is available on the installed memory cards. Concurrent hardware installation upgrades (MES ordered) Configuration upgrades can be concurrent when installing the following resources: \u0002 The second CPC drawer if coming from a Max32 \u0002 PCIe+ fanouts \u0002 I/O cards \u0002 PCIe+ I/O drawers The concurrent I/O upgrade capability can be better used if a future target configuration is considered during the initial configuration. Concurrent PU conversions (MES ordered) IBM z16 A02 and IBM z16 AGZ supports concurrent conversion between all PU types, to provide flexibility and meet changing business requirements. LPARs also might have to free the PUs to be converted. The",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.366090",
+    "chunk_number": 816,
+    "word_count": 156
+  }
+}

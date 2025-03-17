@@ -1,0 +1,18 @@
+{
+  "content": "Platform and IBM Cloud Paks for Linux on IBM Z and IBM LinuxONE \u0002 Traditional monolithic workloads Because the list of enhancements continues to grow with each release, an abbreviated listing is presented here. For more information about the full and complete list of enhancements, see this web page. With z/VM 7.2, IBM continues to deliver the following product enhancements to its z/VM advanced virtualization technology on IBM Z and LinuxONE servers: \u0002 VM Centralized Service Management (VMCSM) for non-VMSSI environments \u0002 Multiple Subchannel Set (MSS) MT-PPRC support for the IBM GDPS\u00ae environment \u0002 Support for the z/VM ADJUNCT environment \u0002 Planned near-term future support for: \u2013 Eight-member VMSSI clusters \u2013 z/XC Architecture support \u2013 Cylinder 001-END Minidisk HyperPAV Chapter 1. Conceptual overview 23 \u0002 System default changes: \u2013 TDISK clearing default changed to Enabled. The default can be turned off by using the FEATURES DISABLE CLEAR_TDISK configuration statement. This change",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.541062",
+    "chunk_number": 102,
+    "word_count": 151
+  }
+}

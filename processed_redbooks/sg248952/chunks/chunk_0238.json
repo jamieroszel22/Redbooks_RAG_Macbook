@@ -1,0 +1,18 @@
+{
+  "content": "drawer to the processor chip means that compression can operate directly on L2 cache and data does not need to be passed by using I/O. Data compression is running in one of the two execution modes available: Synchronous mode or Asynchronous mode: \u0002 Synchronous execution occurs in problem states where the user application starts the instruction in its virtual address space. \u0002 Asynchronous execution is optimized for Large Operations under z/OS for authorized applications (for example, BSAM/QSAM) and issues I/O by using EADMF for asynchronous execution. Asynchronous execution maintains the current user experience and provides a transparent implementation for existing authorized users of zEDC. Chapter 3. Central processor complex design 89 The On-Chip data compression implements compression as defined by RFC1951 (DEFLATE). Figure 3-12 shows the nest compression accelerator (NXU) for On-Chip Compression acceleration. Figure 3-12 Integrated Accelerator for zEDC (NXU) on the IBM z16 A02 and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.118627",
+    "chunk_number": 238,
+    "word_count": 147
+  }
+}

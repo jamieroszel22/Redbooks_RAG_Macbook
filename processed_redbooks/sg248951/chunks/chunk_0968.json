@@ -1,0 +1,18 @@
+{
+  "content": "only for a specific role with Driver 51/Version 2.16.0: \u2013 Hardware Messages \u2013 Operating System Messages \u2013 Manage Coupling Facility Port Enablement \u2013 OSA Advanced Facilities \u2013 Cryptographic Configuration \u2013 Cryptographic Management \u2013 Change LPAR Controls \u2013 Change LPAR Group Controls \u2013 Configure Channel Path On/Off \u2013 Advanced Facilities \u2013 Configure On/Off \u2013 Manage System Time \u2013 View Activation Profiles Figure 10-3 shows how you can change the permission from Edit to View only for a task in User Management. Figure 10-3 Selection of View only for a task \u0002 New HMC Dashboard A new dashboard is available in the Home tab. It is the first page that appears when you log in to the HMC. It replaces the Welcome window that was used in previous HMC drivers and versions. Initially, the following widgets are available: \u2013 What\u2019s new: Displays information about the latest console feature \u2013 Systems health: Summarizes that status of systems that are managed by the HMC \u2013 Hardware messages: Manages hardware",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.876375",
+    "chunk_number": 968,
+    "word_count": 165
+  }
+}

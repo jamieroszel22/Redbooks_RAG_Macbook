@@ -1,0 +1,18 @@
+{
+  "content": "that are applied as a blanket policy to all applications. Holistically, this entire solution can be summarized as an AI agent. Chapter 7. Use cases 113 7.2.3 Special considerations With a smaller workforce to dedicate to this solution and limited previous AI experience, the bank leveraged existing tools to reduce the workload and expertise requirements on the bank\u2019s workforce. This approach was one of the key reasons IBM and the client focused on leveraging watsonx Orchestrate over designing a custom application that integrated AI tools through API calls. Instead of building a solution, the bank relied on built-in AI functions that automatically combined pre-packaged skills dynamically and in-context based on organizational knowledge and prior interactions to help workers design the workflow of their application. Users provided natural language inputs to select and sequence the required skills for a task, and watsonx Orchestrate connected them with the associated applications, tools,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.266274",
+    "chunk_number": 272,
+    "word_count": 149
+  }
+}

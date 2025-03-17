@@ -1,0 +1,18 @@
+{
+  "content": "following commands to synchronize the changes you made to CPDISK C onto CPDISK A: \u2013 CP CPRELEASE A \u2013 CPRELEASE request for disk A scheduled. \u2013 HCPZAC6730I CPRELEASE request for disk A completed. \u2013 Ready; T=0.01/0.01 13:05:38 \u2013 VMLINK MAINT 0CF1 < = X MR > ( NON \u2013 DMSVML2060I MAINT 0CF1 linked MR as 0120 file mode X \u2013 Ready; T=0.01/0.01 13:09:42 \u2013 VMLINK MAINT 0CF3 < = Y RR > ( NON \u2013 DMSVML2060I MAINT 0CF3 linked RR as 0121 file mode Y \u2013 Ready; T=0.01/0.01 13:09:57 \u2013 COPYFILE ZVMCLOUD * Y = = X (OLDDATE) \u2013 Ready; T=0.01/0.01 13:10:46 \u2013 LISTFILE ZVMCLOUD * * ( ISODATE \u2013 FILENAME FILETYPE FM FORMAT LRECL RECS BLOCKS DATE TIME \u2013 ZVMCLOUD LOGO A1 F 78 22 1 2020-10-08 09:57:15 \u2013 ZVMCLOUD LOGO X1 F 78 22 1 2020-10-08 09:57:15 \u2013 ZVMCLOUD ONLINE X1 F 78 1 1 2020-10-08 12:53:55 \u2013 ZVMCLOUD LOGO Y1 F 78 22 1 2020-10-08 09:57:15 \u2013 ZVMCLOUD ONLINE Y1 F 78 1 1 2020-10-08 12:53:55 \u2013 Ready; T=0.01/0.01 13:11:53 \u2013 ZVMCLOUD LOGO should have the same values for FORMAT, LRECL, BLOCKS, DATE, and TIME for",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.808685",
+    "chunk_number": 947,
+    "word_count": 189
+  }
+}

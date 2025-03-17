@@ -1,0 +1,18 @@
+{
+  "content": "least possible delay. The supported operating systems are listed in Table 7-3 on page 249. Program-directed re-IPL Program directed re-IPL allows an operating system to re-IPL without operator intervention. This function is supported for SCSI and IBM extended count key data (IBM ECKD) devices. The supported operating systems are listed in Table 7-3 on page 249 and Table 7-4 on page 250. IOCP All IBM Z servers require a description of their I/O configuration. This description is stored in I/O configuration data set (IOCDS) files. The I/O configuration program (IOCP) allows for the creation of the IOCDS file from a source file that is known as the I/O configuration source (IOCS). The IOCS file contains definitions of LPARs and channel subsystems. It also includes detailed information for each channel and path assignment, control unit, and device in the configuration. IOCP for IBM z16 A02 and IBM z16 AGZ provides support for the following features: \u0002 IBM z16 A02 and IBM z16 AGZ Base",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.752589",
+    "chunk_number": 639,
+    "word_count": 163
+  }
+}

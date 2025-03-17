@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . 277 9.2.1 VMPSFS file pool changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 277 9.2.2 User ID privilege class . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 279 9.2.3 TCP/IP configuration changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 279 9.2.4 VMCSM APAR installation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 281 9.3 Working with z/VM CSM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 283 9.3.1 Initializing z/VM CSM by using SERVMGR INIT. . . . . . . . . . . . . . . . . . . . . . . . . 283 9.3.2 Creating a service level. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 286 9.3.3 Adding a managed system . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 291 9.3.4 Building",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.247595",
+    "chunk_number": 28,
+    "word_count": 394
+  }
+}

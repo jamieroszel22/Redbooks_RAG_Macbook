@@ -1,0 +1,18 @@
+{
+  "content": "were developed by the Linux on IBM Z development team. SMT is supported on LPAR only (not as a second-level guest). The following minimum releases of Linux on IBM Z distributions are supported on IBM z16 (native SMT support): \u0002 SUSE: \u2013 SLES 16 \u2013 SLES 15 SP3 with service \u2013 SUSE SLES 12 SP5 with service 276 IBM z16 (3931) Technical Guide \u0002 Red Hat: \u2013 Red Hat RHEL 9.0 \u2013 Red Hat RHEL 8.4 with service \u2013 Red Hat RHEL 7.9 with service \u0002 Ubuntu: \u2013 Ubuntu 22.04 LTS \u2013 Ubuntu 21.10 \u2013 Ubuntu 20.04.1 LTS with service The KVM hypervisor is supported on the same Linux on IBM Z distributions in this list. For more information about the most current support, see the Linux on IBM Z Tested platforms website. Single-instruction multiple-data The SIMD feature introduces a new set of instructions to enable parallel computing that can accelerate code with string, character, integer, and floating point data types. The SIMD instructions allow many operands to be processed with a single complex instruction.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.821031",
+    "chunk_number": 656,
+    "word_count": 175
+  }
+}

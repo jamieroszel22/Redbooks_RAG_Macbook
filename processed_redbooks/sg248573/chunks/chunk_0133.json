@@ -1,0 +1,18 @@
+{
+  "content": "publicly available can have its license checked through the huggingface.co hub. Table 4-1 highlights several common model licenses. Table 4-1 Some common Model Licenses Terms and conditions attached to AI assets Not all AI assets come with a simple model license. For example, much of the popular OpenAI models are not covered under these licenses. In cases like these, additional questions must be answered. A legal team may want to sit directly with model providers and other teammates such as the data science team to gain a thorough understanding of the foundation model. Some of the questions to ask may be: \u0002 What sources of data are used to train the model? \u0002 What are the terms and conditions under which this model will be made available? \u0002 Are there contractual limitations on the use cases that the model can be used for (facial recognition, military, any non-research use)? License Name Summarization Apache 2.0 License A permissive free software license that allows users to use,",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.947926",
+    "chunk_number": 133,
+    "word_count": 165
+  }
+}

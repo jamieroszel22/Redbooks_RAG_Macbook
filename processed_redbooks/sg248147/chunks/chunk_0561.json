@@ -1,0 +1,18 @@
+{
+  "content": "User Storage Group 4K Block Limit 4K Blocks Committed Threshold ------------------------------------------------------------------------ LINUX1 2 500 1-00% 90% LINUX2 2 500 0-00% 90% LINUX3 2 500 0-00% 90% LINUX4 2 500 0-00% 90% LNXADMIN 2 30000 16336-54% 90% LNXMAINT 2 5000 0-00% 90% MAINT 2 2000 1-00% 90% ===> tally lnx STATUS REPORT FOR LNX: DATE: 04/17/15 TIME GENERATED: 15:26:14 FILE POOL INFORMATION 500 MAXIMUM NUMBER OF STORAGE GROUPS 500 MAXIMUM NUMBER OF MINIDISKS 6447104 POTENTIAL ADDRESSABLE 4K BLOCKS IN FILE POOL Chapter 6. Configuring z/VM 249 CURRENTLY DEFINED MINIDISK INFORMATION MINIDISK NUMBER GROUP NUMBER 4K BLOCKS IN-USE 4K BLOCKS FREE 1 1 78 - 3% 2611 2 2 16338 - 18% 73560 PHYSICAL/ALLOCATED BLOCK INFORMATION GROUP NUMBER # of USERS PHYS. 4K BLOCKS ALLOC. 4K BLOCKS DIFFERENCE 1 0 2689 0 2689 2 7 89898 39000 50898 The installation and configuration of z/VM are complete. 250 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.389937",
+    "chunk_number": 561,
+    "word_count": 160
+  }
+}

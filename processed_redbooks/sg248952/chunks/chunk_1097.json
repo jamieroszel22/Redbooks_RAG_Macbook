@@ -1,0 +1,18 @@
+{
+  "content": "IBM Z Integrated Accelerator for AI This appendix provides a short overview of the new IBM Z Integrated Accelerator for Artificial Intelligence implemented in the IBM z16 A02 and IBM z16 AGZ processor (Telum). B 474 IBM z16 A02 and IBM z16 AGZ Technical Guide Overview Each generation of the IBM Z processing chip has been enhanced with new on-chip functions such as compression, sort, cryptography and vector processing. The purpose-built accelerators that provide these functions mean lower latency and higher throughput for specialized operations. These work together with advanced chip design features such as data pre-fetch, high capacity L1 and L2 caches, branch prediction, and other innovations. This also supports and enables compliance with security policies, as the data is not leaving the platform to be processed. The hardware, firmware and software are vertically integrated to deliver this functionality seamless to the applications. In August 2021 IBM announced new generation of IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.295145",
+    "chunk_number": 1097,
+    "word_count": 153
+  }
+}

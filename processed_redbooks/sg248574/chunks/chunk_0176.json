@@ -1,0 +1,18 @@
+{
+  "content": "(required). \u0002 task_description: A description of the skill (required). \u0002 created_by: The GitHub username of the contributor (required). \u0002 seed_examples: A collection of key-value entries with at least five examples (required for new files, although older files may contain fewer examples). \u0002 context: Provides relevant information for grounded skills, which guide the model\u2019s processing (not used for ungrounded skills). \u0002 question: The model's input query (required). \u0002 answer: The expected response (required). The taxonomy tree also categorizes skills as either grounded (requiring context) or ungrounded (not requiring context). For example, a grounded skill might be grounded/linguistics/grammar, while an ungrounded skill might be linguistics/writing/poetry/haiku. The qna.yaml file is always in the final node of the taxonomy path. Importantly, there is a limit on the content length in question-answer pairs to ensure model compatibility; contributions should not exceed approximately 2,300",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.894947",
+    "chunk_number": 176,
+    "word_count": 138
+  }
+}

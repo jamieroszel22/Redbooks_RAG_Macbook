@@ -1,0 +1,18 @@
+{
+  "content": "Adapter ID: 3907000BB4B7.0174 Ready; We saw the same output when we issued the command on the first system. Chapter 14. Working with networks 427 Defining the Global VSwitch A global port group can be defined in LACP mode only. We had to coordinate with our network management team to have the correct configuration made in our network switch (see 14.3.4, \u201cLink Aggregation Control Protocol\u201d on page 434 for more information about what can occur if the switch configuration is incorrect). After the switch setup was complete, we created the Global VSwitch on one of the systems (RCBKZVMC), as shown in Example 14-8. Example 14-8 Creating a Global VSwitch on one system define vswitch vswglbl ethernet group grpglbl global VSWITCH SYSTEM VSWGLBL is created Ready; HCPSWU3165I Device 1930.P00 for VSWITCH VSWGLBL is now the Active LAG Port Contr oller for shared port group GRPGLBL. HCPSWU2830I VSWITCH SYSTEM VSWGLBL status is ready. HCPSWU2830I DTCVSW1 is VSWITCH controller for device 1930.P00.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.665659",
+    "chunk_number": 908,
+    "word_count": 158
+  }
+}

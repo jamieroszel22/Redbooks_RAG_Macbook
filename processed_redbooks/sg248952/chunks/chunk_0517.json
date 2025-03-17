@@ -1,0 +1,18 @@
+{
+  "content": "to support zones with EC 521 key strength (EC 521 strength for Logon Keys, Authority Signature Keys, and EP11 signature keys). When one feature code is ordered, 10 smart cards are included. The order increment is 1 - 99 (990 blank smart cards). a. The maximum number of combined features of all types cannot exceed 40 HSMs on a IBM z16 A02 and IBM z16 AGZ. Therefore, the maximum number for feature code 0898 is 20; all other (single HSM) types is 16 when installed exclusively. Feature code Description Important: Products that include any of the cryptographic feature codes contain cryptographic functions that are subject to special export licensing requirements by the United States Department of Commerce. It is your responsibility to understand and adhere to these regulations when you are moving, selling, or transferring these products. 210 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 6-3 z16 Cryptographic Support in z/OS ICSF is a software component of z/OS. ICSF works with the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.221925",
+    "chunk_number": 517,
+    "word_count": 165
+  }
+}

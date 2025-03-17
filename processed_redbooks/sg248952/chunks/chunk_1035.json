@@ -1,0 +1,18 @@
+{
+  "content": "does not offer any options other than viewing. By using the tool, data is formatted and displayed in five different views. The tool provides various sort options, and data can be exported to a USB or FTP. The following views are available: \u0002 PCHID Control Unit View shows PCHIDs, channel subsystems (CSS), CHPIDs, and their control units. \u0002 PCHID Partition View shows PCHIDS, CSS, CHPIDs, and the partitions in which they exist. \u0002 Control Unit View shows the control units, their PCHIDs, and their link addresses in each CSS. \u0002 Link Load View shows the Link address and the PCHIDs that use it. \u0002 Node ID View shows the Node ID data under the PCHIDs. 10.5.12 Automated operations As an alternative to manual operations at the HMC and SE GUI, an application can interact with the HMC and SE through an API. There are different API options to interact with the HMC: \u0002 HMC Web Services API The Web Services API is a web-oriented programming interface that makes the underlying zManager capabilities",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.132863",
+    "chunk_number": 1035,
+    "word_count": 172
+  }
+}

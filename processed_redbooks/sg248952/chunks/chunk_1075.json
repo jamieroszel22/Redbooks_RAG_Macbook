@@ -1,0 +1,18 @@
+{
+  "content": "path length tends to stay the same, assuming that the transaction or job is asked to run the same task each time. However, the path length that is associated with the operating system or subsystem can vary based on the following factors: \u0002 Competition with other tasks in the system for shared resources. As the total number of tasks grows, more instructions are needed to manage the resources. \u0002 The number of logical processors (n-way) of the image or LPAR. As the number of logical processors grows, more instructions are needed to manage resources that are serialized by latches and locks. 12.3.2 Instruction complexity The type of instructions and the sequence in which they are run interacts with the design of a microprocessor to affect a performance component. This factor is defined as instruction complexity. The following design alternatives affect this component: \u0002 Cycle time (GHz) \u0002 Instruction architecture \u0002 Pipeline \u0002 Superscalar \u0002 Out-of-order execution \u0002 Branch prediction \u0002",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.250341",
+    "chunk_number": 1075,
+    "word_count": 160
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "image. ISM is defined by the FUNCTION statement with a virtual CHPID (VCHID) in HCD/IOCDS. Identified by the PNETID parameter, each ISM VCHID defines an isolated, internal virtual network for SMC-D communication, without any hardware component required. Virtual adapters are defined by virtual function (VF) statements. Multiple LPARs can access the same virtual network for SMC-D data exchange by associating their VF with same VCHID. Applications that use HiperSockets can realize network latency and CPU reduction benefits and performance improvement by using the SMC-D over ISM. IBM z16 servers support up to 32 ISM VCHIDs per CPC. Each VCHID supports up to 255 VFs, with a total maximum of 8,000 VFs. Shared Memory Communications Version 2 Shared Memory Communications v2 is available in z/OS V2R4 (with PTFs) and z/OS V2R5. The initial version of SMC was limited to TCP/IP connections over the same layer 2 network; therefore, it was not routable across multiple IP subnets. The associated",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.016566",
+    "chunk_number": 459,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": ". . . 447 11.4.1 Environmental monitoring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 448 Chapter 12. Performance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 453 12.1 IBM z16 A02 and IBM z16 AGZ performance overview . . . . . . . . . . . . . . . . . . . . . . 454 12.1.1 IBM z16 A02 and IBM z16 AGZ single-thread capacity . . . . . . . . . . . . . . . . . . 454 12.1.2 IBM z16 A02 and IBM z16 AGZ SMT capacity . . . . . . . . . . . . . . . . . . . . . . . . . 454 12.1.3 IBM Integrated Accelerator for zEnterprise Data Compression . . . . . . . . . . . . 455 12.1.4 Primary performance improvement drivers with z16. . . . . . . . . . . . . . . . . . . . . 455 12.2 IBM z16 Large System Performance Reference ratio. . . . . . . . . . . . . . . . . . . . . . . . 455 12.2.1 LSPR workload suite. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 456 12.3 Fundamental",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.288314",
+    "chunk_number": 41,
+    "word_count": 331
+  }
+}

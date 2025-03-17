@@ -1,0 +1,18 @@
+{
+  "content": "device 1933.P01 for VSWITCH SYST 424 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 EM IVL. Ready; T=0.01/0.01 03:38:21 HCPSWU2830I VSWITCH SYSTEM IVL status is ready. HCPSWU2830I DTCVSW3 is VSWITCH controller for device 1913.P01. HCPSWU3181I The system is initiating IVL Member Discovery on IVL Domain A. HCPSWU2830I DTCVSW4 is VSWITCH controller for backup device 1933.P01. In our example, we used the default domain \u201cA\u201d and no VLAN support in the IVL VSwitch (our network switch provided VLAN isolation for us). On the second system, we repeated the operation with the values for RDEV reversed. This configuration improves resilience by having each system use a different OSA port for its primary IVL Network connection. Example 14-2 shows the creation of the IVL VSwitch on the second system. Example 14-2 Creating the IVL VSwitch on the second system define vswitch ivl type ivl rdev 1933.p01 1913.p01 VSWITCH SYSTEM IVL is created HCPIVA3164I System RDBKZVMC is connected to IVL Domain A through",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.648910",
+    "chunk_number": 902,
+    "word_count": 158
+  }
+}

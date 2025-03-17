@@ -1,0 +1,18 @@
+{
+  "content": "CPC drawer, which uses up to 48 DDR4 DIMMs. A system with two CPC drawers can have up to 16 TB of main storage. Considerations Cache sizes are limited by ever-shrinking cycle times because they must respond quickly without creating bottlenecks. Access to large caches costs more cycles. Instruction and data cache (L1) sizes must be limited because larger distances must be traveled to reach long cache lines. This L1 access time generally occurs in one cycle, which prevents increased latency. Also, the distance to remote caches as seen from the microprocessor becomes a significant factor. For example, on an IBM z15, access to L4 physical cache (on the SC chip and which might not even be in the same CPC drawer) requires several cycles to travel the distance to the cache. On an IBM z16 A02 and IBM z16 AGZ, having an L4 virtual, physically allocated on the shared L2 requires fewer processor cycles in many instances. Although large caches mean increased access latency, the new technology 7",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.036783",
+    "chunk_number": 215,
+    "word_count": 169
+  }
+}

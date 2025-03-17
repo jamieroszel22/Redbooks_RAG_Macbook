@@ -1,0 +1,18 @@
+{
+  "content": "Resiliency, REDP-5702. 3 All new CBU contract documents contain new CBU test terms to allow execution of production workload during CBU test. CBU clients must sign the IBM client Agreement Amendment for IBM Z Capacity Backup Upgrade Tests (US form #Z125-8145). Important: CBU is for disaster and recovery purposes only. It cannot be used for peak workload management or for a planned event. 352 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 FC 6817: Total CBU years ordered \u0002 FC 6818: CBU records that are ordered \u0002 FC 6820: Single CBU CP-year \u0002 FC 6821: 25 CBU CP-year \u0002 FC 6822: Single CBU IFL-year \u0002 FC 6823: 25 CBU IFL-year \u0002 FC 6824: Single CBU ICF-year \u0002 FC 6825: 25 CBU ICF-year \u0002 FC 6828: Single CBU zIIP-year \u0002 FC 6829: 25 CBU zIIP-year \u0002 FC 6832: CBU replenishment The CBU entitlement record (FC 6818) contains an expiration date that is established at the time of the order. This date depends on the quantity of CBU years (FC 6817). You can extend your CBU entitlements through the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.576389",
+    "chunk_number": 872,
+    "word_count": 179
+  }
+}

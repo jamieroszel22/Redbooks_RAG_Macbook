@@ -1,0 +1,18 @@
+{
+  "content": "over-committed workloads \u0002 Easier migration with enhanced upgrade-in-place infrastructure that provides an improved migration path from previous z/VM releases \u0002 Improved operations with ease-of-use enhancements requested by customers that include: \u2013 Querying service applied to the running hypervisor \u2013 Providing environment variables to allow programming automation, based on systems characteristics and customer settings \u2013 Improved query capabilities for system shutdown 26 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u0002 Improved SCSI support for guest attachment of disk and other peripherals, and hypervisor attachment of disk drives to z Systems and LinuxONE systems to: \u2013 Increase efficiency by allowing an IBM FlashSystem\u00ae to be attached to z/VM for system use without the need for an IBM System Storage SAN Volume Controller \u2013 Enable ease of use with enhanced management for SCSI devices to provide information needed about device configuration characteristics \u2013 Allow concurrent code loads",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.570028",
+    "chunk_number": 112,
+    "word_count": 144
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "lengthy and detailed. For example, to receive, apply, and build the CP component, the following steps were needed: vmfmrdsk zvm cp apply (setup vmfsetup zvm cp vmfpsu zvm cp vmfins install ppf zvm cp (nomemo env {filename} nolink override no vmfapply ppf zvm cp (setup vmfbld ppf zvm cp (status vmfbld ppf zvm cp (serviced Then, the same steps were needed for many other components. The process is easier now with the SERVICE ALL command. Alternatively, the previous method is more granular and better enables a system administrator to know the parts of the service that were applied. Complete the following steps: 1. Log on to a 3270 session as MAINT720. 2. Access the MAINT720 500 disk as C: ==> access 500 c DMSACC724I 500 replaces C (2CC) 3. Apply the service with the SERVICE ALL command. The RSU must be applied first (S8873950 SERVLINK in this example). Then, apply any PTFs that came after the RSU: ==> service all s1309082 ... VMFSUT2760I VMFSUFTB processing started VMFSUT2760I VMFSUFTB",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.489204",
+    "chunk_number": 581,
+    "word_count": 168
+  }
+}

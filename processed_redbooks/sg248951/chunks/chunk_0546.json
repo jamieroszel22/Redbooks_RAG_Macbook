@@ -1,0 +1,18 @@
+{
+  "content": "functions. It is optionally programmable to deploy more functions and algorithms by using UDX. For more information, see 6.5.2, \u201cCrypto Express8S as a CCA coprocessor\u201d on page 228. A TKE workstation is required to support the administration of the Crypto Express8S when it is configured in CCA mode when in full Payment Card Industry (PCI)-compliant mode for the necessary certificate management in this mode. The TKE is optional in all other use cases for CCA. \u0002 Secure IBM Enterprise PKCS #11 (EP11) coprocessor (CEX8P) implements an industry-standardized set of services that adheres to the PKCS #11 specification V2.20 and more recent amendments. It was designed for extended FIPS and Common Criteria evaluations to meet public sector requirements. This new cryptographic coprocessor mode introduced the PKCS #11 secure key function. For more information, see 6.5.3, \u201cCrypto Express8S as an EP11 coprocessor\u201d on page 234. A TKE workstation is always required to support the administration of the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.347983",
+    "chunk_number": 546,
+    "word_count": 155
+  }
+}

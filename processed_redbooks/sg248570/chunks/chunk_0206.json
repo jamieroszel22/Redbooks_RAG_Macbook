@@ -1,0 +1,18 @@
+{
+  "content": "various data set properties, such as column names, statistical distributions, or data value ranges. The tagging system dynamically applies these rules to incoming data sets, which help ensure that newly ingested data is automatically categorized and tagged according to predefined guidelines. This level of automation increases efficiency and reduces the manual effort that is required to keep the data catalog up to date. 7.3 Data profiling Data profiling is a key activity that assesses the quality, consistency, and readiness of data sets for analytics. In IBM watsonx.data, profiling is deeply integrated into the data governance process, which enables organizations to monitor and ensure the integrity of their data throughout its lifecycle. Profiling involves the examination of data to determine its quality attributes, such as data types, value distributions, null value percentages, and the presence of outliers. This step is essential for identifying data that might not meet",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.134553",
+    "chunk_number": 206,
+    "word_count": 147
+  }
+}

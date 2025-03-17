@@ -1,0 +1,18 @@
+{
+  "content": "User-defined functions do not work in the same way. \u0002 Memory management works differently in the C++ evaluation engine. In particular: \u0002 The OOM killer is not supported. \u0002 The reserved pool is not supported. \u0002 In general, queries may use more memory than they are allowed to through memory arbitration. \u0002 In C++ based Presto, reduce_agg is not permitted to return null in either the inputFunctionor the combineFunction. In Presto (Java), this is permitted but undefined behavior. 5.2 Leveraging Apache Spark engine for data engineering You can use watsonx.data to seamlessly integrate with Spark engine to achieve the following use cases: \u0002 Ingesting large volumes of data into watsonx.data tables. \u0002 Table maintenance operations to enhance performance. \u0002 Complex analytics workloads that are difficult to represent as queries. 5.2.1 Creating and customizing internal Spark engine inside watsonx.data Now let us delve deeper into Native Spark. We will explore the following steps: 1. You first",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.972545",
+    "chunk_number": 164,
+    "word_count": 155
+  }
+}

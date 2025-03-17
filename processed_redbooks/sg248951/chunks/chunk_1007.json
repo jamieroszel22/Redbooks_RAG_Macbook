@@ -1,0 +1,18 @@
+{
+  "content": "stand-alone, outside the IBM z16 HMCs (Tower or Rack Mount) can no longer be ordered with IBM z16, connections to the HMC (and SE) are made by way of a browser. However, because the SE cannot be directly accessed by using a browser the Single Object Operations (SOO) task on the HMC must be used. The following HMC feature codes can be carried forward from previous orders: \u0002 FC 0062 \u0002 FC 0063 \u0002 FC 0082 \u0002 FC 0083 With these HMC feature codes, Driver 51/Version 2.16.0 can be installed to support IBM z16. Also, Driver 51/Version 2.16.0 can be installed on the two HMCs that are provided with the HMA FC 0100 on IBM z15. With these HMCs, you can still work local at an HMC. Access to the USB Device on HMC and SE requires physical access to the HMC/SE. Log-on security for a web browser is provided by the local HMC user log-on procedures. Certificates for secure communications are provided and can be changed by the user. Web browser access can be limited by specifying an IP address from the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.004928",
+    "chunk_number": 1007,
+    "word_count": 183
+  }
+}

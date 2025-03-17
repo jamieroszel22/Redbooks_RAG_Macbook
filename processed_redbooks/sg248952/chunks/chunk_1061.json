@@ -1,0 +1,18 @@
+{
+  "content": "required to be installed to minimize front-back airflow circulation. These specific filler plates are part of the plan-ahead features, in contrary to the filler plates for the rest of the customer provided rack above and below the IBM z16 AGZ. Figure 11-5 shows the possible systems figurations. One of more systems are allowed in one rack, as long as within defined height limits. Figure 11-5 Possible IBM z16 AGZ configurations Chapter 11. Environmentals 449 Raised floor or non-raised floor The IBM z16 AGZ can be installed on a raised or non-raised floor, but it\u2019s the customer provided rack that must provide the infrastructure to guide any cabling for top or bottom exit. Frame cable management The predominance of system cabling resides in the rear of the system and make use of the cabling management hardware of the customer provided rack, but some custom brackets will come with certain components which needs to be used during installation: \u0002 Two vertical brackets per CPC drawer \u0002 One",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.206888",
+    "chunk_number": 1061,
+    "word_count": 165
+  }
+}

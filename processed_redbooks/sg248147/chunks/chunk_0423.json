@@ -1,0 +1,18 @@
+{
+  "content": "virtual NIC that starts at virtual device address 600, and couple it to the VSWITCH. The z/VM TCP/IP stack comes up on the highly available VSWITCH the next time that you IPL z/VM. 6.9 Shutting down and IPLing the SSI cluster again You can watch the z/VM member shut down and IPL again from the Integrated 3270 Console. If you issue this command from a 3270 emulator, you will lose your session and will not see most of the shutdown process. To shut down and IPL the SSI cluster again, perform the following steps: 1. Log off from MAINT and MAINT720 on all 3270 emulator sessions. 2. Start an Integrated 3270 Console session for the LPAR of the first SSI cluster member. 3. Log on to MAINT. 4. Using the AT command, issue the SHUTDOWN command for all other members. In this example, the system name is RDBKZVMH: ===> at RDBKZVMH cmd shutdown HCPSHU960I System shutdown may be delayed for up to 560 seconds ... An informational message displays that indicates the possible time delay while z/VM waits",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.860693",
+    "chunk_number": 423,
+    "word_count": 178
+  }
+}

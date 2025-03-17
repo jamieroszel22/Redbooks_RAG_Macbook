@@ -1,0 +1,18 @@
+{
+  "content": "process, this phase is the preparation phase. It is started from the SE, directly or on the HMA, by using the Single object operation option on the Perform Model Conversion window from the CPC configuration task list, as shown in Figure 9-7. Figure 9-7 Clicking Prepare for Enhanced Drawer Availability option Processor availability Processor resource availability for reallocation or deactivation is affected by the type and quantity of the resources in use, such as the following examples: \u0002 Total number of PUs that are enabled through LICCC \u0002 PU definitions in the profiles that can be dedicated and dedicated reserved or shared \u0002 Active LPARs with dedicated resources at the time of the drawer repair or replacement To maximize the PU availability option, ensure that sufficient inactive physical resources are on the remaining drawers to complete a drawer removal. Memory availability Memory resource availability for reallocation or deactivation depends on the following factors: \u0002 Physically",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.802937",
+    "chunk_number": 943,
+    "word_count": 155
+  }
+}

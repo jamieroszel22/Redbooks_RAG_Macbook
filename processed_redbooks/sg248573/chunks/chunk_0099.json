@@ -1,0 +1,18 @@
+{
+  "content": "policies. Once approved, the ModelOps engineer deploys the AI asset into production, and finally, the application developer monitors its performance, identifying areas for improvement. Throughout this process, some organizations may choose to combine certain roles or responsibilities, tailoring the governance flow to their specific needs. 30 Ensuring Trustworthy AI with IBM watsonx.governance Figure 3-2 Typical personas involved in a governance process (source) Consider the expertise required for your governance team. A typical governance plan may include the following roles, which can sometimes be filled by the same person or, in other cases, represent a team of people. \u0002 Model Owner: This individual creates an AI use case to address a business need, requests the model or prompt template, manages the approval process, and tracks the solution through the AI lifecycle. \u0002 Risk and Compliance Manager/ Legal Team: This person determines the policies and compliance thresholds for the AI",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.822001",
+    "chunk_number": 99,
+    "word_count": 148
+  }
+}

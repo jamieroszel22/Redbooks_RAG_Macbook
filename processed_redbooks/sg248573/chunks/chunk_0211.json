@@ -1,0 +1,18 @@
+{
+  "content": "inclusion, answer coverage, and spelling robustness were all measured to ensure high performance. \u0002 Governance Dashboard: Developed a comprehensive dashboard to simplify the oversight of their AI governance lifecycle. \u0002 External Model Governance: Implemented governance for external models using detached prompt templates. This structured solution ensures bank's chatbot AI product operates within ethical, regulatory, and performance parameters while automating the lifecycle governance for enhanced efficiency. 7.3 Overview of use case 3 - Belgian biopharmaceutical company A Belgian biopharmaceutical company, is leveraging watsonx solutions to address challenges in website development, including technical documentation and module reusability, for their Drupal-based global web ecosystem. 7.3.1 Business context IBM is developing and managing over 150 global websites for the pharma company using Drupal based technology. Client faces challenges in maintaining high-quality technical",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.231492",
+    "chunk_number": 211,
+    "word_count": 128
+  }
+}

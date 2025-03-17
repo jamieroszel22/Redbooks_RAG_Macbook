@@ -1,0 +1,18 @@
+{
+  "content": "183 optionally programmable to add custom functions and algorithms by using User Defined Extensions (UDX). Payment Card Industry (PCI) PIN Transaction Security (PTS) Hardware Security Module (HSM) (PCI-HSM), is available for Crypto Express6S and newer in CCA mode. PCI-HSM mode simplifies compliance with PCI requirements for hardware security modules. \u0002 The Secure IBM Enterprise PKCS #11 (EP11) coprocessor implements an industry-standardized set of services that adheres to the PKCS #11 specification v2.20 and more recent amendments. It was designed for extended FIPS and Common Criteria evaluations to meet industry requirements This cryptographic coprocessor mode introduced the PKCS #11 secure key function. When the Crypto Express8S PCI Express adapter is configured as a secure IBM CCA co-processor, it still provides accelerator functions. However, up to 3x better performance for those functions can be achieved if the Crypto Express8S PCI Express adapter is configured as an accelerator.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.016500",
+    "chunk_number": 462,
+    "word_count": 145
+  }
+}

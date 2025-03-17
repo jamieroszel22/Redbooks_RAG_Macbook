@@ -1,0 +1,18 @@
+{
+  "content": "XEDIT. In our example environment, we changed the contents of the file as shown in Example 15-9. Example 15-9 Contents of ZVMCLOUD ONLINE file ZVMCLOUD ONLINE Z1 F 78 Trunc=78 Size=1 Line=0 Col=1 Alt=3 446 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 00000 * * * Top of File * * * 00001 z/VM Enterprise Cloud Virtualization Platform | AUTHORIZED USERS ONLY 00002 * * * End of File * * * d. Enter FILE at the XEDIT command line to save and quit: ====> FILE 7. Press F3 to exit from FILELIST: DMSVML2061I MAINT 0CF3 detached Ready; 8. Return the MAINT 0CF3 disk to service by running the following command: ===> CP CPACCESS MAINT 0CF3 C SR CPACCESS request for mode C scheduled. Ready; HCPZAC6732I CPACCESS request for MAINT's 0CF3 in mode C completed. 9. If you do not see the message HCPZAC6732I from the last step, stop here and troubleshoot. Never release both CPDISK A and CPDISK C at the same time for any reason. 10.If you see that your CPACCESS request completed successfully, issue the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.807072",
+    "chunk_number": 946,
+    "word_count": 178
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "INCLUDE LNXDFLT 06130733 BUILD ON ITSOZVM1 USING SUBCONFIG LNXADM-1 06130733 BUILD ON ITSOZVM2 USING SUBCONFIG LNXADM-2 06130733 IUCV ANY 06130733 OPTION MAXCONN 128 LNKNOPAS 06130733 ... This output shows that SMAPI is running, LNXADMIN is correctly authorized to call SMAPI, and the Linux interface smaclient is working. 10.6 Adding a z/VM user ID To add a user to z/VM, you must create a directory entry for each new virtual machine. The default method is through a manual process where you update a file that is called USER DIRECT, which is the z/VM system directory. After installing DirMaint, it will be doing the user ID and resource management on z/VM directory. A virtual machine definition is a grouping of directory statements that begin with the term USER or IDENTITY as shown in Example 10-13. For more information, a description of virtual machine types, and the USER and IDENTITY statements, see Chapter 1 of z/VM Getting Started with Linux on System z, SC24-6194. Example 10-13 z/VM",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.126854",
+    "chunk_number": 745,
+    "word_count": 164
+  }
+}

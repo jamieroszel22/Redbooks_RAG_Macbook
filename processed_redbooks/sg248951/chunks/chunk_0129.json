@@ -1,0 +1,18 @@
+{
+  "content": "the Coupling Facility Control Code (CFCC). The maximum number of characterizable PUs depends on the IBM z16 Model A01 CPC drawer feature code. Some PUs are characterized for system use; some are characterized for client workload use. By default, one spare PU is available to assume the function of a failed PU. The maximum number of PUs that can be characterized for client use are listed in Table 2-5. Table 2-5 PU characterization The rule for the CP to zIIP purchase ratio, that for every CP purchased, up to two zIIPs can be purchased has been removed on z16. Converting a PU from one type to any other type is possible by using the Dynamic Processor Unit Reassignment process. These conversions occur concurrently with the system operation. Feature CPs IFLs Unassigned IFLs zIIPs ICFs IFPs Std SAPs Add\u2019l SAPs Spare PUs Max39 0 - 39 0 - 39 0 - 38 0 - 38 0 - 39 2 5 0 - 8 2 Max82 0 - 82 0 - 82 0 - 81 0 - 81 0 - 82 10 Max125 0 - 125 0 - 125 0 - 124 0 - 124 0 - 125 15 Max168 0 - 168 0 - 168 0 -",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.653174",
+    "chunk_number": 129,
+    "word_count": 206
+  }
+}

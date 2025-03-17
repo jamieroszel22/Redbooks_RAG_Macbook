@@ -1,0 +1,18 @@
+{
+  "content": "built-in pointing device. The keyboard comes in the English language. 0851 4770 TKE Crypto Adapter (IBM PCIeCC) The stand-alone crypto adapter is required for TKE upgrade from FC 0085 and FC 0086 TKE tower, or FC 0087 and FC 0088 TKE rack mount when carry forward these features to IBM z16 A02 and IBM z16 AGZ. 0144 TKE Tower carry forward to IBM z16 A02 and IBM z16 AGZ TKE Tower FC 0088 can be carried forward to IBM z16 A02 and IBM z16 AGZ. It requires IBM 4770 PCIeCC (FC 0851) for compatibility with TKE LIC 10.0 (FC 0882) and for managing Crypto Express8S. (FC 0144 = FC 0088 + FC 0851 + FC 0882). 0145 TKE rack mount carry forward to IBM z16 A02 and IBM z16 AGZ TKE rack mount FC 0087 can be carried forward to IBM z16 A02 and IBM z16 AGZ. It requires IBM 4770 PCIeCC (FC 0851) for compatibility with TKE LIC 10.0 (FC 0882) and for managing Crypto Express8S. (FC 0145 = FC 0087 + FC 0851 + FC 0882). 0233 TKE rack mount carry forward to IBM z16 A02 and IBM z16 AGZ TKE rack mount FC 0085 can",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.208216",
+    "chunk_number": 514,
+    "word_count": 198
+  }
+}

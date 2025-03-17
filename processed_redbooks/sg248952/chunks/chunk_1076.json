@@ -1,0 +1,18 @@
+{
+  "content": "Transaction Lookaside Buffer (TLB) \u0002 Transactional Execution (TX) \u0002 Single instruction multiple data instruction set (SIMD) \u0002 Simultaneous multithreading (SMT)7 7 Only available for IFL, zIIP, and SAP processors 460 IBM z16 A02 and IBM z16 AGZ Technical Guide As workloads are moved between microprocessors with various designs, performance varies. However, when on a processor, this component tends to be similar across all models of that processor. 12.3.3 Memory hierarchy and memory nest The memory hierarchy of a processor generally refers to the caches, data buses, and memory arrays that stage the instructions and data that must be run on the microprocessor to complete a transaction or job. The following design choices affect this component: \u0002 Cache size \u0002 Latencies (sensitive to distance from the microprocessor) \u0002 Number of levels, the Modified, Exclusive, Shared, Invalid (MESI) protocol, controllers, switches, the number and bandwidth of data buses, and so on. Certain caches are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.252550",
+    "chunk_number": 1076,
+    "word_count": 152
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "upgrade: \u2013 Can change the CPC drawer feature by adding one or more drawers \u2013 Can change the model capacity identifier, the capacity setting, or both \u2013 Can add physical memory, PCIe+ I/O drawers, and other hardware features The model capacity identifier can be concurrently changed. Concurrent upgrades can be performed for permanent and temporary upgrades. LICCC upgrades (MES ordered) The LICCC provides for system upgrades without hardware changes by activating extra (physically installed) unused capacity. Concurrent upgrades through LICCC can be performed for the following resources: \u0002 Processors, such as CPs, ICFs, z Integrated Information Processors (zIIPs), IFLs, and SAPs, if unused PUs are available on the installed processor drawers, or if the model capacity identifier for the CPs can be increased. \u0002 Memory, when unused capacity is available on the installed memory cards. The Flexible memory option is available to give you better control over future memory upgrades. For more",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.356670",
+    "chunk_number": 812,
+    "word_count": 152
+  }
+}

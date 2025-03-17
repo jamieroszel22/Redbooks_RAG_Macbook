@@ -1,0 +1,18 @@
+{
+  "content": "vgextend command to add the minidisk to the volume group: # vgextend system_vg /dev/dasdg1 Volume group \"system_vg\" successfully extended 5. Use the vgdisplay command again to show the free extents in the volume group: # vgdisplay system_vg --- Volume group --- VG Name system_vg System ID Format lvm2 Metadata Areas 3 Metadata Sequence No 7 410 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 VG Access read/write VG Status resizable MAX LV 0 Cur LV 5 Open LV 4 Max PV 0 Cur PV 3 Act PV 3 VG Size 12.75 GiB PE Size 4.00 MiB Total PE 3264 Alloc PE / Size 1504 / 5.88 GiB Free PE / Size 1760 / 6.88 GiB VG UUID 4i89gF-b0xm-dkHo-blWP-3Kca-0xCI-V6TAXk This output shows that 1,760 free extents are in the volume group now. 6. Use the mount command to determine the name of the logical volume that is mounted over /var/: # mount | grep \"\\/var \" /dev/mapper/system_vg-var_lv on /var type ext4 (rw) In this example, the name is /dev/mapper/system_vg-var_lv/. 7. Use the lvextend command to extend the volume",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.578448",
+    "chunk_number": 878,
+    "word_count": 176
+  }
+}

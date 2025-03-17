@@ -1,0 +1,18 @@
+{
+  "content": "6.7 Enabling and configuring RACF This section assumes that a new RACF database is being created. For migrating a RACF database, see the Program Directory for RACF Security Server for z/VM. To configure RACF on a new z/VM 7.2 system, complete the following steps. The first five steps are performed before RACF is started. Steps 6 and 7 put RACF into production: 1. Creating the RACF RPIDIRCT command file. 2. Customizing SMF. 3. Copying the RACF databases. 4. Setting up the AUTOLOG1 and AUTOLOG2 virtual machines. 5. Enabling RACF. 6. Putting RACF into production on all members. 7. (The step is performed after RACF is in production:) Configuring SMAPI to work with RACF, as described in Chapter 10, \u201cDirMaint, RACF-connector, and SMAPI\u201d on page 305. Resource Access Control Facility (RACF) is a security server that is available for z/OS and z/VM. The command interface is similar on both systems; however, the functionality on z/VM is limited to the resources that are available to z/VM. You",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.623617",
+    "chunk_number": 365,
+    "word_count": 165
+  }
+}

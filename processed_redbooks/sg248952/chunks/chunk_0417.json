@@ -1,0 +1,18 @@
+{
+  "content": "to the selected device. If multimode fiber optic cables are being reused, a pair of Mode Conditioning Patch cables is required, with one cable for each end of the link. OSA-Express7S 1.2 GbE SX (FC 0455) The OSA-Express7S 1.2 GbE SX feature includes one PCIe adapter and two ports. The two ports share a channel path identifier (CHPID type OSD). The ports support attachment to a 1 Gbps Ethernet LAN. Each port can be defined as a spanned channel and shared among LPARs and across logical channel subsystems. The OSA-Express7S 1.2 GbE SX feature supports the use of an LC Duplex connector. Ensure that the attaching or downstream device has an SX transceiver. The sending and receiving transceivers must be the same (SX to SX). A multi-mode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature to the selected device. OSA-Express7S 1.2 1000BASE-T (FC 0458) Feature code 0458 occupies one slot in the PCIe+ I/O drawer. It features two ports",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.847564",
+    "chunk_number": 417,
+    "word_count": 170
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "page 41 \u0002 2.5, \u201cMemory\u201d on page 43 \u0002 2.7, \u201cConnectivity\u201d on page 53 \u0002 2.8, \u201cProcessor configurations\u201d on page 57 \u0002 2.9, \u201cPower and cooling\u201d on page 65 \u0002 2.10, \u201cSummary\u201d on page 68 2 22 IBM z16 A02 and IBM z16 AGZ Technical Guide 2.1 System overview: frames and drawers The IBM z16 A02 is delivered factory installed in an IBM 19-inch frame - or as IBM z16 AGZ or z16 rack mount, that can be easily installed in a client supplied 19-inch (industry standard) form factor frame in any data center. The IBM z16 A02 and IBM z16 AGZ can be configured with one or two central processor complex (CPC) drawers, and up to three Peripheral Component Interconnect Express+ (PCIe+) I/O drawers. Figure 2-1 shows the differences between the available IBM z16 A02 and IBM z16 AGZ air cooled systems. Figure 2-1 IBM z16 A02 and IBM z16 AGZ Similar to the predecessor z15 T02, the redesigned CPC drawer and I/O infrastructure also lowers power consumption, reduces the footprint, and allows installation in virtually",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.604544",
+    "chunk_number": 115,
+    "word_count": 177
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "same trivial password. Such a practice is no longer acceptable, even in a test or other non-production environment. In general, it is considered bad practice to set a password for any USER or IDENTITY that is a non-person ID. That is, each individual who requires access to z/VM must be issued their own ID that is for their exclusive use and never to be shared with anyone else for any reason. Each individual\u2019s ID should then be granted LOGONBY authority for any other ID to which they require access. This process provides an audit trail to identify who accessed an alternative ID and when. It also eliminates the need to change and remember multiple passwords. The following non-person system administration IDs must be set to LBYONLY: \u0002 z/VM systems programming IDs: MAINT, MAINT720, PMAINT, \u0002 The z/VM network administrator: TCPMAINT \u0002 The Linux VM users (with or without access to 3270 sessions, and with or without the root passwords) For more information about how to correctly configure",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.859309",
+    "chunk_number": 176,
+    "word_count": 167
+  }
+}

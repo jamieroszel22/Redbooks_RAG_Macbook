@@ -1,0 +1,18 @@
+{
+  "content": "SHA of the commit in the repository for the knowledge files. \u0002 patterns: A list of glob patterns specifying the files in the repository. Patterns starting with *, such as *.md, must be quoted (\"*.md\") to comply with YAML rules. By adhering to these guidelines, knowledge contributions maintain a structured, accessible format that aligns with the taxonomy framework and supports efficient integration into the system. Chapter 5. Advanced capabilities of watsonx.ai 77 When working with YAML files (for both skills and knowledge), it is crucial to adhere to specific formatting rules to help ensure correctness and avoid parser errors. Indentation and spacing play a role, and YAML requires two spaces for each level of indentation (tabs must not be used under any circumstances). Also, avoid trailing spaces at the end of lines because they can lead to issues during processing. For entries in seed_examples, each example begins with a - placed before the first field, such as question or context.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.912625",
+    "chunk_number": 180,
+    "word_count": 160
+  }
+}

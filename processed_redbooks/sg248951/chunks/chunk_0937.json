@@ -1,0 +1,18 @@
+{
+  "content": "workloads while completing a drawer replacement. 9.8.1 EDA planning considerations To use the EDA function, configure enough physical memory and engines so that the loss of a single drawer does not result in any degradation to critical workloads during the following occurrences: \u0002 A degraded restart in the rare event of a drawer failure \u0002 A drawer replacement for repair or a physical memory upgrade The following configurations especially enable the use of the EDA function. These IBM z16 features need enough spare capacity so that they can cover the resources of a fenced or isolated drawer. This configuration imposes limits on the following number of the client-owned PUs that can be activated when one drawer within a model is fenced: \u0002 A maximum of: \u2013 39 PUs are configured on the Max39 \u2013 82 PUs are configured on the Max82 \u2013 125 PUs are configured on the Max125 \u2013 168 PUs are configured on the Max168 \u2013 200 PUs are configured on the Max200 Chapter 9. Reliability, availability, and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.786377",
+    "chunk_number": 937,
+    "word_count": 170
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Dedicated or shared ICFs \u0002 Linux only mode to run the following systems: \u2013 A Linux on IBM Z operating system, on either of the following types: \u2022 Dedicated or shared IFLs \u2022 Dedicated or shared CPs \u2013 A z/VM operating system, on either of the following types: \u2022 Dedicated or shared IFLs \u2022 Dedicated or shared CPs \u0002 z/VM mode to run z/VM on dedicated or shared CPs or IFLs, plus zIIPs and ICFs \u0002 IBM SSC mode LPAR can run on dedicated or shared: \u2013 CPs \u2013 IFLs All LPAR modes, required characterized PUs, operating systems, and the PU characterizations that can be configured to an LPAR image are listed in Table 3-7. The available combinations of dedicated (DED) and shared (SHR) processors are also included. For all combinations, an LPAR also can include reserved processors that are defined, which allows for nondisruptive LPAR upgrades. Table 3-7 LPAR mode and PU usage zIIP usage: zIIPs can be defined to General mode or z/VM mode image, as listed in Table 3-6 on page 120. However, zIIPs are used",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.446745",
+    "chunk_number": 310,
+    "word_count": 179
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "customer support, on-site assistance, employee training, and developer productivity. By using RAG, companies reduce the risk of LLMs leaking sensitive data or producing inaccurate or misleading information. Additionally, RAG helps lower the computational and financial costs of running LLM-based systems in enterprise environments. A key component in RAG systems is the use of a vector database, which stores data in the form of high-dimensional vectors. These databases are optimized for similarity search and allow LLMs to quickly find relevant information based on vector representations. By combining vector databases with LLMs, RAG systems enable businesses to enhance the search and retrieval capabilities of their knowledge systems, driving more relevant and accurate results in various applications. This architecture, supported by platforms like IBM's watsonx, provides a powerful solution for managing large volumes of data and delivering high-quality AI outputs tailored to enterprise",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.306848",
+    "chunk_number": 249,
+    "word_count": 140
+  }
+}

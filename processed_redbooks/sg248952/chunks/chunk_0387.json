@@ -1,0 +1,18 @@
+{
+  "content": "2 32 16 Yes N/Ac zHyperLink Express 2 2 32 16 Yes N/Ac OSA-Express featuresd OSA-Express7S 1.2 25GbE LR/SR 1 1 48 48 Yes OSD OSA-Express7S 1.2 10GbE LR/SR 1 1 48 48 Yes OSD OSA-Express7S 1.2 GbE LR/SR 2 2 96 48 Yes OSC, OSD OSA-Express7S 1.2e 1000BASE-T 2 2 96 48 Yes OSC, OSD, OSE OSA-Express6S 10 GbE LR/SR 1 1 48 48 Yes OSD OSA-Express6S GbE LX/SX 2 2 96 48 Yes OSD OSA-Express6S 1000BASE-T 2 2 96 48 Yes OSC, OSD, OSE Chapter 4. I/O structure 155 At least one I/O feature (FICON) or one coupling link feature (ICA SR or CE LR) must be present in the minimum configuration. The following features can be shared and spanned: \u0002 FICON channels that are defined as FC or FCP \u0002 OSA-Express features that are defined as OSC, OSD, or OSE \u0002 Coupling links that are defined as CS5 or CL5 \u0002 HiperSockets that are defined as IQD The following features are plugged into a PCIe+ I/O drawer and do not require the definition of a CHPID and CHPID type: \u0002 Each Crypto Express (8S/7S/6S) feature occupies one I/O",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.727046",
+    "chunk_number": 387,
+    "word_count": 191
+  }
+}

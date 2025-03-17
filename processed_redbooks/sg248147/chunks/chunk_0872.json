@@ -1,0 +1,18 @@
+{
+  "content": "1760 Alloc PE / Size 0 / 0 Free PE / Size 1760 / 6.88 GiB VG UUID acSF65-56Ie-kVoY-Af6I-Hma4-VVuN-ggJEs5 This example uses 1,760 free physical extents (PEs). Creating a single logical volume In this section, you create a single logical volume by using the lvcreate command: 1. The lvcreate command is used to create a logical volume. The -i (a lowercase I character) flag specifies the number of stripes, which is two in this example, because two volumes are in the volume group. The -l (a lowercase L) flag specifies the number of logical extents, which is 1,760 in this example. The -n homelv specifies the name of the new logical volume. The last argument, which is homevg, specifies the name of the volume group from which the logical volume will be created: # lvcreate -i 2 -l 1760 -n homelv homevg LUsing default stripesize 64.00 KiB Logical volume \"homelv\" created Chapter 13. Disk storage administration 407 2. Use the lvdisplay command to verify. The parameter is the full path of the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.564478",
+    "chunk_number": 872,
+    "word_count": 172
+  }
+}

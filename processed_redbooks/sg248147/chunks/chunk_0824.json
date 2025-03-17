@@ -1,0 +1,18 @@
+{
+  "content": "Performance Toolkit, you must order the product. Configure the product only if you ordered it. z/VM Performance Toolkit is part of the z/VM base installation, and it is installed as disabled. It is a priced feature of z/VM. For more information, see the following publications: \u0002 Z/VM Performance Toolkit Guide, SC24-6302 \u0002 z/VM Performance Toolkit Reference, SC24-6303 \u0002 The Program Directory for Performance Toolkit for VM, GI13-4361 \u0002 Linux on IBM zSeries and S/390: Performance Toolkit for VM, SG24-6059 For more information about how to set up and use the IBM Performance Toolkit, see the following sections: \u0002 12.2.1, \u201cConfiguring IBM Performance Toolkit for VM\u201d \u0002 12.2.5, \u201cUsing the IBM Performance Toolkit for VM\u201d on page 387 12.2.1 Configuring IBM Performance Toolkit for VM IBM Performance Toolkit is installed with z/VM. The configuration is described in the Program Directory for Performance Toolkit for z/VM. Complete the following steps to turn it on (configure the product only if you",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.389471",
+    "chunk_number": 824,
+    "word_count": 158
+  }
+}

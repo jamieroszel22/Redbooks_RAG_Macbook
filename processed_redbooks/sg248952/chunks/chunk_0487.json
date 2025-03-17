@@ -1,0 +1,18 @@
+{
+  "content": "the following definitions of a channel path are shown: \u0002 CHPID FF, assigned to PCHID 20A, is dedicated access for partition 15 of LCSS0. The same applies to CHPID 00,01,02 of LCSS0, and CHPID 00,01,FF of LCSS1. \u0002 CHPID 03, assigned to PCHID 20E, is shared access for partition 2, and 15 of LCSS0. The same applies to CHPID 05 of LCSS1. \u0002 CHPID 06, assigned to PCHID 120 is spanned access for partition 1, 15 of LCSS0, and partition 16, 17 of LCSS1. The same applies to CHPID 04. Channel spanning is supported for internal links (HiperSockets and IC links) and for certain types of external links. External links that are supported on IBM z16 A02 and IBM z16 AGZ configurations include FICON Express32S, FICON Express16S+, OSA-Express7S 1.2, OSA-Express6S, and Coupling Links. The definition of LPAR name, MIF image ID, and LPAR ID are used to identify an LPAR by the channel subsystem to identify I/O functions from different LPARs of multiple LCSSs, which support the implementation of these",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.109978",
+    "chunk_number": 487,
+    "word_count": 170
+  }
+}

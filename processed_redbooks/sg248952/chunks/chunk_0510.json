@@ -1,0 +1,18 @@
+{
+  "content": "IBM z14 ZR1 or IBM z15 T02 systems) \u0002 Crypto Express7S, Feature Codes 0899 (one adapter on card) and 0898 (two adapters on card), carry forward only (MES from z15 systems) 1 CPACF enablement feature must be ordered (FC 3863). Chapter 6. Cryptographic features 207 \u0002 Crypto Express8S, Feature Codes 0909 (one adapter on card) and 0908 (two adapters on card) For more information about the Crypto Express8S feature, see 6.5, \u201cCrypto Express8S\u201d on page 215. Finally, a TKE workstation is required for entering keys in a secure way into the Crypto Express8S HSMs, which often also is equipped with smart card readers. For more information, see 6.6, \u201cTrusted Key Entry workstation\u201d on page 230. The feature codes and purpose of the cryptographic hardware features that are available for IBM z16 A02 and IBM z16 AGZ are listed in Table 6-1. Table 6-1 Cryptographic features for IBM z16 A02 and IBM z16 AGZ Feature code Description 3863 CP Assist for Cryptographic Function (CPACF) enablement This feature",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.193548",
+    "chunk_number": 510,
+    "word_count": 166
+  }
+}

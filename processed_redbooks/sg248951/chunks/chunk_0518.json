@@ -1,0 +1,18 @@
+{
+  "content": "key is used. That decryption of a ciphered message results only in the original clear message when the correct key is used. Therefore, the receiver of a ciphered message must know which algorithm and key must be used to decrypt the message. 6.2.2 Kerckhoffs\u2019 principle In modern cryptography, the algorithm is published and known to everyone, whereas the keys are kept secret. This configuration corresponds to Kerckhoffs\u2019 principle, which is named after Auguste Kerckhoffs, a Dutch cryptographer, who formulated it in 1883: \u201cA system should not depend on secrecy, and it should be able to fall into the enemy\u2019s hands without disadvantage.\u201d In other words, the security of a cryptographic system should depend on the security of the key, so the key must be kept secret. Therefore, the secure management of keys is the primal task of modern cryptographic systems. Adhering to Kerckhoffs\u2019 Principle is done for the following reasons: \u0002 It is much more difficult to keep an algorithm secret than a key.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.240845",
+    "chunk_number": 518,
+    "word_count": 164
+  }
+}

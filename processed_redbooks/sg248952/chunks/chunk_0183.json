@@ -1,0 +1,18 @@
+{
+  "content": "K04 K03 K02 K01 J06 J05 J04 J03 J02 J01 I06 I05 I04 I03 I02 I01 H06 H05 H04 H03 H02 H01 G06 G05 G04 G03 G02 G01 F06 F05 F04 F03 F02 F01 E06 E05 E04 E03 E02 E01 D06 D05 D04 D03 D02 D01 C06 C05 C04 C03 C02 C01 B06 B05 B04 B03 B02 B01 A06 A05 A04 A03 A02 A01 6-way 5-way 4-way 3-way 2-way 1-way Specialty Engine Specialty Engine Specialty Engine Specialty Engine Specialty Engine Specialty Engine \uf0e062 more specialty engines (w/ FC 0675 \u2013 Max68) 62 IBM z16 A02 and IBM z16 AGZ Technical Guide When CBU for CP capacity is acquired by switching from one capacity setting to another, no more CBUs can be requested than the total number of PUs available for that capacity setting. CBU and granular capacity When CBU for CP is ordered, it replaces lost capacity for disaster recovery. Specialty engines (ICFs, IFLs, and zIIPs) always run at full capacity, and when running as a CBU to replace lost capacity for disaster recovery. When you order CBU, specify the maximum number of CPs, ICFs, IFLs, and zIIPs",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.902019",
+    "chunk_number": 183,
+    "word_count": 188
+  }
+}

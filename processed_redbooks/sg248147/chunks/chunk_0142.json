@@ -1,0 +1,18 @@
+{
+  "content": "differences, you must not create a cluster that contains a mix of first-level and second-level z/VM members. Attempting to do so results in unpredictable or catastrophic results. For more information, see z/VM CP Planning and Administration, Version 7 Release 2, SC24-6178. 40 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u0002 Real memory: Real memory resources are important for the source and the destination systems for relocations. You need enough real memory to hold buffers during the relocation on both systems, and accommodate the incoming guest\u2019s working set afterward on the target system. Relocation performance also is affected by the level of overall resource constraint for the source and destination systems. \u0002 Dump space: If you are allocating a large amount of real storage (memory), you must plan for dump space so that if you must collect a system dump, enough space is available to write it to disk. \u0002 Linux distributions and LGR: With the introduction of LGR among members of your",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.702317",
+    "chunk_number": 142,
+    "word_count": 162
+  }
+}

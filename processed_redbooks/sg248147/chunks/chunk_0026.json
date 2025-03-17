@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259 8.3.2 Downloading the service files . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 260 8.3.3 Receive, apply, and build the service . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262 8.3.4 Putting the service into production . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 263 8.4 Applying a program temporary fix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 265 8.4.1 Getting service by using Shopz . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 265 8.4.2 Determining whether a PTF was applied . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 267 8.4.3 Downloading the service to z/VM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 268 8.4.4 Receiving, applying, and building the service . . . . . . . . . . . . . . . . . . . . . . . . . . . 270 8.4.5 Putting",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.247108",
+    "chunk_number": 26,
+    "word_count": 371
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "20 2.4.2 Use cases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 2.4.3 Benefits of watsonx.governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 2.5 Reference architecture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 2.5.1 Data Onboarding. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 2.5.2 Data Preparation. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 2.5.3 AI Building and Deployment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 2.5.4 AI Lifecycle Management and Governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 Chapter 3. Implementing AI governance strategy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 3.1 Understanding the end-to-end AI",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.436264",
+    "chunk_number": 4,
+    "word_count": 386
+  }
+}

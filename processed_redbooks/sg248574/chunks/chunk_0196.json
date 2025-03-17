@@ -1,0 +1,18 @@
+{
+  "content": "which helps ensure enhanced performance and accuracy of the models. Chapter 5. Advanced capabilities of watsonx.ai 83 Figure 5-14 InstructLab fine-tuning process with real-time performance on the 2-phase fine-tuning process with replay buffer In the initial phase, the pre-trained models undergo a rigorous training regimen by using targeted datasets that are pertinent to the specific knowledge areas that are identified within the taxonomy tree. This phase focuses on adapting the general-purpose models to the specialized requirements of the InstructLab projects, which hone their performance to meet the specifications. The second phase uses the skills and continues catastrophic forgetting by using a dedicated replay buffer while fine-tuning the skills in the second phase. The replay buffer mechanism plays a crucial role in this fine-tuning process. By systematically storing and replaying past experiences (training data and model states) during the training sessions, the buffer helps",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.976725",
+    "chunk_number": 196,
+    "word_count": 143
+  }
+}

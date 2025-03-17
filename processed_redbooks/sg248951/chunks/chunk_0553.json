@@ -1,0 +1,18 @@
+{
+  "content": "length variations, TDES today are considered to be insufficiently secure for many applications. They were replaced by AES as the official US standard, but it is still used in the industry with the MAC and the Cipher-based Message Authentication Code (CMAC) for verifying the integrity of messages. \u0002 AES, AESKW, AES GMAC, AES GCM, AES XTS, AES CIPHER mode, and CMAC AES replaced DES as the official US standard in October 2000. The enhanced standards for AES Key Warp (AESKW), AES Galois Message Authentication Code (AES GMAC), and Galois/Counter Mode (AES GCM), the XEX-based tweaked-codebook mode with ciphertext stealing (AES XTS), and CMAC are supported. \u0002 MD5, SHA-1, SHA-2, or SHA-34 (224, 256, 384, and 512), and HMAC The Secure Hash Algorithm (SHA-1 and the enhanced SHA-2 or SHA-3 for different block sizes), the older message-digest (MD5) algorithm, and the advanced keyed-hash method authentication code (HMAC) are used for verifying the data integrity and the authentication of a",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.372916",
+    "chunk_number": 553,
+    "word_count": 158
+  }
+}

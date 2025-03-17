@@ -1,0 +1,18 @@
+{
+  "content": "following functions are examples which depend on the HMC connectivity: \u0002 Lightweight Directory Access Protocol (LDAP) support, which can be used for HMC user authentication \u0002 Network Time Protocol (NTP) \u0002 RSF through broadband \u0002 HMC remote access and HMC Mobile \u0002 RSA SecurID support \u0002 Multi-Factor Authentication with TOTP3 External Time Source (ETS) for STP Other than for previous IBM Z generations, IBM z16 A02 and IBM z16 AGZ is connected to the ETS via two separated RJ45 Ethernet cables which are connected in the CPC drawer(s) front BMC/OSC cards. These two cables and according IP configuration have to be planned if Note: The HMC must be connected to the SEs by using a customer provided switch. Otherwise you will never get a communication from the HMCs to the SEs. Direct connection between HMC and SEs is not supported. 3 Time-based One Time Password Chapter 10. Hardware Management Console and Support Element 415 ETS is used. For further information see <<Chapter 2, Oscillator cards",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.970824",
+    "chunk_number": 992,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Build machine learning models automatically with AutoAI 3. The data scientist enters a name and description for the AutoAI experiment, as shown in Figure 8-67. Figure 8-67 Build machine learning models automatically: Create Chapter 8. Marketing campaign analysis use case 143 4. The data scientist adds data to the AutoAI experiment by clicking Select data from project, as shown in Figure 8-68. Figure 8-68 Marketing Campaign Model Development: Selecting data from a project 5. The data scientist selects the bank_term_deposit table from the marketing_campaign_data schema, as shown in Figure 8-69. Figure 8-69 Selecting an asset 144 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 6. Once the data source is selected for the experiment, the data scientist configures the AutoAI experiment by setting \u201cCreate a time series analysis?\u201d to No, and identifying y as the column to predict. They click Experiment settings to modify additional configuration settings for the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.291092",
+    "chunk_number": 245,
+    "word_count": 152
+  }
+}

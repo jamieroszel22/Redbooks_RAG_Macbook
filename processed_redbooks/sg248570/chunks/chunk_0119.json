@@ -1,0 +1,18 @@
+{
+  "content": "control lists (ACLs), which are a critical mechanism for enforcing security policies at a granular level. ACLs specify which users and groups have the right to access particular resources, which protect data assets from unauthorized access and modifications. This chapter provides a comprehensive guide to securing data in an open lakehouse environment, which enables organizations to harness their data\u2019s potential with confidence while adhering to the highest standards of data protection and compliance. This chapter has the following sections: \u0002 \u201cUsers and groups in an open lakehouse\u201d on page 46 \u0002 \u201cDefining roles and responsibilities\u201d on page 50 4 46 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 4.1 Users and groups in an open lakehouse In IBM watsonx.data, managing users and groups effectively is fundamental to establishing a secure and collaborative open lakehouse environment. As data becomes increasingly accessible to diverse teams within organizations,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.801757",
+    "chunk_number": 119,
+    "word_count": 148
+  }
+}

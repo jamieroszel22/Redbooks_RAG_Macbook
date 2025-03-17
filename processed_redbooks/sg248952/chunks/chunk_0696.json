@@ -1,0 +1,18 @@
+{
+  "content": "High-performance FICON (zHPF) was first provided on System z10\u00ae, and is a FICON architecture for protocol simplification and efficiency. It reduces the number of information units (IUs) that are processed. Enhancements were made to the z/Architecture and the FICON interface architecture to provide optimizations for online transaction processing (OLTP) workloads. zHPF is available on IBM zBC12 and newer IBM Z. On IBM z16 A02 and IBM z16 AGZ, the FICON Express32S and FICON Express16S+(CHPID type FC) concurrently support the existing FICON protocol and the zHPF protocol in the server LIC. When used by the FICON channel, the z/OS operating system, and the DS8000 control unit or other subsystems, the FICON channel processor usage can be reduced and performance improved. Appropriate levels of Licensed Internal Code (LIC) are required. Also, the changes to the architectures provide end-to-end system enhancements to improve reliability, availability, and serviceability (RAS). zHPF is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.961264",
+    "chunk_number": 696,
+    "word_count": 147
+  }
+}

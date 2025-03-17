@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . 16 1.2.4 The hidden secret . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 1.2.5 A community of friends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 1.3 The philosophy that was adopted in authoring this book . . . . . . . . . . . . . . . . . . . . . . . 17 1.4 A high-level overview of components and terminology . . . . . . . . . . . . . . . . . . . . . . . . . 18 1.4.1 Hardware . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 1.4.2 Software . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 1.4.3 z/VM capabilities and enhancements by version and release . . . . . . . . . . . . . . . 22 1.5 Choices and decisions for this book . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 1.6 Single system image",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.164086",
+    "chunk_number": 4,
+    "word_count": 383
+  }
+}

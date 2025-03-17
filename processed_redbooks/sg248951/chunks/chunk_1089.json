@@ -1,0 +1,18 @@
+{
+  "content": "the latest IBM LSPR measurements), see the Getting Started with IBM z Processor Capacity Reference. As described in 12.5, \u201cLSPR workload categories based on L1MP and RNI\u201d on page 481, the underlying performance sensitive factor is how a workload interacts with the processor hardware. 12.7 CPU MF counter data and LSPR workload type Beginning with the z10 processor, the hardware characteristics can be measured by using CPU MF (SMF 113) counters data. A production workload can be matched to an LSPR workload category through these hardware characteristics. For more information about RNI, see 12.5, \u201cLSPR workload categories based on L1MP and RNI\u201d on page 481. The AVERAGE RNI LSPR workload is intended to match most client workloads. When no other data is available, use the AVERAGE RNI LSPR workload for capacity analysis. Low-Average and Average-High categories allow better granularity for workload characterization but these categories can apply on IBM zPCR only. The CPU MF data can be used",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.270812",
+    "chunk_number": 1089,
+    "word_count": 158
+  }
+}

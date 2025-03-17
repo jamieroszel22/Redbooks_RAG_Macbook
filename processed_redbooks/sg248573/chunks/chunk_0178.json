@@ -1,0 +1,18 @@
+{
+  "content": "which are working towards similar goals. Before setting up lifecycle monitoring for the AI assets, we will set up our AI use case in watsonx.governance. AI use case and AI factsheet setup Follow these steps to set up the AI use case in watsonx.govenance: 1. Use the Options menu from the watsonx home page to access the AI use cases page (under AI governance \u2192 AI use cases). See Figure 6-3 on page 67. Chapter 6. Governing the end-to-end lifecycle of an AI asset 67 Figure 6-3 AI use cases 2. Create a new inventory using the options menu from the AI use cases page. Be sure to activate Governance Console integration to ensure that your AI Inventory is synced with your Governance console. This synchronization effect persists throughout the work done in this chapter. 3. Once the new inventory is created, create an AI use case and fill out all details for that AI use case. Any details posted to this AI use case will also be reflected in the Governance Console. With an AI use case successfully",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.112796",
+    "chunk_number": 178,
+    "word_count": 179
+  }
+}

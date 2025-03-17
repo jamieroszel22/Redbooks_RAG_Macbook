@@ -1,0 +1,18 @@
+{
+  "content": "sizes, which match up with what used to be IBM 3270 - 3279 machine types: \u0002 80x24 \u0002 80x32 \u0002 80x43 \u0002 132x27 \u0002 160x43 You find that a larger size allows you to be much more productive, and can display much more information. It also provides the opportunity to use more advanced tools, such as Fullscreen CMS. Fullscreen CMS For more information about Fullscreen CMS, see this web page. DirMaint modifications Example 15-13 shows a snippet from a CONFIGAA DATADVH file that was used to override DirMaint defaults, which makes the output lines longer to eliminate wrapping. This change overrides the 52 or 73 character line length. DirMaint displays output lines of 127 characters before wrapping them. For a 160-column screen, 127 characters works well. Example 15-13 Overriding DirMaint line size 00053 // By default, DirMaint will dynamically select a message output length 00054 // of either 52 or 73 characters. User's may select a \"language\" whose 00055 // messages are formatted for a line length",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.828362",
+    "chunk_number": 953,
+    "word_count": 167
+  }
+}

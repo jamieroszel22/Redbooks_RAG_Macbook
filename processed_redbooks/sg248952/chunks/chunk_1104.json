@@ -1,0 +1,18 @@
+{
+  "content": "transfer \u0002 Database \u0002 In-application Data compression delivers the following benefits: \u0002 Disk space savings \u0002 Improved elapse times \u0002 Reduced CPU consumption \u0002 Reduced network bandwidth requirements and transfer times Many clients increased their zEDC footprint to 8GBps with up to 16 features per IBM z14 system at 1 GBps throughput per feature (redundancy reduces total throughput to 8 GBps). While the zEDC PCIe feature provided CPU savings by offloading the select compression and decompression operations, it had also the drawback of limited virtualization capabilities (one zEDC PCIe feature could be shared across a maximum of 15 LPARs) as well as limited bandwidth. IBM z15 introduced for the first time an on-chip accelerator (implemented in the PU chip) for compression and decompression operations, which was tied directly into processor\u2019s L3 cache, thus providing much higher bandwidth as well as removing the virtualization limitations of a PCIe feature. The IBM z16 A02 and IBM z16 AGZ",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.309444",
+    "chunk_number": 1104,
+    "word_count": 156
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "you are encouraged to explore. IBM provides the library content on an \u201cas-is\u201d basis. IBM might not review all of the library content so you must use your discretion to determine whether a package is appropriate for your environment. If you want to download a package, this section provides the information about downloading. As you become more experienced with the z/VM platform, you might create tools and utilities yourself, which you are encouraged to share. 15.1.1 CMS-based z/VM web browser To use the CMS web browser, called Charlotte, it must be reblocked and then, unpacked. Reblocking means reorganizing a file so that it correctly wraps each line. In section 6.7, \u201cEnabling and configuring RACF\u201d on page 155, the VMARC was placed at VMPSFS:VMWW2. Complete the following steps: 1. Log on as either MAINT or MAINT720 on the first node in the cluster. 2. Access VMPSFS:VMWW2 as W read/write and VMPSFS:MAINT720.UTILS.VMARC as V: ===> access vmpsfs:vmww2. W (forcerw ===> access",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.739327",
+    "chunk_number": 932,
+    "word_count": 159
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "scheme behind the main prompt solution is shown in Figure 6-3. Figure 6-3 Logical prompt schema definition for agents 92 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai This system prompt is a structured set of instructions that encapsulates the core task, and defines the role of the LLM, the expected output schema, and the instructions that the model should follow. As shown in Figure 6-3 on page 91, the system prompt integrates multiple critical elements: \u0002 Memory: Provides contextual data or historical interactions that the LLM can leverage to maintain continuity and relevance in responses. This approach helps ensure that the agent adapts dynamically to ongoing tasks or user needs. \u0002 Role definition: Specifies the persona or role that the agent assumes (for example, a customer support assistant, a data scientist, or a creative writer), and aligns the behavior and tone of the LLM with the intended use case. Example 6-1 shows an example of a role prompt",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.057806",
+    "chunk_number": 215,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "248 \u0002 7.4, \u201cSupport by features and functions\u201d on page 260 \u0002 7.5, \u201cz/OS migration considerations\u201d on page 309 \u0002 7.6, \u201cIBM z/VM migration considerations\u201d on page 314 \u0002 7.7, \u201c21CS VSEn migration considerations\u201d on page 313 \u0002 7.8, \u201cSoftware licensing\u201d on page 316 \u0002 7.9, \u201cReferences\u201d on page 318 7 244 IBM z16 A02 and IBM z16 AGZ Technical Guide 7.1 Operating systems summary The minimum operating system levels that are required on IBM z16 A02 and IBM z16 AGZ are listed in Table 7-1. Table 7-1 IBM z16 A02 and IBM z16 AGZ minimum operating systems requirements The use of certain features depends on the operating system. In all cases, program temporary fixes (PTFs) might be required with the operating system level that is indicated. Check the z/OS fix categories, or the subsets of the 3932DEVICE (IBM z16 A02 and IBM z16 AGZ) PSP buckets for z/VM. The fix categories and the PSP buckets are continuously updated, and contain the latest information about maintenance: \u0002 Hardware and software",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.565403",
+    "chunk_number": 598,
+    "word_count": 170
+  }
+}

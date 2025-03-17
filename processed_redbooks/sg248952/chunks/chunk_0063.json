@@ -1,0 +1,18 @@
+{
+  "content": "considerations\u201d on page 3 \u0002 1.2, \u201cIBM z16 A02 and IBM z16 AGZ highlights\u201d on page 6 \u0002 1.3, \u201cIBM z16 A02 and IBM z16 AGZ technical overview\u201d on page 10 \u0002 1.4, \u201cHardware management\u201d on page 18 \u0002 1.5, \u201cReliability, availability, and serviceability(RAS)\u201d on page 19 Chapter 1. Introduction and overview 3 1.1 Design considerations More than any other platform, the IBM z16 A02 and IBM z16 AGZ offer a high-value architecture that can satisfy the growing demands that are driven by the pace of digital transformation, such as: \u0002 IBM Secure Execution for Linux\u00ae: A second-generation hardware-based security technology designed to provide scalable isolation for individual workloads to help protect them from not only external attacks, but also insider threats. It can help protect and isolate workloads on-premises, or on IBM Z hybrid cloud environments. \u0002 New processor Chip design: The IBM z16 A02 and z16 AGZ, built with the IBM Telum (TM) processor, provide dedicated on-chip accelerators to enable",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.380941",
+    "chunk_number": 63,
+    "word_count": 162
+  }
+}

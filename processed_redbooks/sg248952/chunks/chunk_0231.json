@@ -1,0 +1,18 @@
+{
+  "content": "optimized by increasing the Global Completion Table (GCT) from 48x3 to 60x3, which increased the issue queue size from 2x30 to 2x36 and designed a new Mapper. This implementation requires special circuitry to make execution and memory accesses display in order to the software. The logical diagram of an IBM z16 A02 and IBM z16 AGZ core is shown in Figure 3-11 on page 86. 86 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 3-11 IBM z16 A02 and IBM z16 AGZ PU core logical diagram Memory address generation and memory accesses can occur out of (program) order. This capability can provide a greater use of the IBM z16 A02 and IBM z16 AGZ superscalar core, and improve system performance. The IBM z16 A02 and IBM z16 AGZ processor unit core is a superscalar, out-of-order, SMT processor with eight execution units. Up to six instructions can be decoded per cycle, and up to 12 instructions or operations can be started to run per clock cycle (0.192 ns). The execution of the instructions can occur",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.092885",
+    "chunk_number": 231,
+    "word_count": 176
+  }
+}

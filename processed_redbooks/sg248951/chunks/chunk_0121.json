@@ -1,0 +1,18 @@
+{
+  "content": "various system elements are managed through the base management cards (BMCs). The BMC is the replacement for the previous Flexible Support Processors (FSPs) that were used in previous systems. With IBM z16 Model A01, the CPC drawer BMC is combined with the Oscillator card in a single Field Replaceable Unit (FRU). Two combined BMC/OSC cards are used per CPC drawer. Also, the PCIe+ I/O drawer has an improved BMC. Each BMC card has one Ethernet port that connects to the internal Ethernet LANs through the internal network switches (SW1, SW2, and SW3, SW4, if configured). The BMCs communicate with the SEs and provide a subsystem interface (SSI) for controlling components. Tip: STP is available as FC 1021. It is implemented in the Licensed Internal Code (LIC), and allows servers to maintain time synchronization with each other and synchronization to an ETS. In a multi-server STP Coordinated Timing Network (CTN) coupling/timing links are required for STP communication For more information,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.617949",
+    "chunk_number": 121,
+    "word_count": 159
+  }
+}

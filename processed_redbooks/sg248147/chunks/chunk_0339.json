@@ -1,0 +1,18 @@
+{
+  "content": "description of other resources that are available to the system. The system configuration file is on a partition of a volume that is called minidisk and it is allocated as PARM. This minidisk is under user ID PMAINT, and it is address is CF0. The file is called SYSTEM CONFIG by default, although you can change the name in your installation. 6.5 Editing the z/VM SYSTEM CONFIG file The first configuration file that is read when z/VM IPLs is the SYSTEM CONFIG file. Only one SYSTEM CONFIG file exists for each SSI cluster. As a system programmer, you must become familiar with the SYSTEM CONFIG file. The SYSTEM CONFIG file contains the primary system definitions that are used when the control program (CP) is booted (IPL). All of the information that is needed to configure CP statically comes from this file. Tip: As a best practice, always run a CPSYNTAX check after modifying SYSTEM CONFIG to check whether errors exist on this file. 144 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 In an SSI",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.528745",
+    "chunk_number": 339,
+    "word_count": 174
+  }
+}

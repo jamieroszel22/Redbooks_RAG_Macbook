@@ -1,0 +1,18 @@
+{
+  "content": "using SR optics and multimode fiber terminated with LC connector, while 25GbE RoCE Express3 LR (FC 0453) connects using LR optics and single mode fiber terminated with LC connector. Support for select Linux on IBM Z distributions is provided for Shared Memory Communications over Remote Direct Memory Access (SMC-R) by using RoCE Express features. For more information, see this Linux on IBM Z Blogspot web page. The RoCE Express3 features can also provide local area network (LAN) connectivity for Linux on IBM Z, and comply with IEEE standards. In addition, RoCE Express features assume several functions of the TCP/IP stack that normally are performed by the PU, which allows significant performance benefits by offloading processing from the operating system. Note: An optional feature can be ordered for WWPN persistency before shipment to keep the same I/O serial number on the new CPC. Current information must be provided during the ordering process. Chapter 7. Operating system support 293",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.059472",
+    "chunk_number": 722,
+    "word_count": 157
+  }
+}

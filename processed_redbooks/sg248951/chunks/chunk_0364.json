@@ -1,0 +1,18 @@
+{
+  "content": "threats and data manipulation by privileged users. IBM SSC is a powerful IBM technology for providing the extra protection of the most sensitive workloads. The following IBM solutions and offerings, and more to come, can be deployed in an IBM SSC environment: \u0002 IBM Hyper Protect Virtual Servers (HPVS) solution is available for running Linux-based virtual servers with sensitive data and applications delivering a confidential computing environment to address your top security concerns. For more information, see this IBM Cloud\u00ae web page. \u0002 IBM Db2 Analytics Accelerator (IDAA) is a high-performance component that is tightly integrated with Db2 for z/OS. It delivers high-speed processing for complex Db2 queries to support business-critical reporting and analytic workloads. The accelerator transforms the mainframe into a hybrid transaction and analytic processing (HTAP) environment. For more information, see this IBM web page. \u0002 IBM Cloud Hyper Protect Data Base as a Service (DBaaS) for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.653013",
+    "chunk_number": 364,
+    "word_count": 149
+  }
+}

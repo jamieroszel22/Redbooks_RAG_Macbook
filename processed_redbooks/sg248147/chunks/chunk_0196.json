@@ -1,0 +1,18 @@
+{
+  "content": "against the use of the range 0100 - 06FF because it competes with z/VM volumes in the same range. Chapter 2. Planning 61 Recent versions The following commonly adopted practices are used for retaining previous versions of files: \u0002 The \u201cit works\u201d method. \u0002 The \u201cnow minus\u201d method. Both methods are described next and use the SYSTEM CONFIG file as an example to help you decide which makes the most sense for you: \u0002 It works: \u2013 Only the most recent working copy is retained and uses the suffix WRKS (for \u201cit WORKS\u201d). \u2013 Before editing, SYSTEM CONFIG is copied to the file SYSTEM CONFWRKS. In this fashion, a copy of the original, a copy of the current, and the last working copy of configuration files always exist. \u0002 Now minus; typically referred to as n minus: \u2013 Several recent working copies are retained and use the suffixes -1, -2, -3, and so on. \u2013 Before editing, SYSTEM CONFIG is copied to the file SYSTEM CONF-1. \u2013 If SYSTEM CONF-1 exists, it is renamed to the file SYSTEM CONF-2 first. This",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.938447",
+    "chunk_number": 196,
+    "word_count": 181
+  }
+}

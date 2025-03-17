@@ -1,0 +1,18 @@
+{
+  "content": "commands . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 341 Chapter 11. Deploying and maintaining Linux workloads . . . . . . . . . . . . . . . . . . . . . 345 11.1 Planning a Linux virtual machine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 346 11.2 Considerations for disk storage types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 346 11.2.1 Direct-attached storage devices (DASD) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 346 11.2.2 Direct-attached Fibre Channel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 348 11.2.3 Emulated DASD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 352 11.2.4 Minidisks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 356 11.2.5 HyperPAV . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.265999",
+    "chunk_number": 33,
+    "word_count": 387
+  }
+}

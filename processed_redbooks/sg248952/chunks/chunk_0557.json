@@ -1,0 +1,18 @@
+{
+  "content": "original credit card number to process the transaction. AES PIN support for the German banking industry The German banking industry organization, DK, defined a new set of PIN processing functions to be used on the internal systems of banks and their servers. CCA is designed to support the functions that are essential to those parts of the German banking industry that are governed by DK requirements. The functions include key management support for new AES key types, AES key derivation support, and several DK-specific PIN and administrative functions. This support includes PIN method APIs, PIN administration APIs, new key management verbs, and new access control points support that is needed for DK-defined functions. Support for the updated German Banking standard (DK) Update support requires ICSF WD19 (HCR77D1) for z/OS V2R2, V2R3, and V2R4. PKA Translate UDX function into CCA UDX is custom code that allows the client to add unique operations or extensions to the CCA firmware. Certain",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.388596",
+    "chunk_number": 557,
+    "word_count": 158
+  }
+}

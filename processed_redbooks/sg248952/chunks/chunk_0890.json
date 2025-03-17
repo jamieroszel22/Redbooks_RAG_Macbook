@@ -1,0 +1,18 @@
+{
+  "content": "instructions are used to obtain processor information: \u0002 Store System Information (STSI) instruction The STSI instruction can be used to obtain information about the current execution environment and any processing level below the current environment. It can be used to obtain processor model and model capacity identifier information from the basic machine configuration form of the system information block (SYSIB). It supports concurrent upgrades and is the recommended way to request processor information. \u0002 Store CPU ID (STIDP) instruction STIDP returns information that identifies the execution environment, system serial number, and machine type. Note: To ensure unique identification of the configuration of the issuing CPU, use the STSI instruction specifying basic machine configuration (SYSIB 1.1.1). 360 IBM z16 A02 and IBM z16 AGZ Technical Guide Store System Information instruction The format of the basic machine configuration SYSIB that is returned by the STSI instruction is shown",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.624189",
+    "chunk_number": 890,
+    "word_count": 146
+  }
+}

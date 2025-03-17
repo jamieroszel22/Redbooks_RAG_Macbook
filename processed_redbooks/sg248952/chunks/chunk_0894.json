@@ -1,0 +1,18 @@
+{
+  "content": "dynamic I/O configuration function is disruptive to that partition. Linux, 21CS VSEn, and z/TPF do not support dynamic I/O configuration. You can minimize the need for these outages by carefully planning and reviewing \u201cGuidelines to avoid disruptive upgrades\u201d on page 362. Guidelines to avoid disruptive upgrades Based on the reasons for disruptive upgrades (see \u201cPlanning for nondisruptive upgrades\u201d on page 362), you can use the following guidelines to avoid or at least minimize these situations, which increases the chances for nondisruptive upgrades: \u0002 By using an SE function that is called Logical Processor add, which is under Operational Customization tasks, CPs and zIIPs can be added concurrently to a running partition. The CP and zIIP and initial or reserved number of processors can be changed dynamically. \u0002 The operating system that runs in the targeted LPAR must support the dynamic addition of resources and to configure processors online. The total number of defined and reserved",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.635889",
+    "chunk_number": 894,
+    "word_count": 155
+  }
+}

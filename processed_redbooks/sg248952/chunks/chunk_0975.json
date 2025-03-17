@@ -1,0 +1,18 @@
+{
+  "content": "With Driver 51/Version 2.16.0 we improved the notification if you are on a HMC with role Replica and open a panel where data replication is involved. On Figure 10-11 you can see an example of an notification on a HMC with role Replica. Figure 10-11 Notification for a task with has relation to Data Replication on a HMC with Replica role Also the wizard to do the settings for Data Replication has changed for better and common visibility. There is a new category for \u201cData types\u201d with the name \u201cCertificates\u201d. Trusted server certificates (not the secure boot certificates) can be replicated. Trusted server certificates can be for: \u2013 LDAP server \u2013 MFA server \u2013 3270 server 404 IBM z16 A02 and IBM z16 AGZ Technical Guide \u2013 Syslog server \u2013 FTP server \u0002 Remote Code Load (RCL) The Remote Code Load for IBM Z allows IBM to upgrade a machine remotely by working with the client to schedule a date and time for the code load and monitor the process to make sure it completes successfully. This feature",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.915834",
+    "chunk_number": 975,
+    "word_count": 178
+  }
+}

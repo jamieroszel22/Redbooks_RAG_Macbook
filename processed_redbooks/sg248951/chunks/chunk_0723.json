@@ -1,0 +1,18 @@
+{
+  "content": "limited to TCP/IP connections over the same layer 2 network, it was not routable across multiple IP subnets. The associated TCP/IP connection was limited to hosts within a single IP subnet that required the hosts to have direct access to the same physical layer 2 network (that is, the same Ethernet LAN over a single VLAN ID). The scope of eligible TCP/IP connections for SMC was limited to and defined by the single IP subnet. SMC Version 2 (SMCv2) provides support for SMC over multiple IP subnets for both SMC-D and SMC-R and is referred to as SMC-Dv2 and SMC-Rv2. SMCv2 requires updates to the underlying network technology. SMC-Dv2 requires ISMv2 and SMC-Rv2 requires RoCEv2. The SMCv2 protocol is downward compatible, which allows SMCv2 hosts to continue to communicate with SMCv1 previous hosts. Although SMCv2 changes the SMC connection protocol to enable multiple IP subnet support, SMCv2 does not change how user TCP socket data is transferred, which preserves the benefits of SMC to TCP",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.063825",
+    "chunk_number": 723,
+    "word_count": 165
+  }
+}

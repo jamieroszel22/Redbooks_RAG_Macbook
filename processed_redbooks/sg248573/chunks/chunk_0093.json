@@ -1,0 +1,18 @@
+{
+  "content": "quality, drift, fairness, explainability, and other relevant indicators specific to the use case. The ongoing monitoring metrics are published in the Governance Console in watsonx.governance. Each metric has associated thresholds, and alerts can be configured in the Governance Console to notify relevant stakeholders, such as the AI Use Case Owner or AI Risk Reviewer, when these thresholds are breached. Once the appropriate parties receive notifications about threshold breaches, they can initiate the investigation process or follow the procedures for issue and change management, which may involve redeveloping a new version or completely different AI asset. Facts, documentation, and evidence regarding AI assets are collected and stored in watsonx.governance for future reviews and audits by regulatory agencies, internal stakeholders, and external parties. Additionally, specific reports related to the AI lifecycle and its stages can be generated in the Governance Console of",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.799477",
+    "chunk_number": 93,
+    "word_count": 140
+  }
+}

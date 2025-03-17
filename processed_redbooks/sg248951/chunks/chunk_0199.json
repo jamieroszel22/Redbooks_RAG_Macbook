@@ -1,0 +1,18 @@
+{
+  "content": "when the workload changes to achieve the best system throughput. This process can be done by using the Intelligent Resource Director or the Workload Manager functions, which are assisted by HiperDispatch. 1 Federal Information Processing Standard (FIPS) 140-2 Security Requirements for Cryptographic Modules. Chapter 3. Central processor complex design 71 \u0002 Have a balanced system design with pervasive encryption, which provides large data rate bandwidths for high-performance connectivity along with processor and system capacity, while protecting every byte that enters and exits the IBM z16. The remaining sections in this chapter describe the IBM z16 system structure. It shows a logical representation of the data flow from PUs, caches, memory cards, and various interconnect capabilities. 3.3 CPC drawer design An IBM z16 A01 system can have up to four CPC drawers in a full configuration, with up to 200 PUs that can be characterized for customer use, and up to 40 TB of customer usable",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.975149",
+    "chunk_number": 199,
+    "word_count": 155
+  }
+}

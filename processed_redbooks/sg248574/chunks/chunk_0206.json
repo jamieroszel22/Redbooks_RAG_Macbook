@@ -1,0 +1,18 @@
+{
+  "content": "Artificial intelligence agents 89 To design a robust and efficient agent core, you must define several foundation aspects that serve as the blueprint for the agent\u2019s behavior: \u0002 The general goals of the agent must be established. These goals act as the guiding principles that dictate the agent\u2019s actions and responses, which help ensure that its operations align with the overarching objectives that it is designed to achieve. Without clear goals, the agent risks becoming unfocused or inefficient. \u0002 Another critical aspect of the agent core is the explicit definition of the tools that are available for execution, which involves creating a comprehensive \u201cuser manual\u201d that counts and describes all tools at the agent's disposal. Each tool\u2019s capabilities, limitations, and specific use cases should be outlined to enable the agent to allocate resources effectively and run tasks with precision. \u0002 Furthermore, the agent core must provide detailed guidance about the utilization of planning",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.020261",
+    "chunk_number": 206,
+    "word_count": 153
+  }
+}

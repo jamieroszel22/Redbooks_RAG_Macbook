@@ -1,0 +1,18 @@
+{
+  "content": "in review? This section will cover how watsonx.governance can be used to answer these questions and more. 4.2.1 Model licensing Standard software licensing applies to all foundation models and is a great place for the legal team to begin. Once foundation models are published, they are packaged with a license which provides a great depth of detail as to how the model can and should be used. These licenses can be found at multiple places. In watsonx.governance, the model license can be found attached to Model cards. You can access the model card by using the hamburger menu and clicking through Inventory \u2192 Models \u2192 Choose a specific model. The license will be listed under Development/Training. The model license can also be found on the model card in watsonx.ai, under terms. Finally, before the acceptance of a foundation model onto the watsonx.governance platform, a legal team may obtain the model License through the official publication page. As of this writing, any model which is",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.940634",
+    "chunk_number": 132,
+    "word_count": 164
+  }
+}

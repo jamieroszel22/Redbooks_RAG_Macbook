@@ -1,0 +1,18 @@
+{
+  "content": "complex hardware components 27 2.1.5 System configurations for IBM z16 A02 All system components are designed and integrated in an IBM 19-inch frame for the IBM z16 A02. Sample configuration of the system (rear view) is shown in Figure 2-2 on page 23 (systems with two CPC drawers). The IBM z16 A02 is built in a 19-inch form factor, 42 EIA units frame (A-frame). The base frame is 40 EIA units high with a 2U removable top. FC 9975 is available if a height reduction is necessary. Single CPC drawer system PCIe+ I/O drawers are provided as required by the number of I/O adapters ordered. For systems with a single CPC drawer, the PCIe+ I/O drawers (1, 2, and 3) are installed in order in the following EIA locations: A01B, A20B, and A28B. The possible configurations for an IBM z16 A02 (viewed from the rear of the system) are shown in \u201cIBM z16 A02 - Single Frame (Factory Frame) configurations\u201d on page 484. The number of PDUs depends on the system configuration. A system with a single CPC drawer",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.648512",
+    "chunk_number": 124,
+    "word_count": 179
+  }
+}

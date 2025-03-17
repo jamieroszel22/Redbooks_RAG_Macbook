@@ -1,0 +1,18 @@
+{
+  "content": "for Linux guest use. IBM z16 A02 and IBM z16 AGZ support the HiperSockets Completion Queue function that is designed to allow HiperSockets to transfer data synchronously (if possible) and asynchronously, if necessary. This feature combines ultra-low latency with more tolerance for traffic peaks. With the asynchronous support, data can be temporarily held until the receiver has buffers that are available in its inbound queue during high volume situations. The HiperSockets Completion Queue function requires the following minimum Operating Systems support11: \u0002 z/OS V2.2 with PTFs \u0002 Linux on IBM Z distributions: \u2013 Red Hat Enterprise Linux (RHEL) 6.2 \u2013 SUSE Linux Enterprise Server (SLES) 11 SP2 \u2013 Ubuntu server 16.04 LTS \u0002 21CS VSEn V6.3 \u0002 z/VM V6.412 with maintenance The z/VM virtual switch function transparently bridges a guest virtual machine network connection on a HiperSockets LAN segment. This bridge allows a single HiperSockets guest virtual machine network connection to communicate",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.948116",
+    "chunk_number": 445,
+    "word_count": 152
+  }
+}

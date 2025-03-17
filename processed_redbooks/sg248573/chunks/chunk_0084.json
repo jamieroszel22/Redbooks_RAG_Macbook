@@ -1,0 +1,18 @@
+{
+  "content": "Trustworthy AI with IBM watsonx.governance \u0002 Inferencing payload data can be auto-logged for fully automated runtime model monitoring. This comprehensive approach allows organizations to balance rapid innovation with the responsibility of managing AI risks effectively. The combined capabilities help businesses streamline their workflows and maintain an audit trail, enabling a seamless interplay between AI development and AI governance. 2.5 Reference architecture Figure 2-2 illustrates a reference architecture for an end-to-end AI and data solution that leverages the IBM watsonx platform and IBM Cloud Pak for Data. This architecture is designed to build, test, deploy, manage, govern, and consume AI solutions across the enterprise. Figure 2-2 Reference architecture for integrated AI and data platform for an enterprise using IBM watsonx 2.5.1 Data Onboarding The left side of Figure 2-2 illustrates the existing and legacy data sources that drive the organization's day-to-day operations.",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.768295",
+    "chunk_number": 84,
+    "word_count": 141
+  }
+}

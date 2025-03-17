@@ -1,0 +1,18 @@
+{
+  "content": "the context of installing z/VM, the word traditional is confusing to many who are new to z/VM. To help clarify, whenever you see mention of traditional installation, imagine instead that the text says new installation. The traditional method installs a new z/VM system (stand-alone or as the first member of a VMSSI cluster), which can then be customized according to your needs Upgrade installations An upgrade installation is used to perform an upgrade-in-place installation to migrate from z/VM 6.4 or 7.1 to z/VM 7.2. A new release system is used as a staging system that is installed in a second level system of your current system. This upgrade-in-place process essentially performs the following tasks: \u0002 Creates a clone of your current system to run as a second level system. \u0002 Upgrades the cloned system to z/VM Version 7 Release 2. \u0002 After upgrade is complete, moves the new level of code to the current system with minimal impact. If your current system is a VMSSI cluster, you can",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.665764",
+    "chunk_number": 134,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "RPISET113W TURNING CONTROL ON AUTOMATICALLY FOR: APPCPWVL RPISET113W TURNING CONTROL ON AUTOMATICALLY FOR: MDISK RPISET113W TURNING CONTROL ON AUTOMATICALLY FOR: RSTDSEG RPISET113W TURNING CONTROL ON AUTOMATICALLY FOR: RDEVCTRL RPISET126I SETEVENT COMPLETED SUCCESSFULLY. RACF can now allow SMAPI to do its job. It is recommended that you follow the instructions that are described in 3., \u201cTest SMAPI from Linux by using smaclient.\u201d on page 333 and 10.5.10, \u201cTesting SMAPI from Linux by using smaclient\u201d on page 339. 6.7.8 Configuring LogonBy processing RACF can be configured to require users to log on with their own credentials. This procedure is called LogonBy processing. LogonBy processing is required for a correct audit trail because it allows SMF to capture each individual\u2019s access. A similar procedure is also available for DirMaint in 6.14.2, \u201cUsing LOGONBY for correct accountability\u201d on page 218. The function of LOGONBY is similar to the use of SURROGAT class profiles in z/OS. It is",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.806797",
+    "chunk_number": 410,
+    "word_count": 153
+  }
+}

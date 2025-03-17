@@ -1,0 +1,18 @@
+{
+  "content": "entitlement. The PR/SM memory and logical processor resources allocation goal is to place all partition resources on a single CPC drawer, if possible. The resources, such as memory and logical processors, are assigned to the logical partitions at the time of their activation. Later on, when all partitions are activated, PR/SM can move memory between CPC drawers to benefit the performance of each LPAR, without operating system knowledge. This process was done on the previous families of IBM Z servers only for PUs that use PR/SM dynamic PU reallocation. 114 IBM z16 (3931) Technical Guide With IBM z16 servers, this process occurs whenever the configuration changes, such as in the following circumstances: \u0002 Activating or deactivating an LPAR \u0002 Changing the LPARs processing weights \u0002 Upgrading the system through a temporary or permanent record \u0002 Downgrading the system through deactivation of a temporary record PR/SM schedules a global reoptimization of the resources in use. It does so by",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.366084",
+    "chunk_number": 289,
+    "word_count": 158
+  }
+}

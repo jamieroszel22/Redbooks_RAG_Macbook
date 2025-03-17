@@ -1,0 +1,18 @@
+{
+  "content": "reassignment\u201d on page 125. When a CPC drawer is added concurrently after POR and new LPARs are activated, or processor capacity for active partitions is dynamically expanded, the extra PU capacity can 14 IBM zHyperLink Express1.1 and IBM zHyperLink Express are not managed by Resource Groups LIC 15 A10 & A15 for the IBM z16 A02. For the IBM z16 AGZ configurations, rack position is decided by client. 114 IBM z16 A02 and IBM z16 AGZ Technical Guide be assigned from the new CPC drawer. The processor unit assignment rules consider the newly installed CPC drawer dynamically. 3.5.10 Sparing rules On a IBM z16 A02 and IBM z16 AGZ configuration, all features have two (2) spares. These spare PUs are available to replace any two characterized PUs, whether they are CP, IFL, ICF, zIIP, SAP, or IFP. Systems with a failed PU for which no spare is available call home for a replacement. A system with a failed PU that is spared and requires an DCM to be replaced (referred to as a pending repair) can",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.375496",
+    "chunk_number": 295,
+    "word_count": 176
+  }
+}

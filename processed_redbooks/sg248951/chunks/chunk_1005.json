@@ -1,0 +1,18 @@
+{
+  "content": "255.0). Following on to LPAR absolute capping, LPAR group absolute capping uses a similar method to enforce the following components: \u0002 Customer licensing \u0002 Non-z/OS partitions where group soft capping is not an option \u0002 z/OS partitions where ISV does not support software capping A group name, processor capping value, and partition membership are specified at the hardware console, along with the following properties: \u0002 Set an absolute capacity cap by CPU type on a group of LPARs. \u0002 Allow each of the partitions to use capacity up to their individual limits if the group\u2019s aggregate consumption does not exceed the group absolute capacity limit. \u0002 Include updated SysEvent QVS support (used by vendors who implement software pricing). \u0002 Only shared partitions are managed in these groups. \u0002 Specify caps for one or more processor types in the group. \u0002 Specify in absolute processor capacity (for example, 2.5 processors). \u0002 Use Change LPAR Group Controls (as with windows that are used for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.998567",
+    "chunk_number": 1005,
+    "word_count": 162
+  }
+}

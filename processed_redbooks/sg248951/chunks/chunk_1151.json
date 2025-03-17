@@ -1,0 +1,18 @@
+{
+  "content": "activated until the machine\u2019s HWM. On System B, the Flexible Capacity record is installed, but not activated. The setup process is now complete (see Figure D-6). Figure D-6 Flexible Capacity activated record Transferring capacity After the set up is complete, it is possible to transfer capacity and workload from Site A to Site B. This process can be automated by using GDPS technology. GCP (general-purpose processor) capacity is transferred by using licensed MIPS. However, you cannot activate half a CP. Therefore, it is the customer\u2019s responsibility to stay under the licensed amount of MIPS; otherwise, extra charges are incurred for the use that is greater than the licensed MIPS. Appendix D. Tailored Fit Pricing and IBM Z Flexible Capacity for Cyber Resiliency 523 After the Flexible Capacity record is active on both sites, a time limit of 24 hours begins in which workloads can be transferred from Site A to Site B without leading to more charges. During this time window, Flexible",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.407546",
+    "chunk_number": 1151,
+    "word_count": 162
+  }
+}

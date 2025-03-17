@@ -1,0 +1,18 @@
+{
+  "content": "More CPC drawers can be installed concurrently, which allows further memory upgrades by LICCC, and enables memory capacity on the new CPC drawers. By using the previously defined reserved memory, z/OS operating system images, and z/VM partitions, you can dynamically configure more memory online. This process allows nondisruptive memory upgrades. Linux on IBM Z supports Dynamic Storage Reconfiguration. I/O I/O features can be added concurrently if all the required infrastructure (I/O slots and PCIe Fanouts) is present in the configuration. PCIe+ I/O drawers can be added concurrently without planning if free space is available in one of the frames and the configuration permits. Dynamic I/O configurations are supported by certain operating systems (z/OS and z/VM), which allows nondisruptive I/O upgrades. Dynamic I/O reconfiguration on a stand-alone coupling facility system is also possible using the Dynamic I/O activation for stand-alone CF CPCs features. Cryptographic adapters Crypto",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.618219",
+    "chunk_number": 888,
+    "word_count": 145
+  }
+}

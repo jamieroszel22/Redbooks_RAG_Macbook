@@ -1,0 +1,18 @@
+{
+  "content": "low-cost object storage; extract more value from the data in ineffective data lakes. Some of the key capabilities of watsonx.data are: \u0002 Scaling for BI across all data with multiple high-performance query engines optimized for different workloads (for example: Presto, Spark, Db2, Netezza, and so forth. \u0002 Enabling data-sharing between these different engines. \u0002 Using shared common data storage across data lake and data warehouse functions, avoiding unnecessary time-consuming ETL/ELT jobs. \u0002 Eradicating unnecessary data duplication and replication. \u0002 Providing consistent governance, security, and user experience across hybrid multi-clouds. \u0002 Leveraging an open and flexible architecture built on open source without vendor lock-in. \u0002 The ability to be deployed across hybrid-cloud environments (on-premises, private, public clouds) on multiple hyperscalers. \u0002 Offering a wide range of prebuilt integration capabilities incorporating IBM data-fabric capabilities. \u0002 Providing global governance",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.652961",
+    "chunk_number": 80,
+    "word_count": 136
+  }
+}

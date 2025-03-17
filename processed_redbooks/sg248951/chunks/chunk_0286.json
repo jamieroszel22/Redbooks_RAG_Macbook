@@ -1,0 +1,18 @@
+{
+  "content": "CP is reassigned as an SAP or IFP. In either case, client intervention is not required. This capability eliminates an unplanned outage and allows a service action to be deferred to a more convenient time. 3.5.11 CPC drawer numbering IBM z16 A01 CPC drawer numbering starts with CPC 0, the first installed CPC drawer. It is in frame A at A10. The second one, in the same frame, at A15. The third one, in the same frame at A20. The fourth CPC drawer is in frame B (location B10). Figure 3-20 shows CPC drawer numbering. Figure 3-20 CPC drawer numbering Chapter 3. Central processor complex design 113 3.6 Memory design Various considerations of the IBM z16 memory design are described in this section. 3.6.1 Overview the IBM z16 A01 memory design also provides flexibility, high availability, and the following upgrades: \u0002 Concurrent memory upgrades if the physically installed capacity is not yet reached IBM z16 servers can have more physically installed memory than the initial available capacity.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.352286",
+    "chunk_number": 286,
+    "word_count": 167
+  }
+}

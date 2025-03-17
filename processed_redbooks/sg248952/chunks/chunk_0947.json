@@ -1,0 +1,18 @@
+{
+  "content": "concurrent driver upgrade. \u0002 A function on the SE allows you or your IBM SSR to define the concurrent driver upgrade sync point to be used for an CDM. \u0002 The ability to concurrently install and activate a driver can eliminate or reduce a planned outage. \u0002 IBM z16 A02 and IBM z16 AGZ introduce Concurrent Driver Upgrade (CDU) cloning support to other CPCs for CDU preinstallation and activation. \u0002 Concurrent crossover from Driver level N to Driver level N+1, then to Driver level N+2, must be done serially. No composite moves are allowed. \u0002 Disruptive upgrades are permitted at any time, and allow for a composite upgrade (Driver N to Driver N+2). Reserved storage: If you plan to use the EDA function with z/OS LPARs, set up reserved storage and an RSU value. Use the RSU value to specify the number of storage units that are to be kept free of long-term fixed storage allocations. This configuration allows for storage elements to be varied offline. 388 IBM z16 A02 and IBM z16 AGZ Technical",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.828246",
+    "chunk_number": 947,
+    "word_count": 175
+  }
+}

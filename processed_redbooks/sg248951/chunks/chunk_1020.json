@@ -1,0 +1,18 @@
+{
+  "content": "activation and deactivation \u2013 History window for all CoD actions \u2013 Description editing of CoD records \u0002 HMC/SE provides the following CoD information: \u2013 Millions of service units (MSU) and processor tokens \u2013 Last activation time \u2013 Pending resources that are shown by processor type instead of only a total count \u2013 Option to show more information about installed and staged permanent records \u2013 More information for the Attention state by providing seven more flags HMC and SE are a part of the z/OS Capacity Provisioning environment. The Capacity Provisioning Manager (CPM) communicates with the HMC through IBM Z APIs, and enters CoD requests. For this reason, SNMP must be configured and enabled by using the Customize API Settings task on the HMC. 442 IBM z16 (3931) Technical Guide For more information about the use of and setting up CPM, see the following publications: \u0002 z/OS MVS Capacity Provisioning User\u2019s Guide, SC34-2661 \u0002 Capacity on-Demand User\u2019s Guide, SC28-7025 10.5.8 Server Time",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.076906",
+    "chunk_number": 1020,
+    "word_count": 161
+  }
+}

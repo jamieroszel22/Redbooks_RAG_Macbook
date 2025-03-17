@@ -1,0 +1,18 @@
+{
+  "content": "and must be installed in the same rack, together with the power distribution units. Note that for an IBM z16 AGZ to have an I/O drawer, it requires that CPC0 be placed no lower than location A09 (9U). The system components are installed from the bottom and stacking vertically upwards. The possible configurations for IBM z16 AGZ (rear view) are shown in \u201cIBM z16 AGZ - Rack mount configurations\u201d on page 486 2.1.7 PCIe I/O Drawers I/O features are installed in PCIe+ I/O drawers. Both IBM z16 A02 and IBM z16 AGZ share the same set of I/O features and PCIe+ I/O drawers: \u0002 Both IBM z16 A02 and IBM z16 AGZ configurations support up to three PCIe+ I/O drawers. \u0002 I/O PCHID numbering starts with 0100 and goes up, depending on the number of features that are ordered, starting from the bottom I/O drawer, and working upwards. Table 2-4 lists the common plugging limits between the IBM z16 A02 and IBM z16 AGZ. 4 \u2018U\u2019 is the 19-inch rack EIA unit number designated in the planning. Chapter 2. Central",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.667116",
+    "chunk_number": 128,
+    "word_count": 180
+  }
+}

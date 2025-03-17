@@ -1,0 +1,18 @@
+{
+  "content": "DISCONNECT command to disconnect from the OPERATOR virtual machine on this member; then, close the Integrated 3270 Console window: ===> disconnect Repeat these steps until you complete the IPL on all LPARs in your cluster. After the IPLs are complete, all of the members of the VMSSI cluster are up and running. Important: You might see the following message: HCPPLM1669I Waiting for ISFC connectivity in order to join the cluster. This message is not acceptable. The member likely waits indefinitely to join. Check with the system administrator and verify that the CTCs are set up correctly and that you used the correct values. Verify that you entered the CTCs correctly. Figure 2-3 on page 62 shows a block diagram of the CTCs that were used in this example. 124 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 5.6 Installing non-SSI z/VM This installation that is described hers is for a Non-SSI z/VM installation (a stand-alone system). Before beginning this process, ensure that you completed the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.396129",
+    "chunk_number": 303,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "compliance requirements. 7.2.3 Client challenges The client focused on plans to address two main challenges: Chapter 7. Use cases 81 \u0002 The current AI implementation did not have an adequate monitoring system to maintain a stable solution. \u0002 Need to find a way to improve mechanisms to address the diverse aspects such as bias detection, ethical compliance, handling of highly autonomous processes (HAP), and protection of personally identifiable information (PII). 7.2.4 Business benefits The following benefits support addressing the client\u2019s challenges: \u0002 Consolidated governance: Provide a unified platform for an aggregated view of risks. \u0002 Automation of GRC processes: Leverage AI to streamline governance, risk, and compliance (GRC) processes, significantly accelerating time to value. 7.2.5 Pilot solution The pilot addressed these requirements with the following key features: \u0002 Quantified Quality Metrics: Faithfulness, answer relevance, handling of unsuccessful requests, keyword",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.229052",
+    "chunk_number": 210,
+    "word_count": 139
+  }
+}

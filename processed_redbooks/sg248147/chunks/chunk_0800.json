@@ -1,0 +1,18 @@
+{
+  "content": "dedicated to the virtual machine. On z13, a number of patches are required for z/VM to make this type of hardware available. To check for currently available crypto domains, run the command: ===> query crypto ap q crypto ap AP 000 CEX5C Domain 005 available free unspecified AP 000 CEX5C Domain 006 available free unspecified AP 000 CEX5C Domain 007 available free unspecified AP 002 CEX5C Domain 005 available free unspecified AP 002 CEX5C Domain 006 available free unspecified AP 002 CEX5C Domain 007 available free unspecified ... Ready; T=0.01/0.01 14:54:17 RUNNING ITSOZVM2 To dedicate domain 5 from AP 0 and 2, run the following command: ===> dirm for linux4 crypto domain 6 apded 0 2 To check the currently assigned domains for a virtual machine, run the following command: ===> dirm for linux4 crypto ? DVHXMT1191I Your CRYPTO request has been sent for processing to DIRMAINT DVHXMT1191I at ITSOZVM1 via DIRMSAT2. Ready; T=0.01/0.01 14:57:26 DVHREQ2288I Your CRYPTO request for LINUX4 at *",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.315619",
+    "chunk_number": 800,
+    "word_count": 163
+  }
+}

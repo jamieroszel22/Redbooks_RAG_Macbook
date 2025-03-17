@@ -1,0 +1,18 @@
+{
+  "content": "to: \u0002 Use web scraping techniques to gather articles. \u0002 Preprocess and clean the text using Spark DataFrame operations. \u0002 Store the cleaned articles along with their metadata in the object store for further processing. For more information, see Ingesting data by using Spark through the web console. Chapter 9. Adopting Milvus for RAG using IBM watsonx 149 9.2.2 Step 2: Document chunking Document chunking is essential in RAG. Large documents can contain information on multiple topics or subtopics. By breaking documents into smaller chunks, each representing a coherent piece of information, retrieval models can more accurately match relevant information to a query, reducing the chance of irrelevant sections appearing in search results. Chunking can be done in various ways depending on the type of document, content structure, and retrieval system requirements. The fixed-length chunking usually splits the document into chunks based on a fixed number of tokens, words or characters. To",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.318565",
+    "chunk_number": 251,
+    "word_count": 152
+  }
+}

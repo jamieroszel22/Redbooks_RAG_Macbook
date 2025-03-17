@@ -1,0 +1,18 @@
+{
+  "content": "physical ports of an FCP channel that is based on the PCHID. This WWPN assignment changes when an FCP channel is moved to a different physical slot position. IBM z14 and newer IBM Z allow for the modification of these default assignments, which also allows FCP channels to keep previously assigned WWPNs, even after being moved to a different slot position. This capability can eliminate the need for reconfiguration of the SAN in many situations, and is especially helpful during a system upgrade (FC 0099 - WWPN Persistence). FICON support for multiple-hop cascaded SAN configurations Before the introduction of z13 and z13s, IBM Z FICON SAN configurations supported a single ISL (a single hop) in a cascaded FICON SAN environment only. 9 z/VSE is not supported on the IBM z16 A02 and IBM z16 AGZ. 162 IBM z16 A02 and IBM z16 AGZ Technical Guide IBM z14 and newer IBM Z support up to three hops in a cascaded FICON SAN environment. This support allows clients to more easily configure a three- or",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.803847",
+    "chunk_number": 405,
+    "word_count": 173
+  }
+}

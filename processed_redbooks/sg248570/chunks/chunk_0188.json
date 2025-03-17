@@ -1,0 +1,18 @@
+{
+  "content": "analytics remain safe, compliant, and trustworthy, while still allowing analysts to work effectively with the data. Performance enhancements for analytical queries A central tenet of the lakehouse philosophy is delivering data warehouse-like performance on top of flexible, open storage. This balance demands more than just fast hardware: it requires a deep integration between query engines, metadata systems, and the underlying file formats to deliver sub-second or interactive query speeds over massive, ever-growing datasets. IBM watsonx.data fully embraces the performance-oriented features available in lakehouse architectures, including: Chapter 5. Querying and manipulating data and leveraging persona-specific engines 85 \u0002 Partitioning and clustering: By logically grouping related data-such as by date, region, product category, or other attributes-organizations can localize queries to specific partitions, reducing the volume of data scanned. Clustering similar data together further",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.067503",
+    "chunk_number": 188,
+    "word_count": 131
+  }
+}

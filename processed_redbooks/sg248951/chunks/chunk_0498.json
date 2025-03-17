@@ -1,0 +1,18 @@
+{
+  "content": "operating system) can specify all I/O functions relative to a specific I/O device by designating a subchannel that is assigned to the I/O devices. Normally, subchannel numbers are used only in communication between the programs and the channel subsystem. Subchannel set identifier While introducing the MSS, the channel subsystem is extended to assign a value 0 - 3 for each subchannel set, which is the SSID. A subchannel can be identified by its SSID and subchannel number. Device number A device number is an arbitrary number 0x0000 - 0xFFFF, which is defined by a system programmer in an I/O configuration for naming an I/O device. The device number must be unique within a subchannel set of a channel subsystem. It is assigned to the corresponding subchannel by channel subsystem when an I/O configuration is activated. Therefore, a subchannel in a subchannel set of a channel subsystem includes a device number together with a subchannel number for designating an I/O operation. The device",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.161065",
+    "chunk_number": 498,
+    "word_count": 162
+  }
+}

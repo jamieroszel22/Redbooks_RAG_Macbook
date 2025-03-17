@@ -1,0 +1,18 @@
+{
+  "content": "higher levels of efficiency and productivity. The assistants also facilitate user interactions by maintaining context, understanding intent, and responding dynamically to evolving requirements. A defining feature of this architecture is its reliance on tool calling, which forms the backbone of the system\u2019s operational flexibility and extensibility. Figure 6-10 on page 105 emphasizes the integration of various categories of tools that the agents can call to complete tasks. These tools include fixed flows for handling repetitive and standardized operations; knowledge repositories for answering questions and providing insights; APIs for interacting with external systems; business automation modules for streamlining enterprise processes; and multi-agent frameworks for coordinating complex tasks that require collaboration among several AI agents. The usage of LLM-based tool calling helps ensure that the system can adapt to various workflows, which enables interoperability with existing IT",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.207037",
+    "chunk_number": 256,
+    "word_count": 135
+  }
+}

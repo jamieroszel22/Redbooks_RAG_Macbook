@@ -1,0 +1,18 @@
+{
+  "content": "E001 DEVTYPE HIPER CHPID F0 IQD 5. Make the changes permanent with the following DIRM commands: ===> DIRM FOR LINUX1 DEDICATE E000 7004 ===> DIRM FOR LINUX1 DEDICATE E001 7005 ===> DIRM FOR LINUX1 DEDICATE E002 7003 Using Red Hat Enterprise Linux 7.1 Complete the following steps to create the cio_ignore -r 0.0.e000,0.0.e001,0.0.e002 device: 1. From the Linux image, create a device group for the E000 devices: # echo 0.0.e000,0.0.e001,0.0.e002 > /sys/bus/ccwgroup/drivers/qeth/group 2. Bring the device online: # echo 1 > /sys/devices/qeth/0.0.e000/online 3. Get the name of the devices from this command: # cat /sys/devices/qeth/0.0.e000/if_name enccw0.0.e000 420 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 4. Create a network configuration file by using the nmcli command: # nmcli con add type ethernet con-name hipersocket ifname enccw0.0.e000 ip4 10.0.0.1/21 # nmcli con mod hipersocket 802-3-ethernet.s390-nettype \"qeth\" # nmcli con mod hipersocket 802-3-ethernet.s390-subchannels",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.621831",
+    "chunk_number": 893,
+    "word_count": 140
+  }
+}

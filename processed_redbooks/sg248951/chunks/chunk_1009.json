@@ -1,0 +1,18 @@
+{
+  "content": "IBM Resource Link. At this web page, select Library, the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide. IBM HMC Mobile IBM HMC Mobile is an iOS and Android application with which you can monitor all of your IBM Z systems and partitions. You also can receive alerts when messages or status changes occur. You also can start, stop, or change the activation profile for a partition. A full set of granular security controls is provided from the HMC, including MFA. This mobile interface is optional and is disabled by default. More functions from the HMC also are planned to be available on IBM HMC Mobile. Note: If the setting in Change Remote Access Setting \u2192 IP Access Control is set to Allow specific IP addresses, but none or incorrect IP addresses are in the list, a remote HMC connection is not available by using a web browser. Note: With HMC Driver 41/Version 2.15.0 and Driver 51/Version 2.16.0, specific tasks that",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.023549",
+    "chunk_number": 1009,
+    "word_count": 168
+  }
+}

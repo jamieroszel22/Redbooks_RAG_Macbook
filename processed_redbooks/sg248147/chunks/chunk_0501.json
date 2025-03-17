@@ -1,0 +1,18 @@
+{
+  "content": "IBM z Systems / VV\\ VVV\\MM\\ MM\\ / VV\\ VVV\\ MMM\\ END\\ ZZZZZZ / VV\\ VVV\\ MMMM\\ MMMM\\ ZZ / VV\\ VVV\\ MM\\MM\\MM\\MM\\ ZZ / VV\\ VVV\\ MM\\ MMM\\ MM\\ ZZ / VVVVV\\ MM\\ M\\ MM\\ ZZ / VVV\\ MM\\ MM\\ ZZZZZZ / V\\ MM\\ MM\\ ibm.com/vm Built on IBM Virtualization Technology Fill in your USERID and PASSWORD and press ENTER (Your password will not appear when you type it) USERID ===> PASSWORD ===> COMMAND ===> logon MAINT720 by edialves RUNNING RDBKZVMG LOGON MAINT720 BY EDIALVES ENTER PASSWORD (IT WILL NOT APPEAR WHEN TYPED): CP READ RDBKZVMG Chapter 6. Configuring z/VM 221 Another option is to change the passwords for all of these IDs to LBYONLY, which might be useful in situations with password change interval requirements. 6.14.3 High-level z/VM security The z/VM Security and Integrity paper describes the isolation and integrity of virtual machines under z/VM. It is available here. For more information about the latest news, pertinent presentations, papers, Redbooks documents, publications, links to press",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.153046",
+    "chunk_number": 501,
+    "word_count": 167
+  }
+}

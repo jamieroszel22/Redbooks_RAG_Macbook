@@ -1,0 +1,18 @@
+{
+  "content": "Insert the lines that are shown in Example 11-5. Example 11-5 Insert these lines /* REXX */ 'SET EDEV 3000 EQID EDASD0 TYPE FBA ATTR 2107 ADD PATH', 'FCP_DEV B900 WWPN 500507630510C74C LUN 4010401100000000', 'FCP_DEV B900 WWPN 50050763051BC74C LUN 4010401100000000' 6. Repeat all of the previous steps on all of the other nodes of the SSI. 7. Check the paths for the EDEV with the command: ===> QUERY EDEV 3000 DETAILS The output of QUERY EDEV 3000 DETAILS looks like output that is shown in Example 11-6. Example 11-6 Output of QUERY EDEV 3000 DETAILS QUERY EDEV 3000 DETAILS EDEV 3000 TYPE FBA ATTRIBUTES 2107 VENDOR: IBM PRODUCT: 2107900 REVISION: 6.30 BLOCKSIZE: 512 NUMBER OF BLOCKS: 125829120 PATHS: FCP_DEV: B746 WWPN: 5005076309141145 LUN: 4000401F00000000 CONNECTION TYPE: SWITCHED STATUS: ONLINE FCP_DEV: B746 WWPN: 50050763091B1145 LUN: 4000401F00000000 CONNECTION TYPE: SWITCHED STATUS: ONLINE FCP_DEV: C746 WWPN: 5005076309149145 LUN: 4000401F00000000 CONNECTION TYPE: SWITCHED STATUS:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.212645",
+    "chunk_number": 769,
+    "word_count": 150
+  }
+}

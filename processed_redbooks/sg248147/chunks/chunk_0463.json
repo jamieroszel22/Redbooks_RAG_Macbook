@@ -1,0 +1,18 @@
+{
+  "content": "the VM can be logged on to only one SSI member at a time. Your Linux guests are always defined as single users and they can be relocated from one SSI-member to another using the Live Guest Relocation feature of SSI. Important: After PROP is running, do not log on as OPERATOR except when necessary. If you log on as OPERATOR, you must issue the STOP command before you can issue commands other than the commands that control PROP. Note: For more information, see Using z/VM v 6.2 Single System Image (SSI) and Live Guest Relocation (LGR), SG24-8039. 202 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u0002 Multi-configuration z/VM user ID A multi-configuration z/VM user ID definition consists of an identity entry and all associated subconfiguration entries (SUBCONFIG in BUILD ON z/VM DirMaint statement). In an SSI environment, this definition allows multiple instances, which enables the user ID to be logged on concurrently to multiple members of the SSI cluster (see Figure 6-7). Figure 6-7 SSI",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.010902",
+    "chunk_number": 463,
+    "word_count": 166
+  }
+}

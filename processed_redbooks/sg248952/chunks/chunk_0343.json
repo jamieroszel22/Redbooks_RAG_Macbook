@@ -1,0 +1,18 @@
+{
+  "content": "partitions. It contains an internal CF, an IBM z15 T02 system that contains a stand-alone CF, and an IBM z14 M03 that contains multiple z/OS sysplex partitions. STP over coupling links provides time synchronization to all systems. Selecting the suitable CF link technology Coupling Express2 Long Reach (CE2 LR) or Integrate Coupling Adapter Short Reach (ICA SR and SR1.1) depends on the system configuration and how distant they are physically. For more information about link technologies, see \u201cCoupling links\u201d on page 177. Parallel Sysplex is an enabling technology that allows highly reliable, redundant, and robust IBM Z technology to achieve near-continuous availability. A Parallel Sysplex consists of one or more (z/OS) operating system images that are coupled through one or more Coupling Facility LPARs. A correctly configured Parallel Sysplex cluster maximizes availability in the following ways: \u0002 Continuous availability: Changes can be introduced, such as software upgrades, one image",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.557963",
+    "chunk_number": 343,
+    "word_count": 149
+  }
+}

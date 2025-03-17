@@ -1,0 +1,18 @@
+{
+  "content": "and resource-level roles for data-specific permissions. The architectural framework of RLAC in IBM watsonx.data typically includes the following components: \u0002 Platform layer: At the top level, platform roles are defined for administrative users who need oversight and control over the entire IBM watsonx environment. Chapter 4. Protecting data 51 \u0002 These roles include permissions for configuring the system, managing user accounts, and handling high-level tasks that impact the whole platform. \u0002 Instance layer: The instance layer includes roles that are specific to individual data instances or projects within the lakehouse. Instance roles enable granular control of access to particular environments without impacting the broader platform. \u0002 Resource layer: At the finest level, resource-level roles control access to specific data sets, tables, or resources within an instance. These roles are essential for managing access to sensitive data or defining permissions for specific data sets",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.855454",
+    "chunk_number": 133,
+    "word_count": 143
+  }
+}

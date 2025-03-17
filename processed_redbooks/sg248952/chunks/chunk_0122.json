@@ -1,0 +1,18 @@
+{
+  "content": "Description Comments 0513 3932- A02 Supports CPs and specialty engines 0672 One CPC Drawer, two PU DCMs Feature Max5 0673 One CPC Drawer, two PU DCMs Feature Max16 26 IBM z16 A02 and IBM z16 AGZ Technical Guide 2.1.4 IBM z16 AGZ system features The IBM z16 AGZ configurations comes with 1-2 CPC drawers and 0-3 I/O drawers and is sold and delivered without and IBM frame or PDUs. The key features that are used to build the IBM z16 AGZ configuration are listed in Table 2-3. Table 2-3 Key feature codes that influence the system configurations 0674 One CPC Drawer, four PU DCMs Feature Max32 0675 Two CPC Drawers, eight PU DCMs Feature Max68 4010 CPC Drawer Maximum two (feature dependant) 4014 A Frame Air cooled Power 0510 200-208V 60/30A 3 Phase (Delta - \u201c\u2206\u201d) North America and Japan 0511 200-240V 32A single- or 380-415V 3 Phase (Wye - \u201dY\u201d) Single Phase Worldwide (3 Phase except North America and Japan) I/O 4023 PCIe+ I/O drawer Maximum three (feature dependant) 5827 FQC Bracket & Mounting",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.639979",
+    "chunk_number": 122,
+    "word_count": 175
+  }
+}

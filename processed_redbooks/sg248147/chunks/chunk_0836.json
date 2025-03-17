@@ -1,0 +1,18 @@
+{
+  "content": "/*********************************************************************/ /* Customer processing can be added here */ /*********************************************************************/ \"CP XAUTOLOG TCPIP\" /* Autolog TCPIP */ \"CP SET MDC STOR 0M 256M\" /* Limit minidisk cache in CSTOR */ \"CP SET SIGNAL SHUTDOWN 300\" /* Allow guests 5 min to shut down */ \"CP XAUTOLOG LNXADMIN\" /* Start the Linux admin machine */ \"CP MONITOR SAMPLE ENABLE PROCESSOR\" /* Setup CP MONITOR parameters */ \"CP MONITOR SAMPLE ENABLE STORAGE\" \"CP MONITOR SAMPLE ENABLE USER ALL\" \"CP MONITOR SAMPLE ENABLE I/O ALL\" \"CP MONITOR SAMPLE ENABLE NETWORK\" \"CP MONITOR SAMPLE ENABLE APPLDATA ALL\" \"CP MONITOR SAMPLE ENABLE ISFC\" \"CP MONITOR SAMPLE ENABLE SSI\" \"CP MONITOR EVENT ENABLE STORAGE\" \"CP MONITOR EVENT ENABLE I/O ALL\" \"CP MONITOR EVENT ENABLE NETWORK\" \"CP MONITOR EVENT ENABLE ISFC\" \"CP MONITOR EVENT ENABLE SSI\" \"CP MONITOR SAMPLE INTERVAL 1 MIN\" /* Set sampling interval */ \"CP XAUTOLOG PERFSVM\" /* Start Performance",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.428487",
+    "chunk_number": 836,
+    "word_count": 146
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "means that nearly 8 gigabits are transmitted per second (Gbps). A PCIe Gen3 x16 link features the following data transmission rates: \u0002 The maximum theoretical data transmission rate per lane: 8 Gbps * 128/130 bit (encoding) = 7.87 Gbps=984.6 MBps \u0002 The maximum theoretical data transmission rate per link: 984.6 MBps * 16 (lanes) = 15.75 GBps Considering that the PCIe link is full-duplex mode, the data throughput rate of a PCIe Gen3 x16 link is 31.5 GBps (15.75 GBps in both directions). PCIe Gen3 x16 links are used in IBM z16 A02 and IBM z16 AGZ systems for driving the PCIe+ I/O drawers, and for coupling links for CPC to CPC communications. Note: I/O infrastructure for IBM z16 A02 and IBM z16 AGZ, as well as for IBM z16 A01 and IBM z15, is implemented as PCIe Generation 3. The PU chip PCIe interface is PCIe Generation 4 (x16 @32 GBps), but the CPC I/O Fanout infrastructure provides external connectivity as PCIe Generation 3 @16GBps Link performance: The link speeds do not represent the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.628191",
+    "chunk_number": 362,
+    "word_count": 175
+  }
+}

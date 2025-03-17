@@ -1,0 +1,18 @@
+{
+  "content": "Technical Guide Replacement capacity When processing capacity is lost in part of an enterprise, replacement capacity can be activated. It allows you to activate any PU type up to your authorized limit. The following replacement capacity offerings are available: \u0002 Capacity Backup \u0002 Capacity for Planned Event \u0002 Flexible Capacity for Cyber Resiliency 8.3 Concurrent upgrades Concurrent upgrades on IBM z16 servers can provide more capacity with no system outage. In most cases, a concurrent upgrade can be nondisruptive to the operating system with planning and operating system support. This capability is based on the flexibility of the design and structure, which allows concurrent hardware installation and Licensed Internal Control Code (LICC) configuration changes. The sub-capacity models allow more configuration granularity within the family. The added granularity is available for models that are configured with up to 39 CPs, and provides 117 extra capacity settings. Sub-capacity models",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.346391",
+    "chunk_number": 808,
+    "word_count": 147
+  }
+}

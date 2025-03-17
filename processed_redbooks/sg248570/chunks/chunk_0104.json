@@ -1,0 +1,18 @@
+{
+  "content": "store it in an S3-compatible object storage for later querying with Presto. \u2013 Advanced analytics: Data in IBM watsonx.data, such as data from Db2 or other ingested sources, might be better suited for analysis by using Spark's procedural code rather than SQL. Spark's capabilities can unlock deeper insights. \u2013 Flexible data ingestion: Spark provides a wide range of options for data ingestion, which include streaming data, data frames, Resilient Distributed Datasets (RDDs), and support for various data formats. This versatility simplifies integrating data from diverse sources. 36 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Each component in the IBM watsonx.data stack provides unique capabilities. In IBM watsonx.data, these different components work together in tandem to provide the best data management capability for your analytics workloads. Here are some of the key requirements of the Ingestion tool: \u0002 The target table must be an Iceberg format table. \u0002",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.744150",
+    "chunk_number": 104,
+    "word_count": 151
+  }
+}

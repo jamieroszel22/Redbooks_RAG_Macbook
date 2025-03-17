@@ -1,0 +1,18 @@
+{
+  "content": "the dispatch, eligible, and dormant lists that were active in a specific period CP INDICATE QUEUES Use the INDICATE QUEUES command to display the user IDs and their associated dispatching queue. If users have a virtual multiprocessor, you might see more than one entry of a single user. Example 12-1 INDICATE ACTIVE command and its results cp ind queues TCPIP Q0 PS 00004441/00004070 MAINT720 Q1 R00 00000548/00000542 CP INDICATE I/O Use the INDICATE I/O command to identify the virtual machines that are in an I/O wait state and the real I/O device number on which they are waiting. Repeat this command several times to see the pattern. Note: Example 12-1 demonstrates the use of the INDICATE ACTIVE command and its results. Note: The output of the CP INDICATE QUEUES command provides the following information: \u0002 List of virtual machines in priority order. \u0002 If this command frequently shows users in the E1, E2, and E3 list, you likely have a constraint in your system resources. \u0002 The third",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.337415",
+    "chunk_number": 808,
+    "word_count": 168
+  }
+}

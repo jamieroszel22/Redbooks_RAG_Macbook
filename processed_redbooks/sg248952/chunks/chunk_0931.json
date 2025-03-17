@@ -1,0 +1,18 @@
+{
+  "content": "feature codes are required for PU and model configuration. \u0002 Feature Max32 and Max68 have 4 SAPs in each drawer. The system configuration must have sufficient dormant resources on the remaining drawers in the system for the evacuation of the drawer that is to be replaced or upgraded. Dormant resources include the following possibilities: \u0002 Unused PUs or memory that is not enabled by LICCC \u0002 Inactive resources that are enabled by LICCC (memory that is not being used by any activated LPARs) \u0002 Amount of Memory that is available The I/O connectivity must also support drawer removal. Most of the paths to the I/O feature redundant I/O interconnect support in the I/O infrastructure (drawers) that enable connections through multiple fanout cards. If sufficient resources are not present on the remaining drawers, certain non-critical LPARs might need to be deactivated. One or more PUs or storage might need to be configured 5 With proper planning and depending on your system configuration. A",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.770286",
+    "chunk_number": 931,
+    "word_count": 162
+  }
+}

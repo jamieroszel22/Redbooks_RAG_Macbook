@@ -1,0 +1,18 @@
+{
+  "content": "z16 AGZ Hardware . . . . . . . . . . . . . . . . . . . . . . . . . . . 473 How to leverage IBM Z Integrated AI Accelerator in your enterprise . . . . . . . . . . . . . . 473 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 474 Appendix C. IBM Integrated Accelerator for zEnterprise Data Compression . . . . . . 475 Client value of IBM Z compression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 476 IBM z16 A02 and IBM z16 AGZ IBM Integrated Accelerator for zEDC . . . . . . . . . . . . . . . 476 Eliminating adapter sharing by using Nest Compression Accelerator . . . . . . . . . . . . . 477 Compression modes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 477 IBM z16 A02 and IBM z16 AGZ migration considerations . . . . . . . . . . . . . . . . . . . . . . . . . 478 All z/OS configuration stay the same . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.304847",
+    "chunk_number": 44,
+    "word_count": 338
+  }
+}

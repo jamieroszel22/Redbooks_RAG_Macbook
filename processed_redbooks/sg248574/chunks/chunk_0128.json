@@ -1,0 +1,18 @@
+{
+  "content": "response structures. This resource is essential for developers that want to integrate watsonx.ai into their applications by providing clear instructions and examples to facilitate seamless implementation. Whether you are working with FMs, performing text inference, or managing deployments, this documentation serves as a valuable reference to help ensure effective and efficient usage of watsonx.ai features. 4.10.3 watsonx.ai data pipeline and orchestration For more information about data pipelining and orchestration, see the following resources: \u0002 IBM Orchestration Pipelines: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/ml-orchestrati on-overview.html?context=wx \u0002 IBM Seismic: Introducing AI Agent Orchestration (IBMid required): https://ibm.seismic.com/Link/Content/DCbHf2RCFTPf3G9Cc2PBGggJWfGV \u0002 Instana: https://www.ibm.com/products/instana/generative-ai-monitoring \u0002 Turbonomic: https://community.ibm.com/community/user/aiops/blogs/cheuk-hung-lam/2024/05/28/",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.670038",
+    "chunk_number": 128,
+    "word_count": 95
+  }
+}

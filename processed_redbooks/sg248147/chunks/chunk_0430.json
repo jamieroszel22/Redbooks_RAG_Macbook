@@ -1,0 +1,18 @@
+{
+  "content": "the CPFMTXA command. If only a few volumes are involved, that is fine, but when you must format many volumes, the process of running CPFMTXA can be time-consuming and tedious, which can lead to errors. Therefore, a REXX EXEC that is named CPFORMAT is provided in the tar file that is associated with this book. With it, you can format many volumes with a single command. This EXEC is shown in Appendix B, \u201cReference, cheat sheets, blank worksheets, and education\u201d on page 475. It is a wrapper around CPFMTXA. To use this EXEC, each DASD to be formatted must first be attached with the virtual device address and the same real device address (by using ATTACH realDev *). This EXEC will label the volumes according to the convention that is described in 2.11.1, \u201cDASD volume labeling convention\u201d on page 58. If you want different volume labels, you can use the CPFMTXA command and manually specify each volume label, or you can modify the REXX EXEC. The use of CPFMTXA manually is covered in Chapter",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.886293",
+    "chunk_number": 430,
+    "word_count": 174
+  }
+}

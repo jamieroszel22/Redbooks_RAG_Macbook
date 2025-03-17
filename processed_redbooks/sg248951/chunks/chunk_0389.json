@@ -1,0 +1,18 @@
+{
+  "content": "structure 157 Example 4-1 AID assignments PCHID REPORT sample CHPIDSTART 31463036 PCHID REPORT Nov 10,2021 Machine: 3931-A01 SN1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Source Drwr Slot F/C PCHID/Ports or AID Comment A10/LG06 A10B LG06 0176 AID=05 A15/LG06 A15B LG06 0176 AID=11 A15/LG12/J02 Z01B 02 0461 100/D1 101/D2 A15/LG12/J02 Z01B 05 0457 10C/D1 Fan-out features that are supported by the IBM z16 are listed in Table 4-3, which includes the feature type, feature code, and information about the link that is supported by the fan-out feature. Table 4-3 Fan-out summary Fan-out feature Feature Code Use Cable type Connector type Maximum distance Link data ratea a. The link data rates do not represent the performance of the link. The performance depends on many factors, including latency through the adapters, cable lengths, and the type of workload. PCIe+ Gen3 fan-out 0175 PCIe I/O drawer conn. Copper N/A 4 m (13.1 ft.) 16 GBps ICA SR 0172 Coupling",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.755347",
+    "chunk_number": 389,
+    "word_count": 188
+  }
+}

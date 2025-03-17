@@ -1,0 +1,18 @@
+{
+  "content": "storage. However, the maximum amount of memory that is supported by z/OS V2R2, V2R3, and V2R4 is 4 TB. z/OS V2R5 supports up to 16 TB. z/VM V7R2 and V7R3 limit is 4 TB and it supports LPAR dynamic storage reconfiguration 3.7.5 LPAR dynamic storage reconfiguration Dynamic storage reconfiguration on IBM z16 A02 and IBM z16 AGZ allows an operating system that is running on an LPAR to add (nondisruptively) its reserved storage amount to its configuration. This process can occur only if unused storage exists. This unused storage can be obtained when another LPAR releases storage, or when a concurrent memory upgrade occurs. 22 When defining an LPAR on the HMC, the 2G boundary should still be followed in PR/SM. Logical partition: Largest main storage amount Logical partition: Main storage granularity Main storage amount </= 512 GB 1 GB 512 GB < main storage amount </= 1 TB 2 GB 1 TB < main storage amount </= 2 TB 4 GB 2 TB < main storage amount </= 4 TB 8 GB 4 TB < main storage amount </= 8",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.539365",
+    "chunk_number": 338,
+    "word_count": 181
+  }
+}

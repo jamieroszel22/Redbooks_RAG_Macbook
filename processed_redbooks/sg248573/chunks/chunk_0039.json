@@ -1,0 +1,18 @@
+{
+  "content": "evaluate the AI assets that are needed to deliver a use case. Chapter 1. Challenges and opportunities in AI governance 3 Like any business practice, AI governance can benefit from applying the people, process and technology (PPT) framework. When applied to AI governance, this framework helps organizations ensure that their AI systems are aligned with their strategic goals, are developed and deployed responsibly, and deliver value to stakeholders. Here is a breakdown of how the PPT framework might apply to AI governance2: \u0002 People: The first element of the PPT framework focuses on the people involved in the AI governance lifecycle, this includes technical experts, legal advisors, compliance officers, AI asset deployment Document the technical characteristics and development process of the AI deployments. Review the deployed assets for adequate risk mitigation and compliance. Deploy the AI assets to enable their day-to-day use. AI asset post-deployment Manage issues and incidents",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.571298",
+    "chunk_number": 39,
+    "word_count": 149
+  }
+}

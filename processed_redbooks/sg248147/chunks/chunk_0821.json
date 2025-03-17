@@ -1,0 +1,18 @@
+{
+  "content": "VMSERVP - DSC , VMSERVR - DSC , VMSERVU - DSC , VMSERVS - DSC OPERSYMP - DSC , DISKACNT - DSC , EREP - DSC , OPERATOR - DSC MAINT -L0004 VSM - TCPIP Determining storage or memory To see how much main storage (memory) is installed and allocated to a system, use the QUERY STORAGE command, for example: ===> q stor STORAGE = 16G CONFIGURED = 16G INC = 256M STANDBY = 0 RESERVED = 0 This example shows 16 GB of central memory (storage). Determining processors or CPUs To see how many processors (central processors (CPs), Integrated Facilities for Linux (IFLs), and CPUs) are allocated at system level, use the QUERY PROCESSORS command, for example: ===> q proc PROCESSOR 00 MASTER CP PROCESSOR 01 ALTERNATE CP PROCESSOR 02 ALTERNATE CP Note: The results of this command are based on the CP Class your user ID has based on the role. If you are a System Admin, you might have classes A, B, and C and see the z/VM amount of storage (memory). However, if you have only class G, it shows the user ID",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.375473",
+    "chunk_number": 821,
+    "word_count": 187
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "can be controlled by using the CP SET AGELIST command or the STORAGE AGELIST system configuration file statement. 2.7 Paging Your paging channels and DASD must be planned to be equipped for conducting multiple concurrent paging I/O operations. As the paging configuration becomes capable of increasing levels of I/O concurrency, CP then becomes increasingly able to handle the concurrent execution of page-fault-inducing VMs. This ability results in optimal throughput for your workloads. 2.7.1 Recommendations, tips, and hints Consider the following recommendations, tips, and hints when you create paging channels and DASD allocations: \u0002 No mixing: A disk volume must be all paging (cylinders 1 to END) or no paging at all. Never allocate paging space on a volume that also holds any other data, such as spool space, user minidisks, or anything else. \u0002 Match up: Make all of your volumes the same size. If you decided to use 3390-09s, all your paging volumes must be 3390-09. If you decide to use",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.827089",
+    "chunk_number": 168,
+    "word_count": 162
+  }
+}

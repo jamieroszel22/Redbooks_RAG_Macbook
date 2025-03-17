@@ -1,0 +1,18 @@
+{
+  "content": "external data sources: Federation in PrestoDB\u201d on page 30 \u0002 \u201cTechniques for ingesting data (structured or unstructured)\u201d on page 35 \u0002 \u201cIngesting data\u201d on page 36 \u0002 \u201cData pipeline considerations for open lakehouse\u201d on page 41 3 30 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 3.1 Provisioning and configuring IBM watsonx.data To explore IBM watsonx.data on IBM Cloud, go to the cloud.ibm.com catalog and search for \u201cwatsonx.data\u201d. Use the default options for a streamlined initial experience, as shown in Figure 3-1. Figure 3-1 IBM watsonx.data on IBM Cloud 3.2 Integrating external data sources: Federation in PrestoDB Several database systems are accessible both within and outside a virtual machine environment, such as IBM watsonx.data Presto, Db2, MySQL, and PostgreSQL. To access these databases externally, you need the server name, port number for the service, and the presto-key.jks file for connecting to Presto. 3.2.1 Connecting to IBM watsonx.data Presto",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.704138",
+    "chunk_number": 94,
+    "word_count": 151
+  }
+}

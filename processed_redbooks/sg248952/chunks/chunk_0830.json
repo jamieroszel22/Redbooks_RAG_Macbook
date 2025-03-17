@@ -1,0 +1,18 @@
+{
+  "content": "IFLs Activated through model conversion Flexible Capacity Record CPs, ICFs, zIIPs, and IFLs Activated through model conversion Chapter 8. System upgrades 333 The Store System Information (STSI) instruction gives more useful and detailed information about the base configuration and temporary upgrades. The model and model capacity identifiers that are returned by the STSI instruction are updated to coincide with the upgrade. For more information, see \u201cStore System Information instruction\u201d on page 360. 8.3.1 MES upgrade for processors An MES upgrade for processors can concurrently add CPs, ICFs, zIIPs, and IFLs to an IBM z16 A02 and IBM z16 AGZ by assigning available PUs on the CPC drawers through LICCC. Depending on the quantity of the extra processors in the upgrade, more PU DCMs and ore the second CPC drawer might be required, and can be concurrently installed before the LICCC is enabled. With the subcapacity models, more capacity can be provided by adding CPs, changing the capacity",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.417499",
+    "chunk_number": 830,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Delete a character. dw Delete a word. p Add the buffer past the current location. P Add the buffer before the current location. o Add a line and go into insert mode. /string Search for string. n Execute the last command again (This function can be powerful). jkl; Cursor movement. A Add text at the end of the line. <nn>G Go to line <nn>. G Go to the last line in the file. yy Yank a line (copy into buffer). <n>yy Yank n lines. Appendix B. Reference, cheat sheets, blank worksheets, and education 481 \u0002 Command-line mode: Pressing the colon (:) key brings you to this mode at the bottom of the window. You can issue the following commands: :wq Save (write and quit). :q! Quit and discard changes. :<nn> Go to line number <nn>. :r <file> Read <file> into the current file. :1,$s/old/new/g Globally replace <old> with <new>. :help Give help. DirMaint cheat sheet The following list shows useful DirMaint commands: Add Add a user or profile directory entry. AMDisk Add a minidisk. DEDicate Add or",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.953522",
+    "chunk_number": 995,
+    "word_count": 177
+  }
+}

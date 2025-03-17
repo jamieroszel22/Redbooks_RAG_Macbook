@@ -1,0 +1,18 @@
+{
+  "content": "prompting for start options if the previous system shutdown was successful. The feature allows for a fully automated startup of z/VM. \u0002 The Clear_TDisk feature causes CP to erase temporary disks fully (that is, overwrite the entire temporary disk with zeros) after those disks are detached. This feature prevents another user who might define an identically sized temporary disk from accessing data that was written by the previous user. \u0002 The Retrieve feature defines the default and maximum number of retrieve buffers that are allowed per user on your system. Retrieve buffers create a command history, from which users can retrieve commands that were issued. Command retrieval often is assigned to a program function key, such as PF12 (F12). \u0002 The Passwords_on_Cmds feature tells CP whether to prompt users for passwords when the CP AUTOLOG, LINK, or LOGON commands are used. \u0002 The Disconnect_timeout feature controls whether and when a virtual machine is logged off after it is forced to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.536688",
+    "chunk_number": 341,
+    "word_count": 160
+  }
+}

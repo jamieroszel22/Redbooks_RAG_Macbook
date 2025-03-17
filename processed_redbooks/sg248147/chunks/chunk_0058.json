@@ -1,0 +1,18 @@
+{
+  "content": "are generally familiar with IBM Z technology and terminology. It does not assume an in-depth understanding of z/VM or Linux. It is written for individuals who want to start quickly with z/VM and Linux, and get virtual servers up and running in a short time (days, not weeks or months). Volume 1 starts with a solution orientation, discusses planning and security, and then, describes z/VM installation methods, configuration, hardening, automation, servicing, networking, optional features, and more. It adopts a \u201ccookbook-style\u201d format that provides a concise, repeatable set of procedures for installing, configuring, administering, and maintaining z/VM. This volume also includes a chapter on monitoring z/VM and the Linux virtual servers that are hosted. Volumes 2, 3, and 4 assume that you completed all of the steps that are described in Volume 1. From that common foundation, these volumes describe how to create your own Linux virtual servers on IBM Z hardware under IBM z/VM. The cookbook",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.355964",
+    "chunk_number": 58,
+    "word_count": 156
+  }
+}

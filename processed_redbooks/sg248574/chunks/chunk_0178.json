@@ -1,0 +1,18 @@
+{
+  "content": "data-driven, or reference-based questions, which are often supported by documents like textbooks, technical manuals, encyclopedias, journals, or magazines. Although knowledge and skills share similarities in their taxonomy structures, knowledge nodes include additional elements to accommodate their document-based nature. For contributors that use InstructLab 0.21.0 or later, knowledge contributions can include PDF files as valid document types, but earlier versions accept only markdown formats. Each knowledge node in the taxonomy tree contains a qna.yaml file that is similar in structure to the one that is used for skills, but with additional fields to support knowledge-specific attributes. Notably, all knowledge submissions must be in a Git repository, such as one hosted on GitHub, and the qna.yaml file must reference this repository: \u0002 Submit the most current version of the document. \u0002 Contributions must be text-based. Images are ignored. \u0002 Avoid using tables in your markdown",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.902103",
+    "chunk_number": 178,
+    "word_count": 143
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "following steps: 1. Configure the second network interface card (NIC) with the qeth_configure command: # qeth_configure -t hsi 0.0.7000 0.0.7001 0.0.7002 1 2. Check whether the device was created: # cat /proc/net/dev 3. If hsi0 was created, you will see a file that is called /etc/sysconfig/network/ifcfg-hsi0. You will need to edit this file by using the following command: # vi /etc/sysconfig/network/ifcfg-hsi0 BOOTPROTO='static' IPADDR='10.1.1.46/24' STARTMODE='onboot' Chapter 14. Working with networks 421 NAME='HIPERSOCKETS (0.0.7400)' 4. Start the hsi0 device with the ifup command: # ifup hsi0 5. Check the status of the interface: # ip a s hsi0 The HiperSockets device is now up. 14.2.4 Verifying connectivity To verify that the HiperSockets device is functioning, perform the following steps: 1. Ping from z/OS UNIX Systems Services: USER1 @ SC42:/u/user1>ping 10.1.1.43 CS V1R13: Pinging host 10.1.1.43 Ping #1 response took 0.000 seconds. 2. Ping from the Red Hat Enterprise Linux that",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.627651",
+    "chunk_number": 895,
+    "word_count": 148
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "z16 (3931) Technical Guide The functions that remain available when the Crypto Express8S feature is configured as an accelerator are used for the acceleration of modular arithmetic operations. That is, the RSA cryptographic operations are used with the SSL/TLS protocol. The following operations are accelerated: \u0002 PKA Decrypt (CSNDPKD) with PKCS-1.2 formatting \u0002 PKA Encrypt (CSNDPKE) with zero-pad formatting \u0002 Digital Signature Verify The RSA encryption and decryption functions support key lengths of 512 - 4,096 bits in the Modulus-Exponent (ME) and Chinese Remainder Theorem (CRT) formats. 6.5.5 Managing Crypto Express8S Each cryptographic coprocessor has 85 physical sets of registers or queue registers, which corresponds to the maximum number of LPARs that are running on an IBM z16 A01, which is also 85. Each of these sets belongs to the following domains: \u0002 A cryptographic domain index, in the range of 0 - 84 for IBM z16 A01, is allocated to a logical partition in its image profile.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.497310",
+    "chunk_number": 577,
+    "word_count": 158
+  }
+}

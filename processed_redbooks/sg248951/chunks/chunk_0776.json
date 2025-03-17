@@ -1,0 +1,18 @@
+{
+  "content": "Remote dynamic activation of I/O configurations for stand-alone Coupling Facilities, Linux on Z and z/TPF The remote activation of dynamic changes avoid the need for disruptive hardware/firmware actions (Power-on Reset or IML) to be taken to instantiate those configuration changes, reducing, or completely eliminating the client workload impact that would otherwise have resulted from taking these disruptive actions. IBM z16 provide a supported capability to drive these hardware-only I/O configuration changes from a driving z/OS HCD instance to a remote target CPC which is a Coupling facility of hosts IBM Linux on Z and z/TPF. This new support is applicable only when boththe driving CPC and the target CPC are z16s with the required firmware support (Bundle S24 or higher) and when the driving system\u2019s z/OS level is 2.3 or higher with APA OA65559. 7.5.7 Coupling links IBM z16 servers support only active participation in the same Parallel Sysplex with IBM z15 and IBM z14. Configurations",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.247505",
+    "chunk_number": 776,
+    "word_count": 156
+  }
+}

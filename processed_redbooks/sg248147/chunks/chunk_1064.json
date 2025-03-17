@@ -1,0 +1,18 @@
+{
+  "content": "GC35-0151 \u0002 Getting Started With Linux on System z, SC24-6096 \u0002 z/VM Security and Integrity paper: http://ibm.com/vm/library/zvmsecint.pdf \u0002 z/VM Guide for Automated Installation and Service, GC24-6197 \u0002 z/VM Service Guide, GC24-6232 \u0002 z/VM RACF Security Server Auditor\u2019s Guide, SC24-6212: http://publib.boulder.ibm.com/cgi-bin/bookmgr/download/HCSR8C10.pdf Online resources The following websites are also relevant as further information sources: \u0002 z/VM: \u2013 Installation: http://www.ibm.com/vm/install \u2013 Publications: http://www.ibm.com/vm/pubs \u2013 Technical library: http://www.ibm.com/vm/library \u2013 Security: http://www.ibm.com/vm/security \u2013 Performance: http://www.ibm.com/vm/perf \u2013 Performance tips: http://www.ibm.com/vm/perf/tips Related publications 525 \u0002 Peer collaboration and shared community knowledge \u2013 Linux for z Systems: The Linux/390 project website and associated wiki: \u2022 http://linuxvm.org/ \u2022 http://wiki.linuxvm.org/ \u2013 List servers; including IBMVM, Linux-390, VM-UTILS, and more:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.195884",
+    "chunk_number": 1064,
+    "word_count": 109
+  }
+}

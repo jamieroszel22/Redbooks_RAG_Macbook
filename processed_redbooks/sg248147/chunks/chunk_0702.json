@@ -1,0 +1,18 @@
+{
+  "content": "completed; with RC = 0. ===> dirmaint status datamove all DVHXMT1191I Your STATUS request has been sent for processing to DIRMAINT ... DVHREQ2288I Your STATUS request for MAINT at * has been accepted. DVHSTT3418I DATAMOVE RDBKZVMG Sysaffin: * Activity: INACTIVE Pending: 0 DVHSTT3418I CurUnit: Autolog Attempts: 0 DVHSTT3418I DATAMOV2 RDBKZVMH Sysaffin: * Activity: INACTIVE Pending: 0 DVHSTT3418I CurUnit: Autolog Attempts: 0 DVHREQ2289I Your STATUS request for MAINT at * has completed; with RC = 0. These tests show that DirMaint is configured and functioning. Tip: You can enter rdrlist at the CMS ready prompt to view all of the files that are currently spooled to the reader. By moving your cursor to any line and pressing PF11, you can invoke PEEK for that file. Chapter 10. DirMaint, RACF-connector, and SMAPI 321 10.4 DirMaint-RACF Connector Tailoring your DirMaint system includes implementing security measures against unauthorized access to data, and inadvertent destruction of data.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.970884",
+    "chunk_number": 702,
+    "word_count": 152
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "(PTP, IEEE 1588) also can be used as an external time source for IBM Z Server Time Protocol (STP) for an IBM Z Coordinated Timing Network (CTN). The initial implementation for PTP connectivity is provided by using the IBM Z Support Element (SE). On IBM z16, the external time source (PTP or NTP) is connected directly to the CPC and bypasses the SE connection. This IBM z16 feature allows more accurate sync with the external time source. The accuracy of an STP-only CTN is improved by using an NTP or PTP server with the PPS output signal as the External Time Source (ETS). Devices with PPS output are available from several vendors that offer network timing solutions. Consider the following points: \u0002 A redesigned card combines the BMC and OSC that are implemented with IBM z16 Model A01. The internal physical cards (BMC and OSC) are separate, but combined as a single FRU because of a packaging design. \u0002 Two local redundant oscillator cards are available per CPC drawer, each with one PPS port",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.605816",
+    "chunk_number": 119,
+    "word_count": 174
+  }
+}

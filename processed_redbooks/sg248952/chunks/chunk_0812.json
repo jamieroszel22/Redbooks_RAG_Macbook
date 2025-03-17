@@ -1,0 +1,18 @@
+{
+  "content": "opportunities \u0002 Supporting the growth of smart and cloud environments \u0002 Managing the risk of volatile, high-growth, and high-volume applications \u0002 Supporting 24 x 7 application availability \u0002 Enabling capacity growth during lockdown or frozen periods \u0002 Enabling planned-downtime changes without affecting availability This capability is based on the flexibility of the design and structure, which allows concurrent hardware installation and Licensed Internal Control Code (LICC) configuration changes. Subcapacity models provide for CP capacity increase in two dimensions that can be used together to deliver configuration granularity. The first dimension is adding CPs to the configuration. The second is changing the capacity setting of the CPs currently installed to a higher model capacity identifier. In addition, a capacity increase can be delivered by increasing the CP capacity setting, and at the same time decreasing the number of active CPs. IBM z16 A02 and IBM z16 AGZ allows the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.356609",
+    "chunk_number": 812,
+    "word_count": 148
+  }
+}

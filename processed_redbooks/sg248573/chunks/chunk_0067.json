@@ -1,0 +1,18 @@
+{
+  "content": "High-Risk AI Systems (Section 1, Paragraph (a)) 14 Ensuring Trustworthy AI with IBM watsonx.governance \u0002 Cybersecurity specifications for AI systems. \u0002 Quality management systems for providers of AI systems, including post-market monitoring processes. \u0002 Conformity assessment for AI systems. Two European standardization bodies (CEN/CENELEC) have accepted that request and have formed a joint technical committee (\u201cJTC21\u201d) for the development and adoption of standards for AI and related data. These technical standards will become important compliance tools since they \u201cwill grant a legal presumption of conformity to AI systems developed in accordance with them.\u201d In other words: if you build your AI systems to the specifications in these technical standards, the EU will assume your system is in conformity with the AI Act. The following list of organizations provides useful information related to AI and AI governance standards. \u0002 NIST RFM National Institute of Standards and Technology - AI",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.705047",
+    "chunk_number": 67,
+    "word_count": 148
+  }
+}

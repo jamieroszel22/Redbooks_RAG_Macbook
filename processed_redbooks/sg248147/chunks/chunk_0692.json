@@ -1,0 +1,18 @@
+{
+  "content": "started. Command: VMFCOPY * EXEC K = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * REXX K = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * XEDIT K = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * DATADVH K = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * DATAADVH K = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * DATAUDVH K = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * MODULE K = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY DVHPROFA * K = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE DIR2PROD: Copy of 492 disk to 491 disk has completed. DIR2PROD: Copy of 41F disk to 11F disk has started. Command: VMFCOPY * EXEC L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * XEDIT L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * DATADVH L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY * DATAADVH L = = E (PRODID 7VMDIR20%DIRM OLDDATE REPLACE Command: VMFCOPY *",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.932168",
+    "chunk_number": 692,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "of failure. The zDAC proposed configurations are created as work I/O definition files (IODFs) that can be converted to production IODFs and activated. Remember: The need for ICKDSF Release 17 also applies to systems that are not part of the same sysplex, or are running an operating system other than z/OS, such as z/VM. Chapter 7. Operating system support 289 zDAC is designed to run discovery for all systems in a sysplex that support the function. Therefore, zDAC helps to simplify I/O configuration on IBM z16 A02 and IBM z16 AGZ that run z/OS, and reduces complexity and setup time. zDAC applies to all FICON features that are supported on IBM z16 A02 and IBM z16 AGZ when configured as CHPID type FC. The supported operating systems are listed in Table 7-6 on page 252 and Table 7-7 on page 253. Platform and name server registration in FICON channel The FICON Express32S, FICON Express16SA10, and FICON Express16S+ features support platform and name server registration to the fabric for",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.014250",
+    "chunk_number": 711,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "system, as described next. 9.3.5 Sending the service package to the managed systems The SERVMGR SRVLVL SEND command transmits the service package to the managed system or systems that are serviced. Example 9-21 shows the result of our SERVMGR command to send the RSU1 package to RDBKZVMC. Example 9-21 SERVMGR SRVLVLSEND command output servmgr srvlvl send 720 rsu1 rdbkzvmc VMFCMG2195I SERVMGR SRVLVL SEND 720 RSU1 RDBKZVMC VMFCMG2760I SERVMGR processing started VMFUTL2767I Reading VMSESE PROFILE B for additional options VMFCSV2760I CSMSRVMT EXEC processing started VMFCSV2195I CSMSRVMT SRVLVL SEND 720 RSU1 RDBKZVMC VMFCTR2760I CSMTRNSP processing started VMFCTR2195I VMFCTR3004I Accessing required minidisks/directories... VMFCTR4080I SEND processing started for system RDBKZVMC VMFCTR4081I Performing service level check for system RDBKZVMC VMFCSQ2760I CSMQUERY processing started VMFCTL4017R Enter the login user ID to be used for RDBKZVMC host system: 9.76.61.239 csmwork VMFCTL4018R Enter",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.799585",
+    "chunk_number": 656,
+    "word_count": 135
+  }
+}

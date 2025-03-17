@@ -1,0 +1,18 @@
+{
+  "content": "operation mode, one PCIe interconnect supports all 16 features in the domain pair. During a CPC Drawer PCIe+ Gen3 fanout or cable failure, all 16 PCIe cards in the two domains can be driven through a single PCIe switch card (Figure 2-24 on page 56). Note: The PCIe Interconnect (switch) adapter must be installed in the PCIe+ I/O drawer to maintain the interconnect across I/O domains. If the adapter is removed (for a service operation), the I/O cards in that domain (up to eight) become unavailable. 56 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 2-24 Redundant I/O Interconnect 2.7.2 Enhanced drawer availability (EDA) With EDA, the effect of CPC drawer replacement is minimized. In a dual CPC drawer system, a single CPC drawer can be concurrently removed and reinstalled for an upgrade or repair. Removing a CPC drawer without affecting the workload requires sufficient resources in the remaining CPC drawer. Before removing the CPC drawer, the contents of the PUs and memory of the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.853183",
+    "chunk_number": 172,
+    "word_count": 167
+  }
+}

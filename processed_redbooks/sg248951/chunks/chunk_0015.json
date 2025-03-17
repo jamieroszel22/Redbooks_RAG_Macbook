@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . 141 3.10 Virtual Flash Memory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142 3.10.1 IBM Z Virtual Flash Memory overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142 3.10.2 VFM feature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 142 3.10.3 VFM administration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143 3.11 IBM Secure Service Container . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143 Chapter 4. Central processor complex I/O structure. . . . . . . . . . . . . . . . . . . . . . . . . . 147 4.1 Introduction to I/O infrastructure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148 4.1.1 IBM z16 I/O infrastructure at a glance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.206395",
+    "chunk_number": 15,
+    "word_count": 390
+  }
+}

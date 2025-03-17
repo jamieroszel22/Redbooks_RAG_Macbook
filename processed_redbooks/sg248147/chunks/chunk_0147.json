@@ -1,0 +1,18 @@
+{
+  "content": "recommended. Be aware that a Windows-based FTP server is likely to cause code page translation, which results in corruption issues during network transport. 42 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u0002 Ubuntu Server version 20.04 LTS or later installation media. If you do not have it, you can obtain a full copy at no charge from Canonical. For more information, see Appendix , \u201cOnline resources\u201d on page 524. \u0002 The code that is associated with this book, as described in Appendix C, \u201cAdditional material\u201d on page 489 \u0002 Tools on the workstation: \u2013 A 3270 emulator, such as x3270, Attachmate Extra, Hummingbird Host Explorer, or IBM Personal Communications. \u2013 A Linux Secure Shell (SSH) customer, such as PuTTY, xTerm, or similar. \u2013 A Virtual Network Computing (VNC) viewer, such as RealVNC, TightVNC, MobaXTerm, or similar. 2.3.3 Networking The following network resources are needed: \u0002 One TCP/IP address for each: \u2013 z/VM system \u2013 Linux virtual server \u0002 Associated TCP/IP information: \u2013",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.724348",
+    "chunk_number": 147,
+    "word_count": 162
+  }
+}

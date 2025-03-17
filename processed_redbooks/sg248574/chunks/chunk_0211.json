@@ -1,0 +1,18 @@
+{
+  "content": "classifying questions and queries, the agent can filter search results, identify relevant sub-agents, or even deny a response if necessary. Guardrails, which serve as a specialized form of classification, act as safeguards to help ensure that the agent\u2019s outputs adhere to predefined ethical and operational guidelines. These mechanisms are valuable in scenarios where precision, safety, and compliance are paramount. The tools that are employed by an agent are another critical aspect of its function. These tools are executable workflows that enable the agent to perform specific tasks. Analogous to specialized third-party APIs, tools provide the agent with targeted capabilities that extend its problem-solving abilities. Examples of tools include Retrieval-Augmented Generation (RAG) pipelines for generating context-aware answers, code interpreters for handling complex programming tasks, and APIs for retrieving information from the internet. Also, utility APIs such as weather services or",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.038756",
+    "chunk_number": 211,
+    "word_count": 139
+  }
+}

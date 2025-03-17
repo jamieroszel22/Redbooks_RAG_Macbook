@@ -1,0 +1,42 @@
+# PDF Processing Configuration
+pdf_processing:
+  chunk_size: 1000  # Number of characters per chunk
+  chunk_overlap: 200  # Number of characters to overlap between chunks
+  min_chunk_size: 100  # Minimum chunk size to keep
+  max_chunk_size: 2000  # Maximum chunk size allowed
+
+# Metadata Extraction
+metadata:
+  extract_title: true
+  extract_author: true
+  extract_date: true
+  extract_abstract: true
+  extract_keywords: true
+
+# File Paths
+paths:
+  pdf_dir: "pdfs"
+  processed_dir: "processed_redbooks"
+  output_dir: "openwebui"
+  temp_dir: "temp"
+
+# Collection Settings
+collection:
+  name: "IBM Z Knowledge Base"
+  description: "Collection of IBM Redbooks about IBM Z"
+  version: "1.0"
+
+# Processing Settings
+processing:
+  parallel_processing: true
+  max_workers: 4
+  timeout: 3600  # seconds
+  retry_attempts: 3
+  retry_delay: 5  # seconds
+
+# Quality Checks
+quality:
+  min_chunk_quality_score: 0.7
+  check_duplicates: true
+  validate_metadata: true
+  check_content_integrity: true

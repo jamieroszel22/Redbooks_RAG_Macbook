@@ -1,0 +1,18 @@
+{
+  "content": "Event Monitor Summary can be see on Figure 10-30. Chapter 10. Hardware Management Console and Support Element 441 Figure 10-30 Event Monitor Summary 10.5.7 Capacity on-demand support All capacity on demand (CoD) upgrades are performed by using the Perform a Model Conversion task on the HMC or SE. Use the task to retrieve and activate a permanent upgrade, and to retrieve, install, activate, and deactivate a temporary upgrade. The task shows a list of all installed or staged LICCC records to help you manage them. It also shows a history of recorded activities. The HMC for IBM z16 features the following CoD capabilities: \u0002 SNMP API support: \u2013 API interfaces for granular activation and deactivation \u2013 API interfaces for enhanced CoD query information \u2013 API event notification for any CoD change activity on the system \u2013 CoD API interfaces, such as On/Off CoD and Capacity Back Up (CBU) \u0002 SE window features (accessed through HMC Single Object Operations): \u2013 Window controls for granular",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.072904",
+    "chunk_number": 1019,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "decision making: The solution was designed to support human decision-makers, and not replace them. The AI-powered pipeline generated summaries and identified key information, but all decisions remained in the hands of humans. \u0002 Education and training: The IBM team provided ongoing education and training on AI to both technical and business users to help ensure that everyone that was involved in the project understood the capabilities and limitations of the technology. \u0002 Thresholds and AI notices: The team implemented technical guardrails by using watsonx.governance to detect and prevent potential biases or errors in the system. \u0002 Feedback mechanism: The IBM team established a continuous feedback loop with the client to refine and improve the solution over time. By considering these guardrails from the beginning, the project was able to meet the institutions needs while aligning to their governance frameworks regarding fairness, transparency, and accountability. It also limited the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.248399",
+    "chunk_number": 267,
+    "word_count": 148
+  }
+}

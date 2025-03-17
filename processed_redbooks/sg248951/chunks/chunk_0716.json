@@ -1,0 +1,18 @@
+{
+  "content": "supported on IBM z16 servers only. The 25 GbE RoCE Express3 are native PCIe features that not use a CHPID and are defined by using the IOCP FUNCTION statement or in the hardware configuration definition (HCD). The virtualization capabilities for IBM z16 are 63 Virtual Functions per port (126 VFs per feature/PCHID). One RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID). The 25 GbE RoCE Express3 SR (FC 0452) feature connects by using SR optics and multimode fiber that is terminated with LC connector. The 25 GbE RoCE Express3 LR (FC 0453) connects by using LR optics and single mode fiber that is terminated with LC connector. Support for select Linux on IBM Z distributions is provided for Shared Memory Communications over Remote Direct Memory Access (SMC-R) by using RoCE Express features. For more information, see this Linux on IBM Z Blogspot web page. Note: An optional feature can be ordered for WWPN persistency before shipment to keep the same",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.037968",
+    "chunk_number": 716,
+    "word_count": 169
+  }
+}

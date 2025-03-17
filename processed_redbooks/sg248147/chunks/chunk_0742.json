@@ -1,0 +1,18 @@
+{
+  "content": "disk: ===> vmlink tcpmaint 592 DMSVML2060I TCPMAINT 592 linked as 0120 file mode Z 4. Run the CALLSM1 EXEC with the following command. The output is shown in Example 10-12: ===> callsm1 Example 10-12 Output of CALLSM1 EXEC buffLen = 57 0000 00000035 00000019 496D6167 655F4465 * 5 Image_De * 0016 66696E69 74696F6E 5F517565 72795F44 * finition_Query_D * 0032 4D000000 00000000 00000000 054D4149 * M MAI * 0048 4E540000 00032A20 00 * NT * * calling send() receiving requestId, buffLen = 4 returned from recv() rc,retvalue =0,4 Request id:= 3756453462 receiving length, buffLen = 4 returned from recv() rc,retvalue =0,4 receiving data, buffLen = 2808 Chapter 10. DirMaint, RACF-connector, and SMAPI 339 returned from recv() rc,retvalue =0,2808 Request id: 3756453462 Return code:0 Reason code:0 possible outdata len:2792 <COMMAND_DEFINE_CPU=> <COMMAND_SET_CPUAFFINITY=> <COMMAND_SET_SHARE=> <COMMAND_SET_VCONFIG=> <CONSOLE=VDEV=0009 DEVTYPE=3215 CLASS=T> ... <VMRELOCATE=> The output shows that SMAPI",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.116975",
+    "chunk_number": 742,
+    "word_count": 141
+  }
+}

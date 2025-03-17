@@ -1,0 +1,18 @@
+{
+  "content": "ITSOZVM2. 2. Run the following commands: ===> ACCESS 193 G ===> LINK PMAINT CF0 CF0 MR ===> ACCESS CF0 Z ===> XEDIT SYSTEM CONFIG Z 354 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 3. Page down to the line immediately before the section with Status of Devices. 4. Insert the lines that are shown in Example 11-3 to the SYSTEM CONFIG Z file. Example 11-3 EDEV SYSTEM CONFIG ITSOZVM1: begin EDEV 3000 EQID EDASD0 TYPE FBA ATTR 2107, FCP_DEV B800 WWPN 500507630500C74C LUN 4010401100000000, FCP_DEV B800 WWPN 50050763050BC74C LUN 4010401100000000, FCP_DEV B900 WWPN 500507630510C74C LUN 4010401100000000, FCP_DEV B900 WWPN 50050763051BC74C LUN 4010401100000000 ITSOZVM1: end ITSOZVM2: begin EDEV 3000 EQID EDASD0 TYPE FBA ATTR 2107, FCP_DEV B800 WWPN 500507630500C74C LUN 4010401100000000, FCP_DEV B800 WWPN 50050763050BC74C LUN 4010401100000000, FCP_DEV B900 WWPN 500507630510C74C LUN 4010401100000000, FCP_DEV B900 WWPN 50050763051BC74C LUN 4010401100000000 ITSOZVM2: end 5. Save and exit XEDIT with",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.207671",
+    "chunk_number": 767,
+    "word_count": 146
+  }
+}

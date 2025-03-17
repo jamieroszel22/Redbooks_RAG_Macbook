@@ -1,0 +1,18 @@
+{
+  "content": "These data sources are often designed and developed for specific purposes and are accessible only by a select group of users or applications. Typically, these existing and legacy data sources are built in silos, lacking a clear understanding of the relationships between the data assets they contain. To resolve this, organizations can use watsonx.data to store structured, semi-structured, and unstructured data and make it directly accessible for AI and business intelligence (BI). To integrate these disjointed data sources, we can onboard them onto IBM's open architecture lakehouse, watsonx.data, which combines elements of a data warehouse and data lakes. It offers a unified platform where users can store data or connect data sources to manage and analyze enterprise data. IBM watsonx.data allows two approaches for onboarding data into the platform: \u0002 Accessing the data in place. Chapter 2. Introduction to IBM watsonx.governance 23 \u0002 Replicating the data onto the platform in Iceberg open",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.773445",
+    "chunk_number": 85,
+    "word_count": 152
+  }
+}

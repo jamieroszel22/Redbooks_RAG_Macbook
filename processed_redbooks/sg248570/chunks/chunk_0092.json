@@ -1,0 +1,18 @@
+{
+  "content": "streamline the development of advanced AI applications with precision and efficiency, ensuring a robust end-to-end AI lifecycle. Synergy between watsonx.data and watsonx.governance The synergy between watsonx.data and watsonx.governance creates a framework of compliance, trust, and accountability for data management and AI deployment. watsonx.data provides the infrastructure for managing the vast amounts of data necessary for AI development. watsonx.governance overlays this with a layer that enforces ethical AI principles (for example, fairness), monitors compliance, and manages risk. This combination helps assure data utilized in AI models adheres to organizational and regulatory standards, mitigating risks of bias or misuse. By connecting these tools, enterprises can scale their AI initiatives confidently, knowing that data and model governance are baked into their workflows. This integration fosters transparency and accountability, which are critical for building trust in AI",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.697520",
+    "chunk_number": 92,
+    "word_count": 133
+  }
+}

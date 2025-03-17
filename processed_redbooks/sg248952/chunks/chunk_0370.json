@@ -1,0 +1,18 @@
+{
+  "content": "to the individual I/O features. Maximum 16 PCIe I/O features (up to 32 channels) per PCIe+ I/O drawer are supported. The PCIe+ I/O drawer is a one-sided drawer (all I/O cards on one side, in the rear of the drawer) that is 8U high. The PCIe+ I/O drawer contains the 16 I/O slots for PCIe features, two switch cards, and two power supply units (PSUs) to provide redundant power, as shown in Figure 4-1 on page 145. The PCIe+ I/O drawer slots numbers are shown in Figure 4-2. Figure 4-2 PCIe+ I/O drawer slots numbers The I/O structure in an IBM z16 A02 and IBM z16 AGZ CPCs is shown in Figure 4-3 on page 146. The PCIe switch card provides the fanout from the high-speed x16 PCIe host bus 146 IBM z16 A02 and IBM z16 AGZ Technical Guide to eight individual card slots. The PCIe switch card is connected to the CPC drawer through a single x16 PCIe Gen3 bus from a PCIe fanout card (PCIe+ fanout cards). In the PCIe+ I/O drawer, the eight I/O feature cards that directly attach to the switch card",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.661807",
+    "chunk_number": 370,
+    "word_count": 187
+  }
+}

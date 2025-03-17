@@ -1,0 +1,18 @@
+{
+  "content": "data. \u0002 Data drift management: Automatically adapts to schema changes, reducing pipeline maintenance overhead. \u0002 Observability: Provides end-to-end visibility and monitoring of data pipelines, enabling proactive issue resolution. \u0002 Data enrichment: Allows data enrichment and transformation in motion, reducing load on downstream systems. \u0002 Integration: Can connect with a variety of streaming sources (Kafka, IoT devices) and targets (Delta Lake, cloud storage). 24 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 2.4.4 General design considerations for open lakehouse pipelines The following are key design considerations for open lakehouse pipelines: \u0002 Data formats: Use open, columnar formats like Parquet or Delta for storage efficiency and analytics performance. \u0002 Schema evolution: Ensure support for schema changes over time without breaking the pipeline. \u0002 Data governance: Implement robust governance for security, access control, and data lineage. \u0002",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.670207",
+    "chunk_number": 84,
+    "word_count": 137
+  }
+}

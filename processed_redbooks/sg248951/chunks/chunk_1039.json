@@ -1,0 +1,18 @@
+{
+  "content": "easier, particularly across multiple systems. The System Input/Output Configuration Analyzer runs the following functions: \u0002 Analyzes the current active IOCDS on the SE. \u0002 Extracts information about the defined channel, partitions, link addresses, and control units. \u0002 Requests the channels\u2019 node ID information. The Fibre Channel connection (FICON) channels support remote node ID information, which is also collected. The System Input/Output Configuration Analyzer is a view-only tool. It does not offer any options other than viewing. The tool provides various sort options, and data can be exported to a UFD for later viewing. By using the tool, data is formatted and displayed in the following views: \u0002 PCHID Control Unit View Shows PCHIDs, channel subsystems (CSS), CHPIDs, and their control units. \u0002 PCHID Partition View Shows PCHIDS, CSS, CHPIDs, and the partitions in which they exist. \u0002 Control Unit View Shows the control units, their PCHIDs, and their link addresses in each CSS. \u0002 Link",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.133062",
+    "chunk_number": 1039,
+    "word_count": 155
+  }
+}

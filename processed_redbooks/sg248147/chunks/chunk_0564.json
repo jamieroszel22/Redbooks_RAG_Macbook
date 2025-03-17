@@ -1,0 +1,18 @@
+{
+  "content": "paging space is available than the total virtual memory across all guests. \u0002 A guideline is to never allow paging space for z/VM to go above 50% full. This rule gives the control program (CP) space to react to sudden increases in central memory demand. Check on this value with the CP QUERY ALLOC PAGE command. If you add the size of the virtual machine that is being relocated to the pages in use, and that total brings the \u201cin use\u201d percentage over 50%, the relocation might negatively affect system performance. \u0002 Use the VMRELOCATE TEST command before VMRELOCATE MOVE. \u0002 The SET RESERVED setting for the guest (if any) on the source system is not carried over to the destination system. This setting for the guest on the destination must be established after the relocation completes, which is based on the available resources and workload on the destination system. 7.1.2 Mandatory memory checking that is performed during relocation As part of eligibility checking and in-between memory move",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.428756",
+    "chunk_number": 564,
+    "word_count": 168
+  }
+}

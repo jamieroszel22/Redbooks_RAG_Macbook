@@ -1,0 +1,18 @@
+{
+  "content": "dedicated processor does not apply to the PCIe cryptographic adapter. Whether configured as a coprocessor or an accelerator, the PCIe cryptographic adapter is made available to an LPAR. It is made available as directed by the domain assignment and the candidate list in the LPAR image profile. This availability is not changed by the shared or dedicated status that is given to the PUs in the partition. Adapter: Although PCIe cryptographic adapters include no CHPID type and are not identified as external channels, all logical partitions (LPARs) in all channel subsystems can access the adapter. In IBM z16, up to 85 LPARs are supported per adapter (HSM). Accessing the adapter requires a setup in the image profile for each partition. The adapter must be in the candidate list. Feature Quantity Minimum number of orderable features 0908 for IBM z16 A01 2 Minimum number of orderable features 0909 for IBM z16a A01 a. The minimum initial order of Crypto Express8S feature 0909 is two. After the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.359872",
+    "chunk_number": 549,
+    "word_count": 165
+  }
+}

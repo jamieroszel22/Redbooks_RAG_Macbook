@@ -1,0 +1,18 @@
+{
+  "content": "fine-tuning cycle and reduces the computational overhead that is traditionally associated with customizing models. Figure 5-6 The InstructLab large language model development kit functions overview The InstructLab approach to fine-tuning is heavily grounded in the concept of taxonomy-driven knowledge curation. Taxonomies, in this context, are structured frameworks of concepts and relationships that organize information into logical categories and subcategories. These taxonomies are built collaboratively by SMEs, and they serve as the foundation for the knowledge that is used to tune the model. For example, if a business wanted to fine-tune an LLM on customer support for a specific industry, an SME in that industry would work with a taxonomy that represents common questions, issues, and terminology that are relevant to the field. By formalizing domain knowledge in a taxonomy, InstructLab helps ensure that the model fine-tuning process is precise, efficient, and contextually relevant.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.803842",
+    "chunk_number": 157,
+    "word_count": 143
+  }
+}

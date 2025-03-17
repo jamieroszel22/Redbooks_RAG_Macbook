@@ -1,0 +1,18 @@
+{
+  "content": "Bridge - - - Y Y 256 IBM z16 A02 and IBM z16 AGZ Technical Guide HiperSockets Multiple Write Facility Y Y Y N N HiperSockets support of IPV6 Y Y Y Y Y HiperSockets Layer 2 support Y Y Y Y Y SMC-D and SMC-R SMC-Dd over ISM (Internal Shared Memory) Y Y Y Yb Yb 25GbE and 10GbE RoCE Express3 for SMC-R Y Y Y Yb Yb 25GbE and 10GbE RoCE Express3 and Express2/2.1 for Ethernet communicationse including Single Root I/O Virtualization (SR-IOV) N N N Yb Yb z/VM Dynamic I/O support for RoCE Express - - - Y Y Shared RoCE environment Y Y Y Y Y Open Systems Adapter (OSA)f OSA-Express7S 1.2 1000BASE-T Ethernetg CHPID type OSC and OSD y Y Y Y Y OSA-Express7S 1000BASE-T Ethernet CHPID type OSC and OSD Y Y Y Y Y OSA-Express6S 1000BASE-T Ethernet CHPID types OSC and OSD Y Y Y Y Y OSA-Express7S 1.2 25GbE CHPID type OSD Y Y Y Y Y OSA-Express7S 25-Gigabit Ethernet Short Reach (SR and SR1.1) CHPID type OSD Y Y Yh Y Y OSA-Express7S 1.2 10GbE CHPID type OSD Y Y Y Y Y OSA-Express7S 10-Gigabit Ethernet Long Reach",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.691669",
+    "chunk_number": 623,
+    "word_count": 197
+  }
+}

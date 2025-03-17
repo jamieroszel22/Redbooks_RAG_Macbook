@@ -1,0 +1,18 @@
+{
+  "content": "optimized for this MTU. \u2022 If you cannot use the PMTUD feature, the use of 1492 is recommended unless you know that your network can use jumbo frames. \u2013 In general, a value for the Port Number is no longer necessary. Press F5 to complete the wizard. *** z/VM TCP/IP Configuration Wizard *** The items that follow describe your z/VM host User ID of VM TCP/IP Stack Virtual Machine: TCPIP___ Host Name: RDBKZVMF____________ Domain Name: cpolab.ibm.com__________________________ Gateway IP Address: 9.76.61.1_____________________________ DNS Addresses: 1)9.0.128.50___________________________ 2)9.0.130.50__ *** General Interface Configuration Panel *** Interface Name: OSA1____________ Device Number: 1944 IP Address: 9.76.61.242____ Subnet Mask: 255.255.255.0__ Path MTU Discovery (Optional): _Enabled _Disabled Interface Type (Select one): _QDIO (layer 3) xQDIO (layer 2) _LCS _HiperSockets _CTC 130 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Figure 5-32 QDIO Interface Configuration Panel",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.439925",
+    "chunk_number": 314,
+    "word_count": 135
+  }
+}

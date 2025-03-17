@@ -1,0 +1,18 @@
+{
+  "content": "across an organization. 1.1.2 Data stores, data integration, and data management tools Numerous solutions appeared for managing and integrating data to enable reporting, analysis, and discovery of insights as data volumes grew. They were data stores with names like database, online transactional processing (OLTP), online analytical processing (OLAP), data warehouse, MDM system, data mart, data lake, Hadoop, or data lakehouse. Many of these terms tend to be used interchangeably, but important differences exist. Each term provides certain capabilities and values to different groups of users, but none is a panacea for all data management challenges. However, technology follows a maturity curve or cycle, and these technologies eventually found their own niches as they matured. Many forms of data stores and data servers are used across enterprises today. More variations of them and new paradigms will evolve because technology constantly advances. A data fabric (an architectural approach",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.498857",
+    "chunk_number": 42,
+    "word_count": 146
+  }
+}

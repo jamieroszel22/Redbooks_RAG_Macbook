@@ -1,0 +1,18 @@
+{
+  "content": "can be enabled by the client is the total physically installed memory minus the 160 GB of HSA memory. \u0002 A CPC drawer can have available unused memory, which can be ordered as a memory upgrade and enabled by LICCC concurrently without DIMM changes. \u0002 DIMM changes require a disruptive power-on reset (POR) on IBM z16 A02 and IBM z16 AGZ with a single CPC drawer. DIMM changes can be done concurrently on configurations with two CPC drawers using Enhanced Drawer Availability (EDA). CFG # DCM1 M0CP0 MD01-04 & MD25-28 DCM2 M1CP0 MD05-08 & MD29-32 DCM2 M1CP1 MD09-12 & MD33-36 DCM3 M2CP0 MD13-16 & MD37-40 DCM3 M2CP1 MD17-20 & MD41-44 DCM4 M3CP0 MD21-24 & MD45-48 Physical INC -HSA 160GB 40 64 64 64 128 2560 2400 41 128 64 64 128 3072 512 2912 42 128 128 64 128 3584 512 3424 43 128 128 128 128 4096 512 3936 21 32 32 512 352 22 32 32 32 32 1024 512 864 23 64 32 64 32 1536 512 1376 24 64 64 64 64 2048 512 1888 25 64 64 64 64 64 2560 512 2400 26 64 64 64 64 64 64 3072 512 2912 27 128 64 64 64 64 64",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.792487",
+    "chunk_number": 156,
+    "word_count": 205
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "codes can be carried forward from previous orders: \u0002 FC 0062 \u0002 FC 0063 \u0002 FC 0082 \u0002 FC 0083 On the carry forward HMCs, Driver 51/Version 2.16.0 must be installed to support IBM z16 A02 and IBM z16 AGZ. Also Driver 51/Version 2.16.0 can be installed on the HMCs provided with the HMA feature FC 0100 on IBM z15. You can use the IBM z16 A02 and IBM z16 AGZ with carry forward HMCs and no initial order of FC 0129 (HMA for IBM z16 A02 and IBM z16 AGZ). The HMA, FC0129, can be ordered and installed at a later time as an upgrade. With IBM z16 A02 and IBM z16 AGZ the HMA feature shares the 1U server hardware with the SE code. The SE code runs virtualized under the HMC on each of the two 1U rack-mounted servers. One SE is the Primary SE (active) and the other is the Alternate SE (backup). As with the HMCs, the SEs are closed systems (appliances), and no other applications can be installed on the same hardware. The HMC is used to set up, manage, monitor, and operate one or more IBM Z CPCs. It",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.858580",
+    "chunk_number": 958,
+    "word_count": 196
+  }
+}

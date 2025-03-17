@@ -1,0 +1,18 @@
+{
+  "content": "to the transport of mass storage data. Today, the most common SAN technology is Fibre Channel. FC is established in nearly all large enterprise-class data centers globally. On the mainframe, the protocol is called Fibre Channel Protocol (FCP). It is important to distinguish FCP from mainframe architecture, where the abbreviation FC stands for FICON. Although FCP and FC are similar, they are not the same. Direct-attached Fibre Channel characteristics FCP features the following specific properties: \u0002 No disks are dedicated, only adapters. The Linux operating system operates the Fibre Channel adapters, as shown in Figure 11-1. Figure 11-1 Connection overview between disk storage subsystem and virtual machines \u0002 Each adapter can provide many disks, which are also called logical unit numbers (LUNs). The exact number depends on the storage system that is used. \u0002 When you use N_Port ID Virtualization (NPIV) as recommended in this book, the Fibre Channel switches must support the NPIV",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.168731",
+    "chunk_number": 756,
+    "word_count": 154
+  }
+}

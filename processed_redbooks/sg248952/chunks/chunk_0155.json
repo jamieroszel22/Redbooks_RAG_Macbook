@@ -1,0 +1,18 @@
+{
+  "content": "sizes in each CPC drawer do not have to be similar. RAIM is now built into the bank of 8 DIMMs and should no longer be part of the memory equation (minus 20%). \u2013 There are 14 drawer configurations supporting memory \u2013 Different CPC drawers can contain different amounts of memory 46 IBM z16 A02 and IBM z16 AGZ Technical Guide \u2013 A drawer may have a mix of DIMM sizes \u2013 Total memory includes HSA. Customer memory is remaining memory available to customer after HSA is subtracted The 17 (40-43) and (21-33) drawer memory configurations that are supported are listed in Table 2-10. Each CPC drawer is included from manufacturing with one of these memory configurations. Table 2-10 Drawer memory plugging configurations (all values in GB) Consider the following points: \u0002 A CPC drawer contains a minimum of 16 (2x8) 32GB DIMMs as listed in drawer configuration number 21 in Table 2-10. \u0002 A CPC drawer can have more memory installed than what is actually enabled for client use. The amount of memory that",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.790058",
+    "chunk_number": 155,
+    "word_count": 175
+  }
+}

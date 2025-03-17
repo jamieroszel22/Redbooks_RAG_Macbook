@@ -1,0 +1,18 @@
+{
+  "content": "development of the UDX code by IBM Global Services according to your specifications and an agreed-upon level of the UDX. A UDX toolkit for IBM Z is tied to specific versions of the CCA code and the related host code. UDX is available for the Crypto Express7S and Crypto Express6S (Secure IBM CCA coprocessor mode only) features. An UDX migration is no more disruptive than a normal Microcode Change Level (MCL) or ICSF release migration. In IBM z16 A02 and IBM z16 AGZ, up to four UDX files can be imported. These files can be imported from a USB media stick or an FTP server. The UDX configuration window is updated to include a Reset to IBM Default button. 220 IBM z16 A02 and IBM z16 AGZ Technical Guide On IBM z16 A02 and IBM z16 AGZ, Crypto Express8S is delivered with CCA Level 8.1 firmware. A new set of cryptographic functions and callable services is provided by the IBM CCA LIC to enhance the functions that secure financial transactions and keys. The Crypto Express8S includes the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.334822",
+    "chunk_number": 544,
+    "word_count": 177
+  }
+}

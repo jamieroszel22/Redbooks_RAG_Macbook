@@ -1,0 +1,18 @@
+{
+  "content": "before creating an upgrade plan. \u0002 Acknowledge that some hardware features cannot be ordered or carried forward for an upgrade from an earlier server to IBM z16 A02 and IBM z16 AGZ and plan accordingly. \u0002 Determine the changes in IOCP, HCD, and HCM to support defining IBM z16 A02 and IBM z16 AGZ configuration and the new features and functions it introduces. \u0002 Ensure that none of the new z/Architecture Machine Instructions (mnemonics) that were introduced with IBM z16 A02 and IBM z16 AGZ are colliding with the names of Assembler macro instructions you use16. \u0002 Check the use of MACHMIG statements in LOADxx PARMLIB commands. \u0002 Contact software vendors to inform them of new machine model and request new license keys if applicable. \u0002 Review the z/OS Upgrade Workflow for z/OSMF provided with APAR OA62703 for z/OS V2R2 and higher. This Workflow is also available in the IBM Documentation library. 7.5.2 Hardware Fix Categories (FIXCATs) Base support includes fixes that are required to run",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.238377",
+    "chunk_number": 772,
+    "word_count": 166
+  }
+}

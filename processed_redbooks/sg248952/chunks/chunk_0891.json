@@ -1,0 +1,18 @@
+{
+  "content": "in Figure 8-16. The STSI instruction returns the model capacity identifier for the permanent configuration and the model capacity identifier for any temporary capacity. This data is key to the functioning of CoD offerings. Figure 8-16 Format of system-information block (SYSIB) The model capacity identifier contains the base capacity, On/Off CoD, and CBU. The Model Permanent Capacity Identifier and the Model Permanent Capacity Rating contain the base capacity of the system. The Model Temporary Capacity Identifier and Model Temporary Capacity Rating contain the base capacity and On/Off CoD. For more information about the STSI instruction, see z/Architecture Principles of Operation, SA22-7832. Chapter 8. System upgrades 361 Store CPU ID (STIDP) instruction The STIDP instruction returns information about the processor type, serial number, and LPAR identifier, as shown in Figure 8-17. Figure 8-17 STIDP Information Consider the following points: \u0002 Bits 0 - 7: \u2013 For a program that is run by",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.629249",
+    "chunk_number": 891,
+    "word_count": 151
+  }
+}

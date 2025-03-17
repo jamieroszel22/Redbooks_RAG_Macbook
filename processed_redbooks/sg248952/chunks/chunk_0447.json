@@ -1,0 +1,18 @@
+{
+  "content": "Sysplex is composed of one or more z/OS operating system images that are coupled through one or more CFs. This section describes coupling link features supported in a Parallel Sysplex in which an IBM z16 A02 or IBM z16 AGZ may participate. Coupling links The type of coupling link that is used to connect a CF to an operating system LPAR is important. The link performance significantly affects response times and coupling processor usage. For configurations that extend over large distances, the time that is spent on the link can be the largest part of the response time. IBM z16 A02, IBM z16 AGZ, IBM z15 and IBM z1413 support three coupling link types: \u0002 Integrated Coupling Adapter Short Reach (ICA SR1.1 and ICA SR) links connect directly to the CPC drawer and are intended for short distances between CPCs of up to 150 meters. Channel feature Feature code Bit rate in Gbps Cable type Maximum unrepeated distancea (MHz - km) a. Minimum fiber bandwidths in MHz/km for multimode fiber optic",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.954915",
+    "chunk_number": 447,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "subsystems (for example, disks), see 4.6.2, \u201cStorage connectivity\u201d on page 157. For more information about communication to LANs, see 4.6.3, \u201cNetwork connectivity\u201d on page 164. Communication between systems is implemented by using CE LR, ICA SR, or channel-to-channel (FICON CTC) connections. For more information, see 4.6.4, \u201cParallel Sysplex connectivity\u201d on page 177. 4.6.1 I/O feature support and configuration rules The supported I/O features are listed in Table 4-5. Also listed in Table 4-5 are the number of ports per card, port increments, the maximum number of feature cards, and the maximum number of channels for each feature type. The CHPID definitions that are used in the IOCDS also are listed Table 4-5 IBM z16 A02 and IBM z16 AGZ A01supported I/O features I/O feature Ports per card Port increments Max. portsa Max. I/O slotsa PCHID CHPID definition Storage access FICON Express32S LX/SX 2 2 96 48 Yes FC, FCPb FICON Express16S+ LX/SX 2 2 96 48 Yes FC, FCPb zHyperLink Express 1.1 2",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.721177",
+    "chunk_number": 386,
+    "word_count": 163
+  }
+}

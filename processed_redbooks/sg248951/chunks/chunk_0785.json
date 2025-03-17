@@ -1,0 +1,18 @@
+{
+  "content": "include a one-time charge (OTC) and an optional annual maintenance charge, called Subscription and Support. This annual charge includes access to IBM technical support and enables you to obtain version upgrades at no charge for products that generally fall under the zIPLA such as application development tools, CICS tools, data management tools, WebSphere for IBM Z products, Linux on IBM Z middleware and z/VM. The following pricing metrics apply to IBM Z IPLA products: \u2013 Value Unit pricing applies to most IPLA products that run on z/OS. Value Unit pricing is typically based on a number of MSUs and allows for lower cost of incremental growth. \u2013 z/VM V5, V6, V7, and specific z/VM middleware include pricing that is based on the number of engines. Engine-based Value Unit pricing allows for a lower cost of incremental growth with more engine-based licenses that are purchased. \u2013 Most Linux middleware also is priced based on the number of engines. The number of engines is converted into",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.278187",
+    "chunk_number": 785,
+    "word_count": 164
+  }
+}

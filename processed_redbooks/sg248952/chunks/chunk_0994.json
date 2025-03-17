@@ -1,0 +1,18 @@
+{
+  "content": "password-based authentication. The file transfer server choices for HMC are shown in Figure 10-21. Figure 10-21 FTP protocols drop-down list FTP through HMC It is recommended to keep the HMCs and SEs on an isolated network. This approach prevents SEs initiating FTP connections with outside networks and applies to all supported file transfer protocols (FTP, FTPS, and SFTP). All FTP connections that originate from the SE are taken to the HMC. Secure FTP server credentials must be imported to one or more managing HMC consoles. After the HMC console completes all FTP operations, the HMC console performs the FTP operation on SE\u2019s behalf and returns the results. Secure console-to-console communications The IBM z16 A02 and IBM z16 AGZ HMC has an industry standard-based, password-driven cryptography system. The Domain Security Settings are used to provide authentication and high-quality encryption. We recommend that clients use unique Domain Security settings to provide maximum security. This",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.975118",
+    "chunk_number": 994,
+    "word_count": 152
+  }
+}

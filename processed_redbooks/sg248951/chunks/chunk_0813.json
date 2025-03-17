@@ -1,0 +1,18 @@
+{
+  "content": "information, see 2.5.7, \u201cFlexible Memory Option\u201d on page 46. 2 The IBM z16 zero CP MCI is 400. This setting applies to an all-IFL or all-ICF system. Tip: A CPC drawer feature upgrade can be performed concurrently only for a Max39 or a Max82 machine if feature codes 2981 or 2982 were ordered with the base machine. 336 IBM z16 (3931) Technical Guide Concurrent hardware installation upgrades (MES ordered) Configuration upgrades can be concurrent when installing the following resources: \u0002 Processor drawers (which contain processors, memory, and fan-outs). Up to two processor drawers can be added concurrently on an IBM z16 A01 Max39 if feature codes 2981 and 2982 were ordered with the initial configuration. \u0002 PCIe+ Gen3 fan-outs. \u0002 I/O cards, when slots are still available on the installed PCIe+ I/O drawers. \u0002 PCIe+ I/O drawers. The concurrent I/O upgrade capability can be better used if a future target configuration is considered during the initial configuration. Concurrent PU conversions",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.361221",
+    "chunk_number": 813,
+    "word_count": 160
+  }
+}

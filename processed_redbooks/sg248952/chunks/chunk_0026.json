@@ -1,0 +1,18 @@
+{
+  "content": "features and functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 258 7.4.1 LPAR Configuration and Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 259 7.4.2 Base CPC features and functions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 262 7.4.3 Coupling and clustering features and functions . . . . . . . . . . . . . . . . . . . . . . . . . 274 7.4.4 Storage connectivity-related features and functions . . . . . . . . . . . . . . . . . . . . . . 279 7.4.5 Networking features and functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 290 7.4.6 Cryptography Features and Functions Support . . . . . . . . . . . . . . . . . . . . . . . . . 301 7.5 z/OS migration considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 307 7.5.1 General guidelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.246929",
+    "chunk_number": 26,
+    "word_count": 355
+  }
+}

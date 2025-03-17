@@ -1,0 +1,18 @@
+{
+  "content": "Press F3 to exit XEDIT. 6. Although the service was \u201cput into production\u201d, the QUERY CPLEVEL command still returns the current service level, which in this example is 2001 (the first RSU in the year 2020) because the new CP load module (nucleus) was not loaded: ==> query cplevel z/VM Version 7 Release 2.0, service level 2001 (64-bit) Generated at 07/29/20 16:50:40 EDT IPL at 09/09/20 11:09:59 EDT 7. Run the same PUT2PROD command on all other members of the single system image (SSI) cluster. Important: The PUT2PROD command affects your production environment. It is recommended that all users are logged off before you run it. Placing service into production must be performed as part of a planned system outage because a SHUTDOWN REIPL is recommended after you place service into production. Chapter 8. Servicing z/VM 265 8. To load the new CP load module, shut down and IPL the single system image (SSI) cluster again: a. Log off from MAINT720. b. Log on to MAINT. c. Issue the SHUTDOWN REIPL",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.516353",
+    "chunk_number": 587,
+    "word_count": 171
+  }
+}

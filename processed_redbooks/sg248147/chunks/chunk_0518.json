@@ -1,0 +1,18 @@
+{
+  "content": "delete the lines. viii.Clear the filter, save your changes, and quit XEDIT to return to FILELIST: ====> all ====> file g. Press F2 to refresh the display. You see that the record (line) count and date and time stamp differ between SYSTEM DTCPWRKS and SYSTEM DTCPARMS. h. Press F3 to quit FILELIST. VMLINK will automatically release and detach the TCPMAINT 198 disk for you and return you to the CMS Ready; prompt: DMSVML206I TCPMAINT 198 detached Ready; 14.Test enrollment by using the SSLPOOL ENROLL command with the TEST option. It ends with a return code of 4 (RC = 4): ===> SSLPOOL ENROLL (TEST DTCSLP3372I The SSLPOOL processing mode and values cited here will be used DTCSLP3397I Processing mode ...........: ENROLL Options in effect..........: TEST DTCSLP3396I Operands in effect: SFS file pool name ......: VMSYS SFS file space owner ID .: TCPMAINT SSL server pool prefix ..: SSL TCP/IP server ID ........: TCPIP SSL server pool count ...: 5 SSL server work directory:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.219638",
+    "chunk_number": 518,
+    "word_count": 163
+  }
+}

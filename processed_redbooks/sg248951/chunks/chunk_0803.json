@@ -1,0 +1,18 @@
+{
+  "content": "Secondary approval An option that is selected by the client that requires second approver control for each CoD order. When a secondary approval is required, the request is sent for approval or cancellation to the Resource Link secondary user ID. Staged record The point when a record that represents a temporary or permanent capacity upgrade is retrieved and loaded on the SE disk. Subcapacity For IBM z16 A01 servers, CP features (CP4, CP5, and CP6) provide reduced capacity relative to the full capacity CP feature (CP7). System Recovery Boost Upgrade record Available on IBM z16 A01 servers, the optional System Recovery Boost Upgrade is an orderable feature that provides more capacity for a limited time to enable speeding up shutdown, restart, and catchup processing for a limited event duration. Temporary capacity An optional capacity that is added to the current system capacity for a limited amount of time. It can be capacity that is owned or not owned by the client. Vital product data",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.331855",
+    "chunk_number": 803,
+    "word_count": 164
+  }
+}

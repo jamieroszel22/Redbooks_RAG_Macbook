@@ -1,0 +1,18 @@
+{
+  "content": "facility scalability and performance improvements For more information about supported functions and their minimum required support levels, see 7.3, \u201cIBM z16 A02 and IBM z16 AGZ features and functions support overview\u201d on page 248. 7.2.3 21st Century Software VSEn V6.3 21st Century Software VSEn (21CS VSEn) V6R3 was announced in March 2022 and is based on an IBM licensed copy of IBM z/VSE. For more information about this product visit the 21st Century Software website. Chapter 7. Operating system support 247 IBM z16 A02 and IBM z16 AGZ support is provided by 21CS VSEn V6R3 and later, with the following considerations: \u2013 21CS VSEn runs in z/Architecture mode only. \u2013 21CS VSEn supports 64-bit real and virtual addressing. For more information about supported functions and their minimum required support levels, see 7.3, \"IBM z16 A02 and IBM z16 AGZ features and functions support overview\" on page 246. 7.2.4 z/TPF IBM z16 A02 and IBM z16 AGZ support is provided by z/TPF V1R1 with PTFs. For",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.599977",
+    "chunk_number": 606,
+    "word_count": 165
+  }
+}

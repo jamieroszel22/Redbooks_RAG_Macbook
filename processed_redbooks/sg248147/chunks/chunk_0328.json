@@ -1,0 +1,18 @@
+{
+  "content": "close attention to the following files when configuring z/VM: \u0002 The SYSTEM CONFIG file, which is on the parm disk. This CMS-formatted minidisk can be read by a Control Program (CP). For more information, see 6.3, \u201cz/VM parm disks\u201d on page 143. \u0002 LOGO CONFIG file, which also is on parm disk. \u0002 USER DIRECTORY, which can be on MAINT 2CC or controlled by DIRMAINT. The following configuration changes that are on parm disk are read only when you IPL z/VM: \u0002 Dynamic system changes (in SYSTEM CONFIG) are made by using Control Program (CP) commands. \u0002 Logo configuration changes (LOGO CONFIG) by using the CP refresh command. The z/VM User Directory configures virtual machines or user IDs. It is read often by the system and can be dynamically updated. In this section, we discuss the SYSTEM CONFIG and USER DIRECTORY files. 6.2 Configuring the XEDIT PROFILE z/VM uses a program that is called XEDIT as the text editor for the system. It is similar in function to vi/vim, EMACS, nano, or pico on",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.489834",
+    "chunk_number": 328,
+    "word_count": 174
+  }
+}

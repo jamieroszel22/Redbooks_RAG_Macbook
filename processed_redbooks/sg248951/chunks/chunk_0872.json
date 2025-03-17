@@ -1,0 +1,18 @@
+{
+  "content": "Resource Link. The zIIP processors that can be activated by System Recovery Boost record come from the \u201cdark core\u201d capacity on the server. They can be added to an IBM z16 nondisruptively. The base system configuration must have sufficient memory and channels to accommodate the potential requirements of the larger capacity system. When activating the System Recovery Boost record, the extra zIIPs are added to the zIIP pool when they are activated. Review the LPAR zIIP assignments and weights in the image profiles to ensure that the LPAR can use the extra capacity when it becomes available. Important: The base System Recovery Boost capability is built into IBM z16 firmware and does not require ordering more features. System Recovery Boost Upgrade (consisting of FC 9930 and FC 6802) is an optional, orderable feature that provides more temporary zIIP capacity for use during boost periods. Consider the following points: \u0002 FC 9930 is not required to use the base System Recovery Boost",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.567297",
+    "chunk_number": 872,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "setup information from z/OS. z/OS XCF/XES toleration APAR support is required to provide this enhancement. Note: In IBM z16, DYNDISP=THIN option is the only available behavior for shared-engine CF dispatching. Chapter 3. Central processor complex design 135 \u0002 Message Path SYID Resiliency Enhancement When a z/OS system IPLs, message paths are supposed to be deactivated by using system reset, and their SYIDs are supposed to be cleared in the process. During the IPL, z/OS then reactivates the message paths with a new SYID that represents the new instance of z/OS that uses the paths. On rare occasions, a message path might not be deactivated during system reset or IPL processing, which leaves the message path active with the z/OS image\u2019s OLD, now-obsolete SYID. Because the path erroneously remained active, z/OS does not see any need to reactivate it with a new, correct SYID. From the perspective of the CF, the incorrect SYID persists and prevents delivery of signals to the z/OS image that",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.572591",
+    "chunk_number": 343,
+    "word_count": 163
+  }
+}

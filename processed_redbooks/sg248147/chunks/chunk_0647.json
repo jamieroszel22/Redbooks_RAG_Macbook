@@ -1,0 +1,18 @@
+{
+  "content": "and it was not authorized to do so. On a z/VM 7.2 fresh installation, we saw that MAINT720 was listed in the OBEY section of PROFILE TCPIP. However, because our candidate system was upgraded from z/VM 7.1, \\ no OBEY entry existed for MAINT720. After MAINT720 was added to the OBEY list in PROFILE TCPIP, the SERVMGR SYSTEM ADD command completed as expected. Chapter 9. z/VM Centralized Service Management 293 We repeated the display by using the DETAILS option against RDBKZVMC to see the extra information that was provided. We also performed another display of the RSU1 service level. Example 9-19 shows the results of these commands. Example 9-19 VMCSM system query commands servmgr system query 720 all VMFCMG2195I SERVMGR SYSTEM QUERY 720 ALL VMFCMG2760I SERVMGR processing started VMFUTL2767I Reading VMSESE PROFILE B for additional options VMFCSQ2760I CSMQUERY processing started VMFCSQ4205I ---------------------------------------- VMFCSQ4205I CSM SYSTEM Query for z/VM Version 7.2.0",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.768092",
+    "chunk_number": 647,
+    "word_count": 150
+  }
+}

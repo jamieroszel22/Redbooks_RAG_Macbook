@@ -1,0 +1,18 @@
+{
+  "content": "or stack), as non-executable to improve the security of programs running on IBM Z against stack-overflow or similar attacks. Through enhanced hardware features (based on DAT table entry bit) and explicit software requests to obtain memory areas as non-executable, areas of memory can be protected from unauthorized execution. A Protection Exception occurs if an attempt is made to fetch an Chapter 7. Operating system support 275 instruction from an address in such an element or if an address in such an element is the target of an execute-type instruction. \u0002 z/OS To use IEP, Real Storage Manager (RSM) is enhanced to request non-executable memory allocation. Use new keyword EXECUTABLE=YES|NO on STORAGE OBTAIN or IARV64 to indicate whether memory to be used contains executable code. Recovery Termination Manager (RTM) writes LOGREC record of any program-check that results from IEP. IEP support is for z/OS V2.R2 and later running on IBM z16 A02 and IBM z16 AGZ with APARs OA51030 and OA51643",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.871625",
+    "chunk_number": 671,
+    "word_count": 160
+  }
+}

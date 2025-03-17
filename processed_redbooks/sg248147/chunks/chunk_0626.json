@@ -1,0 +1,18 @@
+{
+  "content": "with RC=0 VMFCTL3040I Issuing command VMFBTMAP with operands/options: TCPIPSFS (LOG CMG+$CSM RETAIN X VMFCTL3038I Command VMFBTMAP TCPIPSFS (LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3040I Issuing command VMFBTMAP with operands/options: TSAFSFS (LOG Chapter 9. z/VM Centralized Service Management 285 CMG+$CSM RETAIN X VMFCTL3038I Command VMFBTMAP TSAFSFS (LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL4003I File PRODID BITMCSM$ X created VMFCTL3038I Command VMFSETUP CSM ICKDSFSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM LESFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM AVSSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM CMSSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM CPSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM DIRMSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.684217",
+    "chunk_number": 626,
+    "word_count": 137
+  }
+}

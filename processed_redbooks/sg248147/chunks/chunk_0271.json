@@ -1,0 +1,18 @@
+{
+  "content": "not reply to this email, as * * it was sent by an unattended machine. * *********************************************************************** When you receive the email, it includes the URL for downloading your order. Use a web browser to go to that URL. Important: Be sure that you obtain the code in your order in a timely manner. In Example 5-2 on page 100, it specifies a date through which the order is available: Your order is available for download on the IBM software delivery server through \"30 Oct 2020. After the date passes, the code is no longer available and you must go through the entire ordering process again if you did not download everything. 104 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Order retrieval After you clicked the delivery URL in the email, you must review several sections of the order retrieval web page, as shown in Figure 5-2. Figure 5-2 Example web page to download the order from ShopZ This web page features the following sections: \u0002 Order Packing List:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.223825",
+    "chunk_number": 271,
+    "word_count": 169
+  }
+}

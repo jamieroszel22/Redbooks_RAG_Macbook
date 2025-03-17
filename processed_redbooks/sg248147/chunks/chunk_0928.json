@@ -1,0 +1,18 @@
+{
+  "content": "HWaddr 02:00:0B:00:00:0B inet addr:10.1.1.47 Bcast:10.1.1.255 Mask:255.255.255.0 inet6 addr: fe80::bff:fe00:b/64 Scope:Link UP BROADCAST RUNNING NOARP MULTICAST MTU:1492 Metric:1 RX packets:8 errors:0 dropped:0 overruns:0 frame:0 TX packets:5 errors:0 dropped:0 overruns:0 carrier:0 collisions:0 txqueuelen:1000 RX bytes:2464 (2.4 KiB) TX bytes:350 (350.0 b) SUSE Linux Enterprise Server 12 If you are on a SUSE Linux Enterprise Server system, perform the following steps to create the network device ETH1: 1. Run the following command to create the device on LNXADMIN: # qeth_configure -l -t qeth 0.0.0604 0.0.0605 0.0.0606 1 2. Create the interface eth1 by using the file /etc/sysconfig/network/ifcfg-eth1: # vi /etc/sysconfig/network/ifcfg-eth1 BOOTPROTO='static' IPADDR='10.1.1.48/24' STARTMODE='onboot' NAME='OSA Express(0.0.0604)' 3. Open the eth1 device with the ifup command: # ifup eth1 4. Test the connectivity between each Linux image. You now have a functioning network interface that",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.728070",
+    "chunk_number": 928,
+    "word_count": 130
+  }
+}

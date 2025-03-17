@@ -1,0 +1,18 @@
+{
+  "content": "operating systems can run in Linux only mode. Linux on IBM Z 64-bit distributions (SUSE Linux Enterprise Server 12 SP5, SLES 15 SP3, Red Hat RHEL 7.9, RHEL 8.4, and Ubuntu 20.04.1 LTS and later) use 64-bit addressing and operate in z/Architecture mode. z/VM also uses 64-bit addressing and operates in z/Architecture mode. \u0002 z/VM In z/VM mode, specific types of processor units can be defined within one LPAR. This feature increases flexibility and simplifies systems management by allowing z/VM to run the following tasks in the same z/VM LPAR: \u2013 Manage guests to operate Linux on IBM Z on IFLs \u2013 Operate z/VSE and z/OS on CPs \u2013 Offload z/OS system software processor usage, such as Db2 workloads on zIIPs \u2013 Provide an economical Java execution environment under z/OS on zIIPs \u0002 IBM SSC In IBM SSC mode, storage addressing is 64-bit for an embedded product. The amount of usable main storage by the appliance code that is deployed in the SSC LPAR is documented by the appliance code supplier. Note:",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.486586",
+    "chunk_number": 322,
+    "word_count": 172
+  }
+}

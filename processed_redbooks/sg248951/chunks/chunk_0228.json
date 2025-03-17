@@ -1,0 +1,18 @@
+{
+  "content": "expansion that is based on CMPSC instruction. The compression dictionary uses the level 1 (L1) cache (instruction cache). The cryptography coprocessor is used for CPACF, which offers a set of symmetric cryptographic functions for encrypting and decrypting of clear key operations. The compression and cryptography coprocessors feature the following characteristics: \u0002 Each core has an independent compression and cryptographic engine. \u0002 The coprocessor was redesigned to support SMT operation and for throughput increase. \u0002 It is available to any processor type (regardless of the processor characterization). \u0002 The owning processor is busy when its coprocessor is busy. Chapter 3. Central processor complex design 87 The location of the coprocessor on the IBM z16 chip is shown in Figure 3-13. Figure 3-13 IBM z16 Core co-processor On-core compression (CMPSC) on IBM z16 The compression coprocessor on IBM z16 provides the same functions that are available on IBM z15. On-core cryptography",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.086550",
+    "chunk_number": 228,
+    "word_count": 149
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "enough capacity tokens to allow the activation for an entire billing window (24 hours). The resources remain active until they are deactivated until all of the resource tokens are used, or until the record expires. The record usually expires 180 days after its installation. If one capacity token type is used, resources from the entire record are deactivated. For example, for an IBM z16 with capacity identifier 502 (two CPs), a capacity upgrade through On/Off CoD can be delivered in the following ways: \u0002 Add CPs of the same capacity setting. With this option, the model capacity identifier can be changed to a 503, which adds another CP to make it a three-way CP. It also can be changed to a 504, which adds two CPs and makes it a four-way CP. \u0002 Change to a different capacity level of the current CPs and change the model capacity identifier to a 602 or 702. The capacity level of the CPs is increased, but no other CPs are added. The 502 also can be temporarily upgraded to a 603, which",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.495916",
+    "chunk_number": 851,
+    "word_count": 179
+  }
+}

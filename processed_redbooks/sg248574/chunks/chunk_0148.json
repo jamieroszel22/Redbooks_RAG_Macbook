@@ -1,0 +1,18 @@
+{
+  "content": "datasets to refine its understanding of specific terminologies, language patterns, or operational protocols. This process differs from lightweight techniques like prompt tuning, which adjusts model behavior externally without altering its core structure. Fine-tuning, by contrast, modifies the model itself, embedding new knowledge directly into its architecture. While this approach enables unparalleled precision and customization, it introduces many challenges. Here are some common challenges with fine-tuning: \u0002 Data management: One of the primary difficulties with fine-tuning. Fine-tuning demands datasets that are relevant and meticulously prepared, which includes ensuring that the data is formatted correctly, free from bias, and representative of the target domain. Even determining the appropriate size of the dataset requires careful consideration because too little data risks underfitting, and too much can lead to overfitting or unnecessary computational burdens. For example, in",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.767442",
+    "chunk_number": 148,
+    "word_count": 133
+  }
+}

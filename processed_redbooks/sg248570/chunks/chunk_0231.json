@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.data instance. The data engineer knows that there are several pieces of information that are needed to establish the connection in IBM watsonx.ai, so they choose to collect the information before creating the data connection. There are two key locations in IBM watsonx.data: \u0002 Infrastructure manager for the Presto engine connection details \u0002 The Configuration window for the overall connection details 120 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Presto engine-specific connection details The data engineer gathers the necessary connection information for the Presto engine on IBM watsonx.data by completing the following steps: 1. They navigate to the Infrastructure manager, and click presto-01, the Presto engine, as shown in Figure 8-28. Figure 8-28 Infrastructure manager: presto-01 2. They note the Internal host that is specified in the Details tab. The internal host for this Presto engine is as follows:",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.232257",
+    "chunk_number": 231,
+    "word_count": 143
+  }
+}

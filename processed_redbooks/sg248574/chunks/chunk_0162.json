@@ -1,0 +1,18 @@
+{
+  "content": "various LLMs regardless of their underlying architecture. InstructLab is built on the premise that fine-tuning should be an open, community-driven process. It supports a wide range of open-source LLMs from repositories like Hugging Face, which enables users to choose the model that best suits their needs, and even enabling them to experiment with models from different frameworks. The open-source nature of InstructLab also means that users have full transparency into the fine-tuning process and the ability to modify it as needed. Anyone from hobbyists to industry experts can contribute to improving the system, whether by adding new taxonomies, adjusting training data, or developing new techniques for SDG. This approach makes InstructLab a true community-driven initiative that is always evolving based on the needs and contributions of its users. Figure 5-8 shows a community-driven InstructLab fine-tuning process example. Figure 5-8 Community-driven InstructLab fine-tuning process",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.831869",
+    "chunk_number": 162,
+    "word_count": 143
+  }
+}

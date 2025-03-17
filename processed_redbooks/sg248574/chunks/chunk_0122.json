@@ -1,0 +1,18 @@
+{
+  "content": "to communicate with your model. Figure 4-44 shows an example of a simple POST request (by using a cURL command) to send input data and retrieve predictions. Figure 4-44 watsonx.ai regression model deployment tool Note: The watsonx.ai user interface (UI) prepopulates different ways to call the model, such as cURL, Java, JavaScript, Python, Scala, and others. 52 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai Visualizing the process Figure 4-45 shows a simple way to visualize what occurs during an API call. Figure 4-45 API call visualization Your application sends input data to the endpoint; the model processes the data; and the results are sent back as predictions. Whether you are handling real-time data (through online deployment) or batch processing, this streamlined interaction helps ensure that you can make the most of your deployed model. 4.9.2 Calling Prompt Lab LLM models by using API calls Calling an LLM model from Prompt Lab is similar to calling an",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.637287",
+    "chunk_number": 122,
+    "word_count": 161
+  }
+}

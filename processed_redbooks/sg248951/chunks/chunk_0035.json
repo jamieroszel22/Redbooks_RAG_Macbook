@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . 410 10.2 HMC and SE changes and new features . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 411 10.2.1 Driver 51/Version 2.16.0 HMC and SE new features . . . . . . . . . . . . . . . . . . . . 411 10.2.2 Hardware Management Appliance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 421 10.2.3 Rack Mount HMC and Tower HMC (carry forward only to IBM z16) . . . . . . . . 421 10.2.4 HMC and SE server . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 422 10.2.5 USB support for HMC and SE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 424 10.2.6 SE driver and version support with the HMC Driver 51/Version 2.16.0 . . . . . . 424 10.2.7 HMC feature codes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 425 10.3 HMC and SE connectivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.270839",
+    "chunk_number": 35,
+    "word_count": 362
+  }
+}

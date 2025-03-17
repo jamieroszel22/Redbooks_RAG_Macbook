@@ -1,0 +1,18 @@
+{
+  "content": "Third-party help There are third-party evaluations to help you understand various ethical characteristics of a foundation model you are considering using. Use these tools to speed up your model onboarding process. Two examples from the Standard Center for Research on Foundation Models: \u0002 Foundation Model Transparency Index - This index scores foundation models on 100 transparency indicators across several dimensions. \u0002 AIR-Bench (short for \u201cAI risk benchmark\u201d - This benchmarks scores foundation models on an extensive safety taxonomy that covers content safety risks, societal risks, legal and rights-related risks, and system and operational risks. There are many other options available. A quick web search will give you plenty of options to consider. The IBM AI Ethics Board has published an extensive overview of AI risks, called the AI Risk Atlas. It lists several specific risks in the ethics dimensions listed in this paragraph. Each risk comes with a description, categorizations, and",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.004918",
+    "chunk_number": 149,
+    "word_count": 151
+  }
+}

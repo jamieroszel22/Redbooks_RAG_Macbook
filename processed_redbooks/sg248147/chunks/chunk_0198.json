@@ -1,0 +1,18 @@
+{
+  "content": "Virtualization Cookbook: Vol 1: IBM z/VM 7.2 2.12 Architectural overview of this book\u2019s environment Figure 2-3 shows a block diagram with the CPC, LPARs, and volume labels that are used in this book. The example VMSSI in this book consists of two members on a single CPC; therefore, the bottom half of the diagram is left blank. Figure 2-3 IBM Z environment that is used in this book 2.13 Example planning worksheet The following tables make up the overall planning worksheet that is used to install and configure a z/VM 7.2 SSI cluster, Linux guests, and any required supporting resources. The planning worksheet that is shown includes the resources that were used in writing this book to serve as an example. A corresponding blank planning worksheet is provided for your use in Appendix B, \u201cReference, cheat sheets, blank worksheets, and education\u201d on page 475. Previous versions of this book encouraged the collection of passwords on the planning worksheets. For obvious reasons, this suggestion",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.945718",
+    "chunk_number": 198,
+    "word_count": 163
+  }
+}

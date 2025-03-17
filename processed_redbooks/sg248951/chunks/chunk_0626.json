@@ -1,0 +1,18 @@
+{
+  "content": "OSA-Express6S 10-Gigabit Ethernet Long Reach (LR) and Short Reach (SR) CHPID type OSD Y Y Y OSA-Express7S 1.2 GbE CHPID type OSD and OSC Y Y Y OSA-Express7S GbE CHPID type OSD and OSC Y Y Y OSA-Express6S GbE CHPID type OSD Y Y Y OSA-Express7S 1.2 1000BASE-T Ethernet CHPID type OSEl Y N N OSA-Express7S 1000BASE-T Ethernet CHPID type OSEj Y N N OSA-Express6S 1000BASE-T Ethernet CHPID type OSEj Y N N a. PTFs might be required for toleration support or use of IBM z16 features and functions. b. Support statement varies based on Linux on IBM Z distribution and release. c. By using VLANs. d. On IBM z16, the CHPID statement of HiperSockets devices requires the keyword VCHID. Therefore, the IBM z16 IOCP definitions must be migrated to support the HiperSockets definitions (CHPID type IQD). VCHID specifies the virtual channel identification number that is associated with the channel path (valid range is 7C0 - 7FF). VCHID is not valid on IBM Z servers before IBM z13. e. Applicable to guest",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.707478",
+    "chunk_number": 626,
+    "word_count": 172
+  }
+}

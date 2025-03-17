@@ -1,0 +1,18 @@
+{
+  "content": "with the system unit. The TKE workstation requires an IBM 4770 crypto adapter. A TKE workstation is part of a customized solution for the use of the Integrated Cryptographic Service Facility for z/OS (ICSF for z/OS) or Linux for IBM Z. This program provides a basic key management system for the cryptographic keys of a IBM z16 A02 or IBM z16 AGZ that has Crypto Express features installed. TKE provides compliant-level hardware-based HSM management mechanisms that clients want or must use when managing IBM Z and LinuxONE Crypto Express Hardware Security Modules (HSMs). TKE also provides mechanisms that simplify HSM management in complex IBM z Systems and LinuxONE cryptographic environments as much as regulations and policy will allow. The TKE does not have to be in the same location as the IBM Z or LinunxONE system that has the HSMs. However, the users need to have physical access to the TKE when managing IBM Z or LinuxONE HSMs. The TKE product is a Workstation with an HSM running a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.460115",
+    "chunk_number": 570,
+    "word_count": 169
+  }
+}

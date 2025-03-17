@@ -1,0 +1,18 @@
+{
+  "content": "a log-on session with z/VM, an emulator for the IBM 3270 terminal is needed. Many alternatives are available, depending on operating system and platform. Microsoft Windows Many commercial products are available, including the following common products: \u0002 Micro Focus Attachmate Extra! \u0002 OpenText (formerly Hummingbird) HostExplorer \u0002 IBM Personal Communications \u0002 Rocket BlueZone/Passport PC to Host \u0002 Quick3270 \u0002 wc3270 (Windows version of c3270, free/libre Open Source software) Apple macOS The following commercial and free options are available: \u0002 EmTec ZOC \u0002 Mocha TN3270 (available via macOS App Store, free trial version also available) \u0002 x3270 suite (x3270, c3270) x3270 is available by building the package from source or a software packaging system, such as MacPorts or Homebrew. You must ensure that XQuartz is installed so that x3270 can run because it is an X11 program. 472 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Another option on macOS before Catalina (10.15) is the tn3270 X",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.913450",
+    "chunk_number": 981,
+    "word_count": 155
+  }
+}

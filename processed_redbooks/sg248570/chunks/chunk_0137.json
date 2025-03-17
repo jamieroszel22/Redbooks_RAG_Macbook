@@ -1,0 +1,18 @@
+{
+  "content": "Resource-level roles control access to individual data resources within an instance. They are crucial for enforcing data privacy and helping ensure that sensitive data is accessible only to authorized users. Here are the key resource-level roles: \u0002 Resource Owner: Has full control over a specific resource, such as a table or data set. The resource owner can define who has access to the resource, assign permissions, and manage the lifecycle of the data. \u0002 Resource Editor: Can modify data within the resource, which makes it suitable for users who need to update data sets, transform data, or manage content. Data engineers and data developers often take on this role for specific data sets. \u0002 Resource Viewer: Provides read-only access to data within the resource. This role is ideal for analysts, data scientists, or business users who need access to data for reporting or analysis without modifying it. Permissions for resource-level roles Resource-level roles are assigned with specific",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.871115",
+    "chunk_number": 137,
+    "word_count": 157
+  }
+}

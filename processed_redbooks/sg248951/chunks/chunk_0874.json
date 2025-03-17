@@ -1,0 +1,18 @@
+{
+  "content": "so that extra zIIPs can be brought online dynamically when the boost record is activated. Also, consider adjusting the LPAR zIIP weight. This feature can be ordered in the range of 1 - 5 years. Only one record can be installed on a system and it must be replenished before it can be used again (if expired). A System Recovery Boost Upgrade contract (through FC 9930) must be in place before the special code that enables this capability can be installed on the system. 8.9 Capacity for Planned Event The Capacity Planned Event feature (6833) can no longer be ordered for a new IBM z16; however, if installed on the base system, the record is brought forward during an upgrade into IBM z16 (by way of the support element Save/Restore process). Also, the CPE record cannot be replenished through e-configuration or IBM Resource Link. Flexible Capacity for Cyber Resiliency is a new CoD offering that is available on IBM z16 machines. This offering allows processing capacity flexibility between an",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.572086",
+    "chunk_number": 874,
+    "word_count": 169
+  }
+}

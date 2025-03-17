@@ -1,0 +1,18 @@
+{
+  "content": "processor that supports 10 concurrent issues to execution units in a single CPU cycle. Figure 2-14 shows the core floor plan, which contains the following units: Figure 2-14 Processor core floor plan \u0002 Fixed-point unit (FXU): The FXU handles fixed-point arithmetic. \u0002 Load-store unit (LSU): The LSU contains the data cache. It is responsible for handling all types of operand accesses of all lengths, modes, and formats as defined in the z/Architecture. \u0002 Instruction fetch and branch (IFB) (prediction) and Instruction cache and merge (ICM). These two sub units (IFB and ICM) contain the instruction cache, branch prediction logic, instruction fetching controls, and buffers. Its relative size is the result of the elaborate branch prediction. \u0002 L1D and L1I are incorporated into the LSU and ICM respectively \u0002 Instruction decode unit (IDU): The IDU is fed from the IFU buffers, and is responsible for parsing and decoding of all z/Architecture operation codes \u0002 Translation unit (XU): The XU has a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.733042",
+    "chunk_number": 143,
+    "word_count": 160
+  }
+}

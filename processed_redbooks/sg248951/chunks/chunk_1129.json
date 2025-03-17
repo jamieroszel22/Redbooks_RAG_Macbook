@@ -1,0 +1,18 @@
+{
+  "content": "throughput increase on IBM z16 means that the throughput requirements need to be considered whether failing over to earlier systems with zEDC. Performance metrics On-chip compression introduces the following system reporting changes: \u0002 No RMF PCIe reporting for zEDC \u0002 Synchronous executions are not recorded (just an instruction invocation) \u0002 Asynchronous executions are recorded: \u2013 SMF30 information is captured for asynchronous usage \u2013 RMF EADM reporting is enhanced (RMF 74.10) \u2013 SAP use is updated to include the time that is spent compressing and decompressing zEDC to IBM z16 zlib Program Flow for z/OS The z/OS-provided zlib library is statically linked into many IBM and ISV products and remains functional. However, to realize the best optimization for IBM z16, some minor changes are made to zlib. The current zlib and the new zlib function are available for IBM z14 and earlier servers and IBM z16 hardware. It functions with or without the IBM z16 z/OS PTFs on IBM z14 and earlier",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.368720",
+    "chunk_number": 1129,
+    "word_count": 161
+  }
+}

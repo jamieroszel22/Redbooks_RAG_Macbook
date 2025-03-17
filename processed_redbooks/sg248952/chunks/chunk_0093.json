@@ -1,0 +1,18 @@
+{
+  "content": "Memory (VFM) features are offered from the main memory capacity in 0.5 TB units to increase granularity for the feature. VFM can provide much simpler management and better performance by reducing the I/O to the adapters in the PCIe+ I/O drawers. 1.3.4 I/O subsystem and I/O drawers The IBM z16 A02 and IBM z16 AGZ implement PCIe Generation 4 switch cards, which are used to connect the dual port fanout features in the CPC drawers to the I/O features in the I/O drawers. The I/O infrastructure is designed to reduce processor usage and I/O latency, and provide increased throughput and availability. For a two CPC drawer system, up to 24 PCIe+ fanout slots can be populated with fanout cards for data communications between the CPC drawers and the I/O infrastructure, and for coupling. The multiple channel subsystem (CSS) architecture allows up to three CSSs, each with 256 channels. PCIe+ I/O drawer The PCIe+ I/O drawer, together with the PCIe features, offers finer granularity and capacity over",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.493724",
+    "chunk_number": 93,
+    "word_count": 166
+  }
+}

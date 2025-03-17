@@ -1,0 +1,18 @@
+{
+  "content": "with a VSM that is providing a service or running automation, such as RACFVM, DIRMAINT, and TCP/IP. \u2013 NEVER use LOGOFF with a Linux virtual server while Linux is still running. \u2013 LOGOFF destroys ALL running processes for that VM or server and ends any connections. \u0002 DISCONNECT If you run the DISCONNECT command, your session remains where it is and is resumed when you next run the login process. It is analogous to: \u2013 Turning off the monitor of a desktop computer \u2013 Using a Linux terminal with a utility, such as screen, tmux, or byobu, that permits detachment and re-connection of a running session. \u2013 Closing the lid of a notebook that is set to keep running and not suspend or hibernate Always DISCONNECT from z/VM service machines, such as TCPIP, RACF, DIRMAINT and virtual servers that are running Linux. 32 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 1.10 Summary of Linux and z/VM similarities Although Linux and z/VM differ in many ways, they feature similar concepts, functions, and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.626229",
+    "chunk_number": 125,
+    "word_count": 171
+  }
+}

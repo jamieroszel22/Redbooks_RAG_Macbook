@@ -1,0 +1,18 @@
+{
+  "content": "or only on demand. It will be necessary to LINK and ACCESS the active System Management Facilities (SMF) disk to see how fast it is filling. In a Linux farm, most of the activity will be the system programmers\u2019 and system administrators\u2019 activities. \u0002 If both the primary and secondary SMF minidisks unexpectedly become full, no more audit records can be recorded, even though security-relevant events can continue to occur. Naturally, any such loss of audit records is unacceptable in a secure system. The SEVER YES setting in the SMF CONTROL file instructs RACF to sever when this situation happens. This setting ensures \u201cIf it didn\u2019t get written down, it didn\u2019t happen,\u201d which is an excellent policy if you are being cross-examined on the witness stand (possibly as the accused) in a data theft case. \u0002 The SMF log disks need to be sized to hold an audit log that has all of the data for a single archive interval. That is, if RACFSMF is logged on once a day, the SMF disks need to be large",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.635130",
+    "chunk_number": 368,
+    "word_count": 177
+  }
+}

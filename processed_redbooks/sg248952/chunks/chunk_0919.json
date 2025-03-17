@@ -1,0 +1,18 @@
+{
+  "content": "are planned well in advance and go beyond this approximate two-week time frame. This chapter does not distinguish between scheduled and planned outages. Preventing unscheduled, scheduled, and planned outages was addressed by the IBM Z system design for many years. IBM z16 A02 and IBM z16 AGZ and IBM z16 A02 and IBM z16 AGZ systems have a fixed size HSA of 160 GB. This size helps eliminate pre-planning requirements for HSA and provides the flexibility to update dynamically the configuration. You can perform the following tasks dynamically:4 \u0002 Add a logical partition (LPAR) \u0002 Add a logical channel subsystem (LCSS) \u0002 Add a subchannel set \u0002 Add a logical PU to an LPAR \u0002 Add a cryptographic coprocessor \u0002 Remove a cryptographic coprocessor \u0002 Enable I/O connections \u0002 Swap processor types \u0002 Add memory 4 Some pre-planning considerations might exist. For more information, see Chapter 8, \u201cSystem upgrades\u201d on page 319. Chapter 9. Reliability, availability, and serviceability 377 \u0002 Add a physical",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.715652",
+    "chunk_number": 919,
+    "word_count": 163
+  }
+}

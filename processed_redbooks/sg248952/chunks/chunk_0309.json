@@ -1,0 +1,18 @@
+{
+  "content": "(LPAR) must include a defined main storage size. This defined main storage is allocated exclusively to the LPAR during partition activation. 3.6.3 Hardware system area The HSA is a non-addressable storage area that contains system LIC and configuration-dependent control blocks. On IBM z16 A02 and IBM z16 AGZ configurations, the HSA has a fixed size of 160 GB and is not part of the purchased memory that you order and install. 19 Virtual Flash Memory replaced IBM zFlash Express. No carry forward of zFlash Express exists. Chapter 3. Central processor complex design 119 The fixed size of the HSA eliminates planning for future expansion of the HSA because the hardware configuration definition (HCD)/input/output configuration program (IOCP) always reserves space for the following items: \u0002 Three channel subsystems (CSSs) \u0002 A total of 15 LPARs in CSSs 1 and 2, and 10 LPARs for the third CSS for a total of 40 LPARs \u0002 Subchannel set 0 with 63.75-K devices in each CSS \u0002 Subchannel set 1 with",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.432741",
+    "chunk_number": 309,
+    "word_count": 167
+  }
+}

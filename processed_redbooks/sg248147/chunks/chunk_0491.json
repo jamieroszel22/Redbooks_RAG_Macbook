@@ -1,0 +1,18 @@
+{
+  "content": "specified maximum age, then automatically purged. /*** CRONSVM PROFILE EXEC A : CRONSVM 191 -- MOD 2020-09-19 PWNOVAK ***/ 'CP SET RUN ON' 'CP SPOOL CONSOLE CLOSE' 'CP MSG OPERATOR LOGON 'USERID()' FOR VMCRON TIMED' 'CP SPOOL CONSOLE TO VMLOGS START NAME' USERID() ]CONSOLE] 'ACCESS 193 U' 'ACCESS 592 X' 'EXEC VMCRON' 216 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Directing all console logs to VMLOGS creates a centralized way of monitoring system-wide activities, including Linux virtual machines. Complete the following steps: 1. Log on as MAINT or MAINT720 on any cluster member if you are not logged on. 2. Create the following directory entry by using the following command. ===> xedit vmlogs direct a Enter the information shown in Example 6-24. Enter your own user IDs on the line with LOGONBY. Example 6-24 VMLOGS directory entry USER VMLOGS LBYONLY 64M 128M ABDEG INCLUDE IBMDFLT IPL CMS PARM AUTOCR LOGONBY AUTOLOG1 BG FMIRANDA KWERNER PARZIALE PWNOVAK SPIEDIE MACH ESA LINK OPERATOR",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.113819",
+    "chunk_number": 491,
+    "word_count": 161
+  }
+}

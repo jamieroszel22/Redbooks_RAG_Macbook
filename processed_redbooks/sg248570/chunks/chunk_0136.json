@@ -1,0 +1,18 @@
+{
+  "content": "Viewer: Read-only access to metadata, which is ideal for users who need insights without modification capabilities. 52 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data \u0002 Data Access role: Designed primarily for service-to-service integrations, such as enabling data profiling and analytics workflows. Instance roles help ensure that users interact only with the specific resources that are necessary for their tasks, which enhance data security and operational efficiency. Table 4-1 shows the instance roles privileges. Table 4-1 Instance roles privileges 4.2.3 Resource-level roles and permissions Resource-level roles in IBM watsonx.data provide the most granular control over access so that administrators can define permissions on individual data sets, tables, and resources. These roles are essential for protecting sensitive data within the lakehouse and helping ensure that users access only data that is relevant to their role. Key resource-level roles",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.866666",
+    "chunk_number": 136,
+    "word_count": 140
+  }
+}

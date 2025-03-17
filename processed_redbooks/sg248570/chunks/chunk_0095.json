@@ -1,0 +1,18 @@
+{
+  "content": "When connecting to the IBM watsonx.data Presto database, a connection certificate must be available on the client machine (typically your workstation) or another service like IBM Cloud Pak for Data. To obtain the certificate, complete the following steps: 1. To extract the certificate to your local file system, use the following command in a terminal window. Replace the port and region.services.cloud.techzone.com with the SSH values that are found in the TechZone reservation. scp -P port watsonx@region.services.cloud.techzone.ibm.com:/certs/presto-key.jks /Users/myname/Downloads (You need to change this local path to your own path). Chapter 3. Ingesting data into an open data lakehouse 31 2. Download the certificate from the Jupyter Notebook's Credentials notebook, as shown in Figure 3-2. Figure 3-2 Downloading the certificate from the Jupyter Notebook's Credentials notebook 3. When connecting to the Presto engine, choose the PrestoDB driver. For local access, the following",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.709101",
+    "chunk_number": 95,
+    "word_count": 140
+  }
+}

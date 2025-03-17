@@ -1,0 +1,18 @@
+{
+  "content": "commands. Do not be concerned if the numeric value that you see for the fileid is different on your system from the example that is shown (different numeric values are normal): ===> access 193 G ===> sampnss cms HCPNSD440I The Named Saved System (NSS) CMS was successfully defined in field 0017. ===> ipl 190 parm savesys cms HCPNSS440I Named Saved System (NSS) CMS was successfully saved in fileid 0017. 5. LOGOFF as MAINT720 from the current member. 6. Repeat Step 4 on all other members in the SSI cluster. The same XEDIT PROFILE is now accessible to all virtual machines in the SSI cluster. Note: A copy of PROFILE XEDIT is included in the additional materials that are supplied with this book. This copy contains all of the depicted changes. If you are familiar with XEDIT, you might want to use the contents of that file. Chapter 6. Configuring z/VM 143 6.3 z/VM parm disks The system definition information that is required at IPL is in files on the parm disk, a CMS-formatted minidisk that",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.518020",
+    "chunk_number": 336,
+    "word_count": 175
+  }
+}

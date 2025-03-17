@@ -1,0 +1,18 @@
+{
+  "content": "shared split is managed in the LRU logic \u2013 Dynamic macro sparing \u2022 Four spare macros, one spare for each quarter slice \u2013 L2 1/8 portion is taken offline when a spare is needed, and none is available (named 7/8 recovery) \u2022 The core must be spared \u2013 L2 directory is SECDED ECC protected IBM z16 A02 and IBM z16 AGZ processor memory and cache structure are shown in Figure 9-5 on page 370.The physical L3 cache (on chip) and System Controller (SC) SCM (physical L4 cache for IBM z15), previously implemented in EDRAM, have been removed and replaced on IBM z16 A02 and IBM z16 AGZ virtual L3 and L4 cache structure. 370 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 9-5 IBM z16 A02 and IBM z16 AGZ M/T 3932 fully populated CPC Drawer Cache structure 9.2.2 Main memory IBM z16 A02 and IBM z16 AGZ memory consist of the following features: \u0002 Up to 48 DIMM per drawer in two rows (16TB system max): \u2013 Organized in 8-channel Reed-Solomon RAIM groups \u2022 50% reduced RAIM overhead (compared to IBM z15) \u2022",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.670992",
+    "chunk_number": 904,
+    "word_count": 186
+  }
+}

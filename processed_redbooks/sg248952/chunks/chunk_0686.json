@@ -1,0 +1,18 @@
+{
+  "content": "have more noticeable CF structure size increases associated with it, especially for smaller structures, due to task-related memory increases associated with the increased number of CF tasks in CFLEVEL 25 Review the CF LPAR size by using the available CFSizer tool, which is available for download at: https://www.ibm.com/support/pages/cfsizer Alternatively, the batch SIZER utility is available at: https://www.ibm.com/support/pages/cfsizer-alternate-sizing-techniques 280 IBM z16 A02 and IBM z16 AGZ Technical Guide for re-sizing your CF structures as needed. Make sure to update CFRM Policy INITISIZE and/or SIZE values as needed. Coupling links support Integrated Coupling Adapter (ICA) Short Reach and Coupling Express2 Long Reach (CE2 LR) coupling link options provide high-speed connectivity at short and longer distances over fiber optic interconnections. For more information, see 4.6.4, \u201cParallel Sysplex connectivity\u201d on page 179. Integrated Coupling Adapter PCIe Gen3 coupling fanout,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.925023",
+    "chunk_number": 686,
+    "word_count": 135
+  }
+}

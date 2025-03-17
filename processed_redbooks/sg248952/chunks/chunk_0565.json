@@ -1,0 +1,18 @@
+{
+  "content": "Crypto Express8S feature. Each Crypto Express8S FC 0908 includes two IBM 4770 PCIe Cryptographic Coprocessors (PCIeCC - which is a hardware security module - HSM); FC 0909 includes one IBM 4770 PCIeCC. The adapters are available in the following configurations: \u0002 IBM Enterprise Common Cryptographic Architecture (CCA) Coprocessor (CEX8C) \u0002 IBM Enterprise Public Key Cryptography Standards #11 (PKCS) Coprocessor (CEX8P) \u0002 IBM Crypto Express7S Accelerator (CEX8A) During the feature installation, the PCIeCC is configured by default as the CCA coprocessor. The configuration of the Crypto Express8S adapter as EP11 coprocessor requires a TKE workstation (FC 0057/0058) with TKE 10.0 (FC 0882) LIC. The same requirement applies to CCA mode for a full PCI-compliant environment The Crypto Express8S feature does not use CHPIDs from the channel subsystem pool. However, the Crypto Express8S feature requires one slot in a PCIe+ I/O drawer, and one PCHID for each PCIe cryptographic adapter. For",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.439546",
+    "chunk_number": 565,
+    "word_count": 149
+  }
+}

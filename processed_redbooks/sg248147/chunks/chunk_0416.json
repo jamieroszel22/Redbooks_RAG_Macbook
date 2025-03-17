@@ -1,0 +1,18 @@
+{
+  "content": "recommended changes to the system are described: \u0002 Enable z/VM FTP and Network File System functionality \u0002 Reconfigure TCP/IP for high availability by using a VSWITCH The main TCP/IP configuration file is the PROFILE TCPIP file and it is on the TCPMAINT 198 disk, which is accessed as the D disk. 6.8.1 Enabling z/VM FTP and Network File System functions Enable both the FTP and Network File System (NFS) functions by completing the following steps: 1. Log on to TCPMAINT by using the password that you set for service machines in section 10.2.1, \u201cChanging default passwords\u201d on page 310. 2. Make a backup copy of the TCP/IP configuration file, PROFILE TCPIP D: ===> copy profile tcpip d = tcpiorig = (olddate 3. Edit the TCP/IP configuration file: ===> xedit profile tcpip d 4. Make the following changes: a. Locate the last line that begins with OBEY and move your cursor into the prefix area beside the line underneath that begins with OPERATOR. b. Enter I in the prefix area and press Enter to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.830029",
+    "chunk_number": 416,
+    "word_count": 173
+  }
+}

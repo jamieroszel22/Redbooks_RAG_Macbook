@@ -1,0 +1,18 @@
+{
+  "content": "that simplifies data access in an organization and facilitates self-service data consumption) can offer enough longevity and flexibility to integrate an organization\u2019s current and future data assets and enable them for AI applications. This subject alone warrants a book of its own. Chapter 1. Challenges and opportunities with data 3 1.1.3 Data lakes and data warehouses Much of an organization\u2019s data is often distributed across many disparate silos, making it difficult to integrate and access. Data is represented in many different and sometimes complex formats as the market supports new paradigms and more diverse use cases that use unstructured and semi-structured data. Much time is spent transforming, cleansing, and integrating data. Data lakes represent a way to store massive amounts of different data by using cheap, commoditized hardware and storage through Hadoop, HDFS, or Hive. However, an organization\u2019s enthusiasm might decrease if they find it difficult to manage and get a good",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.504217",
+    "chunk_number": 43,
+    "word_count": 152
+  }
+}

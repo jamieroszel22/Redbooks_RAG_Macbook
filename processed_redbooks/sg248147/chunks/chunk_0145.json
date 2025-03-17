@@ -1,0 +1,18 @@
+{
+  "content": "system project are grouped into the following types: \u0002 Hardware \u0002 Software \u0002 Networking 2.3.1 Hardware The following hardware is needed: \u0002 A minimum of one, and up to a maximum of four LPARs with: \u2013 Processors or CPUs per LPAR: One IFL (or CP) minimum; two or more are recommended. \u2013 Memory: First level installation requires at least 768 MB of real storage that is assigned to the LPAR where z/VM is to be installed. A total of 8 GB storage or more is recommended. \u2013 DASD: A total of 20 3390-09s were allocated to our lab system that is described in this book. \u2013 Open Systems Adapter (OSA) network cards: One card minimum with six device numbers. Two OSA Express cards with six device numbers are recommended for high availability. \u0002 A network-attached computer running Linux or UNIX that acts as a File Transfer Protocol (FTP) server with at least 8 GB of disk space. \u0002 A workstation that includes network access to the IBM Z and operates as the HMC if physical access is not possible. 2.3.2",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.717651",
+    "chunk_number": 145,
+    "word_count": 180
+  }
+}

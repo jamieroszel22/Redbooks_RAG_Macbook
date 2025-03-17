@@ -1,0 +1,18 @@
+{
+  "content": "standards around AI are evolving quickly. In this chapter we cover some headlines and refer the reader to the respective sources of these legislations and standards for their current state and planned further enhancements. 1.4.1 AI-specific legislation Across the world, AI-specific legislation is being developed or has been enacted. This paragraph describes the key characteristics of one example. Regulation (EU) 2024/1689 - The EU AI Act The European AI Act went into force on August 1st, 2024, and is applicable to any organization placing AI on the market in the European Union (EU), regardless of their home base. That means that organizations headquartered elsewhere in the world do have to comply with the Act for AI systems that impact EU citizens, as consumers, employees or other roles. The AI Act regulates two things: 1. \u201cGeneral purpose AI models\u201d (the legal terminology for what we call foundation models in this publication). \u2013 A special category is models with \u201csystemic risk\u201d -",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.681990",
+    "chunk_number": 62,
+    "word_count": 160
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "boot.clone off Appendix C. Additional material 521 rc_reset ;; stop|restart) # this should never happen # nothing to do ;; status) # probably never will be run. # nothing to do ;; *) echo \"Usage: $0 {start}.\" exit 1 ;; esac rc_exit 522 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Related publications 523 Related publications The publications that are listed in this section are considered particularly suitable for a more detailed discussion of the topics that are covered in this book. IBM Redbooks The following IBM Redbooks publications provide more information about the topic in this document. Note that most publications that are referenced in this list are available in softcopy only: \u0002 The Virtualization Cookbook for IBM z Systems Volume 2: Red Hat Enterprise Linux 7.1 Servers, SG24-8303 \u0002 The Virtualization Cookbook for IBM z Systems Volume 3: SUSE Linux Enterprise Server 12, SG24-8890 \u0002 The Virtualization Cookbook for IBM z Systems Volume 4: Ubuntu Server 16.04, SG24-8354 \u0002",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.188770",
+    "chunk_number": 1061,
+    "word_count": 160
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "and complex workloads. DataStage ingests data efficiently into IBM watsonx.data, and then uses the appropriate query engines as based on user needs. This approach centralizes data and optimizes workloads across engines and storage tiers, which minimizes data warehouse costs without sacrificing performance Automatic detection of new files DataStage automatically detects new data in your sources and seamlessly loads it into IBM watsonx.data. This approach eliminates manual effort and streamlines data processing, which enables faster access to insights. 3.5.3 DataStage and management of data within IBM watsonx.data Once data is in IBM watsonx.data, DataStage can manage operational workloads or create new data pipelines. Graphically design data pipelines With DataStage, you can build ETL/ELT pipelines directly within IBM watsonx.data, which saves on egress costs. You can use more than 60 connectors and pre-built transformations in a drag-and-drop interface for 9x faster development",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.789146",
+    "chunk_number": 116,
+    "word_count": 140
+  }
+}

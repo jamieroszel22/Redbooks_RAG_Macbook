@@ -1,0 +1,18 @@
+{
+  "content": "processors, memory, and I/O.1 For more information about the IBM z16 A02 and IBM z16 AGZ RAS features, see Chapter 9, \u201cReliability, availability, and serviceability\u201d on page 365. IBM z16 A02 and IBM z16 AGZ configurations include the following features: \u0002 Ultra-high frequency, large, high-speed buffers (caches) and memory \u0002 Superscalar processor design \u0002 Improved out-of-order core execution \u0002 Simultaneous multithreading (SMT) \u0002 Single-instruction multiple-data (SIMD) \u0002 On-core integrated accelerator for Z SORT, one per PU core \u0002 On-chip integrated accelerator for IBM zEnterprise\u00ae Data Compression (zEDC), one per PU chip \u0002 On-chip integrated accelerator for AI (AI unit or AIU), one per PU chip \u0002 Quantum-safe cryptography support \u0002 Flexible configuration options IBM z16 A02 and IBM z16 AGZ are the next implementation of IBM Z to address the ever-changing IT environment. 1 Some concurrent actions are only available on the Max68 feature. Chapter 3. Central processor complex design 73 For",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.986212",
+    "chunk_number": 203,
+    "word_count": 152
+  }
+}

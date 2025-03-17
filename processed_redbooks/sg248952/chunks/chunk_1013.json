@@ -1,0 +1,18 @@
+{
+  "content": "future a new Driver/Level is available, the HMC provides the management of the driver upgrade through Enhanced Driver Maintenance (EDM). EDM provides the installation of the latest functions and patches (MCLs) of the new driver. When you perform a driver upgrade, always check the Driver/Level Customer Exception Letter option in the Fixes section at IBM Resource Link. Microcode Change Level Regular installation of Microcode Change Levels (MCLs) is key for reliability, availability, and serviceability (RAS), optimal performance, and new functions. We recommend to: \u0002 Install MCLs on a quarterly basis at a minimum. \u0002 Review hiper MCLs continuously to decide whether to wait for the next scheduled fix application session or to schedule one earlier if the risk assessment warrants. \u0002 Sign On the \u201cIBM Z Security Portal\u201d (https://www.ibm.com/it-infrastructure/z/capabilities/system-integrity) web site and review for security alerts and related MCL fixes. Microcode terms The Microcode features",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.061628",
+    "chunk_number": 1013,
+    "word_count": 145
+  }
+}

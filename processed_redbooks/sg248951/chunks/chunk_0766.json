@@ -1,0 +1,18 @@
+{
+  "content": "business resiliency and intelligence. Linux support for compliance Linux on IBM Z supports the collection of compliance data from the Linux environment. The following prerequisite operating system versions are supported for the collection of compliance data: \u0002 Red Hat Enterprise Linux 8.0 (RHEL) on IBM Z, or later \u0002 SUSE Linux Enterprise Server (SLES) on IBM Z 15 \u0002 Ubuntu Server LTS for IBM Z 22.04 The following optional software is available for collecting compliance data: \u0002 Oracle 19c \u0002 PostgresSQL 13.x, 14.x Chapter 7. Operating system support 317 7.5 z/OS migration considerations Except for base processor support, z/OS releases do not require any of the functions that are introduced with the IBM z16. Minimal toleration support that is needed depends on z/OS release. Although IBM z16 servers do not require any \u201cfunctional\u201d software, it is recommended to install all IBM z16 service before upgrading to the new server. The support matrix for z/OS releases and the IBM Z servers that",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.217334",
+    "chunk_number": 766,
+    "word_count": 161
+  }
+}

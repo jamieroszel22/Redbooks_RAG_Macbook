@@ -1,0 +1,18 @@
+{
+  "content": "workload might require more memory, I/O cards, or processor capacity. However, to handle a peak workload, or to temporarily replace a system that is down during a disaster or data center maintenance, might require only a temporary upgrade. IBM z16 A02 and IBM z16 AGZ offer the following solutions: \u0002 Permanent upgrades \u2013 Miscellaneous equipment specification (MES) An MES upgrade might involve the addition of physical hardware or the installation of Licensed Internal Code Configuration Control (LICCC). In both cases, the hardware installation is performed by IBM personnel. \u2013 Customer Initiated Upgrade (CIU) The use of the CIU facility for a system requires that the online CoD buying feature (FC 9900) is installed on the system and the relevant CIU contract agreements are in place. The CIU facility supports only LICCC upgrades. For more information, see 8.1.4, \u201cPermanent upgrades\u201d on page 323. \u0002 Temporary upgrades All temporary upgrades are LICCC-based. The one billable capacity offering",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.315685",
+    "chunk_number": 798,
+    "word_count": 155
+  }
+}

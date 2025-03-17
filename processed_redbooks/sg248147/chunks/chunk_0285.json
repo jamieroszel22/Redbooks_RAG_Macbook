@@ -1,0 +1,18 @@
+{
+  "content": "depending on your HMC configuration. Figure 5-11 HMC FTP load warning e. You see the Load from Removable media or Server Progress window. When you see the message Completed successfully, click OK to close. This step takes less than a minute. If you still do not see a message that indicates successful completion after several minutes, repeat Step 7. An in-memory z/VM 7.2 system is running. 5.4.2 In-memory z/VM system loaded Move to the Integrated 3270 Console window. The RAMdisk IPLs and you see z/VM boot, as shown in Figure 5-12 on page 114. If the Integrated 3270 Console window is still empty, be patient; at times it can take five minutes or more to initialize. Note: While you are working in the Integrated 3270 Console on the HMC, the Esc key on your keyboard is mapped to the Clear Screen function for the terminal console. 114 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Figure 5-12 First z/VM 7.2 installation in-memory window 12:58:05 z/VM V7 R2.0 SERVICE LEVEL 0000 (64-BIT)",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.281482",
+    "chunk_number": 285,
+    "word_count": 170
+  }
+}

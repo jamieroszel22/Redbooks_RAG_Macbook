@@ -1,0 +1,18 @@
+{
+  "content": "2-21 on page 41 shows an example of configuration number 27 from the previous tables, and displays the location and description of the installed memory modules. 30 128 128 64 64 128 128 5120 512 4864 31 128 128 128 128 128 128 6144 1024 5888 32 256 128 128 128 128 128 7168 1024 6912 33 256 128 128 128 128 256 8192 1024 7936 34 256 256 128 128 128 256 9216 1024 8960 35 256 256 128 128 256 256 10240 1024 9984 CFG number M0CP0 MD01-04 and MD25-28 M1CP0 MD05-08 and MD29-32 M1CP1 MD09-12 and MD33-36 M2CP0 MD13-16 and MD37-40 M2CP1 MD17-20 and MD41-44 M3CP0 MD21-24 and MD45-48 Physical INC -HSA 256 GB Chapter 2. Central processor complex hardware components 41 Figure 2-21 View Hardware Configuration task on the Support Element Table 2-9 on page 42 lists the physical memory plugging configurations by feature code from manufacturing when the system is ordered. Consider the following points: \u0002 The CPC drawer columns for the specific feature contain the Memory Plug Drawer Configuration number",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.708358",
+    "chunk_number": 141,
+    "word_count": 176
+  }
+}

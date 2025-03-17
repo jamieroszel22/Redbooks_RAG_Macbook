@@ -1,0 +1,18 @@
+{
+  "content": "quantum-safe capabilities: \u0002 Key generation \u0002 Encryption \u0002 Key encapsulation mechanisms \u0002 Hybrid key exchange schemes \u0002 Dual digital signature schemes In addition to these quantum-safe cryptographic capabilities, tools (such as IBM Application Discovery and Delivery Intelligence [ADDI], Integrated Cryptographic Service Facility [ICSF], and IBM Crypto Analytics Monitor [CAT]) can help you discover where and what cryptography is used in applications. This knowledge can aid in developing a cryptographic inventory for migration and modernization planning. 4 IBM z16 (3931) Technical Guide 1.1.1 Supported upgrade paths The supported upgrade paths for the IBM z16 A01 are shown in Figure 1-1. . Figure 1-1 IBM z16 A01 upgrade paths 1.1.2 Capacity and performance The IBM z16 A01 offers 317 capacity levels. In all, 200 capacity levels are based on the number of physically used CPs, plus up to 117 extra subcapacity models for the first 39 CPs. The IBM z16 provides increased processing and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.417713",
+    "chunk_number": 73,
+    "word_count": 152
+  }
+}

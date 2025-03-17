@@ -1,0 +1,18 @@
+{
+  "content": "To use the CBU process, a CBU enablement feature (FC 9910) must be ordered and installed. You must order the quantity and type of PU that you require by using the following feature codes: \u0002 FC 6805: More CBU test activations \u0002 FC 6817: Total CBU years ordered \u0002 FC 6818: CBU records that are ordered \u0002 FC 6820: Single CBU CP-year \u0002 FC 6821: 25 CBU CP-year \u0002 FC 6822: Single CBU IFL-year \u0002 FC 6823: 25 CBU IFL-year \u0002 FC 6824: Single CBU ICF-year \u0002 FC 6825: 25 CBU ICF-year \u0002 FC 6828: Single CBU zIIP-year \u0002 FC 6829: 25 CBU zIIP-year \u0002 FC 6830: Single CBU SAP-year \u0002 FC 6831: 25 CBU SAP-year \u0002 FC 6832: CBU replenishment The CBU entitlement record (FC 6818) contains an expiration date that is established at the time of the order. This date depends on the quantity of CBU years (FC 6817). You can extend your CBU entitlements through the purchase of more CBU years. The number of FC 6817 per instance of FC 6818 remains limited to five. Fractional years are rounded up to the nearest whole integer",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.581000",
+    "chunk_number": 877,
+    "word_count": 188
+  }
+}

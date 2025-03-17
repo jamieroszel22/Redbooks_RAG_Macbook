@@ -1,0 +1,18 @@
+{
+  "content": "original query. Pipelining the query stages across the network in this way ensures that any unnecessary I/O overhead is avoided. Additionally, all processing occurs in-memory, and intermediate data at the task level is stored in a buffer cache. All of these features ensure that Presto remains extremely performant, even at petabyte sizes. 5.1.2 Data sources There are four types of Presto data sources that you need in your deployment (Figure 5-3). Figure 5-3 Presto cluster between BI tools and different types of data sources Chapter 5. Querying and manipulating data and leveraging persona-specific engines 63 Connector A connector adapts Presto to a data source such as Hive or a relational database. You can think of a connector the same way you think of a driver for a database. It is an implementation of Presto's SPI which allows Presto to interact with a resource using a standard API. Presto contains several built-in connectors: a connector for JMX, a System connector which provides",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.934494",
+    "chunk_number": 153,
+    "word_count": 161
+  }
+}

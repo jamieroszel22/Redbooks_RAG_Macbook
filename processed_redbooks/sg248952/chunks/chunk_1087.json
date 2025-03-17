@@ -1,0 +1,18 @@
+{
+  "content": "all workloads react the same way to these enhancements. The workload variability for moving from z15 T02 to IBM z16 A02 and IBM z16 AGZ is expected to be stable. Workloads that are migrating from z14 ZR1s and previous generations to z16 A02 and IBM z16 AGZ can expect to see similar results with slightly less variability than the typical z14 ZR1 experience. The effect of this variability is increased deviations of workloads from single-number metric-based factors, such as millions of instructions per second (MIPS), MSUs, and CPU time charge-back algorithms. Experience demonstrates that IBM Z servers can be run at up to 100% utilization levels, sustained. However, most clients prefer to leave some room and run at 90% or slightly under. For any capacity comparison exercise that uses a single metric, such as MIPS or MSU, is not a valid method. When deciding the number of processors and the uniprocessor capacity, 8 For more information, see the Moore\u2019s Law website. Chapter 12. Performance",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.275639",
+    "chunk_number": 1087,
+    "word_count": 164
+  }
+}

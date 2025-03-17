@@ -1,0 +1,18 @@
+{
+  "content": "2063 ETHERNET DEFINE VSWITCH VSW2 ETHERNET RDEV B801 EQID FCPID01 TYPE FCP RDEV B802 EQID FCPID02 TYPE FCP RDEV B901 EQID FCPID01 TYPE FCP RDEV B902 EQID FCPID02 TYPE FCP ZVM63B: END 2. Check the syntax of the change with the CPSYNTAX command on the MAINT 193 disk: ===> vmlink maint 193 ===> cpsyntax system config f (lpar a09 CONFIGURATION FILE PROCESSING COMPLETE -- NO ERRORS ENCOUNTERED. ===> cpsyntax system config f (lpar a0a CONFIGURATION FILE PROCESSING COMPLETE -- NO ERRORS ENCOUNTERED. 3. Detach the Conversational Monitor System (CMS) file system that contains the SYSTEM CONFIG again: ===> vmlink pmaint cf0 < detach > When z/VM IPLs, the EQIDs are created. Fibre Channel adapters must always be dedicated as pairs that are connected to two fabrics. To dedicate the devices B802 and B902 to virtual addresses FC00 and FD00, use the DirMaint DEDICATE command as shown in Example 11-2 on page 351. Chapter 11. Deploying and maintaining Linux workloads 351 Example 11-2 Dedicate FCPA as",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.186704",
+    "chunk_number": 761,
+    "word_count": 165
+  }
+}

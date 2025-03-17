@@ -1,0 +1,18 @@
+{
+  "content": "to the system configuration file ====> /user_v /* User_Volume_List */ /**********************************************************************/ /* These volumes contain the minidisks for your guests, as well as */ /* the product disks for each installed release of z/VM in the SSI */ /* cluster. Volumes that hold \"local\" minidisks, i.e., minidisks */ /* unique to a single member system, should be wrapped in BEGIN/END */ /* Page and Tdisk volumes for Member 1 */ /**********************************************************************/ RDBKZVMG: BEGIN CP_Owned Slot 255 VP155E RDBKZVMG: END /**********************************************************************/ /* Page and Tdisk volumes for Member 2 */ /**********************************************************************/ RDBKZVMH: BEGIN CP_Owned Slot 255 VP1562 RDBKZVMH: END /* Page and Tdisk volumes for Member 1 */ /**********************************************************************/ RDBKZVMG: BEGIN CP_Owned Slot 253 VP155E CP_Owned",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.943592",
+    "chunk_number": 445,
+    "word_count": 115
+  }
+}

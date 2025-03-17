@@ -1,0 +1,18 @@
+{
+  "content": "it efficiently on IBM Z, in collocation with the transactional workloads. There's no additional development effort needed to enable this strategy. 476 IBM z16 A02 and IBM z16 AGZ Technical Guide To allow this flexible \u201cTrain anywhere, Deploy on IBM Z\u201d approach, IBM invests into ONNX (Open Neural Network Exchange) [https://onnx.ai] technology (Figure 12-9). Figure 12-9 ONNX ecosystem This is a standard format for representing AI models allowing a data scientist to build and train a model in the framework of choice without worrying about the downstream inference implications. To enable deployment of ONNX models, IBM provides an ONNX model compiler that is optimized for IBM Z. In addition to this, IBM is optimizing key open source frameworks such as TensorFlow (and TensorFlow Serving) for use on IBM Z. IBM open sourced zDNN library provides common APIs for the functions allowing convesion from tensor format to the accelerator required format. Clients can run zDNN both under z/OS1 and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.303845",
+    "chunk_number": 1101,
+    "word_count": 158
+  }
+}

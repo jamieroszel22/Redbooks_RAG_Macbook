@@ -1,0 +1,18 @@
+{
+  "content": "feature (1-port)a Carry forward from IBM z15. This feature contains one IBM 4769 PCIe Cryptographic Coprocessor (HSM), which can be defined as Coprocessor or Accelerator. Supported on IBM z15 and IBM z16. 0893 Crypto Express6S adaptera This feature is available as a carry forward MES from IBM z14. This feature is optional. Each feature one IBM 4768 PCIe Cryptographic Coprocessor (HSM). This feature is supported in IBM z16, IBM z15, and IBM z14. 0058 TKE tower workstation A TKE provides basic key management (key identification, exchange, separation, update, and backup) and security administration. It is optional for running a Crypto Express feature in CCA mode in non PCI-compliant environment. It is required for running in EP11 mode and CCA mode with full PCI compliance. The TKE workstation has one 1000BASE-T Ethernet port, and supports connectivity to an Ethernet local area network (LAN). Up to 10 features combined (0057/0058) can be ordered per IBM z16. Chapter 6. Cryptographic",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.283598",
+    "chunk_number": 528,
+    "word_count": 157
+  }
+}

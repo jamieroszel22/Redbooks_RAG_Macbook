@@ -1,0 +1,18 @@
+{
+  "content": "that cascade to subgroups. Business use case: Multinational corporation with regional data access A multinational corporation managing customer data in a lakehouse requires regional access control for different legal jurisdictions. Although regional teams need access to data relevant to their area, global executives require access across all regions. By using a hierarchical model, the corporation sets up a parent group for global data access and creates regional child groups under it. Permissions that are assigned to the global group are inherited by regional teams, but regional policies restrict their access to specific regional data. This hierarchical structure helps ensure consistent access while supporting compliance with local regulations. 48 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 4.1.3 Implementing user and group management in open lakehouses This section describes strategies for implementing effective access controls in open lakehouses to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.827179",
+    "chunk_number": 125,
+    "word_count": 141
+  }
+}

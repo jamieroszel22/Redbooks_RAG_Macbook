@@ -1,0 +1,18 @@
+{
+  "content": "Einstein at the start of this chapter: Everything should be made as simple as possible, but not simpler. This book will use the latter, with the aim to use the same clear and insightful presentation. The authors thought it was important to help you quickly get a new system up and running, but to also provide insight as to why we chose the options we did. Many books and papers talk about virtualization and cloud computing concepts today, but they do not tell you how to do it. The remainder of this book gives you the \u201chow to\u201d that backs up these marketing concepts. 18 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 The setup in this book is considered a well-designed environment by the authors. The topics and directions that are presented also were reviewed by staff in some of the globally recognized subject matter expert and customer practitioner areas in IBM, such as the z/VM development lab, Washington Systems Center (ATS), IBM Garage, and Global Technology Services. Implementing this",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.474608",
+    "chunk_number": 90,
+    "word_count": 170
+  }
+}

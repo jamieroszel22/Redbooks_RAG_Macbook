@@ -1,0 +1,18 @@
+{
+  "content": "compliance, update the data, or improve the model's performance. Evaluation and monitoring To ensure the model operates within acceptable parameters, performance metrics are continuously monitored to circumvent reputational and organizational risks. During the evaluation and monitoring phase, developers, model validators and ModelOps engineers interact with the platform to: \u0002 Monitor performance metrics and thresholds. \u0002 Analyze model outputs and detect potential issues. \u0002 Receive alerts and notifications for threshold breaches. \u0002 Investigate and respond to potential issues or anomalies. \u0002 Collaborate to identify root causes and develop solutions. Persona interaction: \u0002 Model Validator interacts with the platform to: Monitor performance metrics and thresholds, analyze model outputs and detect potential issues, and identify data quality problems or biases \u0002 ModelOps Engineer interacts with the platform to Interacts with the platform to receive alerts and notifications for threshold",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.869097",
+    "chunk_number": 111,
+    "word_count": 136
+  }
+}

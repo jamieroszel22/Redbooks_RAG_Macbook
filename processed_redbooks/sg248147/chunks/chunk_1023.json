@@ -1,0 +1,18 @@
+{
+  "content": "C. Additional material 499 SWAPGEN EXEC The commands in this EXEC create a Linux swap partition on VM disks. The following code is for the EXEC that creates Linux swap spaces from z/VM VDISKs. You can download this EXEC from this web page. Sample files This section lists the sample files that are described in the book. SAMPLE CONF-RH6 file This section lists the sample RHEL 6 configuration file. DASD=100-103,300-301 HOSTNAME=hostName.DNSname.com NETTYPE=qeth IPADDR=n.n.n.n SUBCHANNELS=0.0.0700,0.0.0701,0.0.0702 NETMASK=255.255.255.0 SEARCHDNS=DNSname.com GATEWAY=n.n.n.n DNS=n.n.n.n MTU=1500 PORTNAME=DONTCARE PORTNO=0 LAYER2=1 SAMPLE PARM-RH6 file This section lists the sample RHEL 6 configuration file. root=/dev/ram0 ro ip=off ramdisk_size=40000 CMSDASD=191 CMSCONFFILE=userid.CONF-RH6 vnc vncpassword=12345678 SAMPLE PARM-S11 file This section lists the sample SLES 11 SP3 configuration file. ramdisk_size=65536 root=/dev/ram1 ro init=/linuxrc TERM=dumb HostIP=n.n.n.n",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.079882",
+    "chunk_number": 1023,
+    "word_count": 121
+  }
+}

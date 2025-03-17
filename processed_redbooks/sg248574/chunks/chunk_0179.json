@@ -1,0 +1,18 @@
+{
+  "content": "freeform contributions. The qna.yaml file for knowledge contributions must follow a specific format and include the following fields: \u0002 version: The version of the qna.yaml file format, which is set to 3. \u0002 created_by: The GitHub username of the contributor. \u0002 domain: The category of the knowledge. \u0002 seed_examples: A collection of key-value entries. \u0002 context: A chunk of information from the knowledge document. Each qna.yaml file must include at least five context blocks, with a maximum of 500 words per block. \u0002 questions_and_answers: Holds the questions and answers based on the context. Each context block requires a minimum of three question-and-answer pairs, each with a maximum word count of 250 words. \u2013 question: A question for the model. \u2013 answer: The corresponding answer. \u0002 document_outline: An overview of the document being submitted. \u0002 document: The source document for the knowledge contribution. \u0002 repo: The URL of the repository that contains the knowledge files. \u0002 commit: The",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.907017",
+    "chunk_number": 179,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "two IBM PCIe Cryptographic Coprocessors (PCIeCC) per feature. The IBM PCIeCC is an HSM. The Crypto Express7S (1 port), FC 0899 includes one IBM PCIe Cryptographic Coprocessors (PCIeCC) per feature. For availability reasons, a minimum of two features is required for the one port feature. Up to 30 Crypto Express7S (2 port) features are supported on IBM z15 T01. The maximum number of the one-port features is 16. The total number of HSMs supported on IBM z16 A01 is 60 in a combination of Crypto Express8S (2 HSM), Crypto Express8S (1 HSM), Crypto Express7S (2 port), Crypto Express7S (1 port), or Crypto Express6S. The Crypto Express7S feature occupies one I/O slot in a PCIe+ I/O drawer. Each adapter can be configured as a Secure IBM CCA coprocessor, Secure IBM Enterprise PKCS #11 (EP11) coprocessor, or accelerator. Crypto Express7S provides domain support for up to 85 logical partitions. The accelerator function is designed for maximum-speed Secure Sockets Layer and Transport Layer Security",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.106989",
+    "chunk_number": 483,
+    "word_count": 161
+  }
+}

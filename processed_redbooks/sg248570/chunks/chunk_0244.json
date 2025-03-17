@@ -1,0 +1,18 @@
+{
+  "content": "section, the data scientist on this initiative uses the IBM watsonx.data data connection in IBM watsonx.ai to build and develop prototype models to predict whether someone will purchase a bank term deposit. 8.5.1 Creating an AutoAI experiment To build and evaluate multiple machine learning models, the data scientist chooses to use AutoAI within IBM watsonx.ai. AutoAI is a graphical tool that you can use to develop, display, and rank various model candidate pipelines by using a data set. To accomplish this task, complete the following steps: 1. To create an AutoAI experiment, the data scientist clicks New asset in the Assets tab of the Bank Term Deposit Marketing Campaign Analysis project in IBM watsonx.ai, as shown in Figure 8-65. Figure 8-65 New asset 142 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 2. The data scientist clicks Work with models, and then clicks Build machine learning models automatically with AutoAI, as shown in Figure 8-66. Figure 8-66",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.287397",
+    "chunk_number": 244,
+    "word_count": 160
+  }
+}

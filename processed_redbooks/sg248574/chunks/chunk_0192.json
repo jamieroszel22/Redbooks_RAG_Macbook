@@ -1,0 +1,18 @@
+{
+  "content": "process, users can monitor their progress and make necessary adjustments to ensure that the model's performance aligns with outcomes. Moreover, InstructLab offers advanced features such as feedback, performance metrics, and troubleshooting tools to enhance the tuning experience. This comprehensive approach helps create an accurate and efficient LLM, with continuous improvement and adaptation to evolving linguistic patterns and user needs. Figure 5-12 on page 81 illustrates a detailed taxonomy tree of skill and knowledge files that are managed within Tuning Studio on watsonx.ai for InstructLab. The UI shows a comprehensive and organized view of the hierarchical structure of skills and knowledge areas. Each node in the taxonomy tree represents a distinct category, which facilitates navigation and access to specific training data. Chapter 5. Advanced capabilities of watsonx.ai 81 Figure 5-12 Taxonomy tree of skill and knowledge files that are managed in Tuning Studio on watsonx.ai for",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.960729",
+    "chunk_number": 192,
+    "word_count": 145
+  }
+}

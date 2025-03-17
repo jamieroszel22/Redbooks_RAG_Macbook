@@ -1,0 +1,18 @@
+{
+  "content": "Virtual Flash Memory is designed to help improve availability and handling of paging workload spikes when running z/OS. With this support, z/OS is designed to help improve system availability and responsiveness by using VFM across transitional workload events, such as market openings, and diagnostic data collection. z/OS is also designed to help improve processor performance by supporting middleware exploitation of pageable large (1 MB) pages. VFM can help organizations meet their most demanding service level agreements and compete more effectively. VFM is easily configurable, and provides rapid time to value. The supported operating systems are listed in Table 7-3 on page 249 and Table 7-4 on page 250. Guarded Storage Facility Also known as less-pausing garbage collection, Guarded Storage Facility (GSF) is an architecture that was introduced with IBM z14 to enable enterprise scale Java applications to run without periodic pause for garbage collection on larger heaps. z/OS GSF support",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.862424",
+    "chunk_number": 669,
+    "word_count": 150
+  }
+}

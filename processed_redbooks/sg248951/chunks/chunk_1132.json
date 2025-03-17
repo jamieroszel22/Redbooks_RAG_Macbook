@@ -1,0 +1,18 @@
+{
+  "content": "jobs: \u0002 Jobs that perform hardware compression and might be candidates for On-Chip Compression. \u0002 Jobs that might be On-Chip Compression candidates, but are not in extended format. Therefore, zBNA can help you estimate the use of On-Chip Compression features and help identify savings. The following resources are available: \u0002 IBM Employees can obtain zBNA and other CPS tools at the IBM Z Batch Network Analyzer (zBNA) Tool page of the IBM Techdoc website. For more information, contact your IBM Representative. \u0002 IBM Business Partners can obtain zBNA and other CPS tools at the IBM PartnerWorld website (log in required). \u0002 IBM customers can obtain zBNA and other CPS tools at the IBM Z Batch Network Analyzer (zBNA) Tool web page of the IBM Techdoc Library website. 512 IBM z16 (3931) Technical Guide Compression acceleration and Linux on IBM Z The zEDC I/O adapter use is limited in many Linux on IBM Z environments because SR-IOV does not provide a high degree of virtualization; therefore, the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.373713",
+    "chunk_number": 1132,
+    "word_count": 166
+  }
+}

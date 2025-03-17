@@ -1,0 +1,18 @@
+{
+  "content": "directory data to a RACF database. It translates directory statements into RACF commands and puts them in an output file named RPIDIRCT SYSUT1. To create RPIDIRCT SYSUT1 for later use with RPIDIRCT, complete the following steps: 1. Log on to MAINT on the first SSI member. 2. Link the 7VMRAC20 191 disk read/write and access it as file mode F: ===> link 7VMRAC20 191 1191 mr ===> acc 1191 f 3. Link the 7VMRAC20 505 disk read/write and access it as file mode G: ===> link 7VMRAC20 505 1505 mr ===> acc 1505 g 4. If you are using DirMaint, get the current user directory with passwords with the DIRMAINT USER WITHPASS command: ===> dirm user withpass DVHXMT1191I Your USER request has been sent for processing to DIRMAINT DVHXMT1191I at POKDEV62. DVHREQ2288I Your USER request for MAINT at * has been accepted. Important: If you plan to enable RACF, consider the following points: \u0002 You must decide on the set of activities that you want to audit, and whether audit is always on for those activities",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.628298",
+    "chunk_number": 367,
+    "word_count": 176
+  }
+}

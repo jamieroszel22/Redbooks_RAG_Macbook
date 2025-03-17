@@ -1,0 +1,18 @@
+{
+  "content": "coprocessors to take advantage of fast DES and AES data encryption speeds in CPACF while maintaining high levels of security for the secure key material. The key remains encrypted and the key encrypting key never appears in host storage. When CCA ECC services are used, ICSF can now take advantage of ECC support in CPACF (protected key support) for the following curves: \u2013 Prime: P256, P384, P521 \u2013 Edwards: ED25519, ED448 CPACF can achieve much faster crypto speeds compared to the coprocessor. The translation to protected key happens automatically after the attribute is set in the key token. No application change is required. Chapter 6. Cryptographic features 231 \u0002 New signatures Support for the Cryptographic Suite for Algebraic Lattices signatures algorithm with the largest key sizes (MODE=3): \u2013 Public Key size: 1760 bytes \u2013 Private Key Size: 3856 bytes \u2013 Signature Size: 3366 bytes Lattice-based cryptographic keys are protected by the 256-bit AES MK. The lattice-based key has a",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.446295",
+    "chunk_number": 563,
+    "word_count": 159
+  }
+}

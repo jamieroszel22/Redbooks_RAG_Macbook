@@ -1,0 +1,18 @@
+{
+  "content": "size of 160 GB, which is in addition to the customer purchased memory. This fixed size memory for HSA eliminates the requirement for more planning of the initial I/O configuration and pre-planning for future I/O expansions. The following objects are always reserved in the IBM z16 A02 and IBM z16 AGZ HSA during POR, whether they are defined in the IOCDS for use: \u0002 Three LCSSs \u0002 A total of 15 LPARs in each LCSS0 and LCSS1 \u0002 A total of 10 LPARs in LCSS2 \u0002 Subchannel set 0 with 63.75 K devices in each LCSS \u0002 Subchannel set 1 with 64 K minus one device in each LCSS \u0002 Subchannel set 2 with 64 K minus one device in each LCSS 5.1.1 Multiple logical channel subsystems In the z/Architecture, a single channel subsystem can have up to 256 channel paths that are defined, which limited the total numbers of I/O connectivity on older IBM Z systems to 256. The introduction of multiple LCSSs enabled an IBM Z to have more than one channel subsystems logically, while each logical channel subsystem",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.065722",
+    "chunk_number": 474,
+    "word_count": 181
+  }
+}

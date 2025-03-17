@@ -1,0 +1,18 @@
+{
+  "content": "\u00b5m MM 0458 OSA-Express7S 1.2 1000BASE-T RJ-45 Category 5 UTPb 0424 OSA-Express6S 10GbE LR LC Duplex 9 \u00b5m SM 0425 OSA-Express6S 10 GbE SR LC Duplex 50, 62.5 \u00b5m MM 0422 OSA-Express6S GbE LX LC Duplex 9 \u00b5m SM 0423 OSA-Express6S GbE SX LC Duplex 50, 62.5 \u00b5m MM 0426 OSA-Express6S 1000BASE-T RJ-45 Category 5 UTPb Chapter 4. I/O structure 157 4.6.2 Storage connectivity Connectivity to external I/O subsystems (for example, disks) is provided by FICON channels and zHyperLink7. FICON channels IBM z16 A02 and IBM z16 AGZ support the following FICON features: \u0002 FICON Express32S LX and SX (FC 0461/0462) \u0002 FICON Express16S+ LX and SX (FC 0427/0428) The FICON Express32S and FICON Express16S+ features conform to the following architectures: \u0002 Fibre Connection (FICON) \u0002 High Performance FICON on Z (zHPF) \u0002 Fibre Channel Protocol (FCP) The FICON features provide connectivity between any combination of servers, directors, switches, and devices (control units, disks, tapes, and printers) in a SAN. Each",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.746166",
+    "chunk_number": 392,
+    "word_count": 161
+  }
+}

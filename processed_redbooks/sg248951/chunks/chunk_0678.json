@@ -1,0 +1,18 @@
+{
+  "content": "the CF processor. \u2013 DYNDISP=ON: An optimization over pure LPAR timeslicing, in which the CFCC code manages timer interrupts to share processors more efficiently. \u2013 DYNDISP=THIN: An interrupt-driven model in which the CF processor is dispatched in response to a set of events that generate Thin Interrupts. Thin Interrupt support was available since zEC12/zBC12,. It is proven to be efficient and well-performing in numerous different test and customer shared-engine coupling facility configurations. Therefore, IBM z15 made DYNDISP=THIN the default mode of operation for coupling facility images that use shared processors. 284 IBM z16 (3931) Technical Guide CFCC Level 23 CFCC Level 23 is delivered on IBM IBM z14 servers with driver level 36. In addition to CFCC Level 22 enhancements, it introduces the following enhancements: \u0002 Asynchronous cross invalidation (XI) for CF cache structures This enhancement requires z/OS fixes for APARs OA54688 (exploitation) and OA54985 (toleration). It also",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.899905",
+    "chunk_number": 678,
+    "word_count": 148
+  }
+}

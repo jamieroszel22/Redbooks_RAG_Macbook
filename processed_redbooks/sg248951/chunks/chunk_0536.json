@@ -1,0 +1,18 @@
+{
+  "content": "data-storing applications that do not require FIPS 140-2 Level 4 security. CPACF is designed to facilitate the privacy of cryptographic key material when used for data encryption through key wrapping implementation. It ensures that key material is not visible to applications or operating systems during encryption operations. For more information, see 6.4.2, \u201cCPACF protected key\u201d on page 222. The CPACF feature provides hardware acceleration for the following cryptographic services: \u0002 Symmetric ciphers: \u2013 DES \u2013 Triple-DES \u2013 AES-128 \u2013 AES-192 \u2013 AES-256 (all for clear and protected keys) \u0002 Elliptic curves cryptography (ECC): \u2013 ECDSA, ECDH, support for the NIST P256, NIST P386, NIST P521 \u2013 EdDSA for Ed25519, Ed448 Curves \u2013 ECDH for X25519, X448 Curves \u2013 Key generation for NIST, Ed, and X curves \u0002 Hashes/MACs: \u2013 SHA-1 \u2013 SHA-224 (SHA-2 or SHA-3 standard) \u2013 SHA-256 (SHA-2 or SHA-3 standard) \u2013 SHA-384 (SHA-2 or SHA-3 standard) \u2013 SHA-512 (SHA-2 or SHA-3 standard) \u2013 SHAKE-128 \u2013 SHAKE-256 \u2013 GHASH",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.308962",
+    "chunk_number": 536,
+    "word_count": 160
+  }
+}

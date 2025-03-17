@@ -1,0 +1,18 @@
+{
+  "content": "and when that deactivation ever occurs). During path initialization, the CF provides more information to z/OS about every message path that appears active, including the SYID for the path. Whenever z/OS interrogates the state of the message paths to the CF, z/OS checks this SYID information for currency and correctness, and if incorrect, gather diagnostic information and reactivates the path to correct the problem. \u0002 CF monopolization avoidance z/OS will take advantage of current CF support in CFLEVEL 24 (IBM z15 T01/T02) to deliver improved z/OS support for handling CF monopolization. With IBM z15 T01/T02, the CF dispatcher will monitor in real-time the number of CF tasks that have a command assigned to them for a given structure, on a structure-by-structure basis. When the number of CF tasks being used by any given structure exceeds a model-dependent CF threshold, and a global threshold on the number of active tasks is also exceeded, the structure will be considered to be",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.905794",
+    "chunk_number": 681,
+    "word_count": 159
+  }
+}

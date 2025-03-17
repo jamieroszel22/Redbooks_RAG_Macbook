@@ -1,0 +1,18 @@
+{
+  "content": "MAINT720. 270 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 9. Access the MAINT720 500 disk as C: ==> access 500 c DMSACC724I 500 replaces C (2CC) 10.Verify that the files exist by using the LISTFILE command: ==> listfile * * c S1041690 SHIPDOCS C1 S1041690 SHIPTFSS C1 7201RSU1 SERVLINK C1 11.The envelope files arrive in a compressed format to speed downloads. To use them, you must first rename them to a file type of SERVLINK and decompress them by using the DETERSE command. Therefore, it is recommended to leave the file name of the SES envelope unchanged and change the prefix letter of the documentation envelope to D. First, rename them, and then, use the DETERSE command with the (REPLACE parameter to decompress them in place and save disk space: ==> rename s1041690 shiptfss c = servlink = ==> rename s1041690 shipdocs c d1041690 servlink = ==> deterse s1041690 servlink c = = = (replace ==> deterse d1041690 servlink c = = = (replace Ensure that all commands complete successfully. 8.4.4",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.542750",
+    "chunk_number": 594,
+    "word_count": 171
+  }
+}

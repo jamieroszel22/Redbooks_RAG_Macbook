@@ -1,0 +1,18 @@
+{
+  "content": "drawer Dual port I/O fan-outs and ICA SR adapters are plugged in specific slots for best performance and availability. Redundant power supplies and six SMP9 ports also are shown. Each pair of SMP9 ports is redundant. If a single cable fails, the repair can be performed concurrently. The CPC drawer logical structure, component connections are shown in Figure 2-9. Figure 2-9 CPC drawer logical structure Memory is connected to the DCMs through memory control units (MCUs). Up to six MCUs are available in a CPC drawer (one or two per DCM) and provide the interface to the DIMM controller. A memory controller uses eight DIMM slots. The buses are organized in the following configurations: \u0002 The M-bus provides interconnects between PU chips in the same DCM \u0002 The X-bus provides interconnects between PU chips to each other, in the same drawer \u0002 The A-bus provides interconnects between different drawers by using SMP9 cables 26 IBM z16 (3931) Technical Guide 2.2.1 CPC drawer interconnect topology",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.594873",
+    "chunk_number": 116,
+    "word_count": 164
+  }
+}

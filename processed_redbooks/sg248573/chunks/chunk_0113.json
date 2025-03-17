@@ -1,0 +1,18 @@
+{
+  "content": "to models after they have gone live. This object's workflows enable organizations to: \u2013 Request and justify changes: Clearly articulate the need for changes and provide supporting rationale \u2013 Route changes for approval: Direct changes to the relevant stakeholders and approvers, based on the type and impact of the change \u2013 Obtain auditable approvals: Ensure that all changes are properly approved and documented, with a clear audit trail The Change Request object allows for various approval paths and levels of approval, depending on the nature and scope of the change. This flexibility enables organizations to balance the need for control and oversight with the need for agility and responsiveness. 36 Ensuring Trustworthy AI with IBM watsonx.governance Risk and compliance The increasing use of AI models in various industries has raised concerns about risk and compliance. AI models can pose significant risks if not properly designed, trained, and deployed, including biases, errors, and",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.877010",
+    "chunk_number": 113,
+    "word_count": 152
+  }
+}

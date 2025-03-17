@@ -1,0 +1,18 @@
+{
+  "content": "Mouse, Monitor (KMM) device (USB-C connection) \u2013 Optional IBM Hardware Management Appliance feature \u0002 24-port 1 GbE Switches (two or four, depending on the system configuration) \u0002 Hardware for cable management at the rear of the system 1 For more information, see Chapter 2, Environmental specifications in IBM 3931 Installation Manual for Physical Planning, GC28-7015. Chapter 2. Central processor complex hardware components 17 An example of a fully configured system with PDU-based power, four CPC drawers, and up to 12 PCIe+ I/O drawers is shown in Figure 2-1. Figure 2-1 Maximum configuration, PDU-based powered system (front view) An example of a BPA-based powered system, and a maximum of four CPC drawers and 10 PCIe+ I/O drawers is shown in Figure 2-2. Figure 2-2 Maximum configuration, BPA-based powered system (front view) RCA RCA CPC3 I/O 13 CPC1 CPC2 CPC0 I/O 5 I/O 15 I/O 14 I/O 6 I/O 4 I/O 7 I/O 8 I/O 9 I/O 10 I/O 11 I/O 12 1-4 Frames 2 or 4 GbE Switches 2 SEs 1-4 CPCs 0-12 I/Os",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.548464",
+    "chunk_number": 105,
+    "word_count": 173
+  }
+}

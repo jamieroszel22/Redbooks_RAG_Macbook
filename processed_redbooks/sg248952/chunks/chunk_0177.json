@@ -1,0 +1,18 @@
+{
+  "content": "Figure 2-12 on page 58. 10 The KVM hypervisor is part of supported IBM Linux on Z distributions. 58 IBM z16 A02 and IBM z16 AGZ Technical Guide Table 2-12 IBM z16 Az16 AGZ Processor Configurations \u0002 Not all PUs available on a feature are required to be characterized with a feature code. Only the PUs purchased by a client are identified with a feature code. \u0002 All PU conversions can be performed concurrently. A capacity marker identifies the number of CPs that were purchased. This number of purchased CPs is higher than or equal to the number of CPs that is actively used. The capacity marker marks the availability of purchased but unused capacity that is intended to be used as CPs in the future. This status often is present for software-charging reasons. Unused CPs are not a factor when establishing the millions of service units (MSU) value that is used for charging monthly license charge (MLC) software, or when charged on a per-processor basis. 2.8.1 Upgrades Concurrent upgrades of CPs,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.869349",
+    "chunk_number": 177,
+    "word_count": 172
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "use structure-wide latches for its serialization. z14 servers with CFCC Level 23 require z/OS V1R13 or later, and z/VM V6R4 or later for virtual guest coupling. CFCC Level 22 CFCC level 22 is delivered on the IBM z14 (M/T 3906) with driver level D32. CFCC Level 22 introduces the following enhancements: \u0002 CF Enhancements: \u2013 CF structure encryption CF Structure encryption is transparent to middleware and applications that use CFs, while CF users are unaware of and not involved in the encryption. All data and adjunct data that flows between z/OS and the CF is encrypted. The intent is to encrypt all data that might be sensitive. Internal control information and related request metadata is not encrypted, including locks and lock structures. z/OS generates the required structure-related encryption keys and does much of the key management automatically by using CFRM that uses secure, protected keys (never clear keys). Secure keys maintained in CFRM couple data set. \u0002 CF Asynchronous",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.598740",
+    "chunk_number": 350,
+    "word_count": 159
+  }
+}

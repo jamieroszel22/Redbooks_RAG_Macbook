@@ -1,0 +1,18 @@
+{
+  "content": "the virtual adapters FC00 and FD00 only, and they are easier to manage. To manually dedicate that same pair of FCPs without requiring the virtual machine to log on again, use the following commands: ===> ATTACH B802 TO LINUX3 AS FC00 ===> ATTACH B902 TO LINUX3 AS FD00 As a convention, always keep the range of B8xx dedicated as FC00, and B9xx as FD00, which simplifies the management of the virtual machines. After the devices are attached, you can check the WWPN of the adapter with the command: ===> QUERY B800 B900 These WWPNs (together with the WWPN of the adapters on the storage system) must be configured in their own Fibre Channel zone on the Fibre Channel switch. 352 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 11.2.3 Emulated DASD To simplify the handling of Fibre Channel adapters, you can also define emulated DASD (EDEV), as shown in Figure 11-2. EDEVs are based on Fibre Channel, but they still show up as DASD on z/VM. Figure 11-2 EDEV setup overview Figure 11-2 shows several",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.192668",
+    "chunk_number": 763,
+    "word_count": 174
+  }
+}

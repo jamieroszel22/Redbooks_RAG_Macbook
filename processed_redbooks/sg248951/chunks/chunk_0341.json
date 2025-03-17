@@ -1,0 +1,18 @@
+{
+  "content": "coupling facility configurations. IBM z15 made DYNDISP=THIN the default mode of operation for shared-engine coupling facility images, but supported the other options OFF and ON for continued \u201clegacy\u201d use. Specifying OFF or ON in CF commands and the CF configuration file are preserved for compatibility; however, a warning message is issued to indicate that these options are no longer supported and that DYNDISP=THIN behavior is to be used. CFCC Level 24 CFCC level 24 is delivered on the IBM z15 (M/T 8561 and 8562) with driver level 41. CFCC level 24 adds the following features: \u0002 CFCC Fair Latch Manager This feature is an enhancement to the internals of the Coupling Facility (CFCC) dispatcher to provide CF work management efficiency and processor scalability improvements, and improve the \u201cfairness\u201d of arbitration for internal CF resource latches across tasks. The tasks that are waiting for CF latches are not placed on the global suspend queue at all; instead, they are placed on",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.565300",
+    "chunk_number": 341,
+    "word_count": 160
+  }
+}

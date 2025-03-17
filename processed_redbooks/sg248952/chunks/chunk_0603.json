@@ -1,0 +1,18 @@
+{
+  "content": "z/VM Compatibility Support will enable Guest Exploitation for several new facilities: 1 Use support for select features by way of PTFs. Toleration support for new hardware might also require PTFs. Important: z16 M/T 3932 users must use the FIXCATs for both the 3932 and the 3931. Only unique capabilities for the 3932 will be identified with the 3932 FIXCATs. 246 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Imbedded Artificial Intelligence Acceleration: \u2013 designed to reduce the overall time required to execute CPU operations for neural networking processing functions, and help support real-time applications like fraud detection. \u0002 Compliance-ready CPACF Counters support: \u2013 means for guests to track crypto compliance & instruction usage \u0002 Breaking Event Address Register (BEAR) Enhancement Facility: \u2013 facilitates the debug of wild branches \u0002 Vector Packed Decimal Enhancements: \u2013 2 new instructions intended to provide performance improvements \u0002 Reset DAT protection Facility: \u2013 provides a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.587932",
+    "chunk_number": 603,
+    "word_count": 152
+  }
+}

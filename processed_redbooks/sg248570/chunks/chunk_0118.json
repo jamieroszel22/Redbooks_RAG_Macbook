@@ -1,0 +1,18 @@
+{
+  "content": "faster and focus on higher-value tasks. Autoscaling to burst compute DataStage is built to handle varying data volumes, making it ideal for businesses with seasonal or unpredictable data loads. By dynamically scaling resources, DataStage helps ensure smooth operations during peak periods, such as holiday seasons for retail companies. This proactive approach enables organizations to efficiently manage data and extract insights, regardless of the data volume. \u00a9 Copyright IBM Corp. 2025. 45 Chapter 4. Protecting data This chapter delves into the core aspects of protecting data within IBM watsonx.data. It begins with an overview of users and groups as they relate to the lakehouse architecture, and examining how these classifications create a foundation for managing access. Next, this chapter explores defining roles and responsibilities, where you assign the appropriate permissions to various job functions, such as data scientists, analysts, and this chapter describes establishing access",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.796771",
+    "chunk_number": 118,
+    "word_count": 144
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Hardware Management Appliance \u2022 Network switches \u2022 PCIe+ I/O drawers \u2022 CPC drawers Note: For the IBM z16 AGZ it is the clients\u2019 responsibility to provide PDUs that meet the required specifications. Please refer to the IBM z16 and LinuxONE Rockhopper 4 Rack Mount Bundle Installation Manual for Physical Planning (IMPP) GC28-7035 on Resource Link. Important: CPC drawers can only be connected through a power cable with C19 receptacle, but when deciding on the other components make sure customer provided has corresponding receptacles. 446 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Power cables length Power cables can be ordered in three different lengths: 1, 2 and 3 meter. A power cable length planning matrix will be added to Resource Link which will help order the correct (minimum) length for each specific cable. The required length of the power cable can be influenced by factors such as location of the IBM z16 A02 and IBM z16 AGZ components in the rack, placement of the PDUs in the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.191141",
+    "chunk_number": 1055,
+    "word_count": 169
+  }
+}

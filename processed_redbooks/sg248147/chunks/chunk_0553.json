@@ -1,0 +1,18 @@
+{
+  "content": "(push) from the FTP server by initiating a session to z/VM: ===> ftp RDBKZVMG.itso.ibm.com ... ===> lcd D ===> cd /ftp/zvm/cookbook/lnxmaint ===> mget * ===> quit 4. List the files that you downloaded into SFS. The list shows numerous files: ===> vmfclear ===> listfile * * D (isodate FILENAME FILETYPE FM FORMAT LRECL RECS BLOCKS DATE TIME GENERIC PRM D1 V 66 7 1 2015-04-20 15:28:54 PROFCKD EXEC D1 V 72 37 1 2015-04-27 15:11:21 PROFFBA EXEC D1 V 72 49 1 2015-04-27 15:11:10 PROFILE EXEC D1 V 72 37 1 2015-04-27 15:09:09 REDHAT EXEC D1 V 26 9 1 2015-04-17 12:43:45 RESCUE EXEC D1 V 26 9 1 2015-04-24 14:53:21 RESCUE PRM D1 V 66 7 1 2015-04-24 14:53:05 SLES12 EXEC D1 V 57 11 1 2015-04-17 12:15:35 SLES12 PARMFILE D1 V 18 2 1 2015-04-25 14:36:02 SWAPGEN EXEC D1 V 72 599 7 2013-12-17 21:52:11 SWAPGEN HELPCMS D1 V 76 279 3 2013-12-23 10:45:36 SWAPGENH PSBIN D1 V 256 1632 88 2013-12-23 10:44:21 SWPUME TEXT D1 F 80 43 1 2013-12-17 21:52:19 SWPUMEA TEXT D1 F 80 47 1 2013-12-17 21:52:19 SWPUMEB TEXT",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.357445",
+    "chunk_number": 553,
+    "word_count": 185
+  }
+}

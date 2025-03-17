@@ -1,0 +1,18 @@
+{
+  "content": "Hat (\u201ctop exit enclosure\u201d). Table 2-1 IBM z16 A02 Feature Code Combinations 3 MPO - Multi-fiber Push On connector Environment Bottom Exit Top Exit Features to order Raised Floor Yes No 7804 only Raised Floor Yes Yes but no Top Hat H/W 7804 and 7803 Raised Floor Yes Yes but with Top Hat H/W 7804 and 7802 Raised Floor No Yes but no Top Hat H/W 7803 Top Exit cabling Slider Plates Adjustable openings FC7803 and or FC7804 Top Exit Feature with FC7802 IBM z16 A02 Top Exit Cabling Frame Rear view Power Cables MPO Brackets And cabling Chapter 2. Central processor complex hardware components 25 A vertical cable management guide (\u201cspine\u201d) can assist with proper cable management for fiber, copper, and coupling cables. The full length cable management spine is installed with the presence of the 2nd CPC drawer, 3rd IO drawer or the 1st 8U Reserve feature. The cable retention clips can be relocated for best usage. All external cabling to the system (from top or bottom) can use the spines to",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.629214",
+    "chunk_number": 120,
+    "word_count": 174
+  }
+}

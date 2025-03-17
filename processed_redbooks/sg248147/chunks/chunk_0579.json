@@ -1,0 +1,18 @@
+{
+  "content": "file to the MAINT720 500 disk. The following example shows a Windows command-line FTP session: C:\\Downloads>ftp 9.10.11.12 User (9.10.11.12:(none)): maint720.by.adm123 Password: ftp> cd maint720.500 250 Working directory is MAINT720 500 ftp> bin 200 Representation type is IMAGE. ftp> quote site fix 1024 200 Site command was accepted. ftp> put S9338801.shiptfss ... Chapter 8. Servicing z/VM 261 ftp> put S9338766.shiprsu1 ... ftp> quit 3. Log on to MAINT720. 4. Access the MAINT720 500 disk as file mode C. Query the disks: ==> access 500 c DMSACC724I 500 replaces C (2CC) ==> query disk LABEL VDEV M STAT CYL TYPE BLKSZ FILES BLKS USED-(%) BLKS LEFT BLK TOTAL MNT191 191 A R/W 175 3390 4096 26 231-01 31269 31500 MNT5E6 5E6 B R/W 9 3390 4096 131 1265-78 355 1620 MNT500 500 C R/W 900 3390 4096 2 50705-31 111295 162000 MNT51D 51D D R/W 26 3390 4096 299 1731-37 2949 4680 PMT551 551 E R/W 40 3390 4096 9 92-01 7108 7200 MNT190 190 S R/O 207 3390 4096 694 16694-45 20566 37260 MNT19E 19E Y/S R/O",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.482419",
+    "chunk_number": 579,
+    "word_count": 176
+  }
+}

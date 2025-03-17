@@ -1,0 +1,18 @@
+{
+  "content": "considerations Coupling facility (CF) connectivity to an IBM z16 is supported on the z16, IBM z14, or another IBM z16. The CFCC levels that are supported on IBM Z are listed in Table 7-15. Table 7-15 IBM Z CFCC code-levels Note: The zEDC Express feature that is available on older systems is not carried forward to IBM z16. IBM Z server Code level IBM z16 A01 CFCC Level 25 IBM z15 T01 and T02 CFCC Level 24 IBM z14M0x and IBM z14ZR1 CFCC Level 23a a. CFCC Level 22 is not supported when an IBM z16 participates in the sysplex 282 IBM z16 (3931) Technical Guide CFCC Level 25 CFCC Level 25 is delivered on IBM z16 servers with driver level 51 and introduces the following enhancements: \u0002 Scalability Improvements Processing and dispatching enhancements that result in meaningful scaling of effective throughput up to the limit of 16 ICF processors. \u0002 Request latency/performance improvements CFCC and coupling link firmware and hardware improvements to reduce link latency. \u0002 Elimination of VSAM RLS",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.879290",
+    "chunk_number": 672,
+    "word_count": 171
+  }
+}

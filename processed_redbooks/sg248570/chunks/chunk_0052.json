@@ -1,0 +1,18 @@
+{
+  "content": "building applications or services with .NET, Java, Python, JavaScript, C++, and Go. Developers and IT professionals can use Azure PowerShell and Azure CLI to write scripts for data management or configuration tasks. IBM Cloud Object Storage IBM Cloud Object Storage is a service that is offered by IBM for storing and accessing unstructured data. This service can be deployed on-premises, as part of IBM Cloud Platform offerings, or in hybrid form. The offering can store any type of object for data archiving and backup, web and mobile applications, and as scalable, persistent storage for analytics. Interaction with IBM Cloud Object Storage is based on Rest APIs. Red Hat Ceph Storage Ceph is a no-charge, open-source, and software-defined storage platform that provides object storage, block storage, and file storage built on a common distributed cluster foundation. Ceph provides distributed operation without a single point of failure and scalability to the exabyte level. Since Version 12",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.539516",
+    "chunk_number": 52,
+    "word_count": 154
+  }
+}

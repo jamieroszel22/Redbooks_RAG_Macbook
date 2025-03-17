@@ -1,0 +1,18 @@
+{
+  "content": "ecosystem. Figure 1-1 Lakehouses combine the best of data warehouses and data lakes Data storage paradigms are cumulative. They do not disappear or are replaced by the next paradigm. They must coexist. As these technologies mature, organizations recognize the value that each paradigm provides at performing certain tasks. Every step of an organization\u2019s data or AI journey is critical. AI is not magic; it requires a thoughtful and well-designed approach. For example, most AI failures are due to problems in data preparation and data organization, and not the AI models themselves. Success with AI models depends on achieving success first with how the data is collected, stored, organized, and managed. Chapter 1. Challenges and opportunities with data 5 1.2.1 The impact of cloud A combination of on-premises and cloud-native warehouses and custom data lakes is common for an enterprise architecture, as shown in Figure 1-2. Juggling costs, siloed data, and data governance are constant",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.523996",
+    "chunk_number": 48,
+    "word_count": 154
+  }
+}

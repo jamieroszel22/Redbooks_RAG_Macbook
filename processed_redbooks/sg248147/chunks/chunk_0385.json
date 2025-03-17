@@ -1,0 +1,18 @@
+{
+  "content": "database and backup database now are shared in the SSI cluster. 6.7.4 Setting up the AUTOLOG1 and AUTOLOG2 virtual machines At z/VM IPL time, the AUTOLOG1 virtual machine normally starts all necessary systems and virtual machines in its PROFILE EXEC. When RACF is running, the RACFVM virtual machine must be started first, or other virtual machines will not be able to log in. After the RACF environment is initialized, RACFVM starts the AUTOLOG2 virtual machine, which then starts the remaining servers for the system as AUTOLOG1 normally does. Therefore, the PROFILE EXEC needs to be copied from AUTOLOG1 to AUTOLOG2, then modified to start RACFVM. Complete the following steps: 1. Verify that you are logged on as MAINT on the first member. 2. Link the AUTOLOG1 and AUTOLOG2 191 disks read/write: ===> link autolog1 191 1191 mr ===> link autolog2 191 2191 mr 3. Access the two disks as file modes F and G: ===> acc 1191 f ===> acc 2191 g 4. Copy the PROFILE EXEC from AUTOLOG1 to AUTOLOG2: ===>",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.699614",
+    "chunk_number": 385,
+    "word_count": 172
+  }
+}

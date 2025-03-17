@@ -1,0 +1,18 @@
+{
+  "content": "0 - 32 0 - 68 Number of Unassigned IFLs 0 - 4 0 - 15 0 - 31 0 - 67 Number of ICFs 0 - 5 0 - 16 0 - 32 0 - 68 Number of Unassigned ICFs 0 - 4 0 - 15 0 - 31 0 - 67 Number of zIIPs 0 - 4 0 - 15 0 - 31 0 - 67 Number of Unassigned zIIPs 0 - 3 0 - 114 0 - 30 0 - 66 Standard SAPs 2 2 4 8 Additional SAPs 0 0 0 0 Number of IFP 2 2 2 2 Standard spare PUs 2 2 2 2 Enabled Memory sizes GB 64 - 3936 64 - 3936 64 - 8032 64 - 16128 L1 cache per PU (I/D) 128/128 KB 128/128 KB 128/128 KB 128/128 KB L2 private unified cache per PU 32 MB 32 MB 32 MB 32 MB L3 virtual cache on PU chip 32 x 7 =256MB 32 x 7 =256MB 32 x 7 =256MB 32 x 7 =256MB Chapter 2. Central processor complex hardware components 69 L4 virtual cache on chips in drawer 32 x 8 x 7 =1024GB 32 x 8 x 7 =1024GB 32 x 8 x 7 =2048GB 32 x 8 x 7 =2048GB Cycle time (ns) 0.217 0.217 0.217 0.217 Clock frequency 4.6GHz 4.6 GHz 4.6 GHz 4.6 GHz Maximum number of PCIe fanouts 6 6 12 24 PCIe Bandwidth 16 GBps 16 GBps 16 GBps 16 GBps Number of support elements",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.967026",
+    "chunk_number": 199,
+    "word_count": 253
+  }
+}

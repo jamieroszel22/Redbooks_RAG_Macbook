@@ -1,0 +1,18 @@
+{
+  "content": "\u0002 Do risk teams have a clear view of the exposure created by using the same AI models across AI solutions that are created in-house and those that are purchased as part of an application? \u0002 Does the governance solution actively support technical teams in gathering technical documentation details in an easy way? \u0002 When the technical teams update an AI solution, will the legal teams see those changes and be able to re-assess them for any new compliance obligations? A holistic approach enables seamless governance, fostering trust, accountability, and alignment across the organization. 1.3.3 Technical complexity is increasing As AI evolved from machine/deep learning to generative AI, the technical complexity has increased in the following ways: More complex relationship between use cases and AI assets In machine learning and deep learning projects, typically there was a very tight one-to-one relationship between the use case and the AI assets (models). Models were trained to perform a",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.634647",
+    "chunk_number": 55,
+    "word_count": 156
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "solution no matter where they might be on their AI and data journey - from consulting and ecosystems to hybrid cloud AI tools and infrastructure, data services, the watsonx AI and data platform, SDKs and APIs, and AI assistants. Chapter 2. Introduction to IBM watsonx.data 15 Figure 2-3 IBM Generative AI technology and expertise IBM AI technologies remain focused on being: \u0002 Open - IBM AI is based on the best open technologies available. \u0002 Trusted - IBM AI is transparent, responsible, and governed. \u0002 Targeted - IBM AI is designed for enterprise and targeted at business domains. \u0002 Empowering - IBM AI is for value creators, not just users. 16 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 2.2 IBM watsonx.data overview and architecture IBM watsonx.data is an open, hybrid, governed data store optimized for all data, analytics, and AI workloads, conceptualized, as shown in Figure 2-4. Figure 2-4 IBM watsonx.data concepts architecture Based on our experience with",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.601132",
+    "chunk_number": 68,
+    "word_count": 162
+  }
+}

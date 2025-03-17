@@ -1,0 +1,18 @@
+{
+  "content": "Receiving, applying, and building the service You must receive, apply, and build the PTF. Then, it can be put into production. The process is much easier now by using the SERVICE command. To prepare to use the SERVICE command, you must have a minidisk with significant free space. Use the MAINT720 500 minidisk for this purpose. Complete the following steps: 1. Access the MAINT720 500 disk as file mode C: ==> access 500 c DMSACC724I 500 replaces C (2CC) 2. Use the SERVICE ALL command and specify the envelope files that you downloaded. Many windows of output will scroll by and automatically be cleared. Important messages are saved to the 500 disk. This process can take time. The following example shows the processing: ==> service all d1041690 ... VMFSUT2760I VMFSUFTB processing completed successfully VMFSRV2760I SERVICE processing completed successfully ==> service all s1041690 ... VMFSRV1233I The following products have been serviced. VMFSRV1233I CP VMFSRV2760I SERVICE processing",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.549609",
+    "chunk_number": 595,
+    "word_count": 155
+  }
+}

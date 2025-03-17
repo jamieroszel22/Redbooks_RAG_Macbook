@@ -1,0 +1,18 @@
+{
+  "content": "pipe On workstations that are Linux or UNIX based (or derivatives thereof, including MacOS X), the potential solution uses the SSH configuration file. This file is in the home directory for your login shell account under the.ssh subdirectory. If you are unsure what the home directory for your account is, run the env command to display all of the environment variables set for your login shell, as shown in the following two examples. In both examples, the login shell in use is bash, which is the Bourne Again (modernized) derivative of the Bourne shell, sh. Example 15-20 shows output from a MacOS system. Example 15-20 Finding the $HOME directory ===> env TERM_PROGRAM=Apple_Terminal MACOS_VERSION=10.15.7+19H2 TERM=xterm-256color SHELL=/bin/bash HISTSIZE=999990000 TMPDIR=/var/folders/3y/\u2026 TERM_PROGRAM_VERSION=433 TERM_SESSION_ID=369AF504-\u2026 USER=pwnovak SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.Eev2DQxR1N/Listeners 456 Virtualization Cookbook: Vol 1: IBM z/VM 7.2",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.867124",
+    "chunk_number": 966,
+    "word_count": 129
+  }
+}

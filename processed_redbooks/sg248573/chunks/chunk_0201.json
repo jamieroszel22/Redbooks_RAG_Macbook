@@ -1,0 +1,18 @@
+{
+  "content": "the AI/ML process is being provided through a vendor / service from outside the organization. Consider accessibility If the governance team is not the direct owner of an AI process, the accessibility of that AI process must be explored and evaluated. Contact the AI vendor and learn about the accessibility to the model. Can a headless subscription or a detached prompt template be configured to create a live monitor of that model or process? If not, what are the alternatives that the vendor can provide? Do those alternatives meet your organization's requirements for AI/ML governance? Chapter 6. Governing the end-to-end lifecycle of an AI asset 75 Considering requirements Think about what the requirements are for governing the business application or process. Is live monitoring the only way to achieve those requirements? Can the requirements be achieved through some other means such as a report card of the AI process, or some other status update? Ultimately, implementing end-to-end",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.198175",
+    "chunk_number": 201,
+    "word_count": 157
+  }
+}

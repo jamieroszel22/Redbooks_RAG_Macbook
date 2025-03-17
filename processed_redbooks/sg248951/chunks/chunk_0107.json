@@ -1,0 +1,18 @@
+{
+  "content": "I/O drawers only 4044 C Frame I/O drawers only PDU power 0645 200 - 208 V 30/60A 3-Phase (Delta) North America and Japan 0646 380 - 415 V 32A 3 Phase (Wye) Worldwide (except North America and Japan) BPA power 0648 Bulk Power Assembly (BPA) Quantity 1 = 2 Bulk Power Enclosures Quantity 2 = 4 Bulk Power Enclosures 3003 Balanced Power Plan ahead Only available with BPA 3017 Bulk Power Regulator (BPR) Quantity per BPA feature: Min. 2, max 6 (in pairs) I/O 4023 PCIe+ I/O drawer Max. 12 (PDU) or max. 10 (BPA) 7898 Top Exit Cabling Includes cable management top hat 7899 Bottom Exit Cabling Includes rear tailgate hardware at bottom of frame 7816 Top Exit Cabling without Tophat Uses rear slide plates at top of frame Chapter 2. Central processor complex hardware components 19 Table 2-2 IBM z16 A01 Power Options Considerations Consider the following points: \u0002 A-Frame is always present in every configuration \u0002 1u Support Elements (x2) are always in A-Frame at locations A41 and A42 \u0002 1u 24-port",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.553337",
+    "chunk_number": 107,
+    "word_count": 175
+  }
+}

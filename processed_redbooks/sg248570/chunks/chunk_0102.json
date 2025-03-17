@@ -1,0 +1,18 @@
+{
+  "content": "engine for running your SQL-based queries. Presto is an open-source SQL query engine that can work with data in several different data sources. You can also use it to load and ingest huge amounts of data in IBM watsonx.data. \u0002 Apache Iceberg is a robust table format that is designed for managing large, evolving data sets. Unlike traditional formats like Parquet or CSV, Iceberg offers advanced features such as data snapshots, schema evolution, and data compaction. These capabilities make it a powerful tool for maintaining and optimizing your data lakehouse. Also, Iceberg introduces ACID transactions to the data lakehouse, a previously unavailable feature that you can use to perform atomic updates and deletions on tables, which helps ensure data consistency and integrity. \u0002 Hive Meta Store serves as a central repository for storing meta-data about Apache Hive tables. This meta-data includes the table schema, data locations, and other crucial information that is necessary for managing",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.739493",
+    "chunk_number": 102,
+    "word_count": 155
+  }
+}

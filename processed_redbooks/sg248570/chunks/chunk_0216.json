@@ -1,0 +1,18 @@
+{
+  "content": "and supporting advanced search functions, it transforms raw data into a strategic asset, which helps ensure that retail organizations are well equipped to make timely, data-driven decisions in a fast-paced and competitive market. 100 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data \u00a9 Copyright IBM Corp. 2025. 101 Chapter 8. Marketing campaign analysis use case This chapter dives into an example of a marketing campaign analysis at a financial services organization. In this use case, we use IBM watsonx.data and IBM watsonx.ai to ingest and store data, connect to and access data, visualize and explore data, and build machine learning (ML) models. This chapter guides you through the following tasks: data ingestion, data connection and access, data exploration and visualization, and machine learning model development. This chapter has the following sections: \u0002 \u201cUse case introduction\u201d on page 102 \u0002 \u201cData ingestion\u201d on page 102 \u0002 \u201cConnecting to and accessing data\u201d",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.166350",
+    "chunk_number": 216,
+    "word_count": 153
+  }
+}

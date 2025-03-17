@@ -1,0 +1,18 @@
+{
+  "content": "knowledge or skills and that your contributions are properly formatted. This command displays any new or modified YAML files within your taxonomy tree. You can also validate your entire taxonomy by performing a diff against an empty base by using the --taxonomy-base=empty argument. After validation, it is possible to start the Synthetic Data Generation (SDG) pipeline. To generate a synthetic dataset based on newly added knowledge or skill sets in the taxonomy repository, run the ilab data generate command. Before proceeding, ensure the existing model to which you are adding skills or knowledge is still running. Alternatively, you can initiate the server by using the ilab data generate command by specifying a fully qualified model path with the --model flag. At the time of writing, the full CLI pipeline supports only Mixtral and Mistral Instruct Family models as the teacher model. For the simple pipeline, Merlinite 7b Lab is the only supported teacher model due to the specific model",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.919639",
+    "chunk_number": 182,
+    "word_count": 159
+  }
+}

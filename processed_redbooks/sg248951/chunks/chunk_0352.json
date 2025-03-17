@@ -1,0 +1,18 @@
+{
+  "content": "of a CF image. \u2013 Functionally specialized ICF processors that operate for CF images having more than a threshold number of dedicated processors defined for them: \u2022 One functionally specialized processor for inspecting suspended commands. \u2022 One functionally specialized processor for pulling in new commands. \u2022 The remaining processors are nonspecialized for general CF request processing. \u2013 Avoids many inter-processor contentions that were associated with CF dispatching 138 IBM z16 (3931) Technical Guide \u0002 Enable systems management applications to collect valid CF LPAR information through z/OS BCPii: \u2013 System Type (CFCC) \u2013 System Level (CFCC LEVEL) \u2013 Dynamic Dispatch settings to indicate CF state (dedicated, shared, and Thin Interrupt), which are useful when investigating functional performance problems To support an upgrade from one CFCC level to the next, different levels of CFCC can be run concurrently while the CF LPARs are running on different servers. CF LPARs that run on the same",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.605139",
+    "chunk_number": 352,
+    "word_count": 152
+  }
+}

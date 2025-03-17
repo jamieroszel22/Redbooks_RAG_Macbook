@@ -1,0 +1,18 @@
+{
+  "content": "data from a connector and produces data that can be consumed by other operators, and a filter operator consumes data and produces a subset by applying a predicate over the input data. Exchange Exchanges transfer data between Presto nodes for different stages of a query. Tasks write data into an output buffer and consume data from other tasks using an exchange client. 5.1.4 Prestissimo (C++ version of Presto) Presto C++, sometimes referred to by the development name Prestissimo, is a drop-in replacement for Presto workers written in C++ and based on the Velox library. It implements the same RESTful endpoints as Java workers using the Proxygen C++ HTTP framework. Because communication with the Java coordinator and across workers is only done using the REST endpoints, Presto C++ does not use JNI and does not require a JVM on worker nodes. Presto aims to be the top performing system for data lakes. To achieve this goal, the Presto community is moving the Presto evaluation engine from the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.963349",
+    "chunk_number": 161,
+    "word_count": 166
+  }
+}

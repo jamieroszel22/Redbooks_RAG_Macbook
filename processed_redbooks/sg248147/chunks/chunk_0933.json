@@ -1,0 +1,18 @@
+{
+  "content": "vmpsfs:MAINT720.utils.vmarc V 3. Run the VMWW2 VMARC file through this pipeline: ===> pipe < vmww2 vmarc W | fblock 80 00 | > vmww2 vmarc W f 80 Ready; 4. Unpack the contents: ===> VMARC unpack vmww2 W = = W 5. You can now use these grant commands to grant access to the browser for all virtual machines: ===> grant auth vmpsfs:vmww2. to public ( read newread ===> grant auth * * vmpsfs:vmww2. to public ( read Alternatively, you can substitute individual users in place of public: ===> grant auth vmpsfs:vmww2. to FMIRANDA ( read newread 6. You can now use Charlotte by issuing this command from any virtual machine to which you granted authorization: ===> VMLINK .DIR VMPSFS:VMWW2. < . Z-A * > (INVOKE WW2 Note: Before you download anything from the VM Download Library, you must read the license agreement for downloads to ensure that you can comply with the terms. Important: We did not put this data into a Shared File System (SFS) directory under MAINT or MAINT720 because you must not access",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.739519",
+    "chunk_number": 933,
+    "word_count": 177
+  }
+}

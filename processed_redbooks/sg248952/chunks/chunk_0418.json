@@ -1,0 +1,18 @@
+{
+  "content": "that connect to a 1000 Mbps (1 Gbps) Ethernet LAN. Each port has an SFP+ with an RJ-45 receptacle for cabling to an Ethernet switch. The RJ-45 receptacle is required to be attached by using an EIA/TIA Category 5 or Category 6 UTP cable with a maximum length of 100 meters (328 feet). The SFP allows a concurrent repair or replace action. The OSA-Express7S 1.2 1000BASE-T Ethernet feature does not support auto-negotiation. It supports links at 1000 Mbps in full duplex mode only. The OSA-Express7S 1.2 1000BASE-T Ethernet feature can be configured as CHPID type OSC, OSD, OSE. Non-QDIO operation mode requires CHPID type OSE. OSA-Express6S The OSA-Express6S feature is installed in the PCIe+ I/O drawer. The following OSA-Express6S features can be installed on IBM z16 A02 and IBM z16 AGZ (when carried forward): \u0002 OSA-Express6S 10 Gigabit Ethernet LR, FC 0424 \u0002 OSA-Express6S 10 Gigabit Ethernet SR, FC 0425 \u0002 OSA-Express6S Gigabit Ethernet LX, FC 0422 \u0002 OSA-Express6S Gigabit Ethernet SX, FC 0423",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.849964",
+    "chunk_number": 418,
+    "word_count": 164
+  }
+}

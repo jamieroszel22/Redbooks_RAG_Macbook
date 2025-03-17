@@ -1,0 +1,18 @@
+{
+  "content": "Supervised Fine-Tuning Trainer (SFTTrainer): At the heart of watsonx.ai fine-tuning capabilities is the SFTTrainer, which is a powerful tool that is developed in collaboration with Hugging Face. This framework simplifies the optimization of model weights by automating key aspects of the training process, which includes the application of advanced learning rate schedules and warm-up strategies. These techniques are crucial for maintaining stability during training, particularly when dealing with complex or high-dimensional data. By leveraging SFTTrainer, watsonx.ai helps ensure that models converge rapidly and reliably without the need for extensive manual intervention. \u0002 Low-rank adaptation (LoRA) and quantized low-rank adaptation (QLoRA): In addition to SFTTrainer, watsonx.ai incorporates cutting-edge techniques like LoRA and QLoRA. These methods represent a paradigm shift in fine-tuning efficiency. Rather than retraining all of a model\u2019s parameters, LoRA focuses on fine-tuning small",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.785636",
+    "chunk_number": 152,
+    "word_count": 134
+  }
+}

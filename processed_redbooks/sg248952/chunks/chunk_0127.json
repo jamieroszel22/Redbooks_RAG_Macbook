@@ -1,0 +1,18 @@
+{
+  "content": "C19 connectors to support the CPC drawers. \u2013 All other components can be supported using C19 or C13 connectors. The length of these connectors (1m, 2m, or 3m) is ordered by feature code. \u2013 PDUs must be within the same rack as the components but their locations within the racks are not defined by IBM. \u2013 Client provided PDU/power management with DCIM sustainability tool integrations that meets systems specifications. \u2013 The feature codes ordered will dictate the specific order the components are mounted in the rack, starting from the bottom up, in specified EIU locations. For more information see IBM z16 and LinuxONE Rockhopper 4 Rack Mount Bundle Installation Manual for Physical Planning (IMPP), GC28-7035. The IBM z16 AGZ allows CPC0 to be placed anywhere within the client rack as indicated by location 'U' (per client planning4). When CPC1 is installed, it must be placed in the rack at the location which is 5U higher than CPC0's location. The components are installed in a specific order",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.663836",
+    "chunk_number": 127,
+    "word_count": 166
+  }
+}

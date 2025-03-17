@@ -1,0 +1,18 @@
+{
+  "content": "be carried forward to IBM z16 A02 and IBM z16 AGZ. It requires IBM 4770 PCIeCC (FC 0851) for compatibility with TKE LIC 10.0 (FC 0882) and for managing Crypto Express8S. (FC 0233 = FC 0085 + FC 0851 + FC 0882). Feature code Description Chapter 6. Cryptographic features 209 A TKE includes support for the AES encryption algorithm with 256-bit master keys and key management functions to load or generate master keys to the cryptographic coprocessor. If the TKE workstation is chosen to operate the Crypto Express8S adapter in a IBM z16 A02 and IBM z16 AGZ, TKE workstation with the TKE 10.0 LIC is required. For more information, see 6.6, \u201cTrusted Key Entry workstation\u201d on page 230. To access and use the cryptographic hardware devices that are provided by IBM z16 A02 and IBM z16 AGZ, the application must use an application programming interface (API) that is provided by the operating system. In z/OS, the Integrated Cryptographic Service Facility (ICSF) provides the APIs and is managing the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.216646",
+    "chunk_number": 515,
+    "word_count": 169
+  }
+}

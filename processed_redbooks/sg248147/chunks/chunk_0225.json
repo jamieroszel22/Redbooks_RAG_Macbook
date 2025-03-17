@@ -1,0 +1,18 @@
+{
+  "content": "in 15.3, \u201cUsing DirMaint to set special passwords for an ID\u201d on page 447 or setting the status to REVOKED by using the ESM. 3.3.2 Maintaining separation of administration tasks All systems today must be designed to mitigate the risk of insider threat. In the case of z/VM, privilege-heavy system administration IDs must be closely managed and monitored. In older releases of z/VM, the MAINT ID was used for all administration tasks. From user creation and administration to software installation and service, the MAINT ID was used for everything. If a system administrator bothered to create an ID for themselves, it generally was a copy of MAINT with all of its privilege classes copied as well. As a result, it is common to see many z/VM system administration tasks still being managed through only one or two admin IDs (often the ones supplied with the z/VM system). This issue might represent a security exposure in that one or two user IDs feature high levels of system access authority. If",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.047203",
+    "chunk_number": 225,
+    "word_count": 169
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "tailored to the needs of their target audience or consumer documenting the tasks the foundation model can be used for. \u0002 It captures the details about the data the foundation model has been trained on. \u0002 It includes the information about training algorithms, parameters, fairness constraints or other applied approaches, and features. \u0002 It shows the benchmark accuracy documenting the performance of the model. \u0002 It contains information about the model owner (organization), model version, as well as the license model can be used with. 4.3.3 Privacy An important aspect to build trust in an AI system or model is to take measures to manage and safeguard foundation models and its data that is trained on Personal Information (PI). If a model is trained on PI without applying any specific privacy techniques, and that model is made publicly available or shared with a nontrusted third party, the model might reach the wrong hands, and potentially violate the privacy of the people whose information",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.995657",
+    "chunk_number": 146,
+    "word_count": 163
+  }
+}

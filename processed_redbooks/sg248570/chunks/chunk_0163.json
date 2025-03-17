@@ -1,0 +1,18 @@
+{
+  "content": "query failure. \u0002 All basic and structured types in Data Types are supported, except for CHAR, TIME, and TIME WITH TIMEZONE. These are subsumed by VARCHAR, TIMESTAMP and TIMESTAMPWITH TIMEZONE. \u0002 Presto C++ only supports unlimited length VARCHAR, and does not honor the length n in varchar[n]. \u0002 The following types are not supported: IPADDRESS, IPPREFIX, UUID, KHYPERLOGLOG, P4HYPERLOGLOG, QDIGEST, TDIGEST, GEOMETRY, BINGTILE. Chapter 5. Querying and manipulating data and leveraging persona-specific engines 67 \u0002 Certain parts of the plugin SPI are not used by the C++ evaluation engine. In particular, C++ workers will not load any plugin in the plugins directory, and certain plugin types are either partially or completely unsupported. \u0002 PageSourceProvider, RecordSetProvider, and PageSinkProvider do not work in the C++ evaluation engine. \u0002 User-supplied functions, types, parametric types and block encodings are not supported. \u0002 The event listener plugin does not work at the split level. \u0002",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.969861",
+    "chunk_number": 163,
+    "word_count": 150
+  }
+}

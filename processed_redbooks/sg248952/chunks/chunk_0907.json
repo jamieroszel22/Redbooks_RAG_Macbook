@@ -1,0 +1,18 @@
+{
+  "content": "The structure of the IBM z16 A02 and IBM z16 AGZ are done with the following goals: \u0002 Enhanced system modularity \u0002 Standardization to enable rapid integration \u0002 Platform simplification Cables are keyed to ensure that correct lengths are plugged. Plug detection ensures correct location, and custom latches ensure retention. Further improvements to the fabric bus include symmetric multiprocessing (SMP9) cables that connect the drawers. To improve field-replaceable unit (FRU) isolation, advanced continuity checking techniques are applied to the SMP-9 cables (Concurrent Cable Repair), with new SMP9 cables plugging/unplugging tool. The IBM z16 A02 and IBM z16 AGZ has the following characteristics: \u0002 Processing infrastructure is designed by using drawer technology. \u0002 Keyed cables and plugging detection. \u0002 SMP9 cables that are used for fabric bus connections. \u0002 Master-master redundant oscillator design in the main memory. \u0002 Point of load cards are separate FRUs. \u0002 Improved redundant",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.678786",
+    "chunk_number": 907,
+    "word_count": 147
+  }
+}

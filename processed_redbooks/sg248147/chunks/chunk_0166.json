@@ -1,0 +1,18 @@
+{
+  "content": "is available to z/VM without requiring a shutdown. The added storage is typically obtained from standby storage, which is a dynamically calculated value that is based on the following information: \u0002 Amount of storage that is installed in the CPC that is not claimed by activated LPARs \u0002 Amount of RESERVED storage that is specified for the LPAR A good rule is to allocate memory on a \u201cjust enough\u201d basis for each Linux VM. A good starting point is to set a VM size by changing the memory allocation value to be slightly above the value at which Linux has more than 64 MB of combined cache and buffer. If you are migrating workloads from distributed platforms, you typically find that Linux under z/VM needs less memory to which you are accustomed. In addition to the \u201cjust enough\u201d amount of memory, assign a number of VDisks as SWAP disks to each of the Linux VMs. The VDisks must provide as much memory as Linux needs at the peak level during operation. When you are performing calculations for",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.816477",
+    "chunk_number": 166,
+    "word_count": 177
+  }
+}

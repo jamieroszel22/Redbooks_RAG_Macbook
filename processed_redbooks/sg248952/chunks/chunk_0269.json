@@ -1,0 +1,18 @@
+{
+  "content": "characterized as IFLs, depending on the configuration. CP-D 6159 CP-E 6160 CP-F 6161 CP-G 6162 CP-H 6163 CP-I 6164 CP-J 6165 CP-K 6166 CP-L 6167 CP-M 6168 CP-N 6169 CP-O 6170 CP-P 6171 CP-Q 6172 CP-R 6173 CP-S 6174 CP-T 6175 CP-U 6176 CP-V 6177 CP-W 6178 CP-X 6179 CP-Y 6180 CP-Z 6181 Note: Information about CPs in the remainder of this chapter applies to all CP capacity settings, unless indicated otherwise. For more information about granular capacity, see 2.3.2, \u201cPU characterization\u201d on page 40. CP Capacity Feature Code 104 IBM z16 A02 and IBM z16 AGZ Technical Guide IFL pool All PUs that are characterized as IFLs within a configuration are grouped into the IFL pool. The IFL pool can be seen on the HMC workplace. IFLs do not change the model capacity identifier of the IBM z16 A02 or IBM z16 AGZ. Software product license charges that are based on the model capacity identifier are not affected by the addition of IFLs. Unassigned IFLs An IFL that is purchased but not activated is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.235850",
+    "chunk_number": 269,
+    "word_count": 175
+  }
+}

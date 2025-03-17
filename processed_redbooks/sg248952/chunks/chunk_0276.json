@@ -1,0 +1,18 @@
+{
+  "content": "page 133. Chapter 3. Central processor complex design 107 Coupling Facility Processor scalability CF work management and dispatcher changed to improve efficiency as processors are added to scale up the capacity of a CF image. CF images support up to 16 processors. To obtain sufficient CF capacity, customers might be forced to split the CF workload across more CF images. However, this change brings more configuration complexity and granularity (more, smaller CF images, more coupling links, and logical CHPIDs to define and manage for connectivity, and so on). To improve CF processor scaling for the customer\u2019s CF images and to make effective use of more processors as the sysplex workload increases, CF work management and dispatcher provide the following improvements IBM z16 A02 and IBM z16 AGZ: \u0002 IBM z16 A02 and IBM z16 AGZ provide improved CF processor scalability for CF images. \u0002 Increased number of CF tasks \u0002 ICA SR latency improvements that improve coupling efficiency in a parallel",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.260573",
+    "chunk_number": 276,
+    "word_count": 161
+  }
+}

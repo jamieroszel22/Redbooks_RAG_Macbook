@@ -1,0 +1,18 @@
+{
+  "content": "multimodal chatbot-like interaction with capabilities such as memory and document understanding. It is good for model interaction and for simple system prompt definition and a zero-shot-prompting approach. \u0002 Structured mode: Provides a way to set up your prompt to create a particular prompt engineering setting within the main model Instructions and Examples, where the examples are the input/output series that is provided in a few-shot-prompting setting. It automatically applies the system tokens for a specific model to best fit the one/few-shot-prompting setting. \u0002 Freeform mode: Provides more advanced users with the option to be free of crafting their raw prompt by using all the possible prompt engineering capabilities that leverage raw system tokens. Although this mode leverages the power of prompt engineering and freedom, it requires specific skills in understanding system tokens, what they are for a specific model, and how to use them. Although prompt engineering provides a faster",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.713363",
+    "chunk_number": 137,
+    "word_count": 150
+  }
+}

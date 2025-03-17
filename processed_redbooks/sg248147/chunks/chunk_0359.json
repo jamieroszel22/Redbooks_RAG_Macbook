@@ -1,0 +1,18 @@
+{
+  "content": "one time for each member of the SSI cluster by using the LPAR option to the command: ===> access 193 G ===> cpsyntax system config F (LPAR A09 CONFIGURATION FILE PROCESSING COMPLETE -- NO ERRORS ENCOUNTERED. ===> cpsyntax system config F (LPAR A0A CONFIGURATION FILE PROCESSING COMPLETE -- NO ERRORS ENCOUNTERED. Pay attention to the output. If you get any syntax errors, fix them before you proceed. 2. Release, but do not detach, the MAINT 193 disk: ===> release G 3. Release and detach the PMAINT CF0 disk: ===> release F (detach DASD 0120 DETACHED The SYSTEM CONFIG file is now ready for use. Log off from MAINT720. 6.5.4 Initializing the allocated DASD for z/VM Service data Perform these steps to initialize the DASD that was selected to serve as the repository disk for the z/VM Service data. This data will be used by VMSES/E, which is the component of z/VM that applies Service to your system. 1. From the HMC Integrated 3270 Console, log on as MAINT720. The default password for you is",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.599056",
+    "chunk_number": 359,
+    "word_count": 174
+  }
+}

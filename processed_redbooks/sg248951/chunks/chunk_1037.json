@@ -1,0 +1,18 @@
+{
+  "content": "from those roles. Any default user IDs that are part of a previous HMC level can be carried forward to new HMC levels as part of a MES Upgrade or by way of selecting User Profile Data for the Save/Restore Customizable Console Data or Configure Data Replication tasks. HMC and SE secure FTP support You can use a secure FTP connection from a HMC/SE FTP client to a customer FTP server location. This configuration is implemented by using the Secure Shell (SSH) File Transfer Protocol, which is an extension of SSH. You can use the Manage SSH Keys console feature that is available to the HMC and SE to import public keys that are associated with a host address. The Secure FTP infrastructure allows HMC and SE applications to query whether a public key is associated with a host address and to use the Secure FTP interface with the suitable public key for a host. Tasks that use FTP now provide a selection for the secure host connection. When selected, the task verifies that a public key is",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.129021",
+    "chunk_number": 1037,
+    "word_count": 178
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "deficiencies. \u0002 Understand the trend in technology reliability (hard and soft) and ensure that the RAS design points are sufficiently robust. \u0002 Invest in RAS design enhancements (hardware and firmware) that provide IBM Z and Customer valued differentiation. Figure 9-1 RAS design process overview 9.2 Technology This section introduces some of the RAS features that are incorporated in the IBM z16 A02 and IBM z16 AGZ design. 9.2.1 Processor Unit chip IBM z16 A02 and IBM z16 AGZ use the Processor Unit (PU) chip with the following technical changes: Chapter 9. Reliability, availability, and serviceability 367 \u0002 A processor unit (PU) chip is manufactured using 7nm CMOS FinFET technology featuring EUV lithography, and has eight cores (PUs) per chip (design) running at 4.6 GHz. \u0002 Each core has private L1 (instruction and data) caches and a semi-private L2 cache, 32 MB in size. The eight cores and L2 caches on the chip communicate through bi-directional high speed on-chip ring and with all",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.657675",
+    "chunk_number": 900,
+    "word_count": 162
+  }
+}

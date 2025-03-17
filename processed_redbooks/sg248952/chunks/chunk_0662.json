@@ -1,0 +1,18 @@
+{
+  "content": "A02 and IBM z16 AGZ exploitation; however, the z/OS V2R5 XL C/C++ compiler can be used to generate code for the older levels of z/OS running on IBM z16 A02 and IBM z16 AGZ. The followings compilers include built-in functions for SIMD: \u0002 IBM Java \u0002 XL C/C++ \u0002 Enterprise COBOL \u0002 Enterprise PL/I 5 The features that are listed here might not be available on all operating systems that are listed in the tables. 6 Hardware-based Vector-extension facility 2. 272 IBM z16 A02 and IBM z16 AGZ Technical Guide Code must be developed to take advantage of the SIMD functions. Applications with SIMD instructions abend if they run on a lower hardware level system that do not support SIMD. Some mathematical function replacement can be done without code changes by including the scalar MASS library before the standard math library. The MASS and standard math library include different accuracies, so assess the accuracy of the functions in the context of the user application before deciding whether to use",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.840647",
+    "chunk_number": 662,
+    "word_count": 169
+  }
+}

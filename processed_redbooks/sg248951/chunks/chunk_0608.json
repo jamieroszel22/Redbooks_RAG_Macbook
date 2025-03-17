@@ -1,0 +1,18 @@
+{
+  "content": "KVM is easier. For more information about KVM support, see the IBM Z website. 7.3 IBM z16 features and function support overview The following tables list the IBM z16 features and functions and their minimum required operating system support levels: \u0002 Table 7-3 on page 253 \u0002 Table 7-4 on page 254 \u0002 Table 7-5 on page 256 \u0002 Table 7-6 on page 257 \u0002 Table 7-7 on page 258 \u0002 Table 7-8 on page 259 \u0002 Table 7-9 on page 261 \u0002 Table 7-10 on page 263 \u0002 Table 7-11 on page 264 Information about Linux on IBM Z refers exclusively to the suitable distributions of SUSE, Red Hat, and Ubuntu. The tables in this section list but do not specifically mark all the features that require fixes that are required by the corresponding operating system for toleration or use. All tables use the following conventions: \u0002 Y: The function is supported. \u0002 N: The function is not supported. \u0002 - : The function is not applicable to that specific operating system. c. Maintenance is required. d. For more information about",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.614453",
+    "chunk_number": 608,
+    "word_count": 182
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "of frames and sequences that flow across the link, and therefore use the channel resources more efficiently. 288 IBM z16 A02 and IBM z16 AGZ Technical Guide The performance of a specific workload can vary based on the conditions and hardware configuration of the environment. IBM laboratory tests found that Db2 gains significant performance benefits by using the MIDAW facility in the following areas: \u0002 Table scans \u0002 Logging \u0002 Utilities \u0002 Use of DFSMS striping for Db2 data sets Media Manager with the MIDAW facility can provide significant performance benefits when used in combination applications that use EF data sets (such as Db2) or long chains of small blocks. For more information about FICON and MIDAW, see the following resources: \u0002 The I/O Connectivity page of the IBM IT infrastructure website includes information about FICON channel performance \u0002 DS8000 Performance Monitoring and Tuning, SG24-7146 ICKDSF Device Support Facilities, ICKDSF, Release 17 is required on all systems that",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.004632",
+    "chunk_number": 708,
+    "word_count": 158
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "might be required to update the Resource Group code and the native PCIe features. Although the goal is to minimize changes or make the update process concurrent, the maintenance updates at times can require the Resource Group or the affected native PCIe to be toggled offline and online to implement the updates. The native PCIe features (managed by Resource Group code) are listed Table 9-1. Table 9-1 Native PCIe cards for IBM z16 A02 and IBM z16 AGZ Consider the following points for managing native PCIe adapters microcode levels: \u0002 Updates to the Resource Group require all native PCIe adapters that are installed in that RG to be offline. Note: zUDX clients should contact their User Defined Extensions (UDX) provider before installing Microcode Change Levels (MCLs). Any changes to Segments 2 and 3 from a previous MCL level might require a change to the client\u2019s UDX. Attempting to install an incompatible UDX at this level results in a Crypto checkstop. Native PCIe adapter type Feature",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.831325",
+    "chunk_number": 949,
+    "word_count": 165
+  }
+}

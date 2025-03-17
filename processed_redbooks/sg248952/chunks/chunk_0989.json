@@ -1,0 +1,18 @@
+{
+  "content": "configuration): \u0002 3932 Single Frame Installation Manual for Physical Planning (A02/LA2), GC28-7040 \u0002 IBM 3932 Installation Manual for Physical Planning (AGZ/AGL), GC28-7035 \u0002 IBM 3932 Installation Manual (A02/LA2), GC28-7041 \u0002 IBM 3932 Installation Manual (AGZ/AGL), GC28-7036. IBM Z product name Machine type SE Driver SE Version IBM z16 A02 IBM z16 AGZ 3932 51 2.16.0 IBM z16 A01 3931 51 2.16.0 IBM z15 T02 8562 41 2.15.0 IBM z15 T01 8561 41 2.15.0 IBM z14 ZR1 3907 36 2.14.1 IBM z14 M0x 3906 36 2.14.1 Chapter 10. Hardware Management Console and Support Element 413 10.3.1 Hardware Management Appliance (HMA) HMC/SE connectivity On IBM z16 A02 and IBM z16 AGZ, two HMCs will be delivered with the Hardware Management Appliance (HMA) feature FC 0129. The HMC code runs on the two integrated 1U rack-mounted servers in the frame. The SE code runs virtualized on the integrated two HMCs on the two integrated 1U rack-mounted servers. One SE is the Primary SE (active) and the other is the Alternate",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.960865",
+    "chunk_number": 989,
+    "word_count": 167
+  }
+}

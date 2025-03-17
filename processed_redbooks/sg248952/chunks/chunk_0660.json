@@ -1,0 +1,18 @@
+{
+  "content": "known as SIMD, enables more consolidation of analytic workloads and business transactions on IBM Z servers. SIMD on IBM z16 A02 and IBM z16 AGZ has support for enhanced math libraries that provide performance improvements for analytical workloads by processing more information with a single CPU instruction. The supported operating systems are listed in Table 7-3 on page 249 and Table 7-4 on page 250. Operating System support includes the following features5: \u0002 Enablement of vector registers. \u0002 A math library with an optimized and tuned math function (Mathematical Acceleration Subsystem [MASS]) that can be used in place of some of the C standard math functions. It includes a SIMD vectorized and non-vectorized version. \u0002 A specialized math library, which is known as Automatically Tuned Linear Algebra Software (ATLAS), that is optimized for the hardware. \u0002 IBM Language Environment\u00ae for C runtime function enablement for ATLAS. \u0002 DBX to support the disassembly of the new vector",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.831288",
+    "chunk_number": 660,
+    "word_count": 156
+  }
+}

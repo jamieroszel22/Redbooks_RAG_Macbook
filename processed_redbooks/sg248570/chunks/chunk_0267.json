@@ -1,0 +1,18 @@
+{
+  "content": "its core. \u0002 Preserving existing investments to iteratively evolve then lift and shift into data lakehouse based architecture. \u0002 Platform approach of well-integrated services across data and AI with governance and lineage across. \u0002 AI powered semantic enrichment. \u0002 Intelligent and simple AI assisted embedded services. Figure 10-2 shows modernized data management pattern in banking on analytic use cases. Figure 10-2 Modernized data management pattern in banking on analytic use cases List of banking use cases powered by the pattern shown in Figure 10-2 are as follows: \u0002 Use case 1: Real-time business analytics \u0002 Use case 2: Early warning system and fraud detection \u0002 Use case 3: Anti-money laundering 10.5 Conclusion When modernizing banking applications, it is crucial to safeguard existing investments while evolving beyond a lift-and-shift approach. Leverage watsonx, powered by open engines and data formats, AI-driven data services for enrichment and governance across the entire stack. \u00a9",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.373897",
+    "chunk_number": 267,
+    "word_count": 150
+  }
+}

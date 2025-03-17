@@ -1,0 +1,18 @@
+{
+  "content": "provided in the information that you obtained from IBM with your z/VM order. You see output similar to the following output: LOGON MAINT720 z/VM Version 7 Release 2.0, Service Level 2001 (64-bit), built on IBM Virtualization Technology There is no logmsg data FILES: 0004 RDR, NO PRT, NO PUN LOGON AT 18:36:23 EDT TUESDAY 09/29/20 GRAF L0005 LOGON AS MAINT USERS = 16 FROM 9.60.70.32 z/VM V7.2.0 2020-06-26 09:03 DMSACP723I B (5E5) R/O DMSACP723I D (51D) R/O DMSACP723I E (551) R/O 2. If you do not see the Conversational Monitor System (CMS) Ready; prompt, press Enter and it will appear. 3. By using the value from the planning worksheet, attach the DASD to MAINT720 by using its real device address. In the example environment that was used to author this book, that device address is 1564. ===> attach 1564 to * ===> cpfmtxa 1564 ENTER FORMAT, ALLOCATE, LABEL, OWNER OR QUIT: Chapter 6. Configuring z/VM 153 format ENTER THE CYLINDER RANGE TO BE FORMATTED ON DISK 1564 OR QUIT: 0-END ENTER THE",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.602933",
+    "chunk_number": 360,
+    "word_count": 172
+  }
+}

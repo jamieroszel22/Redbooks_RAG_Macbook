@@ -1,0 +1,18 @@
+{
+  "content": "Integrated Coupling Adapter (FC 0172 and FC 0176) . . . . . . . . . . . . . . . . . . . . 157 4.4.3 Fan-out considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158 4.5 I/O features . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160 4.5.1 I/O feature card ordering information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160 4.5.2 Physical channel ID report . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161 4.6 Connectivity. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163 4.6.1 I/O feature support and configuration rules. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163 4.6.2 Storage connectivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 167 4.6.3 Network connectivity . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.206906",
+    "chunk_number": 17,
+    "word_count": 384
+  }
+}

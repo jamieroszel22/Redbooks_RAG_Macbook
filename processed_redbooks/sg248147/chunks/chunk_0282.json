@@ -1,0 +1,18 @@
+{
+  "content": "interface. You also need a user ID and password. Assuming that the view is tree mode, you see a window that is similar to the window that is shown in Figure 5-7. 2. Expand Systems Management on the left navigation window. Then, expand Systems to view the central processor complexes (CPCs) that are managed by this HMC. 3. Move to the main window on the right side of your window where the LPARs on which you install the VMSSI are shown. Select the LPAR that is to be the first member of the z/VM 7.2 VMSSI cluster. The first LPAR (onto which the VMSSI was installed in this example) is shown in Figure 5-8 on page 112. The radio button to the left of the LPAR is selected. In older versions of the HMC, this option might be a check box instead of a radio button. Important: While you work on the HMC, whenever you are prompted for input, such as an IP address, password, parameters, or other value, be aware that pressing Enter is the same as clicking Cancel. You must click OK to submit input.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.265146",
+    "chunk_number": 282,
+    "word_count": 187
+  }
+}

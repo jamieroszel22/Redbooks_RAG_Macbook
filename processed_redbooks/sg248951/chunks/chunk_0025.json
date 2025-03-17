@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . 271 Contents vii 7.4.3 Coupling and clustering features and functions . . . . . . . . . . . . . . . . . . . . . . . . . 283 7.4.4 Storage connectivity-related features and functions . . . . . . . . . . . . . . . . . . . . . . 288 7.4.5 Networking features and functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 299 7.4.6 Cryptography Features and Functions Support . . . . . . . . . . . . . . . . . . . . . . . . . 312 7.5 z/OS migration considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 319 7.5.1 General guidelines . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 319 7.5.2 Hardware Fix Categories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 320 7.5.3 z/OS V2.R5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 321 7.5.4 z/OS V2.R4 . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.243762",
+    "chunk_number": 25,
+    "word_count": 365
+  }
+}

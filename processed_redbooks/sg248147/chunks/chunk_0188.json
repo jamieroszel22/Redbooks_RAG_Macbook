@@ -1,0 +1,18 @@
+{
+  "content": "channel-to-channel adapters (CTCAs) during initial installation, you need Input/Output Definition File (IODF or IODEF) information from your hardware configuration colleague. They initially must provide two FICON Native CTC (FCTC) control units, each with a minimum of four devices. Example 2-1 shows sample IODF configuration statements that represent the FCTC connections for member 1. Example 2-1 Sample IODF configuration statements for member 1 CNTLUNIT CUNUMBR=47E0,PATH=((CSS(0),4C)),UNITADD=((00,004)), * LINK=((CSS(0),0E)),CUADD=2E,UNIT=FCTC IODEVICE ADDRESS=(47E0,004),UNITADD=00,CUNUMBR=(47E0), * STADET=Y,PARTITION=((CSS(0),A02)),UNIT=FCTC CNTLUNIT CUNUMBR=57E0,PATH=((CSS(0),4D)),UNITADD=((00,004)), * LINK=((CSS(0),0A)),CUADD=2E,UNIT=FCTC IODEVICE ADDRESS=(57E0,004),UNITADD=00,CUNUMBR=(57E0), * STADET=Y,PARTITION=((CSS(0),A02)),UNIT=FCTC Important: Use caution when you implement HIPERS on processor-bound, heavily loaded LPARs where software or programs are running that are",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.909410",
+    "chunk_number": 188,
+    "word_count": 98
+  }
+}

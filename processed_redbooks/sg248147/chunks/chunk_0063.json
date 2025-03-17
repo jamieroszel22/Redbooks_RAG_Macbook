@@ -1,0 +1,18 @@
+{
+  "content": "directories, and commands MONOSPACE CAPITALS z/VM files, virtual machine and minidisk names, and commands Monospace bold italics Values that were used to test this book, such as TCP/IP addresses. This font convention is used to signify that you need to replace the example value with the correct value for your system or enterprise. Monospace reversed Keys and key combinations that are used to invoke functions or respond. Command conventions that are used in this cookbook series \u0002 z/VM commands are prefixed with ===> (three Equal signs (=) followed by a Greater than symbol (>)) \u0002 z/VM XEDIT subcommands are prefixed with ====> (four Equal signs (=) followed by a Greater than symbol (>)). \u0002 Linux commands that are running as root have a Number sign (#) prefix. \u0002 Linux commands that are running as non-root usually have a Dollar sign ($) prefix. Operating system releases that are used The following versions or releases of operating systems were used in the authoring of this book series:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.372175",
+    "chunk_number": 63,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "programming language, JavaScript, and Cascading Style Sheets (CSS), you must ensure that all comment strings are correctly enclosed between a pair of /* and */, as shown in the following example: /* DISABLE the following features */ 148 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Features , Retrieve , /* Retrieve options */ Default 20 , /* Default.... default is 20 */ Maximum 255 , /* Maximum.... default is 255 */ MaxUsers noLimit , /* No limit on number of users */ Vdisk Userlim 144000 blocks, /* Maximum vdisk allowed per user */ Disconnect_Timeout off , /* Can be OFF, default is 15 min */ Enable , /* Enable the following features */ New_Devices_Initialized_When_Added, /* Make new devices online */ Clear_TDisk , /* Clear TDisks at IPL time */ Disable , /* Disable the following features */ Set_Privclass , /* Disallow SET PRIVCLASS command */ Auto_Warm_IPL , /* Prompt at IPL always */ Validate_Shutdown , /* Don't require system name */ STP_Timezone , /* STP feature is not used */",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.562743",
+    "chunk_number": 349,
+    "word_count": 170
+  }
+}

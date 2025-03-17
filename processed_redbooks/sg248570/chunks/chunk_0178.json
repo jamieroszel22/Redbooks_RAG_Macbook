@@ -1,0 +1,18 @@
+{
+  "content": "the data, these systems have become adept at minimizing resource consumption and delivering interactive response times for queries that would otherwise be unwieldy. Migrating these capabilities into a lakehouse context requires extending the optimization logic beyond traditional row-store tables and B-trees. IBM watsonx.data works with columnar formats like Parquet, ORC, and Delta, which store data in a way that naturally supports predicate push-down, column pruning, and partition elimination. The system leverages metadata embedded within these formats, including min/max statistics per column and file partitions, to minimize I/O overhead and reduce the query's data footprint. Additionally, watsonx.data's optimizer is designed to understand the cost of operations in distributed environments, where network traffic and storage access patterns matter as much as CPU usage. By dynamically evaluating which subsets of data are relevant and which operations can be parallelized or pruned, the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.026722",
+    "chunk_number": 178,
+    "word_count": 139
+  }
+}

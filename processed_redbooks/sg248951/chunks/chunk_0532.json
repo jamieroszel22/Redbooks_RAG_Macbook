@@ -1,0 +1,18 @@
+{
+  "content": "provided by IBM z16, the application must use an application programming interface (API) that is provided by the operating system. In z/OS, the Integrated Cryptographic Service Facility (ICSF) provides the APIs and is managing the access to the cryptographic devices, as shown in Figure 6-3. Figure 6-3 IBM z16 Cryptographic Support in z/OS 0900 New TKE smart cards (10 pack) This card allows the TKE to support zones with EC 521 key strength (EC 521 strength for Logon Keys, Authority Signature Keys, and EP11 signature keys). 0892 More TKE smart cards Carry forward only to IBM z16. Ten smart cards are included. a. The maximum number of combined features of all types cannot exceed 60 HSMs on an IBM z16 A01 (any combination of single and dual HSM Crypto Express features). Therefore, the maximum number for Feature Code 0908 is 30; for all other (single HSM) types, it is 16 for an IBM z16 system. Important: Products that include any of the cryptographic feature codes contain cryptographic",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.297494",
+    "chunk_number": 532,
+    "word_count": 167
+  }
+}

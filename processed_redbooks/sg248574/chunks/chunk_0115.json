@@ -1,0 +1,18 @@
+{
+  "content": "enter regression_model_deployment under Name and regression_model_service under Serving name. Click Create. Online deployment is ideal for real-time processing, where the model handles input data and provides immediate predictions. Batch deployment is suitable for processing large datasets in bulk, which generate predictions for a collection of inputs at scheduled intervals or on-demand. 44 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai 4. Test the deployment: After deployment, validate the model\u2019s functions by going to the newly created deployment and clicking regression_model_deployment, as shown in Figure 4-31. Figure 4-31 Deployment overview watsonx.ai Studio provides multiple ways to test the deployment, such as the Test tab and code snippets (Figure 4-32). Figure 4-32 Deployment testing Chapter 4. Building and using artificial intelligence models 45 By following these steps, you can effectively deploy and manage your AI models within watsonx.ai Studio,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.602646",
+    "chunk_number": 115,
+    "word_count": 141
+  }
+}

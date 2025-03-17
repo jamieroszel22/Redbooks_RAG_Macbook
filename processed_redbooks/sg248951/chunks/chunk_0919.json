@@ -1,0 +1,18 @@
+{
+  "content": "connections to devices. IBM z16 A01 allows a single drawer in a multi-drawer system to be removed and reinstalled concurrently during an upgrade or repair. Connectivity to the system I/O resources is maintained through a second path from a different drawer. \u0002 Base Management Card (BMC)/Oscillator Cards (OSC) IBM z16 A01 features two combined BMC and OSC per CPU draw. The strategy of redundant clock and switchover stays the same. One primary and one backup is available. If the primary OSC fails, the backup detects the failure, takes over transparently, and continues to provide the clock signal to the CPC. 388 IBM z16 (3931) Technical Guide \u0002 Processor unit (PU) sparing IBM z16 A01has two spare PUs per system to maintain performance levels if an active PU, Internal Coupling Facility (ICF), Integrated Facility for Linux (IFL), IBM Z Integrated Information Processor (zIIP), integrated firmware processor (IFP), or system assist processor (SAP) fails. Transparent sparing for failed",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.707888",
+    "chunk_number": 919,
+    "word_count": 156
+  }
+}

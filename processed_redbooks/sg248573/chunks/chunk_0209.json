@@ -1,0 +1,18 @@
+{
+  "content": "investment options. A key focus of the bank is continuous improvements on efficiencies around managing risk and ensuring regulatory compliance. Their AI-powered chatbot is designed to provide AI-driven solutions and must adhere to strict standards of ethics, explainability, and expected performance. To support this, the bank seeks to govern its AI systems with robust, automated, and integrated platforms as data and AI technologies evolve. 7.2.1 Business context They require a governance framework that ensures: \u0002 Ethical and explainable AI behavior. \u0002 Reliable results in alignment with business objectives. \u0002 Adequate control, testing, and audit mechanisms to manage evolving data and AI models. The solution will leverage IBM watsonx.governance, an automated and integrated AI governance platform, to manage the lifecycle and compliance of the AI application. 7.2.2 Client need The client aims to automate the governance lifecycle of a chatbot across various metrics, lifecycle stages, and",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.223501",
+    "chunk_number": 209,
+    "word_count": 145
+  }
+}

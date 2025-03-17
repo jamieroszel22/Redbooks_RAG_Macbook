@@ -1,0 +1,18 @@
+{
+  "content": "compliance standards, which help ensure that privacy regulations are respected. Furthermore, IBM watsonx.data promotes collaboration by enabling users to tag data sets with business-context annotations so that others can understand the data sets' relevance in specific use cases. This capability enhances data sharing across departments, which helps stakeholders interpret data more efficiently and makes the catalog more valuable as a comprehensive and centralized resource. 7.2 Data discovery: Automating data classification and tagging for better organization In IBM watsonx.data, automated data discovery represents a significant innovation that transforms raw, unorganized data sets into structured, valuable assets. Using sophisticated machine learning models, IBM watsonx.data automatically analyzes data based on its attributes and content, and applies classifications and tags that mirror the expertise of human data stewards. This approach eliminates the need for manual tagging, which",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.124217",
+    "chunk_number": 204,
+    "word_count": 133
+  }
+}

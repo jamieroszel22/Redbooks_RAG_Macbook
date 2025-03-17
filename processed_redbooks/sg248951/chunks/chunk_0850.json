@@ -1,0 +1,18 @@
+{
+  "content": "capacity that can be used. For CP capacity, the token contains MSU-days. For specialty engines, the token contains specialty engine-days. When resources on a prepaid offering are activated, they must have enough capacity tokens to allow the activation for an entire billing window, which is 24 hours. The resources remain active until you deactivate them or until one resource uses all of its capacity tokens. Then, all activated resources from the record are deactivated. A postpaid On/Off CoD offering record contains resource descriptions, MSUs, specialty engines, and can contain capacity tokens that denote MSU-days and specialty engine-days. When resources in a postpaid offering record without capacity tokens are activated, those resources remain active until they are deactivated, or until the offering record expires. The record normally expires 180 days after its installation. When resources in a postpaid offering record with capacity tokens are activated, those resources must include",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.495727",
+    "chunk_number": 850,
+    "word_count": 148
+  }
+}

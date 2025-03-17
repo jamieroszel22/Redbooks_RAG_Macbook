@@ -1,0 +1,18 @@
+{
+  "content": "Folder/File or regular expression for the S3 path (s3://<bucket-name>/<object-key>) Read, Write, or Delete Milvus service Database/Collection/Partition ListDatabase, ListCollection, ListPartition, Search, and others Resource Data object Action 56 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 4.3.3 Best practices to manage ACLs To manage role-based ACLs and policy-based ACLs effectively in IBM watsonx.data and avoid overlaps, it is a best practice to establish a clear strategy that uses each method for its strengths. Here are some best practices. Defining roles first Roles should define broad access categories based on a user or group's function within the organization. Once these roles are established, policy-based ACLs can be used to fine-tune access for specific use cases or granular control. Consider a typical example: Managing access to AWS S3 storage. An organization might define three user groups: \u0002 Admins: Manage the storage lifecycle. \u0002 Analysts:",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.895239",
+    "chunk_number": 143,
+    "word_count": 144
+  }
+}

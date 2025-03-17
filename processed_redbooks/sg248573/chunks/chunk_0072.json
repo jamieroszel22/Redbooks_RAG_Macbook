@@ -1,0 +1,18 @@
+{
+  "content": "access and share data for different AI use cases such as Retrieval Augmented Generation (RAG). It is based on open-source technologies, including Presto, Iceberg, and Milvus. \u0002 IBM watsonx.governance: An end-to-end solution for AI governance to enable responsible, transparent, and explainable AI workflows in addition to monitoring and evaluation capabilities that allow you to keep track of your entire AI landscape. IBM watsonx.governance helps business analysts understand the trustworthiness of their AI solutions. 2.2 Introduction to IBM watsonx.ai IBM watsonx.ai is a cutting-edge AI platform that empowers organizations to scale and accelerate their AI initiatives. 18 Ensuring Trustworthy AI with IBM watsonx.governance Offering a comprehensive suite of tools including a foundation model library, enterprise grade studio, machine learning frameworks, and a runtime serving environment. watsonx.ai enables enterprises to build, train, and deploy models with ease. As a core component of the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.725492",
+    "chunk_number": 72,
+    "word_count": 141
+  }
+}

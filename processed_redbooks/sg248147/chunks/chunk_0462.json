@@ -1,0 +1,18 @@
+{
+  "content": "the LOGOFF command for LGLOPR. 6.13 z/VM User Directory The z/VM User Directory (or user registry) describes the configuration and operating characteristics of each virtual machine that can be created by CP. A z/VM user directory exists in two forms: a source form that consists of one or more CMS files, and an object form (which is created from the source) on a CP-formatted disk. The source form of the user directory consists of directory statements that define the CP volume on which the object directory is created and the characteristics of each virtual machine that runs on z/VM system. Figure 6-7 shows an overview of definitions in the z/VM directory for guests with single configuration and multiple configurations: \u0002 Single-configuration z/VM user ID A single-configuration VM definition consists of a user entry and any included profile entry. For example, you can specify a single-configuration virtual machine as EDIALVES and log on to a z/VM system as EDIALVES. In an SSI cluster,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.006577",
+    "chunk_number": 462,
+    "word_count": 162
+  }
+}

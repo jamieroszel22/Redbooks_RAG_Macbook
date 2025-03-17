@@ -1,0 +1,18 @@
+{
+  "content": "crucial considerations for data acquisition and preparation, data processing and filtering, model evaluation and validation, model security and robustness, and model performance monitoring. 4.1.1 Data transparency Transparency is highly desirable as it makes information available, shareable, legible, and verifiable. In the context of training a foundation model, which involves multiple stages, transparency efforts are often targeted at different parts of the pipeline. Documentation is particularly crucial for the data pile used for training the foundation model, where gathering information on data acquisition and preparation methodologies for foundation model training is essential. There are frameworks, such as The Foundation Model Transparency Index, which evaluate the transparency of foundation models across several composite indexes, including data, data labor, data access, and others. These indexes collectively aim to assess the transparency of various aspects of model",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.920999",
+    "chunk_number": 126,
+    "word_count": 133
+  }
+}

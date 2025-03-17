@@ -1,0 +1,18 @@
+{
+  "content": "structure the hung command was processing against, capture diagnostics with a nondisruptive CF dump, and continue operating without stopping or rebooting the CF image. \u0002 Coupling Facility granular latching This enhancement eliminates the performance degradation that is caused by structure-wide latching. With this support, most CF list and lock structure ECR processing no longer uses structure-wide latching. It serializes its execution by using the normal structure object latches that all mainline commands use. However, a few \u201cedge conditions\u201d in ECR processing still require structure-wide latching. For more information about CFCC code levels, see the Parallel Sysplex page of the IBM IT infrastructure website. For more information about the latest CFCC code levels, see the current exception letter that is published on Resource Link website (login is required). CF structure sizing changes are expected when upgrading from a previous CFCC Level to CFCC Level 25. In fact, CFLEVEL 25 may",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.920960",
+    "chunk_number": 685,
+    "word_count": 149
+  }
+}

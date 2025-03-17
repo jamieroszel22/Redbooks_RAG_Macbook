@@ -1,0 +1,18 @@
+{
+  "content": "regulatory needs for information covering the nature and intended uses of the foundation model. Transparency about the model's overall accuracy, its ability to explain particular decisions, its fairness regarding protected classes, and information about the provenance of training data and assurances that suitable privacy protections have been maintained, all should be properly documented and available for audit purposes. Transparency builds the trust in the AI system by increasing the understanding of how the model was created and deployed and enabling the ability to control how AI is created and deployed. This can prevent undesirable situations, such as a model training with unapproved data sets, models having biases, or models having unexpected performance variations. This documentation of facts about the foundation model (for example model cards) can have the following properties: \u0002 It can vary in content and are tailored to the particular foundation model being documented. \u0002 It is",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.993515",
+    "chunk_number": 145,
+    "word_count": 149
+  }
+}

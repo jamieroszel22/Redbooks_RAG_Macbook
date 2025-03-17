@@ -1,0 +1,18 @@
+{
+  "content": "the management of Crypto Express8S, see IBM z16 Configuration Setup, SG24-8960. Chapter 6. Cryptographic features 239 6.6 Trusted Key Entry workstation The TKE workstation is an optional feature that offers key management functions. It can be a TKE tower workstation (FC 0058) or TKE rack-mounted workstation (FC 0077) for IBM z16 systems to manage Crypto Express8S, Crypto Express7S, or Crypto Express6S. The TKE contains a combination of hardware and software. A mouse, keyboard, flat panel display, PCIe adapter, and a writable USB media to install the TKE Licensed Internal Code (LIC) are included with the system unit. The TKE workstation requires an IBM 4770 crypto adapter. A TKE workstation is part of a customized solution for the use of the Integrated Cryptographic Service Facility for z/OS (ICSF for z/OS) or Linux for IBM Z. This program provides a basic key management system for the cryptographic keys of an IBM z16 system that has Crypto Express features installed. The TKE provides",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.521510",
+    "chunk_number": 583,
+    "word_count": 160
+  }
+}

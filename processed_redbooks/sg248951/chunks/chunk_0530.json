@@ -1,0 +1,18 @@
+{
+  "content": "IBM z16 TKE Tower FC 0088 can be carried forward to IBM z16. It requires IBM 4770 PCIeCC (FC 0851) for compatibility with TKE LIC 10.0 (FC 0882) and for managing Crypto Express8S (FC 0144 = FC 0088 + FC 0851 + FC 0882). 0145 TKE Rack Mount carry forward to IBM z16 TKE Rack Mount FC 0087 can be carried forward to IBM z16. It requires IBM 4770 PCIeCC (FC 0851) for compatibility with TKE LIC 10.0 (FC 0882) and for managing Crypto Express8S (FC 0145 = FC 0087 + FC 0851 + FC 0882). 0233 TKE Rack Mount carry forward to IBM z16 TKE Rack Mount FC 0085 can be carried forward to IBM z16. It requires IBM 4770 PCIeCC (FC 0851) for compatibility with TKE LIC 10.0 (FC 0882) and for managing Crypto Express8S (FC 0233 = FC 0085 + FC 0851 + FC 0882). 0234 TKE Tower Carry forward to IBM z16 TKE Tower FC 0086 can be carried forward to IBM z16. It requires IBM 4770 PCIeCC (FC 0851) for compatibility with TKE LIC 10.0 (FC 0882) and for managing Crypto Express8S (FC 0234 = FC 0086 + FC 0851 + FC 0882).",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.289644",
+    "chunk_number": 530,
+    "word_count": 198
+  }
+}

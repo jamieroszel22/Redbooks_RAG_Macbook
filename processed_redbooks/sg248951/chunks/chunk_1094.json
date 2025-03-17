@@ -1,0 +1,18 @@
+{
+  "content": "is important to recognize the LSPR workload type of your production system. As described in 12.7, \u201cCPU MF counter data and LSPR workload type\u201d on page 482, the capacity of the processor is different from the LSPR workload type. By collecting the CPU MF z/OS SMF 113 record, you can recognize the workload type in a specific IBM-provided capacity planning tool. Therefore, collecting CPU MF counter data is a first step to begin the capacity planning. 12.9.2 Creating EDF files with CP3KEXTR An EDF file is an input file of the IBM Z capacity planning tools. You create this file for individual z/OS SYSIDs / LPARs by using the CP3KEXTR program. The CP3KEXTR program reads SMF records and extracts needed data as input to the IBM z Processor Capacity Reference (IBM zPCR) and IBM Z Batch Network Analyzer (IBM zBNA) tools. CP3KEXTR is offered as a no-charge application. It can also create the EDF files for IBMzCP3000. IBM zCP3000 is an IBM internal tool, but you can create the EDF files for it on",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.278501",
+    "chunk_number": 1094,
+    "word_count": 174
+  }
+}

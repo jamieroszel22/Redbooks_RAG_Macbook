@@ -1,0 +1,18 @@
+{
+  "content": "minimal and recommended distribution levels, see the Linux on IBM Z website. Chapter 7. Operating system support 253 7.3.1 Supported CPC functions The supported Base CPC Functions or z/OS and z/VM are listed in Table 7-3. Table 7-3 Supported Base CPC Functions or z/OS and z/VM Note: Consider the following points: \u0002 In a future IBM Z hardware system family, the transactional execution and constrained transactional execution facility no longer will be supported. Users of the facility on current servers must always check the facility indications before use. \u0002 z/OS V2R2 support ended on as of September 2020. No new function is provided for the use of the new hardware features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document. Functiona z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3b z/VM V7R2 z/VM V7R1 IBM z16 servers Y Y Y Y Y Y Maximum processor unit (PUs) per system image 200 200",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.617035",
+    "chunk_number": 609,
+    "word_count": 166
+  }
+}

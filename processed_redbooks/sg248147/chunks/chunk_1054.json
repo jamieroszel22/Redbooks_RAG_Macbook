@@ -1,0 +1,18 @@
+{
+  "content": "copyDisk 1100 2100 echo \"Take 1100 Offline....\" chccwdev -d 1100 CPcmd det 1100 CPcmd det 2100 echo \" \" echo \"---------------------------------------\" echo \"Linking source and target 101 disks ...\" CPcmd detach 1101 CPcmd link $sourceID 101 1101 rr if [ $? != 0 ]; then exit 19; fi CPcmd detach 2101 CPcmd link $targetID 101 2101 mr if [ $? != 0 ]; then exit 20; fi echo \"Copying 101 disks ...\" copyDisk 1101 2101 echo \"Taking 1101 Offline...\" chccwdev -d 1101 Appendix C. Additional material 517 CPcmd det 1101 echo \"Taking 2101 Offline...\" chccwdev -d 2101 CPcmd det 2101 } # main() processArguments $@ # process arguments passed by user if [ $verbose = \"on\" ]; then set -vx; fi # turn on debug checkID $sourceID # user ID must exist and be logged off checkID $targetID # user ID must exist and be logged off # getNetworkInfo # get info from parm files askAreYouSure # confirm disks will be overwritten copySystem # copy source disks to target # modifyClone # modify newly copied system echo",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.168314",
+    "chunk_number": 1054,
+    "word_count": 177
+  }
+}

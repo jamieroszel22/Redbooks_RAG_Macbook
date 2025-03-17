@@ -1,0 +1,18 @@
+{
+  "content": "SX features are listed in Table A-3. Table A-3 Maximum unrepeated distance for FICON SX features 10GbE RoCE Express3 LR 0441 10 SM 9 \u00b5m New build 10GbE RoCE Express3 SR 0440 10 OM2, OM3 OM4 33 m (200) 82 m (500) 300m (2000)d New build 25GbE RoCE Express2.1 0450 25 OM3, OM4 70 m (2000) 100 m (4700) Carry forward 25GbE RoCE Express2 0430 10GbE RoCE Express2.1 0432 10 OM2, OM3 OM4 33 m (200) 82 m (500) 300m (2000)d Carry forward 10GbE RoCE Express2 0412 Parallel Sysplex CE2 LR 0434 10 Gbps SM 9 \u00b5m 10 km (6.2 miles) New build ICA SR1.1 0176 8 GBps OM4 OM3 150 m 100 m New build, Carry forward ICA SR 0172 Carry forward a. The link data rate does not represent the performance of the link. The performance depends on many factors, including latency through the adapters, cable lengths, and the type of workload. b. Where applicable, the minimum fiber bandwidth distance in MHz-km for multi-mode fiber optic links is included in parentheses. c. For 32 Gbps links, point to point (to another switch,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.290466",
+    "chunk_number": 1095,
+    "word_count": 184
+  }
+}

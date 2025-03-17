@@ -1,0 +1,18 @@
+{
+  "content": "time stamp of the file is not modified. Because the target file name (SYSTEM) and mode (F) are the same, the equal sign (=) can be used to indicate that the value from the source file needs to be reused for the target: ===> copy system conforig f -1system conforig = (olddate ===> copy system config f = conforig = (olddate replace 3. Check to ensure that your backups are present: ===> listfile sys* conf* F (ISO FILENAME FILETYPE FM FORMAT LRECL RECS BLOCKS DATE TIME SYSTEM CONFIG F1 V 80 378 5 2020-09-19 09:56:31 SYSTEM CONFORIG F1 V 80 378 5 2020-09-19 09:56:31 -1SYSTEM CONFORIG F1 V 80 378 5 2020-09-19 09:48:05 Ordinarily, we make a new copy of the SYSTEM CONFIG file by using the \u201cWRKS\u201d (it works) suffix convention, but because we did not IPL again yet, we do not know that the last edited version is correct yet. The -1 that is added to the beginning of the file name is used to indicate that it is the current version minus one. 4. Edit the SYSTEM CONFIG file and specify each of the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.934755",
+    "chunk_number": 443,
+    "word_count": 187
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "IBM z16 A01, IBM z16 A02, IBM z16 AGZ, IBM z15, or IBM z14 system. Therefore, the LIC can support any CPC where the coprocessor is supported, but the TKE LIC must support the specific crypto module. Functions or attributes CPACF CEX8C CEX8P CEX8A Supports z/OS applications that use CSF X X X X Supports Linux on IBM Z CCA applications X X - X Encryption and decryption by using secret-key algorithm - X X - Provides the highest SSL/TLS handshake performance - - - X Supports SSL/TLS functions X X X X Provides the highest symmetric (clear key) encryption performance X - - - Provides the highest asymmetric (clear key) encryption performance - - - X 234 IBM z16 A02 and IBM z16 AGZ Technical Guide Provides the highest asymmetric (encrypted key) encryption performance - X X - Nondisruptive process to enablea - X X X Requires IOCDS definition - - - - Uses CHPID numbers - - - - Uses PCHIDs (one PCHID) - X X X Requires CPACF enablement (FC 3863)b X X X X Requires ICSF to be active - X X X Offers",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.495336",
+    "chunk_number": 579,
+    "word_count": 188
+  }
+}

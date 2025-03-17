@@ -1,0 +1,18 @@
+{
+  "content": "discoverable, well-defined, and governable entities. Key capabilities include: \u0002 Centralized data catalogs and discovery: Analysts can search and browse data catalogs to quickly locate relevant datasets. Metadata attributes, including schema definitions, data lineage, data quality scores, business glossary terms, and data owners, help users identify the most suitable data for their analyses. This fosters a culture of self-service analytics, where teams can find what they need without constantly relying on IT gatekeepers. \u0002 Consistent schema definitions and versioning: By imposing logical schemas atop raw files, watsonx.data ensures that all users refer to the same, consistent representation of data. Centralized schema repositories maintain historical versions, enabling analysts to time travel to older schemas if needed. This reduces confusion, accelerates onboarding for new team members, and supports stable reporting over long periods. \u0002 Data lineage and provenance tracking: Complex",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.061463",
+    "chunk_number": 186,
+    "word_count": 137
+  }
+}

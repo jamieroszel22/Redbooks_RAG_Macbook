@@ -1,0 +1,18 @@
+{
+  "content": "needs. 9.2 Key steps in the RAG workflow The following are the key steps in the RAG workflow. 9.2.1 Step 1: Document ingestion Document ingestion is the first step in the RAG workflow. It contains several aspects such as identifying sources, determining document types, setting ingestion frequency, configuring access permissions, gathering metadata, etc. Usually, the users may have company records, knowledge base or CRM systems in their internal databases and file systems. They may have existing tools to pull data from websites, blogs or online articles or through APIs in the existing services. IBM watsonx.data provides a Spark engine which is a valuable tool in the document ingestion phase, especially for large volumes of documents. Spark supports a variety of data sources, including HDFS, S3, JDBC, and NoSQL databases, making it easy to collect documents from multiple origins. For instance, if you are collecting news articles from various online sources, you could setup a Spark job",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.311855",
+    "chunk_number": 250,
+    "word_count": 156
+  }
+}

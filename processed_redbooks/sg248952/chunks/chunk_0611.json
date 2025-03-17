@@ -1,0 +1,18 @@
+{
+  "content": "features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document. Functiona z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3 z/VM V7R2 IBM z16 A02 and IBM z16 AGZ servers Y Y Y Y Y Maximum processor unit (PUs) per system image 200 200 200 80b 80b Maximum main storage size 16 TB 4 TB 4 TB 4 TBc 4 TBc Dynamic PU add Y Y Y Y Y Dynamic LPAR memory add Y Y Y Y Y Dynamic LPAR memory removal Y Y Y Y Yc LPAR group absolute capping Y Y Y Y Y Capacity Provisioning Manager Y Y Y N N Program-directed re-IPL - - - Y Y Transactional Executiond Y Y Y Ye Ye Java Exploitation of Transactional Execution Y Y Y Yd Yd Simultaneous multithreading (SMT) Y Y Y Y Y Single Instruction Multiple Data (SIMD) Y Y Y Yf Yf 2 GB large page support Y Y Y N N Large page (1 MB) support Y Y Y Yg Yg Db2 exploitation of IBM Z zAIU Yh Yh N - - CPUMF (CPU measurement facility) for IBM z16 A02 and IBM z16 AGZ Y Y Y Y Y Flexible",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.614669",
+    "chunk_number": 611,
+    "word_count": 209
+  }
+}

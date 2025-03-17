@@ -1,0 +1,18 @@
+{
+  "content": "4K Blocks Group No. In-Use Free 1 4704 - 16% 24059 2 345894 - 8% 3885390 ======================================================================== At this point, the file pool operation was complete. The objective of the use of online file pool operation commands was to eliminate disruption to file pool users. Because the file pool had to be shut down for the DMSPARMS file update, and the file pool change appeared to affect DirMaint, this process was not successful. An alternative process for adding file pool space, which requires the file pool to be shut down, is described in Chapter 9, \u201cAdding Minidisks in Dedicated Maintenance Mode\u201d of z/VM: CMS File Pool Planning, Administration, and Operation. 9.2.2 User ID privilege class The MAINTCSM user ID requires access to the FORCE command. Because the FORCE command is part of system privilege class A, class A was added to MAINTCSM as described in z/VM 7.2 Service Guide, GC24-6325. 9.2.3 TCP/IP configuration changes The TCP/IP configuration",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.614701",
+    "chunk_number": 614,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "capability. The set of SIMD instructions is a type of data parallel computing and vector processing that can decrease the amount of code and accelerate code that handles integer, string, character, and floating point data types. The SIMD instructions improve performance of complex mathematical models and allow integration of business transactions and analytic workloads on IBM Z servers. The 32 vector registers feature 128 bits. The instructions include string operations, vector integer, and vector floating point operations. Each register contains multiple data elements of a fixed size. The following instructions code specifies which data format to use and the size of the elements: \u0002 Byte (16 8-bit operands) \u0002 Halfword (eight 16-bit operands) \u0002 Word (four 32-bit operands) \u0002 Doubleword (two 64-bit operands) \u0002 Quadword (one 128-bit operand) The collection of elements in a register is called a vector. A single instruction operates on all of the elements in the register. Instructions",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.074150",
+    "chunk_number": 226,
+    "word_count": 152
+  }
+}

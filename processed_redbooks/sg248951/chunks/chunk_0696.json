@@ -1,0 +1,18 @@
+{
+  "content": "(3931) Technical Guide MIDAW can improve FICON performance for extended format data sets. Nonextended data sets also can benefit from MIDAW. MIDAW can improve channel use and I/O response time. It also reduces FICON channel connect time, director ports, and control unit processor usage. IBM laboratory tests indicate that applications that use EF data sets, such as Db2, or long chains of small blocks can gain significant performance benefits by using the MIDAW facility. MIDAW is supported on FICON channels that are configured as CHPID type FC. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258. MIDAW technical description An IDAW is used to specify data addresses for I/O operations in a virtual environment.10 The IDAW design allows the first IDAW in a list to point to any address within a page. Subsequent IDAWs in the same list must point to the first byte in a page. Also, IDAWs (except the first and last IDAW) in a list must manage complete 2",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.968677",
+    "chunk_number": 696,
+    "word_count": 171
+  }
+}

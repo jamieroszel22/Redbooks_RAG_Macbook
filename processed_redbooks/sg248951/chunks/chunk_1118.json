@@ -1,0 +1,18 @@
+{
+  "content": "meters 15 meters N/A 69 feet 49 feet N/A OM2 (50 \u00b5m at 500 MHz\u00b7km) 50 meters 35 meters 20 meters 164 feet 115 feet 65 feet OM3 (50 \u00b5m at 2000 MHz\u00b7km) 150 meters 100 meters 70 meters 492 feet 328 feet 229 meters OM4a (50 \u00b5m at 4700 MHz-km) a. Fibre Channel Standard (not certified for Ethernet) 190 meters 125 meters 100 meters 693 feet 410 feet 328 feet \u00a9 Copyright IBM Corp. 2022. All rights reserved. 503 Appendix B. IBM Z Integrated Accelerator for AI This appendix provides a short overview of the new IBM Z Integrated Accelerator for Artificial Intelligence that is implemented in the IBM z16 processor (Telum). B 504 IBM z16 (3931) Technical Guide Overview Each generation of the IBM Z processing chip was enhanced with new on-chip functions, such as compression, sort, cryptography, and vector processing. The purpose-built accelerators that provide these functions mean lower latency and higher throughput for specialized operations. These accelerators work together with advanced chip",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.340831",
+    "chunk_number": 1118,
+    "word_count": 166
+  }
+}

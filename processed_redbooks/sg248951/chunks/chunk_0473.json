@@ -1,0 +1,18 @@
+{
+  "content": "port, 32 buffers (that is, 32 subchannels) per CHPID. The Coupling Express2 LR feature is in the PCIe+ I/O drawer on IBM z16. For more information, see IBM Z Planning for Fiber Optic Links (FICON/FCP, Coupling Links, Open Systems Adapters, and zHyperLink Express), GA23-1409. This publication is available in the Library section of Resource Link (log-in required). 14 PCIe+ I/O drawer (FC 4023 on IBM z16, FC 4021 on IBM z15, and FC 4001 on IBM z14 ZR1) is installed in a 19-inch rack. PCIe+ I/O Drawers contains and can host up to 16 PCIe I/O features (adapters). They are not supported on IBM z14 M0x or older servers. Also, the PCIe I/O drawer cannot be carried forward during and MES upgrade to IBM z14 ZR1 or newer. IBM z16, IBM z15, and IBM z14 ZR1 support PCIe+ I/O drawers only. Chapter 4. Central processor complex I/O structure 191 Extended distance support For more information about extended distance support, see System z End-to-End Extended Distance Guide, SG24-8047. Migration",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.071260",
+    "chunk_number": 473,
+    "word_count": 168
+  }
+}

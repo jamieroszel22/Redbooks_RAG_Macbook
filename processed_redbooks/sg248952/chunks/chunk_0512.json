@@ -1,0 +1,18 @@
+{
+  "content": "forward from IBM z15 T02. This feature contains two IBM 4769 PCIe Cryptographic Coprocessors (HSMs), which can be independently defined as Coprocessor or Accelerator. Supported on IBM z15,IBM z16 A01,IBM z16 A02 and IBM z16 AGZ. 0899 Crypto Express7S feature (1-port)a Carry forward from IBM z15 T02. This feature contains one IBM 4769 PCIe Cryptographic Coprocessor (HSM), which can be defined as Coprocessor or Accelerator. Supported on IBM z15,IBM z16 A01,IBM z16 A02 and IBM z16 AGZ. 0893 Crypto Express6S adaptera This feature is available as a carry forward MES from IBM z14 ZR1. This feature is optional. Each feature one IBM 4768 PCIe Cryptographic Coprocessor (HSM). This feature is supported in IBM z16 A01, IBM z16 A02, IBM z16 AGZ, IBM z15, and IBM z14. 208 IBM z16 A02 and IBM z16 AGZ Technical Guide 0058 TKE tower workstation A TKE provides basic key management (key identification, exchange, separation, update, and backup) and security administration. It is optional for running a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.201870",
+    "chunk_number": 512,
+    "word_count": 162
+  }
+}

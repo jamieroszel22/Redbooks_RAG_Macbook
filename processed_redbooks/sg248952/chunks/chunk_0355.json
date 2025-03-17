@@ -1,0 +1,18 @@
+{
+  "content": "certified by EAL5+ Common Criteria Standard, which is the highest level that ensures workload separation and isolation. \u2013 Horizontal workload isolation: Separation from the rest of the host environment. IBM z16 A02 and IBM z16 AGZ technology provides built-in data encryption with excellent vertical scalability and performance that protects against data breach threats and data manipulation by privileged users. IBM SSC is a powerful IBM technology for providing the extra protection of the most sensitive workloads. The following IBM solutions and offerings, and more to come, can be deployed in an IBM SSC environment: \u0002 IBM Hyper Protect Virtual Servers (HPVS) solution is available for running Linux-based virtual servers with sensitive data and applications delivering a confidential computing environment to address your top security concerns. For more information, see this IBM Cloud\u00ae web page. \u0002 IBM Db2 Analytics Accelerator (IDAA) is a high-performance component that is tightly",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.601209",
+    "chunk_number": 355,
+    "word_count": 147
+  }
+}

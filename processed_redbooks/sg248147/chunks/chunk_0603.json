@@ -1,0 +1,18 @@
+{
+  "content": "MODULE. Because we did not apply any service on TCPIP and z/VM uses the base service level (RSU 0000), it is recommended to search the z/VM Virtual Networking CP Maintenance website for any update, as shown in Figure 8-7. Figure 8-7 Available service for z/VM virtual networking Two APARs are available for TCPIP. The procedures to download and apply the service are the same as any PTF: access IBM Software Shopz website, find APARs by number, download them and apply them. 8.6 Moving on to Linux The installation, configuration, and service of z/VM are complete. With all updates applied, see Chapter 9, \u201cz/VM Centralized Service Management\u201d on page 275 for more information about z/VM management and Linux. \u00a9 Copyright IBM Corp. 2015, 2016, 2021. 275 Chapter 9. z/VM Centralized Service Management A new method of managing service for sets of stand-alone z/VM systems was introduced with z/VM 7.2. Centralized Service Management (z/VM CSM) allows you to manage distinct levels of service for a",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.578909",
+    "chunk_number": 603,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Carry forward FICON Express16S+ SX 0428 4, 8, or 16 OM1, OM2, OM3, OM4 See Table A-3 on page 471. Carry forward FICON Express16S LX 0418 4, 8, or 16 SM 9 \u00b5m 10 km (6.2 miles) Carry forward Open Systems Adapter (OSA) and Remote Direct Memory over Converged Ethernet (RoCE) OSA-Express7S 1.2 25GbE LR 0460 25 SM 9 \u00b5m 10 km (6.2 miles) New build OSA-Express7S 1.2 25GbE SR 0459 25 MM 50 \u00b5m 70 m (2000) 100 m (4700) New build OSA-Express7S 1.2 10GbE LR 0456 10 SM 9 \u00b5m 10 km (6.2 miles) New build OSA-Express7S 1.2 10GbE SR 0457 10 MM 62.5 \u00b5m MM 50 \u00b5m 33 m (200) 82 m (500) 300 m (2000) New build OSA-Express7S 1.2 GbE LX 0454 1.25 SM 9 \u00b5m 10 km (6.2 miles) New build OSA-Express7S 1.2 GbE SX 0455 1.25 MM 62.5 \u00b5m MM 50 \u00b5m 275 m (200) 550 m (500) New build OSA-Express7S 1.2 1000BASE-T 0458 1000Mbps Cat 5, Cat 6 unshielded twisted pair (UTP) 100 m New build OSA-Express7S 25GbE SR1.1 0449 25 MM 50 \u00b5m 70 m (2000) 100 m (4700) Carry forward OSA-Express7S 25GbE SR 0429 OSA-Express7S 10GbE LR 0444 10 SM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.286225",
+    "chunk_number": 1093,
+    "word_count": 199
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "commands. When PROCVIEW CORE or CORE,CPU_OK are specified in z/OS that is running on an IBM z16 A02 and IBM z16 AGZ, HiperDispatch is forced to run as enabled, and you cannot disable HiperDispatch. The PROCVIEW statement cannot be changed dynamically; therefore, you must re-IPL after changing it to make the new setting effective. The MT_ZIIP_MODE parameter in the IEAOPTxx controls zIIP SMT mode. It can be 1 (the default), where only one thread can be running in a core, or 2, where up two threads can be running in a core. If PROCVIEW CPU is specified, the MT_ZIIP_MODE is always 1. Otherwise, the use of SMT to dispatch two threads in a single zIIP logical processor (MT_ZIIP_MODE=2) can be changed dynamically by using the SET OPT=xx setting in the IEAOPTxx parmlib. Changing the MT mode for all cores can take some time to complete. PR/SM Hypervisor MT Aware MT Ignorant z/OS z/VM 270 IBM z16 A02 and IBM z16 AGZ Technical Guide PROCVIEW CORE requires DISPLAY M=CORE and CONFIG CORE to",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.816554",
+    "chunk_number": 656,
+    "word_count": 172
+  }
+}

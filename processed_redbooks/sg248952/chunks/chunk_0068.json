@@ -1,0 +1,18 @@
+{
+  "content": "Quantum-safe cryptography refers to efforts to identify algorithms that are resistant to attacks by both classical and quantum computers, to keep information assets secure even after a large-scale quantum computer has been built. Source: ETSI Quantum-Safe Cryptography (QSC). These algorithms are also used to help ensure the integrity of several of the firmware and boot processes. IBM z16 A02 and IBM z16 AGZ are the first industry-system protected by quantum-safe technology across multiple layers of firmware. 1.1.1 Predicting and automating with accelerated AI An approach where data gravity and transaction gravity intersect, that co-collocates data, transactional systems, and AI inferencing, can deliver insights at speed and scale to enable decision velocity. Decision velocity means delivering insights faster to make decisions to help identify new business opportunities improve customer experience, and reduce operational risk. Consider the following points: \u0002 The on-chip Integrated",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.397012",
+    "chunk_number": 68,
+    "word_count": 141
+  }
+}

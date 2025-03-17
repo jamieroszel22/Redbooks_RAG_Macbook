@@ -1,0 +1,18 @@
+{
+  "content": "permissions and adds write access. \u0002 Storage Admin: Inherits Storage Writer permissions and gains full control, which includes unregistering storage, updating properties, and managing access. Platform-level roles also inherit from resource-level roles. For example, a platform admin inherits \u201cview\u201d and \u201cremove\u201d permissions for all resources, so they can manage the entire platform. Avoiding redundant policies for common access To streamline access management and reduce complexity, avoid creating multiple overlapping policies for common access needs. Redundant policies can lead to unintended consequences, such as conflicting permissions or difficulties in auditing and troubleshooting. For example, consider a scenario where three policies are created: \u0002 Policy A: Grants read access to the entire \u201cexample-bucket. \u0002 Policy B: Grants read access to the \u201cexample-bucket/reports/*\u201d folder. \u0002 Policy C: Grants read access to the \u201cexample-bucket/finance/*\u201d folder. In this case, Policies B and C",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.902311",
+    "chunk_number": 145,
+    "word_count": 138
+  }
+}

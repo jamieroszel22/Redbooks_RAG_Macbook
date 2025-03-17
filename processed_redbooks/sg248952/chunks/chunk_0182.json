@@ -1,0 +1,18 @@
+{
+  "content": "page 319. 2.8.3 Capacity Backup Upgrade Capacity Backup Upgrade (CBU) delivers temporary backup capacity in addition to the capacity that an installation might have available in numbers of assigned CPs, IFLs, ICFs, and zIIPs. CBU has the following types: \u0002 CBU for CP \u0002 CBU for IFL \u0002 CBU for ICF \u0002 CBU for zIIP When CBU for CP is added within the same capacity setting range (indicated by the model capacity identifier) as the currently assigned PUs, the total number of active PUs (the sum of all assigned CPs, IFLs, ICFs, and zIIPs) plus the number of CBUs cannot exceed the total number of PUs that are available in the system. Z06 Z05 Z04 Z03 Z02 Z01 Y06 Y05 Y04 Y03 Y02 Y01 X06 X05 X04 X03 X02 X01 W06 W05 W04 W03 W02 W01 V06 V05 V04 V03 V02 V01 U06 U05 U04 U03 U02 U01 T06 T05 T04 T03 T02 T01 S06 S05 S04 S03 S02 S01 R06 R05 R04 R03 R02 R01 Q06 Q05 Q04 Q03 Q02 Q01 P06 P05 P04 P03 P02 P01 O06 O05 O04 O03 O02 O01 N06 N05 N04 N03 N02 N01 M06 M05 M04 M03 M02 M01 L06 L05 L04 L03 L02 L01 K06 K05",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.896134",
+    "chunk_number": 182,
+    "word_count": 204
+  }
+}

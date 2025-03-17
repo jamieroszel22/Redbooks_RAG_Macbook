@@ -1,0 +1,18 @@
+{
+  "content": "IFLs, ICFs, zIIPs are available for the IBM z16 A02 and IBM z16 AGZ. However, concurrent PU upgrades require that more PUs are installed but not activated. Spare PUs are used to replace defective PUs. Two spare PUs always are on an IBM z16 A02 and IBM z16 AGZ. In the rare event of a PU failure, a spare PU is activated concurrently and transparently and is assigned the characteristics of the failing PU. If an upgrade request cannot be accomplished within the configuration, a hardware upgrade is required. The upgrade paths for IBM z16 A02 and IBM z16 AGZ are shown in Figure 2-25 on page 59: Feature CPC Drawers PUs per drawer Active PUs zIIP IFP STD SAPs Spares MAX Memory TB CPs IFLs ICFs uIFLs Max5 1 32 0-5 0-5 0-5 0-4 0-4 2 2 2 4 Max16 1 32 0-6 0-16 0-16 0-15 0-15 2 2 2 4 Max32 1 32 0-6 0-32 0-32 0-31 0-31 2 4 2 8 Max68 2 68 0-6 0-68 0-68 0-67 0-67 2 8 2 16 Chapter 2. Central processor complex hardware components 59 Figure 2-25 IBM z16 A02 upgrade paths \u0002 IBM z16 A02 and IBM z16 AGZ",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.875321",
+    "chunk_number": 178,
+    "word_count": 199
+  }
+}

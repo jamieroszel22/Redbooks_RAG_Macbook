@@ -1,0 +1,18 @@
+{
+  "content": "6.3.1 Architecture and core components of the integration . . . . . . . . . . . . . . . . . . . . . . 90 6.3.2 Implementation of the integration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91 6.3.3 Summary and references . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 92 Chapter 7. Establishing a data catalog . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95 7.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96 7.2 Data discovery: Automating data classification and tagging for better organization . . . 96 7.3 Data profiling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 97 7.4 Data cataloging: Building a comprehensive data catalog for findability . . . . . . . . . . . . 97 7.5 Using advanced search functions to find specific data assets . . .",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.392430",
+    "chunk_number": 13,
+    "word_count": 340
+  }
+}

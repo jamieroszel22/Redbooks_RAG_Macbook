@@ -1,0 +1,18 @@
+{
+  "content": "the basic steps for accomplishing lifecycle governance using watsonx.governance. The following subsections assume that the reader is experienced with LLM experimentation and that they are ready to begin governing and monitoring their AI solutions. Special considerations exist based on implementation details such as what platform the model is hosted on, and what is the use case. These considerations will be found under each appropriate subsection. 6.4 Lifecycle implementation and considerations This section of the chapter will assume that there is a valid AI use case configured in watsonx.governance. It will also make the assumption that a solution exists (either on watsonx.ai or another third party) which realizes that AI use case. One final major assumption is the existence of ground-truth data. 68 Ensuring Trustworthy AI with IBM watsonx.governance As mentioned in the explanation of the validation stage, evaluations provide first-hand performance reviews to assets in a qualitative",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.119883",
+    "chunk_number": 180,
+    "word_count": 147
+  }
+}

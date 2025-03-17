@@ -1,0 +1,18 @@
+{
+  "content": "machine type to ESA with a maximum of eight VCPUs. Even if your hardware does not have eight Integrated Facility for Linux processors (IFLs), it is alright to set the maximum value to 8 to allow growth. \u2013 The IUCV ALLOW line allows virtual machines to connect to other virtual machines, such as the Linux Terminal Server, by using the inter-user communication vehicle (IUCV). \u2013 The OPTION CHPIDV ONE line allows virtual machines to be relocated between SSI members. PROFILE LNXPDFLT ***COMMON LINUX DIRMPROFILE****************************************** COMMAND SET SECUSER OPERATOR COMMAND SET RUN ON COMMAND TERM HOLD OFF COMMAND TERM MORE 001 000 COMMAND SCRE CPO WHI NON COMMAND SCRE STA GRE REV COMMAND SET VSWITCH VSW1 GRANT &USERID COMMAND DEFINE NIC 0600 TYPE QDIO COMMAND COUPLE 0600 TO SYSTEM VSW1 CPU 00 BASE CPU 01 DATEFORMAT ISODATE IPL CMS PARM FILEPOOL LNX AUTOCR MACHINE ESA 8 IUCV ALLOW OPTION CHPIDV ONE CONSOLE 0009 3215 T SPOOL 000C 2540 READER * SPOOL 000D 2540 PUNCH A SPOOL",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.026761",
+    "chunk_number": 468,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "lifted for IBM z16 A02, IBM16 AGZ and IBM z16 A01 as well. 11 z/OS Container Extensions that are running on IBM z16 A02 and IBM z16 AGZ require \u201cIBM Container Hosting Foundation for z/OS\u201d software product (5655-HZ1) and/or the \u201cIBM zCX Foundation for Red Hat OpenShift\u201d software product (5655-ZCX) when running OCP in zCX. 108 IBM z16 A02 and IBM z16 AGZ Technical Guide How zIIPs work zIIPs are designed for supporting designated z/OS workloads. One of the workloads is Java code execution. When Java code must be run (for example, under control of IBM WebSphere), the z/OS JVM calls the function of the zIIP. The z/OS dispatcher then suspends the JVM task on the CP that it is running on and dispatches it on an available zIIP. After the Java application code execution is finished, z/OS redispatches the JVM task on an available CP. After this process occurs, normal processing is resumed. This process reduces the CP time that is needed to run Java WebSphere applications, which frees that",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.271898",
+    "chunk_number": 279,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "build in an industry standard 19-inch frame and can be installed on a raised or non-raised floor. For more information about dimensions, weight and floor loading tables,3932 Single Frame Installation Manual for Physical Planning (Models A02/LA2), GC28-7040 on Resource Link. The Power and weight estimation tool for IBM Z servers, also available on Resource Link, can provide the estimated weight for any specific configuration. On the Resource Link website, click Tools \u2192 Power and weight estimation. 11.2.4 Physical planning This section describes the floor mounting, power, and I/O cabling options. For more information, see 3932 Single Frame Installation Manual for Physical Planning (Models A02/LA2), GC28-7040 on Resource Link. Raised floor or non-raised floor IBM z16 A02 can be installed on a raised or non-raised floor. The following options and features are available for I/O cabling and line cords: \u0002 Top Exit cabling without Tophat feature \u0002 Top Exit cabling with Tophat feature Chapter",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.174616",
+    "chunk_number": 1049,
+    "word_count": 153
+  }
+}

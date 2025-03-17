@@ -1,0 +1,18 @@
+{
+  "content": "start PuTTY, double-click any saved session name, and an SSH session to the Linux system that you want is started. The use of a Linux workstation instead is the preferred method. SSH client on macOS and Linux Linux and macOS provide command line interfaces and the ssh client program. The PuTTY program from Windows, being Open Source, was built on Linux and macOS. Although the author of PuTTY does not build macOS or Linux binaries, they are obtainable, or you can build PuTTY from source. On macOS, the MacPorts system provides a PuTTY build. The use of PuTTY on a non-Windows system might be convenient if you must use Windows and other systems and want to have a consistent interface across all. 470 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Setting up a VNC client A VNC client allows access to a graphical user interface environment with Linux on IBM Z. VNC on Microsoft Windows If you use a Windows desktop, the VNC client from RealVNC is a popular choice. You can purchase a full",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.903149",
+    "chunk_number": 978,
+    "word_count": 175
+  }
+}

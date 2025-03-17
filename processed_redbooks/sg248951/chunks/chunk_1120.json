@@ -1,0 +1,18 @@
+{
+  "content": "AI inference in real time, at large scale and rate, with no transaction left behind without the need to offload data off the IBM Z for performing AI inference. The AI capability is applied directly into the running transaction, shifting the traditional paradigm of applying AI to the transactions that were completed. This innovative technology can be used for intelligent IT workloads placement algorithms, which contributes to the better overall system performance. The co-processor is driven by the new Neural Networks Processing Assist (NNPA) instruction. Appendix B. IBM Z Integrated Accelerator for AI 505 NNPA and IBM z16 Hardware NNPA is a new nonprivileged Complex Instruction Set Computer (CISC) memory-to-memory instruction that operates on tensor objects that are in user programs\u2019 memory. AI functions and macros are abstracted by NNPA. Figure B-2 shows the AI accelerator and its components: the data movers that surround the compute arrays are composed of the Processor Tiles (PT),",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.348979",
+    "chunk_number": 1120,
+    "word_count": 154
+  }
+}

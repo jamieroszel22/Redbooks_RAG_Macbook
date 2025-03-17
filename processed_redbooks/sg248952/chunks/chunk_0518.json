@@ -1,0 +1,18 @@
+{
+  "content": "hardware cryptographic features and the Security Server (IBM Resource Access Control Facility [IBM RACF\u00ae] element) to provide secure, high-speed cryptographic services in the z/OS environment. ICSF provides the APIs by which applications request the cryptographic services, and from the CPACF and the Crypto Express features. ICSF transparently routes application requests for cryptographic services to one of the integrated cryptographic engines (CPACF or a Crypto Express feature), depending on performance or requested cryptographic function. ICSF is also the means by which the secure Crypto Express features are loaded with master key values, which allows the hardware features to be used by applications. The cryptographic hardware that is installed in IBM z16 A02 and IBM z16 AGZ determines the cryptographic features and services that are available to the applications. The users of the cryptographic services call the ICSF API. Some functions are performed by the ICSF software without",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.227861",
+    "chunk_number": 518,
+    "word_count": 146
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . 54 4.3.3 Best practices to manage ACLs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56 4.3.4 Summary. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57 Chapter 5. Querying and manipulating data and leveraging persona-specific engines 59 5.1 Using PrestoDB or Prestissimo engine for adhoc queries . . . . . . . . . . . . . . . . . . . . . . 60 5.1.1 Presto technical concepts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61 5.1.2 Data sources. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62 5.1.3 Executing a query . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64 5.1.4 Prestissimo (C++ version of Presto) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66 5.2 Leveraging Apache",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.380389",
+    "chunk_number": 10,
+    "word_count": 375
+  }
+}

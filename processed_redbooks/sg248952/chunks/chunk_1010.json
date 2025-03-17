@@ -1,0 +1,18 @@
+{
+  "content": "mobile interface is optional and is disabled by default. More and more functionalities from the HMC will also be available on IBM HMC Mobile. On https://ibm.biz/IBM-Z-HMC you can find a short introduction video for HMC Mobile. Further information can be found on this page: http://ibm.biz/hmc-mobile. Note: If the setting in Change Remote Access Setting -> IP Access Control is set to Allow specific IP addresses, but if no or the wrong IP addresses are configured, you are not able to have a remote HMC connection via an web browser. Note: With HMC Driver 41/Version 2.15.0 and Driver 51/Version 2.16.0, certain tasks that required in the past to access to the SE in SOO mode were implemented as HMC tasks. With this enhancement, the HMC runs the tasks on the SE directly, without the need to logon the SE in SOO mode. Chapter 10. Hardware Management Console and Support Element 423 10.5.4 Operating system communication The Operating System Messages task displays messages from an LPAR. You can",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.052411",
+    "chunk_number": 1010,
+    "word_count": 166
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "type DATADVH: ===> copy configrc sampdvh z = datadvh a 4. Start DirMaint with the XAUTOLOG DIRMAINT command: ===> xautolog dirmaint ICH70001I DIRMAINT LAST ACCESS AT 15:38:05 ON WEDNESDAY, JUNE 20, 2012 Command accepted Ready; T=0.01/0.01 15:50:02 AUTO LOGON *** DIRMAINT USERS = 5 HCPCLS6056I XAUTOLOG information for DIRMAINT: The IPL command is verified by the IPL command processor. DVHPRO2008I ROLE = DIRMAINT 5. Add the CONFIGRC DATADVH configuration file to DirMaint with the DIRM FILE command. You can ignore error messages, such as the RPIMGR031E message that is shown: ===> dirm file configrc datadvh Note: For more information about enabling a RACF-connector, see 10.4, \u201cDirMaint-RACF Connector\u201d on page 321. Chapter 6. Configuring z/VM 171 RPIMGR031E RESOURCE DIRMAINT SPECIFIED BY SPOOL COMMAND NOT FOUND RPIMGR031E RESOURCE POKDEV62 SPECIFIED BY TAG COMMAND NOT FOUND PUN FILE 0011 SENT TO DIRMAINT RDR AS 0004 RECS 0103 CPY 001 0 NOHOLD NOKEEP DVHXMT1191I Your FILE request has been",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.750302",
+    "chunk_number": 396,
+    "word_count": 155
+  }
+}

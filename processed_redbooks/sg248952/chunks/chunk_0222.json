@@ -1,0 +1,18 @@
+{
+  "content": "increase parallelism with instructions that process several operands in a single instruction (SIMD). The processor architecture was further developed for IBM z14 and IBM z15 generations. IBM z16 A02 and IBM z16 AGZ include the following enhancements: \u0002 Optimized third-generation SMT \u0002 Improved Out-of-Order core execution \u0002 Improvements in branch prediction and handling \u0002 Pipeline optimization \u0002 Secure Execution6 \u0002 Co-processor compression enhancements The IBM z16 A02 and IBM z16 AGZ enhanced Instruction Set Architecture (ISA) includes a set of instructions that are added to improve compiled code efficiency. These instructions 6 Secure execution requires operating system support. 82 IBM z16 A02 and IBM z16 AGZ Technical Guide optimize PUs to meet the demands of various business and analytics workload types without compromising the performance characteristics of traditional workloads. 3.4.1 Simultaneous multithreading Aligned with industry directions, the IBM z16 A02 and IBM z16 AGZ can",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.062445",
+    "chunk_number": 222,
+    "word_count": 145
+  }
+}

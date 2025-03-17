@@ -1,0 +1,18 @@
+{
+  "content": "and is supported by the following features when configured as CHPID type OSD (QDIO mode only): \u0002 OSA-Express7S 1.2 25GbE \u0002 OSA-Express7S 1.2 10GbE \u0002 OSA-Express7S 1.2 GbE \u0002 OSA-Express7S 1.2 1000BASE-T Ethernet \u0002 OSA-Express6S 10GbE \u0002 OSA-Express6S GbE \u0002 OSA-Express6S 1000BASE-T Ethernet When checksum is offloaded, the OSA-Express feature runs the checksum calculations for Internet Protocol version 4 (IPv4) and Internet Protocol version 6 (IPv6) packets. The checksum offload function applies to packets that go to or come from the LAN. When multiple IP stacks share an OSA-Express, and an IP stack sends a packet to a next hop address that is owned by another IP stack that is sharing the OSA-Express, OSA-Express sends the IP packet directly to the other IP stack. The packet does not have to be placed out on the LAN, which is termed LPAR-to-LPAR traffic. Checksum offload is enhanced to support the LPAR-to-LPAR traffic, which was not originally available. The supported operating systems",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.128970",
+    "chunk_number": 742,
+    "word_count": 159
+  }
+}

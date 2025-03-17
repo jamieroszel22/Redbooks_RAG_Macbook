@@ -1,0 +1,18 @@
+{
+  "content": "Prompt lab. Feel free to explore the accessibility of this watsonx.governance feature. Note: Configuring monitors is an additional task beyond the concept of simply moving through a lifecycle stage. This is specifically related to the operation stage of any AI asset; once the asset is in production (operation stage), the monitors for that deployment can be configured to track specific metrics. To achieve this through the UI for a watsonx.ai prompt, use the Actions drop down menu on the top right section of the production deployment and choose Activate Monitors. Finally, follow the guided instructions to complete monitor configuration. 70 Ensuring Trustworthy AI with IBM watsonx.governance From this point on, considerations for each of the following sub-sections will avoid repeating information and more advanced topics will be introduced throughout each section. At the highest level, all integrations of watsonx.governance with ML/AI providers work with the same concept of having an AI",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.146848",
+    "chunk_number": 187,
+    "word_count": 151
+  }
+}

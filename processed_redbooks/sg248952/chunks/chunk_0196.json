@@ -1,0 +1,18 @@
+{
+  "content": "Central processor complex hardware components 67 The PDUs must support the following inputs (depending on system configuration): \u0002 3-phase 200 - 240 V AC (wired as \u201cDelta\u201d) \u0002 3-phase 380 - 415 V AC (wired as \u201cWye\u201d) \u0002 Single phase 200 - 240 V AC. The power supply units convert the AC power to DC power that is used as input for the Points of Load (POLs) in the CPC drawer and the PCIe+ I/O drawers. The power requirements depend on the number of CPC drawers (1 or 2), number of PCIe I/O drawers (0 - 3) and I/O features that are installed in the PCIe I/O drawers. Each PDU installed requires a customer supplied power feed. The number of power cords that are required depends on the system configuration. The 3932 operates from 2 or 4 power cords, which provide redundant attachment to the electrical utility. System components must be plugged into the PDUs for redundancy (using two power cords). See Table 2-15. Table 2-15 IBM A02 and AGZ Power Options For additional information refer to: 3932",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.955102",
+    "chunk_number": 196,
+    "word_count": 178
+  }
+}

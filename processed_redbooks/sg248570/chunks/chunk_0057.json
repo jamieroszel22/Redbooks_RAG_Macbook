@@ -1,0 +1,18 @@
+{
+  "content": "frameworks, such as Apache Spark, Apache Hive, Apache Flink, and Apache Hadoop. In February 2013, the ORC file format was announced by Hortonworks in collaboration with Facebook. A month later, the Apache Parquet format was announced, which is developed by Cloudera and Twitter. The Apache ORC format is supported by Amazon AWS Glue. 1.4 Storage considerations for growing data As organizations continue to generate and collect vast amounts of data, the need for efficient and scalable storage solutions becomes more important. This section explores the storage considerations for growing data, with a focus on the challenges and opportunities that arise when working with large datasets. 1.4.1 The data growth conundrum The rate at which data is being generated is staggering. According to a report by IDC, the global data sphere is expected to grow from 33 zettabytes (ZB) in 2018 to 175 ZB by 2025, which represents a compound annual growth rate (CAGR) of 26%.1 This growth is driven by many",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.560383",
+    "chunk_number": 57,
+    "word_count": 161
+  }
+}

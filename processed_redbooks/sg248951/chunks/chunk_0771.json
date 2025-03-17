@@ -1,0 +1,18 @@
+{
+  "content": "web page. 15 For more information, see the Tool to Compare IBM z16 Instruction Mnemonics with Macro Libraries IBM Technote. Chapter 7. Operating system support 319 7.5.3 z/OS V2.R5 IBM z/OS, Version 2 Release 5 was announced 27 July 2021. One of the highlights of this release is the support of 16 TB real memory per z/OS image. This support allows new workloads that require more storage than is available. For more information about this release, see this announcement letter. 7.5.4 z/OS V2.R4 IBM z/OS, Version 2 Release 4, was made generally available on 30 September 2019. This release delivers innovation through an agile, optimized, and resilient platform that helps companies build applications and services that are based on a highly scalable and secure infrastructure. This infrastructure provides the performance and availability for on-premises or provisioned as-a-service workloads. z/OS V2.R4 delivers many capabilities, including the following examples: \u0002 IBM z/OS Container",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.233944",
+    "chunk_number": 771,
+    "word_count": 151
+  }
+}

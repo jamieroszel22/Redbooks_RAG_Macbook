@@ -1,0 +1,18 @@
+{
+  "content": "through a number of APIs. IBM applications, ISV programs, and client-written applications can control the use of the offerings. Resource usage (and therefore, financial exposure) can be controlled by using capacity tokens in the On/Off CoD offering records. The CPM is an example of an application that uses the CoD APIs to provision On/Off CoD capacity that is based on the requirements of the workload. The CPM cannot control other offerings. For more information about any of the topics in this chapter, see Capacity on Demand User\u2019s Guide, SC28-6943. 364 IBM z16 A02 and IBM z16 AGZ Technical Guide \u00a9 Copyright IBM Corp. 2023. All rights reserved. 365 Chapter 9. Reliability, availability, and serviceability From the Quality perspective, the IBM z16 A02 and IBM z16 AGZ reliability, availability, and serviceability (RAS) design is driven by a set of high-level program RAS objectives. The IBM Z platform continues to drive toward Continuous Reliable Operation (CRO) at the single footprint",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.646563",
+    "chunk_number": 897,
+    "word_count": 158
+  }
+}

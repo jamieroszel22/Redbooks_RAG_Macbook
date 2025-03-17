@@ -1,0 +1,18 @@
+{
+  "content": "TCP/IP stack are accessible by using their own VMAC address instead of sharing the MAC address of an OSA port. This situation also applies to Layer 3 mode and to an OSA port spanned among channel subsystems. OSA Layer 3 VMAC is supported by all OSA-Express features on IBM z16 when in QDIO mode (CHPID type OSD). The supported operating systems are listed in Table 7-8 on page 259. Network Traffic Analyzer IBM Z servers offer systems programmers and network administrators the ability to more easily solve network problems despite high traffic. With the OSA-Express Network Traffic Analyzer and QDIO Diagnostic Synchronization on the server, you can capture trace and trap data. This data can then be forwarded to z/OS tools for easier problem determination and resolution. The Network Traffic Analyzer is supported by all OSA-Express features on IBM z16 when in QDIO mode (CHPID type OSD). The supported operating systems are listed in Table 7-8 on page 259. 7.4.6 Cryptography Features and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.159678",
+    "chunk_number": 750,
+    "word_count": 163
+  }
+}

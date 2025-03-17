@@ -1,0 +1,18 @@
+{
+  "content": "base, which helps ensure that they can deliver accurate and context-aware responses. By leveraging RAG, agents can access vast amounts of information and distill it into actionable insights, which makes them invaluable for knowledge-intensive tasks. The Tool Library also includes a Code Execution feature, which enables agents to run Python code in real time. This capability opens up a wide range of possibilities, from performing complex calculations to automating repetitive tasks. By integrating this feature, agents can operate as dynamic problem solvers that can adapt to various scenarios. Data accessibility is another cornerstone of the watsonx.ai agentic framework. With Data Connectors, agents can seamlessly interact with enterprise databases and data warehouses, which grant them access to critical organizational data. This tool helps ensure that agents operate with a comprehensive understanding of the business context, which enables more informed and effective decision-making. The",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.176674",
+    "chunk_number": 248,
+    "word_count": 142
+  }
+}

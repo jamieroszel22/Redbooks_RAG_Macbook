@@ -1,0 +1,18 @@
+{
+  "content": "41f <41f L> (w ===> x configsm datadvh a ===> a 10 RUNMODE= OPERATIONAL ONLINE= IMMED ALLOW_ASUSER_NOPASS_FROM= VSMGUARD * ALLOW_ASUSER_NOPASS_FROM= VSMWORK1 * ALLOW_ASUSER_NOPASS_FROM= VSMWORK2 * ALLOW_ASUSER_NOPASS_FROM= VSMWORK3 * ALLOW_ASUSER_NOPASS_FROM= PERSMAPI * ALLOW_ASUSER_NOPASS_FROM= LOHCOST * ALLOW_ASUSER_NOPASS_FROM= DTCSMAPI * ASYNCHRONOUS_UPDATE_NOTIFICATION_EXIT.TCP= DVHXNE EXEC ASYNCHRONOUS_UPDATE_NOTIFICATION_EXIT.UDP= DVHXNE EXEC Tip: A directory manager is required that can be IBM z/VM DirMaint or another vendor product. Chapter 10. DirMaint, RACF-connector, and SMAPI 333 3. Add the SMAPI user IDs in the AUTHFOR CONTROL file. As DirMaint is up and running after all steps are completed, you must request a copy of this file from DirMaing by running the following command: ===> dirm send AUTHFOR CONTROL This file is sent by DirMaint to your reader; then, run the following command to receive this file to your 191 MDisk accessed as A: ===> Readerlist or RL 4. Position",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.075724",
+    "chunk_number": 731,
+    "word_count": 139
+  }
+}

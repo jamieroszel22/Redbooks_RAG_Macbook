@@ -1,0 +1,18 @@
+{
+  "content": "Hybrid, Open Data Lakehouse with IBM watsonx.data 3.4.3 Choosing the catalog For this scenario, select Apache Iceberg, as shown in Figure 3-5. Figure 3-5 Choosing the catalog 3.4.4 Choosing the query engine In this scenario, choose Presto as the query engine, and use its default options, as shown in Figure 3-6 on page 39. Chapter 3. Ingesting data into an open data lakehouse 39 Figure 3-6 Choosing the query engine 3.4.5 Data ingestion through Spark and Query by using Presto For simplicity, assume that both buckets are within the same IBM Cloud Object Storage instance. However, these buckets can be in different IBM Cloud Object Storage instances or even on Amazon EMR S3 storage. \u0002 lh-xxx: The bucket that you mapped while setting up the catalog-bucket in 3.4.2, \u201cConfiguring an S3 IBM Cloud Object Storage bucket\u201d on page 37. \u0002 lh-xxx-data: The bucket that contains the data sets to read from and create tables into the lakehouse. To upload the test data to the designated bucket, see",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.757052",
+    "chunk_number": 108,
+    "word_count": 167
+  }
+}

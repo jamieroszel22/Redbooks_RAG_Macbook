@@ -1,0 +1,18 @@
+{
+  "content": "(CEX8), Crypto Express7S (CEX7) and CryptoExpress6S (CEX6) cards. RMF supports all valid card configurations on IBM z16 A02 and IBM z16 AGZ and provides CEX7 and CEX6 crypto activity data in the SMF type 70 subtype 2 records and RMF Postprocessor Crypto Activity Report. Reporting can be done at an LPAR/domain level to provide more granular reports for capacity planning and diagnosing problems. This feature requires fix for APAR OA54952. The supported operating systems are listed in Table 7-10 on page 259. z/OS Data Set Encryption Aligned with IBM Z Pervasive Encryption initiative, IBM provides application-transparent, policy-controlled dataset encryption in IBM z/OS. Policy-driven z/OS Data Set Encryption enables users to perform the following tasks: \u0002 De-couple encryption from data classification; encrypt data automatically independent of labor-intensive data classification work. \u0002 Encrypt data immediately and efficiently at the time it is written. \u0002 Reduce risks that are associated",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.198500",
+    "chunk_number": 761,
+    "word_count": 147
+  }
+}

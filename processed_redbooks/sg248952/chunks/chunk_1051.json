@@ -1,0 +1,18 @@
+{
+  "content": "required for raised floor environments, where I/O cabling and/or power cords must exit from the bottom of the frame. This feature includes the hardware to allow bottom exit, and other components for cable management and filler plates to preserve the recommended air circulation. Frame cable management A vertical cable management guide (\u201cspine\u201d) can assist with proper cable management for fiber, copper, and coupling cables (see Figure 11-3 on page 444). The spine is shipped with configurations that contain either three PCIe+ I/O drawers and/or two CPC drawers. All external cabling to the system (from top or bottom) can use the spine to minimize interference with the PDUs mounted on the sides of the frame. Note: On the IBM z16 A02, all I/O cabling and line cords come from the rear of the machine; therefore, all related features for Bottom and Top Exit cabling are in the rear of the frame. 444 IBM z16 A02 and IBM z16 AGZ Technical Guide If necessary, the spine easily can be relocated for",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.179287",
+    "chunk_number": 1051,
+    "word_count": 169
+  }
+}

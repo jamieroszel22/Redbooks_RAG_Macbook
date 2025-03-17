@@ -1,0 +1,18 @@
+{
+  "content": "; Portmap Server ; 111 UDP PORTMAP ; Portmap Server ; 143 TCP IMAP ; IMAP Server ... Save your changes by issuing the file command. 3. Make permanent configuration changes to TCP/IP by editing the PROFILE TCPIP file on the TCPIP configuration disk, TCPMAINT 198. You also can make TCP/IP changes dynamically. To make a configuration change to TCP/IP while it is running, the following options are available: \u2013 The NETSTAT OBEY command allows a simple command to be entered (such as a START or STOP of a device). Chapter 12. Monitoring z/VM and Linux 383 \u2013 For changes that involve multiple configuration commands or statements, the OBEYFILE command is required. This command reads a file that contains TCP/IP PROFILE statements and applies those statements to the running system. An obey file can add new configuration statements, and change statements that span multiple lines (such as AUTOLOG, PORT, and GATEWAY). To make a complex TCP/IP change dynamically, create a file on TCPMAINT 198 that",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.406809",
+    "chunk_number": 828,
+    "word_count": 165
+  }
+}

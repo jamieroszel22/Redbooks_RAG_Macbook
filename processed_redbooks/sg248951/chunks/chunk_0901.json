@@ -1,0 +1,18 @@
+{
+  "content": "installing CPC drawers During an upgrade, a second and third processor drawer can be installed concurrently if they are planned. Depending on the number of processor drawers in the upgrade and your I/O configuration, a fan-out rebalancing might be needed for availability reasons. A fourth or fifth processor drawer can be installed at the IBM Manufacturing plant only. 378 IBM z16 (3931) Technical Guide 8.13 Summary of Capacity on-Demand offerings The CoD infrastructure and its offerings are based on client requirements for more flexibility, granularity, and better business control over the IBM Z infrastructure, operationally, and financially. One major client requirement was to eliminate the need for a client authorization connection to the IBM Resource Link system when activating an offering. This requirement is met by the IBM z14, IBM z15, and IBM z16 servers. After the offerings are installed on the IBM z16 SE, they can be activated at any time at the customer\u2019s discretion. No",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.652324",
+    "chunk_number": 901,
+    "word_count": 157
+  }
+}

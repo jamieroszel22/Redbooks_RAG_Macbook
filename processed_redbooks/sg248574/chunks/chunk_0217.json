@@ -1,0 +1,18 @@
+{
+  "content": "tools or workflows. This prompt is important for the overall communication and interaction in the multiple steps in an agentic execution flow. Example 6-3 shows an example of the output schema prompt definition. Example 6-3 Defining the output schema that the agent should follow #Output schema (also known as the agent\u2019s control logic) You communicate only in instruction lines. The format is: \"Instruction: expected output\". Only use these instruction lines and must not enter empty lines or anything else between instruction lines. Skip the instruction lines Function Name, Function Input, Function Caption, and Function Output if no function calling is required. Message: User's message. You never use this instruction line. Thought: A single-line step-by-step plan of how to answer the user's message. You can use the available functions that are defined above. This instruction line must be immediately followed by Function Name if one of the available functions that are defined above needs",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.062921",
+    "chunk_number": 217,
+    "word_count": 153
+  }
+}

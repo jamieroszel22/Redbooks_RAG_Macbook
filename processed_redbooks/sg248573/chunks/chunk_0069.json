@@ -1,0 +1,18 @@
+{
+  "content": "Organizations today face a common challenge: accessing data that is trapped in silos across various systems. Business applications typically store their data in application-specific sources, which often leads to duplication across multiple systems to meet different application needs. This fragmentation results in disconnected datasets that are not easily accessible to the broader enterprise ecosystem while still maintaining appropriate access rights. As a result, this limitation hinders opportunities for gaining insights and fostering innovation. IBM AI and data platforms enable organizations to access and integrate isolated datasets for analytics purposes, ensuring that the data is of high quality and trustworthy. This capability allows companies to develop responsible and ethical solutions, fostering the creation of new products, offerings, and opportunities for business growth. The IBM watsonx platform, along with IBM Cloud Pak for Data, is built on the robust foundation of Red Hat",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.712188",
+    "chunk_number": 69,
+    "word_count": 141
+  }
+}

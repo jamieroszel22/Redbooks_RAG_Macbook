@@ -1,0 +1,18 @@
+{
+  "content": "the SE, CBU is activated by using the Perform Model Conversion task or through the API. The API enables task automation. CBU activation CBU is activated from: \u0002 The SE by using the HMC and SSO to the SE \u0002 By using the Perform Model Conversion task \u0002 Through automation by using the API on the SE or the HMC During a real disaster, use the Activate CBU option to activate the 90-day period. Image upgrades After CBU activation, the IBM z16 can have more capacity, more active PUs, or both. The extra resources go into the resource pools and are available to the LPARs. If the LPARs must increase their share of the resources, the LPAR weight can be changed or the number of logical processors can be concurrently increased by configuring reserved processors online. The operating system must concurrently configure more processors online. If necessary, more LPARs can be created to use the newly added capacity. CBU deactivation To deactivate the CBU, the extra resources must be released from the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.601099",
+    "chunk_number": 883,
+    "word_count": 172
+  }
+}

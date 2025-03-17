@@ -1,0 +1,18 @@
+{
+  "content": "supported. 74 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Control granularity Without an ESM, most access controls are broadly applied. For example, anyone who has the read password for a minidisk can access it. To revoke an individual\u2019s access to a disk, the password must be changed and then, update any user who still needs access about the new password. With an ESM in place, access can be granted to individual users or groups of users. More importantly, if access must be revoked from an individual or group, this process can be done without affecting any other valid access. Even if an individual is a member of a group that can access a resource, that individual can be denied access to the resource by defining a specific \u201cdeny\u201d entry removing their access. Delegating security management When an ESM is not used with z/VM, administration is centralized. It becomes difficult (perhaps impossible) to delegate administration of some user IDs to an alternative manager or administrator.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.022790",
+    "chunk_number": 218,
+    "word_count": 164
+  }
+}

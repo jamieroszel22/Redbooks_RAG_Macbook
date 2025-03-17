@@ -1,0 +1,18 @@
+{
+  "content": "support and configuration rules The supported I/O features are listed in Table 4-5. Also listed in Table 4-5 are the number of ports per card, port increments, the maximum number of feature cards, and the maximum number of channels for each feature type. The CHPID definitions that are used in the IOCDS also are listed Table 4-5 IBM z16 A01supported I/O features I/O feature Ports per card Port increments Maximum portsa Maximum I/O slotsa PCHID CHPID definition Storage access FICON Express32S LX/SX 2 2 384 192 Yes FC, FCPb FICON Express16S+ LX/SX 2 2 384 192 Yes FC, FCPb FICON Express16SA LX/SX 2 2 384 192 Yes FC, FCPb zHyperLink Express 1.1 2 2 32 16 Yes N/Ac zHyperLink Express 2 2 32 16 Yes N/Ac OSA-Express featuresd OSA-Express7S 1.2 25 GbE LR/SR 1 1 48 48 Yes OSD OSA-Express7S 1.2 10 GbE LR/SR 1 1 48 48 Yes OSD OSA-Express7S 1.2 GbE LR/SR 2 2 96 48 Yes OSC, OSD OSA-Express7S 1.2e 1000BASE-T 2 2 96 48 Yes OSC, OSD, OSE OSA-Express7S 25 GbE SR1.1 1 1 48 48 Yes OSD OSA-Express7S 25 GbE",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.786185",
+    "chunk_number": 396,
+    "word_count": 185
+  }
+}

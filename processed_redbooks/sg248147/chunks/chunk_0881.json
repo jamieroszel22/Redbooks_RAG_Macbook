@@ -1,0 +1,18 @@
+{
+  "content": "group. In this example, it is named homelv and all physical extents are used: # lvcreate -l 1760 -n homelv homevg Logical volume \"homelv\" created 4. Create a file system from the logical volume. In this example, it is type ext4: # mkfs.ext4 /dev/homevg/homelv 5. Add the new file system to the file system table and mount it: # vi /etc/fstab ... # grep home /etc/fstab /dev/homevg/homelv /home ext4 defaults 0 0 # mount /home 6. Create a sizable file on it with the dd command and show file system usage: # dd if=/dev/zero of=/home/bigfile bs=1M count=500 500+0 records in 500+0 records out 524288000 bytes (524 MB) copied, 3.0718 s, 171 MB/s # df -h | grep home /dev/mapper/homevg-homelv 6.8G 644M 5.8G 10% /home 7. Show the volume group usage with the vgdisplay command: # vgdisplay homevg --- Volume group --- VG Name homevg VG Size 6.88 GiB PE Size 4.00 MiB Total PE 1760 Alloc PE / Size 1760 / 6.88 GiB Free PE / Size 0 / 0 VG UUID YIQgoN-865f-3Vbf-tjH1-eXhO-Aa6W-PcxHri This output shows that",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.588557",
+    "chunk_number": 881,
+    "word_count": 177
+  }
+}

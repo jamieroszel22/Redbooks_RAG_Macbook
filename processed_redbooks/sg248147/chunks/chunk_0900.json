@@ -1,0 +1,18 @@
+{
+  "content": "aggregation ports. However, because the IVL Network does not carry much traffic, OSA ports that are used for non-link-aggregated connections can be used for the IVL Network. However, it is highly recommended that the IVL Network be a separate VLAN from other network traffic. The process that is used to create a Global VSwitch includes the overall tasks: \u0002 Allocate ports for use by the IVL Network and the Global VSwitch. \u0002 Define the IVL VSwitch on each of the z/VM systems (making sure to use the suitable Domain and VLAN definitions as required). \u0002 Verify connectivity across the IVL Network. \u0002 Define the Port Group by using the LACP ACTive SHAred option. \u0002 Define the VSwitch by using the GLOBAL option. Each of these steps is described next. Allocating ports for the IVL Network and Global VSwitch Decide which available ports are to be used for the IVL Network and the Global VSwitch. We recommend that the Global VSwitch be defined across the fastest cards that are available in your",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.642641",
+    "chunk_number": 900,
+    "word_count": 171
+  }
+}

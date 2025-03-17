@@ -1,0 +1,18 @@
+{
+  "content": "128 PUs per z/OS LPAR in SMT mode. For both, the PU total is the sum of CPs and zIIPs. z/VM supports up to 64 processors. \u0002 Configure reserved storage to LPARs. Configuring reserved storage for all LPARs before their activation enables them to be nondisruptively upgraded. The operating system that is running in the LPAR must configure memory online. The amount of reserved storage can be greater than the CPC drawer threshold limit, even if no other CPC drawer is installed. With IBM z16 servers, the current partition storage limit is 4 TB for z/OS V2.R3 and V2.R4, and 16 TB for z/OS V2.R5 and later. z/VM V7.R1 supports 2 TB and z/VM V7.R2 supports 4 TB memory partitions. \u0002 Consider the flexible memory options. Use a convenient entry point for memory capacity, and select memory options that allow future upgrades within the memory cards that are installed on the CPC drawers. For more information about the offerings, see 2.5.7, \u201cFlexible Memory Option\u201d on page 46. Considerations when",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.648975",
+    "chunk_number": 900,
+    "word_count": 169
+  }
+}

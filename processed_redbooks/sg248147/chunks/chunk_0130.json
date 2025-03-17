@@ -1,0 +1,18 @@
+{
+  "content": "Partition Manager (DPM) feature and do not plan to run other IBM Z operating systems, you likely want to consider the use of DPM to operate your system and manage the partitions you create. Regardless of which method you choose, remember that IFLs are never assigned to an PR/SM LPAR or DPM partition. Rather, the weights are set to move the entitlements to the LPARs or partitions that are deemed to be higher priority. For more information, see \u201cz/VM configuration and performance information from Dr. Brian Wade:\u201d on page 476. 2.1.1 Processor Resource/Systems Manager Processor Resource/Systems Manager (PR/SM) enables logical partitioning of the central processor complex (CPC) in IBM Z and IBM LinuxONE servers. Each LPAR runs its own operating system, such as z/VM, and include resources that are dedicated or shared among multiple LPARs. It allows the definition and control of the logical partitions and their resources, including the following examples: \u0002 Processors \u0002 Memory \u0002 Channel",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.646660",
+    "chunk_number": 130,
+    "word_count": 158
+  }
+}

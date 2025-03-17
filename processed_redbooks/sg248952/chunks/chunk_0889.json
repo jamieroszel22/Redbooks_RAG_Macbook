@@ -1,0 +1,18 @@
+{
+  "content": "Express8S features can be added concurrently if all the required infrastructure is in the configuration. Tip: The 2:1 zIIP:CP ratio restriction has been removed for IBM z16 A01, IBM z16 A02 and IBM z16 AGZ as of May 2023. Chapter 8. System upgrades 359 Special features Special features such as zHyperlink, Coupling Express2 LR, and RoCE features can be added concurrently if all infrastructure is available in the configuration. 8.10.2 Concurrent upgrade considerations By using an MES upgrade, On/Off CoD, CBU, or CPE, an BM z16 A02 or IBM z16 AGZ can be upgraded concurrently from one model to another (temporarily or permanently). Enabling and using the extra processor capacity is not apparent to most applications. However, certain programs depend on processor model-related information, such as ISV products. Consider the effect on the software that is running on an BM z16 A02 or IBM z16 AGZ when you perform any of these configuration upgrades. Processor identification The following",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.623194",
+    "chunk_number": 889,
+    "word_count": 158
+  }
+}

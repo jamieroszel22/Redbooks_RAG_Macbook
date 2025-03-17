@@ -1,0 +1,18 @@
+{
+  "content": "DirMaint installation and uses it for all directory management tasks. \u0002 Suitable system security and hardening are considered from the start. Directions are included to install and configure both the VM SSL server and an External Security Manager (ESM). \u0002 Use of a Shared File System (SFS) file pool inside of z/VM acts as a central repository for the Linux kernel and master copies of parameter and configuration files. \u0002 A writable Linux /usr/ file system that is unique to each Linux guest is used. Specific solutions create an environment that shares the /usr/ file system across all Linux guests as read-only. This approach often makes the solution more complex by requiring more planning, especially when adding or updating software that is used by the virtual servers. A read/write /usr/ file system on the virtual servers is chosen to keep things as simple as possible. \u0002 Conventional 3390 IBM extended count key data (ECKD) DASD, fixed-block architecture (FBA) disks that are accessed with",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.592227",
+    "chunk_number": 119,
+    "word_count": 163
+  }
+}

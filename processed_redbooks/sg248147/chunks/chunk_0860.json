@@ -1,0 +1,18 @@
+{
+  "content": "formatted, partitioned, and configured to be active at start time. If you are creating a logical volume, see 13.2.1, \u201cCreating a logical volume and file system\u201d on page 404. If you are extending an existing logical volume, see 13.3, \u201cExtending a logical volume\u201d on page 408. 13.1.2 Making new emulated DASD available in Linux For new emulated DASD (EDEV), for example, at address 0.0.0750, that is dedicated to your system, the procedure to integrate them into the system is similar to the procedure for CKD DASD. The main difference is the tool that is used to format and partition these disks. Complete the following steps: 1. Make the disk visible by using the cio_ignore command: # cio_ignore -r 0750 2. Depending on your operating system, complete the following steps: \u2013 If you use Red Hat Enterprise Linux 8, follow these steps: i. Enable the disks by using the chccwdev -e command: # chccwdev -e 0750 Setting device 0.0.0750 online Done ii. Make a backup of /etc/dasd.conf, and then, add the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.520409",
+    "chunk_number": 860,
+    "word_count": 170
+  }
+}

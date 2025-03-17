@@ -1,0 +1,18 @@
+{
+  "content": "pools and processing weights, see the Processor Resource/Systems Manager Planning Guide, SB10-7178. 3.5.2 Central processors A central processor (CP) is a PU that uses the full z/Architecture instruction set. It can run z/Architecture-based operating systems (z/OS, z/VM, TPF, z/TPF, 21CS VSEn, and Linux on IBM Z) and the Coupling Facility Control Code (CFCC). Up to six PUs can be characterized as CPs, depending on the IBM z16 A02 and IBM z16 AGZ configuration. The IBM z16 A02 and IBM z16 AGZ can be initialized in LPAR (PR/SM) mode or in Dynamic Partition Manger (DPM) mode. CPs are defined as dedicated or shared. Reserved CPs can be defined to an LPAR to allow for nondisruptive image upgrades. If the operating system in the LPAR supports the logical processor add function, reserved processors are no longer needed. All PUs that are characterized as CPs within a configuration are grouped into the CP pool. The CP pool can be seen on the Hardware Management Console (HMC) workplace. Any",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.223888",
+    "chunk_number": 267,
+    "word_count": 165
+  }
+}

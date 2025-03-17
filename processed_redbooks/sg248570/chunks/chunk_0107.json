@@ -1,0 +1,18 @@
+{
+  "content": "the following features: \u0002 Auto-discovery of schema based on the source file or target table. \u0002 Advanced table configuration options for the CSV files: \u2013 Delimiter \u2013 Header \u2013 File encoding \u2013 Line delimiter \u2013 Escape characters Chapter 3. Ingesting data into an open data lakehouse 37 \u0002 Ingestion of single, multiple files, or a single folder (no subfolders) of S3 and local Parquet files. \u0002 Ingestion of single, multiple files, or a single folder (no subfolders) of S3 and local CSV files. 3.4.2 Configuring an S3 IBM Cloud Object Storage bucket IBM watsonx.data uses an object storage bucket to store data and its associated metadata. During setup, you can choose between two options: \u0002 Automatic Bucket Creation: IBM watsonx.data creates a bucket for you. \u0002 Pre-Existing Bucket: You can specify a bucket that you already created. Figure 3-4 illustrates using a pre-existing bucket that is named lh-xxx. Figure 3-4 Configuring a S3 or an IBM Cloud Object Storage bucket 38 Simplify Your AI Journey:",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.755235",
+    "chunk_number": 107,
+    "word_count": 165
+  }
+}

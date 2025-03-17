@@ -1,0 +1,18 @@
+{
+  "content": "IPv4 or IPv6 addresses \u0002 Dynamic Host Configuration Protocol (DHCP)-assigned IPv4 or DHCP-assigned IPv6 addressees \u0002 Auto-configured IPv6: \u2013 Link-local is assigned to every network interface. \u2013 Router-advertised, which is broadcast from the router, can be combined with a Media Access Control (MAC) address to create a unique address. \u2013 Privacy extensions can be enabled for these addresses as a way to avoid the use of the MAC address as part of the address to ensure uniqueness. An SE can have the following IP addresses: \u0002 Statically assigned IPv4 or statically assigned IPv6 \u0002 Auto-configured IPv6 as link-local or router-advertised IP addresses on the SE cannot be dynamically assigned through DHCP to ensure repeatable address assignments. DHCP privacy extensions are not used on the SE. The HMC uses IPv4 and IPv6 multi-casting1 to automatically discover the SEs. The HMC Network Diagnostic Information task can be used to identify the IP addresses (IPv4 and IPv6), which are used by the HMC",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.953566",
+    "chunk_number": 993,
+    "word_count": 160
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "memory downgrade and therefore is disruptive to the customer. 2.6 Reliability, availability, and serviceability IBM Z continue to deliver enterprise class RAS with IBM z16 A02 and IBM z16 AGZ. The main philosophy behind RAS is about preventing or tolerating (masking) outages. It is also about providing the necessary instrumentation (in hardware, LIC and microcode, and software) to capture or collect the relevant failure information to help identify an issue without requiring a re-creation of the event. These outages can be planned or unplanned. Planned Note: Memory downgrades within an IBM z16 A02 and IBM z16 AGZ are not supported. Feature downgrades (removal of a CPC quantity feature) are also not supported. Note: Removing a CPC drawer during EDA often results in reducing total active memory. Chapter 2. Central processor complex hardware components 53 and unplanned outages can include the following situations (examples are not related to the RAS features of IBM Z): \u2013 A planned outage",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.834037",
+    "chunk_number": 167,
+    "word_count": 157
+  }
+}

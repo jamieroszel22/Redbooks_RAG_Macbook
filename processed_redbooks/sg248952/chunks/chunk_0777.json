@@ -1,0 +1,18 @@
+{
+  "content": "industry-wide simplification improvements to help companies install and configure software using a common and modern method. These installation improvements range from the packaging of software through the configuration so that faster time to value can be realized throughout the enterprise, \u0002 IBM Open Data Analytics for z/OS provides enhancements to simplify data analysis by combining open source runtimes and libraries with analysis of z/OS data at its source, \u0002 Enhancements to security and data protection on the system with support for new industry cryptography and continued enhancements driving pervasive encryption through the ability to encrypt data without application changes. A new RACF capability improves management of access and privileges \u0002 Leveraging IBM z16 A02 and IBM z16 AGZ capabilities - System Recovery Boost which reduces the time that z/OS is offline when the operating system is offline for any reason. The use of IBM System Recovery Boost expedites planned operating",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.259720",
+    "chunk_number": 777,
+    "word_count": 150
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "processor By addressing the elimination of planned outages, the following tasks also are possible: \u0002 Concurrent driver upgrades \u0002 Concurrent and flexible customer-initiated upgrades For more information about the flexible upgrades that are started by clients, see 8.2.2, \u201cCustomer Initiated Upgrade facility\u201d on page 328. \u0002 STP management of concurrent CTN Split and Merge \u0002 Dynamic I/O for stand-alone CF CPCs Dynamic I/O configuration changes can be made to a stand-alone CF without requiring a disruptive power on reset. An LPAR with a firmware-based appliance version of an HCD instance is used to apply the new I/O configuration changes. The firmware-based LPAR is driven by updates from an HCD instance that is running in a z/OS LPAR on a different CPC that is connected to the same IBM z16 A02 and IBM z16 AGZ HMA. \u0002 System Recovery Boost Stage 3 System Recovery Boost enhancements for IBM z16 A02 and IBM z16 AGZ, introduce the possibility of significantly reduce the impact of these",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.717457",
+    "chunk_number": 920,
+    "word_count": 163
+  }
+}

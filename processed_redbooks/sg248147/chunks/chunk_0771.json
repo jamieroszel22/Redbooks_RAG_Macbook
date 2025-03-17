@@ -1,0 +1,18 @@
+{
+  "content": "HCPDDR711D VOLID READ IS VOL10X DO YOU WISH TO CONTINUE? RESPOND YES, NO OR REREAD: ===> yes HCPDDR711D VOLID READ IS ... DO YOU WISH TO CONTINUE? RESPOND YES, NO OR REREAD: ===> yes COPYING VOL10X COPYING DATA 04/30/15 AT 17.27.46 GMT FROM VOL10X TO ... INPUT BLOCK EXTENTS OUTPUT BLOCK EXTENTS START STOP START STOP 0 20971519 0 20971519 ... // (might take a long time) END OF COPY ENTER: ... // (Press Enter.) END OF JOB Ready; Managing the EDEV paths for service The EDEVPATH utility is available \u201cas is\u201d from the z/VM download page. The EDEVPATH utility allows batch control operations to be performed against all of a system\u2019s EDEV paths that share a common trait. For more information and download instructions, see this web page. 11.2.4 Minidisks In every z/VM system, minidisks are a widely used method to split full DASD disks into smaller volumes, which are also called minidisks. This method can be used with both real CKD DASDs and EDEVs. Minidisks characteristics In addition to the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.221290",
+    "chunk_number": 771,
+    "word_count": 172
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "To diagnose a problem that is related to an ESM, you might need to provide all relevant profiles, all group membership for groups that are authorized by those profiles, and the list of all groups of which any user that is listed in those profiles (directly or by way of another group) is a member. One way to provide this information is by using a data base dump. Using CALLSM1 exec To test SMAPI, a REXX EXEC that is named CALLSM1 is included with the files that are associated with this book in Appendix C, \u201cAdditional material\u201d on page 489. You copied the REXX EXEC CALLSM1 to the MAINT 191 (A) disk as described in 6.11.2, \u201cCopying the utilities to Shared File System file pools\u201d on page 186. If the REXX EXEC CALLSM1 was not copied, you need to copy it to complete this section. To test SMAPI, complete the following steps: 1. Log on to MAINT on member 1. 2. Verify that the CALLSM1 EXEC was copied to the MAINT 191 disk: ===> listfile callsm1 * CALLSM1 EXEC A1 3. Link to the TCPMAINT 592",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.110736",
+    "chunk_number": 741,
+    "word_count": 186
+  }
+}

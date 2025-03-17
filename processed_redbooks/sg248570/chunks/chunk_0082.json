@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.data to several major cloud data warehouse vendors. Savings may vary depending on configurations, workloads, and vendors. Chapter 2. Introduction to IBM watsonx.data 23 The following are the key considerations: \u0002 Scalability: Spark\u2019s distributed architecture enables horizontal scaling, handling vast datasets stored in the lakehouse. \u0002 Batch and Streaming: Supports both batch and real-time data processing, crucial for a unified lakehouse approach. \u0002 Interoperability: Works seamlessly with various data formats (Parquet, Delta Lake, ORC, and so forth) typically used in open lakehouses. \u0002 Optimization: Employ Spark SQL and Catalyst optimizer for query performance tuning. \u0002 Cost Efficiency: Leverage the decoupled storage and compute paradigm of lakehouses, optimizing resource utilization. 2.4.2 ETL tools: Managing complex workflows IBM DataStage provides robust Extract, Transform, and Load (ETL) capabilities that are crucial for cleaning, transforming, and loading structured and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.660123",
+    "chunk_number": 82,
+    "word_count": 135
+  }
+}

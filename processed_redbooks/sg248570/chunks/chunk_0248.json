@@ -1,0 +1,18 @@
+{
+  "content": "watsonx and unlocking new possibilities for intelligent applications. This chapter discusses how to adopt Milvus for RAG using IBM watsonx and has the following sections: \u0002 \u201cIntroduction\u201d on page 148 \u0002 \u201cKey steps in the RAG workflow\u201d on page 148 \u0002 \u201cTechnical integration of IBM watsonx and Milvus\u201d on page 150 \u0002 \u201cSummary\u201d on page 154 9 148 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 9.1 Introduction Retrieval-Augmented Generation (RAG) is a technique that enhances the performance of large language models (LLMs) by integrating them with a retrieval system. This approach helps improve the accuracy and relevance of the generated content by grounding it in external knowledge sources, such as documents, databases, or other types of structured and unstructured data. RAG enables enterprises to transform resources such as policy manuals, training documents, or logs into a structured knowledge base that enhances LLMs. This approach benefits applications in",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.305126",
+    "chunk_number": 248,
+    "word_count": 151
+  }
+}

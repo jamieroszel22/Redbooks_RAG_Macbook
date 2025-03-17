@@ -1,0 +1,18 @@
+{
+  "content": "online system through which you can order, download, and install permanent and temporary upgrades for IBM Z. Access to and use of the CIU facility requires a contract between the client and IBM through which the terms and conditions for use of the CIU facility are accepted. The CIU facility is controlled through the permanent upgrade authorization FC 9898. A prerequisite to FC 9898 is the online CoD buying feature code (FC 9900). Although FC 9898 can be installed on your IBM z16 A02 and IBM z16 AGZ at any time, often it is added when ordering an IBM z16 A02 and IBM z16 AGZ. After you place an order through the CIU facility, you receive a notice via e-mail that the order is ready for download. You can then download and apply the upgrade by using functions that are available through the Hardware Management Console (HMC) in the task Perform Model Conversion and if Remote Support Facility (RSF) is available. After all of the prerequisites are met, the entire process (from ordering to",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.373221",
+    "chunk_number": 818,
+    "word_count": 174
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "specific level of TKE Licensed internal code. In addition, smart card readers and smart cards are required to use most compliant-level HSM management mechanisms. The TKE workstation communicates with the IBM Z through a TCP/IP connection. The TKE workstation is available with Ethernet LAN connectivity only. Up to 10 TKE workstations can be ordered. TKE FCs 0057 and 0058 can be used to control any supported Crypto Express feature on IBM z16 A02 and IBM z16 AGZ, IBM z15, IBM z14 systems, and the Crypto adapters on older, still supported systems. The TKE 10.0 LIC (FC 0882) feature requires a 4770 HSM. The following features are supported: \u0002 Managing the Crypto Express8S HSMs (CCA normal mode, CCA PCI mode, and EP11) \u0002 QSC (Quantum Safe Cryptography) used when: \u2013 TKE authenticates Crypto Express Next HSMs \u2013 Deriving a Transport Key between TKE\u2019s HSM and target Crypto Express8S HSM \u2013 On demand HSM dual validation check. \u0002 CCA domain group limitations. All CCA HSMs in a group must: \u2013",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.462482",
+    "chunk_number": 571,
+    "word_count": 168
+  }
+}

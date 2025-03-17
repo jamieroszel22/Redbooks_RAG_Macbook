@@ -1,0 +1,18 @@
+{
+  "content": "HMC/SE via API/BCPii \u2013 Support is added for BCPii and Web Services API (WSAPI) on the SE and HMC for the following operations (these operations are not available for CPCs in DPM mode): \u2013 Create Reset Activation Profile \u2013 POST /api/cpcs/{cpc-id}/reset-activation-profiles \u2013 Create Load Activation Profile - POST /api/cpcs/{cpc-id}/load-activation-profiles \u2013 Create Image Activation Profile - POST /api/cpcs/{cpc-id}/image-activation-profiles \u2013 Create Group Profile - POST /api/cpcs/{cpc-id}/group-profiles \u2013 Delete Reset Activation Profile \u2013 DELETE /api/cpcs/{cpc-id}/reset-activation-profiles/{reset-activation-profile-name} \u2013 Delete Load Activation Profile \u2013 DELETE /api/cpcs/{cpc-id}/load-activation-profiles/{load-activation-profile-name} \u2013 Delete Image Activation Profile \u2013 DELETE /api/cpcs/{cpc-id}/image-activation-profiles/{image-activation-profile-name} \u2013 Delete Group Profile \u2013 DELETE /api/cpcs/{cpc-id}/group-profiles/{group-profile-name} For more information please see Hardware",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.886130",
+    "chunk_number": 967,
+    "word_count": 101
+  }
+}

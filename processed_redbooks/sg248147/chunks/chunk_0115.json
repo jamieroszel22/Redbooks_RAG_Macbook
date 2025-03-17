@@ -1,0 +1,18 @@
+{
+  "content": "continues to help customers extend business value across the enterprise by integrating applications and data while providing high levels of availability, security, and operational ease. Chapter 1. Conceptual overview 27 This release implements multi-system virtualization of up to four z/VM systems. This technology extends z/VM virtualization to a greater level, which enables members of the cluster to share resources and synchronize. This technology also gives the appearance of being a single system image (VMSSI). With the IBM z/VM Single System Image (VMSSI) feature, a running Linux VM can be relocated non-disruptively from one member system to any other member, a process that is known as live guest relocation (LGR). LGR provides application continuity across planned z/VM and hardware outages. Members of a cluster are part of the same Inter-System Facility for Communications (ISFC) collection, and use ISFC channel connections to communicate. Multiple channel-to-channel devices provide",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.578832",
+    "chunk_number": 115,
+    "word_count": 145
+  }
+}

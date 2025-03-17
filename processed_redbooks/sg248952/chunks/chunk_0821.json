@@ -1,0 +1,18 @@
+{
+  "content": "8. System upgrades 329 Permanent upgrades Permanent upgrades can be ordered by using the CIU facility. Through the CIU facility, you can generate online permanent upgrade orders to concurrently add processors (CPs, ICFs, zIIPs, and IFLs) and memory, or change the model capacity identifier. You can do so up to the limits of the installed CPC drawers on a system. Temporary upgrades The IBM z16 A02 and IBM z16 AGZ base model describes permanent and dormant capacity by using the capacity marker and the number of PU features that are installed on the system. Up to eight temporary offerings can be present. Each offering includes its own policies and controls, and each can be activated or deactivated independently in any sequence and combination. Although multiple offerings can be active at any time, only one On/Off CoD offering can be active at any time if enough resources are available to fulfill the offering specifications. Temporary upgrades are represented in the system by a record. All",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.389345",
+    "chunk_number": 821,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "(SMCv2) provides support for SMC over multiple IP subnets for both SMC-D and SMC-R and is referred to as SMC-Dv2 and SMC-Rv2. SMCv2 requires updates to the underlying network technology. SMC-Dv2 requires ISMv2 and SMC-Rv2 requires RoCEv2. The SMCv2 protocol is downward compatible allowing SMCv2 hosts to continue to communicate with SMCv1 down-level hosts. Chapter 7. Operating system support 295 While SMCv2 changes the SMC connection protocol enabling multiple IP subnet support, SMCv2 does not change how actual user TCP socket data is transferred, which preserves the benefits of SMC to TCP workloads. TCP/IP connections that require IPSec are not eligible for any form of SMC. HiperSockets Completion Queue The HiperSockets Completion Queue function is implemented on IBM z16 A01, IBM z16 A02, IBM z16 AGZ, IBM z15, and IBM z14. This function is designed to allow HiperSockets to transfer data synchronously (if possible) and asynchronously, if necessary. Therefore, it combines ultra-low",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.081286",
+    "chunk_number": 729,
+    "word_count": 152
+  }
+}

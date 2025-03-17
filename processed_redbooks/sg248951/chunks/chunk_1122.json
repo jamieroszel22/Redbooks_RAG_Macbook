@@ -1,0 +1,18 @@
+{
+  "content": "your enterprise This chart that is shown in Figure B-3 shows the high level of seamless integration of AI accelerator into enterprise AI/ML solution stack. Great flexibility and interoperability are realized for training and building models. Acknowledging the diverse AI training frameworks, customers can train their models on platforms of their choice, including IBM Z (on-premises and in hybrid cloud) and then, deploy it efficiently on IBM Z in colocation with the transactional workloads. No other development effort is needed to enable this strategy. To allow this flexible \u201cTrain anywhere, Deploy on IBM Z\u201d approach, IBM invests in Open Neural Network Exchange (ONNX) technology (see Figure B-3). Figure B-3 ONNX ecosystem This standard format represents AI models, with which a data scientist can build and train a model in the framework of choice without worrying about the downstream inference implications. To enable deployment of ONNX models, IBM provides an ONNX model compiler that is",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.355795",
+    "chunk_number": 1122,
+    "word_count": 154
+  }
+}

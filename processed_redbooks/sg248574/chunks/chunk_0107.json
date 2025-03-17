@@ -1,0 +1,18 @@
+{
+  "content": "Model creation workflow 4.6.1 Choosing the right model for your use case watsonx.ai supports many model types to meet diverse business needs: \u0002 Supervised models for predictive tasks by using labeled data. \u0002 Unsupervised models for discovering patterns in unlabeled data. \u0002 Reinforcement learning (RL) models for decision-making through rewards and penalties. \u0002 Large language models (LLMs) for natural language understanding and generation. Pretrained LLMs streamline AI development, which enables faster implementation and powerful insights across applications. In addition to its native capabilities, watsonx.ai embraces flexibility with the IBM Bring Your Own Model (BYOM) feature, which enables users to integrate and fine-tune their own LLMs within the platform for customized solutions. Furthermore, watsonx.ai supports integration with Hugging Face, which enables access to a vast library of pretrained models and tools. This collaboration accelerates development by leveraging open-source",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.570214",
+    "chunk_number": 107,
+    "word_count": 137
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "system upgrade can change the feature description (Max) and /or the MCI. Consider the following points regarding model upgrades: \u0002 LICCC only upgrade: \u2013 Can add memory or Virtual Flash Memory (VFM) up to the amount that is physically installed \u2013 Can change the model capacity identifier, the capacity setting, or both up to the amount that is physically installed \u0002 Hardware installation and according LICCC upgrade: \u2013 Can change the CPC drawer feature by adding more PU DCMs \u2013 Can change the model capacity identifier, the capacity setting, or both \u2013 Can add physical memory, PCIe+ I/O drawers, and other hardware features The model capacity identifier can be concurrently changed. Concurrent upgrades can be performed for permanent and temporary upgrades (if the according physical hardware is installed). Chapter 8. System upgrades 327 Licensed Internal Code upgrades (MES ordered) The LICCC provides for system upgrades without hardware changes by activating extra (physically installed) unused",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.365847",
+    "chunk_number": 815,
+    "word_count": 154
+  }
+}

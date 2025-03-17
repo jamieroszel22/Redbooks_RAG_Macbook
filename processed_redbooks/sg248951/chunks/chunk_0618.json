@@ -1,0 +1,18 @@
+{
+  "content": "Express support of SCSI devices - - - Y Y Y FICON Express support of hardware data router - - - Ye Ye Ye FICON Express support of T10 Data Integrity Field (DIF) - - - Ye Ye Ye N_Port ID Virtualization (NPIV) - - - Y Y Y Worldwide port name tool - - - Y Y Y 258 IBM z16 (3931) Technical Guide The supported storage connectivity functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-7. Table 7-7 Supported storage connectivity functions for z/VSE, z/TPF, and Linux on IBM Z Functiona a. PTFs might be required for toleration support or exploitation of IBM z16 features and functions. z/VSE V6R2 z/TPF V1R1 Linux on IBM Zb b. Support statement varies based on Linux on IBM Z distribution and release. The 63.75-K subchannels N N Y Six logical channel subsystems (LCSSs) Y N Y Four subchannel set per LCSS Y N Y CHPID (Channel-Path Identifier) type FC FICON Express support of zHPF (IBM Z High-Performance FICON)c c. Transparent to operating systems. Y Y Y IBM Fibre Channel Endpoint",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.673978",
+    "chunk_number": 618,
+    "word_count": 183
+  }
+}

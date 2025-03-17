@@ -1,0 +1,18 @@
+{
+  "content": "grep 0191 | awk '{ print $3 }'` cmsfslst -d /dev/$CMSdisk | grep -i $1 | grep PARM-S11 rc=$? if [ $rc != 0 ]; then echo \"Error: $1 PARM-S11 not found on 191 minidisk. Exiting\" exit 14 fi # get information about target { while read parameter; do #echo \"parameter: ${parameter%=*}\" case \"${parameter%=*}\" in Hostname) targetHostname=${parameter#*=} ;; HostIP) targetIP=${parameter#*=} ;; Nameserver) targetDNS=${parameter#*=} ;; Gateway) targetGW=${parameter#*=} ;; Netmask) targetMask=${parameter#*=} ;; Broadcast) targetBroadcast=${parameter#*=} ;; ReadChannel) prepareVaddr ${parameter#*=} targetReaddev=$newVaddr ;; WriteChannel) prepareVaddr ${parameter#*=} targetWritedev=$newVaddr ;; DataChannel) prepareVaddr ${parameter#*=} targetDatadev=$newVaddr ;; *) # don't know about any other parameters ;; esac done < <(cmsfscat -a -d /dev/$CMSdisk $1.PARM-S11 | tr '[:space:]' '\\n') } } #+--------------------------------------------------------------------------+ function createNetworkConfig() # -",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.176994",
+    "chunk_number": 1058,
+    "word_count": 116
+  }
+}

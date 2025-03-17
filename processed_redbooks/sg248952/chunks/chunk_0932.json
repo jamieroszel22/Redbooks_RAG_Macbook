@@ -1,0 +1,18 @@
+{
+  "content": "single CPC drawer IBM z16 A02 and IBM z16 AGZ does not support Enhanced Drawer Availability. Chapter 9. Reliability, availability, and serviceability 381 offline to reach the required level of available resources. Plan to address these possibilities to help reduce operational errors. Include the planning as part of the initial installation and any follow-on upgrade that modifies the operating environment. A client can use the Resource Link machine information report to determine the number of drawers, active PUs, memory configuration, and channel layout. If the IBM z16 A02 and IBM z16 AGZ is installed, click Prepare for Enhanced Drawer Availability in the Perform Model Conversion window of the EDA process on the Hardware Management Appliance (HMA). This task helps you determine the resources that are required to support the removal of a drawer with acceptable degradation to the operating system images. The EDA process determines which resources, including memory, PUs, and I/O paths,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.776315",
+    "chunk_number": 932,
+    "word_count": 153
+  }
+}

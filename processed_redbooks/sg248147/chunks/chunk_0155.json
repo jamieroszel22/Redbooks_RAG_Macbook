@@ -1,0 +1,18 @@
+{
+  "content": "handle increased path length. \u0002 Continue to use traditional ECKD DASD for CMS minidisks, except when minidisk cache hit ratios are high, or sufficient processor resources are available to handle increased path length. \u0002 Consider EDEVICEs when no ECKD DASD is available, minidisks are required, or large disks are necessary. For more information about the studies that led to these recommendations, see the following resources: \u0002 CP Disk I/O Performance \u0002 Linux Disk I/O Alternatives \u0002 SCSI Performance Disk storage for each Linux image This version of the Virtualization Cookbook now recommends two 3390-09 DASDs that are attached as \u201c01 to END\u201d full-pack minidisks at virtual address 0700 and 0701, which gives about 13.5 GB of space. You might choose to add another full pack 3390-9 DASD at address 0701, which doubles the disk space to 13.6 GB. We strongly recommend the layout of file systems for Linux virtual servers that is shown in Figure 2-2 and listed in Table 2-1 on page 46. Figure 2-2",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.767327",
+    "chunk_number": 155,
+    "word_count": 166
+  }
+}

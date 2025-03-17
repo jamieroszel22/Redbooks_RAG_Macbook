@@ -1,0 +1,18 @@
+{
+  "content": "are managed through a review and approval process, which ensures that they are properly vetted and authorized before being implemented. 4. Questionnaire Assessment - Questionnaires are a powerful tool for assessing risk and compliance, as well as collecting information for specific processes and asset risks. watsonx.governance streamlines, standardizes, and centralizes the collection of questionnaire-based assessment information, making it easier to gather insights from across the organization. With Questionnaire Assessment object, information from business users within the organization can be gathered. Respondents complete the questions and submit the finished questionnaire assessment, providing valuable insights into risk and compliance. 3.2.3 Workflows The implementation of AI governance requires structured workflows to manage the lifecycle, risk, and compliance of AI models and their associated use cases. This section outlines key workflows provided by watsonx.governance Model",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.883779",
+    "chunk_number": 116,
+    "word_count": 131
+  }
+}

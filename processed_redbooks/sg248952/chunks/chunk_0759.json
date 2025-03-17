@@ -1,0 +1,18 @@
+{
+  "content": "administers, controls, and reviews a business security policy. \u0002 Nonrepudiation - assures that the appropriate individual sent the message. Only cryptographic services can provide the data confidentiality and the identity authentication that is required to protect business commerce on the Internet14. Integrated Cryptographic Service Facility (ICSF) is a base component of z/OS. It is designed to transparently use the available cryptographic functions, whether CPACF or Crypto Express, to balance the workload and help address the bandwidth requirements of the applications. ICSF support for IBM z16 A02 and IBM z16 AGZ is provided with PTFs, not as previously was the case, through Web deliverables. Supported levels of ICSF automatically detect what HW cryptographic capabilities are available where it is running, then enables functions accordingly. No toleration of new HW is necessary, it is \u201cjust there\u201d. ICSF maintenance is necessary f you want to exploit new capabilities. Exploitation of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.192741",
+    "chunk_number": 759,
+    "word_count": 147
+  }
+}

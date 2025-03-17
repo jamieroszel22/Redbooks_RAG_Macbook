@@ -1,0 +1,18 @@
+{
+  "content": "with the chmod +x command and verify that it is in the root\u2019s path by using the which command: # chmod +x smaclient # which smaclient /usr/local/sbin/smaclient 5. Create the file /etc/smaclient.conf so that inter-user communication vehicle (IUCV) is used to communicate to SMAPI: # cd /etc # vi smaclient.conf smhost=\"IUCV\" 6. Build the smiucv binary with the following command. To build it, ensure that the GNU collection of compilers (gcc) is installed: # smaclient smiucv smiucv built as /usr/local/sbin/smiucv 340 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Ensure that /usr/local/sbin is included in PATH. If gcc is not installed, you might first need to run the command yum install gcc on RHEL, or zypper install gcc on SLES. 7. Test a SMAPI call by using smaclient. The argument Image_Query_DM in the following command calls the SMAPI that queries a user directory entry, in this example, LNXADMIN: # smaclient Image_Query_DM -T lnxadmin IDENTITY LNXADMIN LNX4VM 512M 4G BDEG 06130733",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.124255",
+    "chunk_number": 744,
+    "word_count": 159
+  }
+}

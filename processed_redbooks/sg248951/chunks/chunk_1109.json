@@ -1,0 +1,18 @@
+{
+  "content": "installing IBM zPCR 9.6.4. This step is necessary to facilitate conversion to the latest IBM Java 17 Semeru 64-bit runtime environment that is included with IBM zPCR. Number of available PUs in the configuration 1st Drawer configurable PUs 2nd Drawer configurable PUs 3rd Drawer configurable PUs 4th Drawer configurable PUs up to 191 PUs 48 48 47 48 192 or more PUs 51 51 47 51 Important: Please pay special attention to the colors assigned to the Logical CPs column and relate them to the \u201cwarnings\u201d and \u201cnotes\u201d at the bottom of the report. See \u201cPartition Detail Report warnings\u201d on page 494. 494 IBM z16 (3931) Technical Guide Figure 12-12 Partition Detail Report example (Max200)/700 with 196 CPs Partition Detail Report warnings IBM zPCR implemented a warning indicating that on IBM z13 and later, the best performance is achieved when the partition\u2019s logical CP count does not exceed the number of RCPs in a single drawer. Additionally, IBM zPCR version 9.6.4 implemented a new notice for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.310440",
+    "chunk_number": 1109,
+    "word_count": 166
+  }
+}

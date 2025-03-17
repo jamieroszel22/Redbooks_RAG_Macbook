@@ -1,0 +1,18 @@
+{
+  "content": "documentation, which limits clarity on the functionality of existing Drupal modules and creates barriers for local developers seeking to reuse available modules. 7.3.2 Client need Client seeks a solution that improves the website development process by: \u0002 Enhancing technical documentation. \u0002 Simplifying module discovery and reuse. 82 Ensuring Trustworthy AI with IBM watsonx.governance \u0002 Supporting local developers with efficient tools and governance mechanisms. 7.3.3 Client challenges The following challenges need to be addressed: \u0002 Lack of clear, comprehensive technical documentation for existing Drupal modules. \u0002 Inefficiencies in reusing modules across local teams due to limited information. \u0002 Fragmented governance, making it difficult to maintain consistency and compliance across websites. 7.3.4 Business benefits Several key benefits are: \u2013 Streamlined documentation creation and maintenance with AI-driven tools. \u2013 Improved developer productivity through better access to reusable",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.238206",
+    "chunk_number": 212,
+    "word_count": 134
+  }
+}

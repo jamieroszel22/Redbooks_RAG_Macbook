@@ -1,0 +1,18 @@
+{
+  "content": "Functions Support IBM z16 provides the following major groups of cryptographic functions: \u0002 Synchronous cryptographic functions, which are provided by CPACF \u0002 Asynchronous cryptographic functions, which are provided by the Crypto Express8S feature The minimum software support levels are described in the following sections. Review the current PSP buckets to ensure that the latest support levels are known and included as part of the implementation plan. CP Assist for Cryptographic Function Central Processor Assist for Cryptographic Function (CPACF), which is standard12 on every IBM z16 core, now supports pervasive encryption. Simple policy controls allow business to enable encryption to protect data in mission-critical databases without stopping the database or re-creating database objects. Database administrators can use z/OS Dataset Encryption, z/OS Coupling Facility Encryption, z/VM encrypted hypervisor paging, and z/TPF transparent database encryption, which use the performance",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.159867",
+    "chunk_number": 751,
+    "word_count": 136
+  }
+}

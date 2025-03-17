@@ -1,0 +1,18 @@
+{
+  "content": "simplification and efficiency. It reduces the number of information units (IUs) that are processed. Enhancements were made to the z/Architecture and the FICON interface architecture to provide optimizations for online transaction processing (OLTP) workloads. zHPF is available on the following servers: \u0002 IBM z16 \u0002 IBM z15 \u0002 IBM z14 \u0002 IBM z13 \u0002 IBM z13s\u00ae \u0002 IBM zEC12 \u0002 IBM zBC12 As of this writing, the FICON Express32S, FICON Express16SA, and FICON Express16S+(CHPID type FC) support the FICON protocol and the zHPF protocol in the server LIC. When used by the FICON channel, the z/OS operating system, and the DS8000 control unit or other subsystems, the FICON channel processor usage can be reduced and performance improved. Suitable levels of Licensed Internal Code (LIC) are required. Also, the changes to the architectures provide end-to-end system enhancements to improve reliability, availability, and serviceability (RAS). zHPF is compatible with the following standards: \u0002 Fibre Channel",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.948004",
+    "chunk_number": 691,
+    "word_count": 153
+  }
+}

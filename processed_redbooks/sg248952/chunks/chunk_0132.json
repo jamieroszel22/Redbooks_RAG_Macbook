@@ -1,0 +1,18 @@
+{
+  "content": "Modules that plug outside of the memory DIMMs, N+2 \u2013 Two Processor Power Control cards (PPC) that contain the ambient temperature sensor and PU temperature change monitoring. \u0002 One SMP9 connector (dual CPC drawer) that provides for CPC drawer to CPC drawer communication. The front view of the CPC drawer, which includes the 80mm CPC cooling fans, BMC/OSC and Processor Power Control Cards (PPC), is shown in Figure 2-6 on page 31. Chapter 2. Central processor complex hardware components 31 Figure 2-6 Front view of the CPC drawer The rear view of a fully populated CPC Drawer is shown in Figure 2-7. Dual port I/O fanouts and ICA SR adapters are plugged in specific slots for best performance and availability. Redundant power supplies and the SMP9 ports also are shown (only the center two SMP9 ports are used for the IBM z16 A02 and IBM z16 AGZ for dual CPC configurations). The pair of SMP9 ports are redundant. In the event of a single cable failure, the repair can be performed concurrently.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.686381",
+    "chunk_number": 132,
+    "word_count": 172
+  }
+}

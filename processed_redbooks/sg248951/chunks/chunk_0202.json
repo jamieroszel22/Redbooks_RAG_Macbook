@@ -1,0 +1,18 @@
+{
+  "content": "Max200. 72 IBM z16 (3931) Technical Guide Figure 3-1 shows the new IBM Telum processor. Figure 3-1 IBM Telum processor The new IBM z16 Dual Chip Module (DCM) is shown in Figure 3-2. Figure 3-2 IBM z16 Dual Chip Module Concurrent maintenance allows dynamic central processing complex (CPAC) drawer add and repair.2 IBM z16 processors use 7 nm extreme ultraviolet (EUV) lithography chip technology with advanced low latency pipeline design, which creates high-speed yet power-efficient circuit designs. The PU DCM has a dense packaging, which allows closed water loop cooling. The heat from the closed loop is dissipated into the air by a radiator unit (RU). 2 For configurations with two or more CPC drawers installed. Chapter 3. Central processor complex design 73 The external water-cooling option is no longer available on the IBM z16. For more information, see 2.9, \u201cPower and cooling\u201d on page 59. 3.3.1 Cache levels and memory structure The IBM z16 includes a new optimized memory subsystem",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.988582",
+    "chunk_number": 202,
+    "word_count": 161
+  }
+}

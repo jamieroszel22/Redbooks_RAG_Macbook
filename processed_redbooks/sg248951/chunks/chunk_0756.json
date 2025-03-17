@@ -1,0 +1,18 @@
+{
+  "content": "the identity authentication that is required to protect business commerce on the internet13. Integrated Cryptographic Service Facility (ICSF) is a base component of z/OS. It is designed to transparently use the available cryptographic functions (whether CPACF or Crypto Express) to balance the workload and help address the bandwidth requirements of the applications. ICSF support for IBM z16 is provided with PTFs, not as previously was the case, through Web deliverables. Supported levels of ICSF automatically detect what hardware cryptographic capabilities are available where it is running. Then, it enables functions accordingly. No toleration of new hardware is necessary because it is \u201cjust there\u201d. ICSF maintenance is necessary if you want to use new capabilities. Use of new functions is supplied in ICSF PTFs on z/OS V2.R2-V2.R4 (Web deliverable HCR77D1) or V2.R5 (base, which is HCR77D2). New function exploitation includes: \u0002 CCA and EP11 CEX8 Coprocessor support \u0002 CCA and EP11 Quantum",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.177871",
+    "chunk_number": 756,
+    "word_count": 151
+  }
+}

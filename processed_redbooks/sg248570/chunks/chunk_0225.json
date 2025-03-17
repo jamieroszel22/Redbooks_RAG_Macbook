@@ -1,0 +1,18 @@
+{
+  "content": "Storage configuration details, which include Bucket name, Region, Endpoint, Access key, and Secret key, as shown in Figure 8-14. Figure 8-14 Storage configuration 110 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 4. Then, they create a catalog and associate it to the IBM Cloud Object Storage component, and then click Create, as shown in Figure 8-15. Figure 8-15 Associated catalog - Create The new storage component and the new catalog take a few minutes to provision. Once provisioned, the data engineer can see them in the Infrastructure manager view, as shown in Figure 8-16 on page 111. Chapter 8. Marketing campaign analysis use case 111 Figure 8-16 Infrastructure manager with new storage component and catalog created 8.2.4 Connecting query engines to catalog and storage in IBM watsonx.data After the IBM Cloud Object Storage instance is configured in IBM watsonx.data and the new catalog is created, the data engineer connects these objects to the query",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.206870",
+    "chunk_number": 225,
+    "word_count": 158
+  }
+}

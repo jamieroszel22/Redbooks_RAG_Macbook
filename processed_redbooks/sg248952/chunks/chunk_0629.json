@@ -1,0 +1,18 @@
+{
+  "content": "CHPID type Functiona VSEn V6R3 z/TPF V1R1 Linux on IBM Zb Chapter 7. Operating system support 259 7.3.5 Cryptographic functions The IBM z16 A02 and IBM z16 AGZ supported cryptography functions for z/OS and z/VM are listed in Table 7-10. Table 7-10 Supported cryptography functions for z/OS and z/VM Note: z/OS V2R2 support has ended as of September 2020. No new function is provided for exploiting the new HW features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document. Functiona z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3 z/VM V7R2 CP Assist for Cryptographic Function (CPACF) Y Y Y Yb Yb Support for 40 Domains Y Y Y Yb Yb CPACF support for: \u0002 Encryption (DES, TDES, AES) \u0002 Hashing (SHA-1, SHA-2, SHA-3, SHAKE) \u0002 Random Number Generation (PRNG, DRNG, TRNG) Y Y Y Yb Yb Crypto Express8S Y Y Y Yb Yb Crypto Express7S Y Y Y Yb Yb Crypto Express7S Support for Visa Format Preserving",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.714247",
+    "chunk_number": 629,
+    "word_count": 172
+  }
+}

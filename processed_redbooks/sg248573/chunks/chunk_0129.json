@@ -1,0 +1,18 @@
+{
+  "content": "robustness Foundation models can be vulnerable to various security risks, including: \u0002 Data poisoning: Attackers can manipulate training data to compromise model performance or inject malicious behavior. \u0002 Model stealing (or extraction): Attackers can steal the model itself or its weights, allowing them to use it for malicious purposes or create competing products. \u0002 Adversarial attacks: Attackers craft specific input data (adversarial examples) designed to mislead the model, causing incorrect or malicious outputs. This includes techniques like prompt injection, where carefully crafted prompts can manipulate the model's behavior. Red teaming (IBM, n.d.) is crucial for data scientists to identify model vulnerabilities. This involves ethical hackers attempting to elicit unintended and potentially harmful behavior from the model, such as generating undesirable content through adversarial attacks and prompt injection. Data scientists responsible for onboarding foundation models should",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.929823",
+    "chunk_number": 129,
+    "word_count": 135
+  }
+}

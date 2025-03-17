@@ -1,0 +1,18 @@
+{
+  "content": "This hierarchical structure enables organizations to effectively manage and comply with complex regulatory requirements. 2. Requirement - Requirements represent specific obligations that an organization must fulfill to comply with related mandates or sub-mandates. These requirements are detailed in the requirement object, which provides a clear understanding of what the organization needs to do to meet regulatory obligations. By detailing these requirements, organizations can ensure they are meeting their regulatory obligations and maintaining compliance. 3. Policy - Policies represent internal guidelines adopted by an organization's Board of Directors or senior governance body. These guidelines are designed to provide direction and oversight for the organization's operations and decision-making processes. The Policy object is used to store and manage policy information, including the policy text, which can be stored in standardized fields or as an attachment to the object. Policies",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.883540",
+    "chunk_number": 115,
+    "word_count": 137
+  }
+}

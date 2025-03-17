@@ -1,0 +1,18 @@
+{
+  "content": "Query the time when a virtual image was activated. Consider the following points when SMAPI is used: \u0002 VSMGUARD must always be used to start SMAPI, regardless of whether the system is running in a Unified Resource Manager environment. \u0002 A Directory Manager license is not required. If a Directory Manager is not purchased and installed, a \"SMAPI USE ONLY\" instance of DirMaint is installed and configured. \u0002 A Performance Toolkit license is not required. SMAPI installs and configures a \"SMAPI USE ONLY\" instance of the Performance Toolkit to obtain performance data for use in provided SMAPI APIs. 10.5.1 Who needs SMAPI SMAPI is ideal for the following user types: \u0002 Cloud solutions, such as IBM Cloud Infrastructure Center, IBM Wave, and IBM Cloud Connector \u0002 Any Business Partner or customer who wants to provide alternative methods or access to z/VM SMAPI functions \u0002 Primarily for those that are running a IBM Z, but without IBM Z z/VM skills, which mostly are customers that are running Linux",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.004853",
+    "chunk_number": 712,
+    "word_count": 167
+  }
+}

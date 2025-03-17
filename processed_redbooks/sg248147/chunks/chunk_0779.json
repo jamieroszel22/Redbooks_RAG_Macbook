@@ -1,0 +1,18 @@
+{
+  "content": "request for LINUX2 at * has completed; with RC = 0. After you dedicate a real HyperPAV alias to a single virtual machine, this specific alias device cannot be shared within this z/VM instance anymore. Using shared HyperPAV for minidisks The following example defines a full-pack minidisk at virtual device 102 and six virtual HyperPAV aliases at virtual devices 1FA-1FF: USER LINUX3 LNX4VM 768M 1G G INCLUDE LNXPDFLT COMMAND DEFINE HYPERPAVALIAS 1FA FOR BASE 102 COMMAND DEFINE HYPERPAVALIAS 1FB FOR BASE 102 COMMAND DEFINE HYPERPAVALIAS 1FC FOR BASE 102 COMMAND DEFINE HYPERPAVALIAS 1FD FOR BASE 102 COMMAND DEFINE HYPERPAVALIAS 1FE FOR BASE 102 COMMAND DEFINE HYPERPAVALIAS 1FF FOR BASE 102 OPTION APPLMON MDISK 0100 3390 0001 5008 JM1268 MR LNX4VM LNX4VM LNX4VM MDISK 0101 3390 5009 5008 JM1268 MR LNX4VM LNX4VM LNX4VM MDISK 0102 3390 DEVNO 1368 MR LNX4VM LNX4VM LNX4VM When the virtual machine is logged on, the disks are defined: ... 00: NIC 0AD0 is created; devices 0AD0-0AD2 defined 00: NIC",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.247369",
+    "chunk_number": 779,
+    "word_count": 163
+  }
+}

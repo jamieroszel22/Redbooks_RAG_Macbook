@@ -1,0 +1,18 @@
+{
+  "content": "only) \u0002 Cryptographic features: \u2013 Crypto Express8S, one or two HSMs6 (new build only) \u2013 Crypto Express7S, 1- or 2-port7 (carry forward only) \u2013 Crypto Express6S (carry forward only) \u0002 Clustering connectivity8: \u2013 ICA SR1.1 (new build or carry forward) \u2013 ICA SR (carry forward only) \u2013 Coupling Express2 Long Reach (new build only) 1.2.9 Special-purpose features and functions When it comes to designing and developing the IBM Z platform, IBM takes a total systems view. The IBM Z stack is built around digital services, agile application development, connectivity, and system management. This design approach creates an integrated, diverse platform with specialized hardware and dedicated computing capabilities. The IBM z16 delivers a range of features and functions that allows PUs to concentrate on computational tasks, while distinct, specialized features take care of the rest. For more information about these features and other IBM z16 features, see in 3.5, \u201cProcessor unit functions\u201d on page",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.494177",
+    "chunk_number": 94,
+    "word_count": 153
+  }
+}

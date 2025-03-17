@@ -1,0 +1,18 @@
+{
+  "content": "responsibility to provide rack and power that meet the z16 specifications for size, service clearance, and power needs per the planning tool instructions in the IBM z16 and LinuxONE Rockhopper 4 Rack Mount Bundle Installation Manual for Physical Planning (IMPP), GC28-7035. required to install an IBM z16 AGZ rack mount system. Also, Chapter 11, \u201cEnvironmentals\u201d on page 439, for power and environmental requirements. Chapter 1. Introduction and overview 13 \u2013 A minimum of 64 GB and a maximum of 8 TB per CPC drawer for a total of 16 TB per system (excluding 160 GB HSA) is available for client use. \u2013 Eight Channel RAIM (eight equal size DIMMs per channel, DIMM sizes include RAIM overhead) \u2013 Eight DIMMs of equal size in each memory feature \u2013 Two, four, five, or six features (up to 48 DIMMs) are plugged in each drawer \u2013 Features of different DIMMs sizes can be mixed in the same drawer \u0002 Fanouts: Each CPC drawer provides up to 12 PCIe Gen4 fanout slots to accommodate PCIe+ Gen3 I/O fanouts (to",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.488512",
+    "chunk_number": 91,
+    "word_count": 175
+  }
+}

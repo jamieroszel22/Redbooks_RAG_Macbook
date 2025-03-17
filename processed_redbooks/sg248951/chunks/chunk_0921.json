@@ -1,0 +1,18 @@
+{
+  "content": "FC-FS-3 is more efficient than the current 8b/10b encoding. FICON Express32S channels that are running at 32 Gbps can take advantage of FEC capabilities when connected to devices that support FEC. FEC allows FICON Express32S channels to operate at higher speeds, over longer distances, with reduced power and higher throughput. They also retain the same reliability and robustness for which FICON channels are traditionally known. FEC is a technique that is used for controlling errors in data transmission over unreliable or noisy communication channels. When running at 32 Gbps link speeds, customers often see fewer I/O errors, which reduces the potential effect to production workloads from those I/O errors. Read Diagnostic Parameters (RDP) improve Fault Isolation. After a link error is detected (for example, IFCC, CC3, reset event, or a link incident report), link data that is returned from Read Diagnostic Parameters is used to differentiate between errors that result from failures in the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.713196",
+    "chunk_number": 921,
+    "word_count": 154
+  }
+}

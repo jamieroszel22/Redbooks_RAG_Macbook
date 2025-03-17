@@ -1,0 +1,18 @@
+{
+  "content": "and no indication exists that SHA-2 is vulnerable or that SHA-3 is more or less vulnerable than SHA-2. Chapter 6. Cryptographic features 219 The three modes for Crypto Express features are described next. For more information, see 6.7, \u201cCryptographic functions comparison\u201d on page 233. 6.5.2 Crypto Express8S as a CCA coprocessor A Crypto Express8S adapter that is running in CCA mode supports IBM CCA. CCA is an architecture and a set of APIs. It provides cryptographic algorithms, secure key management, and many special functions that are required for banking. Over 129 APIs with more than 600 options are provided, with new functions and algorithms always being added. The IBM CCA provides functions for the following tasks: \u0002 Encryption of data (DES/TDES/AES) \u0002 Key management: \u2013 Using TDES or AES keys \u2013 Using RSA or Elliptic Curve keys \u0002 Message authentication for MAC/HMAC/AES-CMAC \u0002 Key generation \u0002 Digital signatures \u0002 Random number generation \u0002 Hashing (SHA, MD5, and others) \u0002 ATM PIN",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.325481",
+    "chunk_number": 542,
+    "word_count": 161
+  }
+}

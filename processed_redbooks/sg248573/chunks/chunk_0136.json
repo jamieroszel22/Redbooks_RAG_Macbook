@@ -1,0 +1,18 @@
+{
+  "content": "provider use customer data to further train or refine its models? If so, what mechanisms are in place to allow customers to opt out of such usage? Transparency and control over data usage are paramount. \u0002 Fine-Tuned Model Ownership: If the model provider offers fine-tuning services, who retains ownership of the intellectual property rights in the resulting fine-tuned model: the provider or the customer? This needs to be clearly defined in contractual agreements. These points should be carefully reviewed to ensure compliance with intellectual property law and protect the interests of all parties involved. More on this will be covered in section \u201cLegal indemnification\u201d on page 46. Local and national law implications AI legislation has advanced at different rates throughout the world. The only thing that is common across all government bodies is that they are all putting forth some effort to regulate AI usage. It is not in the scope of this book (and would be challenging) to document all",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.959005",
+    "chunk_number": 136,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "technologies are used. The High Level Assembler supports the Extended Translation Facility instructions. 3.4.15 Instruction set extensions Thirty new instructions were added to the IBM z16 processor. The following new IBM z16 mnemonics were added to the IBM Z/Architecture: \u0002 LBEAR, LFI, LLGFI, and LPSWEY \u0002 NNPA \u0002 QPACI \u0002 RDP \u0002 SLLHH, SLLHL, SLLLH, SRLHH, SRLHL, SRLLH, and STBEAR \u0002 VCFN, VCLFNH, VCLFNL, VCLZDP, VCNF, VCRNF, VCSPH, VPKZR, VSCHDP, VSCHP, VSCHSP, VSCHXP, VSCSHP, VSRPR, VUPKZH, and VUPKZL A new procedure is available to run against customer macros in assembler libraries to verify that no conflicts exist between some older IBM Macro names and new IBM z16 (M/T 3931) hardware instruction mnemonics. 3.4.16 Transactional Execution The Transactional Execution (TX) capability, which is known in the industry as hardware transactional memory, runs a group of instructions atomically; that is, all of their results are committed or no result is committed. The execution is optimistic.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.160431",
+    "chunk_number": 248,
+    "word_count": 153
+  }
+}

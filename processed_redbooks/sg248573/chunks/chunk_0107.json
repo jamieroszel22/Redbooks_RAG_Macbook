@@ -1,0 +1,18 @@
+{
+  "content": "or quarterly basis, serving as a way to verify the completeness and accuracy of a model's information, as well as the overall model inventory. 5. Model Output - For organizations seeking a more detailed approach to model documentation, the model output object offers a solution. This object enables the recording of a model's outputs, with a focus on capturing the description and overview of each output from a governance perspective. By utilizing the model output object, organizations can maintain a more granular and comprehensive record of their models' outputs. 34 Ensuring Trustworthy AI with IBM watsonx.governance 6. Model Input - For organizations seeking a more detailed approach to model documentation, the Model Input object provides a means to capture and record the inputs of a model. The object includes key fields such as: \u2013 Input Owner: The individual or team responsible for the input \u2013 Type: The classification of the input \u2013 Status: The current state of the input \u2013 Description:",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.856143",
+    "chunk_number": 107,
+    "word_count": 161
+  }
+}

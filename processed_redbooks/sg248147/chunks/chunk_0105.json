@@ -1,0 +1,18 @@
+{
+  "content": "z/VM Version 7.1, which debuted September 2018. Consider the following points: \u0002 With the adoption of the z/VM Continuous Delivery model, IBM offers z/VM V7 customers timely introduction of new functions in the service stream and a two-year release delivery model that helps customers predictably manage the lifecycle of their z/VM systems. \u0002 To support continuous deployment of the new z/VM functions, z/VM V7.1 includes the Single System Image (VMSSI) function as part of the z/VM V7.1 base at no extra cost. The following enhancements that were delivered in Version 7 Release 1 are significant: \u0002 New z/VM function, as Small Programming Enhancements (SPEs), are delivered in the service stream of the current Version 7 release. When a new release is introduced, SPEs are delivered on that release that goes forward and, with a few exceptions, the earlier release delivers corrective service only and no new function. When z/VM V7.1 becomes available, licensed users of z/VM V6.4 receive only",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.551512",
+    "chunk_number": 105,
+    "word_count": 159
+  }
+}

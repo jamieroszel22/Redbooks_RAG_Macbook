@@ -1,0 +1,18 @@
+{
+  "content": "distance, and bit rate for IBM z16. The features that are hosted in the PCIe drawer for Cryptography also are listed. For all optical links, the connector type is LC Duplex (except for the zHyperLink) and the ICA SR connections, which are established with multi-fiber push-on (MPO) connectors. The MPO connector of the zHyperLink and the ICA connection feature two rows of 12 fibers and are interchangeable. The electrical Ethernet cable for the Open Systems Adapter (OSA) connectivity is connected through an RJ45 jack. The attributes of the channel options that are supported on IBM z16 are listed in Table A-1. Table A-1 IBM z16 channel feature support A Channel feature Feature codes Bit ratea in Gbps (or stated) Cable type Maximum unrepeated distanceb Ordering information zHyperLink and Fiber Connection (FICON) zHyperlink Express1.1 0451 8 GBps OM4, OM3 See Table A-2 on page 501 New build, Carry forward zHyperlink Express 0431 Carry forward FICON Express32S LX 0461 8, 16, or 32 SM 9 \u00b5m 5",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.321807",
+    "chunk_number": 1113,
+    "word_count": 165
+  }
+}

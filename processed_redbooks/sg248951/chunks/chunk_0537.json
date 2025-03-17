@@ -1,0 +1,18 @@
+{
+  "content": "\u0002 Random number generator: \u2013 PRNG (3DES based) \u2013 DRNG (NIST SP-800-90A SHA-512 based) \u2013 TRNG (true random number generator It provides high-performance hardware encryption, decryption, hashing, and random number generation support. The following instructions support the cryptographic assist function: \u0002 KMAC: Compute Message Authentic Code \u0002 KM: Cipher Message \u0002 KMC: Cipher Message with Chaining \u0002 KMF: Cipher Message with CFB \u0002 KMCTR: Cipher Message with Counter \u0002 KMO: Cipher Message with OFB Chapter 6. Cryptographic features 221 \u0002 KIMD: Compute Intermediate Message Digest \u0002 KLMD: Compute Last Message Digest \u0002 PCKMO: Provide Cryptographic Key Management Operation These functions are provided as problem-state z/Architecture instructions that are directly available to application programs. These instructions are known as Message-Security Assist (MSA). When enabled, the CPACF runs at processor speed for every CP, IFL, and zIIP. For more information about MSA instructions, see",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.315538",
+    "chunk_number": 537,
+    "word_count": 142
+  }
+}

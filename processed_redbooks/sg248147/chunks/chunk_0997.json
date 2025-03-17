@@ -1,0 +1,18 @@
+{
+  "content": "SOMEUSER DIRECT A DIRMAINT FOR SOMEUSER REPLACE 482 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Blank planning worksheet This section contains a blank copy of the planning worksheet that is used in section 2.1.2, \u201cIBM Dynamic Partition Manager\u201d on page 36. This worksheet is included for your convenience. Hopefully, it is organized in the order that you will need the data. It is recommended that you specify all of the applicable values in the worksheet to simplify and expedite your installation process. IBM Shop Z If you are ordering z/VM by using Shop Z, as described in section 5.1, \u201cObtaining z/VM through electronic download\u201d on page 98, use Table B-2 to record the values that you will use. Shop Z home page: http://www.ibm.com/software/shopzseries Table B-2 Shop Z data Important: Consider the following points: \u0002 While you are editing a directory entry that you received by using the DIRMAINT FOR ... GET command, the last line of the file contains internal data that is used by",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.959003",
+    "chunk_number": 997,
+    "word_count": 165
+  }
+}

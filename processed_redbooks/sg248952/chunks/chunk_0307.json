@@ -1,0 +1,18 @@
+{
+  "content": "whether something in this category must use large pages as a result of the system-level costs of tying up real storage. A balance exists between the performance of a process that uses large pages and the performance of the remaining work on the system. On IBM z16 A02 and IBM z16 AGZ, 1 MB large pages become pageable if Virtual Flash Memory19 is available and enabled. They are available only for 64-bit virtual private storage, such as virtual memory that is above 2 GB. It is easy to assume that increasing the TLB size is a feasible option to deal with TLB-miss situations. However, this process is not as simple as it seems. As the size of the TLB increases, so does the processor usage that is involved in managing the TLB\u2019s contents. Correct sizing of the TLB is subject to complex statistical modeling to find the optimal trade-off between size and performance. Memory Encryption Together with the new memory RAIM design the usage of memory encryption is implemented in the IBM z16 A02 and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.420002",
+    "chunk_number": 307,
+    "word_count": 175
+  }
+}

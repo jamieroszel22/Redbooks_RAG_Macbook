@@ -1,0 +1,18 @@
+{
+  "content": "characterization type grouped as much as possible in relation to PU chips and CPC drawer boundaries to optimize shared cache usage. The PU assignment is based on CPC drawer plug order (not \u201cordering\u201d). Feature upgrade provides additional dual-chip modules (e.g. Max16 to Max32) or a fully populated CPC drawer (e.g. Max32 to Max68). The CPC drawers are populated from the bottom up. This process defines following the low-order and the high-order CPC drawers: \u0002 CPC drawer 1 (CPC 0 at position A10)15: Plug order 1 (low-order CPC drawer) \u0002 CPC drawer 2 (CPC 1 at position A15)15: Plug order 2 The assignment rules comply with the following order: \u0002 Spare: CPC drawers 0 and 1 are assigned one spare each on the high PU chip. In the features Max5, Max16, and Max32, both spares are assigned to CPC drawer 0. \u0002 IFP: Two IFP\u2019s are assigned to CPC drawer 0. \u0002 SAPs: Spread across CPC drawers and high PU chips. Each CPC drawer includes at least five standard SAPs. Start with the highest PU chip high",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.366317",
+    "chunk_number": 293,
+    "word_count": 176
+  }
+}

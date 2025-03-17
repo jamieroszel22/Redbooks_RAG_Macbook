@@ -1,0 +1,18 @@
+{
+  "content": "offering memory increments 2.5.1 Memory subsystem topology The IBM z16 A02 and IBM z16 AGZ memory subsystem use high-speed, differential-ended communications memory channels to link a host memory to the main memory storage devices. The CPC drawer memory topology of an IBM z168 is shown in Figure 2-18. Figure 2-18 CPC drawer memory topology at maximum configuration Consider the following points regarding the topology: Memory increment (GB) Offered memory sizes (GB) 8 64 - 96 32 128 - 544 64 608 - 736 128 864 - 2144 256 2400 - 3936 512 4448 - 16224 8 Same memory topology is used in the IBM z16 A02 and IBM z16 AGZ. Chapter 2. Central processor complex hardware components 45 \u0002 Six memory controllers per drawer, one per PU chip \u0002 Each memory controller supports 8 DIMM slots \u0002 Two, four, five or six memory controllers per drawer will be populated (16, 32, 40, 48 DIMMs) \u0002 Different memory controllers may have different size DIMMs \u0002 Features with different DIMMs sizes can be mixed in the same",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.773380",
+    "chunk_number": 152,
+    "word_count": 175
+  }
+}

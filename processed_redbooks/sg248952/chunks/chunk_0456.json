@@ -1,0 +1,18 @@
+{
+  "content": "available fanout slots of the IBM z16 A02 and IBM z16 AGZ CPC drawers. The ICA SR fanout features provide short-distance connectivity to another IBM z16 A01, IBM z16 A02, IBM z16 AGZ, IBM z15, or IBM z14. The CE LR adapter provides long-distance connectivity to IBM z16 A01, IBM z16 A02, IBM z16 AGZ, IBM z15, or IBM z14. The IBM z16 A02 and IBM z16 AGZ fanout slots in the CPC drawer provide coupling link connectivity through the ICA SR fanout cards. In addition to coupling links for Parallel Sysplex, the fanout cards provide connectivity for the PCIe+ I/O drawer (PCIe+ Gen3 fanout). Up to 12 PCIe fanout cards can be installed in an IBM z16 A02 and IBM z16 AGZ CPC drawer. To migrate from an older generation machine to an IBM z16 A02 or IBM z16 AGZ without disruption in a Parallel Sysplex environment requires that the older machines are no more than n-2 generation (namely, at least IBM z14) and that they carry enough coupling links to connect to the existing systems while also connecting",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.993194",
+    "chunk_number": 456,
+    "word_count": 180
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Guide \u0002 Concurrently backing up to the previous driver level is not possible. The driver level must move forward to driver level N+1 after CDM is started. Unrecoverable errors during an update might require a scheduled outage to recover. The CDM function does not eliminate the need for planned outages for driver-level upgrades. Upgrades might require a system level or a functional element scheduled outage to activate the new LIC. The following circumstances require a scheduled outage: \u0002 Specific complex code changes might dictate a disruptive driver upgrade. You are alerted in advance so that you can plan for the following changes: \u2013 Design data or hardware initialization data fixes \u2013 CFCC release level change \u0002 OSA CHPID code changes might require PCHID Vary OFF/ON to activate new code. \u0002 Crypto code changes might require PCHID Vary OFF/ON to activate new code. 9.9.1 Resource Group and native PCIe features MCLs Microcode fixes, referred to as individual MCLs or packaged in Bundles,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.828489",
+    "chunk_number": 948,
+    "word_count": 161
+  }
+}

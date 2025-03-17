@@ -1,0 +1,18 @@
+{
+  "content": "Service Container\u201d on page 135 3 72 IBM z16 A02 and IBM z16 AGZ Technical Guide 3.1 Overview The IBM z16 A02 and IBM z16 AGZ symmetric multiprocessor (SMP) system is the next step in an evolutionary journey that began with the introduction of the IBM System/360 in 1964. Over time, the design was adapted to the changing requirements that were dictated by the shift toward new types of applications on which clients depend. IBM Z offer high levels of reliability, availability, serviceability (RAS), resilience, and security. The IBM z16 A02 and IBM z16 AGZ fits into the IBM strategy in which mainframes play a central role in creating an infrastructure for cloud, artificial intelligence, and analytics, which is underpinned by security. The IBM z16 A02 and IBM z16 AGZ ares designed so that everything around it, such as operating systems, middleware, storage, security, and network technologies that support open standards, helps you achieve your business goals. The IBM z16 A02 and IBM z16 AGZ",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.979229",
+    "chunk_number": 201,
+    "word_count": 165
+  }
+}

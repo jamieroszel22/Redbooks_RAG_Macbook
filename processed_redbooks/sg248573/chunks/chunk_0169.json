@@ -1,0 +1,18 @@
+{
+  "content": "the AI lifecycle, the model asset is live and consumed by users. Model monitoring and asset lineage become central at this stage. The IBM watsonx.governance platform provides tools for monitoring critical asset metrics such as drift, fairness, and bias. Before diving into implementation, the next section will briefly review the different kinds of metrics that can be utilized during lifecycle governance with watsonx.governance. 6.2 Metrics in watsonx.governance The metrics in this section are by no means exhaustive and watsonx.governance is capable of implementing custom monitors and metrics based on user needs. The ability to add custom monitors and metrics sets watsonx.governance apart from its competitors in the market. This section gives an overview to some of the most common and important kinds of metrics that can be applied to assets for effective lifecycle monitoring. 6.2.1 Drift detection Users can configure Drift v2 evaluations in watsonx.governance to measure changes in their",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.078740",
+    "chunk_number": 169,
+    "word_count": 150
+  }
+}

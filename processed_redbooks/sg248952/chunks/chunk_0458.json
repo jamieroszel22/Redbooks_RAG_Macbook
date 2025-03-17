@@ -1,0 +1,18 @@
+{
+  "content": "stringent synchronization requirements than servers that exchange messages over long distance (CE2 LR links), with distances up to 100 kilometers (62 miles)16. This advantage is an enhancement over the IBM Sysplex Timer implementation, which does not scale with distance. \u0002 Coupling links also provide the connectivity that is necessary in a Parallel Sysplex. Therefore, a potential benefit can be realized of minimizing the number of cross-site links that is required in a multi-site Parallel Sysplex. Between any two servers that are intended to exchange STP messages, configure each server so that at least two coupling links exist for communication between the servers. This configuration prevents the loss of one link from causing the loss of STP communication between the servers. If a server does not have a CF LPAR, timing-only links can be used to provide STP connectivity. 16 10 km (6.2 miles) without DWDM externders, 100 km (62 miles) with certified DWDM equipment. 182 IBM z16 A02 and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.000607",
+    "chunk_number": 458,
+    "word_count": 159
+  }
+}

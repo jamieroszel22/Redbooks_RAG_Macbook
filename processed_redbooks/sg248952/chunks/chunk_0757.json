@@ -1,0 +1,18 @@
+{
+  "content": "140-2 level 4 \u0002 Common Criteria EP11 EAL4 \u0002 Payment Card Industry (PCI) HSM \u0002 German Banking Industry Commission (GBIC, formerly DK) 13 CPACF hardware is implemented on each IBM z15 core. CPACF functionality is enabled with FC 3863. Chapter 7. Operating system support 305 The supported operating systems are listed in Table 7-10 on page 259 and Table 7-11 on page 260. Crypto Express6S (carry forward on IBM z16 A02 and IBM z16 AGZ) Introduced with IBM z14, Crypto Express6S includes one IBM 4768 PCIe Cryptographic Co-processor (PCIeCC) and complies with the following Physical Security Standards: \u0002 FIPS 140-2 level 4 \u0002 Common Criteria EP11 EAL4 \u0002 Payment Card Industry (PCI) HSM \u0002 German Banking Industry Commission (GBIC, formerly DK) The supported operating systems are listed in Table 7-10 on page 259 and Table 7-11 on page 260. Web deliverables For more information about web-deliverable code on z/OS, see the z/OS downloads website. For Linux on IBM Z, support is delivered through IBM and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.188999",
+    "chunk_number": 757,
+    "word_count": 165
+  }
+}

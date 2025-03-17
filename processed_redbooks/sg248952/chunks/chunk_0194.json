@@ -1,0 +1,18 @@
+{
+  "content": "power cords that are required depends on the system configuration. iPDUs are installed in pairs. A system can have two or four iPDUs, depending on the configuration. Consider the following points: \u0002 Paired iPDUs are A1/A2 and A3/A4. \u0002 From the rear of the system, the odd-numbered PDUs are on the left side of the rack, and the even-numbered iPDUs are on the right side of the rack. \u0002 The total loss of one iPDU in a pair has no effect on the system operation. Components that plug into the PDUs for redundancy (using two power cords) include the following features: \u0002 CPC Drawers, PCIe+ I/O drawers, Radiators, and Support Elements \u0002 The redundancy for each component is achieved by plugging the power cables into the paired iPDUs. For example, the top Support Element (1), has one power supply plugged into iPDU A1 and the second power supply plugged into the paired iPDU A2 for redundancy. 2.9.2 Power considerations - IBM z16 AGZ The IBM z16 AGZ Power Distribution Units (PDUs) are supplied by",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.949701",
+    "chunk_number": 194,
+    "word_count": 174
+  }
+}

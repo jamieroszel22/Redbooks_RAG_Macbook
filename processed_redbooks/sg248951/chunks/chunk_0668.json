@@ -1,0 +1,18 @@
+{
+  "content": "servers against stack-overflow or similar attacks. Through enhanced hardware features (based on DAT table entry bit) and specific software requests to obtain memory areas as nonexecutable, areas of memory can be protected from unauthorized execution. A Protection Exception occurs if an attempt is made to fetch an instruction from an address in such an element or if an address in such an element is the target of an execute-type instruction. z/OS To use IEP, Real Storage Manager (RSM) is enhanced to request nonexecutable memory allocation. Use new keyword EXECUTABLE=YES|NO on STORAGE OBTAIN or IARV64 to indicate whether memory that is to be used contains executable code. Recovery Termination Manager (RTM) writes LOGREC record of any program-check that results from IEP. IEP support is for z/OS V2.R2 and later running on IBM z16 with APARs OA51030 and OA51643 installed. z/VM Guest exploitation support for the Instruction Execution Protection Facility is provided with APAR VM65986. The",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.862386",
+    "chunk_number": 668,
+    "word_count": 154
+  }
+}

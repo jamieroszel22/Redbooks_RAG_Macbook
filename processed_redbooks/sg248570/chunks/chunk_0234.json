@@ -1,0 +1,18 @@
+{
+  "content": "click Connect to a data source, as shown in Figure 8-35. Figure 8-35 Connecting to a data source 124 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 5. The data engineer wants to establish a connection to the Presto engine on IBM watsonx.data. They search for the IBM watsonx.data Presto connector, and click Next, as shown in Figure 8-36. Figure 8-36 IBM watsonx.data Presto 6. The data engineer enters the configuration details, starting with the Connection overview window, as shown in Figure 8-37. Within the Connection overview window, they define the connection name and add a description. Figure 8-37 Connection overview Chapter 8. Marketing campaign analysis use case 125 Under Connection details, they update the following fields, as shown in Figure 8-38. \u2013 Deployment type: IBM watsonx.data on Red Hat OpenShift. \u2013 Hostname or IP address: This value is retrieved from the Connection information window in IBM watsonx.data. \u2013 Port: This value is retrieved from",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.244614",
+    "chunk_number": 234,
+    "word_count": 158
+  }
+}

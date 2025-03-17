@@ -1,0 +1,18 @@
+{
+  "content": "and key protection. The IBM Z Security and Compliance Center enables clients to: \u0002 Generate detailed reports to enable executives, administrators, and auditors to understand compliance metrics with ease. \u0002 Track compliance drift over time with dashboard visualizations that include historical compliance information. \u0002 Use compliance evidence generation facilities from IBM Z software stack (for example, z/OS, z/OS Middleware, z/OS Compliance Integration Manager, Oracle on Linux on IBM Z, and PostgreSQL on Linux on IBM Z). \u0002 Provide an interactive view of the compliance posture and details around the severity of control deviations from regulations, such as PCI-DSS v3.2.1, NIST SP800-53, and CIS Benchmarks. z/OS support for compliance z/OS was enhanced to enable the collection of compliance data from IBM z16 CPACF counters and several z/OS products and components. A new z/OSMF Compliance fact collection REST API sends an ENF86 signal to all systems. Participating products and components",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.207824",
+    "chunk_number": 764,
+    "word_count": 148
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Framing and Signaling standard (FC-FS) \u0002 Fibre Channel Switch Fabric and Switch Control Requirements (FC-SW) \u0002 Fibre Channel Single-Byte-4 (FC-SB-4) standards For example, the zHPF channel programs can be used by the z/OS OLTP I/O workloads, Db2, VSAM, the partitioned data set extended (PDSE), and the z/OS file system (zFS). At the zHPF announcement, zHPF supported the transfer of small blocks of fixed size data (4 K) from a single track. This capability was extended, first to 64 KB, and then to multi-track operations. The 64 KB data transfer limit on multi-track operations was removed by z196. This improvement allows the channel to fully use the bandwidth of FICON channels, which results in higher throughputs and lower response times. Chapter 7. Operating system support 289 The multi-track operations extension applies to the FICON Express32S, FICON Express16SA, and FICON Express16S+, when configured as CHPID type FC and connecting to z/OS. zHPF requires matching support by the DS8000",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.953854",
+    "chunk_number": 692,
+    "word_count": 156
+  }
+}

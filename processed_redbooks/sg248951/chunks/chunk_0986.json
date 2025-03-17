@@ -1,0 +1,18 @@
+{
+  "content": "about HMC security, see Hardware Management Console Security, SC28-7027, and Integrating the Hardware Management Console\u2019s Broadband Remote Support Facility into your Enterprise, SC28-7026. For more information about the HMC settings that are related to access and security, see IBM Resource Link. At the web page, select Library, the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide. 424 IBM z16 (3931) Technical Guide With the HMA, each HMC and each SE has its own two physical Ethernet RJ45 ports, as shown in Figure 10-17. The red lines highlights the Ethernet connectivity for the SEs; the green lines highlight the HMCs. Figure 10-17 HMA connectivity 10.3.2 Stand-alone HMC connectivity The following HMC feature codes can be carried forward from previous orders: \u0002 FC 0062 \u0002 FC 0063 \u0002 FC 0082 \u0002 FC 0083 With these HMC feature codes, Driver 51/Version 2.16.0 can be installed to support IBM z16. You can use the IBM z16 with",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.932608",
+    "chunk_number": 986,
+    "word_count": 160
+  }
+}

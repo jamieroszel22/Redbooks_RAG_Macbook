@@ -1,0 +1,18 @@
+{
+  "content": "listed in Table 4-4. Table 4-4 I/O features and ordering information a. The link data rates do not represent the actual performance of the link. The actual performance depends on many factors, including latency through the adapters, cable lengths, and the type of workload. 6 Certain I/O features do not have external ports, such as Crypto Express. Channel feature Feature code New build Carry-forward FICON Express32S LX 0461 Y N/A FICON Express32S SX 0462 Y N/A FICON Express16S+ LX 0427 N Y FICON Express16S+ SX 0428 N Y OSA-Express7S 1.2 25GbE LR 0460 Y N/A OSA-Express7S 1.2 25GbE SR 0459 Y N/A OSA-Express7S 1.2 10GbE LR 0456 Y N/A OSA-Express7S 1.2 10GbE SR 0457 Y N/A OSA-Express7S 1.2 GbE LX 0454 Y N/A OSA-Express7S 1.2 GbE SX 0455 Y N/A OSA-Express7S 1.2 1000BASE-T 0458 Y N/A OSA-Express6S 10GbE LR 0424 N Y OSA-Express6S 10GbE SR 0425 N Y OSA-Express6S GbE LX 0422 N Y OSA-Express6S GbE SX 0423 N Y OSA-Express6S 1000BASE-T Ethernet 0426 N Y PCIe+ Gen3 fanouta 0175 Y Y Integrated",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.704177",
+    "chunk_number": 381,
+    "word_count": 173
+  }
+}

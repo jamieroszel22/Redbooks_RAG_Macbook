@@ -1,0 +1,18 @@
+{
+  "content": "are boosted to minimize the effect on running workloads. \u0002 On IBM z16, the enhanced ICA-SR coupling link protocol provides up to 10% improvement for read requests and lock requests, and up to 25% for write requests and duplexed write requests, compared to CF service times on IBM z15 systems. The improved CF service times for CF requests can translate into better Parallel Sysplex coupling efficiency; therefore, the software costs can be reduced for the attached z/OS images in the Parallel Sysplex. \u0002 IBM z16 provides improved CF processor scalability for CF images. Compared to IBM z15, the relative scaling of a CF image beyond a 9-way is significantly improved; that is, that the effective capacity of IBM z16 CF images continues to increase meaningfully all the way up to the maximum of 16 processors in a CF image. The IBM z16 also added functions to protect today\u2019s data now, and from future cyberattacks that can be initiated by quantum computers. The IBM z16 provides the following",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.408952",
+    "chunk_number": 72,
+    "word_count": 167
+  }
+}

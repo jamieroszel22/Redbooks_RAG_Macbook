@@ -1,0 +1,18 @@
+{
+  "content": "click interface through a web browser. The following capabilities are several key strengths of IBM Z and IBM LinuxONE and z/VM: \u0002 Their virtualization capabilities are more mature and robust than any other hardware and hypervisor combination. \u0002 The z/VM virtual switch makes networking Linux much simpler and provides automatic redundancy. \u0002 Full volume backup of systems allows for complete disaster recovery when another data center is available. z/VM is easy to customize at the base installation level because of a relatively small number of configuration files. When z/VM is set up correctly, it can run for months with little required maintenance or administration. 1.2.4 The hidden secret You might be asking yourself why a solution that fits all of the amazing qualities that were described so far has such little notoriety. Why do we not see the organizations using it touting all of the benefits they get from using it? The simple answer is competitive advantage. Simply put, good business",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.467511",
+    "chunk_number": 88,
+    "word_count": 161
+  }
+}

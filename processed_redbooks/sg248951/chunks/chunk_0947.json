@@ -1,0 +1,18 @@
+{
+  "content": "file on the SE that is used to run the concurrent drawer replacement operation. Chapter 9. Reliability, availability, and serviceability 399 The following states can result from the preparation step: \u0002 The system is ready to run the EDA for the targeted drawer with the original configuration. \u0002 The system is not ready to run the EDA because of conditions that are indicated by the preparation step. \u0002 The system is ready to run the EDA for the targeted drawer. However, to continue with the process, processors are reassigned from the original configuration. Review the results of this reassignment relative to your operation and business requirements. The reassignments can be changed on the final window that is presented. However, before making any changes or approving reassignments, ensure that the changes are reviewed and approved by the correct level of support based on your organization\u2019s business requirements. Preparation tabs The results of the preparation are presented for review in",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.814909",
+    "chunk_number": 947,
+    "word_count": 158
+  }
+}

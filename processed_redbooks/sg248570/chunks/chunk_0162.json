@@ -1,0 +1,18 @@
+{
+  "content": "native Java-based implementation to a new implementation written in C++ using Velox. By moving the evaluation engine to a library, the intent is to enable the Presto community to focus on more features and better integration with table formats and other data warehousing systems. Supported use cases The following are supported use cases: \u0002 Only specific connectors are supported in the Presto C++ evaluation engine. \u0002 Hive connector for reads and writes, including CTAS, are supported. \u0002 Iceberg tables are supported only for reads. \u0002 Iceberg connector supports both V1 and V2 tables, including tables with deleted files. \u0002 TPCH connector, with tpch.naming=standard catalog property. Prestissimo general limitations The C++ evaluation engine has a number of limitations: \u0002 Not all built-in functions are implemented in C++. Attempting to use unimplemented functions results in a query failure. \u0002 Not all built-in types are implemented in C++. Attempting to use unimplemented types will result in a",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.963640",
+    "chunk_number": 162,
+    "word_count": 154
+  }
+}

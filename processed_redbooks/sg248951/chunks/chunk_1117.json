@@ -1,0 +1,18 @@
+{
+  "content": "performance depends on many factors, including latency through the adapters, cable lengths, and the type of workload. b. Where applicable, the minimum fiber bandwidth distance in MHz-km for multi-mode fiber optic links is included in parentheses. c. For 32 Gbps links, point to point (to another switch, director, DWDM equipment or another FICON Express3sS) distance is limited to 5 km (3.1 miles). d. A 600 meters (1958.5 feet) maximum when sharing the switch across two RoCE Express features. Channel feature Feature codes Bit ratea in Gbps (or stated) Cable type Maximum unrepeated distanceb Ordering information Cable type (modal bandwidth) 8 Gbps OM3 (50 \u00b5m at 2000 MHz\u00b7km) 100 meters 328 feet OM4 (50 \u00b5m at 4700 MHz\u00b7km) 150 meters 492 feet 502 IBM z16 (3931) Technical Guide The maximum unrepeated distances for FICON SX features are listed in Table A-3. Table A-3 Maximum unrepeated distance for FICON SX features Cable type/bit rate 8 Gbps 16 Gbps 32 Gbps OM1 (62.5 \u00b5m at 200 MHz\u00b7km) 21",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.338629",
+    "chunk_number": 1117,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "the web from a master system management virtual machine, such as MAINT or MAINT720. Use your own class G user ID. Chapter 15. Miscellaneous recipes and helpful information 441 15.1.2 Quick and easy display of DIRMAINT directory records Download QDIR if you use the IBM Directory Maintenance Facility (DirMaint) as your z/VM user directory administration subsystem. QDIR is a tremendous time saver. It quickly and easily shows you the contents of a directory record without having to ask DirMaint for a file, waits for it to be sent, uses peek to view it or receive it, and so on. An example of how QDIR works is shown in Example 15-1. Example 15-1 Using QDIR to query a user and their associated profile Ready; T=0.01/0.01 00:43:53 QDIR PWNOVAK USER PWNOVAK PWNOVAK 32M 2G CG 10271434 INCLUDE ATSDFLT 10271434 IPL CMS PARM FILEPOOL ATS: 10271434 LINK MAINT 0191 0196 MR 09171032 LINK MAINT710 0191 0197 RR 09171031 *DVHOPT LNK0 LOG1 RCM1 SMS0 NPW0 LNGAMENG PWC20130531 CRC\u00c0\u00e9 10080002 Ready;",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.769438",
+    "chunk_number": 934,
+    "word_count": 166
+  }
+}

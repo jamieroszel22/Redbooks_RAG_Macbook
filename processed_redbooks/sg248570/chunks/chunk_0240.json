@@ -1,0 +1,18 @@
+{
+  "content": "left to generate a chart that shows the number of bank term deposit subscriptions by profession. Here, the data analyst can modify the categories that appear in the visual, the chart and axis titles, and the type of bar chart (for example, horizontal, vertical, stacked, clustered, and others). Figure 8-52 Bar chart configuration window Chapter 8. Marketing campaign analysis use case 135 Figure 8-53 Bar chart configuration window (continued) Additional data visualization formatting The data analyst wants to further format this visualization, specifically the color scheme. The business user requesting this visualization might share the results with others within the organization or in presentations, so the data analyst wants to help ensure that the visualization adheres to the company's color and formatting standards. They data analyst completes the following steps: 1. To modify the color scheme for the data visualization, the data analyst clicks Actions selects Global visualization",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.268005",
+    "chunk_number": 240,
+    "word_count": 148
+  }
+}

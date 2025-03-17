@@ -1,0 +1,18 @@
+{
+  "content": "important topics which should be considered by the larger team when onboarding a Foundation Model. As of this writing, the blueprint serves only as guidance and does not enforce any official Federal law. Implications in Western Europe (The European Union) For completeness of consideration, the legal team must review any candidate Foundation Model and how it relates to the EU AI Act. The Act defines a specific set of obligations for providers of general purpose AI models (as foundation models are called in its legal terminology). In addition, the European Union will provide an associated Code of Practice which is planned to be approved in or before May 2025. The obligations and the Code will give buyers some concrete expectation towards a provider of a model that's brought onto the market after the Act has gone into force (August 2024). Note that foundation models already on the market before entry into force, need to be compliant by August 2nd, 2027. Vendors might decide to withdraw",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.971005",
+    "chunk_number": 139,
+    "word_count": 165
+  }
+}

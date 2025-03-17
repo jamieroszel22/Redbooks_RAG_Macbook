@@ -1,0 +1,18 @@
+{
+  "content": "Automation (SA) features an improved communication to not disturb important tasks on each side. For example, if you want to restart an SE and GDPS or SA is performing an important task, the restart window prompts you to confirm that you want to force the restart, as shown in Figure 10-5 on page 413. Chapter 10. Hardware Management Console and Support Element 413 Figure 10-5 New information/question for SE power off or restart regarding GDPS or SA \u0002 Mange System Time Enhancements Starting with IBM z14, a major change was made to how STP management is handled on the HMC and SE. All STP management is now done by way of the Manage System Time option on the HMC. With IBM z16, further improvements were made in the wizards to guide you though the different configuration possibilities. Most of the changes are visual to provide clearer guidance. \u0002 System Availability Data changes Transmit System Availability Data (TSAD) contains important data for the client and IBM. For example, this task",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.882979",
+    "chunk_number": 970,
+    "word_count": 169
+  }
+}

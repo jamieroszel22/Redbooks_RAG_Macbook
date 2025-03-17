@@ -1,0 +1,18 @@
+{
+  "content": "approximation to represent decimal numbers. This process makes floating point arithmetic complex and error-prone for programmers who use it for applications in which the data is typically decimal. Hardware DFP computational instructions provide the following features: \u0002 Data formats of 4, 8, and 16 bytes \u0002 An encoded decimal (base 10) representation for data \u0002 Instructions for running decimal floating point computations \u0002 An instruction that runs data conversions to and from the decimal floating point representation Benefits of the DFP accelerator The DFP accelerator offers the following benefits: \u0002 Avoids rounding issues, such as those issues that occur with binary-to-decimal conversions. \u0002 Controls binary-coded decimal (BCD) operations better. \u0002 Follows the standardization of the dominant decimal data and decimal operations in commercial computing, which supports the industry standardization (IEEE 745R) of decimal floating point operations. Instructions are added in support of the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.125885",
+    "chunk_number": 239,
+    "word_count": 143
+  }
+}

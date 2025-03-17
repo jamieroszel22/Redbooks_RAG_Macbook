@@ -1,0 +1,18 @@
+{
+  "content": "page 90. 90 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 3-13 IBM z16 A02 and IBM z16 AGZ Core co-processor On-core compression (CMPSC) on IBM z16 A02 and IBM z16 AGZ The compression coprocessor on IBM z16 A02 and IBM z16 AGZ provides the same functions that are available on IBM z15. On-core cryptography coprocessor (CPACF) CPACF accelerates the encrypting and decrypting of SSL/TLS transactions, virtual private network (VPN)-encrypted data transfers, and data-storing applications that do not require FIPS 140-2 level 4 security. The assist function uses a special instruction set for symmetrical clear key cryptographic encryption and decryption, and for hash operations. This group of instructions is known as the Message-Security Assist (MSA). For more information about these instructions, see z/Architecture Principles of Operation, SA22-7832. Crypto functions enhancements The IBM z16 A02 and IBM z16 AGZ microprocessor structure was optimized and aligned to the new cache hierarchy.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.127393",
+    "chunk_number": 240,
+    "word_count": 151
+  }
+}

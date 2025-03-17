@@ -1,0 +1,18 @@
+{
+  "content": "unintended consequences. Moreover, AI models must comply with various regulations and standards, such as the European Union AI Act, United States AI Executive Order, CCPA, and HIPAA, to ensure the protection of sensitive data and prevent harm to individuals. To mitigate these risks, organizations must implement robust risk management and compliance frameworks that include model risk assessments, data quality checks, and ongoing monitoring and evaluation. Since risk and compliance management involves identifying, assessing, and mitigating potential risks associated with non-compliance with external mandates and internal policies. The following components are essential to a robust risk and compliance framework: 1. Mandate - Mandates represent external requirements that organizations must comply with, such as laws, regulations, and standards. When necessary, mandates can be broken down into Sub-Mandate objects, which provide a more detailed understanding of the mandate's sub-sections.",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.879375",
+    "chunk_number": 114,
+    "word_count": 136
+  }
+}

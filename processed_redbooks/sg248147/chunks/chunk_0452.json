@@ -1,0 +1,18 @@
+{
+  "content": "/*********************************************************************/ /* Customer processing can be added here */ /*********************************************************************/ \"PIPE CP XAUTOLOG TCPIP\" /* AUTOLOGON TCPIP VSM */ \"CP SET MDC STOR 0M 256M\" /* LIMIT MDISK CACHE 256M */ \"CP SET SRM STORBUF 300% 250% 200%\" /* VSM MEMORY OVERCOMMIT */ /* ------ ROUTE SCIF MESSAGES TO PROP FOR SYSLOG OR HANDLING ------ */ \"PIPE CP SET SECUSER DIRMAINT OPERATOR\" /* SEND DIRMM MSGS TO PROP */ \"PIPE CP SET SECUSER DIRMSAT1 OPERATOR\" /* SEND DIRMS MSGS TO PROP */ \"PIPE CP SET SECUSER DIRMSAT2 OPERATOR\" /* SEND DIRMS MSGS TO PROP */ \"PIPE CP SET SECUSER DIRMSAT3 OPERATOR\" /* SEND DIRMS MSGS TO PROP */ ... Note: If you need more functions than are described in this section, see 4.3, \u201cOperations Manager\u201d on page 88. Chapter 6. Configuring z/VM 197 d. Save your changes and quit XEDIT: ====> file e. Perform the previous set of steps on all other members in the SSI cluster. The PROFILE EXEC",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.968271",
+    "chunk_number": 452,
+    "word_count": 160
+  }
+}

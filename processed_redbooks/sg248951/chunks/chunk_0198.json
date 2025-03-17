@@ -1,0 +1,18 @@
+{
+  "content": "Provide leading cryptographic performance. Every processor unit (PU) includes a dedicated and optimized CP Assist for Cryptographic Function (CPACF). Optional Crypto Express features with cryptographic coprocessors provide the highest standardized security certification.1 These optional features also can be configured as Cryptographic Accelerators to enhance the performance of Secure Sockets Layer/Transport Layer Security (SSL/TLS) transactions. \u0002 Provide on-chip compression. Every PU chip design incorporates a compression unit, which is the IBM Integrated Accelerator for z Enterprise Data Compression (zEDC). This configuration is different from the CMPSC (Compression Coprocessor) that is implemented in each core. \u0002 Provide a new dedicated on-chip integrated AI Accelerator for high-speed inference to enable real-time AI embedded directly in transactional workloads, and improvements for performance, security, and availability. \u0002 Be self-managing and self-optimizing, adjusting itself",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.969937",
+    "chunk_number": 198,
+    "word_count": 128
+  }
+}

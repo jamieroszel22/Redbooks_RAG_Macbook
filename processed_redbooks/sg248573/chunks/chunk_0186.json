@@ -1,0 +1,18 @@
+{
+  "content": "the PTA, and using the options menu attached to the PTA, choose the Promote to Space option. Follow the on-screen guidance to promote the PTA to the newly created production space. Go to the home page of the deployment space on watsonx.ai runtimes. From the assets tab, the recently promoted PTA should be listed. Use the options menu attached to the PTA from this screen and choose the Deploy option. Follow the guided screen to fill out the relevant details, and click OK. After a few moments, your new PTA will be deployed (and consumable) on the production deployment space. You can now check again from your AI use case page to observe that the asset has moved from development, to validation, and finally into the operation stage. Congratulations, you have successfully performed a lifecycle on this AI asset! Note: There are multiple ways to access PTA evaluations. You could access this page through your AI Factsheet, on the second tab. You could also run evaluations directly from the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.139916",
+    "chunk_number": 186,
+    "word_count": 169
+  }
+}

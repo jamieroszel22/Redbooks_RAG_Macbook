@@ -1,0 +1,18 @@
+{
+  "content": "context of an event. IBM Z platforms are designed to enable highest availability and lowest downtime. These facts are recognized by various IT analysts, such as ITIC13 and IDC14. Comprehensive, multi-layered strategy includes the following features: \u0002 Error Prevention \u0002 Error Detection and Correction \u0002 Error Recovery \u0002 System Recovery Boost With a properly configured IBM z16 A02 and IBM z16 AGZ, further reduction of outages can be attained through First Failure Data Capture (FFDC), which is designed to reduce service times and avoid subsequent errors. It also improves nondisruptive replace, repair, and upgrade functions for memory, drawers, and I/O adapters. IBM z16 A02 and IBM z16 AGZ support the nondisruptive download and installation of LIC updates. IBM z16 A02 and IBM z16 AGZ RAS features provide unique high-availability and nondisruptive operational capabilities that differentiate IBM Z in the marketplace. IBM z16 A02 and IBM z16 AGZ RAS enhancements are made on many components",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.579820",
+    "chunk_number": 109,
+    "word_count": 154
+  }
+}

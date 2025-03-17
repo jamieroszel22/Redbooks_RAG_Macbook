@@ -1,0 +1,18 @@
+{
+  "content": "standard way in Linux to provide disk encryption. SSC encrypts all data with a key that is stored within the appliance. \u2013 Protected memory: Up to 16 TB can be defined per IBM SSC LPAR. \u0002 Encrypted Diagnostic Data All diagnostic information (debug memory dump data, logs, and so on) are encrypted and do not contain any user or application data. \u0002 No operating system access After the IBM SSC appliance is built, Secure Shell (SSH) and the command line-interface (CLI) are disabled, which ensures that even system administrators cannot access the contents of the IBM SSC and do not know which application is running there. \u0002 Applications that run inside IBM SSC are being accessed externally by REST APIs only, in a transparent way to user. \u0002 Tamper-proof SSC Secure Boot: \u2013 IBM SSC-eligible applications are booted into IBM SSC by using verified booting sequence, where only trusted and digitally signed and verified by IBM software code is uploaded into the IBM SSC. \u2013 Vertical workload isolation,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.598880",
+    "chunk_number": 354,
+    "word_count": 168
+  }
+}

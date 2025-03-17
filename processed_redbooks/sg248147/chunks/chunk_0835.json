@@ -1,0 +1,18 @@
+{
+  "content": "each member. The second member uses FCXC1R02 and FCXC1S02. The third member uses FCXC1R03 and FCXC1S03. Also, the fourth member uses FCXC1R04 and FCXC1S04. 8. Make CP start to collect performance data. Perform the following steps to start Performance Toolkit automatically after the IPL. These steps should be performed on AUTOLOG2 if you have RACF enabled and on AUTOLOG1 if you do not plan to use RACF. Complete the following steps: a. Log on to AUTOLOG2. b. Before you press Enter at the VM READ prompt, enter acc (noprof so that the PROFILE EXEC is not run: LOGON AUTOLOG2 z/VM Version 6 Release 3.0, Service Level 0000 (64-bit), built on IBM Virtualization Technology There is no logmsg data FILES: NO RDR, 0008 PRT, NO PUN 386 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 LOGON AT 12:13:55 EDT THURSDAY 06/06/13 z/VM V7.2.0 2013-06-04 12:50 acc (noprof Ready; T=0.01/0.01 12:14:01 c. Edit the profile exec in the following way: ===> x profile exec a ...",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.428265",
+    "chunk_number": 835,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "* TIMEOUT 30 SSLLIMITS MAXSESSIONS 3000 MAXPERSSLSERVER 600 ; ----------------------------------------------------------- ... ; ----------------------------------------------------------- INFORM OPERATOR TCPMAINT MAINT MAINT720 ENDINFORM ; ----------------------------------------------------------- PORT 20 TCP FTPSERVE NOAUTOLOG ; FTP Server 21 TCP FTPSERVE ; FTP Server 23 TCP INTCLIEN ; TELNET Server ... 992 TCP INTCLIEN SECURE ITSOSSIA ; Telnet Server (Secure) 2049 UDP VMNFS ; NFS Server 2049 TCP VMNFS NOAUTOLOG ; NFS Server ; ----------------------------------------------------------- INTERNALCLIENTPARMS SECURECONNECTION REQUIRED TLSLABEL ITSOSSIA ; TLS CERT LABEL OF 8 NUM / UPCASE CHAR MAX ; INACTIVE 1200 ; CLOSE INACTIVE CONN AFTER 20 MIN IDLE (OPTIONAL) TIMEMARK 0600 ; TIMEMARK (KEEPALIVE) CHECK EVERY 10 MIN PORT 992 ; ACCEPT SECURE CONN ON TCP/992 (RFC6335) ; PORT 23 ; ACCEPT SECURE CONN ON TCP/23 ALSO (OPTIONAL) ENDINTERNALCLIENTPARMS ;",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.174858",
+    "chunk_number": 507,
+    "word_count": 125
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "guest secure boot for both Load and Dump operations from ECKD and SCSI devices. This support provides the ability for a Linux guest to exploit hardware to validate the code being booted, ensuring it is signed by the client or its supplier. Secure Boot uses digital signatures to provide an IPL-time check that helps ensure IPL data is intact, unaltered, and originates from a trusted build-time source, enabling detection of unauthorized changes to those software executables. The machine loader verifies the digitally signed hashes of the code, using verification certificates that the client has loaded into the HMC certificate store. z/VM makes these same certificates available to guests so that the OS can verify the authenticity of additional code loaded after IPL. z/OS as a z/VM guest can only be securely IPLed in AUDIT mode because full exploitation requires Virtual Flash Memory support, which is not available to a guest. z/VM V7.3 support is provided with the PTFs for APARs VM66434,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.549576",
+    "chunk_number": 594,
+    "word_count": 161
+  }
+}

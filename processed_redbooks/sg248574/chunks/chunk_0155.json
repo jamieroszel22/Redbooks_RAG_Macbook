@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.ai fine-tuning process. Figure 5-5 Prompt fine-tuning pipeline process overview In conclusion, watsonx.ai revolutionizes the traditionally complex and resource-intensive process of fine-tuning LLMs by introducing a seamlessly automated, highly efficient, and scalable solution. By leveraging advanced tools like the SFTTrainer, innovative techniques such as LoRA and QLoRA, and a robust Tuning Studio, watsonx.ai enables businesses to achieve unparalleled levels of customization and precision in their AI solutions. Its ability to manage every aspect of the fine-tuning lifecycle (from data preparation and parameter optimization to resource allocation and model monitoring) removes significant technical barriers, which democratize access to AI specialization for organizations of all sizes. This comprehensive platform empowers businesses to tailor FMs to their unique domain-specific needs, whether in healthcare, finance, legal services, or other fields that require high precision. By",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.796883",
+    "chunk_number": 155,
+    "word_count": 131
+  }
+}

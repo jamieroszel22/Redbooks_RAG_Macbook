@@ -1,0 +1,18 @@
+{
+  "content": "system is the number of zIIPs that can be defined to an LPAR. 9 The 2:1 ratio can be exceeded (during boost periods) if System Recovery Boost Upgrade (FC 9930 and FC 6802) is used for activating temporary zIIP capacity. Features Max39 Max82 Max125 Max168 Max200 Maximum of zIIPs FC 1961 25 54 82 110 132 Maximum of Unassigned zIIPs FC 1975 24 53 81 109 131 LPAR: In an LPAR, as many zIIPs as are available can be defined together with at least one CP. Chapter 3. Central processor complex design 109 3.5.6 System assist processors A system assist processor (SAP) is a PU that runs the channel subsystem LIC to control I/O operations. All SAPs run I/O operations for all LPARs. As with IBM z14 and IBM z15 servers, in IBM z16 SMT is enabled10 for SAPs. All features include standard SAPs configured. The number of standard SAPs depends on the IBM z16 feature, as listed in Table 3-4. Table 3-4 SAPs per feature SAP configuration A standard SAP configuration provides a well-balanced system for most",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.268724",
+    "chunk_number": 277,
+    "word_count": 178
+  }
+}

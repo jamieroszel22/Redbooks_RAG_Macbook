@@ -1,0 +1,18 @@
+{
+  "content": "landscape, allowing organizations to benefit from the openness and extensibility of data lakes without sacrificing the governance, consistent performance, and analytical sophistication of a warehouse. In practice, embracing the lakehouse model means handling data in a way that is format-agnostic, interoperable across multiple platforms, and conducive to evolving analytical requirements. IBM watsonx.data operationalizes these principles by providing a platform that not only leverages open, widely adopted storage formats and metadata frameworks but also integrates governance and performance enhancements. The result is a single, cohesive data environment that adapts to changing workloads, heterogeneous data types, and evolving regulatory landscapes-all while maintaining the transactional guarantees and robust analytics capabilities that enterprises have come to rely on. Open-source storage formats A pivotal aspect of the lakehouse paradigm is the use of open, standardized storage",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.042295",
+    "chunk_number": 182,
+    "word_count": 131
+  }
+}

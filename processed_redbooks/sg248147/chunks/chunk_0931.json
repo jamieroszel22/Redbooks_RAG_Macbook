@@ -1,0 +1,18 @@
+{
+  "content": "\u201cUsing DirMaint to set special passwords for an ID\u201d on page 447 \u0002 15.4, \u201cResuming a revoked ID in RACF/VM\u201d on page 448 \u0002 15.5, \u201cSystem modifications for wide-screen terminals\u201d on page 449 \u0002 15.6, \u201cManually formatting DASD for use\u201d on page 452 \u0002 15.8, \u201cMitigating SSH client timeout disconnects\u201d on page 455 \u0002 15.8, \u201cMitigating SSH client timeout disconnects\u201d on page 455 \u0002 15.9, \u201cSharing IBM WebSphere Application Server binaries\u201d on page 457 15 440 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 15.1 Installing a package from the IBM VM Download Library The IBM VM Download Library is a clearinghouse or repository for tools, documentation, and other interesting VM topics. The repository is served by a z/VM web server that runs on Conversational Monitor System (CMS). The IBM z/VM platform development team in Endicott set up the library so that IBM employees, IBM Business Partners, and customer can submit content and so that anyone can download content. The library contains many items, which",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.739088",
+    "chunk_number": 931,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "0AD0 is connected to VSWITCH SYSTEM VSW1 00: DASD 01FA DEFINED 00: DASD 01FB DEFINED 00: DASD 01FC DEFINED 00: DASD 01FD DEFINED 00: DASD 01FE DEFINED 00: DASD 01FF DEFINED ... # lsdasd Bus-ID Status Name Device Type BlkSz Size Blocks ============================================================================== 0.0.0100 active dasda 94:0 ECKD 4096 3521MB 901440 0.0.0301 active dasdb 94:4 FBA 512 512MB 1048576 0.0.0300 active dasdc 94:8 FBA 512 256MB 524288 0.0.0101 active dasdd 94:12 ECKD 4096 3521MB 901440 Follow the procedure for adding new disks according to your distribution (edit /etc/dasd.conf for RHEL (or use the dasd_configure command in SLES) as described in 13.1, \u201cAdding disk space to Linux virtual machines\u201d on page 398. 360 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 After devices 102, 200 - 205 are configured, the output of the lsdasd command changes: # lsdasd Bus-ID Status Name Device Type BlkSz Size Blocks",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.252692",
+    "chunk_number": 780,
+    "word_count": 144
+  }
+}

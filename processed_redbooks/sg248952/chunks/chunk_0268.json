@@ -1,0 +1,18 @@
+{
+  "content": "z/Architecture operating systems and CFCCs can run on CPs that are assigned from the CP pool. The IBM z16 A02 and IBM z16 AGZ can be ordered with 26 distinct capacity settings for CPs. Full-capacity CPs are identified as \u201cZ\u201d. In addition to full-capacity CPs, three subcapacity settings (A to Y, each for up to 6 PUs8, are offered. Table 3-1 lists the capacity settings that appear in hardware descriptions. Table 3-1 CP capacity settings for one CP 8 Limited to five PUs on an IBM z16 A02 and IBM z16 AGZ Max5 CP Capacity Feature Code CP-A 6156 CP-B 6157 CP-C 6158 Chapter 3. Central processor complex design 103 Granular capacity provides 156 subcapacity settings for 6 CPs capacity. Information about CPs in the remainder of this chapter applies to all CP capacity settings, unless indicated otherwise. 3.5.3 Integrated Facility for Linux (FC 1959) An IFL is a PU that can be used to run Linux, Linux guests on z/VM operating systems, and Secure Service Container (SSC). Up to 68 PUs can be",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.228141",
+    "chunk_number": 268,
+    "word_count": 174
+  }
+}

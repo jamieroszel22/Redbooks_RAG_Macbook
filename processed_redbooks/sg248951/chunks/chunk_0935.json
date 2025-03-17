@@ -1,0 +1,18 @@
+{
+  "content": "by the Backup Time Server (BTS), the BTS can safely take over as the CTS without relying on the previous Offline Signal (OLS) in a two-server CTN, or as the Arbiter in a CTN with three or more servers. 394 IBM z16 (3931) Technical Guide Enhanced Console Assisted Recovery (ECAR) contains recovery algorithms during a failing Primary Time Server (PTS) and uses communication over the HMA/SE network to assist with BTS takeover. For more information, see Chapter 10, \u201cHardware Management Console and Support Element\u201d on page 407. Coupling Express2 LR does not support the \u201cgoing away signal\u201d; however, ECAR can be used to assist with recovery in the following configurations: \u0002 Design of pervasive infrastructure controls in processor chips in memory ASICs. \u0002 Improved error checking in the processor recovery unit (RU) to better protect against word line failures in the RU arrays. 9.8 Enhanced drawer availability EDA is a procedure in which a drawer in a multi-drawer system can be removed and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.773572",
+    "chunk_number": 935,
+    "word_count": 163
+  }
+}

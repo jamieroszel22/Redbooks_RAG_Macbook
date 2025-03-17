@@ -1,0 +1,18 @@
+{
+  "content": "extracts needed data as input to IBM\u2019s Processor Capacity Reference (zPCR) and z Systems Batch Network Analyzer (zBNA) tools. CP3KEXTR is offered as a \u201cno-charge\u201d application. It can also create the EDF file for ZCP3000. ZCP3000 is an IBM internal tool, but you can create the EDF file for it on your system. For more information about CP3KEXTR, see the IBM Techdoc z/OS Data Extraction Program (CP3KEXTR) for zPCR and zBNA. 12.9.3 Loading EDF file to the capacity planning tool By loading EDF file to IBM capacity planning tool, you can see the LSPR workload type based on CPU MF counter data. Figure 12-5 on page 466 shows a sample zPCR window of a workload type. In this example, the workload type displays in the \u201cAssigned Workload\u201d column. When you load the EDF file to zPCR, it automatically sets your LPAR configuration. It also makes easy to define the LPAR configuration to the zPCR. Do not use MIPs or MSUs for capacity planning: Do not use \u201cone number\u201d capacity comparisons, such as MIPs",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.278329",
+    "chunk_number": 1089,
+    "word_count": 173
+  }
+}

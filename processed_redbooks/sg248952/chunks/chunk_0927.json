@@ -1,0 +1,18 @@
+{
+  "content": "systems. \u0002 Server Time Protocol (STP) recovery enhancement. IBM z16 A02 and IBM z16 AGZ has updated clocking structure: \u2013 System uses a mesosynchronous clocking structure (similar to IBM z15) \u2013 Two redundant oscillator cards in each drawer with dynamic oscillator switchover \u2013 STP now has external clock reference support, separate Ethernet ports for ETS \u2013 PTP and NTP (Ethernet cabling) are now directly connected to the CPC (no SE ETS connection needed) \u2013 Oscillator card shares FRU package with drawer\u2019 Base Management Card (BMC) \u2013 Concurrent repair of oscillator/control card New signal has been implemented for IBM z16 A02 and IBM z16 AGZ - N-mode power signal for STP recovery. In a CTN with both PTS and BTS being IBM z16 A02 and IBM z16 AGZ, CTN recovery can be initiated by the new signal. Systems must have dual power with at least one side of the power capable of holding the power (UPS or similar) for five minutes in case of utility power failure. When PCIe-based integrated",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.739183",
+    "chunk_number": 927,
+    "word_count": 169
+  }
+}

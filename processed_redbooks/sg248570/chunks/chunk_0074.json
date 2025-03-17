@@ -1,0 +1,18 @@
+{
+  "content": "IBM watsonx.data is designed to leverage various storage solutions, such as Amazon S3, IBM Cloud, Google Cloud Storage, and HDFS. Apache Iceberg helps solve the problem of bringing structure to data lakes. It is a metadata file that sits with the data files so that, as changes are made to the data, it keeps track of those records. Think\u00ae of it as appending to that metadata file. It provides certain atomicity, consistency, isolation, and durability (ACID) transactional guarantees and the ability to roll back in time for any audit purposes. Organizations can view and understand the transactions that occurred and their completion status by looking back in time at previous states. See Figure 2-8. Figure 2-8 watsonx.data storage and data format layers 20 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Governance and metadata The governance and metadata layer, shown in Figure 2-9, can be thought of as the glue that holds the multi-engine capabilities together.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.623525",
+    "chunk_number": 74,
+    "word_count": 159
+  }
+}

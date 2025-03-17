@@ -1,0 +1,18 @@
+{
+  "content": "hardware system family, the transactional execution and constrained transactional execution facility will no longer be supported. Users of the facility on current servers should always check the facility indications before use. f. Guests are informed that TX facility is available for use. g. Guests are informed that SIMD is available for use. h. Guest Exploitation support. i. With PTFs for use. j. Transparent for Guest support use of the gzip acceleration; guest support for z/OS Storage Compression. k. With Exploitation PTFs l. With Required PTFs Functiona z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3b z/VM V7R2 z/VM V7R1 Functiona z/VSE V6R2 z/TPF V1R1 Linux on IBM Zb IBM z16 servers Y Y Y Maximum processor unit (PUs) per system image 10 86 200c Maximum main storage size 32 GB 4 TB 16 TBd Dynamic PU add Y N Y Dynamic LPAR memory upgrade N N Y LPAR group absolute capping Y N N Program-directed re-IPL Y N Y HiperDispatch N N Y Chapter 7. Operating system support 255 IBM Z Integrated",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.632300",
+    "chunk_number": 612,
+    "word_count": 171
+  }
+}

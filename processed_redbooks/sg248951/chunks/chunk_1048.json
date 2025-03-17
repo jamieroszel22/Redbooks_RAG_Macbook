@@ -1,0 +1,18 @@
+{
+  "content": "requirements: \u0002 60A/3-Phase \u201cDelta\u201d PDU FC 0645 \u0002 32A/3-Phase \u201cWye\u201d PDU FC 0646 A PDU-based system can have 2 - 8 power cords, depending on the configuration. The use of iPDU on IBM z16 might enable fewer frames, which allows for more I/O slots to be available and improves power efficiency to lower overall energy costs. It also offers some standardization and ease of data center installation planning, which allows the IBM z16 to easily coexist with other platforms within the data center. Removal of support for Bulk Power Assembly (BPA)a: IBM z16 is planned to be the last generation of IBM Z server to support BPA. a. Statements by IBM regarding its plans, directions, and intent are subject to change or withdrawal without notice at the sole discretion of IBM. Information regarding potential future products is intended to outline general product direction and should not be relied on in making a purchasing decision. Chapter 11. Environmental requirements 455 Power requirements the IBM z16",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.159826",
+    "chunk_number": 1048,
+    "word_count": 164
+  }
+}

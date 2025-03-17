@@ -1,0 +1,18 @@
+{
+  "content": "built by function and feature classification to help you determine, by a quick scan, what is supported and the minimum operating system level that is required. End of service operating systems: Operating system levels that are no longer in service are not covered in this publication. Operating systems Supported Version and release on IBM z16a a. Service is required. z/OS V2R2b b. z/OS V2R2 - Toleration mode only. The IBM Software Support Services for z/OS V2R2 offered as October 1st, 2020, provides the ability for customers to purchase extended defect support service for z/OS V2.R2. z/VM V7R1 21st Century Software VSEn c c. VSEn is supported by 21st Century Software. V6R3 z/TPF V1R1 Linux on IBM Z d d. KVM hypervisor is supported by Linux distribution partners. See Table 7-2 on page 247 Chapter 7. Operating system support 245 7.2.1 z/OS z/OS Version 2 Release 3 is the earliest in-service release that supports IBM z16 A02 and IBM z16 AGZ. Consider the following points: \u0002 Service",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.574558",
+    "chunk_number": 600,
+    "word_count": 166
+  }
+}

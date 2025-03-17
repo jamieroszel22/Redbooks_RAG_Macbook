@@ -1,0 +1,18 @@
+{
+  "content": "\u0002 On/Off CoD cannot decrease the number of engines on the CPC. \u0002 The number of engines cannot be increased to more than what is installed. For more information about temporary capacity increases, see Chapter 8, \u201cSystem upgrades\u201d on page 319. IBM z16 A02 and IBM z16 AGZ feature Total PUs available CBU CPs min - max CBU IFLs min - max CBU ICFs min - max CBUa zIIPs min - max a. At least one CP is needed to achieve the maximum number of zIIPs. Max68 68 0-6 0 - 68 0 - 68 0 -67 Max32 31 0-6 0 - 32 0 - 32 0 - 31 Max16 21 0-6 0 - 16 0 - 16 0 - 15 Max5 5 0-5 0 - 5 0 - 5 0 - 4 Chapter 2. Central processor complex hardware components 65 Flexible Capacity for Cyber Resiliency IBM Z Flexible Capacity for Cyber Resiliency can be used to remotely shift capacity and production workloads between IBM z16 A01, IBM z16 A02 and IBM z16 AGZ systems at different sites on demand, and stay at the alternate site for up to one year. This capability can help demonstrate compliance with regulations that require",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.933107",
+    "chunk_number": 190,
+    "word_count": 201
+  }
+}

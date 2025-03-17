@@ -1,0 +1,18 @@
+{
+  "content": "# vgreduce homevg /dev/dasde1 Removed \"/dev/dasde1\" from volume group \"homevg\" The source volume is now ready for reassignment, or retirement. Moving data from one physical volume to another physical volume without taking the file system offline was demonstrated. 414 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 415 Chapter 14. Working with networks This chapter describes the several miscellaneous tasks that you might need to perform and includes the following topics: \u0002 \u201cSetting up a private interconnect\u201d on page 416 \u0002 \u201cCreating a HiperSockets device between logical partitions\u201d on page 418 \u0002 \u201cConfiguring a port group by using Link Aggregation Control Protocol\u201d on page 421 14 416 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 14.1 Setting up a private interconnect Having networked communications between different hosts that belong to a certain group can be beneficial. For example, certain legal databases must communicate to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.598383",
+    "chunk_number": 884,
+    "word_count": 152
+  }
+}

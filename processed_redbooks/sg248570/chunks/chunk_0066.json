@@ -1,0 +1,18 @@
+{
+  "content": "third party LLMs. This is part of IBM's commitment to delivering an open ecosystem approach that enables users to leverage the best models and architecture for their unique business needs. 2.1.2 IBM watsonx.data This is a fit-for-purpose data store built on an open-lakehouse architecture that is optimized for governed data and AI workloads, supported by querying, governance, and open data formats to access and share data. The solution can manage workloads both on premises and across hybrid multi-cloud environments while leveraging internal and external data sets. Through workload optimization, with this solution an organization can reduce data warehouse costs by up to 50 percent. This is based on comparing published 2023 list prices normalized for virtual private cloud hours of watsonx.data to several major cloud data warehouse vendors. Savings may vary depending on configurations, workloads, and vendors. It enables users to access robust data through a single point of entry while",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.592131",
+    "chunk_number": 66,
+    "word_count": 151
+  }
+}

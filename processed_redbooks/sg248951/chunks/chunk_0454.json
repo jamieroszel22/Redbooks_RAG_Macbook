@@ -1,0 +1,18 @@
+{
+  "content": "connector, which supports 70 meters (229 feet) \u0002 OM4 50-micron multimode fiber optic cable that is rated at 4700 MHz-km that ends with an LC Duplex connector, which supports 100 meters (328 feet) The virtualization capabilities for IBM z16 are 63 Virtual Functions per port (126 VFs per feature/PCHID). One RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID). The 25 GbE RoCE Express2.1 feature uses SR optics and supports the use of a multimode fiber optic cable that ends with an LC Duplex connector. Point-to-point connections and switched connections with an enterprise-class switch are supported (ports running at matching4 speeds). 10 GbE RoCE Express2 (FC 0412) 10 GbE RoCE Express2 (FC 0412) is installed in the PCIe I/O drawer and is supported on IBM z16 servers when carried forward. The 10 GbE RoCE Express2 is a native PCIe feature. It does not use a CHPID. It is defined by using the IOCP FUNCTION statement or in the hardware configuration",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.996691",
+    "chunk_number": 454,
+    "word_count": 168
+  }
+}

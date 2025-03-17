@@ -1,0 +1,18 @@
+{
+  "content": "server versions of Microsoft Windows starting at Windows 2000, up to Windows 7. Appendix A. Configuring a workstation to deploy and administer z/VM 471 Apple macOS Apple macOS includes a VNC viewer, which is called Screen Sharing. It can be used to connect to VNC servers and is run by locating the Screen Sharing icon by using Launchpad or other technique. You can also use Finder to start a VNC session by using Screen Sharing, by choosing Go \u2192 Connect to Server or pressing Command-K. In the window that opens, enter a VNC URL that uses the following format: vnc://<ipaddress_or_hostname>:<port_number> Some alternative VNC viewers also are available. For example, RealVNC provides its VNC client for macOS. Linux Linux distributions provide several ways to obtain a VNC viewer. For example, on Red Hat Enterprise Linux, the tigervnc package provides the popular TigerVNC client. For the GNOME desktop environment, the Vinagre and Remmina programs also are available. IBM 3270 emulators To access",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.908239",
+    "chunk_number": 980,
+    "word_count": 160
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "hard limiting of scheduled system resources. This setting affects only users with absolute maximum shares that are defined by using the SET SHARE command or the SHARE directory statement. CP set quickdsp command When the quick dispatch option is assigned to a virtual machine, that virtual machine is added to the dispatch list immediately, whenever it has work to do, without waiting in the eligible list. Instead of going into one of the usual queues, such as Q1, Q2, or Q3, they go into a special queue, Q0, from where they get dispatched as soon as possible. Figure 12-1 shows the output of the cp set quickdsp command. Figure 12-1 QUICKDSP command Some useful cp set commands and their descriptions are listed in Table 12-2. Table 12-2 CP SET commands set quickdsp mntlinux on USER MNTLINUX: QUICKDSP = ON Set Description MDC Use the SET MDC command from a Class B user to: \u0002 Change minidisk cache settings for the entire system, for a real device, or for an active minidisk. \u0002 Purge the cache",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.365974",
+    "chunk_number": 818,
+    "word_count": 175
+  }
+}

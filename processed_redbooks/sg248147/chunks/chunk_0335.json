@@ -1,0 +1,18 @@
+{
+  "content": "OFF' 'SET PF3 QUIT' 'SET PF7 BACK' 'SET PF8 FORWARD' 'SET PF9 SPLTJOIN' 'SET PF10 RIGHT 10' 'SET PF11 LEFT 10' 'SET PF12 ?' 'SET PF23 SPLTJOIN' 'SET CMDLINE BOTTOM' 'SET CURLINE ON 3' 'SET SCALE OFF' 'SET STAY ON' 'SET COLOR CURLINE YE REV' 'SET COLOR PREFIX BL NO' RDK = 'PF1-HELP 3-Quit 7-PgDn 8-PgUp 9-SpJn 10-R10 11-L10 12-Repeat' 'SET RESERVED -2 WH HI 'RDK 4. Complete the following steps to make the modified file available to other virtual machines by copying it to the MAINT 19E disk with file mode suffix 2: a. Release the current 19E disk: ===> release 19E a. Use VMLINK to obtain the MAINT 19E disk read/write as file mode F: ===> vmlink maint 19E < 19E F MR > b. Copy it to the MAINT 19E disk (F) with file mode suffix 2. (Because the MAINT 19E disk is commonly accessed with a file mode suffix of 2, files are not seen by other virtual machines unless they have this file mode suffix.) ===> copy profile xedit A = = F2 c. Save the CMS named saved segment (NSS) with the following",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.511888",
+    "chunk_number": 335,
+    "word_count": 189
+  }
+}

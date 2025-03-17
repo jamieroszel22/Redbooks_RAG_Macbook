@@ -1,0 +1,18 @@
+{
+  "content": "the working CPC drawer is supported. The CPC drawer can then be replaced and added back into the configuration concurrently. 2.7.3 CPC drawer upgrade All fanouts that are used for I/O and coupling links are rebalanced concurrently as part of a CPC drawer addition to support better RAS characteristics. Chapter 2. Central processor complex hardware components 57 2.8 Processor configurations When a z16 is ordered, the PUs are characterized according to their intended usage. The PUs can be ordered as any of the following items: CP The processor is purchased and activated. PU supports running the z/OS, 21CS VSEn, z/VM, z/TPF, and Linux on IBM Z10 operating systems. It can also run Coupling Facility Control Code. IFL The Integrated Facility for Linux (IFL) is a processor that is purchased and activated for use by z/VM for Linux guests and Linux on Z10 operating systems. Unassigned IFL A processor that is purchased for future use as an IFL. It is offline and cannot be used until an upgrade",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.859265",
+    "chunk_number": 174,
+    "word_count": 167
+  }
+}

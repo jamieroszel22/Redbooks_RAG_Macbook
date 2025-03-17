@@ -1,0 +1,18 @@
+{
+  "content": "ENDVM363, DVHSHN3541I notifying MAINT630 at ENDVM363, request 453 for LINUX5 SSI DVHSHN3541I node *; to: CLONEDISK 0100 LINUX3 0100 DVHBIU3450I The source for directory entry DATAMOVE has been updated. DVHBIU3424I The next ONLINE will take place immediately. ... DVHBIU3428I Changes made to directory entry LINUX5 have been placed online. DVHREQ2289I Your CLONEDISK request for LINUX5 at * has completed; with RC = 0. DVHSHN3430I CLONEDISK operation for LINUX5 address 0100 has finished ... After this command completes, remember to enroll the user in the file pool and generate the ALIASES, as described in section 6.16.5, \u201cEnrolling the Linux virtual machines as USERS\u201d on page 243. Chapter 11. Deploying and maintaining Linux workloads 365 11.4.4 Adding a user to z/VM without the use of a prototype Complete the following steps to add a user to z/VM without the use of a prototype: 1. Log on as MAINT or MAINT630. 2. Create a file <USERID> DIRECT A: ===> xedit LINUX1 DIRECT A USER LINUX1 LNX4VM",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.290530",
+    "chunk_number": 792,
+    "word_count": 163
+  }
+}

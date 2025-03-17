@@ -1,0 +1,18 @@
+{
+  "content": "carry forward) \u2013 2 5-GbE and 10-GbE RoCE Express2 (two ports per feature, carry forward) \u2013 Coupling Express2 Long Reach (CE2 LR): Two ports per feature \u2013 Crypto Express8S (single/dual HSM) \u2013 Crypto Express7S (single/dual ports/HSM, carry forward) \u2013 Crypto Express6s (single HSM, carry forward) 4.1.2 PCIe Generation 3 The PCIe Generation 3 uses 128b/130b encoding for data transmission. This configuration reduces the encoding overhead to approximately 1.54% versus the PCIe Generation 2 overhead of 20% that uses 8b/10b encoding. The PCIe standard uses a low-voltage differential serial bus. Two wires are used for signal transmission, and a total of four wires (two for transmit and two for receive) form a lane of a PCIe link, which is full-duplex. Multiple lanes can be aggregated into a larger link width. PCIe supports link widths of 1, 2, 4, 8, 12, 16, and 32 lanes (x1, x2, x4, x8, x12, x16, and x32). The data transmission rate of a PCIe link is determined by the link width (numbers of",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.676583",
+    "chunk_number": 370,
+    "word_count": 167
+  }
+}

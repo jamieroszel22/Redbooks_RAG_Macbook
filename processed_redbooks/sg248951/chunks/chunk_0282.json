@@ -1,0 +1,18 @@
+{
+  "content": "factory built only. The CPC drawers are populated from the bottom up. This process defines the low-order and the high-order CPC drawers: \u0002 CPC drawer 1 (CPC 0 at position A10): Plug order 1 (low-order CPC drawer) \u0002 CPC drawer 2 (CPC 1 at position A15): Plug order 2 \u0002 CPC drawer 3 (CPC 2 at position A20): Plug order 3 (high-order CPC drawer) The assignment rules comply with the following order: \u0002 SAPs: Spread across CPC drawers and high PU chips. Each CPC drawer includes at least five standard SAPs. Start with the highest PU chip high core, then the next highest PU chip high core. \u0002 CPs and zIIPs: Assign CPs and zIIPs to cores on chips in lower CPC drawers working upward. 11 IBM zHyperLink Express1.1 and IBM zHyperLink Express are not managed by Resource Groups LIC. Chapter 3. Central processor complex design 111 \u0002 IFLs and ICFs: Assign IFLs and ICFs to cores on chips in higher CPC drawers working downward. \u0002 IFP: Two IFPs are assigned to CPC drawer 012 for a Max39; CPC drawer 1 for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.292832",
+    "chunk_number": 282,
+    "word_count": 182
+  }
+}

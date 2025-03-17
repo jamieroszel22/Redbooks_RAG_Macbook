@@ -1,0 +1,18 @@
+{
+  "content": "The number describes the length of the keys. \u0002 ECDSA (192, 224, 256, 384, and 521 Prime/NIST): ECC is a family of asymmetric cryptographic algorithms that are based on the algebraic structure of elliptic curves. ECC can be used for encryption, pseudo-random number generation, and digital certificates. The Elliptic Curve Digital Signature Algorithm (ECDSA) Prime/NIST method is used for ECC digital signatures, which are recommended for government use by NIST. \u0002 ECDSA (160, 192, 224, 256, 320, 384, and 512 BrainPool): ECC BrainPool is a workgroup of companies and institutions that collaborate on developing ECC algorithms. The ECDSA algorithms that are recommended by this group are supported. \u0002 ECDH (192, 224, 256, 384, and 521 Prime/NIST): Elliptic Curve Diffie-Hellman (ECDH) is an asymmetric protocol that is used for key agreement between two parties by using ECC-based private keys. The recommendations by NIST are supported. \u0002 ECDH (160, 192, 224, 256, 320, 384, and 512 BrainPool): ECDH",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.318852",
+    "chunk_number": 540,
+    "word_count": 156
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "The FICON Express32S feature is installed in the PCIe+ I/O drawer. Each of the two independent ports is capable of 8 Gbps, 16 Gbps, or 32 Gbps. The link speed depends on the capability of the attached switch or device. The link speed is auto-negotiated, point-to-point, and is transparent to users and applications. The following types of FICON Express32S optical transceivers are supported (no mix on same card): \u0002 FICON Express32S LX feature, FC 0461, with two ports per feature, LC Duplex connectors \u0002 FICON Express32S SX feature, FC 0462, with two ports per feature, LC Duplex connectors For more information about supported distances, see Table 4-6 on page 163. FICON Express16SA The FICON Express16SA feature is installed in the PCIe+ I/O drawer. Each of the two independent ports is capable of 8 or 16 Gbps. The link speed depends on the capability of the attached switch or device. The link speed is auto-negotiated, point-to-point, and is transparent to users and applications. The",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.827405",
+    "chunk_number": 406,
+    "word_count": 163
+  }
+}

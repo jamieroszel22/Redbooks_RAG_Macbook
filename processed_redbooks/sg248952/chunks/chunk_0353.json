@@ -1,0 +1,18 @@
+{
+  "content": "z/OS paging and CF shared queue overflow). Instead, they transparently benefit from the changes in the hardware implementation. No option is available for VFM plan ahead. The only option is to always include zVFM plan ahead when Flexible Memory option is selected. 136 IBM z16 A02 and IBM z16 AGZ Technical Guide IBM SSC is a part of the Pervasive Encryption concept that was introduced with IBM z14, which is aimed at delivering best IBM Security hardware and software enhancements, services, and practices for 360-degree infrastructure protection. LPAR is defined as IBM SSC by using the HMC. The IBM SSC solution includes the following key advantages: \u0002 Applications require zero changes to use IBM SSC; software developers do not need to write any IBM SSC-specific programming code. \u0002 End-to-end encryption (in-flight and at-rest data): \u2013 Automatic Network Encryption (TLS, IPsec): Data-in-flight. Automatic File System Encryption (LUKS): Data-at-rest. \u2013 Linux Unified Key Setup (LUKS) is the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.596817",
+    "chunk_number": 353,
+    "word_count": 155
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "F PERFTK F RACF F RSCS F TCPIP F VMHCD Select a System Default Language. X AMENG _ UCENG Select a System DASD type. DASD size can be changed. X 3390 10016 _ FBA DASD 6.0 Enter the name of common service filepool. Filepool Name: VMPSFS__ Select a System Type: Non-SSI or SSI X Non-SSI Install: System Name RDBKZVMF _ SSI Install: Number of Members _ SSI Cluster Name________ F1= HELP F3/F12= QUIT F5= Process ENTER= Refresh 126 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 5. Enter the letter X next to Non-SSI Install and enter your System Name inn the System Name field. Leave blank the SSI Install, Number of members, and Cluster Name fields. The information that was selected is displayed, as shown in Figure 5-28. Figure 5-28 Final products selection 6. You see a summary of your choices and are prompted whether you want to continue. Carefully review all of the values. If the values are correct, enter Y to answer the question and then, press Enter. 7. Enter the DASD volumes and addresses in",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.407304",
+    "chunk_number": 306,
+    "word_count": 178
+  }
+}

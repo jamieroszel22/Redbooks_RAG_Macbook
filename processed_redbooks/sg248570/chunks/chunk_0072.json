@@ -1,0 +1,18 @@
+{
+  "content": "data through a single point of entry with a shared metadata layer. 18 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data You can use multiple query engines to optimize analytics and AI workloads for price performance and prepare your data for AI with an integrated vector database. Get greater value from your data investments with an open, hybrid, governed data lakehouse that is optimized for all data and AI workloads, and put AI to work. Many of the watsonx.data components shown in Figure 2-6 are based on open-source technologies such as Presto, Iceberg, Hive, Ranger, and others. IBM watsonx.data also offers a wide range of integration with existing IBM and third-party products. Figure 2-6 Overview of watsonx.data components IBM watsonx.data can be deployed across multiple environments, including but not limited to IBM Cloud, Amazon Web Services (AWS) infrastructure, and on premises. The storage layer is centered around object storage, which is highly",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.614371",
+    "chunk_number": 72,
+    "word_count": 155
+  }
+}

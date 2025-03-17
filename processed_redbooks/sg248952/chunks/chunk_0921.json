@@ -1,0 +1,18 @@
+{
+  "content": "disruptions by boosting a set of recovery processes that create significant pain points forour users today. These recovery processes include: \u2013 SVC Dump boost \u2013 Middleware restart/recycle boost \u2013 Hyperswap configuration load boost For more information about System Recovery Boost, see Introducing IBM Z System Recovery Boost, REDP-5563. 9.7.1 Scheduled outages Concurrent hardware upgrades, parts replacement, driver upgrades, and firmware fixes that are available with IBM z16 A02 and IBM z16 AGZ all address the elimination of scheduled outages. Also, the following indicators and functions that address scheduled outages are included: \u0002 Memory data bus lane sparing. This feature reduces the number of repair actions for memory. \u0002 Dual tabbed Memory Clock signals \u0002 Triple DRAM chipkill tolerance. \u0002 Processor drawer power distribution N+2 design. The CPC Drawer uses point of load (POL) cards in a highly redundant N+2 configuration. POL regulators are daughter cards that contain the voltage",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.721458",
+    "chunk_number": 921,
+    "word_count": 149
+  }
+}

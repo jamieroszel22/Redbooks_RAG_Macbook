@@ -1,0 +1,18 @@
+{
+  "content": "(SCSI) tasks are described. This chapter includes the following topics: \u0002 13.1, \u201cAdding disk space to Linux virtual machines\u201d on page 398 \u0002 13.2, \u201cAdding a logical volume\u201d on page 404 \u0002 13.3, \u201cExtending a logical volume\u201d on page 408 \u0002 13.4, \u201cMoving a physical volume\u201d on page 411 13 398 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 13.1 Adding disk space to Linux virtual machines This section describes how to add disk space to a Linux virtual machine. This disk space might come from different types of disks. The types of disk are described in 2.4, \u201cDisk planning\u201d on page 43. 13.1.1 Making new minidisks or count key data DASD available in Linux After making the required changes in the z/VM user directory to add a new minidisk or full-volume DASD to a Linux virtual server, the steps in this section describe the required tasks in Linux to bring those volumes online and incorporate them into the Linux system. In our example environment, we added new volumes by using the addresses 0.0.0702,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.506507",
+    "chunk_number": 856,
+    "word_count": 173
+  }
+}

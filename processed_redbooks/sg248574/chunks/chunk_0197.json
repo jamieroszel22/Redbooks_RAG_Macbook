@@ -1,0 +1,18 @@
+{
+  "content": "ensure that the models continuously learn and adapt from the previous run. This approach mitigates catastrophic forgetting and reinforces learning from high-value data points, which improves the models' robustness and generalization capabilities. Figure 5-14 encapsulates a holistic and dynamic approach to model fine-tuning within the watsonx.ai ecosystem, which highlights the interplay of advanced methodologies and real-time performance monitoring to achieve superior gen AI solutions. InstructLab will be available on watonx.ai as Software-as-a-Service (SaaS), and it will be an important addition for gen AI on an enterprise level. It will enable a pool of resources to fine-tune and improve generative LLMs. 84 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai 5.4.4 InstructLab use case examples Introducing InstructLab on watsonx.ai heralds a new era of advancements in gen AI, particularly in the realm of enterprise-level applications. This innovative platform",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.983170",
+    "chunk_number": 197,
+    "word_count": 141
+  }
+}

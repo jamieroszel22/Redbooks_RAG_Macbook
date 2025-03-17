@@ -1,0 +1,18 @@
+{
+  "content": "of the CPC (processor chip, memory subsystem, I/O, and service) in areas, such as error checking, error protection, failure handling, error checking, faster repair capabilities, sparing, and cooling. The ability to cluster multiple systems in a Parallel Sysplex takes the commercial strengths of the z/OS platform to higher levels of system management, scalable growth, and continuous availability. The IBM z16 A02 and IBM z16 AGZ systems build on the RAS of the IBM z15 family with the following RAS improvements: \u0002 System Recovery Boost \u2013 System Recovery Boost was introduced with IBM z15. It offers customers more Central Processor (CP) capacity during system recovery operations to accelerate the startup (IPL), shutdown or stand-alone dump operations (at image level - LPAR15). System Recovery Boost requires operating system support. No other IBM software charges are made during the boost period. System Recovery Boost can be used during LPAR shutdown or start to make the running operating",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.581530",
+    "chunk_number": 110,
+    "word_count": 154
+  }
+}

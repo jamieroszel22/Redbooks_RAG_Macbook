@@ -1,0 +1,18 @@
+{
+  "content": "to z16 A02 and IBM z16 AGZ Max68 configurations. 126 IBM z16 A02 and IBM z16 AGZ Technical Guide processor drawers and also on fewer PU chips, based on the processor drawers\u2019 topology. The effect of this process is evident in dedicated and shared LPARs that use HiperDispatch. LPAR dynamic PU reassignment is transparent to operating systems. LPAR group capacity limit (LPAR group absolute capping) The group capacity limit feature allows the definition of a group of LPARs on a z16 system, and limits the combined capacity usage by those LPARs. This process allows the system to manage the group so that the group capacity limits in MSUs per hour are not exceeded. To take advantage of this feature, you must be running z/OS V2R2 or later in the all LPARs in the group. PR/SM and WLM work together to enforce the capacity that is defined for the group and the capacity that is optionally defined for each individual LPAR. LPAR absolute capping Absolute capping is a logical partition control that",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.507716",
+    "chunk_number": 328,
+    "word_count": 171
+  }
+}

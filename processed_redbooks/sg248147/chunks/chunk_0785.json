@@ -1,0 +1,18 @@
+{
+  "content": "connection to the external network. As 10-gigabit Ethernet (10 GiE) becomes more prevalent, the small number of possible use cases for this scenario dwindled even further. An exceptionally small number of cases exist in which a direct-attached OSA is necessary when the VSWITCH uses 10 GiE uplinks. Important: The direct-attached OSA configuration is not a recommended configuration. Use it with extreme caution. It is a single point of failure in an otherwise highly available environment. It can also become packed and stall, which triggers rollbacks or failures in fault-intolerant consumers. The VSWITCH does not exhibit this weakness and remains the recommended method. 362 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 11.3.3 Configuring z/VM to provide direct-attached OSA interfaces The configuration that is needed to provide OSA interfaces to a virtual machine is basically the same as dedicating three suitable OSA device addresses to the virtual machine. Example 11-8 shows a sample entry",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.268490",
+    "chunk_number": 785,
+    "word_count": 152
+  }
+}

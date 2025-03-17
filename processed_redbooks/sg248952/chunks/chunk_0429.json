@@ -1,0 +1,18 @@
+{
+  "content": "or in the hardware configuration definition (HCD). 25GbE RoCE requirements: \u0002 The 25GbE RoCE Express3 LR feature does not support auto-negotiation to any other speed and runs in full duplex mode only. \u0002 25GbE/10GbE RoCE features should not be mixed in a z/OS SMC-R Link Group. 10 GbE RoCE Express3 requirements: \u0002 The 10GbE RoCE Express3 SR feature does not support auto-negotiation to any other speed and runs in full duplex mode only. \u0002 25GbE/10GbE RoCE features should not be mixed in a z/OS SMC-R Link Group. Chapter 4. I/O structure 171 The maximum supported unrepeated distance, point-to-point, is 100 meters (328 feet). A client-supplied cable is required. Two types of cables can be used for connecting the port to the selected 10GbE switch or to another 10GbE RoCE Express3 LR feature: \u0002 OM3 50-micron multimode fiber optic cable that is rated at 2000 MHz-km that ends with an LC Duplex connector, which supports 70 meters (229 feet) \u0002 OM4 50-micron multimode fiber optic cable that is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.891381",
+    "chunk_number": 429,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Subsequent keys within the same example should not include the -. Pay attention to special characters like \" and ', which must be escaped by using a backslash (\\). To simplify handling these characters, YAML enables the use of the | character at the start of a value, which disables special character interpretation and supports multi-line strings. For example, lines that start with | are followed by an indented block that contains the string's content. To avoid unexpected YAML parser behavior, it is a best practice to quote all values by using double quotation marks (\"). This approach prevents values such as Yes or No from being interpreted as Boolean types (True or False). For more information about managing multi-line strings and YAML nuances, see the yaml-multiline.info file. Now, after creating a YAML file for skills and knowledge, as shown in Figure 5-7 on page 68, you can validate your new data. Use the ilab taxonomy diff command to help ensure that ilab is registering your new",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.919279",
+    "chunk_number": 181,
+    "word_count": 167
+  }
+}

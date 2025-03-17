@@ -1,0 +1,18 @@
+{
+  "content": "also integrates powerful mechanisms of data prefetch, fast and high capacity level 1 (L1) and level 2 (L2) caches, enhanced branch prediction, and other improvements and innovations that streamlines the data processing by the AI accelerator. The hardware, firmware, and software are vertically integrated to deliver the new AI for inference functions seamless to the applications. 90 IBM z16 (3931) Technical Guide The location of the integrated accelerator for AI on the Telum chip is shown in Figure 3-14. Figure 3-14 Integrated Accelerator for AI on the IBM Telum processor The AI accelerator is driven by the new Neural Networks Processing Assist (NNPA) instruction. NNPA is a new nonprivileged Complex Instruction Set Computer (CISC) memory-to-memory instruction that operates on tensor objects that are in user program\u2019s memory. AI functions and macros are abstracted by NNPA. Chapter 3. Central processor complex design 91 Figure 3-15 shows the AI accelerator and its components: \u0002 Data",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.111046",
+    "chunk_number": 235,
+    "word_count": 153
+  }
+}

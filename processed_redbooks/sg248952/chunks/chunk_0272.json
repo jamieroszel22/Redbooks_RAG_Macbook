@@ -1,0 +1,18 @@
+{
+  "content": "listed in Table 3-4. Table 3-4 ICFs per feature ICFs exclusively run CFCC. ICFs do not change the model capacity identifier of the z16 A02 and IBM z16 AGZ. Software product license charges that are based on the model capacity identifier are not affected by the addition of ICFs. All ICFs within a configuration are grouped into the ICF pool. The ICF pool can be seen on the HMC workplace. The ICFs can be used by coupling facility LPARs only. ICFs are dedicated or shared. ICFs can be dedicated to a CF LPAR, or shared by multiple CF LPARs that run on the same system. However, having an LPAR with dedicated and shared ICFs at the same time is not possible. Coupling Thin Interrupts With the introduction of Driver 15F (zEC12 and zBC12), the IBM z/Architecture provides a thin interrupt class called Coupling Thin Interrupts9. The capabilities that are provided by hardware, firmware, and software support the generation of coupling-related \u201cThin Interrupts\u201d when the following situations occur: \u0002",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.248092",
+    "chunk_number": 272,
+    "word_count": 168
+  }
+}

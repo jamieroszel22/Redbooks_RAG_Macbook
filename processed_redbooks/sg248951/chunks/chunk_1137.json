@@ -1,0 +1,18 @@
+{
+  "content": "Capacity Solution. In May 2021, IBM announced a new hardware solution, called Hardware Consumption Solution. All of these options were gathered into a new family of IBM Z pricing called Tailored Fit Pricing (TFP). Note: For more information about Tailored Fit Pricing, see this IBM Z Resources web page. The information that is included in this section about TFP is taken in part from the IBM publication Tailored Fit Pricing - A sensible pricing model, 75034875USEN-01. Appendix D. Tailored Fit Pricing and IBM Z Flexible Capacity for Cyber Resiliency 515 The Software Consumption Solution and the Hardware Consumption Solution are discussed next. Software Consumption Model To meet the demands of modern workloads and provide a commercial confidence to match the technology confidence, the Consumption Solution was well received and adopted. Customers typically transition onto TFP Consumption for the following reasons: \u0002 It is a software pricing model that is better suited to today\u2019s workloads",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.383287",
+    "chunk_number": 1137,
+    "word_count": 154
+  }
+}

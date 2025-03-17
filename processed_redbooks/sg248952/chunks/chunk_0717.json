@@ -1,0 +1,18 @@
+{
+  "content": "dynamic routing despite the missing support in the processor or storage controllers. Therefore, a health check is provided that interrogates the switch to determine whether dynamic routing is enabled in the switch fabric. No action is required on z/OS to enable the health check; it is automatically enabled at IPL and reacts to changes that might cause problems. The health check can be disabled by using the PARMLIB or SDSF modify commands. The supported operating systems are listed in Table 7-6 on page 252. For more information about FICON Dynamic Routing (FIDR), see Chapter 4, \u201cI/O structure\u201d on page 139. Global resource serialization FICON CTC toleration For some configurations that depend on ESCON CTC definitions, global resource serialization (GRS) FICON CTC toleration that is provided with APAR OA38230 is essential, especially after ESCON channel support was removed from IBM Z starting with IBM zEC12. The supported operating systems are listed in Table 7-6 on page 252. Increased",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.035673",
+    "chunk_number": 717,
+    "word_count": 157
+  }
+}

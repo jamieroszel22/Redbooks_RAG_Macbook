@@ -1,0 +1,18 @@
+{
+  "content": "a second CBU record is added to the configuration for two CP CBUs, two IFL CBUs, and two zIIP CBUs, with five more tests and a five-year CBU contract. The result is that a total number of 10 years of CBU ordered: Five years in the first record and five years in the second record. The two CBU records are independent and can be activated individually. Five more CBU tests were requested. Because a total of five years are contracted for a total of three CP CBUs (two IFL CBUs and two zIIP CBUs), they are shown as 15, 10, 10, and 10 CBU years for their respective types. Example 2-2 Second CBU record and resulting configuration features NEW00001 - CBU - Replenishment is required to reactivate Expiration(06/21/2017) NEW00002 - CBU - CP(2) - IFL(2) - zIIP(2) Total Tests(5) - Years(5) Resulting cumulative feature numbers in configuration: 6817 Total CBU Years Ordered 10 6818 CBU Records Ordered 2 6819 5 Additional CBU Tests 1 6820 Single CBU CP-Year 15 6822 Single CBU IFL-Year 10 6828 Single",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.909732",
+    "chunk_number": 186,
+    "word_count": 176
+  }
+}

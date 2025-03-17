@@ -1,0 +1,18 @@
+{
+  "content": "Performance FICON not used for paging */ b. Move the entry to Clear_TDisk from the Disable section to Enable by running the following actions, shown in Example 6-3: ====> /Clear_TDisk ====> On prefix area, put M (of Move) in this line ====> On prefix area, put F (of After) in the line you want to move it to Example 6-3 Moving one line inside SYSTEM CONFIG (Features) 00150 Features , 00151 Retrieve , 00152 Default 20 , 00153 Maximum 255 , 00154 MaxUsers noLimit , 00155 Vdisk Userlim 144000 blocks, 00156 Disconnect_Timeout 15, 00157 00158 Enable , f0159 New_Devices_Initialized_When_Added, 00160 00161 Disable , 00162 Set_Privclass , 00163 Auto_Warm_IPL , m0164 Clear_TDisk , 00165 Validate_Shutdown , 00166 STP_Timezone , 00167 Paging_Alias , 00168 Paging_HPF ====> enter The results of these actions are shown in Example 6-4. Example 6-4 Results of moved line inside SYSTEM CONFIG file (Features) 00150 Features , 00151 Retrieve , 00152 Default 20 , 00153 Maximum 255 , 00154 MaxUsers noLimit",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.550994",
+    "chunk_number": 346,
+    "word_count": 163
+  }
+}

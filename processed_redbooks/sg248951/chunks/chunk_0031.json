@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . 360 8.7 z/OS Capacity Provisioning. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 361 8.8 System Recovery Boost Upgrade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 366 viii IBM z16 (3931) Technical Guide 8.9 Capacity for Planned Event. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 367 8.10 Capacity Backup . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 367 8.10.1 Ordering . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 368 8.10.2 CBU activation and deactivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 370 8.10.3 Automatic CBU enablement for GDPS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 371 8.11 Flexible Capacity Cyber Resiliency. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.264804",
+    "chunk_number": 31,
+    "word_count": 387
+  }
+}

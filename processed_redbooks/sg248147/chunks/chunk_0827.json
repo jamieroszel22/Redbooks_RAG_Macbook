@@ -1,0 +1,18 @@
+{
+  "content": "00/00/00.00:00:00.$BASEDDR RSCS Networking The Performance Toolkit is now enabled. You can also verify it by running the QUERY PRODUCT command again. 12.2.2 Configuring web browser support Use the following command to log on to the default TCPMAINT user ID: LOGON TCPMAINT BY IBMVM1 You can change the default TCPMAINT user ID in the USER DIRECT file. After the product is enabled, the TCP/IP profile must be modified to enable web access to the Performance Toolkit. The following example sets the port to 80, which is the default for a web browser: 1. Log on to TCPMAINT. Edit the TCPIP configuration file - the default name is PROFILE TCPIP and search for the string reserve ports (where z/VM TCP/IP ports are reserved): ===> x profile tcpip d ====> /port 2. Add the following line under the PORT entries: ... PORT 20 TCP FTPSERVE NOAUTOLOG ; FTP Server 21 TCP FTPSERVE ; FTP Server 23 TCP INTCLIEN ; TELNET Server ; 25 TCP SMTP ; SMTP Server 80 TCP PERFSVM ; Performance Toolkit ; 111 TCP PORTMAP",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.400142",
+    "chunk_number": 827,
+    "word_count": 175
+  }
+}

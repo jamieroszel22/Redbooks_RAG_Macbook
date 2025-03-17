@@ -1,0 +1,18 @@
+{
+  "content": "CTL-READ \u2192 Device: 0AD1 Unit: 001 Role: CTL-WRITE \u2192 Device: 0AD2 Unit: 002 Role: DATA Port: 2205 Options: Broadcast Multicast IPv6 IPv4 VLAN Unicast IP Addresses: 9.60.87.203 MAC: 02-04-0D-00-00-58 FE80::204:D00:200:58 MAC: 02-04-0D-00-00-58 Local Multicast IP Addresses: 224.0.0.1 MAC: 01-00-5E-00-00-01 FF01::1 MAC: 33-33-00-00-00-01 Local FF02::1 MAC: 33-33-00-00-00-01 Local FF02::1:FF00:58 MAC: 33-33-FF-00-00-58 Local Because 0AD0 - 0AD2 are used for your first NIC, if you must define a secondary NIC by using 0AD3. 2.11.3 Minidisk and virtual disk naming convention for Linux To ensure it is clear that a minidisk or virtual disk is used for Linux, begin at virtual device 0700. This device makes it possible to easily understand what is a Linux volume versus something else. Avoid the use of the range 0100 - 06FF for Linux minidisks or dedicated volumes. 2.11.4 Backup file naming convention It is recommend that you keep copies of important original z/VM and Linux configuration files in",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.930847",
+    "chunk_number": 194,
+    "word_count": 152
+  }
+}

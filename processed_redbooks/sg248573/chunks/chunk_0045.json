@@ -1,0 +1,18 @@
+{
+  "content": "your car? Without brakes you would actually never be able to drive fast. We have developed a governance system to make sure millions of people can get in cars, trucks and buses each day and get to their destination safely. This includes traffic laws, driver's licenses, speed limits, road signs, technical safety devices and more. Extending that traffic metaphor to AI, AI governance helps you: \u0002 Educate your employees about the rules of the road so they don't need a huge level of oversight every time they get in their car. \u0002 Train your employees how to drive their AI safely (for example through an Ethics by Design method) \u0002 Determine when it is safe to go fast (typically large numbers of AI use cases that an organization agrees are low- to no-risk). \u0002 Identify those use cases where extra care is required, and clearly lay out what the obligations are. \u0002 Implement guardrails in the extra dangerous hairpin turns to catch AI mishaps even if the driver is momentarily distracted. \u0002 Maintain",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.595045",
+    "chunk_number": 45,
+    "word_count": 173
+  }
+}

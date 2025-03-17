@@ -1,0 +1,18 @@
+{
+  "content": "\u0002 Diagnostic and maintenance tasks \u00a9 Copyright IBM Corp. 2022. 197 Chapter 5. Central processor complex channel subsystem This chapter describes the concepts of the IBM z16 A01 channel subsystem, including multiple channel subsystems and multiple subchannel sets. It also describes the technology, terminology, and implementation aspects of the channel subsystem. This chapter includes the following topics: \u0002 5.1, \u201cChannel subsystem\u201d on page 198 \u0002 5.2, \u201cI/O configuration management\u201d on page 206 \u0002 5.3, \u201cChannel subsystem summary\u201d on page 207 5 198 IBM z16 (3931) Technical Guide 5.1 Channel subsystem Channel subsystem (CSS) is a collective name of facilities that IBM Z servers use to control I/O operations. The channel subsystem directs the flow of information between I/O devices and main storage. It allows data processing to proceeded concurrently with I/O processing, which relieves data processors (central processor (CP) and Integrated Facility for Linux [IFL]) of the task of",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.126798",
+    "chunk_number": 489,
+    "word_count": 149
+  }
+}

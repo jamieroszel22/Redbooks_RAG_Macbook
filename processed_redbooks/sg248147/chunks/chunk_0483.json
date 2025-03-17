@@ -1,0 +1,18 @@
+{
+  "content": "SUBPRO-3 PROTODIR A1 DVHCMS3868I CMS PROTODIR E2 DVHCMS3868I LINUX PROTODIR E2 DVHCMS3868I CMS PROTODIR G2 DVHCMS3868I LINUX PROTODIR G2 DVHREQ2289I Your CMS request for DIRMAINT at * has completed; with RC = 0. ... or use PROTOLST EXEC that was downloaded, as described in 6.11.2, \u201cCopying the utilities to Shared File System file pools\u201d on page 186, Reviewing contents of a z/VM User Directory prototype You must know the name of the prototype to review its contents. We obtained a full listing of all prototypes as described in, \u201cListing of all z/VM User Directory prototypes\u201d. Using LNXPROTO as an example, the following command shows you the contents of the LNXPROTO prototype: ===> dirmaint for dirmaint cms type lnxproto protodir a DVHXMT1191I Your CMS request has been sent for processing to DIRMAINT ... ... DVHREQ2288I Your CMS request for DIRMAINT at * has been accepted. DVHCMS3868I USER LNXPROTO NOLOG DVHCMS3868I INCLUDE LNXPDFLT DVHCMS3868I AMDISK 0100 3390 AUTOG 5008 POOL1 MR",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.086449",
+    "chunk_number": 483,
+    "word_count": 159
+  }
+}

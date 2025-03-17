@@ -1,0 +1,18 @@
+{
+  "content": "the Internet. The following example shows the use of rsync with file attribute retention and transport compression that is enabled to copy the compressed file from an intermediate Linux workstation to an FTP server at the <ipaddress> to the correct directory. Windows users might want to use an open source FTP application, such as FileZilla or WS-FTP to perform this step: /tmp/vmisodisk/ bash $ ===> rsync -az --progress *.zip ftproot@<ipaddress>:/ftp/zvm/720 ... 5. List the newly copied file: # cd /ftp/zvm/720 # ls -l 6. Decompress the file by using the unzip command, which creates the subdirectory cpdvd/: # unzip CD749500.zip The z/VM product installation .iso file is now ready. Important: Do not unpack or expand any of the materials that are downloaded from Shop Z or provided with this book on a Windows system. Because of the differences in code pages, unpacking can result in corrupting the installation files. Note: Open source software does not mean unrestricted use in all cases. It",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.242853",
+    "chunk_number": 276,
+    "word_count": 162
+  }
+}

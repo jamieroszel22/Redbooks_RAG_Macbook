@@ -1,0 +1,18 @@
+{
+  "content": "settings. Finally unmount, # set offline and unlink the disk. echo \"Updating cloned image ...\" if [ -n \"$VG_NAME\" ]; then link_disks $DASD # FIXME wait for disks sleep 2 /sbin/vgscan # FIXME wait for vgscan sleep 2 /sbin/vgchange -a y $VG_NAME mount_cloned_image_lvm $CLONE_LINK else link_one $target_linux_id $DASD_ROOT $CLONE_LINK W set_online $CLONE_LINK mount_cloned_image $CLONE_LINK fi modify_cloned_image umount_cloned_image if [ -n \"$VG_NAME\" ]; then /sbin/vgchange -a n $VG_NAME unlink_disks $DASD else set_offline $CLONE_LINK unlink_one $CLONE_LINK fi # Autolog the clone unless AUTOLOG has been set to \"n\" [ \"$AUTOLOG\" = \"y\" ] && autolog echo \"Successfully cloned $source_linux_id to $target_linux_id\" SLES clone.sh script This section lists the code for the /usr/local/sbin/clone.sh script that clones from a SLES golden Linux image to a target virtual machine. #!/bin/sh # # clone.sh <LinuxUserID> - clone a Linux server running under z/VM # # For details on how this script works see",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.145922",
+    "chunk_number": 1046,
+    "word_count": 147
+  }
+}

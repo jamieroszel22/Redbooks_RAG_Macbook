@@ -1,0 +1,18 @@
+{
+  "content": "units (PDUs). The following options are available for physically installing the server: \u0002 Single phase and three phase AC utility power, configuration dependant. \u0002 Installation on a raised floor or non-raised floor \u0002 I/O and power cables can exit under the raised floor or off the top of the server frames In the following two sections the different environmental specifications and requirements of both the IBM z16 A02 and IBM z16 AGZ are described separately. 11.2 IBM z16 A02 environmental considerations The IBM z16 A02 is build in a 19-inch format industry standard frame. It supports installation on a raised floor or non-raised floor. The servers are air cooled, with air flow direction from front to back. 11.2.1 Power infrastructure The IBM z16 A02 r is available in the following power options: \u0002 Single phase Intelligent Power Distribution Unit-based power (iPDU) - or PDU Single phase is only available single CPC drawer configurations \u0002 Three-phase Intelligent Power Distribution",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.157015",
+    "chunk_number": 1044,
+    "word_count": 158
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "VMFPLCD command processing is in progress, which might require several seconds (or minutes) to complete VMFCPB4003I File 7VMCPR20 SERVLINK C created VMFCPB4036I Package build for PRODID 7VMCPR20 completed successfully VMFCPB4027I Initiating package build for product ID 6VMLEN20 (Package 3 of 3) VMFCPB4026I Identifying DELTA content for envelope inclusion VMFCPB4024I Creating file: CSMLEN01 ENVELOPE C VMFCPB4003I File CSMLEN01 ENVELOPE C created VMFCPB4024I Creating file: CSMLEN02 ENVELOPE C VMFCPB4003I File CSMLEN02 ENVELOPE C created VMFCPB4024I Creating file: CSMLEN03 ENVELOPE C VMFCPB4003I File CSMLEN03 ENVELOPE C created VMFCPB4026I Identifying SAMPLEP content for envelope inclusion VMFCPB4026I Identifying BUILDP content for envelope inclusion VMFCPB4026I Identifying BUILDL content for envelope inclusion VMFCPB4026I Identifying NCHELP content for envelope inclusion VMFCPB4026I Identifying LOCALMOD content for envelope inclusion VMFCPB4024I Creating file: CSMLEN04 ENVELOPE C",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.794499",
+    "chunk_number": 654,
+    "word_count": 125
+  }
+}

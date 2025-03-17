@@ -1,0 +1,18 @@
+{
+  "content": "includes any standby and reserved memory that the guest might have. 254 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 3. Issue the VMRELOCATE TEST command with a target of the second SSI member to test whether the system is eligible for relocation: ===> vmrelo test linux1 ITSOZVM2 User LINUX1 is eligible for relocation to ITSOZVM2 Ready; T=0.01/0.01 10:52:06 4. You might choose to start a ping from another session. For example, to ping continuously from a DOS session, issue the following command: c:\\>ping /t vmlnx2-1.itso.ibm.com Pinging virtcook1.itso.ibm.com [9.12.7.1] with 32 bytes of data: Reply from 9.12.7.96: bytes=32 time=4ms TTL=64 Reply from 9.12.7.96: bytes=32 time=3ms TTL=64 Reply from 9.12.7.96: bytes=32 time=3ms TTL=64 ... 5. Issue the VMRELOCATE MOVE command to migrate the running Linux system: ===> vmrelo move linux1 itsozvm2 Relocation of LINUX1 from ITSOZVM1 to ITSOZVM2 started User LINUX1 has been relocated from ITSOZVM1 to ITSOZVM2 6. Monitor the ping session to see",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.439312",
+    "chunk_number": 568,
+    "word_count": 153
+  }
+}

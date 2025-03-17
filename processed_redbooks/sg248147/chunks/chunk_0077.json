@@ -1,0 +1,18 @@
+{
+  "content": "\u201cConceptual overview\u201d on page 13 \u0002 Chapter 2, \u201cPlanning\u201d on page 33 \u0002 Chapter 3, \u201cSecurity considerations\u201d on page 71 \u0002 Chapter 4, \u201cOptional extra features of z/VM\u201d on page 83 Part 1 12 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 13 Chapter 1. Conceptual overview This chapter provides a concise introduction to the concept of using IBM LinuxONE or IBM Z as an enterprise-grade private or hybrid cloud infrastructure for Linux workloads. Although the concepts of virtualization and cloud computing are familiar to many by now, there is information in this section that is likely to be unknown, even to readers who might consider themselves experts. For this reason, it is our recommendation that anyone reading this book should fully read and understand this chapter. After reading this chapter, you understand why the use of this platform as a fully-integrated cloud solution continues to grow in popularity and how it can surpass",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.427358",
+    "chunk_number": 77,
+    "word_count": 163
+  }
+}

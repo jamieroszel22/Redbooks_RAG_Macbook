@@ -1,0 +1,18 @@
+{
+  "content": "residency time metrics The CF will calculate in microseconds via a moving weighted average the elapsed time a data area or directory entry resides in a storage class before it is reclaimed XES will return this information on an IXLCACHE REQUEST=READSTGSTATS and IXLMG STRNAME=strname,STGCLASS=stgclass request. \u0002 Improved exploitation support for handling of lock structure \u201crecord data full\u201d conditions, by: \u2013 Thresholding record data structure full conditions to occur when less than 100% full, reserving a special \u201cfor emergency use only\u201d pool of record data entries for critical recovery purposes (exploiter-specified threshold). \u2013 Providing new APIs that allow exploiters to make use of this new reserved pool only when needed for recovery actions, but not for normal database locking purposes. z/OS APAR OA60650 and VSAM RLS APAR OA62059 \u2013 z/OS 2.3, 2.4, and 2.5 \u0002 DYNDISP=ON|OFF is deprecated For CFCC Level 25, DYNDISP=THIN is the only available behavior for shared-engine CF dispatching",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.897319",
+    "chunk_number": 678,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "between participating IBM z16 A02 and IBM z16 AGZ systems at different sites that remain operational at the target site for up to one year. \u0002 Hybrid Cloud platform: Accelerate application modernization and IT automation with IBM Z and Cloud Modernization Stack to connect, provision, and manage z/OS systems across the hybrid cloud with Red Hat OpenShift. \u0002 System Recovery Boost: The enhancements can provide boosted processor capacity and parallelism for specific events. Client-selected middleware starts and restarts may be boosted to expedite recovery for middleware regions and restore steady-state operations as soon as possible. SVC dump processing and HyperSwap configuration load and reload may be boosted to minimize the impact to running workloads. \u0002 z/OS Validated Boot: With IBM z16 A02 and IBM z16 AGZ and accompanying z/OS V2.5 operating system support, IBM is providing optional basic support for performing a Validated Boot (IPL) of z/OS systems, using IPL volumes defined and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.383697",
+    "chunk_number": 65,
+    "word_count": 153
+  }
+}

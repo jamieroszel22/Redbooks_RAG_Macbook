@@ -1,0 +1,18 @@
+{
+  "content": "HMC. More info about RCL can be found here: https://www-01.ibm.com/servers/resourcelink/lib03010.nsf/pages/remoteCodeLoadForIb mZFirmware?OpenDocument 10.5.6 Monitoring This section describes systems monitoring considerations. Monitor task group The Monitor task group on the HMC and SE includes monitoring-related tasks for IBM Z CPCs, as shown in Figure 10-29. Figure 10-29 HMC Monitor Task Group Firmware update processa: IBM z16 is planned to be the last server family to support IBM service support representatives (SSRs) onsite performing firmware updates without an additional premium service contract. The IBM Z Remote Code Load (RCL) option, which was introduced on IBM z15, is available without an additional premium service contract. With IBM z15, and now IBM z16, clients can request a remote code load or they can choose the SSR onsite method for their firmware update. IBM recommends that clients try the RCL option on IBM z15 or IBM z16 to see for themselves that IBM provides the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.086642",
+    "chunk_number": 1019,
+    "word_count": 149
+  }
+}

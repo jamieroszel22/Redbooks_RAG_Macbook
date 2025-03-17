@@ -1,0 +1,18 @@
+{
+  "content": "system support 299 10 GbE RoCE Express2.1 and 10 GbE RoCE Express2 IBM 10 GbE RoCE Express2 provides a natively attached PCIe I/O Drawer-based Ethernet feature that supports 10 Gbps Converged Enhanced Ethernet (CEE) and RDMA over CEE (RoCE). The RoCE feature, with an OSA feature, enables shared memory communications between two CPCs by using a shared switch. RoCE Express2 provides increased virtualization (sharing capability) by supporting 63 Virtual Functions (VFs) per physical port for a total of 126 VFs per PCHID. This configuration allows RoCE to be extended to more workloads. z/OS Communications Server (CS) provides a new software device driver ConnectX4 (CX4) for RoCE Express2. The device driver is not apparent to the upper layers of the CS (the SMC-R and TCP/IP stack) and the application software (that uses TCP sockets). RoCE Express2 introduces a minor change in how the physical port is configured. RMF 2.2 and later also is enhanced to recognize the new CX4 card type and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.054174",
+    "chunk_number": 720,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "11-4. Figure 11-4 Top Exit cabling feature The Top Exit cabling feature can be placed as shown in Figure 11-4, with the exit area toward the front of the frame, or with the exit area toward the rear of the frame. Note: On the IBM z16, all I/O cabling and power cords enter the rear of the machine; therefore, all related features for Bottom and Top Exit cabling are in the rear of the frame. Note: The feature provides the same extra hardware for every frame in the configuration. Chapter 11. Environmental requirements 465 The Top Exit cabling feature adds 117.5 mm (4.63 in.) to the height of the frame and approximately 5.4 kg (12 lbs) to the weight. If the Top Exit cabling feature is not ordered, two sliding plates are available on the top of the frame (one on each side of the rear of the frame) that can be partially opened. By opening these plates, I/O cabling and power cords can exit the frame. The plates should be removed to install the Top Exit cabling feature as shown in Figure 11-5.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.202103",
+    "chunk_number": 1063,
+    "word_count": 184
+  }
+}

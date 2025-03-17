@@ -1,0 +1,18 @@
+{
+  "content": "combines the full power of Linux with IBM z16 A02 and IBM z16 AGZ capabilities by using the support of the following features: \u0002 Kernel Crypto: IBM z16 A02 and IBM z16 AGZ CPACF \u0002 LUKS dm-crypt Protected-Key CPACF \u0002 Libica and openssl: IBM z16 A02 and IBM z16 AGZ CPACF and acceleration of RSA handshakes by using SIMD \u0002 Secure Service Container: High security virtual appliance deployment infrastructure Protection of data at-rest By using the integration of industry-unique hardware accelerated CPACF encryption into the standard Linux components, users can achieve optimized encryption transparently to prevent raw key material from being visible to operating systems and applications. Because of the potential costs and overheads, most of the organizations avoid the use of host-based network encryption today. By using enhanced CPACF and SIMD on IBM z16 A02 and IBM z16 AGZ, TLS and IPSec can use hardware performance gains while benefitting from transparent enablement. Reduced cost of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.219304",
+    "chunk_number": 766,
+    "word_count": 156
+  }
+}

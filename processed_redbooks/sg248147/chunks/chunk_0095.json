@@ -1,0 +1,18 @@
+{
+  "content": "processor time as LPAR2 by adjusting the weighted value. The operating system in each LPAR undergoes a separate IPL, has its own copy of its operating system, has its own operator console (if needed), and so on. If the system in one LPAR crashes, other LPARs are not affected. \u0002 Real storage/central storage (memory) Both of these terms refer to main system memory, which is also frequently called storage. Anyone who has experience with mainframes or mobile and tablet devices understands the notion of storage being a reference to memory. For others, it might take time to become accustomed to this concept. \u0002 Open Systems Adapter card (OSA) This card is the networking adapter that is used in IBM z/Architecture systems. \u0002 Direct access storage device (DASD) IBM disk storage subsystems, such as IBM System Storage DS8900F and TS7770, are designed to match the mission-critical capabilities of IBM Z and LinuxONE. They add next-level performance, security, and resilience for mission-critical",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.493821",
+    "chunk_number": 95,
+    "word_count": 160
+  }
+}

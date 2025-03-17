@@ -1,0 +1,18 @@
+{
+  "content": "points: \u0002 CBU can be ordered by using the CIU application through Resource Link or by contacting your IBM marketing representative. \u0002 Flexible Capacity can be ordered by contacting your IBM representative. \u0002 Temporary upgrade capacity changes might be billable or a replacement. Considerations: Most of the MESs can be concurrently applied without disrupting the workload. For more information, see 8.2, \u201cPU upgrades\u201d on page 325. However, certain MES changes are non-concurrent; for example, CPC feature upgrades such as from IBM z16 A02 and IBM z16 AGZ Max5 or Max16 to a Max32 feature. Memory upgrades are only concurrent when the required memory capacity is already physical available and can be activated through LICCC. Prepaid OOCoD tokens: Beginning with IBM z16 A02 and IBM z16 AGZ, new prepaid OOCoD tokens that are purchased will not carry forward to future systems. 1 CPE is only available as carry forward on IBM z16 A02 and IBM z16 AGZ Chapter 8. System upgrades 325 Billable capacity",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.351511",
+    "chunk_number": 810,
+    "word_count": 163
+  }
+}

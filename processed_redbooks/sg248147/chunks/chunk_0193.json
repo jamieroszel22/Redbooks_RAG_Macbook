@@ -1,0 +1,18 @@
+{
+  "content": "NIC 0AD0 DETAILS Adapter 0AD0.P00 Type: QDIO Name: HYD1G1 Devices: 3 MAC: 02-04-0D-00-00-58 VSWITCH: SYSTEM VSWITCH3 PQUplinkTX: Normal RX Packets: 892254 Discarded: 0 Errors: 0 TX Packets: 134108 Discarded: 0 Errors: 2 RX Bytes: 1303867677 TX Bytes: 8170432 Connection Name: HALLOLE State: Session Established Attention: The authors of this book strongly encourage configuring the IODEF in a manner so that each LPAR can see only the DASD that it owns or to which it requires access. This idea can be thought of as installing a tall fence around a parcel of land you own so that a clear boundary exists. Configuring the IODEF in this manner helps eliminate risk. Configure your IODEF in a way that all LPARs can see. Note: Previous iterations of this book recommended the use of 0600 as the default virtual device number for a virtual network adapter. We recommend against this default because it can become confusing. 60 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u2192 Device: 0AD0 Unit: 000 Role:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.927902",
+    "chunk_number": 193,
+    "word_count": 166
+  }
+}

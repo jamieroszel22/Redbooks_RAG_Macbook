@@ -1,0 +1,18 @@
+{
+  "content": "PSU. The PPC cards also include pressure, temperature, and humidity sensors. 2.3 Dual chip modules The DCM is a multi-layer metal substrate module that holds two PU chips. PU chip size is 532 mm2 (23.75 mm x 22.1 mm). Each CPC drawer has two or four PU DCMs with 22.5 Billion transistors each. The PU DCMs are shown in Figure 2-12. For both DCMs, a thermal cap is placed over the chips. Figure 2-12 Dual chip modules (PU DCM) under the heatsink There are two PU chips on each DCM, each DCM socket contains 4753 pins, and the module size is 71.5mm x 79mm. The DCMs are each plugged into a socket that is part of the CPC drawer packaging. Each PU DCM is air-cooled by using the front five CPC drawer fans, and a separate heat sink for every DCM. Air flow is from the front of the drawer to the rear. A schematic representation of the PU chip is shown in Figure 2-13 on page 38. 38 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 2-13 PU chip floor plan The IBM z16 A02 and IBM z16 AGZ PU chip (two",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.722034",
+    "chunk_number": 141,
+    "word_count": 195
+  }
+}

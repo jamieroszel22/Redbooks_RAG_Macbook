@@ -1,0 +1,18 @@
+{
+  "content": "with IPv4 and IPv6 Y Y Y Yb Yb Yb QDIO data connection isolation for z/VM - - - Y Y Y QDIO interface isolation for z/OS Y Y Y - - - QDIO OLM (Optimized Latency Mode) Y Y Y - - - QDIO Diagnostic Synchronization Y Y Y N N N IWQ (Inbound Workload Queuing) for OSA Y Y Y Yb Yb Yb GARP VLAN Registration Protocol Y Y Y Y Y Y Link aggregation support for z/VM - - - Y Y Y Multi-vSwitch Link Aggregation - - - Y Y Y Large send for IPV6 packets Y Y Y Yb Yb Yb z/VM Dynamic I/O Support for OSA-Express OSD CHPIDs - - - Y Y Y OSA Dynamic LAN idle Y Y Y N N N OSA Layer 3 virtual MAC for z/OS environments Y Y Y - - - Network Traffic Analyzer Y Y Y N N N HiperSockets HiperSocketsc Y Y Y Y Y Y HiperSockets Completion Queue Y Y Y Y Y Y HiperSockets Virtual Switch Bridge - - - Y Y Y HiperSockets Multiple Write Facility Y Y Y N N N HiperSockets support of IPV6 Y Y Y Y Y Y 260 IBM z16 (3931) Technical Guide HiperSockets Layer 2 support Y Y Y Y Y Y SMC-D and SMC-R SMC-Dd over ISM (Internal Shared Memory) Y Y",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.686677",
+    "chunk_number": 621,
+    "word_count": 227
+  }
+}

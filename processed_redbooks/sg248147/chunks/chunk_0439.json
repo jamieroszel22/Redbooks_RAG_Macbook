@@ -1,0 +1,18 @@
+{
+  "content": "question mark (?) parameter: ===> cpformat ? Synopsis: Format one or a range of DASD as page, perm, spool or temp disk space The label written to each DASD is J<t><xxxx> where: <t> is type - P (page), M (perm), S (spool) or T (Temp disk) <xxxx> is the 4 digit address Syntax is: <---------------< >>--CPFORMAT--.-vdev--------.--AS---.-PERM-.--------->< '-vdev1-vdev2-' '-PAGE-' '-SPOL-' '-TEMP-' The following example shows how to attach a 3390-9 volume and use CPFORMAT to format it as paging space. Refer to the planning worksheets that must be completed in Table B-9 on page 486. Our values are shown in Table 2-10 on page 67. Important: Because these volumes are formatted as page, the CPFORMAT EXEC will also add owner information to the DASD. For this reason, page volumes must be formatted on the SSI member on which they will be used. Chapter 6. Configuring z/VM 191 5. The DASD that is used for the second paging volume on member 1 in this example is at real device address 1565. Query the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.922192",
+    "chunk_number": 439,
+    "word_count": 171
+  }
+}

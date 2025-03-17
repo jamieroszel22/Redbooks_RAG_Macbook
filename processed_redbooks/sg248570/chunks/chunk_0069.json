@@ -1,0 +1,18 @@
+{
+  "content": "numerous clients, IBM has found that organizations are often at one or more of these stages: \u0002 Remaining on traditional warehouse or analytic appliances but looking for ways to get greater flexibility and to also perhaps tackle new workloads. \u0002 Have adopted the traditional data lakes but are running into issues of getting sufficient return on their investment and having to manage those systems. \u0002 Have adopted the cloud data warehouses but are concerned with ever-increasing billing costs. All three of these groups are looking for ways to get more flexibility, adopt more workloads, reduce costs, and reduce complexity. IBM watsonx.data is designed to address the needs of all three groups and the shortcomings of some first-generation lakehouses. It combines open, flexible, and low-cost storage of data lakes with the transactional qualities and performance of a data warehouse. This supports structured, semi-structured, and unstructured data residing in commodity storage, bringing together",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.605174",
+    "chunk_number": 69,
+    "word_count": 151
+  }
+}

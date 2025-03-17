@@ -1,0 +1,18 @@
+{
+  "content": "135 7. At the Start (Warm|Force|COLD|CLEAN) prompt, enter warm and press Enter. ===> warm 8. At the Change TOD clock prompt, enter no: ===> no 9. The first VMSSI member IPLs cleanly after approximately one minute. Disconnect from the OPERATOR virtual machine by using the DISCONNECT command: ===> disconnect The new z/VM 7.2 is now running with TCIP configured and you are now ready to configure z/VM. 136 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 137 Chapter 6. Configuring z/VM This chapter describes configuring z/VM 7.2 as a two-node VM Single System Image feature (SSI) cluster after the installation is complete. This configuration process includes the initial configuration, hardening, and enabling basic system automation. If you are new to z/VM and plan to install on only one logical partition (LPAR), it is still recommended that you proceed by using the SSI path. The installation of a single-member SSI cluster provides",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.477233",
+    "chunk_number": 325,
+    "word_count": 160
+  }
+}

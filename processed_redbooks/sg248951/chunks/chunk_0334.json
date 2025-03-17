@@ -1,0 +1,18 @@
+{
+  "content": "effectiveness\u201d. They also provide improved recommendations for making structure sizing changes or retargeting work from specific table spaces or data sets to other cache structures. Consider the following points: \u2013 The metrics show how long data entries or directory entries remain resident in the cache structure from the time they are created until the time they are eventually \u201creclaimed\u201d out of existence. \u2013 They provide moving weighted average directory entry and data area residency times, in microseconds. \u2013 They allow monitoring of effects of cache-unfriendly batch processes, such as image copy, reorganization, and update-intensive workloads. \u2013 Reclaims from all causes are included in the creation of directory entries or data areas, \u201cstructure alter\u201d contractions or reapportionments, incidental reclaims of data areas that are caused by reclaim of a directory entry, and so on. \u2013 Residency times are accounted for only at the time of reclaim (not while the cache objects are still in",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.536869",
+    "chunk_number": 334,
+    "word_count": 153
+  }
+}

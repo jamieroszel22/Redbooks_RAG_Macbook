@@ -1,0 +1,18 @@
+{
+  "content": "system and services available in a shorter period. The System Recovery Boost provides the following options for the capacity increase: \u2022 Subcapacity CP speed boost: During the boost period, subcapacity engines allocated to the boosted LPAR are transparently activated at their full capacity (CP engines). 13 For more information, see ITIC Global Server Hardware, Server OS Reliability Report. 14 For more information, see Quantifying the Business Value of IBM Z. 15 Logical partition (LPAR) running an Operating System image. 20 IBM z16 A02 and IBM z16 AGZ Technical Guide \u2022 zIIP Capacity Boost: During the boost period, all active zIIPs that are assigned to an LPAR are used to extend the CP capacity (CP workload is dispatched to zIIP processors during the boost period). \u2013 System Recovery Boost enhancements delivered with the IBM z16 A02 and IBM z16 AGZ maximize service availability by using tailored short-duration boosts to mitigate the impact of these recovery processes: \u2022 SVC Dump boost",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.590068",
+    "chunk_number": 111,
+    "word_count": 159
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "(MA) unit: Support for Elliptic Curve Cryptography. 40 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Vector and Floating point Units (VFU): \u2022 BFU: Binary floating point unit \u2022 DFU: Decimal floating point unit \u2022 DFx: Decimal fixed-point unit \u2022 FPd: Floating point divide unit \u2022 VXx: Vector fixed-point unit \u2022 VXs: Vector string unit \u2022 VXp: Vector permute unit \u2022 VXm: Vector multiply unit \u0002 L2 \u2013 Level 2 cache 2.3.2 PU characterization The PUs are characterized for client use. The characterized PUs can be used in general to run supported operating systems, such as z/OS, z/VM, and Linux on Z. They also can run specific workloads, such as Java, XML services, IPSec, and some Db2 workloads, or clustering functions, such as the Coupling Facility Control Code (CFCC). The maximum number of characterizable PUs depends on the IBM z16 A02 and IBM z16 AGZ feature code: \u0002 FC 0672: Max5, two PU DCMs up to 5 characterizable PUs \u0002 FC 0673: Max16, two PU DCMs up to 16 characterizable PUs \u0002 FC 0674: Max32,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.744264",
+    "chunk_number": 145,
+    "word_count": 177
+  }
+}

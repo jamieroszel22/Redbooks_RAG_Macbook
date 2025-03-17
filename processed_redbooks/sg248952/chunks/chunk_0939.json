@@ -1,0 +1,18 @@
+{
+  "content": "drawer can be selected at a time. Preparation: The preparation step does not reallocate any resources. It is used only to record client choices and produce a configuration file on the SE that is used to run the concurrent drawer replacement operation. 384 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 9-8 Selecting the target drawer The system verifies the resources that are required for the removal, determines the required actions, and presents the results for review. Depending on the configuration, the task can take from a few seconds to several minutes. The preparation step determines the readiness of the system for the removal of the targeted drawer. The configured processors and the memory in the selected drawer are evaluated against unused resources that are available across the remaining drawers. The system also analyzes I/O connections that are associated with the removal of the targeted drawer for any single path I/O connectivity. If insufficient resources are available,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.802865",
+    "chunk_number": 939,
+    "word_count": 159
+  }
+}

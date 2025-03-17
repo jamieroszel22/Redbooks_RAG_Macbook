@@ -1,0 +1,18 @@
+{
+  "content": "directly with the following systems: \u0002 Other guest virtual machines on the virtual switch External network hosts through the virtual switch OSA UPLINK port RoCE Express features summary The RoCE Express feature codes, cable type, maximum unrepeated distance, and the link rate on an IBM z16 A02 and IBM z16 AGZ are listed in Table 4-9 on page 177. 11 Minimum OS support for IBM z16 A02 and IBM z16 AGZ can differ. For more information, see Chapter 7, \u201cOperating system support\u201d on page 243. 12 z/VM V6 is not supported on IBM z16 A02 and IBM z16 AGZ. z/VM V7.2 or newer is needed. Chapter 4. I/O structure 177 Table 4-9 RoCE Express features summary 4.6.4 Parallel Sysplex connectivity Coupling links are required in a Parallel Sysplex configuration to provide connectivity from the z/OS images to the coupling facility (CF). A properly configured Parallel Sysplex provides a highly reliable, redundant, and robust IBM Z technology solution to achieve near-continuous availability. A Parallel",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.952633",
+    "chunk_number": 446,
+    "word_count": 163
+  }
+}

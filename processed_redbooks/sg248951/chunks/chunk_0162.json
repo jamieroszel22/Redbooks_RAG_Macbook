@@ -1,0 +1,18 @@
+{
+  "content": "fan-outs are installed in the rear of the CPC drawer. Figure 2-22 shows the location of the fan-out slots. Each slot is identified with a location code (label) of LGxx. Figure 2-22 Fan out locations in the CPC drawer Up to 12 PCIe fan-outs (LG01 - LG12) can be installed in each CPC drawer. A fan-out can be repaired concurrently with the use of redundant I/O interconnect. For more information, see 2.7.1, \u201cRedundant I/O interconnect\u201d on page 52. The following types of fan-outs are available: \u0002 PCIe+ Generation 3 dual port fan-out card: This fan-out provides connectivity to the PCIe switch cards in the PCIe+ I/O drawer. \u0002 Integrated Coupling Adapter (ICA SR1.1 and ICA SR): These adapters provide coupling connectivity to IBM z16, IBM z15, and IBM z14 servers. Important: The base System Recovery Boost capability is built into IBM z16 firmware and does not require ordering of extra features. For IBM z16 A01, System Recovery Boost Upgrade (FC 9930 + FC 6804) is an optional, orderable feature",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.814673",
+    "chunk_number": 162,
+    "word_count": 169
+  }
+}

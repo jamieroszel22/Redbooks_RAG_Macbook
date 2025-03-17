@@ -1,0 +1,18 @@
+{
+  "content": "available to run against customer macros in assembler libraries to verify that no conflicts exist between some older IBM Macro names and new IBM z16 A02 and IBM z16 AGZ (M/T 3932) hardware instruction mnemonics. 100 IBM z16 A02 and IBM z16 AGZ Technical Guide 3.4.16 Transactional Execution The Transactional Execution (TX) capability, which is known in the industry as hardware transactional memory, runs a group of instructions atomically; that is, all of their results are committed or no result is committed. The execution is optimistic. The instructions are run, but previous state values are saved in a transactional memory. If the transaction succeeds, the saved values are discarded; otherwise, they are used to restore the original values. The Transaction Execution Facility provides instructions, including declaring the beginning and end of a transaction, and canceling the transaction. TX is expected to provide significant performance benefits and scalability by avoiding most locks.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.199803",
+    "chunk_number": 260,
+    "word_count": 151
+  }
+}

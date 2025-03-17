@@ -1,0 +1,18 @@
+{
+  "content": "\u0002 CP6 Feature Code 1957 (up to 39 PUs) \u0002 CP7 Feature Code 1958 (up to 200 PUs) Granular capacity adds 117 subcapacity settings to the 200 capacity settings that are available with full capacity CPs (CP7). Each of the 117 subcapacity settings applies to up to 39 CPs only, independent of the model installed. 3.5.3 Integrated Facility for Linux (FC 1959) An IFL is a PU that can be used to run Linux, Linux guests on z/VM operating systems, and an IBM Secure Service Container (SSC). Up to 200 PUs can be characterized as IFLs, depending on the configuration. Note: Information about CPs in the remainder of this chapter applies to all CP capacity settings, unless indicated otherwise. For more information about granular capacity, see 2.3.3, \u201cPU characterization\u201d on page 33. Note: IFLs can be dedicated to a Linux, a z/VM, or an SSC LPAR, or can be shared by multiple Linux guests, z/VM LPARs, or SSC that are running on the same IBM z16 server. Only z/VM, Linux on IBM Z operating systems, SSC,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.189635",
+    "chunk_number": 257,
+    "word_count": 176
+  }
+}

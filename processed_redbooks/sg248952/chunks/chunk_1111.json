@@ -1,0 +1,18 @@
+{
+  "content": "Operations Efficiency with IBM zEnterprise Data Compression, SG24-8259. C.0.1 IBM Z Batch Network Analyzer IBM Z Batch Network Analyzer (zBNA) is a no-charge, \u201cas is\u201d tool. It is available to clients, IBM Business Partners, and IBM employees. zBNA is based on Microsoft Windows, and provides graphical and text reports, including Gantt charts, and support for alternative processors. zBNA can be used to analyze client-provided System Management Facilities (SMF) records to identify jobs and data sets that are candidates for zEDC and IBM z16 A02 and IBM z16 AGZ On-Chip Compression across a specified time window (often a batch window). zBNA can generate lists of data sets by the following jobs: \u0002 Jobs that perform hardware compression and might be candidates for On-Chip Compression. \u0002 Jobs that might be On-Chip Compression candidates, but are not in extended format. Therefore, zBNA can help you estimate the use of On-Chip Compression features and help identify savings. The following",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.324546",
+    "chunk_number": 1111,
+    "word_count": 155
+  }
+}

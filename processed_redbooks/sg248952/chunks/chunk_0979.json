@@ -1,0 +1,18 @@
+{
+  "content": "SYSPROG will be shipped and the user IDs can be created using the provided default roles. Any default user ID which was part of a previous HMC can be carried forward to the new HMCs as part of a MES upgrade or via the tasks, User Profile Data for the Save/Restore Customizable Console Data or Configure Data Replication. At first logon, you have to change the default password for the ACSADMIN and SERVICE user. \u0002 Report a Problem update If your IBM Z has a hardware or microcode problem and no automatic call went out to IBM, you can open a case with the task Report a Problem (RaP). Before IBM z16 A02 and IBM z16 AGZ you could do this task for the HMC (Service Management -> Report a Problem) or an CPC (Service -> Report a Problem). Further its now possible to select an LPAR for RaP. For better clarification the RaP for the HMC is now called Report a Console Problem. Note: \u0002 It is client responsibility to maintain the passwords and user IDs. \u0002 For the SERVICE user the client must be able to",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.927138",
+    "chunk_number": 979,
+    "word_count": 188
+  }
+}

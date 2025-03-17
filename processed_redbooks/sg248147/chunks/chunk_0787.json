@@ -1,0 +1,18 @@
+{
+  "content": "HiperSockets USER LINUX3 LNX4VM 768M 1G G ... DEDICATE 5500 5500 DEDICATE 5501 5501 DEDICATE 5502 5502 11.4 Common DirMaint tasks When the VMSSI feature is enabled, the management of the systems without an automated directory management product becomes a highly complex task. Therefore, we assume that you are using the IBM DirMaint directory management product. Other software products might provide similar functions. You must perform numerous ongoing tasks for your z/VM systems, such as adding minidisks, working with directory entries, and modifying parameters. The details that are needed to accomplish many of the common tasks are provided. Also, tips are provided to facilitate these tasks. Chapter 11. Deploying and maintaining Linux workloads 363 11.4.1 DirMaint and the user directory characteristics The user directory controls the resources of all of the virtual machines within a specific z/VM. For several nodes in an SSI, several instances of the user directory are needed. DirMaint",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.274912",
+    "chunk_number": 787,
+    "word_count": 152
+  }
+}

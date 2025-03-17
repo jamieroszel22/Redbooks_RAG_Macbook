@@ -1,0 +1,18 @@
+{
+  "content": "RDBKZVMC RSU1 NONESM HOSTNAME 9.76.61.239 COMMTYPE FTP VMFCMG2760I SERVMGR processing started VMFUTL2767I Reading VMSESE PROFILE B for additional options VMFCSY2760I CSMSYSMT processing started VMFCSY2195I CSMSYSMT CMG VMFCTL4017R Enter the login user ID to be used for RDBKZVMC host system: 9.76.61.239 csmwork VMFCTL4018R Enter the login password for user 'csmwork' on RDBKZVMC host system: 9.76.61.239 < < password > > VMFCSY4048I System name RDBKZVMC added to CSM VMFCSY4056W System RDBKZVMC has been added with service level RSU1 pending Use the SERVMGR SRVLVL SEND command to send service level RSU1 to system RDBKZVMC VMFCSY2760W CSMSYSMT processing completed with warnings (RC=4) VMFCMG1966W Command SERVMGR ended with RC=4 when issued with argument(s): SYSTEM ADD 720 RDBKZVMC RSU1 NONESM HOSTNAME 9.76.61.239 COMMTYPE FTP VMFCMG2760W SERVMGR processing completed with warnings (RC=4) Ready(00004); Reviewing the console of the candidate system, we saw that the MAINT720 user ID was logged",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.761820",
+    "chunk_number": 645,
+    "word_count": 142
+  }
+}

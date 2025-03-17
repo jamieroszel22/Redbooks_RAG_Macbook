@@ -1,0 +1,18 @@
+{
+  "content": "created by the IPWIZARD tool. PROFILE EXEC AUTOLOG1 191 This file is a REXX EXEC that is run when the system starts. It is analogous to the /etc/inittab file in Linux. Appendix B. Reference, cheat sheets, blank worksheets, and education 479 Cheat sheets This section contains quick references or \u201ccheat sheets\u201d for the XEDIT and vi editors. XEDIT cheat sheet XEDIT has line commands that are typed on the command line (====>) and prefix commands, which are typed over the line numbers on the left side of the window. Line commands Do not include the angle brackets (< >) in your commands: a Add a line. a<n> Add <n> lines. c/<old>/<new>/<n> <m> Search for string <old> and replace it with <new> for <n> lines below the current line and <m> times on each line. An asterisk (*) can be used for <n> and <m>. /<string> Search for \u2018string\u2019 from the current line. -/<string> Search backwards for \u2018string\u2019. all /<string>/ Show all occurrences of \u2018string\u2019 and hide other lines. bottom Move to the bottom of",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.944524",
+    "chunk_number": 992,
+    "word_count": 174
+  }
+}

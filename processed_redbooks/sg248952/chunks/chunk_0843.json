@@ -1,0 +1,18 @@
+{
+  "content": "On/Off Capacity on Demand On/Off CoD allows you to temporarily enable processors that are available within the current hardware model. You can also use it to change capacity settings for CPs to help meet your peak workload requirements. 8.5.1 Overview The capacity for CPs is expressed in millions of service units (MSUs). Capacity for speciality engines is expressed in number of speciality engines. Capacity tokens are used to limit the resource consumption for all types of processor capacity. Chapter 8. System upgrades 341 Capacity tokens were introduced to provide better control over resource consumption when On/Off CoD offerings are activated. Tokens represent the following resource consumptions: \u0002 For CP capacity, each token represents the amount of CP capacity that results in one MSU of software cost for one day (an MSU-day token). \u0002 For speciality engines, each token is equivalent to one speciality engine capacity for one day (an engine-day token). Each speciality engine type",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.482431",
+    "chunk_number": 843,
+    "word_count": 155
+  }
+}

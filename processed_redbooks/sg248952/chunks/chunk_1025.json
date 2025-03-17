@@ -1,0 +1,18 @@
+{
+  "content": "on the HMC (for the related CPC/SE), STP functions can be managed. Detailed instructions and guidelines are provided within task workflow. A preview of the configuration is shown in a display. An example of the topology view is shown in Figure 10-32 on page 431. Note: Statement of Direction: IBM z16 is planned to be the last server to support legacy CoD unique record type automation interfaces. For example, legacy command HWMCA_ACTIVATE_CBU_COMMAND has to change to HWMCA_ADD_CAPACITY_COMMAND. We suggest you to start now to change your automation scripts accordingly. For more information see Capacity on Demand User's Guide, SC28-7025. Chapter 10. Hardware Management Console and Support Element 431 Figure 10-32 STP topology visible on HMC Manage System Time window For more information about planning and setup, see the following publication: \u0002 IBM Z Server Time Protocol Guide, SG24-8480. STP changes and enhancements IBM z16 A02 and IBM z16 AGZ implements the following major enhancements",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.104453",
+    "chunk_number": 1025,
+    "word_count": 154
+  }
+}

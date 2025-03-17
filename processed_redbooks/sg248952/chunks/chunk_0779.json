@@ -1,0 +1,18 @@
+{
+  "content": "and rapid delivery of software as a service, while enabling for the API economy. Consider the following points before migrating z/OS V2.R3 to IBM z16\u2122: \u0002 IBM z/OS V2.R3 with IBM z16 A02 and IBM z16 AGZ requires a minimum of 8 GB of memory. When running as a z/VM guest or on an IBM System z\u00ae Personal Development Tool, a minimum of 2 GB is required for z/OS V2.R3. If the minimum is not met, a warning WTOR is issued at IPL. Continuing with less than the minimum memory might affect availability. A migration health check will warn if the system is configured with less than 8 GB. \u0002 Dynamic splitting and merging of Coordinated Timing Network (CTN) is available with IBM z16 A02 and IBM z16 AGZ. Chapter 7. Operating system support 313 \u0002 RMF support is provided to collect SMC-D related performance measurements in SMF 73 Channel Path Activity and SMF 74 subtype 9 PCIE Activity records. It also provides these measurements in the RMF Postprocessor and Monitor III PCIE and Channel Activity reports.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.264043",
+    "chunk_number": 779,
+    "word_count": 177
+  }
+}

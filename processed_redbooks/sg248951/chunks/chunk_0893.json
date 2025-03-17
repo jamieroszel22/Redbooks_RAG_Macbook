@@ -1,0 +1,18 @@
+{
+  "content": "installed memory limit. More processor drawers can be installed concurrently, which allows further memory upgrades by LICCC, and enables memory capacity on the new processor drawers. By using the previously defined reserved memory, z/OS operating system images, and z/VM partitions, you can dynamically configure more memory online. This process allows nondisruptive memory upgrades. Linux on Z supports Dynamic Storage Reconfiguration. I/O I/O features can be added concurrently if all the required infrastructure (I/O slots and PCIe Fan-outs) is present in the configuration. PCIe+ I/O drawers can be added concurrently without planning if free space is available in one of the frames and the configuration permits. Dynamic I/O configuration changes are supported by specific operating systems (z/OS and z/VM), which allows for nondisruptive I/O upgrades. Dynamic I/O reconfiguration on a stand-alone coupling facility system also is possible by using the Dynamic I/O activation for stand-alone CF",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.629353",
+    "chunk_number": 893,
+    "word_count": 145
+  }
+}

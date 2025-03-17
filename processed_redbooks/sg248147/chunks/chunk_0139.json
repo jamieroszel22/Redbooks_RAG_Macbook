@@ -1,0 +1,18 @@
+{
+  "content": "the VM. The cost of this processing increases with larger VMs. Relocation performance also is affected by the frequency and amount of memory that is being changed in the VM. \u0002 Matching VM configurations: To prepare for LGR, ensure that the VM has a configuration that allows for it to be relocated and that a matching configuration can be set up on the destination member. For information about configuration requirements and about verifying a VM\u2019s eligibility to relocate, see Chapter 27 of IBM z/VM CP Planning and Administration, SC24-6178. \u0002 CPU utilization: The z/VM V7.2 SSI feature synchronizes all of the members in the cluster. You must ensure that you allocated enough system resources to account for the necessary synchronization and communication among members. After initialization, the synchronization overhead is relatively low. Communication between members increases during negotiations for access to devices and other resources, and during LGR. For example, two independent systems",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.689120",
+    "chunk_number": 139,
+    "word_count": 153
+  }
+}

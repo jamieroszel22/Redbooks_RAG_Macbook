@@ -1,0 +1,18 @@
+{
+  "content": "optimized for IBM Z. In addition, IBM is optimizing key open source frameworks, such as TensorFlow (and TensorFlow Serving) for use on IBM Z. IBM\u2019s open source hzDNN library provides common APIs for the functions that enable conversions from the Tensor format to the accelerator required format. Customers can run zDNN under z/OS1 and Linux on IBM Z. A Deep Learning Compiler (DLC) for z/OS and Linux also is available that provide the AI functions to the applications. 1 zDNN is zCX eligible, which it runs on zIIPs under z/OS \u00a9 Copyright IBM Corp. 2022. All rights reserved. 507 Appendix C. IBM Integrated Accelerator for zEnterprise Data Compression This appendix describes the new IBM Integrated Accelerator for zEnterprise Data Compression (zEDC) that is implemented in IBM Z hardware. The appendix includes the following topics: \u0002 \u201cClient value of IBM Z compression\u201d on page 508 \u0002 \u201cIBM z16 IBM Integrated Accelerator for zEDC\u201d on page 509 \u0002 \u201cIBM z16 migration considerations\u201d on page 510 \u0002",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.356889",
+    "chunk_number": 1123,
+    "word_count": 164
+  }
+}

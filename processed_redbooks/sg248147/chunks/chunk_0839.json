@@ -1,0 +1,18 @@
+{
+  "content": "Initial Performance Data Selection Menu window appears, as shown in Figure 12-3 on page 388. From this window, you can drill down into many different types of reports. 388 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Figure 12-3 Using Browser interface to access Performance Toolkit menu Chapter 12. Monitoring z/VM and Linux 389 Using a 3270 interface You can also use a 3270 interface. Complete the following steps: 1. Log on to PERFSVM. 2. If you are disconnected, pressing Enter returns you to the Performance Toolkit command line. If the virtual machine was logged off, the PROFILE EXEC runs and gets you to the command line. Enter the MONITOR command: Command ===> monitor The Performance Screen Selection pane then appears, as shown in Figure 12-4 on page 389. Figure 12-4 Performance Screen Selection pane Drilling down into report windows You can now use the active report windows. To drill down into these windows, move the cursor to any of the titles that are active (active titles",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.437527",
+    "chunk_number": 839,
+    "word_count": 166
+  }
+}

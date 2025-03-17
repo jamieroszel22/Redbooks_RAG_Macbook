@@ -1,0 +1,18 @@
+{
+  "content": "9 \u00b5m 10 km (6.2 miles) Carry forward OSA-Express6S 10GbE LR 0424 OSA-Expess7S 10GbE SR 0445 10 MM 62.5 \u00b5m MM 50 \u00b5m 33 m (200) 82 m (500) 300 m (2000) Carry forward OSA-Expess6S 10GbE SR 0425 OSA-Express7S GbE LX 0442 1.25 SM 9 \u00b5m 5 km (3.1 miles) Carry forward OSA-Express6S GbE LX 0422 OSA-Express7S GbE SX 0443 1.25 MM 62.5 \u00b5m MM 50 \u00b5m 275 m (200) 550 m (500) Carry forward OSA-Express6S GbE SX 0423 OSA-Express7S 1000BASE-T 0446 1000 Mbps Cat 5, Cat 6 unshielded twisted pair (UTP) 100 m Carry forward OSA-Express6S 1000BASE-T 0426 100 or 1000 Mbps 25GbE RoCE Express3 LR 0453 25 SM 9 \u00b5m New build 25GbE RoCE Express3 SR 0452 25 OM3, OM4 New build Channel feature Feature codes Bit ratea in Gbps (or stated) Cable type Maximum unrepeated distanceb Ordering information Appendix A. Channel options 471 The unrepeated distances for different multimode (MM) fiber optic types for zHyperLink Express are listed in Table A-2. Table A-2 Unrepeated distances The maximum unrepeated distances for FICON",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.290299",
+    "chunk_number": 1094,
+    "word_count": 174
+  }
+}

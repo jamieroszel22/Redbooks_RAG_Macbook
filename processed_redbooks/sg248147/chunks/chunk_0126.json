@@ -1,0 +1,18 @@
+{
+  "content": "commands, as listed in Table 1-1. Table 1-1 Conceptual similarities between Linux and z/VM Table 1-2 lists similar commands and functions. Table 1-2 Similar common commands and functions between Linux and z/VM Linux z/VM (CP and CMS) Boot IPL (initial program load) File system / directory Minidisk Shared File System (SFS) File system mount Disk access mode Kernel Control program (CP) Nucleus Memory (RAM) Storage $HOME Disk access mode \u201cA\u201d (A/K/A \u201cA-DISK\u201d) ~/.profile PROFILE EXEC A Script (executable file .sh, .ksh, .pl, and similar) EXEC or REXX Shell Conversational Monitor System (CMS) User registry (/etc/passwd or /etc/shadow) User directory file vi, vim, emacs, nano, pico, or similar XEDIT Linux command z/VM CP or CMS command df QUERY DISK QUERY ACCESSED dir, ls LISTFILE ls -alp FILELIST man, apropos HELP free QUERY VIRT STORAGE uname -a QUERY CPLEVEL who QUERY NAMES uptime QUERY CPLEVEL (IPL at .....) \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 33 Chapter 2.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.631325",
+    "chunk_number": 126,
+    "word_count": 159
+  }
+}

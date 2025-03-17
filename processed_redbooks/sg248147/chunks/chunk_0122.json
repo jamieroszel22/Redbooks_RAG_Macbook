@@ -1,0 +1,18 @@
+{
+  "content": "continuous availability is a four-member cluster with two members on two different CPCs. Figure 1-2 uses this layout. Figure 1-2 A four-member VMSSI cluster architectural diagram 30 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Four z/VM systems and four system identifiers are in this cluster. However, only one VMSSI name is in this cluster. In this book, a two member VMSSI that is installed onto one CPC is described, as shown in Figure 1-3. Figure 1-3 The z/VM environment used in this book 1.7 Infrastructure design To install and configure z/VM, and to install, configure, and provision virtual servers, a specific infrastructure design must be in place. A CPC with associated resources and the z/VM operating system define much of this infrastructure. z/VM includes many predefined virtual servers. The VMs that are described in this book have the following functions: LNXMAINT A VM that is used to own and manage the Shared File System (SFS) file pool to be used by Linux virtual servers.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.607203",
+    "chunk_number": 122,
+    "word_count": 164
+  }
+}

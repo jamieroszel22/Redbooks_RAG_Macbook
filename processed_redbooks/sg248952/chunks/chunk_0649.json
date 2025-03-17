@@ -1,0 +1,18 @@
+{
+  "content": "compared to a CP, even a utilization as low as 10% can provide cost benefits. Transactional Execution3 Transactional Execution (TX) is known in academia and industry as hardware transactional memory. Transactional execution is implemented on IBM Z servers. This feature enables software to indicate to the hardware the beginning and end of a group of instructions that must be treated in an atomic way. All of their results occur or none occur, in true transactional style. The execution is optimistic. The hardware provides a memory area to record the original contents of affected registers and memory as instruction execution occurs. If the transactional execution group is canceled or must be rolled back, the hardware transactional memory is used to reset the values. Software can implement a fallback capability. This capability increases the software\u2019s efficiency by providing a way to avoid locks (lock elision). This advantage is of special importance for speculative code generation and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.789744",
+    "chunk_number": 649,
+    "word_count": 154
+  }
+}

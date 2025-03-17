@@ -1,0 +1,18 @@
+{
+  "content": "page.get_text() Example 9-2 demonstrates how to chunk a document by paragraph. Example 9-2 Code example - 2 def chunk_by_paragraphs(text): paragraphs = text.split(\"\\n\\n\") # Assuming paragraphs are separated by two newlines return [p.strip() for p in paragraphs if p.strip()] chunks = chunk_by_paragraphs(pdf_text) Example 9-3 demonstrates how to generate embeddings using IBM watsonx.data Milvus connection. Example 9-3 Code example - 3 connections.connect(alias=\"default\", host=url, port=port, user=apiuser, password=apikey, secure=True) collection_description = 'wxd docs pdf' collection_name = 'wxd_documentation' # Create collection - define fields + schema fields = [ FieldSchema(name=\"document_id\", dtype=DataType.INT64), # Document Id FieldSchema(name=\"chunk_id\", dtype=DataType.INT64), # Chunk Id FieldSchema(name=\"embedding\", dtype=DataType.FLOAT_VECTOR, dim=384), ] # Create a schema schema = CollectionSchema(fields, collection_description) # Create a collection collection =",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.339402",
+    "chunk_number": 258,
+    "word_count": 112
+  }
+}

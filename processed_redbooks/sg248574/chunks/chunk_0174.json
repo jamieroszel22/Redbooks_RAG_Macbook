@@ -1,0 +1,18 @@
+{
+  "content": "that the system has sufficient hardware resources, which include at least 8 GB of RAM and, for GPU-accelerated serving, an NVIDIA GPU with CUDA support. If multiple ilab clients attempt to connect to the same server, the first client connects successfully, and the others create temporary servers, which require more resources. To prevent conflicts, manage the connections. To serve the model, run the following command, which provides a URL for API interaction: Ilab model serve \u2013model-path <MODEL_PATH> It is possible to interact with a served model directly within ilab by using the following command, with optional personalization of inference parameters, such as temperature: Ilab model chat \u2013model <MODEL_PATH> [-temperature <VALUE>] Now, you can start personalizing the model by adding new skills and knowledge. To train an open source model with InstructLab, create knowledge and skills in the taxonomy directory. When you initialized the ilab CLI, it automatically cloned the InstructLab",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.879977",
+    "chunk_number": 174,
+    "word_count": 150
+  }
+}

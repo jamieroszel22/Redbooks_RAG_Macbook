@@ -1,0 +1,18 @@
+{
+  "content": "provides greater security than anonymous cipher suites, even if the default settings are used. 416 IBM z16 A02 and IBM z16 AGZ Technical Guide To allow greater flexibility in password selection, the password limit was increased to 64 characters and special characters are allowed. For more information about HMC networks, see the following resources: \u0002 The HMC and SE Driver 51/Version 2.16.0 console help system \u0002 Resource Link (https://www.ibm.com/servers/resourcelink), select Library, the applicable server, then select either HMC Version 2.16.0 help file content or SE Version 2.16.0 help file content. 10.3.4 Hardware considerations The following Hardware considerations are important for IBM z16 A02 and IBM z16 AGZ: \u0002 IBM does not provide Ethernet RJ45 cables with the system for connections between HMC, SE, Switches and ETS \u0002 IBM does not provide Ethernet switches with the system for HMC and SE communication Ethernet switches Ethernet switches for HMC and SE connectivity must be",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.977007",
+    "chunk_number": 995,
+    "word_count": 152
+  }
+}

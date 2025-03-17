@@ -1,0 +1,18 @@
+{
+  "content": "7.2 Other disk space requirements Extra space must be added to the file pool. This two-stage process requires that the user ID VMSERVP has disk space added at the directory level, and then, the extra space is defined to the suitable storage group. The amount of space that is needed depends on the number of different service levels to be maintained for distribution by using z/VM CSM. For our example system, we added two 3390 Model 9 disks to the file pool server by completing the following steps: 1. We obtained two new DASD from available free disk space. 2. The new DASD were formatted and labeled (see \u201cAdding page volumes and perm (user) volumes\u201d, starting from \u201cFormatting DASD for minidisks\u201d on page 191). We labeled the DASD VMFCS1 and VMFCS2. 3. We defined the DASD to DirMaint by modifying EXTENT CONTROL (see \u201cCustomizing the EXTENT CONTROL file\u201d on page 313). 4. We added the entire space (less cylinder 0) of the new volumes as new minidisks to VMSERVP. We defined the space as",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.600240",
+    "chunk_number": 610,
+    "word_count": 174
+  }
+}

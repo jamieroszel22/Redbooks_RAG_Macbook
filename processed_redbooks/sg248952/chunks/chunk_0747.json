@@ -1,0 +1,18 @@
+{
+  "content": "resources for each input queue. This approach allows multiple concurrent z/OS processing threads to process each unique input queue (workload), which avoids traditional resource contention. IWQ reduces the conventional z/OS processing that is required to identify and separate unique workloads. This advantage results in improved overall system performance and scalability. A primary objective of IWQ is to provide improved performance for business-critical interactive workloads by reducing contention that is created by other types of workloads. In a heavily mixed workload environment, this \u201coff the wire\u201d network traffic separation is provided by OSA-Express7S 1.2, OSA-Express7S and OSA-Express6S12 features that are defined as CHPID type OSD. OSA IWQ is shown in Figure 7-5. Figure 7-5 OSA inbound workload queuing The following types of z/OS workloads are identified and assigned to unique input queues: \u0002 z/OS Sysplex Distributor traffic Network traffic that is associated with a distributed",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.149292",
+    "chunk_number": 747,
+    "word_count": 144
+  }
+}

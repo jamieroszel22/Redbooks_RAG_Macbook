@@ -1,0 +1,18 @@
+{
+  "content": "functions for the z/VM Hypervisor and virtual images (guests) in a z/VM environment. The z/VM SMAPI is the access point for any external tool to manage the z/VM running on IBMZ platform. It supports management of lifecycle and configuration of various platform resources, such as Guest, CPU, memory, virtual switches, storage, and more. Some IBM products use the SMAPI to perform various tasks on the z/VM system. Therefore, it is necessary to make sure that SMAPI is configured and running before you configure any cloud piece that interacts with z/VM. The exact configuration steps for SMAPI might differ from the following section based on the version and release level of z/VM. z/VM ships a set of servers that provide local system management APIs (see Figure 10-3). These servers consist of request servers that accept local connections, receive the data, and then call one of a set of worker servers to process the request. These servers are known collectively as SMAPI. The worker servers can",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.995857",
+    "chunk_number": 710,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Switch I/O2 (2) CPC1 CPC0 I/O1 (1) FRAME 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 Appendix D. Rack configurations 485 Figure 12-12 One or two CPC drawers and three PCIe+I/O drawers Important: Configurations with two CPC drawers are delivered with three phase iPDUs. However, for configurations with single CPC drawer, if addition of the second CPC drawer is required, the power infrastructure must be changed to three-phase iPDUs. This is disruptive. A SE Server SE Server Eth. Switch Eth. Switch I/O3 (3) I/O2 (2) CPC1 CPC0 I/O1 (1) FRAME 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 A SE Server SE Server Eth. Switch Eth. Switch I/O3 (3) I/O2 (2) CPC0 I/O1 (1) FRAME 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 486 IBM z16 A02 and IBM z16 AGZ Technical Guide IBM z16 AGZ -",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.347472",
+    "chunk_number": 1115,
+    "word_count": 239
+  }
+}

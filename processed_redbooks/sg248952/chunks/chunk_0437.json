@@ -1,0 +1,18 @@
+{
+  "content": "connector; supports 82 meters (269 feet) Switch configuration for RoCE Express2: If the IBM 25GbE RoCE Express2 features are connected to 25GbE switches, the switches must meet the following requirements: \u0002 Global Pause function enabled \u0002 Priority flow control (PFC) disabled. 25 GbE RoCE Express2 requirements: \u0002 The 25GbE RoCE Express2 feature does not support auto-negotiation to any other speed and runs in full duplex mode only. \u0002 25GbE and 10GbE RoCE features should not be mixed in a z/OS SMC-R Link Group. Switch configuration for RoCE Express2: The switches must meet the following requirements: \u0002 Global Pause function enabled \u0002 Priority flow control (PFC) disabled. 174 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 OM1 62.5-micron multimode fiber optic cable that is rated at 200 MHz-km that ends with an LC Duplex connector; supports 33 meters (108 feet) The virtualization capabilities for IBM z16 A02 and IBM z16 AGZ are 63 Virtual Functions per port (126 VFs per feature/PCHID). One",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.920031",
+    "chunk_number": 437,
+    "word_count": 163
+  }
+}

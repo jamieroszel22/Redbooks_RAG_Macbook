@@ -1,0 +1,18 @@
+{
+  "content": "data formats to access and share data. The solution can manage workloads both on premises and across hybrid multi-cloud environments while leveraging internal and external data sets. Through workload optimization, with this solution an organization can reduce data warehouse costs by up to 50 percent. It enables users to access robust data through a single point of entry while applying multiple fit-for-purpose query engines to uncover valuable insights. It also provides built-in data governance tools, automation, and integration with an organization's existing databases and tools to simplify setup and the user experience. This IBM Redbooks\u00ae publication provides a broad understanding of watsonx.data concepts and architecture, and the services that are available in the product. In addition, several common use cases and scenarios are included that should help you better understand the capabilities of this product. This publication is for watsonx customers who seek best practices and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.440253",
+    "chunk_number": 27,
+    "word_count": 146
+  }
+}

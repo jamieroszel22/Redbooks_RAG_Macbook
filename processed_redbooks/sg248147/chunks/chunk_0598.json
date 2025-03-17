@@ -1,0 +1,18 @@
+{
+  "content": "replaces B (5E6) 4. Use the PUT2PROD command to put the service into production: ==> put2prod ... VMFP2P1239I CP was serviced. Shutdown and re-IPL the system to employ the new service. VMFP2P2760I PUT2PROD processing completed successfully The second to last message states that a SHUTDOWN and re-IPL are necessary. Again, watch for a return code of 0. 5. Your PTF is now put into production. You might or might not need to IPL the system, depending on the nature of the PTF that you applied. If necessary, ensure that you can IPL your system again. You might want to shut down and IPL again one member at a time with live guest relocations (LGRs) of the important Linux systems in between. 272 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6. Your z/VM system returns in a few minutes. When the system comes back up, start a 3270 session to MAINT and again query the status of the PTF: ==> service cp status UM35728 VMFUTL2767I Reading VMFINS DEFAULTS B for additional options VMFSRV2195I SERVICE CP",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.560060",
+    "chunk_number": 598,
+    "word_count": 174
+  }
+}

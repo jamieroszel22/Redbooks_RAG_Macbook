@@ -1,0 +1,18 @@
+{
+  "content": "Risk Governance (MRG), integrating them into the end-to-end governance process discussed in this chapter. These workflows facilitate responsible AI development, deployment, and monitoring, ensuring adherence to organizational processes and regulatory requirements. These workflows can be automated and involve multiple user interactions and feedback/approval capturing mechanisms effectively reducing the time and effort to manage the entire process of AI governance. All actions taken by users with workflows are auditable ensuring confidence in the system results. Predefined workflows are provided as part of watsonx.governance, but more can be built or existing workflows can be customized through the UI designer. Chapter 3. Implementing AI governance strategy 37 These available workflows can be categorized into: \u0002 Models: Model Candidate, Model Validation, Model Deployment, Model Risk Assessment, Model Attestation, Model Decommission, and Model Change Request \u0002 Use Cases: Use Case",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.890297",
+    "chunk_number": 117,
+    "word_count": 135
+  }
+}

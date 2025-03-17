@@ -1,0 +1,18 @@
+{
+  "content": "decompression operations (by offloading these operations), and increases data encryption (compression before encryption) efficiency. With IBM z15, the zEDC Express functions were moved off from the PCIe infrastructure into the processor chip. By moving the compression and decompression into the processor on-chip, IBM z15 processor provides a new level of performance for these tasks and eliminates the need for the zEDC Express feature virtualization. It also brings new use cases to the platform. The IBM z16 continues to support IBM Integrated Accelerator for zEDC. For more information, see Appendix C, \u201cIBM Integrated Accelerator for zEnterprise Data Compression\u201d on page 507. 12.1.4 Primary performance improvement drivers with IBM z16 The attributes and design points of IBM z16 contribute to overall performance and throughput improvements as compared to the IBM z15. The following major items contribute to IBM z16 performance improvements: \u0002 IBM z16 microprocessor architecture: \u2013 7 nm",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.237824",
+    "chunk_number": 1073,
+    "word_count": 147
+  }
+}

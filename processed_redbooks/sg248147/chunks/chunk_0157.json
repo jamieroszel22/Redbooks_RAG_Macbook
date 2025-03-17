@@ -1,0 +1,18 @@
+{
+  "content": "enough time is available to react. In most cases, administrators do not have enough time to react before a crash occurs. \u0002 The size of your root file system, even as workload expands because good practice dictates that applications and data go into one of the four file systems we created as LVM logical volumes in Table 2-1. \u0002 As application and system data becomes more voluminous, you can quickly and easily expand vg_work by adding another minidisk as a physical volume. This process can be done in minutes and does not require an outage. \u0002 Recovery of a Linux system that uses LVM for the root file system is a needless complexity that can be avoided. The process to mount, access, and make repairs to Linux that is rooted in an LVM is a \\ manual procedure that is ripe with the possibilities for human error to make things worse than they might already be. \u0002 Linux distributions that use BTRFS or ZFS for the root (/) file system often include features that are enabled that are not suitable",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.779860",
+    "chunk_number": 157,
+    "word_count": 180
+  }
+}

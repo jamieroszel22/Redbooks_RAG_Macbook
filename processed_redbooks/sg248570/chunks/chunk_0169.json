@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.data Figure 5-15 Application status tab Figure 5-16 Spark History Server You can monitor and analyze running applications using the Spark UI, which offers a similar interface to Spark History. Click on an application ID in the Applications tab to access detailed information about that specific application. 5.2.3 Submitting the application to Native Spark engine Here we demonstrate how to submit applications using the REST API. Spark application details This scenario demonstrates a basic application that creates a database, establishes an Iceberg table, populates it with data, and then retrieves data from the same table. Example 5-1 shows the REST API usage for this scenario. Example 5-1 REST API usage on Notebook from pyspark.sql import SparkSession def init_spark(): spark = SparkSession.builder.appName(\"demo-iceberg-test\").enableHiveSupport().getOrCreate( ) sc = spark.sparkContext Tip: To locate a particular application within Spark History, utilize its distinctive",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.995191",
+    "chunk_number": 169,
+    "word_count": 137
+  }
+}

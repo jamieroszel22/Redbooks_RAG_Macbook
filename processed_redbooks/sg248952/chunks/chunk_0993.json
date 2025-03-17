@@ -1,0 +1,18 @@
+{
+  "content": "/ 10.3.6, \u201cAssigning TCP/IP addresses to the HMC, SE, and ETS\u201d on page 417.>> HMC File Transfer support FTP, FTPS, and SFTP protocols are supported on the HMC and SE. All three file transfer protocols requires login ID and password (credentials). FTPS is based on Secure Sockets Layer cryptographic protocol (SSL) and requires certificates to authenticate the servers. SFTP is based on Secure Shell protocol (SSH) and requires SSH keys to authenticate the servers. Certificates and key pairs are hosted in the IBM z16 A02 and IBM z16 AGZ HMC. The following FTP server requirements must be met: \u0002 Support passive data connections \u0002 A server configuration that allows the client to connect on an ephemeral (temporary or non-registered) port The following FTPS server requirements must be met: \u0002 Operate in \u201cexplicit\u201d mode \u0002 Allows a server to offer secure and unsecured connections \u0002 Must support \u201cpassive\u201d data connections \u0002 Must support secure data connections The SFTP server must support",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.971158",
+    "chunk_number": 993,
+    "word_count": 160
+  }
+}

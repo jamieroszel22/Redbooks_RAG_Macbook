@@ -1,0 +1,18 @@
+{
+  "content": "STP and other servers that are not IBM Z (such as AIX\u00ae and Microsoft Windows) that include NTP clients. The HMC can act as an NTP server. With this support, the IBM z15 can receive the time from the HMC without accessing a LAN other than the HMC and SE network. When the HMC is used as an NTP server, it can be configured to receive the NTP source from the internet. For this type of configuration, a LAN that is separate from the HMC/SE LAN can be used. HMC NTP broadband authentication support HMC NTP authentication can be used since HMC Driver 15 (zEC12/zBC12). Authentication support with a proxy Some client configurations use a proxy for external access outside the corporate data center. NTP requests are User Datagram Protocol (UDP) socket packets and cannot pass through the proxy. The proxy must be configured as an NTP server to get to target servers on the web. Authentication can be set up on the client\u2019s proxy to communicate with the target time sources. Authentication support with",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.108616",
+    "chunk_number": 1031,
+    "word_count": 175
+  }
+}

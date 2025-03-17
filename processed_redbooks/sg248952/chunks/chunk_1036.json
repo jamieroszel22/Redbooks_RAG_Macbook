@@ -1,0 +1,18 @@
+{
+  "content": "available for use by higher level management applications, system automation functions, or custom scripting. The functions that are exposed through the API support several important usage scenarios in virtualization management, including resource inventory, provisioning, monitoring, automation and workload-based optimization among others. For more details see Hardware Management Console Web Services API Version 2.16.0, SC27-2642. \u0002 SNMP Application Programming Interfaces The SNMP API provide monitoring and control functions through SNMP. The API can get and set a managed object\u2019s attributes, issue commands, receive asynchronous notifications, and generate SNMP traps. For more information see SNMP Application Programming Interfaces, SB10-7179. 436 IBM z16 A02 and IBM z16 AGZ Technical Guide 10.5.13 Cryptographic support This section describes the cryptographic management and control functions that are available in the HMC and SE. Cryptographic hardware IBM z16 A02 and IBM z16 AGZ",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.136241",
+    "chunk_number": 1036,
+    "word_count": 136
+  }
+}

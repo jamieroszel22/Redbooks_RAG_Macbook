@@ -1,0 +1,18 @@
+{
+  "content": "rules control this environment: \u0002 If an LPAR is defined at IPL with more than 64 logical processors, the LPAR automatically operates in HiperDispatch Management Mode, regardless of the HIPERDISPATCH= specification. \u0002 If logical processors are added to an LPAR that has 64 or fewer logical processors and the extra logical processors raise the number of logical processors to more than 64, the LPAR automatically operates in HiperDispatch Management Mode, regardless of the HIPERDISPATCH=YES/NO specification. That is, even if the LPAR has the HIPERDISPATCH=NO specification, that LPAR is converted to operate in HiperDispatch Management Mode. IOCP required level for IBM z16 servers: \u0002 z/OS V2.R4 and older releases use the same IOCP FMID HIO1104 \u0002 z/OS V2.R5 uses IOCP FMID HIO1105 For more information, see the following publications: \u0002 Stand-Alone Input/Output Configuration Program User's Guide, SB10-7180 \u0002 Input/Output Configuration Program User\u2019s Guide for ICP IOCP, SB10-7177 270 IBM z16",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.764167",
+    "chunk_number": 640,
+    "word_count": 149
+  }
+}

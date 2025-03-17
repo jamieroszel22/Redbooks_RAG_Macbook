@@ -1,0 +1,18 @@
+{
+  "content": "cancel, or view the order, and view the history of orders that were placed through this interface. Configuration rules enforce that only valid configurations are generated within the limits of the individual system. Warning messages are issued if you select invalid upgrade options. The process allows only one permanent CIU-eligible order for each system to be placed at a time. Chapter 8. System upgrades 339 For more information, see the IBM Resource Link website (log in required). The initial view of the Machine profile on Resource Link is shown in Figure 8-6. Figure 8-6 Machine profile window The number of CPs, ICFs, zIIPs, IFLs, memory size, unassigned IFLs, unassigned ICFs, and unassigned zIIPs on the current configuration are displayed on the left side of the page. Resource Link retrieves and stores relevant data that is associated with the processor configuration, such as the number of CPs and installed memory cards. It allows you to select only those upgrade options that are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.472094",
+    "chunk_number": 841,
+    "word_count": 161
+  }
+}

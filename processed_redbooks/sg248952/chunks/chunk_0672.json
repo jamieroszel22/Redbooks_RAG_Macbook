@@ -1,0 +1,18 @@
+{
+  "content": "installed. \u0002 z/VM Guest exploitation support for the Instruction Execution Protection Facility is provided with APAR VM65986. The supported operating systems are listed in Table 7-3 on page 249 and Table 7-4 on page 250. Secure Boot for Linux and Validated Boot for z/OS With IBM z16 A02 and IBM z16 AGZ and accompanying z/OS V2.5 operating system support, IBM is providing optional basic support for performing a Validated Boot (IPL) of z/OS systems, using IPL volumes defined and built on ECKD DASD devices. This solution provides digital signatures validation for loaded z/OS executables that have been built and signed as part of the solution. This solution is designed to meet the requirements for achieving the National Information Assurance Partnership (NIAP) OS Protection Profile 4.2.1 Certification. Secure Boot verification guarantees that the Linux distribution kernel comes from an official provider and has not been compromised. If the signature of the distribution can not be",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.873677",
+    "chunk_number": 672,
+    "word_count": 154
+  }
+}

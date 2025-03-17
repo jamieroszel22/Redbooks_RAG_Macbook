@@ -1,0 +1,18 @@
+{
+  "content": "identifier D02 (two CPs), a capacity upgrade through On/Off CoD can be delivered in the following ways: \u0002 Add CPs of the same capacity setting. With this option, the model capacity identifier can be changed to a D03, which adds another CP to make it a three-way CP. It can also be changed to a D04, which adds two CPs, making it a four-way CP. \u0002 Change to a different capacity level of the current CPs and change the model capacity identifier to a E02 or F02. The capacity level of the CPs is increased, but no other CPs are added. The D02 also can be temporarily upgraded to a E03, which increases the capacity level and adds another processor. Use the Large System Performance Reference (LSPR) information to evaluate the capacity requirements according to your workload type. For more information about LSPR data for current IBM processors, see the Large Systems Performance Reference for IBM Z page of the IBM Systems website. The On/Off CoD hardware capacity is charged on a 24-hour basis. A",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.503819",
+    "chunk_number": 850,
+    "word_count": 175
+  }
+}

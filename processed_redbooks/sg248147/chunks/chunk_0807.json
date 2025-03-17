@@ -1,0 +1,18 @@
+{
+  "content": "processor, which can be helpful to get an idea of how the virtual processors might be constrained. Virtual processors that are running in the snapshot period are marked with an RNN where NN is the processor number they are on. An R without a number means that the virtual processor is ready to run, but no processor is available. Other states are documented in the help for IND Q EXP. You do not need to be concerned about the other columns unless detailed analysis is required or if IBM support requests it. Also, always remember that this output is only a snapshot in time. Repeating this command over time gives you a more accurate picture of your z/VM system. A single snapshot cannot be regarded as indicative. Note: The virtual machine that issues the INDICATE command will always be one of the running machines. 374 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 CP INDICATE ACTIVE Use INDICATE ACTIVE to display: \u0002 The total amount of active users in a specific time \u0002 The number of users in",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.333811",
+    "chunk_number": 807,
+    "word_count": 177
+  }
+}

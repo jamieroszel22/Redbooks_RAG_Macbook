@@ -1,0 +1,18 @@
+{
+  "content": "extents. \u2013 PW_INTERVAL_FOR_SET= 90 sets a 90-day password change interval. If you plan to use an ESM, such as RACF, you need to omit this line entirely because the ESM will handle this interval. \u2013 ONLINE= IMMED line sets your changes to be made immediately. \u2013 RUNMODE= OPERATIONAL indicates that directory changes need to be made. This run mode can be set to TESTING and the changes will not be performed yet. If you use testing mode, ensure that you remember to come back and change to operational mode when your testing is complete. \u2013 The RACF_RDEFINE_VMBATCH_DEFAULTS= line does not create a VMBATCH-specific resource entry. Otherwise, DIRMAINT creates a VMBATCH resource for this user ID with this line as a default. The VMBATCH generic resource class is configured in , \u201cThis output shows that SMAPI is running, LNXADMIN is correctly authorized to call SMAPI, and the Linux interface smaclient is working.\u201d on page 340. If you are not installing RACF, you can omit this line. Example 10-1",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.897391",
+    "chunk_number": 682,
+    "word_count": 167
+  }
+}

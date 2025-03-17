@@ -1,0 +1,18 @@
+{
+  "content": "enhance the security protection of the Linux systems it hosts. In this chapter, we discuss security considerations for your z/VM environment that help to make it a more secure place for Linux systems to run. This chapter includes the following topics: \u0002 3.1, \u201cSecurity policy\u201d on page 72 \u0002 3.2, \u201cExternal Security Manager\u201d on page 72 \u0002 3.3, \u201cSeparation of authority\u201d on page 75 \u0002 3.4, \u201cMultifactor authentication\u201d on page 77 \u0002 3.5, \u201cTLS for network traffic\u201d on page 78 3 72 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 3.1 Security policy Every organization must have a policy for managing enterprise-wide security. This policy covers all aspects of the organization\u2019s security: from physical building security and access through to information security. Establishing rules up-front, getting support for those rules at the corporate level, and knowing where the rules are written down, makes it much easier to work out what you need so that those rules are enforced in your IT systems. This book",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.001596",
+    "chunk_number": 212,
+    "word_count": 163
+  }
+}

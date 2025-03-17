@@ -1,0 +1,18 @@
+{
+  "content": "and deactivation \u2013 History window for all CoD actions \u2013 Description editing of CoD records \u0002 HMC/SE provides the following CoD information: \u2013 Millions of service units (MSU) and processor tokens \u2013 Last activation time \u2013 Pending resources that are shown by processor type instead of only a total count \u2013 Option to show more information about installed and staged permanent records \u2013 More information for the Attention state by providing seven more flags HMC and SE are a part of the z/OS Capacity Provisioning environment. The Capacity Provisioning Manager (CPM) communicates with the HMC through IBM Z APIs, and enters CoD requests. For this reason, SNMP must be configured and enabled by using the Customize API Settings task on the HMC. For more information about using and setting up CPM, see the following publications: \u0002 z/OS MVS Capacity Provisioning User\u2019s Guide, SC34-2661 \u0002 Capacity on-Demand User\u2019s Guide, SC28-7025 10.5.8 Server Time Protocol (STP) support In the task Manage System Time",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.101264",
+    "chunk_number": 1024,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "500 3390 4096 1126 29765-33 60235 90000 5. List the files on the C disk and note the two new files: ==> listfile * * c S1309082 SHIPRSU1 C1 7201RSU1 SERVLINK C1 S1309082 SHIPDOC C1 6. De-terse the documentation file. Change the file name prefix character to \u201cd\u201d: ==> deterse s1309082 shipdoc c d1309082 = = 7. De-terse the RSU file. Change the file type to SERVLINK (this step can take some time to complete): ==> deterse s1309082 shiprsu1 c = servlink = Often, this step succeeds. However, large RSUs can fill up the MAINT 500 disk on the FTP step or the DETERSE step. For example, you might receive the following error on the DETERSE step: DMSERD107S Disk C(500) is full No traceback - not enough CTL storage If this error occurs, an extra step to create a larger disk might be necessary. 262 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 8.3.3 Receive, apply, and build the service You must receive, apply, and build the service. Then, it can be put into production. In the past, this process was",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.486899",
+    "chunk_number": 580,
+    "word_count": 180
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "does not affect performance. Chapter 2. Central processor complex hardware components 65 Each RCU contains up to four independent fan assemblies that can be concurrently serviced. The number of fans present depends on the number of CPC drawers that are installed in the frame. The water pumps, manifold assembly, radiator assembly (which includes the heat exchanger), and fan assemblies are the main components of the IBM z16 RCU, as shown in Figure 2-30. Figure 2-30 Radiator Cooling Unit The closed water loop in the radiator unit is shown in Figure 2-31. The warm water that is exiting from the PU DCMs cold plates enters pumps through a common manifold and is pumped through a heat exchanger where heat is extracted by the air flowing across the heat exchanger fins. The cooled water is then recirculated back into the PU DCMs cold plates. Figure 2-31 Radiator cooling system DCM 66 IBM z16 (3931) Technical Guide 2.10 Summary All aspects of the IBM z16 A01 structure are listed in Table 2-16",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.924833",
+    "chunk_number": 187,
+    "word_count": 169
+  }
+}

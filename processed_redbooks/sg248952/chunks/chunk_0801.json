@@ -1,0 +1,18 @@
+{
+  "content": "activates processor capacity temporarily to facilitate moving systems between data centers, upgrades, and other routine management tasks. CPE is an offering of CoD. CPE is only available as carry forward on IBM z16 A02 and IBM z16 AGZ. Capacity levels Can be full capacity or subcapacity. For an IBM IBM z16 A02 and IBM z16 AGZ system, capacity levels for the CP engine are A-Z (26 subcapacity levels): \u0002 A full capacity CP engine is indicated by Z. \u0002 A subcapacity CP engine is indicated by A - Y. \u0002 Each capacity level can have 1 to 6 CPs, which will result in a totla156 different options. Capacity setting Derived from the capacity level and the number of processors. For the IBM z16 A02 and IBM z16 AGZ, the capacity levels are A01 - Z06, where the last digit indicates the number of active CPs, and the letter A - Z indicates the processor capacity level. An all IFL or all ICF system has a capacity setting of A00. Customer Initiated Upgrade (CIU) A web-based facility where you can request",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.322708",
+    "chunk_number": 801,
+    "word_count": 180
+  }
+}

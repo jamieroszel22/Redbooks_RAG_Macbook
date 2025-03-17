@@ -1,0 +1,18 @@
+{
+  "content": "zEnterprise Data Compression 481 Software decompression is slow and can involve considerable processor resources. Therefore, it is not recommended for production environments. A specific fix category that is named IBM.Function.zEDC identifies the fixes that enable or use the zEDC and On-Chip Compression function. z/OS guests that run under z/VM V7.R1 with PTFs and later can use the zEDC Express feature and IBM z16 A02 and IBM z16 AGZ On-Chip Compression. For more information, look for the Enhancements to z/VM 7.1 presentation on the z/VM Presentations page on the IBM website. IBM 31-bit and 64-bit SDK for z/OS Java Technology Edition, Version 7 Release 1 (5655-W43 and 5655-W44) (IBM SDK 7 for z/OS Java) provides use of the zEDC Express feature and Shared Memory Communications-Remote Direct Memory Access (SMC-R), which is used by the 10GbE RoCE Express feature. For more information about how to implement and use the IBM Z compression features, see Reduce Storage Occupancy and Increase",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.322028",
+    "chunk_number": 1110,
+    "word_count": 157
+  }
+}

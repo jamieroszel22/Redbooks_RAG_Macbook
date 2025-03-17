@@ -1,0 +1,18 @@
+{
+  "content": "features 217 0057 TKE rack-mounted workstation The rack-mounted version of the TKE, which needs a customer-provided standard 19-inch rack. It features a 1u TKE unit and an (optional) 1u console tray (screen, keyboard, and pointing device). When smart card readers are used, another customer-provided tray is needed. Up to 10 features combined (0057/0058) can be ordered per IBM z16. 0882 TKE 10.0 Licensed Internal Code (LIC) Included with the TKE tower workstation FC 0058 and the TKE rack-mounted workstation FC 0057 for IBM z16. Earlier versions of TKE features (feature codes: 0087, 0088, 0085, and 0086) also can be upgraded to TKE 10.0 LIC, adding FC 0851 (IBM 4770 PCIeCC) if the TKE is assigned to an IBM z16 and manages Crypto Express8S. 0851 4770 TKE Crypto Adapter (IBM PCIeCC) The stand-alone crypto adapter is required for TKE upgrade from FC 0085 and FC 0086 TKE tower, or FC 0087 and FC 0088 TKE Rack Mount when carry forward these features to IBM z16. 0144 TKE Tower carry forward to",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.286754",
+    "chunk_number": 529,
+    "word_count": 170
+  }
+}

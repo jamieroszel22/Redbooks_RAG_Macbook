@@ -1,0 +1,18 @@
+{
+  "content": "AI and Data platform. This book focuses on watsonx.governance, a key component of the platform. IBM watsonx.governance offers a comprehensive solution for governing data and AI workloads within a secure and scalable environment. Built on an open architecture, it empowers organizations to manage data access, compliance, and security across hybrid multi-cloud deployments. IBM watsonx.governance simplifies data governance with built-in automation tools and integrates seamlessly with existing databases and tools, streamlining workflows and enhancing user experience This IBM Redbooks publication provides a broad understanding of watsonx.governance concepts and architecture, and the services that are available in the product. In addition, several common use cases and scenarios are included that should help you better understand the capabilities of this product. This publication is for watsonx customers who seek best practices and real-world examples of how to best implement their solutions",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.506104",
+    "chunk_number": 22,
+    "word_count": 138
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "built on ECKD DASD devices. \u0002 Linux\u00ae Secure Boot: IBM z16 A02 and IBM z16 AGZ are designed to extend Linux secure boot capabilities to Linux IPL Volumes built on ECKD devices, in addition to existing support for secure boot from SCSI/FBA devices and allows client-provided validation certificates provided through the SE/HMC to be used for validation purposes during Linux secure boot. z/VM 7.3 has been enhanced to add support to securely boot a Linux guest. \u0002 IBM Z Security and Compliance Center: Simplify compliance and help reduce risk with IBM Z Security and Compliance Center, a centralized, interactive dashboard with out-of-the-box profiles specifically built for regulatory requirements that you can use or customize to accommodate or establish your regulatory framework. \u0002 Sustainability: The IBM z16 A02 and IBM z16 AGZ are key contributors to a sustainable data center with transparency through PAIA product carbon footprint reports2, 4 IBM z16 A02 and IBM z16 AGZ Technical Guide",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.390572",
+    "chunk_number": 66,
+    "word_count": 157
+  }
+}

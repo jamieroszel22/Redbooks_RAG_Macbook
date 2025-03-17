@@ -1,0 +1,18 @@
+{
+  "content": "lengths). Branch direction is predicted based on history. \u2013 Perceptron: Called a Perceptron because this is a neural network algorithm that learns to correlate branch history over time and predicts direction of branches that the other mechanisms cannot catch with sufficient accuracy \u0002 Target: \u2013 Two table TAGE Changing Target Buffer (CTB): A two-level table (with different history lengths). Branches are remembered that have different targets depending on history. \u2013 Return Address Table Call/Return Stack (RAT CRS): Multi-level CRS that is implemented as a table lookup 3.4.4 Superscalar processor A scalar processor is a processor that is based on a single-issue architecture, which means that only a single instruction is run at a time. A superscalar processor allows concurrent (parallel) execution of instructions by adding resources to the microprocessor in multiple pipelines, each working on its own set of instructions to create parallelism. A superscalar processor is based on a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.104530",
+    "chunk_number": 234,
+    "word_count": 150
+  }
+}

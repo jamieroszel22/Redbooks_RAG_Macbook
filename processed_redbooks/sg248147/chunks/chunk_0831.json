@@ -1,0 +1,18 @@
+{
+  "content": "requested. This method is recommended for more experienced operators only. 384 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 12.2.3 Configure PERFSVM Run the following command to log on to the default PERFSVM user ID: LOGON PERFSVM BY IBMVM1 You can change the default PERFSVM user ID in the USER DIRECT file. The PERFSVM virtual machine is the Performance Toolkit service machine. Complete the following steps to configure it: 1. Log on to PERFSVM. If you successfully enabled the product, enter a Performance Toolkit session and see the following text at the top of the pane: FCX001 Performance Toolkit for VM Autoscroll 12 FCXBAS500I Performance Toolkit for VM FL720 (64-bit) FCXBAS100I HMA storage 2048M.2048M is being used for temporary work area ... 07:55:24 HCPMOF6229E Monitor event collection is already active. 07:55:24 HCPMOG6229E Monitor sample collection is already active. 2. Press F12 twice to get to a Conversational Monitor System (CMS) prompt. 3. Copy the default configuration",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.414361",
+    "chunk_number": 831,
+    "word_count": 155
+  }
+}

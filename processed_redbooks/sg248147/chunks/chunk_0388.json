@@ -1,0 +1,18 @@
+{
+  "content": "members and the SSI. Note: If you are running in a non-SSI z/VM system, go directly to step 1b without issuing a shutdown. Note: If you are on a non-SSI z/VM system, you shutdown the z/VM system. Chapter 6. Configuring z/VM 167 6.7.6 Putting RACF into production on all members IPLing the member and start RACMAINT You must IPL each member of the SSI and start RACMAINT. Complete the following steps: 1. Start an Integrated 3270 Console for the member. 2. IPL the member from the Hardware Management Console (HMC) from the real device address \u201cRes volume\u201d. The STAND ALONE PROGRAM LOADER (SAPL) window as shown in Figure 6-2 on page 167 opens on the Integrated 3270 Console. 3. Change the Device Number to the device number of Release Volume 1 (volume label VMFRL1 in this case), not the \u201cRes volume\u201d (volume label VMFRES) that normally IPLs. In our example that is shown in Figure 6-2 on page 167, we show real device address 1136. Press F10 to IPL, which loads the CPLOAD MODULE from the CF2 disk,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.714346",
+    "chunk_number": 388,
+    "word_count": 178
+  }
+}

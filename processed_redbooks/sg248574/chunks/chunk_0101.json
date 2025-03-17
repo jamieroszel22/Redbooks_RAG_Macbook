@@ -1,0 +1,18 @@
+{
+  "content": "critical for building ethical and unbiased AI systems. Give careful attention to the diversity and representation in data to avoid discrimination and ensure balanced outcomes. High data quality maximizes the accuracy, transparency, and applicability of AI systems, which ultimately enhances their value and impact. 4.5.3 Handling missing data, outliers, and bias Handling missing data, outliers, and bias is crucial for ensuring the accuracy and fairness of AI models. Here is how each one is managed: \u0002 Handling missing data: \u2013 Imputation techniques: Missing data can be filled by using statistical techniques such as mean, median, or mode imputation, or more complex methods like k-nearest neighbors (KNNs) or predictive models. \u2013 Data removal: Sometimes, records with significant missing values are removed if they are unlikely to add useful information. \u2013 Domain knowledge: Input from domain experts can help determine whether missing data should be treated differently based on context. \u0002",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.518712",
+    "chunk_number": 101,
+    "word_count": 149
+  }
+}

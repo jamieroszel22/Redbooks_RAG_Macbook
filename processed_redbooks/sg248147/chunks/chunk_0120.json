@@ -1,0 +1,18 @@
+{
+  "content": "Small Computer System Interface (SCSI) over Fibre Channel Protocol (FCP), and emulated DASD (EDEV) are all described. However, the use of conventional 3390 DASD is still considered to be the fastest and simplest choice. \u0002 To avoid unnecessary risk, the authors chose not to cover cloning. As an alternative to cloning, automated installation or imaging is now considered the preferred practice and is covered in this publication. Attention: It is bad practice to run a z/VM system without an ESM in place to correctly encrypt passwords and ensure sufficient controls on commands and system functions. It is widely regarded as good practice for any non-production systems (such as those systems for development and testing) to be administered to a production-level standard. As such, z/VM always must be configured to use an ESM, regardless of any functional readiness or status labels. Important: The practice of cloning is no longer considered a good practice and is deprecated. Changes in modern",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.595029",
+    "chunk_number": 120,
+    "word_count": 158
+  }
+}

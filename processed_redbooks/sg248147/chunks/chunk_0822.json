@@ -1,0 +1,18 @@
+{
+  "content": "virtual storage only. 380 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 PROCESSOR 03 ALTERNATE CP PROCESSOR 04 ALTERNATE CP PROCESSOR 05 ALTERNATE CP PROCESSOR 06 ALTERNATE CP PROCESSOR 07 ALTERNATE CP PROCESSOR 08 ALTERNATE CP PROCESSOR 09 ALTERNATE CP Determining the software level To determine the control program (CP) level of your system, use the QUERY CPLEVEL command, for example: ===> q cplevel z/VM Version 7 Release 2.0, service level 2001 (64-bit) Generated at 07/29/20 16:50:40 EDT IPL at 09/26/20 19:28:25 EDT To determine the CMS level of your system, use the following QUERY CMSLEVEL command: ===> q cmslevel q cmslevel z/CMS Level 30, Service Level 0000 Determining the system cylinder allocation The QUERY ALLOC MAP command shows you the system allocation of spool, paging, and directory space, for example: ===> q alloc map EXTENT EXTENT % ALLOCATION VOLID RDEV START END TOTAL IN USE HIGH USED TYPE ------ ---- ---------- ---------- ------ ------ ------ ---- ------------- JV1030",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.377372",
+    "chunk_number": 822,
+    "word_count": 158
+  }
+}

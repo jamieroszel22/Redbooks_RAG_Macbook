@@ -1,0 +1,18 @@
+{
+  "content": "publications provide more information about the topic in this document. Note that some publications that are referenced in this list might be available in softcopy only: \u0002 IBM z16 Technical Introduction, SG24-8950 \u0002 IBM Z Connectivity Handbook, SG24-5444 \u0002 IBM z16 (3931) Configuration Setup, SG24-8960 You can search for, view, download, or order these documents and other Redbooks, Redpapers, Web Docs, draft and additional materials, at the following website: ibm.com/redbooks Other publications The publication IBM Z 8561 Installation Manual for Physical Planning, GC28-7002, also is relevant as another information source. Online resources The following online resources are available: \u0002 The IBM Resource Link for documentation and tools website: http://www.ibm.com/servers/resourcelink \u0002 IBM Telum Processor: The next-gen microprocessor for IBM Z and IBM LinuxONE: https://www.ibm.com/blogs/systems/ibm-telum-processor-the-next-gen-microprocess or-for-ibm-z-and-ibm-linuxone/ \u0002 Leveraging ONNX",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.422672",
+    "chunk_number": 1162,
+    "word_count": 127
+  }
+}

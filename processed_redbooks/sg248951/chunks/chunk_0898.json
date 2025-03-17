@@ -1,0 +1,18 @@
+{
+  "content": "server concurrently. However, specific situations require a disruptive task to enable capacity that was recently added to the system. Some of these situations can be avoided if planning is done. Planning is a key factor for nondisruptive upgrades. In a multi-site high-availability configuration, another option is the use of Flexible Capacity for Cyber Resilience to move workload to another site while hardware maintenance is performed. Environment 0 8 Configuration Identification 31 Machine-Type Number 32 48 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 63 F 49 Chapter 8. System upgrades 377 Disruptive upgrades are performed for the following reasons: \u0002 LPAR memory upgrades when reserved storage was not previously defined are disruptive to image upgrades. z/OS and z/VM support this function. \u0002 An I/O upgrade when the operating system cannot use the dynamic I/O configuration function is disruptive to that partition. Linux, z/VSE, and z/TPF do not support dynamic I/O configuration. You can minimize the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.645026",
+    "chunk_number": 898,
+    "word_count": 162
+  }
+}

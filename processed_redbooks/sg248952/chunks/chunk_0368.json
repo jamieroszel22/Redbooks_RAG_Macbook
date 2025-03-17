@@ -1,0 +1,18 @@
+{
+  "content": "RoCE Express2.1 features \u0002 Up to 8 25GbE RoCE Express2 features \u0002 Up to 8 10GbE RoCE Express3 features 2 OSA-Express 1000BASE-T features do not have optics (copper only, RJ45 connectors). 3 Multifiber Termination Push-On. 4 For more information, see this web page: https://cw.infinibandta.org/document/dl/7157 144 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Up to 8 10GbE RoCE Express2.1 features \u0002 Up to 8 10GbE RoCE Express2 features \u0002 Up to 16 zHyperLink Express features \u0002 Up to 16 zHyperLink Express1.1 features \u0002 Up to 24 ICA SR1.1 and ICA SR features (combined) with up to 96 ports \u0002 Up to 32 CE2 LR features with up to 64 ports 4.3 PCIe+ I/O drawer The PCIe+ I/O drawers (see Figure 4-1) are attached to the CPC drawer through a PCIe cable and use PCIe Gen3 as the infrastructure bus within the drawer. The PCIe Gen3 I/O bus infrastructure data rate is up to 16 GBps. Notes: Consider the following points: \u0002 IBM z16 A02 and IBM z16 AGZ support a maximum of 3 PCIe+ I/O drawers \u0002 The",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.654317",
+    "chunk_number": 368,
+    "word_count": 180
+  }
+}

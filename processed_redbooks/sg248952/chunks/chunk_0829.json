@@ -1,0 +1,18 @@
+{
+  "content": "Availability (EDA), where possible, on multi-drawer systems to add or change the memory cards. \u0002 MES upgrades for I/O are done by installing more I/O features and supporting infrastructure (if required) on I/O drawers that are installed, or installing more I/O drawers to hold the new cards. A physical MES upgrade requires an IBM SSRs for the installation. To better use the MES upgrade function, carefully plan the initial configuration to allow a concurrent upgrade to a target configuration. The availability of I/O drawers improves the flexibility to perform unplanned I/O configuration changes concurrently. Type Name Upgrade Process Permanent MES CPs, ICFs, zIIPs, IFLs, CPC drawer, memory, and I/Os Installed by IBM SSRs Online permanent upgrade CPs, ICFs, zIIPs, IFLs and memory Performed through the CIU facility Temporary On/Off CoD CPs, ICFs, zIIPs, and IFLs Performed through the OOCoD facility CBU CPs, ICFs, zIIPs, and IFLs Activated through model conversion CPE CPs, ICFs, zIIPs, and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.414555",
+    "chunk_number": 829,
+    "word_count": 155
+  }
+}

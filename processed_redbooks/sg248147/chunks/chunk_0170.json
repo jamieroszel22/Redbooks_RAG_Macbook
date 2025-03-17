@@ -1,0 +1,18 @@
+{
+  "content": "provide, the more paging I/Os z/VM can run concurrently. The method that is used in this book of allocating multiple 3390-9s is consistent with this recommendation. Chapter 2. Planning 51 \u0002 Select the best subsystem: If multiple disk storage subsystems in your data center are accessible to z/VM, carefully consider which of these disk storage subsystems you select for the z/VM paging volumes. Disk storage subsystem controllers of different speeds, cache sizes, capabilities, and existing loads are all considerations when you decide where to place paging volumes. \u0002 Performance matters: Within a certain disk storage subsystem controller, volume performance is sensitive to how the volumes are placed. Avoid poor volume placement, such as putting all of your paging volumes into one rank or other similar situations, by involving your SAN or disk management team in the planning process. \u0002 Increase your channel-path identifiers (CHPIDs): If you can, it is highly recommended that you run",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.837195",
+    "chunk_number": 170,
+    "word_count": 154
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "471. To switch to a 3270 emulator, ensure that you issued LOGOFF from any Integrated 3270 Console sessions that might still be open. Figure 5-33 Stand Alone Program Loader Important: For all other members in the VMSSI cluster, you must now repeat all of section 5.7, \u201cInitial TCP/IP configuration\u201d on page 128. When you run IPWIZARD on the other members, you see that the network information is pre-populated with the values from the last node it was run on. Be sure to change the values for each node. STAND ALONE PROGRAM LOADER: z/VM VERSION 7 RELEASE 2.0 DEVICE NUMBER 0933E MINIDISK OFFSET: 39 EXTENT: 1 MODULE NAME: CPLOAD LOAD ORIGIN: 1000 --------------------------------IPL PARAMETERS----------------------------- fn=SYSTEM ft=CONFIG pdnum=1 pdvol=923E cons=SYSG -----------------------------------COMMENTS--------------------------------- ---------------------------------------------------------------------------- 9= FILELIST 10= LOAD 11= TOGGLE EXTENT/OFFSET Chapter 5. Installing z/VM",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.475524",
+    "chunk_number": 324,
+    "word_count": 131
+  }
+}

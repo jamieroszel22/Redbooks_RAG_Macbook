@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . 495 Appendix A. Channel options . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 501 Appendix B. IBM Z Integrated Accelerator for AI. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 505 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 506 NNPA and IBM z16 Hardware . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 507 How to use IBM Z Integrated AI Accelerator in your enterprise . . . . . . . . . . . . . . . . . . 508 Appendix C. IBM Integrated Accelerator for zEnterprise Data Compression . . . . . . 509 Client value of IBM Z compression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 510 IBM z16 IBM Integrated Accelerator for zEDC. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 511 Eliminating adapter sharing by using Nest Compression",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.304942",
+    "chunk_number": 44,
+    "word_count": 358
+  }
+}

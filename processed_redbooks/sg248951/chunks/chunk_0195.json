@@ -1,0 +1,18 @@
+{
+  "content": "multiple arithmetic formats, and multiple address spaces for robust interprocess security. The IBM z16 system design features the following main objectives: \u0002 Offer a data-centric approach to information (data) security that is simple, transparent, and consumable (extensive data encryption from inception to archive, in-flight, and at-rest). \u0002 Offer a flexible infrastructure to concurrently accommodate a wide range of operating systems and applications, from the traditional systems (for example, z/OS and z/VM) to the world of Linux, cloud, analytics, and mobile computing. \u0002 Offer state-of-the-art integration capability for server consolidation by using virtualization capabilities in a highly secure environment: \u2013 Logical partitioning, which allows up to 85 independent logical servers. \u2013 z/VM, which can virtualize hundreds to thousands of servers as independently running virtual machines (guests). 70 IBM z16 (3931) Technical Guide \u2013 HiperSockets, which implement virtual LANs between",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.957913",
+    "chunk_number": 195,
+    "word_count": 138
+  }
+}

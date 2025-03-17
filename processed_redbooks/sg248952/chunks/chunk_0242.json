@@ -1,0 +1,18 @@
+{
+  "content": "amount of data that is stored and processed on IBM Z continues to grow at a high rate, which drives an ever-increasing sort workload. Introduced on IBM z15 was the sort accelerator that is known as the IBM Integrated Accelerator for Z Sort (see Figure 3-13 on page 90). The SORTL hardware instruction that is implemented on each core is used by DFSORT and the Db2 utilities for z/OS Suite to allow the use of a hardware-accelerated approach to sorting. The IBM Integrated Accelerator for Z Sort feature termed as \u201cZSORT\u201d helps to reduce the CPU costs and improve the elapsed time for eligible workloads. One of the primary requirements for ZSORT is providing enough virtual, real, and auxiliary storage. Sort jobs that run in memory-constrained environments in which the amount of memory that is available to be used by DFSORT jobs is restricted might not achieve optimal performance results or might not be able to use ZSORT. The 64-bit memory objects (above-the-bar-storage) can use the ZSORT",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.131477",
+    "chunk_number": 242,
+    "word_count": 167
+  }
+}

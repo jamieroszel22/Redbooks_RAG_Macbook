@@ -1,0 +1,18 @@
+{
+  "content": "The STSI instruction can be used to obtain information about the current execution environment and any processing level that is below the current environment. It can be used to obtain processor model and model capacity identifier information from the basic machine configuration form of the system information block (SYSIB). It supports concurrent upgrades and is the recommended way to request processor information. \u0002 Store CPU ID (STIDP) instruction STIDP returns information that identifies the execution environment, system serial number, and machine type. Note: To ensure unique identification of the configuration of the issuing CPU, use the STSI instruction specifying basic machine configuration (SYSIB 1.1.1). Chapter 8. System upgrades 375 Store System Information instruction The format of the basic machine configuration SYSIB that is returned by the STSI instruction is shown in Figure 8-19. The STSI instruction returns the model capacity identifier for the permanent configuration",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.635704",
+    "chunk_number": 895,
+    "word_count": 145
+  }
+}

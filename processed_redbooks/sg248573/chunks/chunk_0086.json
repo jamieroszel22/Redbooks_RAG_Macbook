@@ -1,0 +1,18 @@
+{
+  "content": "data format using various extract, transform, and load (ETL) options. IBM watsonx.data allows users to access data in existing data warehouses and data lakes through predefined platform connectors, including Teradata, Snowflake, SingleStore, SQL Server, PostgreSQL, MySQL, MongoDB, IBM Db2, and IBM Netezza. This solution reduces data duplication, and the costs associated with storing data in multiple locations. Suppose existing data is stored in an external storage system such as IBM Cloud Object Store, Amazon S3, IBM Storage Ceph, MinIO, HDFS (in Hadoop/Cloudera), Google Cloud Storage, or Azure Data Lake Storage. In that case, it can be accessed directly if the data is in Iceberg or Delta Format. If the data is stored in other common formats like Parquet or CSV, it can be accessed in its native format, followed by running ETL jobs to convert it to the open format like Iceberg and brought into the platform. Cirata is an IBM partner that developed a cloud migration solution that",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.779633",
+    "chunk_number": 86,
+    "word_count": 159
+  }
+}

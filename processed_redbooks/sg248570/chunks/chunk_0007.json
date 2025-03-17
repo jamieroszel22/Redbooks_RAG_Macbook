@@ -1,0 +1,18 @@
+{
+  "content": "unstructured) . . . . . . . . . . . . . . . . . . . . . 35 3.4 Ingesting data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 3.4.1 Loading or ingesting data through the CLI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 3.4.2 Configuring an S3 IBM Cloud Object Storage bucket. . . . . . . . . . . . . . . . . . . . . . 37 3.4.3 Choosing the catalog . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 3.4.4 Choosing the query engine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 3.4.5 Data ingestion through Spark and Query by using Presto . . . . . . . . . . . . . . . . . . 39 3.4.6 Querying from the IBM watsonx.data Query Workspace . . . . . . . . . . . . . . . . . . . 41 3.4.7 Querying from the Presto CLI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 3.5 Data pipeline considerations for",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.373056",
+    "chunk_number": 7,
+    "word_count": 361
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "that are running in LPAR mode (and in the same Parallel Sysplex) into an LPAR cluster. This configuration allows WLM to manage resources (processor and I/O) across the entire cluster of system images and not only in one single image. An LPAR cluster is shown in Figure 3-21. It contains three z/OS images and one Linux image that is managed by the cluster. Included as part of the entire Parallel Sysplex is another z/OS image and a CF image. In this example, the scope over which IRD has control is the defined LPAR cluster. Figure 3-21 IRD LPAR cluster example IRD features the following characteristics: Chapter 3. Central processor complex design 131 \u0002 IRD processor management WLM dynamically adjusts the number of logical processors within an LPAR and the processor weight based on the WLM policy. The ability to move the processor weights across an LPAR cluster provides processing power where it is most needed, based on WLM goal mode policy. The processor management function is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.548130",
+    "chunk_number": 340,
+    "word_count": 166
+  }
+}

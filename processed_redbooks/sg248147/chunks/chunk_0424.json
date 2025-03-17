@@ -1,0 +1,18 @@
+{
+  "content": "for virtual machines to quiesce and log off. In this example, 560 seconds is the sum of the two shutdown values that were set in the SYSTEM CONFIG file during 6.5.1, \u201cModifying features and optimizing parameter settings\u201d on page 144. If more than two members exist, repeat the AT NODE CMD SHUTDOWN step for those members. 5. After the other nodes successfully complete their shutdowns, they turn red in the HMC with a status of NOT RUNNING. When all other nodes are down, issue the SHUTDOWN REIPL command to node 1: ===> shutdown reipl ... All members of the SSI cluster are now down, and member 1 is coming back up. z/VM typically will IPL extremely fast, usually in less than a minute. 6. When z/VM comes back up, you see messages while the system IPLs, and finally the z/VM logon panel. 7. Try to start a 3270 emulator session to member 1 by using the DNS host name or assigned IP address. You see the z/VM logon panel. If not, you must debug the problem from the Integrated 3270 Console session.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.861034",
+    "chunk_number": 424,
+    "word_count": 182
+  }
+}

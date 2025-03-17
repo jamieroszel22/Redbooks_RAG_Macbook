@@ -1,0 +1,18 @@
+{
+  "content": "fixes after the RSU). Alternatively, you can click the refresh button on your browser. After a brief period, the Status changes to a link named Download, as shown in Figure 8-3. Click Download. Figure 8-3 Downloading service directly from your browser 8.3.2 Downloading the service files In this example, the service files are staged on a desktop machine, then copied to z/VM with FTP. We assume you configured the LOGONBY facility as recommended for increased security and accountability; therefore, you log in as ADM123 by using its own password. MAINT720 features a special disk that is used for storing service packages, the 500 disk. This disk have 1200 cylinders by default, and should have enough space to store both the compressed and decompressed service files. Complete the following steps: 1. Download the files to your desktop or another staging system. This example has two files. The SHIPTFSS file is for the PSP bucket, and the SHIPRSU1 file is for the RSU. 2. Use FTP to send the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.478522",
+    "chunk_number": 578,
+    "word_count": 167
+  }
+}

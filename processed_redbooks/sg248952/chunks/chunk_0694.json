@@ -1,0 +1,18 @@
+{
+  "content": "authentication only. \u0002 Select DS8000 storage \u0002 Supporting infrastructure - IBM Security Guardium Key Lifecycle Manager \u0002 CPACF enablement (FC 3863) See the following announcement letter: https://www.ibm.com/downloads/cas/US-ENUS120-013-CA/name/US-ENUS120-013-CA.PDF FICON Express16S+ FICON Express16S+ (carry forward to IBM z16 A02 and IBM z16 AGZ) supports a link data rate of 16 Gbps and auto negotiation to 4 or 8 Gbps for synergy with switches, directors, and storage devices. With support for native FICON, High-Performance FICON for Z (zHPF), and Fibre Channel Protocol (FCP), the IBM Z systems enable you to position your SAN for even higher performance, which helps you to prepare for an end-to-end 16 Gbps infrastructure to meet the lower latency and increased bandwidth demands of your applications. The new FICON Express16S+ channel works with your fiber optic cabling environment (single mode and multimode optical cables). The FICON Express16S+ feature running at end-to-end 16 Gbps",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.956043",
+    "chunk_number": 694,
+    "word_count": 144
+  }
+}

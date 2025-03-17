@@ -1,0 +1,18 @@
+{
+  "content": "'DROPBUF' /* parse field 4 from the stacked wakeup times file line */ parse upper value var1 with asterisk reqno field1 field2 , field3 command if command='MSG01' then Do 'CP MSG OPERATOR THE TIME IS NOW:' time() 'ON' date() 'CP SLEEP 3 MIN' /* sleep through midnight */ END else if command><'' then Do if subword(command,1,1)='CMS' then command=subword(command,2) /* strip off cms part */ address CMS command /* execute command */ end /* end of if command><'' */ end else Do 'DROPBUF' leave end /* end of else Do */ end /* end of Do forever loop */ exit Chapter 6. Configuring z/VM 215 7. Create the PROFILE EXEC for CRONSVM by using the information that is shown in Figure 6-10. Figure 6-10 CRONSVM PROFILE EXEC contents Maintaining the spool automatically with SFPURGER The SFPURGER utility manages spool space and spool files. SFPURGER will be set up to run unattended on the VMLOGS virtual machine. SFPURGER performs spool file maintenance by using instructions that you provide ahead of time,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.104022",
+    "chunk_number": 488,
+    "word_count": 169
+  }
+}

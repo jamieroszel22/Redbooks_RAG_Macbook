@@ -1,0 +1,18 @@
+{
+  "content": "mainframe storage workloads across hybrid multi-cloud deployments. The DS8900F, as is the case with previous iterations in the IBM DS8000\u00ae family of storage subsystems, provides emulated IBM machine type 3390 disk drives of varying model types. Common models are 09 (3390-09), 27 (3390-27), and 54 (3390-54). Because of their extremely small size, model 03 (3390-03) DASD do not have the popularity they once did. The 3390-03 DASDs are also no longer supported for use in the installation of z/VM. As such, the other models of 3390 DASDs that are still commonly used and supported with current installations are covered in much more detail throughout this book. \u0002 Channel-to-channel Adapter (CTCA) Inter-System Facility for Communications (ISFC) for inter-cluster communication for LGR. ISFC uses channel-to-channel (CTC) devices. \u0002 Input/Output Configuration Data Set (IOCDS) An I/O configuration data set (IOCDS) contains information that is used to define the I/O configuration to the processor",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.494050",
+    "chunk_number": 96,
+    "word_count": 150
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "operate at 16 GBps (non full duplex). The PCIe Switch in the PCIe I/O Drawer can negotiate QDR, DDR and SDR, depending of the PCIe I/O Card. Nominal data rates in full duplex mode are: 64 GBps for PCIe Gen-4, 32 GBps for PCIe Gen-3, 16 GBps for PCIe Gen-2 and 8 GBps for PCIe Gen-1. As shown in Figure 2-16 on page 42, each PCIe+ I/O drawer has 16 slots to support the PCIe I/O infrastructure with a bandwidth of 16 GBps and includes the following features: \u0002 A total of 16 I/O cards are spread over two I/O domains (0 and 1): \u2013 Each I/O slot reserves four PCHID numbers. \u2013 Left side slots are numbered LG01-LG10 and right side slots are numbered LG11-LG20 from the rear of the rack. A location and LED identifier panel is at the center of the drawer. 42 IBM z16 A02 and IBM z16 AGZ Technical Guide \u2013 With IBM z16 A02 and IBM z16 AGZ, the numbering of the PCHIDs starts with the first configured location I/O1 and starts with PCHID 100 and continues the incremental sequence to the next configured",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.754175",
+    "chunk_number": 148,
+    "word_count": 190
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "following techniques to improve the prediction of the correct branch to be run: \u0002 BTB \u0002 PHT \u0002 CTB 98 IBM z16 A02 and IBM z16 AGZ Technical Guide The success rate of branch prediction contributes significantly to the superscalar aspects of IBM z16 A02 and IBM z16 AGZ processor. This success is because the architecture rules prescribe that the correctly predicted result of the branch is essential for successful parallel execution of an instruction stream. IBM z16 A02 and IBM z16 AGZ integrate a new branch prediction design that uses SRAM and supports the following enhancements over IBM z15: \u0002 BTB1: 8 K - 12 K \u0002 BTB2: up to 260 K \u0002 TAGE PHT: 4 k x 2 \u0002 TAGE CTB: 1 k x 2 3.4.11 Wild branch When a bad pointer is used or when code overlays a data area that contains a pointer to code, a random branch is the result. This process causes a 0C1 or 0C4 abend. Random branches are difficult to diagnose because clues about how the system got to that point are not evident. With the wild branch",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.182600",
+    "chunk_number": 255,
+    "word_count": 186
+  }
+}

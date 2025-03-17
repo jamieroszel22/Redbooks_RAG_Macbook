@@ -1,0 +1,18 @@
+{
+  "content": "hardware facility, the last address from which a successful branch instruction was run is kept. z/OS uses this information with debugging aids, such as the SLIP command, to determine from where a wild branch came. It also can collect data from that storage location. This approach decreases the number of debugging steps that are necessary when you want to know from where the branch came. 3.4.12 Translation lookaside buffer The TLB in the instruction and data L1 caches use a secondary TLB to enhance performance. The size of the TLB is kept as small as possible because of its short access time requirements and hardware space limitations. Because memory sizes recently increased significantly as a result of the introduction of 64-bit addressing, a smaller working set is represented by the TLB. To increase the working set representation in the TLB without enlarging the TLB, large (1 MB) page and giant page (2 GB) support is available and can be used when suitable. For more information, see",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.184907",
+    "chunk_number": 256,
+    "word_count": 166
+  }
+}

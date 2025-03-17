@@ -1,0 +1,18 @@
+{
+  "content": "I/O device. Because it is an arbitrary number, it can easily be fit into any configuration management and operating management scenarios. For example, a system administrator can set all of the z/OS systems in an environment to device number 1000 for their system RES volumes. Note: Do not confuse the multiple subchannel sets function with multiple channel subsystems. 192 IBM z16 A02 and IBM z16 AGZ Technical Guide With multiple subchannel sets, a subchannel is assigned to a specific I/O device by the channel subsystem with an automatically assigned subchannel number and a device number that is defined by user. An I/O device can always be identified by an SSID with a subchannel number or a device number. For example, a device with device number AB00 of subchannel set 1 can be designated as 1AB00. Normally, the subchannel number is used by the programs to communicate with the channel subsystem and I/O device, whereas the device number is used by a system programmer, operator, and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.095769",
+    "chunk_number": 482,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "-3931.Exploitation IBM.Device.Server.IBM z16 A02 and IBM z16 AGZ A02-3932.Exploitation Recommended service is identified by: IBM.Device.Server.IBM z16 A02 and IBM z16 AGZ -3931.Exploitation IBM.Device.Server.IBM z16 A02 and IBM z16 AGZ A02-3932.Exploitation General z/OS support documentation provided in the PSP Bucket: \u2013 For IBM z16 A02 and IBM z16 AGZ: PSP Bucket: Upgrade = 3932DEVICE, Subset = 3932/ZOS Consider the following other Fix Categories of Interest: \u0002 Fixes that are required to use the Server Time Protocol function: IBM.Function.ServerTimeProtocol \u0002 Fixes that are required to use the High-Performance FICON function: IBM.Function.zHighPerformanceFICON \u0002 Fixes that are required for IBM Z System Recovery Boost: IBM.Function.SystemRecoveryBoost \u0002 PTFs that allow previous levels of ICSF to coexist with the latest Cryptographic Support for z/OS V2R2 - z/OS V2R4 (HCR77D1) web deliverable: IBM.Coexistence.ICSF.z/OS_V2R2-V2R4-HCR77D1 Use the SMP/E REPORT MISSINGFIX command to",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.246170",
+    "chunk_number": 774,
+    "word_count": 133
+  }
+}

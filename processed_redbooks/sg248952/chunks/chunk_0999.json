@@ -1,0 +1,18 @@
+{
+  "content": "with a double colon. The address in the previous example also can be written in the following manner: 2001:db8::202:b3ff:fe1e:8329 If an IPv6 address is assigned to the HMC for remote operations that use a web browser, browse to it by specifying that address. The address must be surrounded with square brackets in the browser\u2019s address field, as shown in the following example: https://[fdab:1b89:fc07:1:201:6cff:fe72:ba7c] The use of link-local addresses must be supported by your browser. An STP/ETS Network can have the following IP addresses: \u0002 Statically assigned IPv4 or statically assigned IPv6 \u0002 Auto-configured IPv6 as link-local or router-advertised 4 For the customer-supplied switch, multicast must be enabled at the switch level. 418 IBM z16 A02 and IBM z16 AGZ Technical Guide The configuration for the STP/ETS Networks is done on the SE in task Customize Network Settings as you can see in Figure 10-22. Figure 10-22 STP/ETS Networks setting on the Support Element 10.3.7 HMC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.989036",
+    "chunk_number": 999,
+    "word_count": 155
+  }
+}

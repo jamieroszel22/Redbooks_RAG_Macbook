@@ -1,0 +1,18 @@
+{
+  "content": "Peer-To-Peer Remote Copy (MT-PPRC) z/VM support for the GDPS environment, allowing a device to be the primary to up to three secondary devices, each defined in a separate alternate subchannel set (supporting up to 3 alternate subchannel sets). Also provides the CP updates necessary for VM/HCD support of alternate subchannel sets. \u0002 New Architecture Level Set of IBM z13, IBM z13s (LinuxONE Emperor / Rockhopper), or newer processor families \u0002 z/VM 7.2 includes New Function APARs shipped for z/VM 7.1, such as: VSwitch Priority Queuing, EAV Paging, 80 Logical Processors, Dynamic Crypto, System Recovery Boost support (subcapacity CPs speed boost only), and so on. 7.6.3 Capacity For the capacity of any z/VM logical partition (LPAR) and any z/VM guest, in terms of the number of Integrated Facility for Linux (IFL) processors and central processors (CPs), real or virtual, you might want to adjust the number to accommodate the PU capacity of IBM z16 A02 and IBM z16 AGZ configurations. 7.7 21CS",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.280413",
+    "chunk_number": 786,
+    "word_count": 161
+  }
+}

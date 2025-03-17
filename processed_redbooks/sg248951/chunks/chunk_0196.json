@@ -1,0 +1,18 @@
+{
+  "content": "logical partitions (LPARs) within the system. \u2013 Efficient data transfer that uses direct memory access (SMC-D), Remote Direct Memory Access (SMC-R), and reduced storage access latency for transactional environments. \u2013 The IBM Z Processor Resource/System Manager (PR/SM) is designed for Common Criteria Evaluation Assurance Level 5+ (EAL 5+) certification for security; therefore, an application that is running on one partition (LPAR) cannot access another application on a different partition, which provides essentially the same security as an air-gapped system. \u2013 The Secure Execution feature, which securely separates second-level guest operating systems that are running under KVM for Z from each other and securely separates access to second-level guests from the hypervisor. This configuration allows for a logical and virtual server coexistence and maximizes system utilization and efficiency by sharing hardware resources. \u0002 Offer high-performance computing to achieve the outstanding",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.962852",
+    "chunk_number": 196,
+    "word_count": 139
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "protection. Characteristics are similar to previous IBM Z, but BPA was redesigned to fit into the 19-inch frame. No PDUs are installed in this configuration; instead, 1 or 2 pairs of BPAs are installed that house the bulk power distribution to all the components, and the Bulk Power Regulators (BPR). With BPA-based configurations, 3-phase balanced power feature is supported. BPA-based systems support radiator-cooled systems. The BPAs support 2- or 4-line cords with a single universal type of 3-phase 200 - 480 V AC. Note: Customer power sources should always maintain redundancy across PDU pairs; that is, one power source or distribution panel supplies power for PDU A1 and the separate power source or distribution panel supplies power for PDU A2. As a best practice, connect the odd-numbered PDUs (A1, B1, C1, and D1) to one power source or distribution panel, and the even-numbered PDUs (A2, B2, C2, and D2) to a separate power source or distribution panel. Frame Count I/O drawers CPC",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.895966",
+    "chunk_number": 180,
+    "word_count": 162
+  }
+}

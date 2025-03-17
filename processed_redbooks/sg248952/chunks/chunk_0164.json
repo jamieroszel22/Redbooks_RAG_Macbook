@@ -1,0 +1,18 @@
+{
+  "content": "30 4960 512 25 25 4960 512 3147 4960 30 4960 0 25 25 4960 0 3148 5472 31 5984 512 26 26 5984 512 3149 5984 31 5984 0 26 26 5984 0 3150 6496 32 7008 512 27 27 7008 512 3151 7008 32 7008 0 27 27 7008 0 3152 7520 33 8032 512 28 28 8032 512 3153 8032 33 8032 0 28 28 8032 0 3154 8544 29 29 9056 512 3155 9056 29 29 9056 0 3156 9568 30 30 10080 512 3157 10080 30 30 10080 0 3158 10592 31 30 11104 512 3159 11104 31 30 11104 0 3160 11616 31 31 12128 512 3161 12128 31 31 12128 0 3162 12640 32 31 13152 512 3163 13152 32 31 13152 0 3164 13664 32 32 14176 512 3165 14176 32 32 14176 0 3166 14688 33 32 15200 512 3167 15200 33 32 15200 0 3168 15712 33 33 16224 512 3169 16224 33 33 16224 0 FC Increments Customer Memory Increments Max5 (CPC0) Max16 (CPC0) Max32 (CPC0) Max68 (CPC0 + CPC1) Cfg. # Dial Max Extra Mem Cfg. # Dial Max Extra Mem Cfg. # Dial Max Extra Mem CPC0 Cfg. # CPC1 Cfg. # Dial Max Extra Mem 52 IBM z16 A02 and IBM z16 AGZ Technical Guide 2.5.6 Drawer replacement and memory With Enhanced",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.831686",
+    "chunk_number": 164,
+    "word_count": 226
+  }
+}

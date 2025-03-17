@@ -1,0 +1,18 @@
+{
+  "content": "/dev/homevg/homelv ... The file system that was created from the logical volume is now ready to be mounted. 13.2.2 Updating the file system table You can mount the file system manually. However, if you add the mount to the file system table file, /etc/fstab, you can effectively test the change by using the mount command with only one argument. Perform the following steps: 1. Make a backup copy of the file and add the following line to it: # cd /etc # cp fstab fstab.works 2. Add one line to the fstab file: # vi fstab ... // For RHEL 6.4: /dev/homevg/homelv /home ext4 defaults 0 0 ... // For SLES: /dev/homevg/homelv /home xfs defaults 0 0 ... 408 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 3. Before you mount over /home/, you might want to check that it is empty. If a non-root user exists and a new file system is mounted over it, the contents of the directory will be hidden. In this example, no data is in the file system: # ls -a /home . .. 4. Mount the /home/ file system with one",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.569222",
+    "chunk_number": 874,
+    "word_count": 187
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "RSS Feeds: http://www.redbooks.ibm.com/rss.html \u00a9 Copyright IBM Corp. 2022. All rights reserved. 1 Chapter 1. Introducing the IBM z16 The IBM Z platform is recognized for its long-standing commitment to delivering best-in-industry security, resiliency, performance, and scalability. IBM Z is relied on for mission-critical workloads and as an essential element of hybrid cloud infrastructures. The new member of the IBM Z family, IBM z16, continues that commitment and adds value with innovative technologies that can help accelerate the digital transformation journey. The IBM z16 is the first IBM Z system that is built with the IBM Telum processor1. It is designed to help businesses meet the following goals: \u0002 Create value in every interaction and to optimize decision making, with the on-chip Artificial Intelligence (AI) accelerator. The Accelerator for AI can deliver the speed and scale that is required to infuse AI inferencing into workloads with no impact on service delivery. \u0002 Act now",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.385775",
+    "chunk_number": 66,
+    "word_count": 153
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "CPCs features. Cryptographic adapters Crypto Express8S features can be added concurrently if all the required infrastructure is in the configuration. 374 IBM z16 (3931) Technical Guide Special features Special features, such as zHyperlink, Coupling Express2 LR, and RoCE features can be added concurrently if all infrastructure is available in the configuration. 8.12.2 Concurrent upgrade considerations By using an MES upgrade, On/Off CoD, CBU, or CPE, an IBM Z server can be upgraded concurrently from one model to another (temporarily or permanently). Enabling and using the extra processor capacity is not apparent to most applications. However, specific programs depend on processor model-related information, such as ISV products. Consider the effect on the software that is running on an IBM z16 when you perform any of these configuration upgrades. Processor identification The following instructions are used to obtain processor information: \u0002 Store System Information (STSI) instruction",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.630837",
+    "chunk_number": 894,
+    "word_count": 144
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "classification of the system or the model, and the role that an organization plays with respect to that system or model (such as provider, deployer, others). The Act defines penalties for: \u0002 Bringing prohibited AI systems onto the market. \u0002 Not meeting the obligations for high-risk use cases and/or general purpose AI models. \u0002 Providing incorrect, incomplete or misleading information to notified bodies or national competent authorities in reply to a request. For large enterprises, the fines can be as high as 35 million euro or 7% of its total worldwide annual turnover for the preceding financial year, whichever is higher. While the Act is in force since August 2024, subsets of obligations will apply from different dates: Chapter 1. Challenges and opportunities in AI governance 13 \u0002 February 2025: prohibited AI systems, AI literacy requirements \u0002 August 2025: obligations for providers of general purpose AI models \u0002 August 2026: obligations for high-risk AI systems \u0002 August 2027:",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.689723",
+    "chunk_number": 64,
+    "word_count": 158
+  }
+}

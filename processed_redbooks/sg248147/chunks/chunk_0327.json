@@ -1,0 +1,18 @@
+{
+  "content": "XEDIT PROFILE\u201d on page 139 \u0002 6.3, \u201cz/VM parm disks\u201d on page 143 \u0002 6.4, \u201cSystem Configuration file\u201d on page 143 \u0002 6.5, \u201cEditing the z/VM SYSTEM CONFIG file\u201d on page 143 \u0002 6.6, \u201cEnabling and configuring DirMaint\u201d on page 155 \u0002 6.7, \u201cEnabling and configuring RACF\u201d on page 155 \u0002 6.8, \u201cImplementing more network features\u201d on page 180 \u0002 6.9, \u201cShutting down and IPLing the SSI cluster again\u201d on page 183 \u0002 6.10, \u201cValidating and testing your changes\u201d on page 185 \u0002 6.11, \u201cAdding page volumes and perm (user) volumes\u201d on page 186 \u0002 6.12, \u201cEnabling z/VM basic system automation\u201d on page 196 \u0002 6.13, \u201cz/VM User Directory\u201d on page 201 \u0002 6.14, \u201cz/VM security and hardening\u201d on page 217 \u0002 6.15, \u201cBacking up and restoring your z/VM system\u201d on page 235 \u0002 6.16, \u201cCreating an SFS file pool for Linux virtual machines\u201d on page 237 \u0002 6.17, \u201cCreating identity LNXADMIN for Linux administration\u201d on page 246 \u0002 6.18, \u201cMonitoring SFS file pool usage\u201d on page 248 Chapter 6. Configuring z/VM 139 6.1 Configuring z/VM Pay",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.486455",
+    "chunk_number": 327,
+    "word_count": 177
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Explanations or LIME can tell which features of a structured record, words and phrases from a text paragraph, and which areas of the image are responsible for the model outcome. SHAP (SHapley Additive exPlanations) is rooted in game theory as it uses the classic Shapley values, to determine how much of each of the features has contributed to the model prediction. IBM Research built contrastive explanations that look at the neighborhood of a given data point, to determine how much of a delta change is required in the input features to flip the model outcome or to maintain the same outcome. A highly important feature in this case is a feature to which the model is least sensitive as they require a large change in the value for model to flip the outcome. 6.2.3 Model health To understand the model health and performance of a given model deployment (for both predictive AI and generative AI AI-based models), it is imperative to know the how the said deployment is being used. To aid with",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.090573",
+    "chunk_number": 172,
+    "word_count": 173
+  }
+}

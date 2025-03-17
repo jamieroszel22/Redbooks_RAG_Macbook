@@ -1,0 +1,18 @@
+{
+  "content": "instructions, and to display and set vector registers. \u0002 XML SS exploitation to use new vector processing instructions to improve performance. MASS and ATLAS can reduce the time and effort for middleware and application developers. IBM provides compiler built-in functions for SIMD that software applications can use as needed, such as for using string instructions. The use of new hardware instructions require the z/OS V2R5 XL C/C++ compiler with ARCH(14) and TUNE(14) options for targeting IBM z16 A02 and IBM z16 AGZ instructions. The ARCH(14) compiler option allows the compiler to use any new IBM z16 A02 and IBM z16 AGZ instructions where appropriate. The TUNE(14) compiler option allows the compiler to tune for any IBM z16 A02 and IBM z16 AGZ micro-architecture. Vector programming support is extended for IBM z16 A02 and IBM z16 AGZ to provide access to the new instructions that were introduced by the VEF 26 specification. Older levels of z/OS XL C/C++ compilers do not provide IBM z16",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.834958",
+    "chunk_number": 661,
+    "word_count": 163
+  }
+}

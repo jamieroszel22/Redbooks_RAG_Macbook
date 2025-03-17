@@ -1,0 +1,18 @@
+{
+  "content": "deployments Beyond the ownership of the foundation models themselves, several critical intellectual property considerations arise when deploying generative AI. These concerns extend to the software used to package and deploy these models, as well as the input data provided and the output generated. Therefore, thorough discussions with legal counsel and the model/software provider are essential. Key questions to address include: \u0002 Training Data Ownership and Licensing: Does the model provider possess clear legal rights (including ownership or valid licenses) to use all data incorporated into the model's training dataset? This is crucial for avoiding potential copyright infringement claims. \u0002 Copyrighted Material Exclusion: What specific measures has the model provider implemented to identify and exclude copyrighted material from its training data? Understanding their methodology is vital for assessing the risk of IP issues. \u0002 Customer Data Usage for Model Training: Does the model",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.956087",
+    "chunk_number": 135,
+    "word_count": 142
+  }
+}

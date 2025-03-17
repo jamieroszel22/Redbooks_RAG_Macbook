@@ -1,0 +1,18 @@
+{
+  "content": "DIMM slots \u2013 Two, four or six memory controllers per drawer are populated (up to 48 DIMMs) \u2013 Different memory controllers can have different size DIMMs \u0002 Up to 12 PCIe+ Gen3 fanout slots that can host: \u2013 2-Port PCIe+ Gen3 I/O fanout for PCIe+ I/O drawers (ordered and used in pairs for availability) \u2013 ICA SR and ICA SR1.1 PCIe fanout for coupling (two ports per feature) \u0002 Management components: Two dual function Baseboard Management Controllers (BMC) and Oscillator Cards (OSC) for system control and to provide system clock (N+1 redundancy) \u0002 CPC drawer power infrastructure consists of the following components: \u2013 Four 2kW Power Supply Units (PSUs) that provide power to the CPC drawer. The loss of one power supply leaves enough power to satisfy the drawer\u2019s power requirements (N+1 redundancy). The power supplies can be concurrently removed and replaced (one at a time). \u2013 5x 12v distribution point-of-load (POL) that plug in slots that divide the memory banks, N+2 \u2013 3x Voltage Regulator",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.677765",
+    "chunk_number": 131,
+    "word_count": 166
+  }
+}

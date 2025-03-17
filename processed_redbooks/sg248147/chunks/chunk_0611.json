@@ -1,0 +1,18 @@
+{
+  "content": "minidisks 312 and 313, by using the same parameters as the existing file pool disks (link mode WR, read/write passwords specified). 5. By using the FILEPOOL MINIDISK VMSERVP command, we added the disks individually to the running file pool. The output of this command for the first disk is shown in Example 9-1. Example 9-1 FILEPOOL MINIDISK command processing filepool minidisk vmservp DMSWFP3485I FILEPOOL processing begun at 11:14:29 on 10 Oct 2020. DMSJMD3425R Enter MDK number (nnnnn), virtual device address (vvvv), DMSJMD3425R and storage group number (ggggg) for a minidisk to be added. DMSJMD3425R Use format nnnnn vvvv ggggg 00009 0312 2 DMSJMD3426I The following minidisk(s) will be formatted and reserved DMSJMD3426I for VMSERVP on RDBKZVMF DMSJMD3426I MDK00009 0312 00002 DMSJMD3427R FORMAT will erase all files on the above minidisk(s). DMSJMD3427R Do you wish to continue? Enter 1 (Yes) or 0 (No) Note: Because the VMSERVP server accesses the disk in read/write mode, it is not",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.604553",
+    "chunk_number": 611,
+    "word_count": 156
+  }
+}

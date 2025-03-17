@@ -1,0 +1,18 @@
+{
+  "content": "of their choice to develop the model, with training data and metrics from popular open-source frameworks automatically captured and saved to the model entry. Custom information can also be saved. Next, the pre-production model is evaluated for accuracy, drift, and bias, with performance metadata captured and synced. The model is then reviewed and approved for production, and deployed in the preferred platform, with relevant metadata captured and synced. Finally, the production model is continuously monitored, with performance data captured and synced, Chapter 3. Implementing AI governance strategy 29 and a dashboard provides a comprehensive view of the performance metrics for all models, allowing stakeholders to proactively identify and react to any issues. This chapter will delve into the end-to-end AI lifecycle governance process, highlighting the key personas, and components of each level and how they interconnect to ensure that AI systems are developed and deployed in a manner",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.814063",
+    "chunk_number": 96,
+    "word_count": 148
+  }
+}

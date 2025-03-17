@@ -1,0 +1,18 @@
+{
+  "content": "processor complex hardware components 29 Table 2-4 Components for IBM z16 A02 and IBM z16 AGZ features 2.2 CPC drawer The IBM z16 A02 and IBM z16 AGZ, have some changes to the design of IBM z16 A01 primarily with the processor modules and memory packaging in the drawers. Their CPC drawer includes the following features: \u0002 2 or 4 Dual chip modules (DCMs) \u0002 Up to 48 Memory DIMMs (16, 32, 40, and 48 DIMMs configurations) \u0002 Max 12 PCIe fanout cards to support PCIe+ Gen3 fanout cards for PCIe+ I/O drawers or coupling fanouts for coupling links to other CPCs \u0002 Symmetric multiprocessor (SMP-9) connectivity (cables) when the 2nd CPC drawer exists. The IBM z16 A02 and IBM z16 AGZ include one or two CPC drawers. A CPC drawer and its components are shown in Figure 2-5. Figure 2-5 CPC drawer components (top view) The first 5U CPC drawer contains two or four Processor Unit (PU) DCMs, and up to 48 DIMMs available in capacities of 32GB, 64GB, 128GB, or 256GB per DIMM. The second CPC drawer always",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.669940",
+    "chunk_number": 129,
+    "word_count": 180
+  }
+}

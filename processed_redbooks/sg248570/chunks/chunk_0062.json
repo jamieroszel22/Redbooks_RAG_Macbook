@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.data 2.1 Introduction to the watsonx platform and its core components The effectiveness of AI relies on high-quality data, which is essential for informed decision-making. Governance plays a critical role in ensuring data integrity and compliance with regulations. These components must operate in tandem. AI depends on data as its life source. The data must be of the right quality and should be accessed securely by authorized personnel only. AI enables data analysis and management, and governance needs AI to continuously learn about potential threats and human behaviors, and to comply with regulatory standards and legislation. Without AI, data governance, or quality control, an organization's effectiveness may suffer. IBM watsonx was designed to bridge the gap between advanced AI capabilities and trusted data. This AI and data platform is designed to enable enterprises to scale and accelerate the impact of the most advanced AI with their trusted data. Organizations turning to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.580078",
+    "chunk_number": 62,
+    "word_count": 151
+  }
+}

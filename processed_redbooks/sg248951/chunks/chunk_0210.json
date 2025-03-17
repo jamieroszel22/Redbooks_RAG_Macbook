@@ -1,0 +1,18 @@
+{
+  "content": "performance and capacity growth. \u0002 New cache structure design, including a larger cache Level 2 (SRAM) and virtual Level 3 and Level 4 cache to reduce latency. \u0002 On-chip IBM Integrated Accelerator for zEnterprise Data Compression (Nest compression accelerator, or NXU. For more information, see Figure 2-14 on page 31.) \u0002 Enhancement of nest-core staging. \u0002 On-chip IBM Integrated Accelerator for AI. For more information, see Chapter 2, \u201cCentral processor complex hardware components\u201d on page 15, and Appendix B, \u201cIBM Z Integrated Accelerator for AI\u201d on page 503. Because of these enhancements, the IBM z16 processor full speed z/OS single-thread performance is on average 1.11 times faster than the IBM z15 at equal N-way. For more information about performance, see Chapter 12, \u201cPerformance and capacity planning\u201d on page 473. z13 servers introduced architectural extensions with instructions that reduce processor quiesce effects, cache misses, and pipeline disruption, and increase parallelism",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.018232",
+    "chunk_number": 210,
+    "word_count": 149
+  }
+}

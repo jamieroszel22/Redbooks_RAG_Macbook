@@ -1,0 +1,18 @@
+{
+  "content": "memory, it is protected by RAIM and ECC. VFM provides physical memory DIMMs that are needed to support activation of all customer purchased memory and HSA on a multiple drawer IBM z16 A01 with one drawer that is done for the following features: \u0002 Scheduled concurrent drawer upgrade, such as memory adds \u0002 Scheduled concurrent drawer maintenance, such N+1 repair \u0002 Concurrent repair of an out-of-service CPC drawer \u201cfenced\u201d during Activation (POR) Note: All of these features can be done without VFM. However, all customer-purchased memory is not available for use in most cases. Some work might need to be shut down or not restarted. Chapter 3. Central processor complex design 141 3.10.3 VFM administration The allocation and definition information of VFM for all partitions is viewed through the Storage Information panel that is under the Operational Customization panel. The information is relocated during CDR in a manner that is identical to the process that was used for expanded storage.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.632942",
+    "chunk_number": 359,
+    "word_count": 160
+  }
+}

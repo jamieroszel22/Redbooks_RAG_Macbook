@@ -1,0 +1,18 @@
+{
+  "content": "algorithms and do not provide sufficient protection against today\u2019s cyberattacks. This risk can be mitigated by switching to stronger algorithms, such as AES-256, SHA-256, SHA-3, and CRYSTALS-Dilithium. IBM provides several tools that can aid in the discovery process: \u0002 IBM z/OS Integrated Cryptographic Service Facility (ICSF) \u0002 IBM Application Discovery and Delivery Intelligence (ADDI) \u0002 IBM Crypto Analytics Tool (CAT) \u0002 IBM z/OS Encryption Readiness Technology (zERT These tools can help you identify certificates, encryption protocols, algorithms, and key lengths that are at risk in your IBM Z environment. 202 IBM z16 A02 and IBM z16 AGZ Technical Guide The Crypto Express8S hardware is designed to meet the Federal Information Processing Standards (FIPS) 140 Level 4 for cryptographic modules and includes Quantum-safe encryption technologies. It also meets several other security ratings, such as the Common Criteria for Information Technology Security Evaluation, the PCI HSM criteria,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.150477",
+    "chunk_number": 497,
+    "word_count": 145
+  }
+}

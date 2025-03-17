@@ -1,0 +1,18 @@
+{
+  "content": "Boost must be enabled for LPARs to opt in. b. Subcapacity Boost is also available for stand-alone dump on z/OS and 21CS VSEn. c. With Fixes. d. Subcapacity boost might be available during the boost period to guest operating systems except for z/OS. e. Allows CP work to be dispatched on zIIPs. zIIP processor capacity boost is only available if customer has at least one active processor characterized as zIIP. For IBM z16 A02 and IBM z16 AGZ, IBM z16 A01 and IBM z15 T01 only, more zIIPs can be used if obtained through eBOD (temporary zIIP boost records). f. Process recovery boosts support subcapacity CPs speed boost and entitled (purchased) customer zIIPs only - zIIPs provided by FC 9930 and FC 6802 cannot be used for process recovery boosts. Boost typea z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3 z/VM V7R2 z/TPF V1R1 VSEn V6R3 Linux on IBM Z 4 SMT is also enabled (not user configurable) by default for SAPs. Note: For zIIPs and IFLs, SMT must be enabled on z/OS, z/VM, or Linux on IBM Z",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.804347",
+    "chunk_number": 653,
+    "word_count": 179
+  }
+}

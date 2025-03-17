@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.ai runtime or a 3rd party serving platform. With the asset ready, the steps are as follows: \u0002 Track the solution in an AI use case to place in the development stage. \u0002 Perform an evaluation to move the asset to the validation stage. \u0002 Promote the asset to a production space to move the asset into the operation stage. The above three steps are repeated in some variation based on platform and use case specifics. As a reminder, everything accomplished in this chapter will be reflected across the Governance Console for administrative and business users to be automatically updated of progress. 6.4.1 UI-driven implementation of lifecycle governance After installation and administration, watsonx.ai seamlessly integrates with watsonx.governance. Once an AI use case is established, users can run through a typical watsonx.ai workflow to begin experimenting with prompts in the prompt lab, or in a jupyter notebook environment. For instructions on how to perform this experimentation, refer",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.127010",
+    "chunk_number": 182,
+    "word_count": 156
+  }
+}

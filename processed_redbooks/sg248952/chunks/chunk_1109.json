@@ -1,0 +1,18 @@
+{
+  "content": "is updated to include time spent compressing and decompressing zEDC to IBM z16 A02 and IBM z16 AGZ zlib Program Flow for z/OS The z/OS provided zlib library is statically linked into many IBM and ISV products and remains functional. However, to get the best optimization for IBM z16 A02 and IBM z16 AGZ, some minor changes are made to zlib. The current zlib and the new zlib function is available for IBM z14 and earlier servers and IBM z16 A02 and IBM z16 AGZ hardware. It functions with or without the IBM z16 A02 and IBM z16 AGZ z/OS PTFs on IBM z14 and earlier servers. Software support Support of the On-Chip Compression function is compatible with zEDC support and is available in z/OS V2R2 and later for data compression and decompression. Support for data recovery (decompression) in the case that zEDC or On-Chip Compression not available; however, it is provided through software in z/OS V2R2 with the appropriate program temporary fixes (PTFs). Appendix C. IBM Integrated Accelerator for",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.321697",
+    "chunk_number": 1109,
+    "word_count": 170
+  }
+}

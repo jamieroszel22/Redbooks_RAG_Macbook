@@ -1,0 +1,18 @@
+{
+  "content": "was eight lines up at line 80, as shown in Example 6-28: ====> /Example DTCPARMS Pool ====> up 8 Example 6-28 Example DTCPARMS Pool SSL \u2018Server\u2019 Entry in SSLPOOL DTCTEMP 00078 * file (such as ENDVM363 DTCPARMS), or in a SYSTEM DTCPARMS file 00079 * ------------------------------------------------------------------- dd 80 00081 * ================================================================ 00082 * Secure Socket Layer (SSL) - 'SSL' POOL server definition 00083 * > The included :stack. tag identifies the TCP/IP server with which 00084 * this server pool is associated. 00085 * > The included :vmlink. tag identifies the (common) SFS directory 00086 * that is to be accessed at file mode A by each pool server 00087 * -------------------------------------------------------------- 00088 :nick.SSL* :type.server :class.ssl e. Press Enter to block-delete the lines between the two sets of dd. f. Jump to the line that contains the string PROFILE TCPIP and move up to the first blank line above",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.190063",
+    "chunk_number": 511,
+    "word_count": 149
+  }
+}

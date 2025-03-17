@@ -1,0 +1,18 @@
+{
+  "content": "exclusively for I/O and cannot be shared for any other purpose. 5 Server Time Protocol 156 IBM z16 (3931) Technical Guide 4.4.3 Fan-out considerations Fan-out slots in the CPC drawer can be used to plug different fan-outs. On IBM z16 A01, the CPC drawers can hold up to 48 PCIe fan-out cards (four-CPC drawers configuration). Adapter ID number assignment PCIe fan-outs and ports are identified by an Adapter ID (AID) that is initially dependent on their physical locations, which is unlike channels that are installed in a PCIe+ I/O drawer. Those channels are identified by a physical channel ID (PCHID) number that is related to their physical location. This AID must be used to assign a CHPID to the fan-out in the IOCDS definition. The CHPID assignment is done by associating the CHPID to an AID port (see Table 4-2. Table 4-2 Fan-out locations and their AIDs for the CPC drawer (IBM z16 A01) Fan-out slots The fan-out slots are numbered LG01 - LG12 (from left to right), as listed in Table 4-2.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.748352",
+    "chunk_number": 387,
+    "word_count": 173
+  }
+}

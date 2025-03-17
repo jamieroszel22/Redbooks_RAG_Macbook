@@ -1,0 +1,18 @@
+{
+  "content": "modify, and distribute the licensed software, including in commercial products, without paying royalties to the original authors. Llama Community License Similar to Apache 2.0 but in addition, if the monthly active users of the products or services made available by or for the licensee is greater than 700 million monthly active users in the preceding calendar month, the licensee must request a license from Meta, which Meta may grant to the licensee in its sole discretion. MIT License Similar to the Apache 2.0 license. This license is succinct and permissive for ensuring open ownership of software. Chapter 4. Onboarding a new foundation model 45 \u0002 Are there indemnification limitations (such as, no indemnification for customer-facing use)? \u0002 What is the carbon footprint of the training for this model? By answering these and other questions, a legal team may make the educated decision as to whether or not to onboard the foundation model. Intellectual property ownership in generative AI",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.951198",
+    "chunk_number": 134,
+    "word_count": 158
+  }
+}

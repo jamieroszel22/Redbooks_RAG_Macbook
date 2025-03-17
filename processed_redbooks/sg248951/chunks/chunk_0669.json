@@ -1,0 +1,18 @@
+{
+  "content": "supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254. Secure Boot Secure Boot verification ensures that the Linux distribution kernel comes from an official provider and was not compromised. If the signature of the distribution cannot be verified, the process of booting the operating system is stopped. The Secure Boot feature requires operating system support. IBM Integrated Accelerator for zEnterprise Data Compression The IBM Integrated Accelerator for zEnterprise Data Compression (zEDC) is implemented as on-chip data compression accelerator; that is, Nest Compression Accelerator (NXU) and supports Deflate/gzip/zlib algorithms. For more information, see Appendix C, \u201cIBM Integrated Accelerator for zEnterprise Data Compression\u201d on page 507. Each PU chip includes one on-chip compression unit, which is designed to replace the zEnterprise Data Compression (zEDC) Express PCIe feature that is available on IBM z14 and earlier. Chapter 7. Operating system",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.868965",
+    "chunk_number": 669,
+    "word_count": 145
+  }
+}

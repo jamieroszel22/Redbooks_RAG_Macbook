@@ -1,0 +1,18 @@
+{
+  "content": "Resource Link. At this web page, select Library, the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide. \u0002 IBM Z 3931 Installation Manual for Physical Planning, GC28-7015. 10.3.4 Hardware considerations The following hardware considerations are important for IBM z16: \u0002 IBM does not provide Ethernet cables with the system \u0002 IBM does not provide Ethernet switches with the system for HMC and SE communication Ethernet switches Ethernet switches for HMC and SE connectivity are provided by the customer. Existing supported switches can still be used. Ethernet switches and hubs often include the following characteristics: \u0002 A total of 16 auto-negotiation ports \u0002 100/1000 Mbps data rate \u0002 Full or half duplex operation \u0002 Auto medium-dependent interface crossover (MDIX) on all ports \u0002 Port status LEDs \u0002 Copper RJ45 connections 10.3.5 TCP/IP Version 6 on the HMC and SE The HMC and SE can communicate by using IPv4, IPv6, or both.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.947551",
+    "chunk_number": 991,
+    "word_count": 157
+  }
+}

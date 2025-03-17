@@ -1,0 +1,18 @@
+{
+  "content": "the class of user. Use this command carefully and monitor usage because eligible lists can occur if not used properly. The System Resource Manager (srm) parameters that are contained in this display includes the following information: \u0002 iabias: Interactive bias, used to favor short transactions \u0002 ldubuf: Controls z/VM\u2019s tolerance for guests that induce paging \u0002 storbuf: Can be used to encourage z/VM to overcommit main memory \u0002 dispatching minor timeslice: Controls the length of time that a single user holds onto a processor Example 12-2 cp query srm command and results q srm IABIAS : INTENSITY=90%; DURATION=2 LDUBUF : Q1=100% Q2=75% Q3=60% STORBUF: Q1=300% Q2=250% Q3=200% DSPBUF : Q1=32767 Q2=32767 Q3=32767 DISPATCHING MINOR TIMESLICE = 5 MS MAXWSS : LIMIT=9999% Note: This command shows the virtual machine definition as USERID, STOR, and other characteristics. It also shows the amount of pages in real and expanded storage. If you want to see whether this user ID is running, run this",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.346424",
+    "chunk_number": 811,
+    "word_count": 160
+  }
+}

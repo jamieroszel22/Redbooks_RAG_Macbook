@@ -1,0 +1,18 @@
+{
+  "content": "all SSI members, IPL the members one at a time from the default (RES) volume. Do not specify the NOAUTOLOG parameter. You will see RACF start on the OPERATOR console. When the system comes back up, RACF is running. 6.7.7 Configuring SMAPI to work with RACF In this section, we describe configuring SMAPI to work with RACF. You to perform these steps only if you use SMAPI. For more information about SMAPI, see \u201cSystems Management API\u201d on page 324. Complete the following steps to allow SMAPI to work with RACF: 1. Access your system through a 3270 emulator. 2. Log on to MAINT on the first SSI member. 3. Allow VSMWORK1 to have CONTROL authority of the z/VM minidisk (VMMDISK) that contains the SYSTEM CONFIG file (PMAINT CF0). Perform the following commands: ===> rac permit pmaint.cf0 class(vmmdisk) acc(control) id(vsmwork1) ===> rac permit maint.cf1 class(vmmdisk) acc(control) id(vsmwork1) 4. Allow VSMWORK1 to have CONTROL access to the generic class VMBATCH: ===> rac permit **",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.769465",
+    "chunk_number": 402,
+    "word_count": 162
+  }
+}

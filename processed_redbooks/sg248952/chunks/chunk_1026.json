@@ -1,0 +1,18 @@
+{
+  "content": "in support of the Server Time Protocol functionality: \u0002 n-mode Power STP Imminent Disruption Signal option On IBM Z, losing a Preferred Time Server (PTS) has significant consequences to the timing network and the overall workload execution environment of the IBM Z sysplex. The IBM Z and the HMC have had longtime automated failover protection for various cases that can arise. New for IBM z16 A02 and IBM z16 AGZ, since there is no longer an integrated battery facility, support was added by the HMC to allow the client to configure an option to monitor for n-mode power conditions (wall power or line cord loss), and if detected, an automated failover will occur to the Backup Time Server (BTS). Note that you should provide some backup power method to hold power for 60 seconds on the PTS to allow failover to successfully complete. There are also Manage System Time user interface controls to manage to failback to the PTS when the full power state is restored. \u0002 CPC drawer direct Ethernet",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.106992",
+    "chunk_number": 1026,
+    "word_count": 171
+  }
+}

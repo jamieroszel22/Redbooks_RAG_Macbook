@@ -1,0 +1,18 @@
+{
+  "content": "requirements into micro-level ones, a framework is needed to map these requirements. This is achieved through the use of personas that define the high-level requirements, while watsonx.governance objects are essential for effective management and governance of AI models throughout their lifecycle. This chapter will explore the elements required to implement the AI governance strategy 3.2.1 Personas Figure 3-2 on page 30 shows a typical governance flow which begins with defining an AI use case to solve a business problem, followed by requesting an AI asset, such as a model or prompt template, to address the issue. The process involves various roles, starting with the model owner, who defines the problem and identifies the need for an AI solution. The developer then builds the AI asset, which is subsequently tested by the validator to ensure it meets the required standards. Next, the risk officer reviews and approves the solution, taking into account organizational risk management",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.818910",
+    "chunk_number": 98,
+    "word_count": 154
+  }
+}

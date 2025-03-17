@@ -1,0 +1,18 @@
+{
+  "content": "install and configure DirMaint: \u0002 Dirmaint code On the 7VMDIR20 user ID that refers to DirMaint 7.2: \u2013 MDisks 491/492: Production/test code \u2013 MDisks 11f/41f: Production/test interface code, all CONFIG file are here. \u0002 Directory files On the DIRMAINT user ID: \u2013 1df MDisk: Primary source directory files, and other CONTROL files, such as EXTENT, AUTHFOR, and so on. \u2013 1db MDisk: Primary location of USER Backup file. \u0002 Directory utilities \u0002 On the PMAINT user ID: 551 MDisk (DIRECTXA, DIRMAP, and DISKMAP utilities). 10.1.4 Enabling DirMaint You must enable DirMaint on the first member of the SSI cluster only. Other SSI members have DirMaint satellite servers that send user directory update requests to the member where DirMaint is running. DirMaint is included in a disabled state with z/VM. To enable it, complete the following steps: 1. Log on as MAINT720 on member 1 of the z/VM SSI cluster. 2. Verify that the MAINT 51D minidisk is accessed as file mode D and is read/write (R/W): QUERY",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.869059",
+    "chunk_number": 674,
+    "word_count": 167
+  }
+}

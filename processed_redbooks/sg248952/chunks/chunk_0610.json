@@ -1,0 +1,18 @@
+{
+  "content": "distributions of SUSE, Red Hat, and Ubuntu. The tables in this section list but do not explicitly mark all the features that require fixes that are required by the corresponding operating system for toleration or exploitation. All tables use the following conventions: \u0002 Y: The function is supported. \u0002 N: The function is not supported. \u0002 -: The function is not applicable to that specific operating system. Chapter 7. Operating system support 249 7.3.1 Supported CPC functions The supported Base CPC Functions for z/OS and z/VM are listed in Table 7-3. Table 7-3 Supported Base CPC Functions or z/OS and z/VM Statements of Direction: \u0002 In a future IBM Z hardware system family, the transactional execution and constrained transactional execution facility will no longer be supported. Users of the facility on current servers should always check the facility indications before use. Note: z/OS V2R2 support has ended on as of September 2020. No new function is provided for exploiting the new HW",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.614410",
+    "chunk_number": 610,
+    "word_count": 162
+  }
+}

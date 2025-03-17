@@ -1,0 +1,18 @@
+{
+  "content": "accelerator for sort workloads for optimal results. Because ZSORT is part of the CPU and memory latency is much less than disk latency, sorting in memory is more efficient than sorting with memory and disk workspace. By allowing ZSORT to process the input completely in memory, it can achieve the best results in elapsed time and CPU time. Because the goal of ZSORT is to reduce CPU time and elapsed time, it can require more storage than a DFSORT application that does not use ZSORT. The following restrictions disable ZSORT and revert to the use of traditional sorting technique: \u0002 SORTL facility is not enabled/unavailable on the processor \u0002 ZSORT is not enabled \u0002 OPTION COPY or SORT FIELDS=COPY is specified \u0002 Use of: \u2013 INREC \u2013 JOINKEYS \u2013 MERGE FIELDS \u2013 MODS(EXITS) statements \u2013 OUTREC \u2013 OUTFIL \u2013 SUM FIELDS \u0002 Program started sorts \u0002 Memory objects cannot be created \u0002 Insufficient memory object storage available (required more than currently available) \u0002 Unsupported sort fields specified",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.137836",
+    "chunk_number": 243,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "hardware to enhance the ruggedness of the frame, the frame stiffener, and to tie down the frame to a concrete floor. The frame tie-down kit can be used on a nonraised floor (FC 8015) where the frame is secured directly to a concrete floor, or on a raised floor (FC 8014) where the frame is secured to the concrete floor underneath the raised floor. Raised floors 241.3 mm (9.5 inches) - 1270 mm (50 inches) are supported. Chapter 11. Environmental requirements 467 The kits help secure the frames and their contents from damage when they are exposed to shocks and vibrations, such as in a seismic event. The frame tie-downs are intended for securing a frame that weighs up to 1308 kg (2885 lbs). For more information, see IBM 3931 Installation Manual for Physical Planning, GC28-7015. 11.4.6 Service clearance areas IBM z16 servers require specific service clearance (see Figure 11-8) to ensure the fastest possible repair in the unlikely event that a part must be replaced. Failure to provide",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.212381",
+    "chunk_number": 1066,
+    "word_count": 169
+  }
+}

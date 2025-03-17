@@ -1,0 +1,18 @@
+{
+  "content": "is On/Off Capacity on Demand (On/Off CoD), which can be used for short-term capacity requirements and are pre-paid or post-paid. The two replacement capacity offerings available are Capacity Backup (CBU) and Capacity for Planned Event (CPE). Flexible Capacity for Cyber Resiliency is new type of temporary record that is introduced with IBM z16 A01. This record holds the Flexible Capacity Entitlements for IBM z16 A01, IBM z16 A02 and IBM z16 AGZ machines across two or more sites. Tip: An MES provides system upgrades that can result in more enabled processors, a different central processor (CP) capacity level, more CPC drawers, memory, PCIe+ I/O drawers, and I/O features (physical upgrade). Extra planning tasks are required for nondisruptive logical upgrades. An MES is ordered through your IBM representative and installed by IBM service support representatives (IBM SSRs). Note: CPE is only available when carried forward to IBM z16 A02 and IBM z16 AGZ. Chapter 8. System upgrades 321 8.1.2",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.320205",
+    "chunk_number": 799,
+    "word_count": 158
+  }
+}

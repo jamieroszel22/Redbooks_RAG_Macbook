@@ -1,0 +1,18 @@
+{
+  "content": "available with HMC Driver Level 51 (HMC Version 2.16.0). IOCP does not need to configure a server that is running in DPM mode. For more information, see IBM Dynamic Partition Manager (DPM) Guide, SB10-7182. 7.4.2 Base CPC features and functions In this section, we describe the features and functions of Base CPC. HiperDispatch The HIPERDISPATCH=YES/NO parameter in the IEAOPTxx member of SYS1.PARMLIB and on the SET OPT=xx command controls whether HiperDispatch is enabled or disabled for a z/OS image. It can be changed dynamically, without an IPL or any outage. In z/OS, the IEAOPTxx keyword HIPERDISPATCH defaults to YES when it is running on an IBM z16, IBM z15, or IBM IBM z14system. The use of SMT on IBM z16 systems requires that HiperDispatch is enabled on the operating system. For more information, see \u201cSimultaneous multithreading\u201d on page 273. Also, any LPAR that is running with more than 64 logical processors is required to operate in HiperDispatch Management Mode. The following",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.761752",
+    "chunk_number": 639,
+    "word_count": 161
+  }
+}

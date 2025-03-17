@@ -1,0 +1,18 @@
+{
+  "content": "A detailed explanation of the input Additionally, a model input object can be linked to a model output object, allowing for the creation of model chains at a granular level. This provides an alternative to the model link approach, offering a more detailed and nuanced understanding of model relationships. 7. Model Risk Scorecard - Model risk assessments are a critical component of the model development and documentation process, as well as an ongoing requirement for models in production. To facilitate this process, the Model Risk Scorecard object is utilized to conduct thorough risk assessments. This process involves answering a series of questions about the model, which triggers a calculation of a risk score. This score, in turn, determines the model's tier, providing a clear indication of the model's risk level. Model validation and review During this phase, the model use case and facts collected during the development phase are utilized to validate the model. The goal is to ensure",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.856376",
+    "chunk_number": 108,
+    "word_count": 159
+  }
+}

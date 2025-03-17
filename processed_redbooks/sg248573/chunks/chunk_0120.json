@@ -1,0 +1,18 @@
+{
+  "content": "When implementing an AI governance strategy, it is essential to consider the following factors that are specific to each organization: \u0002 Geographies: Different regions have distinct regulatory requirements, cultural nuances, and market conditions that impact AI governance. \u0002 Market sectors: Various industries, such as banking, telecommunications, and public sector, have unique challenges and requirements for AI governance. \u0002 AI use cases: Organizations may employ different types of AI, such as machine learning or generative AI or general purpose AI, for internal or external purposes, which affects governance needs. \u0002 Organizational structure: Centralized or decentralized structures influence how AI governance is implemented and managed. \u0002 Tech stack: The use of specific platforms, AI in enterprise apps, or open-source technologies impacts AI governance requirements. 3.3.2 Configuring AI governance Based on these organizational characteristics, the following steps can be taken to",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.897602",
+    "chunk_number": 120,
+    "word_count": 138
+  }
+}

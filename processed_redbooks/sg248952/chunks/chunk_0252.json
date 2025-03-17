@@ -1,0 +1,18 @@
+{
+  "content": "needed. \u0002 Packed data is operated in memory by all decimal instructions without general-purpose registers, which were required only to prepare for decimal floating point packed conversion instruction. \u0002 Converting from packed can now force the input packed value to positive instead of requiring a separate OI, OILL, or load positive instruction. \u0002 Converting to packed can now force a positive zero result instead of requiring ZAP instruction. Cobol and PL/I compilers were updated to support the new IBM z16 A02 and IBM z16 AGZ enhancements: \u0002 BCD to HFP conversions \u0002 Numeric editing operation \u0002 Zoned decimal operations Software support DFP is supported in the following programming languages and products: \u0002 Release 4 and later of the High Level Assembler \u0002 C/C++, which requires supported z/OS version \u0002 Enterprise PL/I Release 3.7 and Debug Tool Release 8.1 or later \u0002 Java Applications that use the BigDecimal Class Library \u0002 SQL support as of Db2 Version 9 and later Chapter 3. Central",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.170568",
+    "chunk_number": 252,
+    "word_count": 162
+  }
+}

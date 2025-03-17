@@ -1,0 +1,18 @@
+{
+  "content": "Table 7-13 on page 262. A maximum of 16 TB of main storage can be defined for an LPAR on an IBM z16 A02 and IBM z16 AGZ. Note: z/OS V2R2 support ended as of September 2020. No new function is provided for exploiting the new HW features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document. Operating system Maximum number of PUs per system image z/OS V2R5 256ab a. IBM z16 A02 and IBM z16 AGZ A01 LPARs support 200-way without multithreading; 128-way with multithreading (SMT), however, z16 M/T 3932 supports max. 6 CPs, max. 67 zIIPs, or 68 IFLs. b. Total characterizable PUs, including zIIPs and CPs. z16 M/T 3932 supports max. 6 CPs, and max. 67 zIIPs. z/OS V2R4 256ab z/OS V2R3 256ab z/VM V7R3 80c c. 80-way without multithreading and 40-way with multithreading enabled z/VM V7R2 80d d. 80-way without multithreading and 40-way with multithreading enabled 21CS VSEn V6.3 Turbo",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.731900",
+    "chunk_number": 633,
+    "word_count": 169
+  }
+}

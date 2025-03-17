@@ -1,0 +1,18 @@
+{
+  "content": "In this section, the data analyst uses the data connection that was created by the data engineer in the IBM watsonx.ai project to modify the data set and generate a data visualization by using the Data Refinery feature. 8.4.1 Creating a Data Refinery flow In this section, the data analyst creates a Data Refinery flow to filter the data set and create a data visualization to visualize the number of bank term deposits by profession. 130 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Creating a Data Refinery flow in an IBM watsonx.ai project The data analyst starts by creating a Data Refinery asset by completing the following steps: 1. From the Assets tab in the Bank Term Deposit Marketing Campaign Analysis project, they click New Asset, as shown in Figure 8-44. Figure 8-44 New asset 2. Under Prepare data, the data analyst clicks Prepare and visualize data with Data Refinery, as shown in Figure 8-45. Figure 8-45 Prepare and visualize data with Data Refinery",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.254646",
+    "chunk_number": 237,
+    "word_count": 168
+  }
+}

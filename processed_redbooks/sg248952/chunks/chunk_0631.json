@@ -1,0 +1,18 @@
+{
+  "content": "z/TPF, and Linux on IBM Z 7.4 Support by features and functions This section addresses operating system support by function. Only the currently in-support releases are covered. Tables in this section use the following convention: \u0002 N/A: Not applicable \u0002 NA: Not available a. PTFs might be required for toleration support or exploitation of IBM z16 A02 and IBM z16 AGZ features and functions. b. For guest use or exploitation. c. Requires TKE 9.1 or newer. d. Requires TKE 9.2 or newer. e. Requires z/OS Exploitation support via APAR f. Requires Web deliverable HCR77D1 Functiona a. PTFs might be required for toleration support or exploitation of IBM z16 A02 and IBM z16 AGZ features and functions. VSEn V6R3 z/TPF V1R1 Linux on IBM Zb b. Support statement varies based on Linux on IBM Z distribution and release. CP Assist for Cryptographic Function (CPACF) Y Y Y Support for 85 Domains Y N Y CPACF support for: \u0002 Encryption (DES, TDES, AES) \u0002 Hashing (SHA-1, SHA-2, SHA-3, SHAKE) \u0002 Random Number",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.722084",
+    "chunk_number": 631,
+    "word_count": 170
+  }
+}

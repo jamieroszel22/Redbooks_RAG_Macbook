@@ -1,0 +1,18 @@
+{
+  "content": "work in this library. To limit training time, you can adjust the num_epoch parameter in the config.yaml file. The maximum number of epochs for running the InstructLab end-to-end workkflow is 10. The following command shows how to start the automatic fine-tuning process with the previously generated dataset. Furthermore, it can specify more than the pipeline, such as the device that you want the model to be trained on (CPU, MPS, or GPU). Ilab model train [--pipeline <PIPE_ID> --device <DEVICE_ID> --data-path <DATA_PATH>] This training step can potentially take from several minutes to several hours to complete, which depends on the available computing resources. After the fine-tuning pipeline completes, it is possible to verify the quality of the new model and whether the generated dataset with the defined skills and knowledge produced good results. To thoroughly test and evaluate a newly trained model by using InstructLab, first run a series of commands that are designed to assess the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.933145",
+    "chunk_number": 185,
+    "word_count": 156
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "virtually every case, citizen engineers and scientists will engage with AI assets which have already been pre-trained, and therefore, a modified version of the CRISP-DM methodology should be used when considering the lifecycle of an AI asset. The pre-trained nature of foundation models allows us to create a more focused view on the lifecycle of AI assets being used in use cases. This lifecycle can be generally depicted with three chronological stages: Develop stage, Validate stage, and Operate stage. Figure 6-2 on page 63 highlights the general lifecycle stages in a red box. Chapter 6. Governing the end-to-end lifecycle of an AI asset 63 Figure 6-2 A Sample Lifecycle Diagram Within each stage of this AI lifecycle, actions should be taken by users to progress the AI asset through its lifecycle. The following section covers the high-level activities that take place within each of the three stages. Development stage In the development stage, users must work to stand up the initial AI use",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.069024",
+    "chunk_number": 166,
+    "word_count": 163
+  }
+}

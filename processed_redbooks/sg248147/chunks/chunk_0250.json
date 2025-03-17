@@ -1,0 +1,18 @@
+{
+  "content": "Figure 4-3 on page 89). It also monitors thresholds and messages. It improves accuracy, reduces operational effort, and improves administrative notification. It provides the following main functions: \u0002 Task automation By using a schedule, periodic commands can be run without operator intervention. For example, it can run a task to clear console files on the spool, erase DIRMAINT log files, or send PERFSVM diagnostic data by email for external processing. \u0002 Response automation By using a set of rules, message can be matched to a pattern, and different commands can be run (depending on the received message). For example, it can take a memory dump from a Linux server when it enters a Disabled Wait state, or automatically use Live Guest Relocation to move Linux guests to another SSI member during a maintenance window. \u0002 Monitoring Operations Manager can monitor spool usage, page space, system events, and user consoles, which enables multiple users to read the same user console. It also",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.141961",
+    "chunk_number": 250,
+    "word_count": 161
+  }
+}

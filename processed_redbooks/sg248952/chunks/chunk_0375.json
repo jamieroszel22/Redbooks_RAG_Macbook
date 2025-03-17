@@ -1,0 +1,18 @@
+{
+  "content": "Generation 3 fanout (FC 0175) The PCIe+ Gen3 fanout card provides connectivity to a PCIe+ I/O drawer by using a copper cable. This PCIe fanout card supports a link rate of 16 GBps (with two links per card). A 16x PCIe copper cable of 1.5 meters (4.92 feet) to 4.0 meters (13.1 feet) is used for connection to the PCIe switch card in the PCIe+ I/O drawer. PCIe fanout cards are always plugged in pairs and provide redundancy for I/O domains within the PCIe+ I/O drawer. 4.4.2 Integrated Coupling Adapter (FC 0172 and FC 0176) The IBM ICA SR (FC 0172) is a two-port fanout feature that is used for short distance coupling connectivity and uses channel type CS5. For IBM z16 A02 and IBM z16 AGZ, the new build feature is ICA SR1.1 (FC 0176). The ICA SR (FC 0172) and ICA SR1.1 (FC 0176) use PCIe Gen3 technology, with x16 lanes that are bifurcated into x8 lanes for coupling. Note: IBM z16 A02 and IBM z16 AGZ do not support Parallel Sysplex InfiniBand (PSIFB) links. Also, if and IBM z16 A02 or IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.678572",
+    "chunk_number": 375,
+    "word_count": 185
+  }
+}

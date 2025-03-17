@@ -1,0 +1,18 @@
+{
+  "content": "sets 1, 2, and 3. The informal name, 63.75-K subchannels, represents 65280 subchannels, as shown in the following equation: 63 x 1024 + 0.75 x 1024 = 65280 This equation is applicable for subchannel set 0. For subchannel sets 1, 2 and 3, the available subchannels are derived by using the following equation: (64 X 1024) -1=65535 The supported operating systems are listed in Table 7-6 on page 252 and Table 7-7 on page 253. Multiple subchannel sets First introduced in IBM z9 EC, multiple subchannel sets (MSS) provide a mechanism for addressing more than 63.75-K I/O devices and aliases for FICON (CHPID types FC) on the IBM z16 A02 and IBM z16 AGZ, IBM z15, IBM z14, IBM z13, IBM z13s, IBM zEC12, and IBM zBC12. IBM z196 introduced the third subchannel set (SS2). With IBM z13, one more subchannel set (SS3) was introduced, which expands the alias addressing by 64-K more I/O devices. 10 FICON Express16 SA is not supported on IBM z16 A02 or IBM z16 AGZ. 290 IBM z16 A02 and IBM z16 AGZ Technical",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.023549",
+    "chunk_number": 713,
+    "word_count": 179
+  }
+}

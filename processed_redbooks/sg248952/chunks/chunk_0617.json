@@ -1,0 +1,18 @@
+{
+  "content": "Functiona a. PTFs are required for toleration support or exploitation of IBM z16 A02 and IBM z16 AGZ features and functions z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3 z/VM V7R2 CFCC Level 25b b. CFCC Level 25 with Driver 51 (IBM z16 A02 and IBM z16 AGZ) Y Y Y Y Y CFCC Level 24c c. CFCC Level 24 with Driver 41 (IBM z15) Y Y Y Y Y CFCC Level 23d d. CFCC Level 23 with Driver 36 (IBM z14) Y Y Y Y Y CFCC Level 25 Coupling Facility Processor Scalability Enhancements Y Y Y Y Y RMF coupling channel reporting Y Y Y N N z/VM Dynamic I/O support for ICA SR CHPIDs - - - Y Y Asynchronous CF Duplexing for lock structures Y Y Y Y Y Cache residency time metricse e. With APAR OA60650 Y Y Y N N Dynamic I/O activation for stand-alone CFsf, Linux on Z and z/PFg f. Requires HMC 2.14.1(Driver 36) or newer and various OS fixes (HCD, HCM, IOS, IOCP) g. Requires 2.3 or higher z/OS partition with APAR OA65559 applied, running on an IBM z16 and Linux on Z and z/TPF also running on IBM z16. Both z16 CPCs require",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.644844",
+    "chunk_number": 617,
+    "word_count": 203
+  }
+}

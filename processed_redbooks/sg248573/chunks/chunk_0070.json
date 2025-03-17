@@ -1,0 +1,18 @@
+{
+  "content": "OpenShift. This next-generation AI and data platform enables enterprises to develop and deploy AI applications, access data stored in legacy systems, catalog data while implementing governance practices, and improve their understanding of data quality. It also allows organizations to establish policies and rules related to data privacy, ensuring that end-to-end AI solutions are ethical, responsible, and trustworthy. Accessing high-quality datasets can be challenging in organizations when the data assets are locked in silos. The key for organizations to gain insights and bring innovation to their business is leveraging these data assets but requires a platform that enables access to data assets residing in silos, integrate the data assets, and build and deploy AI assets in an ethical and responsible way. The IBM watsonx platform consists of three core components Figure 2-1 on page 17 illustrates the components of the watsonx platform. Chapter 2. Introduction to IBM watsonx.governance",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.715750",
+    "chunk_number": 70,
+    "word_count": 147
+  }
+}

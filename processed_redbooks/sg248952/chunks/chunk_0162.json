@@ -1,0 +1,18 @@
+{
+  "content": "24 1888 256 24 1888 256 22 22 1888 256 3135 1760 24 188 8 128 24 1888 128 24 1888 128 22 22 1888 128 3136 1888 24 188 8 0 24 1888 0 24 1888 0 22 22 1888 0 3137 2016 40 240 0 384 40 2400 384 25 2400 384 23 22 2400 384 3138 2144 40 240 0 256 40 2400 256 25 2400 256 23 22 2400 256 FC Increments Customer Memory Increments Max5 (CPC0) Max16 (CPC0) Max32 (CPC0) Max68 (CPC0 + CPC1) Cfg. # Dial Max Extra Mem Cfg. # Dial Max Extra Mem Cfg. # Dial Max Extra Mem CPC0 Cfg. # CPC1 Cfg. # Dial Max Extra Mem 50 IBM z16 A02 and IBM z16 AGZ Technical Guide 3139 256 2400 40 240 0 0 40 2400 0 25 2400 0 23 22 2400 0 3140 2656 41 291 2 256 41 2912 256 26 2912 256 23 23 2912 256 3141 2912 41 291 2 0 41 2912 0 26 2912 0 23 23 2912 0 3142 3168 42 342 4 256 42 3424 256 27 3424 256 24 23 3424 256 3143 3424 42 342 4 0 42 3424 0 27 3424 0 24 23 3424 0 3144 3680 43 393 6 256 43 3936 256 28 3936 256 24 24 3936 256 3145 3936 43 393 6 0 43 3936 0 28 3936 0 24 24 3936 0 FC Increments Customer Memory Increments Max5",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.817462",
+    "chunk_number": 162,
+    "word_count": 246
+  }
+}

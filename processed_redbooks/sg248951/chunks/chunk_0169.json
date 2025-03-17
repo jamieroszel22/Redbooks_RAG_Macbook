@@ -1,0 +1,18 @@
+{
+  "content": "ICF. It is offline and cannot be used until an upgrade for the ICF is installed. It does not affect software licenses or maintenance charges zIIP An \u201cOff Load Processor\u201d for workload that supports applications such as DB2 and z/OS Container Extensions. It also can be used for \u201cSystem Recovery Boost\u201d on page 50. Unassigned zIIP A processor that is purchased for future use as zIIP. It is offline and cannot be used until an upgrade for the zIIP is installed. It does not affect software licenses or maintenance charges Additional SAP An optional processor that is purchased and activated for use as SAP (System Assist Processor). A minimum of one PU that is characterized as a CP, IFL, or ICF is required per system. The maximum number of characterizable PUs is 200. The maximum number of zIIPs is up to twice the number of PUs that are characterized as CPs. The following components are present in the IBM z16, but they are not part of the PUs that clients purchase and require no",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.843335",
+    "chunk_number": 169,
+    "word_count": 174
+  }
+}

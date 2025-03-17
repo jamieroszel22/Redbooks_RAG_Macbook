@@ -1,0 +1,18 @@
+{
+  "content": "connection will be rejected with the message: HCPLGA206E Cannot connect to host virtual machine For more information, see \u201cTCP/IP and SSL Server Logon Restrictions\u201d, in z/VM TCP/IP Planning and Customization, SC24-6125. Chapter 6. Configuring z/VM 233 32.Create a self-signed certificate for testing purposes by completing the following steps: a. Clear your panel, then run the GSKKYMAN utility. At the top-level menu, select option 2 - Open database, enter Database.kdb, and then, enter the password in response to the prompts: ===> vmfclear ===> gskkyman ===> 2 ===> Database.kdb ===> P@ssw0rd4zVMgsk! b. The Key Management Menu appears. Select option 6 - Create a self-signed certificate: ===> 6 c. At the Select certificate type prompt, choose option 6 - User or server certificate with 2048-bit RSA key: ===> 6 d. At the Select digest type prompt, choose option 3 - SHA-256: ===> 3 e. Respond to the label and subject name prompts by using Figure 6-18 on page 234 as a guide. Replace the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.257863",
+    "chunk_number": 528,
+    "word_count": 161
+  }
+}

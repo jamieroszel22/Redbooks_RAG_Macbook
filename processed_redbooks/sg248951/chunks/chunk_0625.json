@@ -1,0 +1,18 @@
+{
+  "content": "HiperSockets Virtual Switch Bridge - - Ye HiperSockets support of IPV6 Y N Y HiperSockets Layer 2 support Y N Y HiperSockets Network Traffic Analyzer for Linux on IBM Z N N Y SMC-D and SMC-R SMC-Df over ISM (Internal Shared Memory) N N Yg 10 GbE RoCEh Express N N Ygi 25 GbE and 10 GbE RoCE Express3 for SMC-R N N Ygi 25 GbE and 10 GbE RoCE Express3 for Ethernet communicationsj including Single Root I/O Virtualization (SR-IOV) N N Ygi Shared RoCE environment N N Y Open Systems Adapter (OSA) OSA-Express7S 1.2 1000BASE-T Ethernetk CHPID type OSC and OSD Y Y Y OSA-Express7S 1000BASE-T Ethernet CHPID type OSC and OSD Y Y Y 262 IBM z16 (3931) Technical Guide OSA-Express6S 1000BASE-T Ethernet CHPID types OSC and OSD Y Y Y OSA-Express7S 1.2 25-GbE CHPID type OSD Y Y Y OSA-Express7S 25-Gigabit Ethernet Short Reach (SR and SR1.1) CHPID type OSD Y Y Y OSA-Express7S 1.2 10-GbE CHPID type OSD Y Y Y OSA-Express7S 10-Gigabit Ethernet Long Reach (LR) and Short Reach (SR) CHPID type OSD Y Y Y",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.701532",
+    "chunk_number": 625,
+    "word_count": 181
+  }
+}

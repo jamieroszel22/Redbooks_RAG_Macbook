@@ -1,0 +1,18 @@
+{
+  "content": "Coupling Adapter Short Reach (ICA SR1.1 and ICA SR) links connect directly to the CPC drawer and are intended for short distances between CPCs of up to 150 meters (492 feet). \u0002 Coupling Express2 Long Reach (CE2 LR) adapters for IBM z16 and Coupling Express Long Reach (CE LR) are in the PCIe+ drawer and support unrepeated distances of up to 10 km (6.2 miles) or up to 100 km (62.1 miles) over qualified WDM services. \u0002 Internal Coupling (IC) links are for internal links within a CPC. Figure 4-4 shows the supported Coupling Link connections for the IBM z16. Only ICA SR and CE LR links are supported on IBM z16, IBM z15, and IBM z14 ZR1 systems. Figure 4-4 Parallel Sysplex connectivity options 13 IBM z14 M0x (M/T 3906) also supports InfiniBand coupling links; however, these links are not supported on IBM z16, IBM z15, and IBM z14 ZR1. Careful connectivity planning is needed if InfiniBand links are present in the supported systems. Note: Parallel Sysplex supports connectivity between systems",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.043985",
+    "chunk_number": 467,
+    "word_count": 172
+  }
+}

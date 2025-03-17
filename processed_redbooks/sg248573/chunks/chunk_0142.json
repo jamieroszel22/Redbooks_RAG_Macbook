@@ -1,0 +1,18 @@
+{
+  "content": "Even with all relevant legal details being covered, the ethics behind any AI effort must still be questioned. It is also important to note that many laws and regulations are vague in their definitions and guidance. Similar to other types of technology-focused requirements, those for AI require broad statements as to not grow stale shortly after going into effect given the current speed of evolution in the industry. For these reasons it is important to approach any requirement that is new or without established precedent with a conservative and ethical mindset. The next section 4.3, \u201cEthical considerations for approving a new foundation model\u201d on page 47 will focus on this topic of AI ethics. 4.3 Ethical considerations for approving a new foundation model With AI usage gaining momentum, there is an increased focus on the ethical aspect of understanding how a foundation model is trained and any ethical risk it can expose if it is in used as part of an enterprise use case. When",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.981847",
+    "chunk_number": 142,
+    "word_count": 165
+  }
+}

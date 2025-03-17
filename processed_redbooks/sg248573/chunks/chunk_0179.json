@@ -1,0 +1,18 @@
+{
+  "content": "created, we will move on to tracking the lifecycle of an AI asset for that AI use case. This will be achieved by attaching AI factsheets to the AI assets realizing and implementing the AI use case and using that AI factsheet to accomplish lifecycle governance. As mentioned 6.3, \u201cHow to implement Lifecycle Governance\u201d on page 66, an AI factsheet is the organizational representation of an AI asset which gives us all asset details. The factsheet also gives us an effective vehicle for traversing between lifecycle stages. Creating an AI factsheet for a given asset will be covered in detail in subsequent sub-sections. Once the AI factsheet is created, we can move onto lifecycle governance. As described in 6.1, \u201cWhat is the AI lifecycle?\u201d on page 62, there are general activities in each lifecycle stage which should be completed before moving onto the next lifecycle stage. Using watsonx.governance, we can achieve full lifecycle monitoring for the AI asset. The following subsections will cover",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.117037",
+    "chunk_number": 179,
+    "word_count": 163
+  }
+}

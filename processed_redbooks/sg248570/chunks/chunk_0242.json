@@ -1,0 +1,18 @@
+{
+  "content": "Open Data Lakehouse with IBM watsonx.data Figure 8-59 shows the new theme that is applied to the bar chart. The data analyst can use the new theme in future data visualizations too. Figure 8-59 Data visualization with new theme applied Exporting and sharing the data visualization Now, the data analyst exports and shares the data visualization by completing the following steps: 1. The data analyst selects Actions \u2192 Save Visualization to project, as shown in Figure 8-60 on page 139. Now, users with access to the project can view and access this specific data visualization. Chapter 8. Marketing campaign analysis use case 139 Figure 8-60 Save visualization to project 2. To save the data visualization to the project, the data analyst adds a name, description, and chart name, and then clicks Apply, as shown in Figure 8-61. Figure 8-61 Save visualization in project: Apply 140 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 3. The data analyst can also download the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.278111",
+    "chunk_number": 242,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "copy of the PROTODIR file from the local A disk: ===> erase cmsproto protodir A Your new prototype directory template is now ready for use. In the future, if you want to modify this new prototype, follow the steps in the next section. Modifying a z/VM User Directory prototype Complete the following steps to modify a prototype that you created: 1. Request the prototype record. In this case, we use CMSPROTO as an example: ===> DIRMAINT SEND CMSPROTO PROTODIR 2. Substitute 1234 with the l reader file number each time: RECEIVE 1234 = = A (OLDD REP To continue, run the following commands: \u2013 XEDIT CMSPROTO PROTODIR A \u2013 DIRMAINT FILE CMSPROTO PROTODIR A \u2013 ERASE CMSPROTO PROTODIR A Creating a user ID by using CMSPROTO You now create a user ID for yourself that you will use to log on. You will also use this user ID to configure LOGONBY. While you are logged in as MAINT on any node in the cluster, issue the following dirmaint command. In this example, the new directory entry that is added is",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.065681",
+    "chunk_number": 477,
+    "word_count": 180
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "or the command-line interface (CLI) that is provided by the ibm-lh tool. With the user interface, you can easily upload data files, define schemas, and transform data as needed. Alternatively, the ibm-lh tool offers granular control over the ingestion process so that you can automate data pipelines and integrate with existing workflows. By suing these methods, you can seamlessly bring your data into IBM watsonx.data, where it can be transformed, analyzed, and used to drive valuable insights. 3.4.1 Loading or ingesting data through the CLI IBM watsonx.data uses the ibm-lh tool for managing ingestion jobs. To initiate an ingestion job, install ibm-lh-client locally. This client provides the CL for interacting with the ibm-lh tool and triggering ingestion processes. For more information and instructions about installing the ibm-lh-client package and using the ibm-lh tool for ingestion, see Installing ibm-lh-client and Setting up the ibm-lh command-line utility. The ibm-lh tool supports",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.750575",
+    "chunk_number": 106,
+    "word_count": 149
+  }
+}

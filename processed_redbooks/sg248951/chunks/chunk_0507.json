@@ -1,0 +1,18 @@
+{
+  "content": "administrator. For example, an LPAR with LPAR ID 1A defined in that manner means that the LPAR is defined in LCSS1, with the MIF image ID A. 206 IBM z16 (3931) Technical Guide 5.2 I/O configuration management The following tools are available to help maintain and optimize the I/O configuration: \u0002 IBM Configurator for e-business (eConfig) The eConfig tool is used by your IBM representative. It is used to create configurations or upgrades of a configuration, and maintains tracking to the installed features of those configurations. eConfig produces reports that help you understand the changes that are being made for a new system, or a system upgrade, and what the target configuration looks like. \u0002 Hardware configuration definition (HCD) HCD supplies an interactive dialog to generate the IODF, and later the IOCDS. Generally, use HCD or Hardware Configuration Manager (HCM) to generate the I/O configuration rather than writing I/O configuration program (IOCP) statements. The validation",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.197346",
+    "chunk_number": 507,
+    "word_count": 155
+  }
+}

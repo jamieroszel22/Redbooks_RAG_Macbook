@@ -1,0 +1,18 @@
+{
+  "content": "fixed location in the IBM factory frame. No other hardware can be installed in the IBM z16 A02. Chapter 2. Central processor complex hardware components 23 The air cooled IBM z16 A02 includes the following basic hardware building blocks: \u0002 19-inch 42u frame (factory installed) \u0002 CPC (Processor) drawers (one or two)) \u0002 PCIe+ Gen3 I/O drawers (up to three) \u0002 Air cooled system \u0002 Power: \u2013 Single- or three-phase Power Distribution Units (PDU) pairs (two or four PDUs), for systems with a single CPC drawer. \u2013 Three-phase Power Distribution Units (PDU) pairs (two or four PDUs) for systems with two CPC drawers. \u0002 Redundant (two) Support Elements: \u2013 Single KMM2 device (USB-C connection) \u2013 Optional feature code for IBM Hardware Management Appliance (FC0129 \u0002 Two 24-port 1GbE Switches \u0002 Hardware for cable management at the rear of the system. An example of a dual-CPC drawer system (Max68 w/ three PCIe+ I/O drawers) is shown in Figure 2-2 Figure 2-2 IBM z16 A02 - Maximum configuration, dual-CPC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.611314",
+    "chunk_number": 117,
+    "word_count": 167
+  }
+}

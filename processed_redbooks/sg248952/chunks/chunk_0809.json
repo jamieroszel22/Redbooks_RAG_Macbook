@@ -1,0 +1,18 @@
+{
+  "content": "zIIPs. 8.1.5 Temporary upgrades IBM z16 A02 and IBM z16 AGZ offer the following types of temporary upgrades: \u0002 On/Off Capacity on Demand (On/Off CoD) This offering allows you to temporarily add capacity or specialty engines to cover seasonal activities, period-end requirements, peaks in workload, or application testing. This temporary upgrade can be ordered by using the CIU application through Resource Link only. \u0002 CBU This offering allows you to replace model capacity or specialty engines in a backup system that is used in an unforeseen loss of system capacity because of a disaster. \u0002 CPE1 This offering allows you to replace model capacity or specialty engines because of a relocation of workload during system migrations or a data center move. \u0002 Flexible Capacity Record This offering allows you to move CPU capacity between machines across two or more sites. Capacity can be moved between sites a maximum of 12 times per year for a maximum of 12 months per move. Consider the following",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.346527",
+    "chunk_number": 809,
+    "word_count": 164
+  }
+}

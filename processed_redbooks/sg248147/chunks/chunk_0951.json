@@ -1,0 +1,18 @@
+{
+  "content": "CREATED=20.261 DEFAULT-GROUP=SYS1 PASSDATE=N/A PASS-INTERVAL=N/A PHRASEDATE=N/A \u2192 ATTRIBUTES=REVOKED ATTRIBUTES=PROTECTED REVOKE DATE=NONE RESUME DATE=NONE LAST-ACCESS=20.280/13:18:55 CLASS AUTHORIZATIONS=NONE NO-INSTALLATION-DATA NO-MODEL-NAME LOGON ALLOWED (DAYS) (TIME) --------------------------------------------- ANYDAY ANYTIME GROUP=SYS1 AUTH=USE CONNECT-OWNER=DIRMAINT CONNECT-DATE=20.261 CONNECTS= 03 UACC=NONE LAST-CONNECT=20.280/13:18:55 CONNECT ATTRIBUTES=NONE REVOKE DATE=NONE RESUME DATE=NONE SECURITY-LEVEL=NONE SPECIFIED CATEGORY-AUTHORIZATION NONE SPECIFIED SECURITY-LABEL=NONE SPECIFIED To set the ID back to a functional status, or resume the ID, the RACF/VM command RAC ALTUSER is issued to modify an attribute: ===> RAC ALTUSER LNCG4050 RESUME Ready; T=0.01/0.01 13:49:52 Finally, verify that the status of the attribute changed by again issuing the RACF LISTUSER command, as shown in Example 15-12. Notice that the line that includes ATTRIBUTES=REVOKED was removed. Chapter 15.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.823253",
+    "chunk_number": 951,
+    "word_count": 109
+  }
+}

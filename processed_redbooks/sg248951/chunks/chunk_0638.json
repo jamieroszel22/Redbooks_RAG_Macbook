@@ -1,0 +1,18 @@
+{
+  "content": "configuration program (IOCP) allows for the creation of the IOCDS file from a source file that is known as the I/O configuration source (IOCS). The IOCS file contains definitions of LPARs and channel subsystems. It also includes detailed information for each channel and path assignment, control unit, and device in the configuration. 3 z/VM Dynamic Memory Downgrade (releasing memory from z/VM LPAR) made available with PTFs for APAR VM66271. For more information, see: http://www.vm.ibm.com/newfunction/#dmd Chapter 7. Operating system support 269 IOCP for IBM z16 provides support for the following features: \u0002 IBM z16 Base machine definition \u0002 PCI function adapter for zHyperLink (HYL) \u0002 PCI function adapter for RoCE Express3 (CX6) \u0002 New hardware (announced with Driver 51) \u0002 IOCP Dynamic I/O support for stand-alone CF, Linux on Z and z/TPF, running on z16 CPCs. Dynamic Partition Manager V5.0 Dynamic Partition Manager V5.0 is available for managing IBM z16 that are running Linux. DPM 5.0 is",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.754666",
+    "chunk_number": 638,
+    "word_count": 156
+  }
+}

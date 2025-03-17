@@ -1,0 +1,18 @@
+{
+  "content": "are shown in Figure E-7 - Figure E-17 on page 538. Figure E-7 Single frame Figure E-8 Two frames AZ 534 IBM z16 (3931) Technical Guide Figure E-9 Two frames AB, four CPCs Figure E-10 Three frames ZAC one CPC Appendix E. Frame configurations Power Distribution Units and Bulk Power Assembly-based systems 535 Figure E-11 Three frames ZAC, two CPC Figure E-12 Three frames ZAC, three CPC 536 IBM z16 (3931) Technical Guide Figure E-13 Three frames ZAB Figure E-14 Three frames ZAB, four CPC Appendix E. Frame configurations Power Distribution Units and Bulk Power Assembly-based systems 537 Figure E-15 Four frames ZABC, single CPC Figure E-16 Four frames ZABC, three CPCs 538 IBM z16 (3931) Technical Guide Figure E-17 Four frames ZABC, four CPC Related publications 539 Related publications The publications that are listed in this section are considered particularly suitable for a more detailed discussion of the topics that are covered in this book. IBM Redbooks The following IBM Redbooks",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.422302",
+    "chunk_number": 1161,
+    "word_count": 162
+  }
+}

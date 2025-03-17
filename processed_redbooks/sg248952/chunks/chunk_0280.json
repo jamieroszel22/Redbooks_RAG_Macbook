@@ -1,0 +1,18 @@
+{
+  "content": "capacity for other workloads. The logical flow of Java code running on an IBM z16 A02 or IBM z16 AGZ with a zIIP available is shown in Figure 3-19. When JVM starts the execution of a Java program, it passes control to the z/OS dispatcher that verifies the availability of a zIIP. Figure 3-19 Logical flow for Java code execution on a zIIP The availability is treated in the following manner: \u0002 If a zIIP is available (not busy), the dispatcher suspends the JVM task on the CP and assigns the Java task to the zIIP. When the task returns control to the JVM, it passes control back to the dispatcher. The dispatcher then reassigns the JVM code execution to a CP. \u0002 If no zIIP is available (all busy), the z/OS dispatcher allows the Java task to run on a standard CP. This process depends on the option that is used in the OPT statement in the IEAOPTxx member of SYS1.PARMLIB. A zIIP runs IBM authorized code only. This IBM authorized code includes the z/OS JVM in association with parts of system",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.274595",
+    "chunk_number": 280,
+    "word_count": 183
+  }
+}

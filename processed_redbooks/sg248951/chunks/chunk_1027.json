@@ -1,0 +1,18 @@
+{
+  "content": "clients with UPS to more effectively monitor and manage their power efficiency across their data center. STP resiliency for PTS/CTS transition IBM Z from IBF Sensing to N-Mode Power Sensing. To enable the N-Mode Power Sensing, a one-time setup step is required. In the HMC Manage System Time task, a customer enables the automatic switch over function from CPC1 to CPC2 for STP. After the function is enabled, the power subsystem (BPA and iPDU) detects any power source loss (at the power cord or power side level). Chapter 10. Hardware Management Console and Support Element 445 This detection generates a signal from CPC1 to CPC2 in the same way as done for systems with IBF. The generation of this signal can take up to 30 seconds, depending on conditions. If within 30 seconds CPC2 does not receive a signal that power is back to fully redundant on CPC1, CPC2 takes over as CTS. After normal power is restored to CPC1, CPC1 can automatically return to the CTS role. Enhanced Console Assisted",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.097231",
+    "chunk_number": 1027,
+    "word_count": 171
+  }
+}

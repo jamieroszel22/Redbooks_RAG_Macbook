@@ -1,0 +1,18 @@
+{
+  "content": "15FE DVHXMT1191I Your DEDICATE request has been sent for processing to DIRMAINT ... DVHREQ2288I Your DEDICATE request for LINUX2 at * has been accepted. DVHBIU3450I The source for directory entry LINUX2 has been updated. DVHBIU3424I The next ONLINE will take place immediately. DVHDRC3451I The next ONLINE will take place via delta object directory. DVHRLA3891I Your DSATCTL request has been relayed for processing. DVHBIU3428I Changes made to directory entry LINUX2 have been placed online. DVHREQ2289I Your DEDICATE request for LINUX2 at * has completed; with RC = 0. Chapter 11. Deploying and maintaining Linux workloads 359 Ready; ===> dirmaint foruser linux2 dedicate 01FF 15FF DVHXMT1191I Your DEDICATE request has been sent for processing to DIRMAINT ... DVHREQ2289I Your DEDICATE request for LINUX2 at * has completed; with RC = 0. Ready; ===> dirmaint foruser linux2 dedicate 0100 1570 DVHXMT1191I Your DEDICATE request has been sent for processing to DIRMAINT ... DVHREQ2289I Your DEDICATE",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.246103",
+    "chunk_number": 778,
+    "word_count": 152
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "ibm-lh-lakehouse-presto-01-presto-svc.cpd.svc.cluster.local:8443 8443 represents the port. The data engineer also notes the engine ID, which in this case is presto-01. This information is used later in IBM watsonx.ai when setting up the connection to the Presto engine on IBM watsonx.data. Figure 8-29 shows the Details tab. Figure 8-29 Details tab Chapter 8. Marketing campaign analysis use case 121 Overall IBM watsonx.data connection details The data engineer proceeds to collect additional information that is needed to connect to IBM watsonx.data by using the Configurations page. They complete the following steps: 1. On the Configurations page, they click Connection information, as shown in Figure 8-30. Figure 8-30 Connection information 2. From this page, the data engineer notes the values in the following fields: \u2013 Host IP address \u2013 Port \u2013 Instance ID \u2013 SSL Certificate This information will be needed later when establishing the connection to IBM watsonx.data from the IBM watsonx.ai",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.234730",
+    "chunk_number": 232,
+    "word_count": 149
+  }
+}

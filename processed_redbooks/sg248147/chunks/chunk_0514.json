@@ -1,0 +1,18 @@
+{
+  "content": "of the existing information) c. After you finish typing, press Enter and then, press F2 to refresh the display. MAINT720 FILELIST A0 V 169 Trunc=169 Size=5 Line=1 Col=1 Alt=0 Cmd Filename Filetype Fm Format Lrecl Records Blocks Date Time SYSTEM DTCPARMS U1 V 71 7 1 2015-04-12 11:04:23 PROFILE TCPIP U1 V 72 78 1 2015-04-18 16:33:12 PROFILE TCPIWRKS U1 V 72 61 1 2020-09-19 14:19:19 PROFILE TCPIORIG U1 V 73 57 1 2015-04-08 15:45:24 MAINT720 FILELIST A0 V 169 Trunc=169 Size=5 Line=1 Col=1 Alt=0 Cmd Filename Filetype Fm Format Lrecl Records Blocks Date Time COPY / = DTCPWRKS = (OLDDATE 71 7 1 2015-04-12 11:04:23 PROFILE TCPIP U1 V 72 78 1 2015-04-18 16:33:12 PROFILE TCPIWRKS U1 V 72 61 1 2020-09-19 14:19:19 PROFILE TCPIORIG U1 V 73 57 1 2015-04-08 15:45:24 Chapter 6. Configuring z/VM 227 d. You now see the newly copied file among the other files, as shown in Figure 6-16. Figure 6-16 Refreshed FILELIST output that shows newly copied SYSTEM DTCPWRKS e. Move to the command line at the bottom",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.204946",
+    "chunk_number": 514,
+    "word_count": 175
+  }
+}

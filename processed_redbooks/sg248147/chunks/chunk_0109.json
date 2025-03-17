@@ -1,0 +1,18 @@
+{
+  "content": "require a mechanism to remove this added memory later after workload memory demands diminish. This action must be done without requiring an IPL. \u0002 Elliptic Curve Cryptography (ECC) With the PTF for APAR PI99184, the z/VM TLS/SSL server is enhanced to improve security through enabling ECC cipher suites. ECC provides a faster, more secure mechanism for asymmetric encryption than standard RSA or DSS algorithms. Chapter 1. Conceptual overview 25 \u0002 With the PTF for APAR VM66174, the RSCS server is enhanced to provide a means to query the service level of each part that is included within the RSCS LOADLIB. A new RSCS query parameter is provided that returns the highest level PTF that is applied to each part within the running RSCS server. This ability eliminates ambiguity on whether service was applied. \u0002 IBM has a long history of working with customers to deliver capabilities to improve z/VM. IBM takes this interaction to a new level because z/VM customers might be enlisted as \u201cSponsor",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.560408",
+    "chunk_number": 109,
+    "word_count": 165
+  }
+}

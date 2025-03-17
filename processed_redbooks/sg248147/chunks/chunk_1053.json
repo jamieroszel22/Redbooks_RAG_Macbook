@@ -1,0 +1,18 @@
+{
+  "content": "function askAreYouSure() # Ask \"Are you sure?\" - if not, then exit #+--------------------------------------------------------------------------+ { echo \"\" echo \"WARNING!!: Minidisks 100 and 101 will be copied to $targetID\" echo \"Network data is retrieved from $targetID PARM-S11 on 191 disk\" echo \"during the first boot of $targetID\" echo -n \"Are you sure you want to overwrite these disks (y/n): \" read ans if [ $ans != \"y\" ]; then echo \"Aborting clone per user input\" exit 16 fi } #+--------------------------------------------------------------------------+ function copySystem() # For each of two minidisks 100 and 101: # -) Link disk # -) Enable disk # -) Copy disk #+--------------------------------------------------------------------------+ { echo \"Linking source and target 100 disks ...\" CPcmd detach 1100 CPcmd link $sourceID 100 1100 rr if [ $? != 0 ]; then exit 17; fi CPcmd detach 2100 CPcmd link $targetID 100 2100 mr if [ $? != 0 ]; then exit 18; fi echo \"Copying 100 disks ...\"",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.163896",
+    "chunk_number": 1053,
+    "word_count": 154
+  }
+}

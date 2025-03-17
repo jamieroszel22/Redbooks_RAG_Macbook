@@ -1,0 +1,18 @@
+{
+  "content": "for installation. It is recommended that you read or print these installation instructions in their entirety prior to downloading the products. Once completed, these instructions will direct you to the Program Directory for z/VM Service Delivery Offering for the complete installation instructions. 102 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 STEP 3: VM product material - This link will download the product material to your workstation using either the IBM Download Director or HTTPS. STEP 4: Product Publications - This link takes you to the online publications for your specific order. The number of publications is unique for each order. You may receive some publications hardcopy because they are not available online. STEP 5: Additional Publications - This link will point you to the specific Program Directories for each of the products you ordered. The Program Directory for z/VM System Delivery Offering (SDO) is required for all installations. Depending on what was ordered, you may",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.213776",
+    "chunk_number": 268,
+    "word_count": 155
+  }
+}

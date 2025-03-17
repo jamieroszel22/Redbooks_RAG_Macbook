@@ -1,0 +1,18 @@
+{
+  "content": "FREE , CTCA 47E2 FREE , CTCA 47E3 FREE ===> q 5121 5122 5123 CTCA 5121 FREE , CTCA 5122 FREE , CTCA 5123 FREE 132 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 You now have the real device addresses of the CTCs to add to each SSI member. 5.8.1 Adding the CTC devices dynamically To add the CTC devices dynamically, complete the following steps: 1. Log on to MAINT on the first member. 2. Activate six CTCs on the first member, ITSOZVM1: ===> activate islink 47e1 47e2 47e3 57e1 57e2 57e3 Link device 47E1 activated. Link device 47E2 activated. Link device 47E3 activated. Link device 57E1 activated. Link device 57E2 activated. Link device 57E3 activated. 3. Activate six CTCs on ITSOZVM2: ===> activate islink 4121 4122 4123 5121 5122 5123 Link device 4121 activated. Link device 4122 activated. Link device 4123 activated. Link device 5121 activated. Link device 5122 activated. Link device 5123 activated. When the device is active on both systems, you see a HCPKCL2714I message. You see the added",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.457462",
+    "chunk_number": 319,
+    "word_count": 172
+  }
+}

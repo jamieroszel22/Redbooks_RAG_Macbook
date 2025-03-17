@@ -1,0 +1,18 @@
+{
+  "content": "example environment, the users are LNXSERV1 and LNXMAINT. \u0002 SFS file pools are structured in a tree style and they can contain subdirectories. \u0002 Each user is enrolled (through ENROLL) to be granted access and allocated a certain amount of disk space, similar to Linux user quotas. File pools can be used to provide the equivalent of a 191 (A) disk to z/VM guests. \u0002 File pools can share part of the content among z/VM guests. \u0002 SFS file pools have more granular access controls. They also can ALIAS a file, which is similar to a Linux symbolic link. \u0002 File pools are accessible through CMS only. They are not used as a base for Linux volumes nor are they accessible to Linux by using fusemount. \u0002 For file pool IDs without a VMSYS prefix, SSI indicates that the server must accept a file pool ID connection from outside the processor on which it is running, but only if the request is from another member of the same SSI cluster. \u0002 It is critical that you frequently back up the SFS file pool. Note:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.294686",
+    "chunk_number": 537,
+    "word_count": 184
+  }
+}

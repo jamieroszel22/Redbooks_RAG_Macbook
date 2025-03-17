@@ -1,0 +1,18 @@
+{
+  "content": "LNX4VM LNX4VM This definition gives each Linux virtual machine 256 MB of initial memory (with up to 2 GB dynamic memory) and two 3390-9 disks or about 14 GB of disk space. The AUTOG and POOL1 keywords instruct DirMaint to automatically choose space from the pool of volumes in the pool that is named POOL1. 3. Register the prototype with DirMaint by using the DIRM FILE command: ===> dirm file lnxsampl protodir 10:08:53 PUN FILE 0069 SENT TO DIRMAINT RDR AS 0086 RECS 0012 CPY 001 0 NOHO LD NOKEEP DVHXMT1191I Your FILE request has been sent for processing to DIRMAINT DVHXMT1191I at POKDEV62. DVHREQ2288I Your FILE request for MAINT at * has been accepted. DVHRCV3821I File LNXSAMPL PROTODIR A has been received; RC = 0. DVHREQ2289I Your FILE request for MAINT at * has completed; with RC = 0. 4. Create a virtual machine with the DIRM ADD command and the LIKE parameter. In this example, the user ID is named LINUX8: ===> dirm add linux8 like lnxsampl pw lnx4vm DVHXMT1191I Your ADD request has",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.993409",
+    "chunk_number": 708,
+    "word_count": 176
+  }
+}

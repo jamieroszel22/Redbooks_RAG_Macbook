@@ -1,0 +1,18 @@
+{
+  "content": "of 0.4. This applet version was first available in TKE 8.1. \u0002 KPH smart cards must be at the minimum applet version of 0.4. This applet version was first available in TKE 8.1. Tip: There are a number of TKE videos in the IBM Media Center. The introduction to TKE can be found at https://mediacenter.ibm.com/media/1_csb6z99p For a full list of TKE videos, go to the IBM media center at https://mediacenter.ibm.com/ and search using the key word TKE. 232 IBM z16 A02 and IBM z16 AGZ Technical Guide The current smart card shipped with the features for smart cards or extra smart cards is 00RY790. These smart cards have the strongest Elliptic Curve Cryptography (ECC) levels. Trusted Key Entry (TKE) allows stronger Elliptic Curve Cryptography (ECC) levels. More TKE Smart Cards (FC 0900, packs of 10, FIPS certified blanks) require TKE 9.1 LIC or up. 6.6.3 TKE hardware support and migration information The new TKE 10.0 LIC (FC 0882) is originally shipped with a new IBM z16 A02 and IBM z16 AGZ",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.480806",
+    "chunk_number": 575,
+    "word_count": 171
+  }
+}

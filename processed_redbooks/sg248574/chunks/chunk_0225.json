@@ -1,0 +1,18 @@
+{
+  "content": "tasks, such as content generation, dynamic interaction with users, or collaborative reasoning. In a software-based MAS, each agent operates autonomously while adhering to predefined protocols for communication and collaboration. This autonomy enables agents to handle tasks like distributed resource management, adaptive problem-solving, and even creative endeavors, such as generating ideas, plans, or personalized user experiences. Gen AI further amplifies their function by enabling natural language generation, image synthesis, and decision-making support, which enhances the agents' ability to interpret, reason, and produce outputs in real time. A key challenge in software-based MASs, particularly ones that leverage gen AI, is achieving effective inter-agent communication and collaboration. Protocols that are based on message-passing, such as JSON over RESTful APIs or advanced graph-based communication models, help ensure that agents can share knowledge, negotiate responsibilities, and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.089405",
+    "chunk_number": 225,
+    "word_count": 131
+  }
+}

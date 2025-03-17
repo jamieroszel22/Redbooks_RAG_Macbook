@@ -1,0 +1,18 @@
+{
+  "content": "determine whether any FIXCAT APARs exist that are applicable and are not yet installed, and whether any SYSMODs are available to satisfy the missing FIXCAT APARs. For more information about IBM Fix Category Values and Descriptions, see the IBM Fix Category Values and Descriptions page of the IBM IT infrastructure website. 7.5.3 z/OS V2.R5 IBM z/OS, Version 2 Release 5 has been announced July 27, 2021. One of the highlights of this release is the support of 16TB real memory per z/OS image. This allows new workloads which require more storage than is currently available. Further details of this release are available in the announcement letter. 7.5.4 z/OS V2.R4 IBM z/OS, Version 2 Release 4, was made generally available on September 30, 2019. This release delivers innovation through an agile, optimized, and resilient platform that helps companies build applications and services based on a highly scalable and secure Attention: PSP Bucket should not be used to find PTF support for IBM z16",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.247429",
+    "chunk_number": 775,
+    "word_count": 162
+  }
+}

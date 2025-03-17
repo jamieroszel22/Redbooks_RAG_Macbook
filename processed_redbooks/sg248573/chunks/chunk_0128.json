@@ -1,0 +1,18 @@
+{
+  "content": "the generation of hate speech, abuse, profanity (HAP), pirated content, malware, and other undesirable outputs. To evaluate foundation models, a data scientist should compare the foundation model to be onboarded with current state-of-the-art models using a wide range of standard benchmark evaluations across top-level categories, such as: \u0002 human exams (MMLU, MMLU-Pro (Wang, 2024)) \u0002 common sense (OBQA, SIQA), \u0002 reading comprehension (BoolQ, SQuAD 2.0), \u0002 reasoning (ARC-C, GPQA), \u0002 code (HumanEval), \u0002 math (GSM8K), 1 Bommasani, R. K. (2024). The Foundation Model Transparency Index v1.1 May2024. arXiv preprint. Chapter 4. Onboarding a new foundation model 43 \u0002 Hugging Face's Open LLM leaderboards Additionally, it is important to evaluate for different functions such as tool calling, RAG patterns, and other target domains specific to organizational use-cases, as discovered and discussed by data scientists or AI Center of Excellence or Enterprise AI team. 4.1.3 Model security and",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.929525",
+    "chunk_number": 128,
+    "word_count": 146
+  }
+}

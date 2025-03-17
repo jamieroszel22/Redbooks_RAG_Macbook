@@ -1,0 +1,18 @@
+{
+  "content": "and key pairs are hosted on the IBM z16 HMC. The following FTP server requirements must be met: \u0002 Passive data connections are supported \u0002 A server configuration is available that allows the client to connect on an ephemeral port The following FTPS server requirements must be met: \u0002 Operates in \u201cexplicit\u201d mode \u0002 Allows a server to offer secure and unsecured connections \u0002 Supports passive data connections \u0002 Supports secure data connections The SFTP server must support password-based authentication. The file transfer server choices for HMC are shown in Figure 10-20. Figure 10-20 FTP protocol choices FTP through HMC It is recommended to keep the HMCs and SEs on an isolated network. This approach prevents SEs from starting FTP connections with outside networks. It also applies to all supported file transfer protocols (FTP, FTPS, and SFTP). Chapter 10. Hardware Management Console and Support Element 427 All FTP connections that originate from the SE are taken to the HMC. Secure FTP server",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.941855",
+    "chunk_number": 989,
+    "word_count": 162
+  }
+}

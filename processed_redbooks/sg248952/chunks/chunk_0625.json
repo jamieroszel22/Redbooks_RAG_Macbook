@@ -1,0 +1,18 @@
+{
+  "content": "HiperSockets devices requires the keyword VCHID. If you are migrating from a zEC12 or earlier, the IBM z16 A02 and IBM z16 AGZ IOCP definitions must be migrated to support the HiperSockets definitions (from CHPID type IQD). VCHID specifies the virtual channel identification number that is associated with the channel path (valid range is 7C0 - 7FF) d. Shared Memory Communications - Direct Memory Access. e. Does not require a peer OSA. f. CHPID types OSM, OSN, OSX are no longer supported g. Statements of Direction: IBM z16 A02 and IBM z16 AGZ server generation will be the last IBM Z server to support OSA Express 1000BASE-T hardware adapters h. Require PTFs for APARs OA55256 (IBM VTAM\u00ae) and PI95703 (TCP/IP). i. Statements of Direction: IBM z16 A02 and IBM z16 AGZ will be the last IBM Z server to support the OSE CHPID type Functiona VSEn V6R3 z/TPF V1R1 Linux on IBM Zb Checksum offload for IPV6 packets N N Y Checksum offload for LPAR-to-LPAR traffic with IPv4 and IPv6 N N Y QDIO",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.699252",
+    "chunk_number": 625,
+    "word_count": 174
+  }
+}

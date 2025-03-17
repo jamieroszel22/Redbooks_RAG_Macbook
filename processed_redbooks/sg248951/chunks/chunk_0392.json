@@ -1,0 +1,18 @@
+{
+  "content": "number \u0002 Port number of the channel feature OSA-Express6S 1000BASE-T Ethernet 0426 N Y PCIe+ Gen3 fan-outa 0175 Y Y Integrated Coupling Adapter (ICA SR1.1)b 0176 Y Y Integrated Coupling Adapter (ICA SR)b 0172 N Y Coupling Express2 LR 0434 Y N/A Crypto Express8S (dual HSM) 0908 Y N/A Crypto Express8S (single HSM) 0909 Y N/A Crypto Express7S (2 ports) 0898 N Y Crypto Express7S (1 port) 0899 N Y Crypto Express6S 0893 N Y 25 GbE RoCE Express3 SR 0452 Y N/A 25 GbE RoCE Express3 LR 0453 Y N/A 10 GbE RoCE Express3 SR 0440 Y N/A 10 GbE RoCE Express3 LR 0441 Y N/A 25 GbE RoCE Express2.1 0450 N Y 25 GbE RoCE Express2 0430 N Y 10 GbE RoCE Express2.1 0432 N Y 10 GbE RoCE Express2 0412 N Y zHyperLink Express1.1 0451 Y Y zHyperLink Express 0431 N Y a. Installed in the CPC Drawer; provides connectivity for the PCIe+ I/O Drawer. b. Installed in the CPC Drawer; provides coupling connectivity (short distance: up to 150m). Coupling links connectivity support: Consider the following points: \u0002 z13 and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.769272",
+    "chunk_number": 392,
+    "word_count": 183
+  }
+}

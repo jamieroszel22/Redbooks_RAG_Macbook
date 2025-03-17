@@ -1,0 +1,18 @@
+{
+  "content": "Combine multiple policies to create complex access rules. \u0002 Auditable: Make policies easy to review and update as requirements change. Managing group membership and hierarchical structures Dynamic and hierarchical group structures reduce administrative complexity and help enable the lakehouse to scale as new users join, projects evolve, or regulations change. Automated tools for creating and maintaining these groups help ensure that group memberships reflect real-time user statuses and requirements. Challenges and considerations While user and group management offers many benefits, it also poses challenges in complex environments. Consider the following items: \u0002 Data sensitivity and compliance: Implement strict policies for sensitive data to comply with industry regulations (for example, GDPR and HIPAA). \u0002 Scalability: Ensure that attribute-based policies are scalable and can handle high volumes of users and attributes. \u0002 Policy management: Regularly audit and refine policies to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.832792",
+    "chunk_number": 127,
+    "word_count": 138
+  }
+}

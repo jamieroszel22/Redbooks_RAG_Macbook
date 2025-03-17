@@ -1,0 +1,18 @@
+{
+  "content": "on watsonx.ai. Figure 3-4 Synthetic Data Generator on IBM watsonx.ai Data Refinery Data Refinery is a no-code tool that you can use to prepare and visualize data without writing any code. With this tool, you can prepare the data for analysis by applying operations such as filters and aggregations, and you can generate visualizations such as pie charts and bar charts to extract insights and share findings with stakeholders. Figure 3-5 shows an example of a Data Refinery flow on watsonx.ai. Figure 3-5 Data Refinery flow on IBM watsonx.ai 24 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai Prompt Lab Prompt Lab is a tool in IBM watsonx.ai that you can use to experiment with prompting different FMs, and create and share effective prompts to submit to deployed FMs for inferencing. Prompt Lab is a no-code tool that provides AI engineers with three different edit modes for prompt editing: Chat, Structured, and Freeform. This flexibility enables novice and experienced",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.468989",
+    "chunk_number": 87,
+    "word_count": 163
+  }
+}

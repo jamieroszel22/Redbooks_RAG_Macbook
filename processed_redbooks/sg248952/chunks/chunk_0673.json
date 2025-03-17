@@ -1,0 +1,18 @@
+{
+  "content": "verified, the process of booting the operating system is stopped. The Secure Boot feature requires OS support (z/OS and Linux on IBM Z). IBM Integrated Accelerator for zEnterprise Data Compression The IBM Integrated Accelerator for zEnterprise Data Compression (zEDC) is implemented as on-chip data compression accelerator; that is, Nest Compression Accelerator (NXU) and designed to support Deflate/gzip/zlib algorithms. For more information, see Appendix C, \u201cIBM Integrated Accelerator for zEnterprise Data Compression\u201d on page 477). Each PU chip has one on-chip compression unit, which is designed to replace the zEnterprise Data Compression (zEDC) Express PCIe feature available on IBM z14and earlier. The zEDC Express feature available on older systems is NOT carried forward to IBM z16 A02 and IBM z16 AGZ. The IBM Integrated Accelerator for zEDC maintains software compatibility with existing zEDC Express use cases. For more information, see Integrated Acceleratorfor zEnterprise Data",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.877173",
+    "chunk_number": 673,
+    "word_count": 143
+  }
+}

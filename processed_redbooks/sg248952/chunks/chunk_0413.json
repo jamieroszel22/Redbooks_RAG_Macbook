@@ -1,0 +1,18 @@
+{
+  "content": "feature does not support auto-negotiation to any other speed and runs in full duplex mode only. Chapter 4. I/O structure 165 A 50 \u00b5m multimode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature to the selected device. OSA-Express7S 1.2 25GbE LR (FC 0460) The OSA-Express7S 1.2 25Gigabit Ethernet (GbE) Long Reach (LR) feature includes one PCIe Gen3 adapter and one port per feature. The port supports CHPID types OSD. The 25GbE feature is designed to support attachment to a single-mode fiber 25 Gbps Ethernet LAN or Ethernet switch that is capable of 25Gbps. The port can be defined as a spanned channel and can be shared among LPARs within and across logical channel subsystems. The OSA-Express7S 1.2 25GbE LR feature supports the use of an industry standard small form factor (SFP+) LC Duplex connector. Ensure that the attaching or downstream device includes an LR transceiver. The transceivers at both ends must be the same (LR to LR).",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.832723",
+    "chunk_number": 413,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "LOGOFF versus DISCONNECT\u201d on page 31 \u0002 1.10, \u201cSummary of Linux and z/VM similarities\u201d on page 32 1 14 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 1.1 Basic concepts IBM z/VM is a highly secure and scalable hypervisor and virtualization technology for cloud infrastructure and for running critical applications. IBM z/VM supports the Linux operating systems on IBM Z and LinuxONE servers. In this section, we describe the concepts of virtualization and cloud computing. Virtualization Virtualization is the ability of a computer system to share resources so that one physical server machine can act as many virtual servers. Unlike other hardware platforms, IBM Z and IBM LinuxONE operate on virtualized hardware by default, which results in incredible performance and efficiency. Virtualization is the way to consolidate the amount of hardware, floor space, and energy consumption in the data center. It also simplifies the procedures to provide reliable, highly available, and seamless",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.436451",
+    "chunk_number": 79,
+    "word_count": 151
+  }
+}

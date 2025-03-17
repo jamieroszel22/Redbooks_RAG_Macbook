@@ -1,0 +1,18 @@
+{
+  "content": "0500 : 1200/08) 1=Help 2=All 3=Quit 4=Exception 5=Status 6=Build 7=Backward 8=Forward 9=OutCompRq 10=Non-Stat 11=Requisite 12=Severe ====> At the bottom of Example 9-13 on page 287, you can see the VMFUTL2205I messages that show the directory assignments for that stage of the service process. You also can see all of the standard VMSES/E aliases, such as APPLY, DELTA, LOCALMOD, and BUILDx. This result shows part of how VMCSM works: it creates an \u201cimage\u201d of what an installed system looks like within directories in VMPSFS, and then applies service to that image in the same way that service is applied to a live system. However, before the service level can be used for a system, we also must include the VMCSM PTF to the service level by using following command: servmgr srvlvl service 720 rsu1 all vmcsm Chapter 9. z/VM Centralized Service Management 289 We found that the PTF did not complete in a single run and required a restart (just as it did on the live systems). Our result is shown in",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.728209",
+    "chunk_number": 636,
+    "word_count": 171
+  }
+}

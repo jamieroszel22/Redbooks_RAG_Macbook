@@ -1,0 +1,18 @@
+{
+  "content": "customer and transaction data must comply with regulatory requirements. Certain data sets are sensitive and need restricted access. For example, customer financial records are accessible only to users who work in specific regions and departments (for example, North American finance employees) and who have completed the required training. Using ABAC, the company defines attributes such as Department, Region, and Training Status and creates policies that enforce these attributes. Access to sensitive data is granted only if all conditions are met, which provides flexibility in assigning access without creating an excessive number of roles. Dynamic group membership Dynamic group membership enables the automatic assignment of users to groups based on specific attributes or conditions. Unlike static groups, where users are manually added or removed, dynamic groups are updated in real time, which helps ensure that access rights reflect the status of each user. Business use case: Dynamic",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.818941",
+    "chunk_number": 123,
+    "word_count": 146
+  }
+}

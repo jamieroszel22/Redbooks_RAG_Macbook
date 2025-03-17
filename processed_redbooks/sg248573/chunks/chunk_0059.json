@@ -1,0 +1,18 @@
+{
+  "content": "organizations to conduct a thorough assessment and review of the foundation model before adopting it for their own use. Chapter 4, \u201cOnboarding a new foundation model\u201d on page 41 describes the governance considerations when bringing in these externally developed models. Chapter 1. Challenges and opportunities in AI governance 11 These multi-purpose foundation models also spur on your technology providers to embed more and more AI in any enterprise applications that an organization might use. Chapter 4, \u201cOnboarding a new foundation model\u201d on page 41 describes the governance considerations for AI embedded in business applications. Another trend to watch is the prebuilt AI capabilities in devices such as laptops and smartphones. 1.3.4 Regulatory and risk complexity is increasing In this section we review regulatory compliance management and operational risk management. Regulatory compliance management The AI regulatory space is very dynamic: There are many AI-specific legislations in",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.653488",
+    "chunk_number": 59,
+    "word_count": 145
+  }
+}

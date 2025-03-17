@@ -1,0 +1,18 @@
+{
+  "content": ", 00155 Vdisk Userlim 144000 blocks, 00156 Disconnect_Timeout 15, Chapter 6. Configuring z/VM 147 00157 00158 Enable , 00159 New_Devices_Initialized_When_Added, 00160 Clear_TDisk , 00161 00162 Disable , 00163 Set_Privclass , 00164 Auto_Warm_IPL , 00165 Validate_Shutdown , 00166 STP_Timezone , 00167 Paging_Alias , 00168 Paging_HPF c. Under the RETRIEVE stanza, change Default 20 to the following value: Default 99 d. Set the Disconnect_Timeout to off so that disconnected IDs do not get forced off. e. Update the amount of time you want to give to z/VM and to Linux servers before a z/VM shutdown is completed. To find the shutdown time, run the following command: ====> /ShutdownTime Update the Shutdowntime amount to 60 by typing over the current value. Update the Signal ShutdownTime to 300 by typing over the current value (see Example 6-5): Example 6-5 Shutdowntime and Signal Shutdowntime values /**********************************************************************/ /* Set Shutdown time",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.557505",
+    "chunk_number": 347,
+    "word_count": 145
+  }
+}

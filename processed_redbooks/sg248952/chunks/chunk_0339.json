@@ -1,0 +1,18 @@
+{
+  "content": "TB 16 GB 8 TB < main storage amount </= 16 TB 32 GB 16 TB < main storage amount </= 32TB 64 GB 130 IBM z16 A02 and IBM z16 AGZ Technical Guide With dynamic storage reconfiguration, the unused storage does not have to be continuous. When an operating system running on an LPAR assigns a storage increment to its configuration, PR/SM determines whether any free storage increments are available. PR/SM then dynamically brings the storage online. PR/SM dynamically takes offline a storage increment and makes it available to other partitions when an operating system running on an LPAR releases a storage increment. 3.8 Intelligent Resource Director Intelligent Resource Director (IRD) is an IBM Z capability that is used only by z/OS. IRD is a function that optimizes processor and channel resource utilization across LPARs within a single IBM Z server. This feature extends the concept of goal-oriented resource management. It does so by grouping system images that are on the same z16 or Z servers",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.541022",
+    "chunk_number": 339,
+    "word_count": 167
+  }
+}

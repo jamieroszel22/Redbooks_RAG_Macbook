@@ -1,0 +1,18 @@
+{
+  "content": "PF12 RETRIEVE BACKWARD PF24 RETRIEVE BACKWARD Profile..: Setting minidisk environment workspace... DMSACC724I 191 replaces A (191) DMSACP723I E (591) R/O DMSACP723I F (592) R/O Profile..: Setting up BFS environment... Profile..: Determining what is currently mounted... Nothing is mounted Profile..: Mounting root file system... Profile..: Mounting GSKSSLDB file space at: /etc/gskadm/ Profile..: Setting working directory to: /etc/gskadm/ Profile..: (for direct access to key database files)... Profile..: Checking mounts... Mount point = '/etc/gskadm' Type Stat Mounted BFS R/W '/../VMBFS:VMSYS:GSKSSLDB/' Mount point = '/' Type Stat Mounted BFS R/W '/../VMBFS:VMSYS:ROOT/' Profile..: Checking current directory content... DMSOVK1229E /etc/gskadm is empty Profile..: Setup complete; Environment prepared for use of GSKKYMAN Ready; 19.Clear your panel and then, run the GSKKYMAN utility. At the top-level menu, select Create new database and respond to the prompts, as shown in Figure 6-17 on page",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.237114",
+    "chunk_number": 523,
+    "word_count": 135
+  }
+}

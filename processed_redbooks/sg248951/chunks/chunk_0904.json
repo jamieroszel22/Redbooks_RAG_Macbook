@@ -1,0 +1,18 @@
+{
+  "content": "concurrent without a system outage. As an extension to the RAS capabilities, environmental controls are implemented in the system to help reduce power consumption and meet cooling requirements. This chapter includes the following topics: \u0002 \u201cRAS strategy\u201d on page 380 \u0002 \u201cTechnology\u201d on page 380 \u0002 \u201cStructure\u201d on page 385 \u0002 \u201cReducing complexity\u201d on page 386 \u0002 \u201cReducing touches\u201d on page 386 \u0002 \u201cIBM z16 availability characteristics\u201d on page 387 \u0002 \u201cIBM z16 RAS functions\u201d on page 390 \u0002 \u201cEnhanced drawer availability\u201d on page 394 \u0002 \u201cConcurrent Driver Maintenance\u201d on page 402 \u0002 \u201cRAS capability for the HMA and SE\u201d on page 404 9 Note: Throughout this chapter, IBM z16 refers to IBM z16 Model A01 (Machine Type 3931). 380 IBM z16 (3931) Technical Guide 9.1 RAS strategy The RAS strategy is to manage change by learning from previous generations and investing in new RAS function to eliminate or minimize all sources of outages. Enhancements that were introduced with IBM z15 RAS designs are implemented on",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.662558",
+    "chunk_number": 904,
+    "word_count": 166
+  }
+}

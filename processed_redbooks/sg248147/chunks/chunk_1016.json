@@ -1,0 +1,18 @@
+{
+  "content": "/*+------------------------------------------------------------------+*/ Arg dasd /* Create a list of reserved virtual DASD addresses. */ /* Ensure that a system minidisk is not formatted. */ resvd = '122 123 124 190 191 193 19D 19E 2CC 401 402 990 CF1 CF3 CFD' If 'POS'(resvd,dasd) <> 0 Then Do /* MAINT minidisk - ABORT! */ Say 'Minidisk' dasd 'is a reserved MAINT minidisk' Say 'This must be formatted manually using a different vaddr.' Exit 4 End /* If dasd is reserved */ Return /* from checkReserved */ /*+------------------------------------------------------------------+*/ doReport: Procedure Expose dasds formatted /*| Report on the newly labelled DASD |*/ /*| parm 1: formatSuccess - 0=all is well, non-0= a format failed |*/ /*| retVal: 0 = success |*/ /*+------------------------------------------------------------------+*/ Arg formatSuccess If formatSuccess <> 0 Then Say 'Error was encountered! retVal from CPFMTXA =' formatSuccess If formatted = '' Then Say 'No DASD were",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.050436",
+    "chunk_number": 1016,
+    "word_count": 143
+  }
+}

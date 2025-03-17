@@ -1,0 +1,18 @@
+{
+  "content": "predicted branch is high. Therefore, a multi-pronged strategy for branch prediction is implemented on each core based on gathered branch history that is combined with other prediction mechanisms. The BHT (Branch History Table) implementation on processors provides a large performance improvement. Originally introduced on the IBM ES/9000 9021 in 1990, the BHT is continuously improved. It offers significant branch performance benefits. The BHT allows each PU to take instruction branches that are based on a stored BHT, which improves processing times for calculation routines. In addition to the BHT, IBM z16 servers use the following techniques to improve the prediction of the correct branch to be run: \u0002 BTB \u0002 PHT \u0002 CTB The success rate of branch prediction contributes significantly to the superscalar aspects of IBM z16 processor. This success is because the architecture rules prescribe that the correctly predicted result of the branch is essential for successful parallel execution of an",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.142309",
+    "chunk_number": 243,
+    "word_count": 153
+  }
+}

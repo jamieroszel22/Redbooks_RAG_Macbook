@@ -1,0 +1,18 @@
+{
+  "content": "Duplex connectors \u0002 FICON Express16S+ SX feature, FC 0428, with two ports per feature, supporting LC Duplex connectors For more information, see the FICON Express chapter IBM Z Connectivity Handbook, SG24-5444. FICON features and built in functions Together with the FICON Express32S and FICON Express16S+, IBM z16 A02 and IBM z16 AGZ provide enhancements for FICON in functional and performance aspects with IBM Endpoint Security solution. IBM Fibre Channel Endpoint Security IBM z16 A02 and IBM z16 AGZ support IBM Fibre Channel Endpoint Security feature (FC 1146). FC 1146 provides FC/FCP link encryption and endpoint authentication. It is an end-to-end solution that helps ensure all data flowing on the Fiber Channel links within and across datacenters flows between trusted entities.This is an optional priced feature which requires the following: \u0002 FICON Express32S for both link encryption and endpoint authentication \u0002 FICON Express16S for endpoint authentication \u0002 Select DS8000 storage",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.764317",
+    "chunk_number": 397,
+    "word_count": 149
+  }
+}

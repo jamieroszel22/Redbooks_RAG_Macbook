@@ -1,0 +1,18 @@
+{
+  "content": "Technical Guide On/Off CoD can provide CP temporary capacity in two ways: \u0002 By increasing the number of CPs. \u0002 For sub-capacity models, capacity can be added by increasing the number of CPs, changing the sub-capacity setting of the CPs, or both. If the On/Off CoD is adding CP resources that have a capacity setting different from the installed CPs, the base capacity settings are changed to match. On/Off CoD includes the following limits that are associated with its use: \u2013 The number of CPs cannot be reduced. \u2013 The target configuration capacity is limited to these amounts: \u2022 Twice the currently installed capacity, expressed in MSUs for CPs. \u2022 Twice the number of installed IFLs, ICFs, and zIIPs. Up to eight SAPs can be activated. For more information, see 8.3.1, \u201cPU Capacity feature upgrades\u201d on page 334. On/Off CoD can be ordered as prepaid or postpaid. A prepaid On/Off CoD offering record contains resource descriptions, MSUs, specialty engines, and tokens that describe the total",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.495536",
+    "chunk_number": 849,
+    "word_count": 165
+  }
+}

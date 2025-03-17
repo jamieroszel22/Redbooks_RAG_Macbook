@@ -1,0 +1,18 @@
+{
+  "content": "available for managing IBM z16 A02 and IBM z16 AGZ that are running Linux. DPM 5.0 is available with HMC Driver Level 51 (HMC Version 2.16.0). IOCP does not need to configure a server that is running in DPM mode. For more information, see IBM Dynamic Partition Manager (DPM) Guide, SB10-7182. Chapter 7. Operating system support 265 PR/SM on IBM z16 A02 and IBM z16 AGZ preferentially assigns memory for a system in one CPC drawer that is striped across the DCMs of that drawer to take advantage of the lower latency memory access in a drawer. Also, PR/SM tries to consolidate storage onto drawers with the most processor entitlement. With HiperDispatch enabled, PR/SM seeks to assign logical processors of a partition to the smallest number of PU chips within a drawer in cooperation with operating system to optimize shared cache usage. PR/SM automatically keeps a partition\u2019s memory and logical processors on the same CPC drawer where possible. This arrangement looks simple for a partition, but",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.770575",
+    "chunk_number": 643,
+    "word_count": 166
+  }
+}

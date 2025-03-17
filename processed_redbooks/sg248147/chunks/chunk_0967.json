@@ -1,0 +1,18 @@
+{
+  "content": "PATH=/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/ usr/local/gsa/bin:/Applications/VMwareFusion.app/Contents/Public:/opt/X11/bin:/Lib rary/Apple/usr/bin:/Users/pwnovak/bin:/usr/local/gsa LaunchInstanceID=A116603C-\u2026 PWD=/Users/pwnovak/.ssh DBUS_LAUNCHD_SESSION_BUS_SOCKET=/private/tmp/com.apple.launchd. \u2026 LANG=en_US.UTF-8 XPC_FLAGS=0x0 HISTIGNORE=&:ls:ls -al:lsa:cd ~:cd ..:[bf]g:exit:h:history:history | grep[.*] HISTCONTROL=ignoreboth:erasedups XPC_SERVICE_NAME=0 HOME=/Users/pwnovak SHLVL=1 LOGNAME=pwnovak PKG_CONFIG_PATH=/usr/local/opt/icu4c/lib/pkgconfig DISPLAY=/private/tmp/com.apple.launchd.FWjZwL5eYF/org.macosforge.xquartz:0 SECURITYSESSIONID=\u2026 _=/usr/bin/env OLDPWD=/Users/pwnovak You can run the following command at a command-line prompt to see whether your ID and HOME directory are set up in your environment variables: echo \u201cMy account is \u2018$ID\u2019 and the home directory for it is \u2018$HOME\u2019...\u201d If you discover that the subdirectory ~/.ssh (also",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.867413",
+    "chunk_number": 967,
+    "word_count": 71
+  }
+}

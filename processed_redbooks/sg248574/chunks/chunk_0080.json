@@ -1,0 +1,18 @@
+{
+  "content": "fine-tuning models for a specific use case, and managing the cost to implement and maintain an AI solution. IBM watsonx.ai helps AI engineers overcome these challenges in a few ways, starting with the foundation model (FM) library that is provided by IBM. This library includes a diverse selection of AI models, such as the following ones: \u0002 IBM trained models (the Granite and Slate model series) \u0002 IBM selected open-source models through Hugging Face \u0002 Third-party models such as llama and mixtral Teams can choose among many different FMs for their use case, and choose a model that is best suited for their use case. Teams are not locked into one specific vendor or model series. Also, for more advanced AI engineers, they can upload and deploy their own FMs. With watsonx.ai, there are different ways for AI engineers to work with models. The Prompt Lab tool in watsonx.ai enables AI engineers to write effective prompts (by using a GUI) to deploy to FMs for inferencing. For individuals who",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.441809",
+    "chunk_number": 80,
+    "word_count": 169
+  }
+}

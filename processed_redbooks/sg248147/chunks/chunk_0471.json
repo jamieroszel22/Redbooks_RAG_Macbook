@@ -1,0 +1,18 @@
+{
+  "content": "represents a subset of CP commands that the system permits the user to enter. Each privilege class, sometimes called CP privilege class, is defined around a particular job or set of tasks, which creates an area outside of which the user cannot go. It is common for a user to be assigned to more than one CP privilege class. Users cannot enter commands in privilege classes to which they are not assigned. 0347 PEEK A0 V 80 Trunc=80 Size=16 Line=0 Col=1 Alt=0 File IBMDFLT DIRECT from DIRMAINT at ENDVM363 Format is NETDATA. * * * Top of File * * * PROFILE IBMDFLT ... CONSOLE 0009 3215 T ... SPOOL 000C 2540 READER * ... SPOOL 000D 2540 PUNCH A ... SPOOL 000E 1403 A ... LINK MAINT 0190 0190 RR * CMS SYSTEM DISK ... LINK MAINT 019D 019D RR * HELP DISK ... LINK MAINT 019E 019E RR * PRODUCT CODE DISK ... LINK MAINT 0402 0402 RR ... LINK MAINT 0401 0401 RR ... *DVHOPT LNK0 LOG1 RCM1 SMS0 NPW1 LNGAMENG PWC20140227 CRC\"\u2022 ... DVHREV3356I The following are your user option settings: DVHREV3356I Links",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.038723",
+    "chunk_number": 471,
+    "word_count": 187
+  }
+}

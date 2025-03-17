@@ -1,0 +1,18 @@
+{
+  "content": "organizations struggle to overcome the numerous hurdles that are associated with AI model development and deployment. Here are some of the key challenges: \u0002 Data quality and availability: AI models require vast amounts of high-quality, relevant, and diverse data to learn, train, and validate. However, many organizations face challenges in collecting, processing, and integrating data from disparate sources, which can lead to issues with data quality, consistency, and availability. Furthermore, data privacy and security concerns can limit access to sensitive data, which can hinder the development of accurate and reliable AI models. \u0002 Model complexity and interpretability: As AI models become increasingly complex, they can be difficult to interpret and understand, which makes it challenging to identify biases, errors, or flaws in the decision-making process. The lack of transparency and explainability in AI models can lead to mistrust, regulatory issues, and reputational damage.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.299794",
+    "chunk_number": 41,
+    "word_count": 143
+  }
+}

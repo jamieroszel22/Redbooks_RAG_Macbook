@@ -1,0 +1,18 @@
+{
+  "content": "defining user roles and organizing them into groups becomes essential for efficient access control and compliance. In IBM watsonx.data, users represent individual team members, such as data scientists, engineers, and analysts, each with specific roles and permissions that are tailored to their responsibilities. Grouping these users based on their functional roles enables administrators to streamline permissions management, which helps ensure that data is accessible only to those users who require it while maintaining security standards. IBM watsonx.data facilitates this organization by enabling administrators to assign permissions and privileges to both users and groups. This approach simplifies the process of managing data access in large teams, and enables the enforcement of consistent security practices across the organization. By using user and group structures, IBM watsonx.data empowers organizations to protect their data assets, foster collaboration, and ensure compliance within",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.804147",
+    "chunk_number": 120,
+    "word_count": 137
+  }
+}

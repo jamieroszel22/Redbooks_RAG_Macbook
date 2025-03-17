@@ -1,0 +1,18 @@
+{
+  "content": "are subject to change or withdrawal without notice at the sole discretion of IBM. Information regarding potential future products is intended to outline general product direction and should not be relied on in making a purchasing decision. Chapter 3. Central processor complex design 101 For more information about software level support of functions and features, see Chapter 7, \u201cOperating system support\u201d on page 243. Concurrent upgrades For all IBM z16 A02 and IBM z16 AGZ features that have more processor units (PUs) installed (non-characterized) than activated, concurrent upgrades can be done by using LIC activation. This activation assigns a PU function to a previously non-characterized PU. No hardware changes are required. The upgrade can be done concurrently through the following facilities: \u0002 Customer Initiated Upgrade (CIU) for permanent upgrades \u0002 On/Off Capacity on Demand (On/Off CoD) for temporary upgrades \u0002 Capacity BackUp (CBU) for temporary upgrades \u0002 Capacity for Planned",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.211803",
+    "chunk_number": 263,
+    "word_count": 150
+  }
+}

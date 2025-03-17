@@ -1,0 +1,18 @@
+{
+  "content": "z/VM page disks, add up all of the maximum real storage and VDisks, plus reserve. That amount also must be available as real memory to the LPAR, plus page space. One recommended rule is to have as few VMs logged on (or in a disconnected state) as possible to handle the workload that is presented. Every VM that is not required needs to be logged off where suitable because more memory is available for the other VMs that remain running. 50 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 2.6.3 Global aging list In the unusual situation where your CPC has an abundance of unassigned memory and you can assign enough initial storage to your LPAR to fit your intended z/VM workload entirely into central storage, run with a small global aging list and with global aging list early writes disabled. In all other situations, use the IBM recommendation to run the system with the default global aging list size. For the environment that is described in this book, the default is used. The global aging list",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.820909",
+    "chunk_number": 167,
+    "word_count": 176
+  }
+}

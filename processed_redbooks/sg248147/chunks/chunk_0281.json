@@ -1,0 +1,18 @@
+{
+  "content": "the load in memory of z/VM. Then, you can decide which of the following types of installations is better for you: \u0002 First-level VMSSI installation of z/VM from DVD or FTP server onto 3390 DASD (highly recommended at least with one VMSSI member only) \u0002 First-level Non-SSI installation of z/VM from DVD or FTP server onto 3390 DASD Tip: For more information, see the following topics at this web page: \u0002 Important z/VM Installation News \u0002 z/VM Installation Tips \u0002 Preventive Service Planning (PSP) bucket for z/VM 720 installation. Chapter 5. Installing z/VM 111 5.4 Starting the z/VM installation An example of the main menu in tree view mode is shown in Figure 5-7. To change between the two HMC views, select Tasks Index on the left; then, select User Settings on the right, and then, select UI Style. Figure 5-7 HMC tree view 5.4.1 Logging on to HMC To begin the z/VM installation, complete the following steps: 1. Log on to the HMC. You need physical access to the console or a URL for the web",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.264852",
+    "chunk_number": 281,
+    "word_count": 177
+  }
+}

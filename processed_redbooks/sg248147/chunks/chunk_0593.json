@@ -1,0 +1,18 @@
+{
+  "content": "files with SHIPDOCS.pax.Z and SHIPFTSS.pax.Z extension are available. This new packing format can be extracted by using the DETERSE command. 7. Send all files to z/VM in binary with fixed 1024-byte records to the MAINT 500 disk. Usually, FTP is used. While you are downloading the files, note the file sizes. The following example shows a Windows command-line FTP session: C:\\downloads> ftp 9.10.11.12 User (9.10.11.12:(none)): maint720.by.adm123 Password: ... ftp> cd maint720.500 250 Working directory is MAINT720 500 ftp> bin 200 Representation type is IMAGE. ftp> quote site fix 1024 200 Site command was accepted. ftp> mput *.pax.Z 150 Storing file 'S00001.SHOPZ.S12345678.SHIPDOCS.pax.Z' 250 Transfer completed successfully. ftp: 6144 bytes sent in 0.00Seconds 6144000.00Kbytes/sec. mput S1041690.SHIPTFSS? y 150 Storing file 'S00001.SHOPZ.S12345678.SHIPFTSS.pax.Z' 250 Transfer completed successfully. ftp: 10240 bytes sent in 0.00Seconds 10240000.00Kbytes/sec. ftp> quit 8. Log on to z/VM as",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.538215",
+    "chunk_number": 593,
+    "word_count": 138
+  }
+}

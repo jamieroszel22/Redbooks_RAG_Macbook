@@ -1,0 +1,18 @@
+{
+  "content": "Cloud Object Storage bucket in IBM Cloud. In this section, the data engineer identifies the location of the marketing campaign data and configures the necessary access with needed permissions, configures the storage and catalog in IBM watsonx.data, connects to the query engines in IBM watsonx.data, creates a schema in the catalog, and ingests data from the Cloud Object Storage bucket. 8.2.1 Locating the marketing campaign data The data engineer talks with the application team that generated the marketing campaign data and finds that the data that is needed for analysis is stored in an IBM Cloud Object Storage bucket on IBM Cloud. To find that data, the data engineer completes the following steps: 1. The data engineer navigates to the IBM Cloud Object Storage bucket by selecting IBM Cloud \u2192 Resource List \u2192 Storage \u2192 Cloud Object Storage, as shown in Figure 8-1 on page 103. Chapter 8. Marketing campaign analysis use case 103 Figure 8-1 Cloud Object Storage 2. Then, the data engineer",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.180161",
+    "chunk_number": 219,
+    "word_count": 164
+  }
+}

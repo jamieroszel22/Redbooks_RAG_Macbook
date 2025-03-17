@@ -1,0 +1,18 @@
+{
+  "content": "and use it with common Data Center Infrastructure Management (DCIM) tools. 430 IBM z16 A02 and IBM z16 AGZ Technical Guide 10.5.7 Capacity on-demand support All capacity on demand (CoD) upgrades are performed by using the Perform a Model Conversion task on the HMC or SE. Use the task to retrieve and activate a permanent upgrade, and to retrieve, install, activate, and deactivate a temporary upgrade. The task shows a list of all installed or staged LICCC records to help you manage them. It also shows a history of recorded activities. The HMC for IBM z16 A02 and IBM z16 AGZ features the following CoD capabilities: \u0002 SNMP API support: \u2013 API interfaces for granular activation and deactivation \u2013 API interfaces for enhanced CoD query information \u2013 API event notification for any CoD change activity on the system \u2013 CoD API interfaces, such as On/Off CoD and Capacity Back Up (CBU) \u0002 SE window features (accessed through HMC Single Object Operations): \u2013 Window controls for granular activation",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.099459",
+    "chunk_number": 1023,
+    "word_count": 167
+  }
+}

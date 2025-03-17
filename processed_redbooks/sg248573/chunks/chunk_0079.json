@@ -1,0 +1,18 @@
+{
+  "content": "lakes with the high performance of data warehouses. It is designed for hybrid cloud environments and supports open data formats like Parquet and ORC. \u0002 SQL-based Querying: Enables users to execute high-speed analytics with SQL, allowing data engineers and analysts to handle extensive datasets effectively. \u0002 Machine Learning Integration: Seamlessly integrates with machine learning workflows, enabling the development and deployment of AI models using real-time data streams. This integration enhances decision-making and automates processes within organizations. 2.4 Introduction to IBM watsonx.governance IBM watsonx.governance is a dedicated application for governance of AI to help organizations ensure that their use of AI is profitable, compliant, secure and fair. 2.4.1 Key capabilities The key capabilities of watsonx.governance include the following items: \u0002 Maintaining an inventory of all AI inside an organization, including self-built solutions, AI embedded in your enterprise",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.752333",
+    "chunk_number": 79,
+    "word_count": 136
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "a secure, remote, and flexible method of providing Master Key Part Entry, and to remotely manage PCIe cryptographic coprocessors. The cryptographic functions on the TKE run by one PCIe cryptographic coprocessor. The TKE workstation communicates with the IBM Z system through a TCP/IP connection. The TKE workstation is available with Ethernet LAN connectivity only. Up to 10 TKE workstations can be ordered. TKE FCs 0057 and 0058 can be used to control any supported Crypto Express feature on IBM z16, IBM z15, IBM z14 systems, and the Crypto adapters on older, still supported systems. The TKE 10.0 LIC (FC 0882) feature requires a 4770 HSM. The following features are supported: \u0002 Managing the Crypto Express8S HSMs (CCA normal mode, CCA PCI mode, and EP11) \u0002 Quantum Safe Cryptography (QSC) used when: \u2013 TKE authenticates Crypto Express8S HSMs \u2013 Deriving a Transport Key between TKE\u2019s HSM and target Crypto Express8S HSM \u2013 On-demand HSM dual validation check. \u0002 Domain groups limitations All HSM",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.523647",
+    "chunk_number": 584,
+    "word_count": 162
+  }
+}

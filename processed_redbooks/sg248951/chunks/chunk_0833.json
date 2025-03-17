@@ -1,0 +1,18 @@
+{
+  "content": "memory can be added nondisruptively to z/OS partitions and z/VM partitions. If necessary, new LPARs can be created nondisruptively to use the newly added memory. Operating system Number of processors that are supported z/OS V2R3 and later 200 PUs per z/OS LPAR in non-SMT mode and 128 PUs per z/OS LPAR in SMT mode. For both, the PU total is the sum of CPs and zIIPs. z/VM V7R1 and later 80 (or 40 in SMT mode). z/VSE z/VSE Turbo Dispatcher can use up to 4CPs, and tolerates up to 10-way LPARs. z/TPF 86 CPs. Linux on IBM z16 The IBM z16 limit is 200 CPs although Linuxa supports 256 cores without SMT and 128 cores with SMT (256 threads). a. Supported Linux on IBM Z distributions (for more information, see Chapter 7, \u201cOperating system support\u201d on page 247). Concurrency: Upgrades that require DIMM changes can be concurrent by using the EDA feature. Planning is required to see whether this option is a viable for your configuration. The use of the flexible memory option ensures that EDA can",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.428595",
+    "chunk_number": 833,
+    "word_count": 177
+  }
+}

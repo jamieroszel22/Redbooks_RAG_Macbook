@@ -1,0 +1,18 @@
+{
+  "content": "workload type suite your production environment. For more information, see 12.8, \u201cWorkload performance variation\u201d on page 464. For more information about performance, see the Large Systems Performance Reference for IBM Z page of the Resource Link website. For more information about millions of service units (MSU) ratings, see the IBM Z hardware and software consumptions solutions of the IBM IT infrastructure website. 12.2.1 LSPR workload suite Historically, LSPR capacity tables, including pure workloads and mixes, were identified with application names or a software characteristic; for example, CICS, IMS, OLTP-T,3 CB-L,4 LoIO-mix,5 and TI-mix.6 However, capacity performance is more closely associated with how a workload uses and interacts with a particular processor hardware design. The CPU Measurement Facility (CPU MF) data that was introduced on the z10 provides insight into the interaction of workload and hardware design in production workloads. CPU MF data helps LSPR to adjust",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.243850",
+    "chunk_number": 1072,
+    "word_count": 146
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Partition Resource Assignments, you must use the \u201cService\u201d logon id or any other user id with the same authority. 492 IBM z16 (3931) Technical Guide At the HMC \u201cHome\u201d screen click Systems Management, under the task bar and then select your listed target system. Under \u201cTasks\u201d at the bottom right click the Configuration (+) sign. Next, click \u201cView Partition Resource Assignments\u201d. The panel shown in Figure 12-11 will display: Figure 12-11 HMC - View Partition Resource Assignments for the IBM z167 Use the Partition Resource Assignments to view processor allocations to partitions in your system. The active logical partitions are identified at the top of the table. The Node and Chip numbers associated with each active logical partition are identified on the left. You can view the Node and Chips assignments using the Expand All and Collapse All options under the \u201cActions\u201d pull down view or hide sections. To view the resource assignments for partitions: \u0002 Logical partition name: \u2013 Displays",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.302199",
+    "chunk_number": 1105,
+    "word_count": 161
+  }
+}

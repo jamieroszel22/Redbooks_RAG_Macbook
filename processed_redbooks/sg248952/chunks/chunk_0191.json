@@ -1,0 +1,18 @@
+{
+  "content": "organizations to be able to dynamically shift production to an alternate site and remain there for an extended period. This capability is also designed to help you proactively avoid disruptions from unplanned events. For example, it enables you to move production workload to avoid disruptions from an impending hurricane, flood, or wildfire, as well from planned scenarios such as site facility maintenance. For additional information, refer to this Redpaper publication: IBM Z Flexible Capacity for Cyber Resiliency, REDP-5702-00 2.9 Power and cooling The IBM z16 A02 power and cooling is similar to IBM z15 T02 and uses intelligent power distribution units (iPDUs) to supply power to the system components. Consider the following points: \u0002 The power subsystem is based on the following offerings: \u2013 Power Distribution Units (iPDUs) - single phase. Single phase power is available for systems with a single CPC drawer and w/o FC 2271 \u2013 Power Distribution Units (iPDUs) - three phase - available",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.934638",
+    "chunk_number": 191,
+    "word_count": 157
+  }
+}

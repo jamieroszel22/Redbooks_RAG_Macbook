@@ -1,0 +1,18 @@
+{
+  "content": "Express16SA11, and FICON Express16S+ features (defined as CHPID type FC). The supported operating systems are listed in Table 7-6 on page 252 and Table 7-7 on page 253. Request node identification data The request node identification data (RNID) function for native FICON CHPID type FC allows isolation of cabling-detected errors. The supported operating systems are listed in Table 7-6 on page 252. FICON link incident reporting FICON link incident reporting allows an operating system image (without operator intervention) to register link incident reports. The supported operating systems are listed in Table 7-6 on page 252. 11 FICON Express 16SA is not supported on IBM z16A02 or IBM z16 AGZ. Chapter 7. Operating system support 291 Health Check for FICON Dynamic routing Starting with IBM z13, the channel microcode was changed to support FICON dynamic routing. Although change is required in z/OS to support dynamic routing, I/O errors can occur if the FICON switches are configured for",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.035335",
+    "chunk_number": 716,
+    "word_count": 156
+  }
+}

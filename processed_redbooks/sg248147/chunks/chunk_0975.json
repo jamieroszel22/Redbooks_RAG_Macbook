@@ -1,0 +1,18 @@
+{
+  "content": "need a good SSH client. PuTTY is perhaps the most commonly used. You can download PuTTY from this web page. At this web page, click the putty.exe link for your architecture. Save the file in a directory path, such as C:\\WINNT. PuTTY is a stand-alone executable file. (No installation is needed other than copying the file.) You might also want to create a shortcut on your desktop or taskbar. Complete the following steps: 1. Open PuTTY, and the configuration window that is shown in Figure A-1 on page 464 opens. If you spend a few minutes configuring PuTTY, it might save time. The examples that are shown use PuTTY Release 0.60. 2. In the PuTTY Configuration window, in the left Category panel, click Session. 3. Under the Connection type heading on the right side, click SSH (see Figure A-1 on page 464) to use the SSH protocol. 464 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Figure A-1 PuTTY Configuration window 4. Click Logging in the left panel, as shown in Figure A-2: a. Click Printable",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.894068",
+    "chunk_number": 975,
+    "word_count": 175
+  }
+}

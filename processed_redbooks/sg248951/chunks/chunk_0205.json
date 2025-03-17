@@ -1,0 +1,18 @@
+{
+  "content": "to L4 physical cache (on the SC chip and which might not even be in the same CPC drawer) requires several cycles to travel the distance to the cache. On an IBM z16, having an L4 virtual, physically allocated on the shared L2 requires fewer processor cycles in many instances. Although large caches mean increased access latency, the new technology 7 nm EUV chip lithography and the lower cycle time allows IBM z16 servers to increase the size of L2 cache level within the PU chip. To overcome the inherent delays of the SMP CPC drawer design and save cycles to access the remote virtual L4 content, the system keeps instructions and data as close to the processors as possible. This configuration can be managed by directing as much work of a specific LPAR workload to the processors in the same CPC drawer as the L4 virtual cache. This configuration is achieved by having the IBM Processor Resource/Systems Manager (PR/SM) scheduler and the z/OS WLM and dispatcher work together. Have them keep as",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.996197",
+    "chunk_number": 205,
+    "word_count": 173
+  }
+}

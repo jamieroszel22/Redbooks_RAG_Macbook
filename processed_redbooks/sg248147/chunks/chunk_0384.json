@@ -1,0 +1,18 @@
+{
+  "content": "Edit the original file: ===> x system config f 6. Add two lines at the bottom that specify that the primary and backup RACF database disks are shared: ====> bot ====> a 3 ... /* Define RACF primary and backup databases as shared */ rdevice 103B type dasd shared yes /* RACF primary database */ rdevice 113B type dasd shared yes /* RACF backup database */ 7. Verify the syntax of the file with your LPAR names as the parameter: ===> acc 193 g ===> cpsyntax system config f (lpar a02 CONFIGURATION FILE PROCESSING COMPLETE -- NO ERRORS ENCOUNTERED. ===> cpsyntax system config f (lpar a2e CONFIGURATION FILE PROCESSING COMPLETE -- NO ERRORS ENCOUNTERED. 8. Release and detach the PMAINT CF0 (F) disk: ===> rel f (det DASD 0CF0 DETACHED Chapter 6. Configuring z/VM 165 It is also a requirement that CP does not cache data on the RACF database disks in the minidisk cache. Minidisk cache (MDC) is turned off as a result of specifying the DASD as shared in the system configuration file. The RACF",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.697404",
+    "chunk_number": 384,
+    "word_count": 177
+  }
+}

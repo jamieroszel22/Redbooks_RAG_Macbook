@@ -1,0 +1,18 @@
+{
+  "content": "design features such as data prefetch, high capacity L1 and L2 caches, branch prediction, and other innovations. The on-chip accelerators provide support for and enable compliance with security policies because the data is not leaving the platform to be processed. The hardware, firmware, and software are vertically integrated to seamlessly deliver this function to the applications. In August 2021, IBM announced a new generation of IBM Z processor, Telum with new Artificial Intelligence (AI) accelerator (see Figure B-1). This innovation brings incredible value to the applications and workloads that are running on IBM Z. Figure B-1 IBM z16 Processor chip: AIU location With the new IBM Z Integrated Accelerator for AI, customers can benefit from the acceleration of AI operations, such as fraud detection, customer behavior predictions, and streamlining of supply chain operations, all in real time. Customers can derive the valuable insights from their data instantly. AI accelerator delivers",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.347424",
+    "chunk_number": 1119,
+    "word_count": 150
+  }
+}

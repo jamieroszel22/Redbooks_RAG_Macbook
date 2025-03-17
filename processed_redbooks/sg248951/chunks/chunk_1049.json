@@ -1,0 +1,18 @@
+{
+  "content": "is designed with a fully redundant power system. To make full use of the redundancy that is built into the server, the PDUs within one pair must be powered from different power distribution panels. In that case, if one PDU in a pair fails, the second PDU ensures continued operation of the server without interruption. The second, third, and fourth PDU pairs are installed dependent on other CPC or PCIe+ I/O drawers installed. The locations of the PDU pairs and frames are listed in Table 11-1. Table 11-1 PDU pairs and frames location Power cords for the PDUs are attached to the options that are listed in Table 11-2. Table 11-2 Power cords for PDUs A rear view of a maximum configured PDU-powered system with four CPC drawers and 12 PCIe+ I/O drawers is shown in Figure 11-1 on page 456. Frame C Frame B Frame A N/A N/A PDU A3 / A4 PDU C1 / C2 PDU B1 / B2 PDU A1 / A2 Supply type Input voltage Input frequency Input current rating 2, 4, 6, or 8, 3-phase power cords 200 - 240 V AC 50/60 Hz (47 -",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.163704",
+    "chunk_number": 1049,
+    "word_count": 191
+  }
+}

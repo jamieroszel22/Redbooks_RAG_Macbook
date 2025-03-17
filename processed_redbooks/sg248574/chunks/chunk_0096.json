@@ -1,0 +1,18 @@
+{
+  "content": "AI with IBM watsonx.ai d. Click New project +, as shown in Figure 4-3. Figure 4-3 New project+ menu e. Enter the project name and, if applicable, upload local files. Click Create, as shown in Figure 4-4. Figure 4-4 Create menu 3. Provision watsonx.ai Studio: a. Log in to https://cloud.ibm.com/. b. To add services from the catalog, use the search box that is shown in Figure 4-5. Figure 4-5 watsonx.ai utilities search box c. Enter \u201cwatsonx.ai Studio\u201d and choose the studio from the catalog, as shown in Figure 4-6. Figure 4-6 wastonx.ai utilities list d. Select a pricing plan (Lite or Professional), and then click Create. Figure 4-7 watsonx.ai pricing plan selection 4. Generate a watsonx.ai API key: a. Go to https://cloud.ibm.com/iam/apikeys. b. Click Create, as shown in Figure 4-8. Figure 4-8 Create API key menu option Chapter 4. Building and using artificial intelligence models 31 c. Enter the relevant information, and then click Create, as shown in Figure 4-9. Figure 4-9 Create IBM",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.504802",
+    "chunk_number": 96,
+    "word_count": 164
+  }
+}

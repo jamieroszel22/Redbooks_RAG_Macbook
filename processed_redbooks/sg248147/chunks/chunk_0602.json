@@ -1,0 +1,18 @@
+{
+  "content": "OSA1958 RDEV: 1950.P01 Controller: DTCVSW3 VDEV: 0600 BACKUP Adapter ID: 3907000BB4B7.0130 This query shows that the controller is named DTCVSW1. 2. Use the NETSTAT command with the controller name to determine the maintenance of the TCPIP MODULE. This command is stored on disk 592 of the TCPMAINT virtual machine, so you must link to and access it: ==> vmlink tcpmaint 592 DMSVML2060I TCPMAINT 592 linked as 0120 file mode Z ==> netstat tcp dtcvsw1 level 274 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 VM TCP/IP Netstat Level 720 TCP/IP Server Name: DTCVSW1 IBM 3907; z/VM Version 7 Release 2.0, service level 2001 (64-bit), VM TCP/IP Lev el 720; RSU 0000 running TCPIP MODULE E2 dated 06/24/20 at 13:06 TCP/IP Module Load Address: 00BEF000 Configuration Files in use: Stack profile file: DTCVSW1 TCPIP E1 DTCPARMS 'server' definition (DTCVSW1) from file: IBM DTCPARMS E1 DTCPARMS 'class' definition (STACK) from file:IBM DTCPARMS E1 This command shows information about the current TCPIP",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.575844",
+    "chunk_number": 602,
+    "word_count": 158
+  }
+}

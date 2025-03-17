@@ -1,0 +1,18 @@
+{
+  "content": "storing growing data, there are several best practices that organizations should follow: \u0002 Develop a data management strategy: Organizations should develop a data management strategy that accounts for their storage needs. \u0002 Use a tiered storage architecture: Organizations should use a tiered storage architecture that includes a combination of hot, warm, and cold storage. \u0002 Use data compression and deduplication: Organizations should use data compression and deduplication to reduce the amount of storage that is required. In conclusion, the growth of data presents both challenges and opportunities when it comes to storage. Organizations must balance the need to store large amounts of data with the need to help ensure that data is accessible, secure, and compliant with regulatory requirements. By understanding the storage challenges and opportunities and by using best practices and technologies such as IBM watsonx.data, organizations can help ensure that they are well positioned to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.569958",
+    "chunk_number": 60,
+    "word_count": 147
+  }
+}

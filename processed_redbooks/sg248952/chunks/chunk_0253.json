@@ -1,0 +1,18 @@
+{
+  "content": "processor complex design 97 3.4.8 IEEE floating point Binary and hexadecimal floating-point instructions are implemented in IBM z16 A02 and IBM z16 AGZ. They incorporate IEEE standards into the system. The IBM z16 A02 and IBM z16 AGZ core implements two other execution subunits for 2x throughput on BFP (single/double precision) operations (see Figure 3-11 on page 86). The key point is that Java and C/C++ applications tend to use IEEE BFP operations more frequently than earlier applications. Therefore, the better the hardware implementation of this set of instructions, the better the performance of applications. 3.4.9 Processor error detection and recovery The PU uses a process called transient recovery as an error recovery mechanism. When an error is detected, the instruction unit tries the instruction the instruction again, and attempts to recover the error. If the second attempt is unsuccessful (that is, a permanent fault exists), a relocation process is started that restores the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.176524",
+    "chunk_number": 253,
+    "word_count": 154
+  }
+}

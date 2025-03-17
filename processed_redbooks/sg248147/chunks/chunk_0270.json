@@ -1,0 +1,18 @@
+{
+  "content": "Option 1. Create a physical CD. This requires that your workstation has CD-write capability and software that supports ISO9660 format. When you create the physical CD, this is an exact copy of the original CD and has all of the characteristics of the original image (for example, special file names, and if applicable being a bootable CD). - Option 2. Use virtual CD software. Virtual CD software emulates your computer's CD-ROM drive, enabling you to execute programs, view, and use the data provided in the CD image directories and files. This is an alternative to creating a physical CD. This software must support .iso files. Chapter 5. Installing z/VM 103 Read licenses and follow the procedures specific to any software that you use to process these packages. You are now ready to access your order. Click on the ShopzSeries link to get to the download page and proceed through the steps you just reviewed. *********************************************************************** * Please do",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.222701",
+    "chunk_number": 270,
+    "word_count": 158
+  }
+}

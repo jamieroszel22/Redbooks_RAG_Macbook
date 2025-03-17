@@ -1,0 +1,18 @@
+{
+  "content": "PTFs l. z/OS validated boot for z/VM guest supported in audit mode only (no enforcement) Functiona z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3 z/VM V7R2 Functiona VSEn V6R3 z/TPF V1R1 Linux on IBM Zb IBM z16 A02 and IBM z16 AGZ servers Y Y Y Maximum processor unit (PUs) per system image 10 86 200c Chapter 7. Operating system support 251 Maximum main storage size 32 GB 4 TB 16 TBd Dynamic PU add Y N Y Dynamic LPAR memory upgrade N N Y LPAR group absolute capping Y N N Program-directed re-IPL Y N Y HiperDispatch N N Y IBM Z Integrated Information Processors (zIIPs) N N N Java Exploitation of Transactional Execution N N Y Simultaneous multithreading (SMT) N N Ye Single Instruction Multiple Data (SIMD) Y N Y Hardware decimal floating pointf N N Y 2 GB large page support N Y Y Large page (1 MB) support Y Y Y CPUMF (CPU measurement facility) for IBM z16 A02 and IBM z16 AGZ N Y Ng AI accelerator exploitation N N Yh IBM Virtual Flash Memory (VFM) N N Y Guarded Storage Facility (GSF) N N Y",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.634538",
+    "chunk_number": 614,
+    "word_count": 191
+  }
+}

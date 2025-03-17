@@ -1,0 +1,18 @@
+{
+  "content": "accelerator operations. The coprocessor or accelerator must be deactivated before you begin the reconfiguration. FIPS 140 certification is not relevant to the accelerator because it operates with clear keys only. The function extension capability through UDX is not available to the accelerator. The functions that remain available when the Crypto Express6S feature is configured as an accelerator are used for the acceleration of modular arithmetic operations. That is, the RSA cryptographic operations are used with the SSL/TLS protocol. The following operations are accelerated: \u0002 PKA Decrypt (CSNDPKD) with PKCS-1.2 formatting \u0002 PKA Encrypt (CSNDPKE) with zero-pad formatting \u0002 Digital Signature Verify The RSA encryption and decryption functions support key lengths of 512 - 4,096 bits in the Modulus-Exponent (ME) and Chinese Remainder Theorem (CRT) formats. 6.5.5 Managing Crypto Express8S Each cryptographic coprocessor has 40 physical sets of registers or queue registers, which corresponds",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.436005",
+    "chunk_number": 563,
+    "word_count": 143
+  }
+}

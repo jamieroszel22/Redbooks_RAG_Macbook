@@ -1,0 +1,18 @@
+{
+  "content": ". . 425 10.3.1 Hardware Management Appliance connectivity . . . . . . . . . . . . . . . . . . . . . . . . 425 10.3.2 Stand-alone HMC connectivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 426 10.3.3 Network planning for the HMC and SE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 428 10.3.4 Hardware considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 429 10.3.5 TCP/IP Version 6 on the HMC and SE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 429 10.3.6 Assigning TCP/IP addresses to the HMC, SE and ETS . . . . . . . . . . . . . . . . . . 430 10.3.7 OSA Support Facility. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 431 10.3.8 HMC multi-factor authentication . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 431 10.4 Remote Support Facility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.279980",
+    "chunk_number": 36,
+    "word_count": 364
+  }
+}

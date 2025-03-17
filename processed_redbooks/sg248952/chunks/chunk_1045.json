@@ -1,0 +1,18 @@
+{
+  "content": "Unit-based power (iPDU) - or PDU Intelligent Power Distribution Unit The IBM z16 A02 supports two or four iPDUs (two or four line cords) and depending on the machine configuration, these iPDUs can have the following specifications: \u0002 Single phase: \u2013 32A, 200-240 V AC \u0002 Three phase: \u2013 30A, 200-240 V AC (\u201c\u0394\u201d - Delta wiring) \u2013 32A, 380-415 V AC (\u201cY\u201d - Wye wiring) The iPDU design also offers some standardization and ease of data center installation planning, which allows the IBM z16 A02 to easily coexist with other platforms within the data center. Note: All configurations can be powered from three-phase utility power. Chapter 11. Environmentals 441 Power requirements The IBM z16 A02 is designed with a fully redundant power system, using redundant iPDUs. iPDUs are installed in pairs. To make full use of the redundancy that is built into the server, the iPDUs within one pair must be powered from different power distribution panels. In that case, if one iPDU in a pair fails, the second iPDU",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.163667",
+    "chunk_number": 1045,
+    "word_count": 171
+  }
+}

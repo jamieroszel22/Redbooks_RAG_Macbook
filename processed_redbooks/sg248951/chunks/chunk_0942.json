@@ -1,0 +1,18 @@
+{
+  "content": "changes are necessary to address single paths. \u0002 Develop a plan to address the requirements. When you perform the review, document the resources that can be made available if the EDA is used. The resources on the drawers are allocated during a POR of the system and can change after that process. Perform a review when changes are made to your IBM z16, such as adding drawers, PUs, memory, or channels. Also, perform a review when workloads are added or removed, or if the HiperDispatch feature was enabled and disabled since the last time you performed a POR. 9.8.2 Enhanced drawer availability processing To use the EDA, first ensure that the following conditions are met: \u0002 The used processors (PUs) on the drawer that is removed are freed. \u0002 The used memory on the drawer is freed. \u0002 For all I/O domains that are connected to the drawer, ensure that alternative paths exist. Otherwise, place the I/O paths offline. Chapter 9. Reliability, availability, and serviceability 397 For the EDA",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.800852",
+    "chunk_number": 942,
+    "word_count": 169
+  }
+}

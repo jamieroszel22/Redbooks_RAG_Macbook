@@ -1,0 +1,18 @@
+{
+  "content": "legislation. \u0002 Mitigate reputational and operational risks from their use of AI. \u0002 Govern the onboarding of AI-enabled enterprise applications. \u0002 Govern the development of AI-enabled products and services. \u0002 Integrate AI risks into the operational risk management of AI-enabled business processes. \u0002 Set up regular monitoring of an already deployed AI solution. 2.4.3 Benefits of watsonx.governance By centralizing and automating governance of AI, customers achieve benefits such as: \u0002 Bring together all technical and non-technical stakeholders into a common governance framework. \u0002 Decrease the risk of being fined or damaging your brand reputation. \u0002 Reduce the cost of compliance. \u0002 Free up time to deploy more models. \u0002 Capture model benefits earlier by reducing the time to deployment. \u0002 Recapture model benefits lost due to model drift. As mentioned in 1.2.3, \u201cConcern 3: Governance does not contribute to value generation\u201d on page 6, using AI governance software also contributes to setting",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.761848",
+    "chunk_number": 82,
+    "word_count": 152
+  }
+}

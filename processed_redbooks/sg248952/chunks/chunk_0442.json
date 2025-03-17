@@ -1,0 +1,18 @@
+{
+  "content": "changes the SMC connection protocol enabling multiple IP subnet support, SMCv2 does not change how actual user TCP socket data is transferred, which preserves the benefits of SMC to TCP workloads. TCP/IP connections that require IPSec are not eligible for any form of SMC. HiperSockets The HiperSockets function of IBM z16 A02 and IBM z16 AGZ provides up to 32 high-speed virtual LAN attachments. HiperSockets can be customized to accommodate varying traffic sizes. Because HiperSockets does not use an external network, it can free up system and network resources. This advantage can help eliminate attachment costs and improve availability and performance. HiperSockets eliminates the need to use I/O subsystem operations and traverse an external network connection to communicate between LPARs in the same IBM z16 A02 or IBM z16 AGZ CPC. HiperSockets offers significant value in server consolidation when connecting many virtual servers. It can be used instead of certain coupling link",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.934812",
+    "chunk_number": 442,
+    "word_count": 152
+  }
+}

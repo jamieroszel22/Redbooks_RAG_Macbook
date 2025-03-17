@@ -1,0 +1,18 @@
+{
+  "content": "fan-out slots. The PCIe fan-outs and ICA SR fan-outs are installed in locations LG01 - LG12 at the rear in the CPC drawers (see Figure 2-8 on page 25). On the CPC drawer, two BMC/OSC cards are available, each being a combination of a Base Management (BMC) card and an Oscillator Card (OSC) card. Each BMC/OSC card features one PPS port and one ETS port (RJ45 Ethernet) for both PTP and NTP. An I/O connection diagram is shown in Figure 4-3 on page 152. Note: On an IBM z16 system, only PCIe+ I/O drawers are supported. No older generation drawers can be carried forward. Note: IBM z16 does not support Parallel Sysplex InfiniBand (PSIFB) links. Also, if and IBM z16 is part of a Parallel Sysplex or Coordinated Timing Network, InfiniBand links cannot be used on older servers, even if installed. Unless otherwise noted, ICA SR is used for ICA SR and ICA SR1.1 for the rest of the chapter. Chapter 4. Central processor complex I/O structure 155 4.4.1 PCIe+ Generation 3 fan-out (FC 0175) The PCIe+",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.736125",
+    "chunk_number": 384,
+    "word_count": 177
+  }
+}

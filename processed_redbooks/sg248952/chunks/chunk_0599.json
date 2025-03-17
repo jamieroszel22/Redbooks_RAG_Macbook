@@ -1,0 +1,18 @@
+{
+  "content": "buckets contain installation information, hardware and software service levels, service guidelines, and cross-product dependencies. \u0002 For more information about Linux on IBM Z distributions and KVM hypervisor, see the distributor\u2019s support information. 7.2 Support by operating system IBM z16 A02 and IBM z16 AGZ introduce several new functions. This section describes the support of those functions by the current operating systems. Also included are some of the functions that were introduced in previous IBM Z servers and carried forward or enhanced in IBM z16 A02 and IBM z16 AGZ servers. Features and functions that are available on previous servers, but no longer supported by IBM z16 A02 and IBM z16 AGZ are not documented here. Previous versions of this document are available on the IBM Redbooks site. For more information about supported functions that are based on operating systems, see 7.3, \u201cIBM z16 A02 and IBM z16 AGZ features and functions support overview\u201d on page 248. Tables are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.567539",
+    "chunk_number": 599,
+    "word_count": 158
+  }
+}

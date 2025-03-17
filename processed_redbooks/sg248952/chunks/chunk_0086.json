@@ -1,0 +1,18 @@
+{
+  "content": "Version 2 Release 3 with PTFs \u0002 z/OS Version 2 Release 2 with PTFs (toleration support only) 4 Observed performance increases vary depending on the workload types. 10 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 z/VM Version 7 Release 3 \u0002 z/VM Version 7 Release 2 with PTFs \u0002 z/VM Version 7 Release 1 with PTFs \u0002 z/TPF Version 1 Release 1 (compatibility support) \u0002 21st Century Software VSEn 6.3 (supported on IBM z16 A01, A02 and AGZ) \u2013 see 7.2.3, \u201c21st Century Software VSEn V6.3\u201d on page 246 IBM plans to support the following Linux on IBM Z distributions on IBM z16 A02 and IBM z16 AGZ: \u0002 SUSE SLES 15 SP4 and SUSE SLES 12 SP5 \u0002 Red Hat RHEL 8.7 and Red Hat RHEL 9.1 \u0002 Ubuntu 22.04 LTS, and Ubuntu 20.04.1 LTS The support statements for the IBM z16 A02 and IBM z16 AGZ also cover the KVM hypervisor on distribution levels that have KVM support. For more information about the features and functions that are supported on IBM z16 A02 and IBM z16 AGZ by operating system, see Chapter 7,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.467335",
+    "chunk_number": 86,
+    "word_count": 188
+  }
+}

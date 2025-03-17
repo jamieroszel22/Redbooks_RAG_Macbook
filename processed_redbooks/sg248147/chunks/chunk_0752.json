@@ -1,0 +1,18 @@
+{
+  "content": "IBM z/VSE, z/TPF, or z/VM with the IBM z/VM Single System Image (VMSSI) feature enabled. This type of disk is advantageous when you use large amounts of disk, and it scales well with the number of disks. Therefore, by giving a small amount of DASD to each of the virtual machines, each virtual machine can performance well. DASD offers these advantages: \u0002 Simplistic allocation with a directory maintenance product. \u0002 Easy dedication of disks by a 4-digit hexadecimal number. \u0002 Good scalability over thousands of disks. \u0002 Simplified setups for disaster recovery. \u0002 Disk sizes are multiples of a Model 1. \u0002 High-performance storage systems are available for this type of disks. \u0002 Capability to use ultra-high-speed FlashCopy feature if it is present in the storage subsystem. DASD has limitations: \u0002 Only one I/O operation occurs at a time on a single DASD device, which can be improved with parallel access volume (PAV) or HyperPAV. \u0002 Limited maximum size of disks. \u0002 Disks cannot be resized easily.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.152318",
+    "chunk_number": 752,
+    "word_count": 167
+  }
+}

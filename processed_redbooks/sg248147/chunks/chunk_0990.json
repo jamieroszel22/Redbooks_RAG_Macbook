@@ -1,0 +1,18 @@
+{
+  "content": "Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u0002 z/VM TCP/IP planning, customization, and reference: http://www.vm.ibm.com/related/tcpip/tcp-pubs.html \u0002 z/VM TCP/IP cryptographic security: http://www.vm.ibm.com/related/tcpip/vmsslinf.html \u0002 z/VM user\u2019s guides and command references (XEDIT, Conversational Monitor System (CMS), and others): http://www.vm.ibm.com/library/zvmpdf.html \u0002 XEDIT for VM/SP System Product R3 (historical reference): http://ukcc.uky.edu/ukccinfo/391/xeditref.html \u0002 Rex Swain\u2019s XEDIT summary page https://rexswain.com/xedit.html \u0002 Debian Linux S/390 port: https://www.debian.org/ports/s390/ Important z/VM files z/VM differs from Linux in the location and number of configuration files. In Linux, many configuration files exist and most of them are in or under the /etc/ directory. On z/VM, relatively few configuration files exist. However, they are on many different minidisks. Table B-1 on page 478 provides a summary and the location of important z/VM configuration",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.939726",
+    "chunk_number": 990,
+    "word_count": 120
+  }
+}

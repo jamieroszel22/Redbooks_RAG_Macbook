@@ -1,0 +1,18 @@
+{
+  "content": "connected through an RJ45 jack. The attributes of the channel options that are supported on IBM z16 A02 and IBM z16 AGZ are listed in Table A-1. Table A-1 IBM z16 A02 and IBM z16 AGZ channel feature support A Channel feature Feature codes Bit ratea in Gbps (or stated) Cable type Maximum unrepeated distanceb Ordering information zHyperLink and Fiber Connection (FICON) zHyperlink Express1.1 0451 8 GBps OM4, OM3 See Table A-2 on page 471 New build, Carry forward zHyperlink Express 0431 Carry forward FICON Express32S LX 0461 8, 16, or 32 SM 9 \u00b5m 5 km @ 32 Gbpsc (3.1 miles) 10 km @ 16 or 8 Gbps (6.2 miles) New build FICON Express32S SX 0462 8, 16, or 32 OM1, OM2, OM3, or OM4 See Table A-3 on page 471. New build FICON Express16SA LX 0436 8, or 16 SM 9 \u00b5m 10 km (6.2 miles) Carry forward 470 IBM z16 A02 and IBM z16 AGZ Technical Guide FICON Express16SA SX 0437 8, or 16 OM1, OM2, OM3, OM4 See Table A-3 on page 471. Carry forward FICON Express16S+ LX 0427 4, 8, or 16 SM 9 \u00b5m 10 km (6.2 miles)",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.284987",
+    "chunk_number": 1092,
+    "word_count": 194
+  }
+}

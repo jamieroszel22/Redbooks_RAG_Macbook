@@ -1,0 +1,18 @@
+{
+  "content": "2,4,6,8 PDUs 1 or 2 RCAs A B C Z 18 IBM z16 (3931) Technical Guide The key features that are used to build the system are listed in Table 2-1. For more information about the various configurations, see Appendix E, \u201cFrame configurations Power Distribution Units and Bulk Power Assembly-based systems\u201d on page 529. Table 2-1 Key features that influence the system configurations Power Options The 3931 (z16 A01) has the power options shown in Table 2-2 on page 19: Feature Code Description Comments 0508 Model A01 Supports CPs and specialty engines 0667 One CPC Drawer Feature Max39 0668 Two CPC Drawers Feature Max82 0669 Three CPC Drawers Feature Max125 0670 Four CPC Drawers Feature Max168 0671 Four CPC Drawers Feature Max200 2981 CPC1 reserve Reserve A15 location for future add CPC1 (Max39 to Max82 upgrade) 2982 CPC2 reserve Reserve A20 location for future add CPC2 (Max82 to Max125 upgrade) Frames and cooling 4040 A Frame Radiator (air cooled) 4041 B Frame Radiator (air cooled) 4043 Z Frame",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.551292",
+    "chunk_number": 106,
+    "word_count": 168
+  }
+}

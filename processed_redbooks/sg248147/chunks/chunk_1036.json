@@ -1,0 +1,18 @@
+{
+  "content": "echo -n \"Do you want to continue? (y/n): \" read ans if [ $ans != \"y\" ]; then abort 1 fi } #+--------------------------------------------------------------------------+ function check_logged_off # Verify the user ID exists and is logged off # Arg1: The user id to query if it is logged on or not #+--------------------------------------------------------------------------+ { cp_cmd QUERY $1 case $? in 0) # user ID is logged on or disconnected echo \"$1 user ID must be logged off\" exit 2 ;; 3) # user ID does not exist echo \"$1 user ID does not exist\" exit 3 ;; 45) # user ID is logged off - this is correct ;; *) # unexpected echo \"$1 user ID must exist and be logged off\" exit 4 esac } Appendix C. Additional material 507 #+--------------------------------------------------------------------------+ function modify_cloned_image # Modify the networking information in appropriate files under /etc # Regenerate SSH keys in golden image's /etc/ssh/ directory and change root pw",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.119261",
+    "chunk_number": 1036,
+    "word_count": 154
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "the login password for user 'csmwork' on RDBKZVMC host system: 9.76.61.239 < < password > > VMFCSQ4200I VMFCSQ2760I CSMQUERY processing completed successfully (RC=0) VMFCTR4081I Performing SFS space allocation check for system RDBKZVMC VMFCTL4017R Enter the login user ID to be used for RDBKZVMC host system: 9.76.61.239 csmwork VMFCTL4018R Enter the login password for user 'csmwork' on RDBKZVMC host system: 9.76.61.239 Note: As we saw earlier when we added the managed system to VMCSM, the MAINT720 ID is logged on by the CSMSERVE user to perform commands. The MAINT720 ID must not be logged on before running service from the principal system. Also, do not attempt to log on to MAINT720 while VMCSM actions are performed. Chapter 9. z/VM Centralized Service Management 297 < < password > > VMFCTR4033I Filespace 4K block allocation in file pool VMPSFS: is sufficient VMFCTR4083I Performing file transfers for system RDBKZVMC VMFCTR4077I Number of files to be transferred: 4 VMFCTR2936I TRANSPORT",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.806475",
+    "chunk_number": 657,
+    "word_count": 155
+  }
+}

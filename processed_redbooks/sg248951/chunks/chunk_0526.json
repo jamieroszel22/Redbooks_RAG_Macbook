@@ -1,0 +1,18 @@
+{
+  "content": "HSM that is placed in the PCIe+ I/O drawer of IBM z16. It also supports cryptographic algorithms by using secret keys. For more information, see 6.5, \u201cCrypto Express8S\u201d on page 224. Finally, a TKE workstation is required for entering keys in a secure way into the Crypto Express8S HSM, which often also is equipped with smart card readers. For more information, see 6.6, \u201cTrusted Key Entry workstation\u201d on page 239. 2 CPACF enablement feature must be ordered (FC 3863). 216 IBM z16 (3931) Technical Guide The feature codes and purpose of the cryptographic hardware features that are available for IBM z16 are listed in Table 6-1. Table 6-1 Cryptographic features for IBM z16 A01 Feature Code Description 3863 CP Assist for Cryptographic Function (CPACF) enablement This feature is a prerequisite to use CPACF (except for SHA-1, SHA-224, SHA-256, SHA-384, and SHA-512) and the PCIe Crypto Express features. 0908 Crypto Express8S feature (dual HSM)a These features are optional. The 2-port feature",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.276350",
+    "chunk_number": 526,
+    "word_count": 160
+  }
+}

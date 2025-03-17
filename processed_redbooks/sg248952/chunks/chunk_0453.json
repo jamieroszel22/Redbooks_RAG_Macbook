@@ -1,0 +1,18 @@
+{
+  "content": "links can be defined on an IBM z16 A02 or IBM z16 AGZ. Integrated Coupling Adapter Short Reach The ICA SR (FC 0172) was introduced with the IBM z13. ICA SR1.1 (FC 0176) was introduced with IBM z15. ICA SR and ICA SR1.1 are two-port, short-distance coupling features that allow the supported IBM Z systems to connect to each other. ICA SR and ICA SR1.1 use coupling channel type: CS5. The ICA SR uses PCIe Gen3 technology, with x16 lanes that are bifurcated into x8 lanes for coupling. ICA SR1.1 utilizes PCIe Gen4 technology, with x16 lanes that are bifurcated into x8 lanes for coupling. The ICA SR & SR1.1 are designed to drive distances up to 150 m and supports a link data rate of 8 GBps. It is designed to support up to four CHPIDs per port and eight subchannels (devices) per CHPID. For more information, see IBM Z Planning for Fiber Optic Links (FICON/FCP, Coupling Links, and Open System Adapters), GA23-1409. This publication is available in the Library section of Resource Link. Coupling",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.978984",
+    "chunk_number": 453,
+    "word_count": 176
+  }
+}

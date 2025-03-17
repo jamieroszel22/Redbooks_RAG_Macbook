@@ -1,0 +1,18 @@
+{
+  "content": "the best of data lakes and warehouses to enable best-in-class AI, BI, and ML in one solution without vendor lock-in. Modularity and flexibility are key when implementing a lakehouse. If an organization has a Hadoop data lake with data stored on Hadoop Distributed File System (HDFS), the metadata can be cataloged using Hive, and the metadata and data can be brought to the lakehouse (watsonx.data) so that, from day one, the most appropriate engines can be used to query the data. Chapter 2. Introduction to IBM watsonx.data 17 New data arriving in the lakehouse needs to be integrated with existing data using the metadata and storage layers (Hive and HDFS) and continuously analyzed without affecting existing applications using the data lake. Over time, data can be moved into the data lake at an organization\u2019s own pace. Many of the watsonx.data components shown in Figure 2-5 are based on open-source technologies such as Presto, Iceberg, Hive, Ranger, and others. IBM watsonx.data also offers",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.607761",
+    "chunk_number": 70,
+    "word_count": 162
+  }
+}

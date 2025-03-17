@@ -1,0 +1,18 @@
+{
+  "content": "fine-tuning is ready, the fine-tuning process can be started. 78 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai The InstructLab model train has three pipelines: simple, full, and accelerated. The default is full. \u0002 simple uses an SFTTrainer on Linux and MLX on MacOS. This type of training takes roughly an hour and produces the lowest fidelity model but should indicate whether your data is being picked up by the training process. \u0002 full uses a custom training loop and data processing functions for the Granite family of models. This loop is optimized for CPU and MPS function. Use --pipeline=full with --device=cpu (Linux) or --device=mps (MacOS). You can also use --device=cpu on a MacOS machine. However, MPS is optimized for better performance on these systems. \u0002 accelerated uses the instructlab-training library, which supports GPU-accelerated and distributed training. The full loop and data processing functions are either pulled directly from or based on of the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.930596",
+    "chunk_number": 184,
+    "word_count": 158
+  }
+}

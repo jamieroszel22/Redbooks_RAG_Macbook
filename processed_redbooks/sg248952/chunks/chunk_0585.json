@@ -1,0 +1,18 @@
+{
+  "content": "z/VM V7.3 and V7.2 for guest use \u0002 21CS VSEn V6.3 with PTFs \u0002 Linux on IBM Z: \u2013 SUSE SLES 15 SP4 with service, SUSE SLES 12 SP4 with service. \u2013 Red Hat RHEL 9.0, RHEL 8.0 with service, Red Hat RHEL 7.9 with service. \u2013 Ubuntu 18.04.1 LTS with service and newer. Chapter 6. Cryptographic features 237 \u2013 The support statements for IBM z16 A02 and IBM z16 AGZ also cover the KVM hypervisor on distribution levels that have KVM support. For more information about the minimum required and recommended distribution levels, see the IBM Z website. For more information about the software support levels for cryptographic functions, see Chapter 7, \u201cOperating system support\u201d on page 243. 6.9 Further use of cryptography on IBM z16 A02 and IBM z16 AGZ Besides the common cryptography using CPACF and Crypto Express8S cards, which is ready to be exploited by the operating systems running in a logical partition, the IBM z16 A02 and IBM z16 AGZ offer several other features that use cryptography to securely",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.518981",
+    "chunk_number": 585,
+    "word_count": 174
+  }
+}

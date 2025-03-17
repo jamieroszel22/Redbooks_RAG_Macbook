@@ -1,0 +1,18 @@
+{
+  "content": "main storage. The operating system that runs in z/Architecture mode must support the real storage. z/OS V2R4 and below support up to 4 TB of real storage, while z/OS V2R5 supports up to 16 TB. \u0002 CF In CF mode, storage addressing is 64-bit for a CF image that runs at CFCC. This configuration allows for an addressing range up to 16 EB. However, the current IBM z16 A01 definition limit for CF LPARs is 32 TB of storage. The following CFCC levels are supported in a Sysplex with IBM z16: \u2013 CFCC Level 25, available on IBM z16 (Driver level 51) \u2013 CFCC Level 24, available on IBM z15 (Driver level 41) \u2013 CFCC Level 23, available on IBM z14 (Driver level 36) \u2013 CFCC Level 22, available on IBM z14 (Driver level 32) For more information, see 3.9.1, \u201cCF Control Code\u201d on page 131. Only IBM CFCC can run in CF mode. \u0002 Linux only In Linux only mode, storage addressing can be 31-bit or 64-bit, depending on the operating system architecture and the operating system configuration. Only Linux and z/VM",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.481352",
+    "chunk_number": 321,
+    "word_count": 183
+  }
+}

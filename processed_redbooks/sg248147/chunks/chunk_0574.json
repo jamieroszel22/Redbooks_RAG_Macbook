@@ -1,0 +1,18 @@
+{
+  "content": "Installs an RSU or applies corrective (COR) service for z/VM components, features, or products. \u0002 Displays either the RSU level of the specified component or whether a particular PTF or authorized program analysis report (APAR) was applied (when used with STATUS). \u0002 Creates PTF bitmap files (when used with BITMAP) that contain a list of all PTFs that were received, applied, or superseded, and all installed products. When SERVICE is successfully completed, the PUT2PROD EXEC places the z/VM components, features, or products that are installed on the z/VM system deliverable, and serviced, into production. For more information, see this web page. Important: When you apply service, you might want to back it up. It is recommended that an up-to-date backup of your system exists before you start the next tasks. 258 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 The body of the page is similar to the example that is shown in Figure 8-2. Figure 8-2 z/VM Service main web page Consider visiting",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.462835",
+    "chunk_number": 574,
+    "word_count": 163
+  }
+}

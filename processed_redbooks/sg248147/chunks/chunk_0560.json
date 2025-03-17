@@ -1,0 +1,18 @@
+{
+  "content": "dirmaint for LNXADM-1 AMDISK 0100 3390 AUTOV 10016 VM1567 MR PW LNX4VM LNX4VM LNX4VM Regardless of whether you use the panel or the line command, the message DVHSHN3430I indicates that the request completed successfully. 6. Assign the 0200 minidisk to LNXADM-1. If you are using the DirMaint line commands, enter these commands: ==> dirmaint for LNXADM-1 AMDISK 0200 3390 AUTOV 10016 VM1568 MR PW LNX4VM LNX4VM LNX4VM 7. Assign the 0100 minidisk to LNXADM-2: ===> dirmaint for LNXADM-1 AMDISK 0100 3390 AUTOV 10016 VM1569 MR PW LNX4VM LNX4VM LNX4VM 8. Assign the 0200 minidisk to LNXADM-2: ===> dirmaint for LNXADM-2 AMDISK 0200 3390 AUTOV 10016 VM156A MR PW LNX4VM LNX4VM LNX4VM 6.18 Monitoring SFS file pool usage As any ID that you configured to be an administrator for the LNX file pool, you can review the current usage at any time by using the following commands: ===> vmlink maint 193 ===> who lnx STORAGE GROUP REPORT FOR LNX: DATE: 04/17/15 TIME GENERATED: 15:17:15 USERS IN STORAGE GROUP 2",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.384751",
+    "chunk_number": 560,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "licensing model. Usage is measured based on MSUs that are used, which removes the need for manual or automated capping. It also allows customers to configure their systems to support optimal response times and service level agreements. Tailored Fit Pricing (TFP) requires z/OS V2.R2, or later, with the applicable PTFs applied. The requirements for TFP vary with the solution. The specific requirements for a solution must be met before IBM can accept and process subcapacity reports in which TFP solutions are reported. For more information about TFP, see this web page. Technology Transition Offerings with IBM z16 Complementing the announcement of the IBM z16 server, IBM introduced the following Technology Transition Offerings (TTOs): \u0002 Technology Update Pricing for the IBM z16. \u0002 New and revised Transition Charges for Sysplexes or Multiplexes TTOs for actively coupled Parallel Sysplexes (z/OS), Loosely Coupled Complexes (z/TPF), and Multiplexes (z/OS and z/TPF). Technology Update Pricing",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.288703",
+    "chunk_number": 789,
+    "word_count": 150
+  }
+}

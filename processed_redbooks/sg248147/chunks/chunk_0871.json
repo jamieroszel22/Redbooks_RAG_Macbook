@@ -1,0 +1,18 @@
+{
+  "content": "Extent (PE) Physical Extent (PE) Physical Extent (PE) Physical Extent (PE) Physical Extent (PE) Physical Extent (PE) Physical Volume - /dev/dasdf1 Physical Volume - /dev/dasde1 Logical Volume - homelv (/dev/homevg/homelv) ext3 or xfs file system mounted over /home/ 406 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 VG Name PV Size 3.44 GiB Allocatable NO PE Size 0 Total PE 0 Free PE 0 Allocated PE 0 PV UUID v02PJY-gy4x-M9Hj-kt51-T04J-B4n5-Ntvkje Creating a single volume group The vgcreate command is used to create a volume group that is named homevg from the two partitions. Use the vgdisplay homevg command to verify that the volume group was created: # vgcreate homevg /dev/dasde1 /dev/dasdf1 Volume group \"homevg\" successfully created # vgdisplay homevg --- Volume group --- VG Name homevg System ID Format lvm2 Metadata Areas 2 Metadata Sequence No 1 VG Access read/write VG Status resizable MAX LV 0 Cur LV 0 Open LV 0 Max PV 0 Cur PV 2 Act PV 2 VG Size 6.88 GiB PE Size 4.00 MiB Total PE",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.558089",
+    "chunk_number": 871,
+    "word_count": 170
+  }
+}

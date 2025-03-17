@@ -1,0 +1,18 @@
+{
+  "content": "time. However, the path length that is associated with the operating system or subsystem can vary based on the following factors: \u0002 Competition with other tasks in the system for shared resources. As the total number of tasks grows, more instructions are needed to manage the resources. \u0002 The number of logical processors (n-way) of the image or LPAR. As the number of logical processors grows, more instructions are needed to manage resources that are serialized by latches and locks. 3 Low I/O Content Mix Workload. 4 Transaction Intensive Mix Workload. Note: The throughput that any user experiences can vary depending on the amount of multiprogramming in the user\u2019s job stream, the I/O configuration, and the workload that is processed. Therefore, no assurance can be given that an individual user can achieve throughput improvements that are equivalent to the performance ratios that are stated. 478 IBM z16 (3931) Technical Guide 12.3.2 Instruction complexity The type of instructions and the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.250189",
+    "chunk_number": 1079,
+    "word_count": 159
+  }
+}

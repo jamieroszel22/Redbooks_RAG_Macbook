@@ -1,0 +1,18 @@
+{
+  "content": "of data in certain use cases has challenged their cost-effectiveness and ability to maintain SLAs for downtime, recovery, and response times. 10.3.1 Current pattern in banking on analytic use cases Data management typically involves three key layers: \u0002 Data ingestion services: Both streaming and batch processing are used to ingest data. \u0002 Data stores: Data is stored in various formats, including data lakes and data warehouses. \u0002 Lineage and governance: While less emphasized due to a lack of well-integrated services, lineage and governance are crucial for data quality and compliance. Figure 10-1 shows current pattern in banking on analytic use cases. Figure 10-1 Current pattern in banking on analytic use cases 10.4 Modernized data management pattern in banking on analytic use cases While the architecture flow has standardized over the years, some of the key differentiates are: 158 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data \u0002 Data lakehouse for scale at",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.370009",
+    "chunk_number": 266,
+    "word_count": 155
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Single Frame - Installation Manual Physical Planning, GC28-7040-00, https://www-40.ibm.com/servers/resourcelink/lib03010.nsf/pagesByDocid/872B572FB04B48 6A852588E700492CAB?OpenDocument The power estimation tool for the z16 A02 allows you to enter your precise and detailed configuration to obtain an estimate of power consumption. Log in to the Resource link with your user ID. Click Planning \u2192 Tools \u2192 Power and weight estimation. Specify the quantity for the features that are installed in your system. This tool estimates the power consumption for the specified configuration. The tool does not verify that the specified configuration can be physically built. Supply Type Line nominal input Comments 2 or 4, single phase power cords 200-240 V AC Low Voltage - single phase 2 or 4, 3-phase Delta power cords 200-240 V AC Low Voltage - three phase only 2 or 4, 3-phase WYE power cords 380-415 V AC High Voltage - three phase Caution: Installation of a low voltage system to a high voltage facility",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.960841",
+    "chunk_number": 197,
+    "word_count": 152
+  }
+}

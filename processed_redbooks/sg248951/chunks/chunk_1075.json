@@ -1,0 +1,18 @@
+{
+  "content": "capacities. For z/OS studies, the capacity scaling factor that is commonly associated with the reference processor is set to a 2094-701 with a Processor Capacity Index (PCI) value of 593. This value is unchanged since z/OS V1R11 LSPR. The use of the same scaling factor across LSPR releases minimizes the changes in capacity results for an older study and provides more accurate capacity view for a new study. Performance data for IBM z16 servers were obtained with z/OS V2R4 (running Db2 for z/OS V12, CICS TS V5R3, IMS V14, Enterprise COBOL V6R2, and WebSphere Application Server for z/OS V9.0.0.8). All IBM Z server generations are measured in the same environment with the same workloads at high usage. On average, IBM z16 servers can deliver up to 17% more performance in a 200-way configuration than an IBM z15 190 -way. However, the observed performance increase varies depending on the workload type. Consult the LSPR when you consider performance on the IBM z16. The range of performance",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.243573",
+    "chunk_number": 1075,
+    "word_count": 165
+  }
+}

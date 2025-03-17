@@ -1,0 +1,18 @@
+{
+  "content": "z/VM 7.1 can be installed directly on IBM z16. z/VM V7R1 and includes the following new features: \u0002 Single System Image and Live Guest Relocation is included in the base. In z/VM 6.4, this feature was the VMSSI-priced feature. \u0002 Enhances the dump process to reduce the time that is required to create and process dumps. \u0002 Upgrades to a new Architecture Level Set. This feature requires an IBM zEnterprise EC12 or BC12, or later. \u0002 Provides the base for more functions to be delivered as service Small Program Enhancements (SPEs) after general availability. 16 Preview announcement as of 5 April 2022 Chapter 7. Operating system support 323 7.6.4 Capacity For the capacity of any z/VM logical partition (LPAR) and any z/VM guest, you might want to adjust the number to accommodate the PU capacity of IBM z16 servers in terms of the number of Integrated Facility for Linux (IFL) processors and central processors (CPs), real or virtual. 7.7 z/VSE migration considerations As described in 7.2.3,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.270427",
+    "chunk_number": 782,
+    "word_count": 166
+  }
+}

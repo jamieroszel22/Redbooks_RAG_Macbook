@@ -1,0 +1,18 @@
+{
+  "content": "All of the figures that are included here are views from the rear of the system. The common building blocks are displayed and range from 1 - 4 frames, with various numbers of CPC drawers and PCIe+ I/O drawers. This chapter includes the following topics: \u0002 \u201cPower Distribution Unit configurations\u201d on page 530 \u0002 \u201cBulk Power Assembly configurations\u201d on page 533 E 530 IBM z16 (3931) Technical Guide Power Distribution Unit configurations The various PDU-based system configurations are shown in Figure E-1 - Figure E-6 on page 532. Figure E-1 Single frame Figure E-2 Two frames AZ Appendix E. Frame configurations Power Distribution Units and Bulk Power Assembly-based systems 531 Figure E-3 Two frames AB Figure E-4 Three frames ZAC 532 IBM z16 (3931) Technical Guide Figure E-5 Three frames ZAB Figure E-6 Four frames ZABC, PDU Appendix E. Frame configurations Power Distribution Units and Bulk Power Assembly-based systems 533 Bulk Power Assembly configurations The BPA-based system configurations",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.419043",
+    "chunk_number": 1160,
+    "word_count": 158
+  }
+}

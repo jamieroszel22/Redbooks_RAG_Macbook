@@ -1,0 +1,18 @@
+{
+  "content": "CFCC Levels 23, 24 and 25 support up to 3 TB Secure Service Containers Supports up to 16TBa Linux on IBM Z (64-bit) 16TBac c. Support may vary by distribution. Check with your distribution provider. Remember: A virtual appliance that is deployed in a Secure Service Container runs in a dedicated LPAR. When activated, it reduces the maximum number of available LPARs by one. Chapter 7. Operating system support 263 Linux on IBM Z also supports acquiring and releasing memory non disruptively. This feature is enabled for SUSE Linux Enterprise Server 12 and RHEL 7.9and later releases. LPAR group absolute capping Group absolute capping allows you to limit the amount of physical processor capacity that is used by an individual LPAR when a PU that is defined as a CP or an IFL is shared across a set of LPARs. This facility is designed to provide a physical capacity limit that is enforced as an absolute (versus a relative) limit. It is not affected by changes to the logical or physical",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.749831",
+    "chunk_number": 637,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "integrated with Db2 for z/OS. It delivers high-speed processing for complex Db2 queries to support business-critical reporting and analytic workloads. The accelerator transforms the mainframe into a hybrid transaction and analytic processing (HTAP) environment. For more information, see this IBM web page. Chapter 3. Central processor complex design 137 \u0002 IBM Cloud Hyper Protect Data Base as a Service (DBaaS) for PostgreSQL or MongoDB offers enterprise cloud database environments with high availability for sensitive data workloads. For more information, see this IBM Cloud web page. \u0002 IBM Cloud Hyper Protect Crypto Services is a key management service and cloud hardware security module (HSM) that supports industry standards such as PKCS #11. For more information, see this IBM Cloud web page. \u0002 IBM Security\u00ae Guardium\u00ae Data Encryption (GDE) consists of a unified suite of products that are built on a common infrastructure. These highly scalable solutions provide data encryption,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.606069",
+    "chunk_number": 356,
+    "word_count": 148
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "RIGHTS GRANTED # HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES # ---------------------------------------------------------------------------- # These MUST be lower case! MASTER_LINK=fffe CLONE_LINK=ffff #+--------------------------------------------------------------------------+ function help # give help #+--------------------------------------------------------------------------+ { echo \"Usage: clone [-v] sourceID targetID [rootMinidisk [minidisk1 minidisk2..]]\" echo \" Switches\" echo \" -v Verbose output\" echo \" Required\" echo \" sourceID the z/VM user id you want to clone from\" echo \" targetID the z/VM user id you want to clone to\" Appendix C. Additional material 501 echo \" Optional\" echo \" rootMinidisk the minidisk address that contains the root filesystem\" echo \" minidisk1..n additional minidisks that should be copied\" exit } #+--------------------------------------------------------------------------+ function cp_cmd # echo a CP command and invoke it via cp_cmd #",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.088161",
+    "chunk_number": 1026,
+    "word_count": 119
+  }
+}

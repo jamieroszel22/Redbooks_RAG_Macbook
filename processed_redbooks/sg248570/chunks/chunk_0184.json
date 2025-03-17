@@ -1,0 +1,18 @@
+{
+  "content": "formats support schema-on-read and schema evolution, enabling organizations to gradually adjust table structures as new attributes emerge, old attributes become obsolete, or analytical needs evolve. This flexibility reduces the need for costly and time-consuming migrations or reingestion processes. \u0002 Predicate push-down and data pruning: Intelligent push-down of filters and pruning of unnecessary data segments allow query engines to skip irrelevant files and columns. By filtering data at the source, systems can minimize the amount of data scanned and returned during queries, delivering faster results and more efficient use of compute resources. 84 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data By natively supporting these open formats, watsonx.data ensures that enterprises are not dependent on vendor-specific platforms or confined to a single ecosystem. This vendor-neutral stance not only future-proofs data investments but also enables businesses to mix",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.052700",
+    "chunk_number": 184,
+    "word_count": 139
+  }
+}

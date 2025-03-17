@@ -1,0 +1,18 @@
+{
+  "content": "on a coupling facility LPAR is limited to 16. ICFs are orderable by using FC 1960. Note: IFLs can be dedicated to a Linux, a z/VM, or LPAR, or can be shared by multiple Linux guests, z/VM LPARs, or SSC that are running on the same IBM z16 A02 or IBM z16 AGZ. Only z/VM, Linux on Z operating systems, SSC, and designated software products can run on IFLs. IFLs are orderable by using FC 1959. Features Max5 Max16 Max32 Max68 Maximum of IFLs FC 1959 5 16 32 68 Maximum of Unassigned IFLs FC 1962 4 15 31 67 Features Max5 Max16 Max32 Max68 Maximum of zIIPs FC 1961 5 16 32 68 Maximum of Unassigned zIIPs FC 1975 4 15 31 67 Chapter 3. Central processor complex design 105 Unassigned ICFs New on IBM z16 A02 and IBM z16 AGZ, an ICF that is purchased but not activated is registered as an unassigned ICF (FC 1974). When the system is later upgraded with another ICF, the system recognizes that an ICF was purchased and is present. The allowable number of ICFs and Unassigned ICFs for each feature is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.242706",
+    "chunk_number": 271,
+    "word_count": 190
+  }
+}

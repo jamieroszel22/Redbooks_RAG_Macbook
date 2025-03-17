@@ -1,0 +1,18 @@
+{
+  "content": "rights reserved. 251 Chapter 7. z/VM live guest relocation z/VM 6.2 and later can relocate Linux guests between members in a single system image (SSI) cluster. This capability is known as live guest relocation (LGR). While Linux systems continue to run, they can be moved across logical partitions (LPARs) on the same central processor complex (CPC), or cross-CPC, if the SSI is set up that way. This new function allows for few or even no planned outages. In this chapter, we provide a brief overview of LGR and information about how to relocate a Linux guest. This chapter includes the following topics: \u0002 7.1, \u201cLGR considerations\u201d on page 252 \u0002 7.2, \u201cRelocate a Linux system\u201d on page 253 7 252 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 7.1 LGR considerations An SSI cluster features the following types of virtual machines: \u0002 Single-configuration virtual machine A virtual machine that is defined by the USER statement can be logged on to any member of the SSI cluster, but on only one member",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.410896",
+    "chunk_number": 562,
+    "word_count": 170
+  }
+}

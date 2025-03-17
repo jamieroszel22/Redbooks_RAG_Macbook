@@ -1,0 +1,18 @@
+{
+  "content": "processor chip and therefore is available to all LPARs and guests. Moving the compression function from the (PCIe) I/O drawer to the processor chip means that compression can operate directly in L3 cache and data does not need to be passed by using I/O operations. Compression modes Compression is run in one of the following modes: \u0002 Synchronous Execution occurs in problem state where the user application starts the instruction in its virtual address space. \u0002 Asynchronous Execution is optimized for Large Operations under z/OS for authorized applications (for example, BSAM) and issues I/O by using EADMF for asynchronous execution. This type of execution maintains the current user experience and provides a transparent implementation for authorized users of zEDC. Note: The zEDC Express feature does not carry forward to IBM z16 A02 and IBM z16 AGZ. 480 IBM z16 A02 and IBM z16 AGZ Technical Guide IBM z16 A02 and IBM z16 AGZ migration considerations The IBM Integrated Accelerator for zEDC is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.317336",
+    "chunk_number": 1107,
+    "word_count": 162
+  }
+}

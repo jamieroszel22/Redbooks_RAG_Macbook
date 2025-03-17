@@ -1,0 +1,18 @@
+{
+  "content": "name server to determine what is connected to the fabric. The following attributes are registered for the IBM z16 systems: \u0002 Platform information \u0002 Channel information \u0002 Worldwide port name (WWPN) \u0002 Port type (N_Port_ID) \u0002 FC-4 types that are supported \u0002 Classes of service that are supported by the channel The platform and name server registration service are defined in the Fibre Channel Generic Services 4 (FC-GS-4) standard. The 63.75-K subchannels Servers before IBM z9 EC reserved 1024 subchannels for internal system use, out of a maximum of 64 K subchannels. Starting with IBM z9 EC, the number of reserved subchannels was reduced to 256, which increased the number of subchannels that are available. Reserved subchannels exist in subchannel set 0 only. One subchannel is reserved in each of subchannel sets 1, 2, and 3. The informal name, 63.75-K subchannels, represents 65280 subchannels, as shown in the following equation: 63 x 1024 + 0.75 x 1024 = 65280 This equation is applicable for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.004944",
+    "chunk_number": 707,
+    "word_count": 164
+  }
+}

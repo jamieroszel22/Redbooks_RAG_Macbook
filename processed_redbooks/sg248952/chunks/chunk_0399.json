@@ -1,0 +1,18 @@
+{
+  "content": "support Consideration: FICON Express16S+ features do not support auto-negotiation to a data link rate of 2 Gbps (only 4, 8, or 16 Gbps). To connect to lower speed devices a compatible switch must be used. Note: FICON Express16S+ supports endpoint authentication only (no data-in-flight encryption). 160 IBM z16 A02 and IBM z16 AGZ Technical Guide FEC at 16 Gbps connections, the FEC design allows FICON Express32 and FICON Express16S+ channels to operate at higher speeds, over longer distances, with reduced power and higher throughput while retaining the same reliability and robustness for which FICON channels are traditionally known. With the IBM DS8870 or newer, IBM z16 A02 and IBM z16 AGZ can extend the use of FEC to the fabric N_Ports for a completed end-to-end coverage of 32 Gbps FC links. FICON dynamic routing With the IBM z14 and newer IBM Z, FICON channels are no longer restricted to the use of static SAN routing policies for ISLs for cascaded FICON directors. The IBM Z now",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.774068",
+    "chunk_number": 399,
+    "word_count": 166
+  }
+}

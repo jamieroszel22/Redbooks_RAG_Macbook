@@ -1,0 +1,18 @@
+{
+  "content": "to the RACMAINT 191 disk (J) with the REPLACE option: ===> copy smf control t = = j (rep 6. Log off from MAINT. The SMF configuration of RACF is now complete. Note: These changes to the RACFSMF PROFILE EXEC will archive SMF data only when the SMF disk is full. If your site requires archiving regularly, you can use this EXEC and xautolog the user at each interval. For more information, see the chapter, \u201cProcessing Audit Records on z/VM\u201d, in z/VM RACF Security Server Auditor\u2019s Guide, SC24-6305. Note: When RACF is disconnected from CP, users will be unable to log on. To fix the full SMF disk, you will need to log on through OPERATOR by using its CP password and IPL CMS. You can copy the SMF records and then clear out the SMF records. Then, restart RACFVM. 160 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6.7.3 Copying the RACF databases In an SSI cluster, the RACF database must be shared among all members. If you are installing RACF in a single z/VM logical partition (LPAR) only, you can",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.663639",
+    "chunk_number": 375,
+    "word_count": 181
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "privilege class G users can enter affect only their own VM user IDs. For more information about enhancing security by further restricting the z/VM privileges that are granted to each Linux guest, see Running Linux Guest in less than CP Privilege Class G, REDP-3870. Tip: Linux servers are generally created with class G or less. 208 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6.13.3 Creating and using z/VM User Directory prototypes You create two prototype directory entries (PROTODIR): One prototype directory entry is for CMS, and one prototype directory entry is for Linux so that you can quickly and easily add new SCVMs to the system. Prototypes are essentially a template, which is used to build a new virtual service machine ID with a standard set of resources. IBM supplies two sample prototypes: one for a for typical CMS virtual machine, and one for a sample Linux virtual machine. Complete the following steps: 1. To verify that these are present, issue the following commands as",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.054629",
+    "chunk_number": 474,
+    "word_count": 165
+  }
+}

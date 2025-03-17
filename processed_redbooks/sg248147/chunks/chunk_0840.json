@@ -1,0 +1,18 @@
+{
+  "content": "display the number or letter in white, and inactive titles are shown in green). Several of the more useful report windows to drill down into are listed: 21. User resource usage 22. User paging load 23. User wait states 28. User configuration 29. Linux systems 33. Benchmark displays FCX124 Performance Screen Selection (FL720 ) Perf. Monitor General System Data I/O Data History Data (by Time) 1. CPU load and trans. 11. Channel load 31. Graphics selection 2. Storage utilization 12. Control units 32. History data files* 3. SSI data menu* 13. I/O device menu* 33. Benchmark displays* 4. Priv. operations 14. Reserved 34. Correlation coeff. 5. System counters 15. Cache extend. func.* 35. System summary* 6. CP IUCV services 16. Reserved 36. Auxiliary storage 7. SPOOL file display* 17. DASD seek distance* 37. CP communications* 8. LPAR data menu* 18. I/O prior. queueing* 38. DASD load 9. Shared segments 19. I/O configuration 39. Minidisk cache* A. Shared data spaces 1A. I/O config. changes 3A.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.439142",
+    "chunk_number": 840,
+    "word_count": 164
+  }
+}

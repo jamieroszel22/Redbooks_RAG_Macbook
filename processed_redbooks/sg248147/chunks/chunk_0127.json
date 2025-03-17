@@ -1,0 +1,18 @@
+{
+  "content": "Planning This chapter covers the planning of hardware, software, and networking resources that you must complete before you attempt to install z/VM and Linux. First, planning for the mode in which you operate your IBM Z or LinuxONE system, the type of z/VM installation you use, and comparing z/VM running in a VMSSI cluster versus running standalone z/VM systems is described. Then, we discuss of the bill of materials, which is a listing of all of the necessary resources. Next, we describes standardized conventions and good practices that should be adopted for labeling, configuring, and using system resources. Finally, a planning resource worksheet is presented to document all of the values that were obtained during planning. The planning resource worksheet covers the following resources: \u0002 z/VM resources \u0002 Linux resources \u0002 Linux virtual machines (VMs) The previous edition of this publication exclusively covered z/VM with the VMSSI feature enabled. This decision was made because of the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.634071",
+    "chunk_number": 127,
+    "word_count": 156
+  }
+}

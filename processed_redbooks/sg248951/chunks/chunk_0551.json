@@ -1,0 +1,18 @@
+{
+  "content": "cryptographic adapters. 85 226 IBM z16 (3931) Technical Guide When installed nonconcurrently, Crypto Express8S features are assigned PCIe cryptographic adapter numbers sequentially during the power-on reset (POR) that follows the installation. When a Crypto Express8S feature is installed concurrently, the installation can select an out-of-sequence number from the unused range. When a Crypto Express8S (Crypto Express7S or Crypto Express6S) feature is removed concurrently, the PCIe adapter numbers are automatically freed. The definition of domain indexes and PCIe cryptographic adapter numbers in the candidate list for each LPAR must be planned to allow for nondisruptive changes. Consider the following points: \u0002 Operational changes can be made by using the Change LPAR Cryptographic Controls task from the SE, which reflects the cryptographic definitions in the image profile for the partition. With this function, adding and removing the cryptographic feature without stopping a running",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.364899",
+    "chunk_number": 551,
+    "word_count": 141
+  }
+}

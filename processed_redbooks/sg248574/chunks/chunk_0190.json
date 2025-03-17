@@ -1,0 +1,18 @@
+{
+  "content": "strengths and weaknesses, which offer valuable insights to guide further refinement and optimization of the model. After the process ends and the results are good enough for the specified use case, a new fine-tuned model with new synthetic data in GGUF format is available in the ilab specified folder location in a GGUF format. Apart from the usage on ilab, it is possible to deploy it on hyperscalers such as watsonx.ai run time by using the Bring Your Own Model (BYOM) function, which fully enables a true, at-scale, enterprise-level fine-tuning process of FMs. 5.4.3 InstructLab on watsonx.ai Software-as-a-Service At the time of writing, InstructLab has demonstrated its usability primarily through the ilab CLI. This method enables users to interact with InstructLab features and functions in a straightforward and efficient manner. However, the development team is working on integrating InstructLab with watsonx.ai. This upcoming integration will enhance the user experience by providing a",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.954948",
+    "chunk_number": 190,
+    "word_count": 152
+  }
+}

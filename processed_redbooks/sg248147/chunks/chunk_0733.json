@@ -1,0 +1,18 @@
+{
+  "content": "Notes: Consider the following points: \u0002 The ALLOW_ASUSER_NOPASS_FROM lines allow SMAPI users to issue commands to the Directory Manager by using the ASUSER modifier and the password of that user. \u0002 The ASYNCHRONOUS_UPDATE_NOTIFICATION_EXIT lines activate an exit that notifies SMAPI of changes that are made to the user directory. 334 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 10.5.6 Setting up basic SMAPI configuration Complete the following steps on only one SSI member: 1. Log on to MAINT on SSI member 1. 2. Grant authority to the VSMGUARD virtual machine to use certain SFS directories with the following three GRANT commands: ===> grant authority vmsys:vsmwork1. to vsmguard (write newwrite ===> grant authority vmsys:vsmwork1.data to vsmguard (write newwrite ===> grant authority * * vmsys:vsmwork1. to vsmguard (read 3. Access the SFS VMSYS:VSMWORK1 as your F disk in read/write mode: ===> access vmsys:vsmwork1. f (forcerw 4. Edit the file VSMWORK1 AUTHLIST on that disk: ===> x",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.082985",
+    "chunk_number": 733,
+    "word_count": 153
+  }
+}

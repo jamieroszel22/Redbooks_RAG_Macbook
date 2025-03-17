@@ -1,0 +1,18 @@
+{
+  "content": "Python-driven SDK approach to programming is being undertaken. Two main API and SDK can be used to work with watsonx.governance. Other APIs also exist which can help, and they will be mentioned as necessary throughout the chapter. \u0002 AI Factsheets API and SDK - The watsonx.governance AI Factsheet API and SDK is used to control the factsheets component of watsonx.governance. It will be used to set up factsheet objects and associate them with given assets. \u0002 OpenScale API and SDK - The watsonx.governance OpenScale API and SDK controls the computational layer of watsonx.governance. The brunt of activity comes from this API. Users can accomplish a variety of activities including: \u2013 Creating subscriptions to monitor deployments. \u2013 Performing model evaluations. \u2013 Associating existing factsheets to AI use cases. Additionally, Governance Console APIs are also available for interacting with Governance Console within watsonx.governance. Metrics The software comes out-of-box with a plethora of",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.152181",
+    "chunk_number": 189,
+    "word_count": 150
+  }
+}

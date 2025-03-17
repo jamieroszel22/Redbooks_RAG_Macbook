@@ -1,0 +1,18 @@
+{
+  "content": "\u201cPermanent and Temporary Upgrades\u201d on page 320 \u0002 8.2, \u201cPU upgrades\u201d on page 325 \u0002 8.3, \u201cMiscellaneous equipment specification (MES) upgrades\u201d on page 332 \u0002 8.4, \u201cPermanent upgrade by using the CIU facility\u201d on page 336 \u0002 8.5, \u201cOn/Off Capacity on Demand\u201d on page 340 \u0002 8.6, \u201cz/OS Capacity Provisioning\u201d on page 346 \u0002 8.7, \u201cCapacity for Planned Event\u201d on page 351 \u0002 8.8, \u201cCapacity Backup\u201d on page 351 \u0002 8.9, \u201cFlexible Capacity Cyber Resiliency\u201d on page 355 \u0002 8.10, \u201cPlanning for nondisruptive upgrades\u201d on page 357 \u0002 8.11, \u201cSummary of Capacity on-Demand offerings\u201d on page 363 8 320 IBM z16 A02 and IBM z16 AGZ Technical Guide 8.1 Permanent and Temporary Upgrades The terminology for CoD and the types of upgrades for an IBM z16 A02 and IBM z16 AGZ are described in this section. 8.1.1 Overview Upgrades can be categorized as described in this section. Permanent versus temporary upgrades Deciding whether to perform a Permanent or a Temporary upgrade depends on the situation. For example, a growing",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.315488",
+    "chunk_number": 797,
+    "word_count": 169
+  }
+}

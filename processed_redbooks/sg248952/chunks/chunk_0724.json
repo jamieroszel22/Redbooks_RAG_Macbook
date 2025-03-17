@@ -1,0 +1,18 @@
+{
+  "content": "25GbE RoCE Express2.1 and 25GbE RoCE Express2 Based on the RoCE Express2 generation hardware, the 25GbE RoCE Express2 (FC 0430 and 0450) features provide two 25GbE physical ports and requires 25GbE optics and Ethernet switch 25GbE support. The switch port must support 25GbE (negotiation down to 10GbE is not supported). The 25GbE RoCE Express2 has one PCHID and the same virtualization characteristics and the 10GbE RoCE Express2 (FC 0412 and FC 0432); that is, 126 Virtual Functions per PCHID. z/OS requires fixes for APAR OA55686. RMF 2.2 and later is also enhanced to recognize the CX4 card type and properly display CX4 cards in the PCIe Activity reports. 25GbE RoCE Express2 feature also are used by Linux on IBM Z for applications that are coded to the native RoCE verb interface or use Ethernet (such as TCP/IP). This native exploitation does not require a peer OSA. Support for select Linux on IBM Z distributions is now provided for Shared Memory Communications over Remote Direct Memory",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.063747",
+    "chunk_number": 724,
+    "word_count": 165
+  }
+}

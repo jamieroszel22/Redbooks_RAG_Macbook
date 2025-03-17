@@ -1,0 +1,18 @@
+{
+  "content": "enough unassigned PUs are available to satisfy the request. The PR/SM rules that govern logical processor activation remain unchanged. By using reserved processors, you can define more logical processors than the number of available CPs, IFLs, ICFs, and zIIPs in the configuration to an LPAR. This process makes it possible to nondisruptively configure online more logical processors after more CPs, IFLs, ICFs, and zIIPs are made available concurrently. They can be made available with one of the capacity on-demand options. 3.5.8 Integrated Firmware Processors Integrated Firmware Processors (IFP) are allocated from the pool of PUs and are available for the entire system. Unlike other characterized PUs, IFPs are standard on IBM z16 A02 and IBM z16 AGZ and not defined by the client. The two PUs that are characterized as IFP are dedicated to supporting firmware functions that are implemented in Licensed Internal Code (LIC); for example, the resource groups (RGs) that are used for managing",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.357815",
+    "chunk_number": 291,
+    "word_count": 156
+  }
+}

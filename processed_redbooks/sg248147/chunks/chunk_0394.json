@@ -1,0 +1,18 @@
+{
+  "content": "SYSADMIN. You will be asked to change the password. 10.Grant OPERATIONS privileges to the following virtual machines: ===> rac alu datamove operations ===> rac alu MAINT720 operations ===> rac alu bldseg operations ===> rac alu lnxadmin operations These commands give the four specified virtual machines access to all minidisks on the system. 11.Revoke the privileges for the IBMUSER virtual machine because it is no longer needed: ===> rac alu ibmuser revoke 170 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 12.Grant the DIRMAINT virtual machine SPECIAL privileges: ===> rac alu dirmaint special 13.Grant the MAINT virtual machine SPECIAL and OPERATIONS privileges: ===> rac alu maint special operations 14.Define the system virtual switches that are named VSW1 and VSW2 to the VMLAN class: ===> rac rdefine vmlan system.vsw1 ===> rac rdefine vmlan system.vsw2 15.Permit TCPIP to the virtual switch VSW1: ===> rac permit system.vsw1 class(vmlan) id(tcpip) access(update) 16.Permit Linux machines to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.741780",
+    "chunk_number": 394,
+    "word_count": 149
+  }
+}

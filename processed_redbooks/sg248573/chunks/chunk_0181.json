@@ -1,0 +1,18 @@
+{
+  "content": "and quantitative way. To achieve this, ground-truth data is critical and must be acquired in order to effectively implement lifecycle governance. The goal of this section is to explain the connection between the assets (prompt template assets or models) that realize the use case, which lifecycle stage those assets belong in, and how we automate the lifecycle of those assets as they progress from development through to operation. Before diving into specific considerations, here are the higher-level activities which must be completed to effectively govern the lifecycle of an AI asset. A Prompt Template Asset or a Model must exist that contributes to the implementation of an established use case. A Prompt Template Asset (PTA) can be either a Prompt Template from IBM's watsonx.ai, or a detached prompt template representing a prompt on a 3rd party platform. Similarly, a Model is simply any ML model which solves a traditional data science / ML use case and can be either deployed in IBM",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.126758",
+    "chunk_number": 181,
+    "word_count": 162
+  }
+}

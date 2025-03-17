@@ -1,0 +1,18 @@
+{
+  "content": "RACF. 172 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Putting RACF into production RACF is now configured to be put into production. Put RACF into production with the following steps: 1. If you are OPERATOR, disconnect: ===> disc ... 2. Log on as MAINT720 on the next member. You will be asked to change the password on the first member. On subsequent members, use the new password. 3. Start the AUTOLOG2 virtual machine with the XAUTOLOG command to start the shared file pool server machines: ===> xautolog autolog2 ICH70001I AUTOLOG2 LAST ACCESS AT **:**:** ON ****, **** **,**** Command accepted AUTO LOGON *** AUTOLOG1 USERS = 5 HCPCLS6056I XAUTOLOG information for AUTOLOG1: The IPL command is verified by the IPL command processor. Put RACF into production with the PUT2PROD RACF command. Watch for the \u201cCompleted successfully\u201d message: ===> put2prod rac ... 4. Put CP into production with the PUT2PROD CP command. Watch for the completed successfully message: ===> put2prod cp ... // a",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.758847",
+    "chunk_number": 399,
+    "word_count": 163
+  }
+}

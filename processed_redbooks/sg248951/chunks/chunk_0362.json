@@ -1,0 +1,18 @@
+{
+  "content": "SSC; software developers do not need to write any IBM SSC-specific programming code. \u0002 End-to-end encryption (in-flight and at-rest data): \u2013 Automatic Network Encryption (TLS, IPsec): Data-in-flight. Note: Use cases for Flash did not change (for example, z/OS paging and CF shared queue overflow). Instead, they transparently benefit from the changes in the hardware implementation. No option is available for VFM plan ahead. The only option is to always include VFM plan ahead when Flexible Memory option is selected. 142 IBM z16 (3931) Technical Guide \u2013 Automatic File System Encryption (LUKS): Data-at-rest. \u2013 Linux Unified Key Setup (LUKS) is the standard way in Linux to provide disk encryption. SSC encrypts all data with a key that is stored within the appliance. \u2013 Protected memory: Up to 16 TB can be defined per IBM SSC LPAR. \u0002 Encrypted Diagnostic Data All diagnostic information (debug memory dump data, logs, and so on) are encrypted and do not contain any user or application data. \u0002",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.646029",
+    "chunk_number": 362,
+    "word_count": 162
+  }
+}

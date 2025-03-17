@@ -1,0 +1,18 @@
+{
+  "content": "Validated Boot. The client builds all needed load module executables, and signs them with the client\u2019s private key. The IPL Data is stored with this signature. At IPL time the IBM Z platform firmware (the Z Bootloader) validates the signed IPL text, which contains the validation function code the operating 238 IBM z16 A02 and IBM z16 AGZ Technical Guide system will use in subsequent load module verification steps. The operating system loads individual authorized load modules during the IPL, and uses the validation function code to validate their signatures using the client\u2019s public keys. The firmware (SE/HMC and LPAR) provides the trusted validation Certificate Store for use in validation processing done by both the Z Bootloader and the operating system. If the verification is successful, the IPL is performed with the validated IPL data. Doing this a chain of trust is build, through signature validation, at every step of this cascading process, anchored in the firmware validation of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.524838",
+    "chunk_number": 588,
+    "word_count": 159
+  }
+}

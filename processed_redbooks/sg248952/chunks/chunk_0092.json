@@ -1,0 +1,18 @@
+{
+  "content": "connect to the PCIe+ I/O drawers) and Integrated Coupling Adapter Short Reach (ICA SR) coupling links. The number of fanouts that can be installed depends on the system feature. \u2013 Each fanout feature includes the following configurations: \u2013 Two-port PCIe+ Gen3 (16 GBps each port) I/O fanout, each port supporting one domain in a 16-slot PCIe+ I/O drawer. \u2013 Two-port ICA SR or ICA SR1.1 PCIe fanout for coupling links (two links, 8 GBps each). \u0002 Four Power Supply Units (PSUs) that provide power to the CPC drawer, hot swappable, accessible form the rear. The loss of one PSU leaves enough power to satisfy the power requirements of the entire drawer. The PSUs can be concurrently maintained. \u0002 Two combined Baseboard Management Cards (BMCs) and Oscillator cards that provide redundant interfaces to the internal management network and clock synchronization for the CPC. The combined BMC/OSC are located in the front of the CPC drawer. With the IBM z16 A02 and IBM z16 AGZ, up to four Virtual Flash",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.488814",
+    "chunk_number": 92,
+    "word_count": 168
+  }
+}

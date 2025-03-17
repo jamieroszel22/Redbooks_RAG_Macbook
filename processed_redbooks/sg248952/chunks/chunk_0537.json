@@ -1,0 +1,18 @@
+{
+  "content": "cryptographic coprocessors Crypto Express8S provides asynchronous cryptographic functions to IBM z16 A02 and IBM z16 AGZ. Over 300 Cryptographic algorithms and modes are supported, including the following algorithms and modes: \u0002 DES/TDES w DES/TDES MAC/CMAC: The Data Encryption Standard is a widespread symmetrical encryption algorithm. DES, along with its double-length and triple length variations, TDES today are considered to be not sufficient secure for many applications. They were replaced by the AES as the official US standard, but it is still used in the industry with the MAC and the Cipher-based Message Authentication Code (CMAC) for verifying the integrity of messages. The Enhanced Wrapping Method for TDES key tokens a. The minimum initial order of Crypto Express8S feature 0909 is two. After the initial order, more Crypto Express7S features can be ordered one feature individually, for a total of 40 HSMs (combined). b. Crypto Express8S (dual HSM) has two hardware security",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.308698",
+    "chunk_number": 537,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "access method encryption to obtain the best performance possible. It is not recommended to enable z/OS data set encryption until all sharing systems, fallback, backup, and DR systems support encryption. In addition to applying PTFs enabling the support, ICSF configuration is required. The supported operating systems are listed in Table 7-10 on page 259. Quantum-safe encryption with Crypto Express8S Quantum-safe cryptography strengthens the portfolio of pervasive encryption capabilities on IBM z16 A02 and IBM z16 AGZ, allowing clients not only to encrypt the data with a quantum-safe cryptographic algorithm (AES with 256-bit keys) as is the case with prior IBM Z systems, but with the use of quantum-safe algorithms for internal system protection of encryption keys. The enhancements introduced with IBM z16 A02 and IBM z16 AGZ to accomplish this are: \u0002 Quantum-safe key generation \u0002 Quantum-safe hybrid key exchange schemes \u0002 Quantum-safe dual digital signature schemes Crypto Analytics Tool",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.207743",
+    "chunk_number": 763,
+    "word_count": 150
+  }
+}

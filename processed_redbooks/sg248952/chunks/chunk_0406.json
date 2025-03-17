@@ -1,0 +1,18 @@
+{
+  "content": "four-site disaster recovery solution. For more information about the FICON multi-hop, see the FICON Multihop: Requirements and Configurations white paper at the IBM Techdocs Library website FICON feature summary The FICON feature codes, cable type, maximum unrepeated distance, and the link data rate on an IBM z16 A02 and IBM z16 AGZ are listed in Table 4-7. All FICON features use LC Duplex connectors. Table 4-7 FICON features zHyperLink Express1.1 (FC 0451) zHyperLink is a new technology that provides up to 5x reduction in I/O latency times for Db2 read requests with the qualities of service IBM Z clients expect from I/O infrastructure for Db2 v11 plus fixes (for read support) and v12 plus fixes (for write support) with z/OS. Channel feature Feature codes Bit rate Cable type Maximum unrepeated distancea (MHz -km) a. Minimum fiber bandwidths in MHz/km for multimode fiber optic links are included in parentheses, where applicable. FICON Express32S LXbc b. 2 and 4 Gbps connectivity is not",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.804184",
+    "chunk_number": 406,
+    "word_count": 161
+  }
+}

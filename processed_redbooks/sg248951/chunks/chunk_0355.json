@@ -1,0 +1,18 @@
+{
+  "content": "manner. The CF relinquishes control when work is exhausted or when PR/SM takes the physical processor away from the logical processor. Performance consideration: Dedicated processor CF still provides the best CF image performance for production environments. Chapter 3. Central processor complex design 139 On IBM z16, the use of Coupling Thin Interrupts (DYNDISP=THIN) is now the only option that is available for shared engines in a CF LPAR. Specification of OFF or ON in CF commands and the CF configuration file will be preserved, for compatibility, but a warning message will be issued to indicate that these options are no longer supported, and that DYNDISP=THIN behavior will be used. 3.9.3 Dynamic CF dispatching With the introduction of the Coupling Thin Interrupt support (only available option on IBM z16), which is used only when the CF partition uses shared engines, the CFCC code is changed to handle these interrupts correctly. CFCC was also changed to relinquish voluntarily control",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.616164",
+    "chunk_number": 355,
+    "word_count": 157
+  }
+}

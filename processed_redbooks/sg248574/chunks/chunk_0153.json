@@ -1,0 +1,18 @@
+{
+  "content": "modular blocks of weights while freezing most the model. This approach reduces the computational and memory requirements of the process, which makes fine-tuning accessible even on resource-constrained hardware. QLoRA goes a step further by lowering the precision of certain parameters during training, which further optimizes performance without compromising accuracy. These innovations enable watsonx.ai to deliver results faster and with fewer resources than traditional approaches. \u0002 Tuning Studio integration: Another key advantage of watsonx.ai is its integration with the Tuning Studio, which provides access to a library of pre-configured model templates. These templates enable users to build on pre-existing architectures that are optimized for specific tasks or domains. This approach eliminates the need to design custom models from scratch, which reduces the time and expertise that are required to initiate fine-tuning projects. 66 Simplify Your AI Journey: Unleashing the Power of AI",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.792323",
+    "chunk_number": 153,
+    "word_count": 141
+  }
+}

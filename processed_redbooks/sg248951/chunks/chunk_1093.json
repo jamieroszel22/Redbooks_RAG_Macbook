@@ -1,0 +1,18 @@
+{
+  "content": "PUs can share caches and memories within the first and second drawers respectively, so the performance improvements is expected. The workload variability for moving from IBM z14 and IBM z15 to IBM z16 is expected to be stable. Workloads that are migrating from z10 EC, z196, and zEC12 to IBM z16 can expect to see similar results with slightly less variability than the migration from IBM z14 and IBM z15. Reminder: \u0002 RNI is not a performance metric. \u0002 RNI and L1MP allows one to match their workload to an LSPR workload \u2013 Any other use of RNI is not valid 6 For more information, see the Moore\u2019s Law website. 484 IBM z16 (3931) Technical Guide Experience demonstrates that IBM Z servers can be run at up to sustained 100% utilization levels. However, most customers prefer to leave some room and run at 90% or slightly under. 12.9 Capacity planning considerations for IBM z16 In this section, we describe recommended ways conduct capacity planning for IBM z16. 12.9.1 Collect CPU MF counter data It",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.278285",
+    "chunk_number": 1093,
+    "word_count": 174
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "enhancements in the hardware. CPACF supports the following features in IBM z16: \u0002 Processor Activity Instrumentation to count cryptographic operations \u0002 Advanced Encryption Standard (AES, symmetric encryption) 12 CPACF hardware is implemented on each IBM z15 core. CPACF functions are enabled with FC 3863. Chapter 7. Operating system support 311 \u0002 Data Encryption Standard (DES, symmetric encryption) \u0002 Secure Hash Algorithm (SHA, hashing) \u0002 SHAKE Algorithms \u0002 True Random Number Generation (TRNG) \u0002 Improved GCM (Galois Counter Mode) encryption (enabled by a single hardware instruction) In addition, the IBM z16 and IBM z15 cores implement a Modulo Arithmetic unit in support of Elliptic Curve Cryptography. CPACF is used by several IBM software product offerings for z/OS, such as IBM WebSphere Application Server for z/OS. For more information, see 6.4, \u201cCP Assist for Cryptographic Functions\u201d on page 219. The supported operating systems are listed in Table 7-10 on page 263 and Table 7-11 on",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.168696",
+    "chunk_number": 752,
+    "word_count": 153
+  }
+}

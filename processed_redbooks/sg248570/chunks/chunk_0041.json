@@ -1,0 +1,18 @@
+{
+  "content": "technologies. Some technologies have a short lifespan. Others endure and evolve over decades and remain relevant to this day, such as relational database management systems (RDBMSs). 1.1.1 From centralized to distributed For many years, data storage and processing were centralized. People had to take their work to the computer or access it through \u201cdumb\u201d terminals. With the advent of more affordable computers, processing and data became decentralized, putting computing power in the hands of individuals. However, this development led to a problem of data being replicated in an uncontrolled manner. With data being created, stored, and processed across many personal devices, it became increasingly difficult to control the sprawl of versions of data sets and apply quality, security, and other controls. Individual departments in various enterprises started organizing and storing only the data that they needed, which resulted in many data silos that did not communicate with each other",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.496788",
+    "chunk_number": 41,
+    "word_count": 149
+  }
+}

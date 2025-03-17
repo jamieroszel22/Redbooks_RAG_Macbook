@@ -1,0 +1,18 @@
+{
+  "content": "components: \u0002 Power consumption \u0002 Aggregated Processors \u0002 Processors (with SMT information) \u0002 System Assist Processors \u0002 Logical Partitions \u0002 Channels \u0002 Adapters: Crypto use percentage is displayed according to the physical channel ID (PCHID number) \u0002 Environmentals - New with Driver 51/Version 2.16.0: \u2013 Total Partition Power Consumption (kW) \u2013 Total Infrastructure Power Consumption (kW) \u2013 Total Unassigned Power Consumption (kW) \u2013 Partition power consumption per Partition (kW) Monitor System Events The Monitor System Events task allows you to create and manage event monitors. An event monitor listens for events from managed objects. When an event is received, the monitor tests it with user-defined criteria. If the event passes the tests, the monitor enables an e-mail to be sent to interested users. An example of the settings for Event Monitor Summary can be see on Figure 10-31. Figure 10-31 Event Monitor Summary HMC Web Services API With the Web Services API you can call information",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.094371",
+    "chunk_number": 1022,
+    "word_count": 156
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Server Eth. Switch Eth. Switch AIO3 (I/O3) [3] AIO2 (I/O2) [2] ACP0 (CPC0) AIO1 (I/O1) [1] Appendix D. Rack configurations 487 Figure 12-14 Two CPC drawers and 0, 1, 2, and 3 PCIe+ I/O drawers SE Server SE Server Eth. Switch Eth. Switch AIO3 (I/O3) [3] AIO2 (I/O2) [2] ACP1 or FC 2332 (5U) CPC1 Reserved ACP0 (CPC0) AIO1 (I/O1) [1] SE Server SE Server Eth. Switch Eth. Switch ACP1 or FC 2332 (5U) CPC1 Reserved ACP0 (CPC0) AIO1 (I/O1) [1] SE Server SE Server Eth. Switch Eth. Switch ACP1 or FC 2332 (5U) CPC1 Reserved ACP0 (CPC0) SE Server SE Server Eth. Switch Eth. Switch AIO2 (I/O2) [2] ACP1 or FC 2332 (5U) CPC1 Reserved ACP0 (CPC0) AIO1 (I/O1) [1] 488 IBM z16 A02 and IBM z16 AGZ Technical Guide \u00a9 Copyright IBM Corp. 2023. All rights reserved. 489 Additional material This book refers to additional material that can be downloaded from the Internet as described in the following sections. Locating the web material The web material associated with this book is available at:",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.352880",
+    "chunk_number": 1117,
+    "word_count": 175
+  }
+}

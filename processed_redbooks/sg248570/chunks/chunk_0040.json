@@ -1,0 +1,18 @@
+{
+  "content": "Data Lakehouse with IBM watsonx.data 1.1 Current challenges in the data landscape Accurate and accessible data, in all its forms (structured, unstructured, multimedia, digital, genetic, and organic) is the lifeblood of an organization. With the correct data, artificial intelligence (AI) can help an organization accelerate the achievement of smarter outcomes through deeper insights and understanding of its data estates, and discover innovative ways of solving some of the world\u2019s most challenging business and societal problems. Yet many organizations continue to face the challenges of managing, governing, and analyzing sprawling disparate data silos spread across their multi-vendor on-premises, private cloud, or public cloud, and hybrid multi-cloud environments. Many new paradigms and advances in computing technologies have sought to revolutionize the ways in which organizations analyze and extract insights from data. Over time, consumers learn the values and limitations of these",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.494565",
+    "chunk_number": 40,
+    "word_count": 139
+  }
+}

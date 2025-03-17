@@ -1,0 +1,18 @@
+{
+  "content": "temperature in the hot aisles to exceed a comfortable temperature, add as many perforated tiles as necessary to create a satisfactory comfort level. Heated exhaust air exits the computer room above the computing equipment. For more information about the requirements for air-cooling options, see 3931 Installation Manual for Physical Planning, GC28-7015. Chapter 11. Environmental requirements 463 11.3 Physical specifications This section describes the weights and dimensions of IBM z16 server. The IBM z16 can be installed on a raised or nonraised floor. (For more information about weight distribution and floor loading tables, see IBM 3931 Installation Manual for Physical Planning, GC28-7015). This data is used with the maximum frame weight, frame width, and frame depth to calculate the floor loading. Weight estimates for the maximum system configurations on the 3931 PDU-based system are listed in Figure 11-10 on page 469. Table 11-10 Weights for maximum machine configurations (PDU) The",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.193142",
+    "chunk_number": 1060,
+    "word_count": 149
+  }
+}

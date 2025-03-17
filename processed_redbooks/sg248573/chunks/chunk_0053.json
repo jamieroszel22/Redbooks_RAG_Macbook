@@ -1,0 +1,18 @@
+{
+  "content": "Business unit Legal / compliance Risk management (Cyber) Security Privacy Procurement Other Assess and approve foundation models X X X X X X X Assess and approve use cases X X X X X X X Govern the development of AI assets X X X X X X X Govern the deployment of AI assets X X X X X Govern the post-deployment of AI assets X X X X X Compliance with legal obligations across use cases (such as AI literacy X X X Assess and approve AI embedded in enterprise applications X X X X X X X Regulator interactions X Regulatory change X Risk control assessment X X X Chapter 1. Challenges and opportunities in AI governance 9 Given this multi-dimensional nature of AI governance, organizations should be aware of common gaps: \u0002 Communication gaps: AI engineers are not legal experts and vice versa, and the same goes for the other stakeholders. To overcome this gap, consider: \u2013 Education programs to create a common base of understanding, without everyone having to know the full extent of the other's roles.",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.627350",
+    "chunk_number": 53,
+    "word_count": 182
+  }
+}

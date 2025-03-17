@@ -1,0 +1,18 @@
+{
+  "content": "internal Ethernet switches (x2) are always at locations A39 and A40 More Ethernet switches (x2) are available when necessary in Frame C or B \u0002 I/O PCHID numbering starts with 0100 and increments depending on the number of features that is ordered. No PCHID number affinity is available to a fixed PCIe+ I/O drawer location as with previous systems. 2.1.1 IBM z16 cover (door) design The standard cover set for IBM z16 model A01 is shown in Figure 2-3. Feature Description iPDU BPA Number of line cords 2,4,6 or 8 2 or 4 3-Phase Line cords Yes Yes 200-240VAC (4 wire), 60A (Low Voltage) Yes Yes 380-415VAC (5 wire) 30/32A (High Voltage) Yes Yes 480VAC (5 wire Wye)a a. Wye cords require five wires, three for Power phases, one for Neutral and one for Ground. No Yes PCIe+ I/O drawer max 12 10 Water Cooling No No Radiator Cooling Yes Yes Internal Battery Feature No No Phase loss immunity No Yes Balanced Power No Yes DC Power available No No Caution: Installation of a low voltage system to a high",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.553728",
+    "chunk_number": 108,
+    "word_count": 180
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "technologies. The IBM z16 A02 and IBM z16 AGZ are no exception. IBM z16 A02 and IBM z16 AGZ implement a new processor chip design with each processor unit (PU) running at 4.6 GHz. The new processor chip design has a new cache hierarchy, on-chip AI accelerator shared by the PU cores, transparent memory encryption, and increased uniprocessor capacity (single thread and SMT similar). Chapter 1. Introduction and overview 7 The on-chip AI scoring logic provides sub-microsecond AI inferencing for deep learning and complex neural network models. The redesigned cache structure has the following cache sizes: \u0002 256 KB L1 per PU core \u0002 32 MB semi-private L2 per PU core \u0002 256 MB (logical) shared victim virtual L3 per chip \u0002 2 GB3 (logical) shared victim virtual L4 per CPC drawer The result is improved system performance and scalability with 1.5x more cache capacity per core over the IBM z15 T02 and reduced average access latency through a flatter topology. The IBM z16 A02 is delivered in a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.431986",
+    "chunk_number": 77,
+    "word_count": 169
+  }
+}

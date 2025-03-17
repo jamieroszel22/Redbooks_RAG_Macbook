@@ -1,0 +1,18 @@
+{
+  "content": "AI engineers to get the most out of Prompt Lab and watsonx.ai. The Chat mode enables users to converse with a FM of their choice. The Structured mode is great for novice users because it helps them create effective prompts by providing defined fields, and also by providing sample templates to build on. The Freeform mode is great for more experienced AI engineers who know how to format a prompt; with this option, users submit prompts in plain text. Figure 3-6 shows the Chat mode in Prompt Lab on watsonx.ai. Figure 3-6 Prompt Lab Chat on IBM watsonx.ai Low-code solutions on IBM watsonx.ai This section highlights a few of the low-code tools that are available on the IBM watsonx.ai platform. SPSS Modeler SPSS Modeler is a low-code tool that you can use to transform data and build models with little to no-programming experience. You can drag-and-drop various nodes onto the canvas to create a flow to perform various tasks, such as importing data, merging data, and creating models. Figure",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.471410",
+    "chunk_number": 88,
+    "word_count": 169
+  }
+}

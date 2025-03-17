@@ -1,0 +1,18 @@
+{
+  "content": "smaller size, consider the following important information about minidisks: \u0002 Minidisks can be shared between several z/VM virtual machines inside the same z/VM. \u0002 They are widely used to provide small disks to each Linux virtual machine on the system, which is preferable when every virtual machine must have its own read/write CMS disk. \u0002 DirMaint provides the means to reasonably organize all of the necessary minidisks. \u0002 Minidisks can be used to provide virtual HYPERPAV alias devices that are distributed over the available HYPERPAV alias devices. Therefore, more HYPERPAV alias devices can be set up than are physically configured in the environment. \u0002 When you use HYPERPAV, only full-pack minidisks, including cylinder 0, can be used. To prevent abuse, you can attach the real DASD with the DEVNO statement at the MDISK definition instead of using a volume ID (volid). To further improve system security with this specific type of minidisks, do not enable minidisks for users in SYSTEM",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.223348",
+    "chunk_number": 772,
+    "word_count": 160
+  }
+}

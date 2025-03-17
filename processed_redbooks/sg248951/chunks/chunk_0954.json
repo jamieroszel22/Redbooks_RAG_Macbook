@@ -1,0 +1,18 @@
+{
+  "content": "concurrent update or upgrade. Consider the following key points about CDM: \u0002 The HMA can query whether a system is ready for a concurrent driver upgrade. \u0002 Previous firmware updates, which require an initial machine load (IML) of the IBM z16 system to be activated, can block the ability to run a concurrent driver upgrade. \u0002 A function on the SE allows you or your IBM SSR to define the concurrent driver upgrade sync point to be used for a CDM. \u0002 The ability to concurrently install and activate a driver can eliminate or reduce a planned outage. \u0002 IBM z16 introduces Concurrent Driver Upgrade (CDU) cloning support to other CPCs for CDU preinstallation and activation. \u0002 Concurrent crossover from Driver level N to Driver level N+1, then to Driver level N+2, must be done serially. No composite moves are allowed. \u0002 Disruptive upgrades are permitted at any time, and allow for a composite upgrade (Driver N to Driver N+2). \u0002 Concurrently backing up to the previous driver level is not possible.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.835230",
+    "chunk_number": 954,
+    "word_count": 172
+  }
+}

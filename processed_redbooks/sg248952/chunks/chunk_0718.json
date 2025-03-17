@@ -1,0 +1,18 @@
+{
+  "content": "performance for the FCP protocol The FCP LIC is modified to help increase I/O operations per second for small and large block sizes, and to support 32-Gbps link speeds. For more information about FCP channel performance, see the performance technical papers that are available at the IBM Z I/O connectivity page of the IBM IT infrastructure website. The FCP protocol is supported by z/VM, 21CS VSEn, and Linux on IBM Z. The supported operating systems are listed in Table 7-6 on page 252 and Table 7-7 on page 253. T10-DIF support American National Standards Institute (ANSI) T10 Data Integrity Field (DIF) standard is supported on IBM Z for SCSI end-to-end data protection on fixed block (FB) LUN volumes. IBM Z provides added end-to-end data protection between the operating system and the DS8870 unit. This support adds protection information that consists of Cyclic Redundancy Checking (CRC), Logical Block Address (LBA), and host application tags to each sector of FB data on a logical volume.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.037998",
+    "chunk_number": 718,
+    "word_count": 163
+  }
+}

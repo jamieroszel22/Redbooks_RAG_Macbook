@@ -1,0 +1,18 @@
+{
+  "content": "Isolation Status: OFF VEPA Status: OFF Uplink Port: State: Ready PriQueuing: FORCED OFF PMTUD setting: EXTERNAL PMTUD value: 9000 Trace Pages: 8 RDEV: 1913.P01 VDEV: 0609 Controller: DTCVSW3 ACTIVE Adapter ID: 3907000BB4B7.0174 RDEV: 1933.P01 VDEV: 0603 Controller: DTCVSW4 BACKUP Adapter ID: 3907000BB4B7.010C IVL Port: Adapter Owner: SYSTEM NIC: FFFD.P00 Name: UNASSIGNED Type: QDIO Chapter 14. Working with networks 425 RX Packets: 1132 Discarded: 1062 Errors: 0 TX Packets: 1388 Discarded: 0 Errors: 0 RX Bytes: 52312 TX Bytes: 152704 Device: FFFD Unit: 000 Role: DATA Port: 2100 Options: Ethernet Broadcast Unicast MAC Addresses: 02-00-00-00-00-00 Multicast MAC Addresses: 03-FF-FF-FF-FF-01 This display shows the \u201cIVL Port\u201d section, which confirms it is an IVL VSwitch. The Multicast MAC Address that is listed ends in 01, which is the address that is assigned to IVL Domain A. More information about the status of the IVL is shown by running the QUERY VMLAN command. Example 14-4 shows the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.654188",
+    "chunk_number": 904,
+    "word_count": 153
+  }
+}

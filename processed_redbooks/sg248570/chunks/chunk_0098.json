@@ -1,0 +1,18 @@
+{
+  "content": "gosales \u2013 SSL: off 3.2.2 PostgreSQL access When connecting to the PostgreSQL engine, select the PostgreSQL driver. To connect to the PostgreSQL system, extract the admin password by using the cat /certs/passwords command when connected to the IBM watsonx.data system. You can also retrieve the credentials by opening the Credentials notebook in the Jupyter Notebook service. When accessing the PostgreSQL database in the system, use the following settings. \u0002 Hostname: ibm-lh-postgres \u0002 Port: 5432 \u0002 Username: admin \u0002 Password: The value that was extracted with the cat /certs/passwords command in the previous step \u0002 Database: gosalesdw Chapter 3. Ingesting data into an open data lakehouse 33 3.2.3 PostgreSQL external access The following credentials are used for remote access. \u0002 Hostname: region.services.cloud.techzone.com \u0002 Port: port \u0002 Username: admin \u0002 Password: The value that was extracted that was extracted with the cat /certs/passwords command in the previous step \u0002 Database name:",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.718905",
+    "chunk_number": 98,
+    "word_count": 149
+  }
+}

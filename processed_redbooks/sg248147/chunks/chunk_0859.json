@@ -1,0 +1,18 @@
+{
+  "content": "3521MB 901440 0.0.0702 n/f dasde 94:16 ECKD 0.0.0703 n/f dasdf 94:20 ECKD 0.0.0704 n/f dasdg 94:24 ECKD 4. Format the disks in parallel with the dasdfmt command by using a for loop and putting them in the background: # for i in e f g > do > dasdfmt -b 4096 -y -f /dev/dasd$i & > done [1] 1923 [2] 1924 [3] 1925 Finished formatting the device. Rereading the partition table... ok Finished formatting the device. Rereading the partition table... ok Finished formatting the device. Rereading the partition table... ok [1] Done dasdfmt -b 4096 -y -f /dev/dasd$i [2]- Done dasdfmt -b 4096 -y -f /dev/dasd$i [3]+ Done dasdfmt -b 4096 -y -f /dev/dasd$i 5. Create one partition from each of the disks by using a bash for loop and the fdasd -a command: # for i in e f g > do > fdasd -a /dev/dasd$i > done reading volume label ..: VOL1 reading vtoc ..........: ok auto-creating one partition for the whole disk... ... 400 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 The three new minidisks are now low-level",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.514182",
+    "chunk_number": 859,
+    "word_count": 181
+  }
+}

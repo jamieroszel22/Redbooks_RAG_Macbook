@@ -1,0 +1,18 @@
+{
+  "content": "pre-planned. Depending on the system configuration, a fanout rebalancing might be needed for availability reasons. 8.11 Summary of Capacity on-Demand offerings The CoD infrastructure and its offerings are based on client requirements for more flexibility, granularity, and better business control over the IBM Z infrastructure, operationally, and financially. After the offerings are installed on the BM z16 A02 or IBM z16 AGZ SE, they can be activated at any time at the client\u2019s discretion. No intervention by IBM or IBM personnel is necessary. In addition, the activation of CBU does not require a password. The IBM z16 A02 and IBM z16 AGZ can have up to eight offerings installed at the same time, with the limitation that only one of them can be an On/Off CoD offering. The others can be any combination. The installed offerings can be activated fully or partially, and in any sequence and any combination. The offerings can be controlled manually through tasks on the HMC, or programmatically",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.645114",
+    "chunk_number": 896,
+    "word_count": 162
+  }
+}

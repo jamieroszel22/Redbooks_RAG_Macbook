@@ -1,0 +1,18 @@
+{
+  "content": "intervention by IBM or IBM personnel is necessary. In addition, the activation of CBU does not require a password. The IBM z16 A01 can have up to eight offerings that are installed at the same time, with the limitation that only one of them can be an On/Off CoD offering, and only one can be an SRB Upgrade record. The others can be any combination. The installed offerings can be activated fully or partially, and in any sequence and any combination. The offerings can be controlled manually through command interfaces on the HMC, or programmatically through a number of APIs. IBM applications, ISV programs, and client-written applications can control the use of the offerings. Resource usage (and therefore, financial exposure) can be controlled by using capacity tokens in the On/Off CoD offering records. The CPM is an example of an application that uses the CoD APIs to provision On/Off CoD capacity that is based on the requirements of the workload. The CPM cannot control other offerings.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.654308",
+    "chunk_number": 902,
+    "word_count": 166
+  }
+}

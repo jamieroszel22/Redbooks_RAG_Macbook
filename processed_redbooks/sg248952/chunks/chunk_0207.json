@@ -1,0 +1,18 @@
+{
+  "content": "on one partition (LPAR) cannot access another application on a different partition, which provides essentially the same security as an air-gapped system. \u2013 The Secure Execution feature securely separates second-level guest operating systems running under KVM for IBM Z from each other and securely separates access to second-level guests from the hypervisor. This configuration allows for a logical and virtual server coexistence and maximizes system utilization and efficiency by sharing hardware resources. \u0002 Offer high-performance computing to achieve the outstanding response times that are required by new workload-type applications. This performance is achieved by high-frequency, enhanced superscalar processor technology, out-of-order core execution, large high-speed buffers (cache) and memory, an architecture with multiple complex instructions, and high-bandwidth channels. \u0002 Offer the high capacity and scalability that are required by the most demanding applications, from the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.003341",
+    "chunk_number": 207,
+    "word_count": 134
+  }
+}

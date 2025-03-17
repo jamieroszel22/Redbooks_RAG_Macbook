@@ -1,0 +1,18 @@
+{
+  "content": "4.7.1 watsonx.ai Studio deployments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 4.8 watsonx.ai LLM deployment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 4.8.1 Model packaging and exporting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 4.9 Operationalizing machine learning and LLM models . . . . . . . . . . . . . . . . . . . . . . . . . . 50 4.9.1 Calling ML models by using API calls . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50 4.9.2 Calling Prompt Lab LLM models by using API calls . . . . . . . . . . . . . . . . . . . . . . . 52 4.9.3 IBM watsonx Assistant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53 4.10 Additional information and where to go next . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54 4.10.1 Additional support and documentation . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.184458",
+    "chunk_number": 8,
+    "word_count": 364
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "32-bit \u0002 String range compare \u0002 String find any equal \u0002 String load to block boundaries and load/store with length For most operations, the condition code is not set. A summary condition code is used only for a few instructions. 3.4.3 Out-of-Order execution IBM z16 A02 and IBM z16 AGZ have an Out-of-Order core, much like the IBM z15 and IBM z14. This optimized Out-of-Order feature yields significant performance benefits for Chapter 3. Central processor complex design 85 compute-intensive applications. It does so by reordering instruction execution, which allows later (younger) instructions to be run ahead of a stalled instruction, and reordering storage accesses and parallel storage accesses. Out-of-Order maintains good performance growth for traditional applications. Out-of-Order execution can improve performance in the following ways: \u0002 Reordering instruction execution Instructions stall in a pipeline because they are waiting for results from a previous instruction or the execution",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.084985",
+    "chunk_number": 228,
+    "word_count": 147
+  }
+}

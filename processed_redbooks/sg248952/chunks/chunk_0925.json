@@ -1,0 +1,18 @@
+{
+  "content": "can minimize unscheduled outages: \u0002 Continued focus on firmware quality For LIC and hardware design, failures are eliminated through rigorous design rules; design walk-through; peer reviews; element, subsystem, and system simulation; and extensive engineering and manufacturing testing. \u0002 Memory subsystem Redundant Array of Independent Memory (RAIM) on IBM Z servers is a concept similar to the concept of Redundant Array of Independent Disks (RAID). The RAIM design detects and recovers from dynamic random access memory (DRAM), socket, memory channel, or DIMM failures. Memory size now includes RAIM protection and recovery. Chapter 9. Reliability, availability, and serviceability 379 Memory channels are organized in 8 card RAIM groups providing 50% reduced RAIM overhead (compared to IBM z15). RAIM protection is similar to IBM z15: \u2022 Up to 3 chip marks + 1 channel mark \u2022 DDR4 DRAM with on chip power regulation \u2022 N+1 voltage regulators Memory is implemented using Standard Open Memory",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.732959",
+    "chunk_number": 925,
+    "word_count": 151
+  }
+}

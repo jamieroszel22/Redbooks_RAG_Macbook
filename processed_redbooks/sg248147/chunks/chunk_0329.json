@@ -1,0 +1,18 @@
+{
+  "content": "Linux. When XEDIT is started, it looks for the configuration file XEDIT PROFILE. Not all CMS virtual machines always have a copy of this file; therefore, XEDIT sessions can look and behave differently, which can be a problem. The steps in this section help resolve this issue for you. If you are unfamiliar with XEDIT, a cheat sheet is available in Appendix B, \u201cReference, cheat sheets, blank worksheets, and education\u201d on page 475. This appendix also includes the URL to the z/VM Library where you can obtain more information. This section guides you in the configuration of the XEDIT profile for system-wide usage. More importantly, these steps also provide the understanding to use XEDIT functions to add, move, and change text. You use XEDIT substantially through the rest of this book and in the administration of your z/VM environment. The efforts that you spend to customize XEDIT result in a much higher level of usability, and make editing easier and faster. The 191 (A) disks for MAINT and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.492900",
+    "chunk_number": 329,
+    "word_count": 168
+  }
+}

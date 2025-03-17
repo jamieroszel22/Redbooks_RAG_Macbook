@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.ai, datasets are limited to 200 MB for JSON or JSONL files, or up to 10,000 examples when sourced from connected data stores. These constraints are carefully balanced to optimize efficiency without sacrificing performance, but managing these parameters manually would be daunting for most users. \u0002 Precise calibration of numerous hyperparameters: These hyperparameters include the learning rate, batch size, number of training epochs, and strategies for regularization, among others. Each of these parameters is interdependent, which means that altering one can have cascading effects on others. Achieving the optimal configuration often involves extensive trial-and-error or the usage of advanced hyperparameter optimization techniques like Bayesian search. This complexity is compounded when working with large models, which can have billions of parameters, which require significant computational resources and expertise to manage effectively. Chapter 5. Advanced capabilities of",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.776521",
+    "chunk_number": 149,
+    "word_count": 135
+  }
+}

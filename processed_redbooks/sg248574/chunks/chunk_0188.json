@@ -1,0 +1,18 @@
+{
+  "content": "evaluation outputs a score for both the base model and the newly trained model, along with a report on the improvements or regressions that are observed. For example, you might see that the model improved in one area, like \u201ctonsils,\u201d from a score of 0.74 to 0.78, which indicates that your training enhanced the model\u2019s ability in that particular knowledge domain. MTBench and MTBenchBranch follow a similar structure, but they focus on testing the model\u2019s skills rather than just knowledge. MTBench evaluates the model's ability to perform in multi-turn dialogs, which provide a score for each turn in the conversation, such as turn one and turn two. MTBenchBranch compares your model\u2019s skill performance to a base model, which provides a detailed breakdown of areas where your model improved or regressed, and highlighting any skills that showed no significant change. This detailed feedback helps pinpoint specific areas where more fine-tuning might be necessary to enhance the model's abilities.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.945682",
+    "chunk_number": 188,
+    "word_count": 157
+  }
+}

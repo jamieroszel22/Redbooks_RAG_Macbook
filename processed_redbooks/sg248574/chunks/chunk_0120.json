@@ -1,0 +1,18 @@
+{
+  "content": "joint endeavor with traditional DevOps, ModelOps takes the feedback and measurements that are taken in the DevOps lifecycle to iterate on the training, testing and deploying stages of the ModelOps lifecycle. Key stages in the ModelOps lifecycle include governance, monitoring, deployment of infrastructure, and model versioning. IBM offers various tools to help facilitate these processes, each of which has its own place in the lifecycle. Examples of such tools include the following ones: \u0002 IBM watsonx.gov helps govern and monitor model key performance indicators (KPIs). \u0002 IBM Instana\u00ae\u2122 helps monitor LLM performance, responsiveness, and throughput at the application level. \u0002 IBM Turbonomic\u00ae can help dynamically scale up and down infrastructure as the workload against your models changes. \u0002 IBM API Connect\u00ae provides a GUI wizard to create AI-aware APIs and products, plus integration with AI services to forward requests and manage responses. To demonstrate how these models can be deployed",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.624700",
+    "chunk_number": 120,
+    "word_count": 150
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "used. Enhanced hardware monitoring supports measurement through CPUMF for thread usage and capacity. For workloads that need maximum thread speed, the partition\u2019s SMT mode can be turned off. For workloads that need more throughput to decrease the dispatch queue size, the partition\u2019s SMT mode can be turned on. SMT use is functionally transparent to middleware and applications, and no changes are required to run them in an SMT-enabled partition. 3.4.2 Single-instruction multi-data The IBM z16 A02 and IBM z16 AGZ superscalar processor have 32 vector registers and an instruction set architecture that includes a subset of instructions (known as SIMD) that were added to improve the efficiency of complex mathematical models and vector processing. These new instructions allow a larger number of operands to be processed with a single instruction. The SIMD instructions use the superscalar core to process operands in parallel. SIMD provides the next phase of enhancements of IBM Z analytics",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.071737",
+    "chunk_number": 225,
+    "word_count": 153
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "APPCPWVL RPISET113W TURNING CONTROL ON AUTOMATICALLY FOR: MDISK RPISET113W TURNING CONTROL ON AUTOMATICALLY FOR: RSTDSEG RPISET113W TURNING CONTROL ON AUTOMATICALLY FOR: RDEVCTRL RPISET126I SETEVENT COMPLETED SUCCESSFULLY. SMAPIRAC EXEC You can put all of the RACF definitions that are listed in Example 10-6 in an exec that is called SMAPIRAC (as shown in Example 10-8) to run all RACF commands at once. Example 10-8 SMAPI RAC exec example /* Edi - 2020 */ 'RAC SETROPTS CLASSACT(FACILITY)' 'RAC SETROPTS RACLIST(FACILITY)' 'RAC RDEFINE FACILITY ICHCONN UACC(NONE)' 'RAC PERMIT ICHCONN CLASS(FACILITY) ID(VSMREQI6) ACCESS(UPDATE)' 'RAC PERMIT ICHCONN CLASS(FACILITY) ID(VSMREQIN) ACCESS(UPDATE)' 'RAC PERMIT ICHCONN CLASS(FACILITY) ID(VSMREQIU) ACCESS(UPDATE)' 'RAC PERMIT ICHCONN CLASS(FACILITY) ID(VSMEVSRV) ACCESS(UPDATE)' 'RAC PERMIT ICHCONN CLASS(FACILITY) ID(DTCSMAPI) ACCESS(UPDATE)' 'RAC PERMIT ICHCONN CLASS(FACILITY) ID(VSMGUARD) ACCESS(UPDATE)' 'RAC PERMIT ICHCONN CLASS(FACILITY)",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.035595",
+    "chunk_number": 721,
+    "word_count": 123
+  }
+}

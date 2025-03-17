@@ -1,0 +1,18 @@
+{
+  "content": "which helps ensure that the models are ready for production use and capable of delivering valuable insights. 4.8 watsonx.ai LLM deployment Deploying models in watsonx.ai Studio involves several key steps to help ensure that your AI assets are effectively managed and operational. This section provides a concise guide to help you through the process: 4.8.1 Model packaging and exporting To package and export a model, complete the following steps: 1. Go to the Prompt Lab window, and if you do not already have a prompt set up, populate it by using the example that is shown in Figure 4-33. In this lab, you use a text classification prompt. Figure 4-33 watsonx Prompt Lab 46 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai 2. Generate a response by the prompt. Keep the decoding method as Greedy, and set the max tokens to 5 to produce Positive and Negative text only (Figure 4-34). Figure 4-34 Model parameters 3. Click Generate, which tests the prompt. Then, click the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.605723",
+    "chunk_number": 116,
+    "word_count": 169
+  }
+}

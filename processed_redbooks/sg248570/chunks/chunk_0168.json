@@ -1,0 +1,18 @@
+{
+  "content": "tabs in the Spark engine We will explore the following tabs in the Spark engine: Details tab The Details tab may seem complex, but it is pre-configured with many settings to simplify setup. You will still need to specify a few essential configurations for the metastore, which we'll discuss later. Access Control tab You can invite your team members to the IBM Cloud account and grant admin or user access to the instance (See Figure 5-13 on page 75). To see what privileges you want to grant them, refer to this link. Chapter 5. Querying and manipulating data and leveraging persona-specific engines 75 Figure 5-13 Access control at Spark engine Applications tab This section will initially appear empty as no applications have yet been submitted. See Figure 5-14. Figure 5-14 Applications tab Upon submission of applications, additional details such as status, runtime, and timestamps will be displayed. See Figure 5-15 on page 76. 76 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.993061",
+    "chunk_number": 168,
+    "word_count": 164
+  }
+}

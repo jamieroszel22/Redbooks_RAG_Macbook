@@ -1,0 +1,18 @@
+{
+  "content": "Governing the end-to-end lifecycle of an AI asset Lifecycle governance is a major pillar of the IBM AI Governance framework. This pillar represents the idea that any AI asset should be tracked throughout the lifetime of its usage, without gaps in lineage or traceability. Regardless of where the AI asset originates from, watsonx.governance comes with tooling to monitor performance and also to monitor the lifecycle stage that the asset is in. Lifecycle governance applies to traditional ML/AI use cases as well as generative AI. End-to-end lifecycle governance results in increased efficiency through automated evaluations of models as well as the publishing of evaluation results and metrics. This also introduces traceability, auditability, and enhanced project management capabilities through transparent ML/AI asset lifecycle management functionality. This chapter has the following sections: \u0002 \u201cWhat is the AI lifecycle?\u201d on page 62 \u0002 \u201cMetrics in watsonx.governance\u201d on page 64 \u0002 \u201cHow to",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.063578",
+    "chunk_number": 164,
+    "word_count": 148
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "client and server on the HMC For time synchronisation of the HMC as an NTP client, NTP servers from the client/Internet can be configured (with authentication support) in the task Customize Console Date/Time. In the same task, the HMC can be configured to act as an NTP server for the CPCs (Enable as time Server). With this support, the IBM z16 A02 and IBM z16 AGZ can receive the time from the HMC without accessing a LAN other than the HMC and SE network. An example of this task can be see Figure 10-33 on page 433. Chapter 10. Hardware Management Console and Support Element 433 Figure 10-33 HMC Customize Date/Time task For more information about planning and setup for STP and NTP, see the following publications: \u0002 IBM Z Server Time Protocol Guide, SG24-8480 10.5.10 Security and user ID management This section addresses security and user ID management considerations. On IBM z16 A02 and IBM z16 AGZ: \u0002 Password is never stored in clear (one-way hash) \u0002 The HMC and SE are closed appliances",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.117565",
+    "chunk_number": 1029,
+    "word_count": 175
+  }
+}

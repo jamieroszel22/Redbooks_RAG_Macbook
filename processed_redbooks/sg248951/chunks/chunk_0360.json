@@ -1,0 +1,18 @@
+{
+  "content": "VFM is much simpler to manage (HMC task) and no hardware repair and verify (no cables and no adapters) are needed. Also, because this feature is part of internal memory, VFM is protected by RAIM and ECC and can provide better performance because no I/O to an attached adapter occurs. 3.11 IBM Secure Service Container Client applications are subject to several security risks in a production environment. These risks might include external risks (cyber hacker attacks) or internal risks (malicious software, system administrators that use their privileged rights for unauthorized access and many others). The IBM Secure Service Container (SSC) is a container technology through which you can more quickly and securely deploy software appliances on IBM z16. An IBM SSC partition is a specialized container for installing and running specific appliances. An appliance is an integration of operating system, middleware, and software components that work autonomously and provide core services and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.635170",
+    "chunk_number": 360,
+    "word_count": 152
+  }
+}

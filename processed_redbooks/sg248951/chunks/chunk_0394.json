@@ -1,0 +1,18 @@
+{
+  "content": "A15/LG12/J02 Z01B 02 0461 100/D1 101/D2 A15/LG12/J02 Z01B 05 0457 10C/D1 A15/LG12/J02 Z01B 07 0457 110/D1 A15/LG12/J02 Z01B 08 0459 114/D1 A15/LG12/J02 Z01B 09 0908 118/P00 119/P01 A15/LG12/J02 Z01B 10 0440 11C/D1D2 RG3 A20/LG12/J02 Z01B 12 0461 120/D1 121/D2 A20/LG12/J02 Z01B 13 0462 124/D1 125/D2 A20/LG12/J02 Z01B 17 0458 130/D1D2 A20/LG12/J02 Z01B 18 0457 134/D1 A20/LG12/J02 Z01B 19 0457 138/D1 ...........<< snippet >>................ The PCHID REPORT that is shown in Example 4-2 includes the following components: \u0002 Feature Code 0176 (Integrated Coupling Adapters (ICA SR1.1) is installed in the CPC drawer (location A10, slot LG06, and A15 LG06), and has AIDs 05 and 11 assigned. \u0002 Feature 0461 (FICON Express32SA LX) is installed in PCIe+ I/O drawer 1: Location Z01B, slot 02 with PCHIDs 100/D1 and 101/D2 assigned. \u0002 Two feature codes 0457 (OSA-Express7S 1.2 10 GbE SR) installed in PCIe+ I/O drawer 1 in slots 05 and 07, with PCHIDs 10C/D1 and 110/D1, respectively. A resource group",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.778740",
+    "chunk_number": 394,
+    "word_count": 158
+  }
+}

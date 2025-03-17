@@ -1,0 +1,18 @@
+{
+  "content": "production environment. Connections between these z/OS and CF images can use internal coupling links to avoid the use of real (external) coupling links, and get the best link bandwidth available. Dynamic CF dispatching The dynamic coupling facility dispatching (DYNDISP) function features a dispatching algorithm that you can use to define a backup CF in an LPAR on the system. When this LPAR is in backup mode, it uses few processor resources. DYNDISP allows more environments with multiple CF images to coexist in a server, and to share CF engines with reasonable performance. DYNDISP THIN is the only option for CF images that use shared processors on IBM z16. For more information, see 3.9.3, \u201cDynamic CF dispatching\u201d on page 139. Coupling Facility Processor scalability CF work management and dispatcher changed to improve efficiency as processors are added to scale up the capacity of a CF image. CF images support up to 16 processors. To obtain sufficient CF capacity, customers might be",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.211851",
+    "chunk_number": 263,
+    "word_count": 160
+  }
+}

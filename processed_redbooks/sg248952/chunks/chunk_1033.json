@@ -1,0 +1,18 @@
+{
+  "content": "which is available to the HMC and SE, to import public keys that are associated with a host address. For this task you need admin or service role. The Secure FTP infrastructure allows HMC and SE applications to query whether a public key is associated with a host address and to use the Secure FTP interface with the appropriate public key for a host. Tasks that use FTP now provide a selection for the secure host connection. When selected, the task verifies that a public key is associated with the specified host name. If a public key is not provided, a message window opens that points to the Manage SSH Keys task to enter a public key. The following tasks provide this support: \u0002 Import/Export IOCDS \u0002 Advanced Facilities FTP IBM Content Collector Load \u0002 Audit and Log Management (Scheduled Operations only) \u0002 FCP Configuration Import/Export \u0002 OSA view Port Parameter Export \u0002 OSA-Integrated Console Configuration Import/Export Chapter 10. Hardware Management Console and Support Element 435",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.128977",
+    "chunk_number": 1033,
+    "word_count": 166
+  }
+}

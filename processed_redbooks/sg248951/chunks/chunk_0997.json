@@ -1,0 +1,18 @@
+{
+  "content": "generated as a second factor is time-sensitive. Therefore, it is important to remember that it must be used as soon as possible after it is generated. The algorithm within the HMC that is responsible for MFA code generation changes the code every 30 seconds. However, to ease the process, the HMC and SE console accepts current, previous, and next MFA codes. It is also important to have HMC, SE, and device clocks synchronized. If the clocks are not synchronized, the MFA log-on attempt fails. Time zone differences are irrelevant because the MFA code algorithm uses UTC. On IBM z15, HMC Driver 41/Version 2.15.0 provides the integration of HMC authentication and z/OS MFA support. Therefore, RSA SecurID authentication is achieved by way of centralized support from IBM MFA for z/OS, with the MFA policy defined in RACF and the HMC IDs assigned to RACF user IDs. The RSA SecurID passcode (from an RSA SecurID Token) is verified by the RSA authentication server. This authentication is supported on",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.966753",
+    "chunk_number": 997,
+    "word_count": 166
+  }
+}

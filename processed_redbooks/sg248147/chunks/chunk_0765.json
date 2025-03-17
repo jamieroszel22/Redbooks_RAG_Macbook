@@ -1,0 +1,18 @@
+{
+  "content": "Chapter 11. Deploying and maintaining Linux workloads 353 After you perform these steps, your environment is prepared to configure the EDEV on z/VM. Emulated DASD characteristics The following differences exist between direct-attached FCP and EDEVs: \u0002 EDEVs are based on FCP; therefore, they need a pair of FCP adapters for you to configure this disk type. \u0002 Each of the LUNs that are available to the FCP adapters that are configured for EDEV maps to a single DASD device. Although this setup is only available within z/VM, it is still called rdev in that environment. \u0002 Multipathing is configured in z/VM, and the virtual machine systems are not aware of this multipathing. \u0002 The resulting DASDs are fixed-block architecture (FBA) type instead of CKD, and have a default block size of 512 bytes instead of 4k bytes. \u0002 The sizes of EDEVs are determined by the sizes of the volume groups of the storage device only. No correlation exists to 3390 DASD models. \u0002 The IPL of EDEV works like the IPL on",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.198401",
+    "chunk_number": 765,
+    "word_count": 173
+  }
+}

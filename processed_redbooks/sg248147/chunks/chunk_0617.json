@@ -1,0 +1,18 @@
+{
+  "content": "Service Management 281 9.2.4 VMCSM APAR installation The PTF for APAR VM66428 must be installed on all systems that are participating in VMCSM. Example 9-5 shows the listing of the MAINT720 500 disk after we uploaded the maintenance envelope (the file had a long name when downloaded from IBM, but we uploaded it as VMCSM TERSE). Example 9-5 FILELIST view of uploaded PTF file MAINT720 FILELIST A0 V 169 Trunc=169 Size=2 Line=1 Col=1 Alt=0 Cmd Filename Filetype Fm Format Lrecl Records Blocks Date Time VMCSM TERSE F1 V 32768 22 174 10/10/20 9:18:37 7201RSU1 SERVLINK F1 V 65535 363866 16384 8/05/20 9:42:48 We used the DETERSE command to extract the file (in the FILELIST view next to VMCSM TERSE, we entered DETERSE / = SERVLINK =). When we refreshed the FILELIST view, we saw the correctly extracted file, as shown in Example 9-6. Example 9-6 Extracted PTF file in the filelist view MAINT720 FILELIST A0 V 169 Trunc=169 Size=3 Line=1 Col=1 Alt=14 Cmd Filename Filetype Fm Format Lrecl Records",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.632390",
+    "chunk_number": 617,
+    "word_count": 169
+  }
+}

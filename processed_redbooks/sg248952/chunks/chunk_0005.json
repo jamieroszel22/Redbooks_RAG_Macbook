@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . 25 2.1.4 IBM z16 AGZ system features . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26 2.1.5 System configurations for IBM z16 A02 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27 2.1.6 System configurations for IBM z16 AGZ. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 2.1.7 PCIe I/O Drawers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 2.2 CPC drawer. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29 2.2.1 CPC drawer interconnect topology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32 2.2.2 Oscillator . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33 2.2.3 System control . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.164253",
+    "chunk_number": 5,
+    "word_count": 413
+  }
+}

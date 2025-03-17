@@ -1,0 +1,18 @@
+{
+  "content": "file system\u201d on page 404. If you are extending an existing logical volume, skip ahead to 13.3, \u201cExtending a logical volume\u201d on page 408. Chapter 13. Disk storage administration 401 13.1.3 Making new zFCP LUN available in Linux To use Fibre Channel Protocol (FCP) in a single system image (SSI) environment, you must understand that within Linux, you need to handle more adapters than the adapters that are visible in only one SSI node. Fortunately, both SLES 15 and RHEL 8 changed the behavior of FCP to automatic logical unit number (LUN) detection. Therefore, it is sufficient to merely configure the host adapters and use the multipathed device only for disk configurations. This section assumes that no previous zFCP was available. The planning according to this manual creates two FCP adapters at the addresses 0.0.fc00 and 0.0.fd00. The necessary setup for z/VM is described in detail in 11.2.2, \u201cDirect-attached Fibre Channel\u201d on page 348. Follow these steps: 1. Start a Secure Shell (SSH)",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.522791",
+    "chunk_number": 862,
+    "word_count": 163
+  }
+}

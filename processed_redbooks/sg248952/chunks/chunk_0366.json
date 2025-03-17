@@ -1,0 +1,18 @@
+{
+  "content": "remote Dynamic I/O capability for driving hardware-only I/O configuration changes from a \u201cdriving\u201d instance of z/OS Hardware Configuration Definition (HCD) on one CPC to a remote \u201ctarget\u201d standalone Coupling Facility CPC. IBM z16 provides a supported capability to drive these same kinds of hardware-only changes from a driving z/OS HCD instance to a remote CPC which is not a standalone Coupling facility, but rather a CPC which hosts Linux on Z and /or z/TPF images. This new support is applicable only when both, the driving CPC and the target CPC are z16 with the required firmware support (Bundle S24 or higher) and the driving systems z/OS is at level 2.3 or higher with APAR OA65559. \u0002 Pluggable optics: \u2013 The FICON Express32S, FICON Express16S+, OSA Express7S 1.2, OSA Express6S, RoCE Express3, RoCE Express2.1, RoCE Express2, and RoCE Express features include Small Form-Factor Pluggable (SFP) optics2.These optics allow each channel to be individually serviced in a fiber optic module",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.639744",
+    "chunk_number": 366,
+    "word_count": 158
+  }
+}

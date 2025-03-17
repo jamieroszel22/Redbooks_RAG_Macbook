@@ -1,0 +1,18 @@
+{
+  "content": "conversational AI capabilities. watsonx Orchestrate functions as a supervisory agent that leverages LLMs to coordinate interactions across customers, employees, subject matter experts (SMEs), and applications. By employing Skills Studio, watsonx Orchestrate enables the discovery, creation, and management of gen AI and digital automations by combining tasks, workflows, and skills to drive seamless operational efficiency. Skills and automations can be trained and published into a comprehensive skills catalog, which includes prebuilt integrations with enterprise solutions such as SAP, Salesforce, and ServiceNow, to help ensure compatibility with diverse enterprise systems. Simultaneously, watsonx.ai powers intelligent AI assistants, enabling conversational experiences that feature advanced functions like slot filling, LLM routing, disambiguation, and digressions. This combination helps ensure personalized and context-aware interactions. Together, watsonx Orchestrate and watsonx.ai",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.189659",
+    "chunk_number": 252,
+    "word_count": 122
+  }
+}

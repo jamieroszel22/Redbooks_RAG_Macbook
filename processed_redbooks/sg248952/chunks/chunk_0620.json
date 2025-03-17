@@ -1,0 +1,18 @@
+{
+  "content": "254 IBM z16 A02 and IBM z16 AGZ Technical Guide CHPID (Channel-Path Identifier) type FC FICON Express support of zHPF (IBM Z High-Performance FICON)c Y Y Y IBM Fibre Channel Endpoint Securityd Ye Ye Ye MIDAW (Modified Indirect Data Address Word) N N N FICON Express support for CTC (channel-to-channel) Y Y Y IPL from an alternative subchannel set N N N 32 K subchannels for FICON Express N N Y Request node identification data (RNID) N N N CHPID (Channel-Path Identifier) type FCP FICON Express support of SCSI devices Y - Y FICON Express support of hardware data router N N Y FICON Express support of T10 Data Integrity Field (DIF) N N Y N_Port ID Virtualization (NPIV) Y N Y Worldwide port name tool - - Y a. PTFs might be required for toleration support or exploitation of IBM z16 A02 and IBM z16 AGZ features and functions b. Support statement varies based on Linux on IBM Z distribution and release c. Transparent to operating systems d. Requires FC 1146. Minimum, DS8910 or DS8890 storage,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.674097",
+    "chunk_number": 620,
+    "word_count": 177
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "features by using one of the following methods: \u0002 Installing more I/O features on an installed PCIe+ I/O drawer. \u0002 Adding a PCIe+ I/O drawer to hold the new I/O features. You can not order empty PCIe+ I/O drawers. Depending on the number of I/O features, the configurator determines the number of PCIe+ I/O drawers required. For more information about PCIe+ I/O drawers, see 4.2, \u201cI/O system overview\u201d on page 142. IBM z16 A02 For IBM z16 A02 you can have 1-2 CPC drawers and 0-3 PCIe+ I/O drawers. To add more CPC drawers or PCIe+ I/O drawers, reserved space (as needed in previous zSystems) are no longer required for CPC in IBM z16 A02. IBM z16 AGZ For IBM z16 AGZ you can have the same amount of CPC drawers and I/O drawers than in IBM z16 A02. The number of PCIe+ I/O drawers that can be present in an IBM z16 A02 or IBM z16 AGZ configurations is listed inTable 8-4 on page 336. Important: To upgrade CPC drawers and PCIe+ I/O drawers concurrent, you need to have plan-ahead reserved features:",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.437566",
+    "chunk_number": 836,
+    "word_count": 183
+  }
+}

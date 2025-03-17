@@ -1,0 +1,18 @@
+{
+  "content": "infrastructure that is based on intelligent Power Distribution Units (iPDUs) that are mounted vertically on the rear side of the 19-inch frame and Power Supply Units for the internal components. The iPDUs are controlled by using an Ethernet port and support the following inputs: \u0002 3-phase 200 - 240 V AC (wired as \u201cDelta\u201d) 12 Power System Control Network - PSCN 66 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 3-phase 380 - 415 V AC (wired as \u201cWye\u201d) \u0002 Single phase 200 - 240 V AC. The power supply units convert the AC power to DC power that is used as input for the Points of Load (POLs) in the CPC drawer and the PCIe+ I/O drawers. The power requirements depend on the number of CPC drawers (1 or 2), number of PCIe I/O drawers (0 - 3) and I/O features that are installed in the PCIe I/O drawers. iPDUs are installed and serviced from the rear of the frame. Unused power ports are never used by any external device. Each iPDU installed requires a customer supplied power feed. The number of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.945637",
+    "chunk_number": 193,
+    "word_count": 185
+  }
+}

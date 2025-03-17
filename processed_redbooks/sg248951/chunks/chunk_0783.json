@@ -1,0 +1,18 @@
+{
+  "content": "\u201cz/VSE\u201d on page 251, IBM z16 supports z/VSE 6.2. Consider the following general guidelines when you are migrating z/VSE environment to IBM z16 servers: \u0002 Collect reference information before migration This information includes baseline data that reflects the status of, for example, performance data, CPU use of reference workload, I/O activity, and elapsed times. This information is required to size IBM z16 and is the only way to compare workload characteristics after migration. For more information, see z/VSE Release and Hardware Upgrade. \u0002 Apply required maintenance for IBM z16 Review the Preventive Service Planning (PSP) bucket 8561DEVICE for IBM z16 and apply the required PTFs for IBM and independent software vendor (ISV) products. 7.8 Software licensing The IBM z16 software portfolio includes operating system software (that is, z/OS, z/VM, z/VSE, and z/TPF) and middleware that runs on these operating systems. The portfolio also includes middleware for Linux on IBM Z environments.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.272812",
+    "chunk_number": 783,
+    "word_count": 151
+  }
+}

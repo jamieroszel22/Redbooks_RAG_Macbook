@@ -1,0 +1,18 @@
+{
+  "content": "MAXCONN 100 * Define the timeout of inactive Internet connections in minutes FC MONCOLL WEBSERV TIMEOUT 30 * Following command activates Internet interface FC MONCOLL WEBSERV ON TCPIP TCPIP 80 ... ====> file If you are configuring central monitoring in an SSI cluster, enable the four FC commands on only one member, which serves as a web server. On the other members, allow only the first FC statement (FC MONCOLL VMCF ON). Chapter 12. Monitoring z/VM and Linux 385 5. Create a remote data retrieval authorization file with your z/VM system identifier (replace RDBKZVMF with your system identifier) by using the following commands: ===> x fconrmt authoriz ====> a RDBKZVMF PERFSVM S&FSERV DATA If you are configuring central monitoring in an SSI cluster, allow the member that serves as the web server to access the other members. The authorization file on a second member looks like the following example: ====> a 2 RDBKZVMG PERFSVM DATA RDBKZVMH PERFSVM S&FSERV DATA 6. Create a system",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.419568",
+    "chunk_number": 833,
+    "word_count": 163
+  }
+}

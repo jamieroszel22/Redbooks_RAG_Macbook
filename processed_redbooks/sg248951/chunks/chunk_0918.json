@@ -1,0 +1,18 @@
+{
+  "content": "and I/O drawers to your server in the future. The feature is available with Bulk Power Adapters (BPA) only. \u0002 Concurrent fan-out addition or replacement A PCIe+ fan-out card provides the path for data between memory and I/O through PCIe cables. With IBM z16, a hot-pluggable and concurrently upgradeable fan-out card is available. Up to 12 PCIe fan-out cards per CPC drawer are available for IBM z16 servers. An IBM z16 Model A01 feature Max168 and Max200 hold four CPC drawers and can have 48 PCIe fan out slots. Internal I/O paths from the CPC drawer fan-out ports to a PCIe drawer or an I/O drawer are spread across multiple CPC drawers (for feature Max71, Max108, Max145, and Max190) and across different nodes within a single CPC drawer Feature Max34. During an outage, a fan-out card that is used for I/O can be repaired concurrently while redundant I/O interconnect ensures that no I/O connectivity is lost. \u0002 Redundant I/O interconnect Redundant I/O interconnect helps maintain critical",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.701880",
+    "chunk_number": 918,
+    "word_count": 166
+  }
+}

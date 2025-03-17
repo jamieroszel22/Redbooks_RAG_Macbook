@@ -1,0 +1,18 @@
+{
+  "content": "Management Console Web Services API Version 2.16.0, SC27-2642. \u0002 BCPii v2 HWIREST API enhancements BCPii v2 support was added for \u201cList Permitted Adapters\u201d and extended as follows: \u2013 \u201cnetwork-ports\u201d query parameter has been added; returns the physical MAC address and port numbers of the OSA adapters (these operations are not available for CPCs in DPM mode) \u2013 \u201cadditional-properties\u201d query parameter has been added; requests a list of properties (1->n) for retrieval 400 IBM z16 A02 and IBM z16 AGZ Technical Guide \u2022 Supported \u201cadditional-properties\u201d are: -> state -> crypto-type -> physical-channel-status -> network-ports \u2013 The \u201cnetwork-info\u201d property has a new inner property known as \u201calternate-se\u201d. The inner \u201calternate-se\u201d property is identical in functionality to the \u201cprimary-se\u201d property. It\u2019s mapped to an array of \u201cdetailed-network-info\u201d objects for each public network interface on the alternate SE. The \u201cdetailed-network-info\u201d object contains various info for each interface, including",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.891525",
+    "chunk_number": 968,
+    "word_count": 144
+  }
+}

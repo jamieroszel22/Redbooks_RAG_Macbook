@@ -1,0 +1,18 @@
+{
+  "content": "operations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 433 10.5.13 Cryptographic support. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 434 10.5.14 Installation support for z/VM that uses the HMC. . . . . . . . . . . . . . . . . . . . . . . 435 10.5.15 Dynamic Partition Manager (DPM) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 435 Chapter 11. Environmentals. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 437 11.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 438 11.2 IBM z16 A02 environmental considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 438 11.2.1 Power infrastructure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 438 11.2.2 Cooling requirements . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.287862",
+    "chunk_number": 39,
+    "word_count": 383
+  }
+}

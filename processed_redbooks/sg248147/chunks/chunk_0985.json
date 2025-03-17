@@ -1,0 +1,18 @@
+{
+  "content": "connect, spend a few minutes defining and saving a session for each system to which you can connect, as was described for PuTTY. Then, you often can double-click the saved connection to quickly access a new 3270 session. Customizing your 3270 emulator on the front end can save time later. 474 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 475 Appendix B. Reference, cheat sheets, blank worksheets, and education This appendix provides extra materials that are included for your reference. These materials can be printed or downloaded, as described. In addition, links to where you can obtain self-learning educational information are included. This appendix includes the following topics: \u0002 \u201cRelated books and publications\u201d on page 476 \u0002 \u201cOnline resources\u201d on page 477 \u0002 \u201cImportant z/VM files\u201d on page 478 \u0002 \u201cCheat sheets\u201d on page 479 \u0002 \u201cBlank planning worksheet\u201d on page 482 B 476 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Related",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.925219",
+    "chunk_number": 985,
+    "word_count": 161
+  }
+}

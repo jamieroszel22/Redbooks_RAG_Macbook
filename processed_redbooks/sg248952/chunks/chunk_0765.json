@@ -1,0 +1,18 @@
+{
+  "content": "data from administrators or users with access to volumes. Enabled with AES encryption, z/VM Encrypted Paging includes low overhead by using CPACF. The supported operating systems are listed in Table 7-10 on page 259. z/TPF transparent database encryption Shipped in August 2016, z/TPF at-rest Data Encryption provides following features and benefits: \u0002 Automatic encryption of at-rest data by using AES CBC (128 or 256). \u0002 No application changes required. \u0002 Database level encryption by using highly efficient CPACF. \u0002 Inclusion of data on disk and cached in memory. \u0002 Ability to include data integrity checking (optionally by using SHA-256) to detect accidental or malicious data corruption. \u0002 Tools to migrate a database from unencrypted to encrypted state or change the encryption key/algorithm for a specific DB while transactions are flowing (no database downtime). 308 IBM z16 A02 and IBM z16 AGZ Technical Guide Pervasive encryption for Linux on IBM Z Pervasive encryption for Linux on IBM Z",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.215112",
+    "chunk_number": 765,
+    "word_count": 157
+  }
+}

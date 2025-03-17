@@ -1,0 +1,18 @@
+{
+  "content": "part of a L2 cache. \u0002 L4 cache (up to 2048 MB) is also a virtual cache and can be allocated on any of the share part of a L2 cache. 74 IBM z16 (3931) Technical Guide Figure 3-4 shows the new cache structure that is implemented in an IBM z16 CPC drawer. Figure 3-4 IBM z16 cache structure at CPC drawer level Main storage has up to 10 TB addressable memory per CPC drawer, which uses up to 48 DDR4 DIMMs. A system with four CPC drawers can have up to 40 TB of main storage. Considerations Cache sizes are limited by ever-diminishing cycle times because they must respond quickly without creating bottlenecks. Access to large caches costs more cycles. Instruction and data cache (L1) sizes must be limited because larger distances must be traveled to reach long cache lines. This L1 access time generally occurs in one cycle, which prevents increased latency. Also, the distance to remote caches as seen from the microprocessor becomes a significant factor. For example, on an IBM z15 server, access",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.993843",
+    "chunk_number": 204,
+    "word_count": 177
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "cores per drawer and higher capacity than IBM z15, which allows more work to \u201cfit\u201d on a single drawer. As discussed in 3.5.9, \u201cProcessor unit assignment\u201d on page 110, and under \u201cMemory allocation\u201d on page 113, PR/SM memory and logical processor allocation goal is to place all logical partition resources on a single CPC drawer, if possible. There can be negative impacts on a logical partition\u2019s performance when CPs are allocated in different drawers. IBM zPCR implements a warning notice when logical partition\u2019s number of Logical CPs defined is larger than the number of Real CPs in a single drawer. When that scenario occurs, it is advisable to contact IBM to review your configuration. See Figure 12-16 on page 498. 498 IBM z16 (3931) Technical Guide Figure 12-16 Large Partition Exceeding a Drawer Boundary warning Message \u00a9 Copyright IBM Corp. 2022. All rights reserved. 499 Appendix A. Channel options This appendix describes all channel attributes, required cable types, maximum unrepeated",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.319401",
+    "chunk_number": 1112,
+    "word_count": 160
+  }
+}

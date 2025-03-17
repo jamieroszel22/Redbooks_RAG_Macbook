@@ -1,0 +1,18 @@
+{
+  "content": "knowledge and skill to run a complex set of commands. When you activate DirMaint, you give control over the z/VM user directory to the DIRMAINT service virtual machine. After that, the source USER DIRECT file on the PMAINT virtual machine\u2019s 2CC disk is no longer valid and you must not use the DIRECTXA command. DirMaint maintains and updates the online user directory. You interact with the DIRMAINT service machine through commands to change the user directory. DirMaint provides the following features: \u0002 Error checking ensures that only valid changes are made to the user directory. \u0002 Continuous synchronization of changes occurs to all member nodes in an SSI cluster. \u0002 Change authorization permits only authorized personnel to make changes. \u0002 Increased efficiency and productivity are possible through prototypes (and IBM FlashCopy, if available). \u0002 Automatic disk management handles the management of minidisk extents. \u0002 Control of all user-initiated transactions occurs through passwords. \u0002",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.856211",
+    "chunk_number": 671,
+    "word_count": 153
+  }
+}

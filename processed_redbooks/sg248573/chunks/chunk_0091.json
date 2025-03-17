@@ -1,0 +1,18 @@
+{
+  "content": "will be utilized to achieve the intended outcomes. Next, the AI Use Case Owner identifies potential risks associated with the AI use case by answering a set of questions and conducts an initial risk assessment within watsonx.governance. Once this risk identification and assessment are completed, input from legal, HR, the AI Ethics Council, operations, security, and finance is gathered. Based on the risk analysis and risk profiles associated with the use case, a decision is made to approve or reject the development of the AI use case and its related assets. If the use case is approved for development, the AI Developer, which can be an AI Engineer or Data Scientist, collaborates with a Data Engineer to shape and prepare the dataset in watsonx.data for either training traditional ML models or tuning large language models. Chapter 2. Introduction to IBM watsonx.governance 25 Following the data preparation, the AI Developer can build and train traditional ML models or adapt or tune for",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.794340",
+    "chunk_number": 91,
+    "word_count": 161
+  }
+}

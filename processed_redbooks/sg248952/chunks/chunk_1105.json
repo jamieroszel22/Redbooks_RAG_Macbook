@@ -1,0 +1,18 @@
+{
+  "content": "further address the growth of data compression requirements with the integrated on-chip compression unit (implemented in processor Nest, one per PU chip) that significantly increases compression throughput and speed compared to previous zEDC deployments. IBM z16 A02 and IBM z16 AGZ IBM Integrated Accelerator for zEDC IBM z16 A02 and IBM z16 AGZ on-chip compression provides value for existing and new compression users by bringing the compression facility into the PU chip, which is tied in L31 cache. 1 Virtual L3 (shared victim) cache for IBM z16 A02 and IBM z16 AGZ - see Chapter 2, \u201cCentral processor complex hardware components\u201d on page 21 Appendix C. IBM Integrated Accelerator for zEnterprise Data Compression 479 The IBM z16 A02 and IBM z16 AGZ Integrated Accelerator for zEDC delivers industry-leading throughput and replaces the zEDC Express PCIe adapter that is available on the IBM z14 and earlier servers. IBM z16 A02 and IBM z16 AGZ compression/decompression is implemented in the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.312429",
+    "chunk_number": 1105,
+    "word_count": 158
+  }
+}

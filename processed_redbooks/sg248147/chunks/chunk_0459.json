@@ -1,0 +1,18 @@
+{
+  "content": "*------------------------ --- --- -- -------- -------- -------- -------- k. Save the changes and quit XEDIT: ====> file 8. Make a backup of the original OPERATOR PROFILE EXEC. Then, copy the OPERATOR PROFEXEC from SFS to OPERATOR 191 as the new PROFILE EXEC: ===> copy profile exec T profile origexec T (olddate ===> copy operator profexec M profile exec T (olddate replace 9. Release and detach the OPERATOR 191 and 692 disks: ===> release T ( detach ===> release U ( detach 10.Link OPERATOR 191 to LGLOPR as 192 in the user directory entry: ===> dirmaint for lglopr link operator 0191 0192 RR DVHREQ2289I Your LINK request for LGLOPR at * has completed; with RC = 0. 11.Set OPERATOR as the secondary user for TCPIP, EREP, MAINT, and MAINT720: ===> dirmaint for TCPIP COMMAND ADD 010 SET SECUSER OPERATOR ===> dirmaint for EREP COMMAND ADD 010 SET SECUSER OPERATOR ===> dirmaint for MAINT COMMAND ADD 010 SET SECUSER OPERATOR ===> dirmaint for MAINT720 COMMAND ADD 010 SET SECUSER OPERATOR",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.996611",
+    "chunk_number": 459,
+    "word_count": 168
+  }
+}

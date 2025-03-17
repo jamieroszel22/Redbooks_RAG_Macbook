@@ -1,0 +1,18 @@
+{
+  "content": "files The Provisioning Manager monitors the workload on a set of z/OS systems and organizes the provisioning of extra capacity to these systems when required. You define the systems to be observed in a domain configuration file. The details of extra capacity and the rules for its provisioning are stored in a policy file. These two files are created and maintained through the Capacity Provisioning Management Console (CPMC).The operational flow of Capacity Provisioning is shown in Figure 8-10 on page 347. Chapter 8. System upgrades 347 Figure 8-10 The capacity provisioning process and infrastructure The z/OS WLM manages the workload by goals and business importance on each z/OS system. WLM metrics are available through existing interfaces, and are reported through IBM Resource Measurement Facility (RMF) Monitor III, with one RMF gatherer for each z/OS system. Sysplex-wide data aggregation and propagation occur in the RMF Distributed Data Server (DDS). The RMF Common Information Model",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.537638",
+    "chunk_number": 860,
+    "word_count": 153
+  }
+}

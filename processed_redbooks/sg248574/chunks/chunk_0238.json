@@ -1,0 +1,18 @@
+{
+  "content": "intelligence agents 99 For critical use cases, the architecture incorporates the ability to receive human feedback during the execution of the plan to help ensure that automation in high-stakes scenarios remains governable and aligned with human oversight. By enabling human intervention, the system can address unforeseen complexities, validate decisions, and maintain control over critical operations. Task decomposition ensures that even complex objectives are approached methodically, with subtasks delegated to the appropriate agents or tools. Collaboration within the MAS is further enhanced through sophisticated communication patterns, which define how agents interact and share information. The architecture supports multiple communication patterns: \u0002 Layered communication: Hierarchical interactions where agents operate at different levels of abstraction by passing information up or down the chain. \u0002 Decentralized communication: Peer-to-peer exchanges among agents to help ensure",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.138035",
+    "chunk_number": 238,
+    "word_count": 130
+  }
+}

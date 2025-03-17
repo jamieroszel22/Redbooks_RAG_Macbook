@@ -1,0 +1,18 @@
+{
+  "content": "that are based on the Linux load average value. The daemon is available in Linux SLES 10 SP2 and later, and in Red Hat Enterprise Linux (RHEL) V5R4 and up. Chapter 8. System upgrades 373 8.12.1 Components The following components can be added, depending on the considerations as described in this section: \u0002 PUs \u0002 Memory \u0002 I/O \u0002 Cryptographic adapters \u0002 Special features PUs CPs, ICFs, zIIPs, IFLs, and SAPs can be added concurrently to an IBM z16 if unassigned PUs are available on any installed processor drawer. The number of zIIPs cannot exceed twice the number of CPs. The IBM z16 allows the concurrent addition of a second and third processor drawer if the CPC reserve features are installed. If necessary, more LPARs can be created concurrently to use the newly added processors. The Coupling Facility Control Code (CFCC) also can configure more processors online to coupling facility LPARs by using the CFCC image operations window. Memory Memory can be added concurrently up to the physical",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.626093",
+    "chunk_number": 892,
+    "word_count": 168
+  }
+}

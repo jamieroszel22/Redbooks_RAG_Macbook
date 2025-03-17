@@ -1,0 +1,18 @@
+{
+  "content": "1.2 features are an Ethernet technology refresh introduced with IBM z16. OSA-Express7S 1.2 25 GbE SR (FC 0459) and OSA-Express7S 1.2 25 GbE LR (FC 0460) are installed in the PCIe+ I/O Drawer and have 25 GbE physical port. New with the generation is the Long Reach version, which uses single mode fiber and can be point to point connected to a distance of up to 10 km (6.2 miles). The features connect to a 25 GbE switch and do not support auto-negotiation to a different speed. Consider the following points regarding operating system support: \u0002 z/OS V2R2 and V2R3 require fixes for the following APARs: OA55256 (IBM VTAM\u00ae) and PI95703 (TCP/IP). \u0002 V7R1 requires PTF for APAR PI99085. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. 302 IBM z16 (3931) Technical Guide OSA-Express7S 1.2 10 GbE LR and SR features OSA-Express7S 1.2 features are an Ethernet technology refresh introduced with IBM z16. OSA-Express7S 1.2 10 GbE SR (FC 0457) and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.085254",
+    "chunk_number": 728,
+    "word_count": 171
+  }
+}

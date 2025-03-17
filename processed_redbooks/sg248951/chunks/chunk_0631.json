@@ -1,0 +1,18 @@
+{
+  "content": "convention: \u0002 N/A: Not applicable \u0002 NA: Not available 7.4.1 LPAR Configuration and Management A single system image can control multiple processor units (PUs), such as CPs, zIIPs, or IFLs. Maximum number of PUs per system image The maximum number of PUs that is supported by each operating system image and by special-purpose LPARs are listed in Table 7-12 on page 266. Note: z/OS V2R2 support ended as of September 2020. No new function is provided for the use of the new hardware features (toleration support only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document. 266 IBM z16 (3931) Technical Guide Table 7-12 Maximum number of PUs per system image Operating system Maximum number of PUs per system image z/OS V2R5 256ab a. IBM z16 A01 LPARs support 200-way without multithreading; 128-way with multithreading (SMT). b. Total characterizable PUs, including zIIPs and CPs. z/OS V2R4 256ab z/OS V2R3 256ab",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.731699",
+    "chunk_number": 631,
+    "word_count": 162
+  }
+}

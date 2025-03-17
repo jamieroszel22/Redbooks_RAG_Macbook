@@ -1,0 +1,18 @@
+{
+  "content": "data performance and reducing costs \u0002 Enabling real-time insights: Integrating with tools like StreamSets and SingleStore for real-time data processing and analysis \u0002 Powering AI: Preparing data for AI models and supporting deep learning By simplifying data management and enabling real-time insights, IBM watsonx.data empowers organizations to harness the full potential of AI, as shown in Figure 3-11. Figure 3-11 A real-time intelligent platform Chapter 3. Ingesting data into an open data lakehouse 43 3.5.2 DataStage ingestion of data into IBM watsonx.data This section explores how to use IBM DataStage to seamlessly ingest data into IBM watsonx.data by highlighting the benefits of using the DataStage powerful capabilities for large-scale data transfers and streamlined access within your IBM watsonx.data environment. Wide connectivity support DataStage offers seamless data access from various sources, which include on-premises databases, cloud storage, SaaS applications, and more. Users",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.783191",
+    "chunk_number": 114,
+    "word_count": 141
+  }
+}

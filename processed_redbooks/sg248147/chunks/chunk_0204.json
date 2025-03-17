@@ -1,0 +1,18 @@
+{
+  "content": "volume Mem 3 WORK AM9F02 9F02 Member 3 work volume Mem 4 RES AV9F03 9F03 Member 4 residence volume Mem 4 SPOOL AS9F04 9F04 Member 4 spool volume Mem 4 PAGE AP9F05 9F05 Member 4 page volume Mem 4 WORK AM9F06 9F06 Member 4 work volume CTC device addresses: From member 1 From member 2 To: member 1 N/A To: member 1 2790 4790 To: member 2 4D80 2D80 To: member 2 N/A 66 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 2.13.4 z/VM networking resources Table 2-9 lists the networking resources that are used in the examples in this book. They are needed when you start the IPWIZARD and when you create a VSWITCH for the Linux VMs. Table 2-9 z/VM and networking resources Name Value Comment TCP/IP user ID TCPIP TCPIP is recommended. z/VM host name, member 1 RDBKZVMG z/VM host name, member 2 RDBKZVMH TCP/IP domain name cpolab.ibm.com System domain name is usually set in DNS. TCP/IP gateway 9.76.61.1 The router to and from the local subnet. DNS server 1 9.0.130.50 Obtain from network administrator. DNS",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.969684",
+    "chunk_number": 204,
+    "word_count": 178
+  }
+}

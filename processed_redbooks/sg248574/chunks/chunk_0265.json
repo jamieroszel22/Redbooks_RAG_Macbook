@@ -1,0 +1,18 @@
+{
+  "content": "can be used in these systems is a summary of ingested documents. This section describes how a leading medical school in the US turned to the watsonx.ai platform to enable it to accomplish its goals. 7.1.1 The challenge A leading medical school in the US decides to offer tuition-free education to its admitted students. They anticipated a surge in applications. To help manage the expected increase in applications, the institution turned to watsonx.ai. They hoped that IBM could provide a technology solution to help the admissions committee efficiently process and review the incoming applications. 7.1.2 The solution Working with the medical school, the IBM team developed an innovative solution by using watsonx.ai to generate one-page abstracts that summarized the incoming 50 - 70-page applications. The incoming applications included essays, with each application containing 5 - 8 essays that varied from several paragraphs to several pages. The IBM granite-13b-chat-v2 model within the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.240443",
+    "chunk_number": 265,
+    "word_count": 151
+  }
+}

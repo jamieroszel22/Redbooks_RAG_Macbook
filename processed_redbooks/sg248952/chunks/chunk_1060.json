@@ -1,0 +1,18 @@
+{
+  "content": "11.3.4 Physical planning This section describes planning considerations when installing the IBM z16 AGZ into a customer provided rack. A majority of these options are inherited from or related to this customer provided rack. Therefore some features that you would need to configure for the IBM z16 A02 are now provided by the rack and not part of the IBM z16 AGZ configuration. For more information, see IBM z16 and LinuxONE Rockhopper 4 Rack Mount Bundle Installation Manual for Physical Planning (IMPP), GC28-7035 on Resource Link. System component placement The IBM z16 AGZ can consist of the following components: \u0002 The Hardware Management Appliance (HMA) \u0002 System ethernet switches \u0002 CPC drawer(s) \u0002 PCIe+ I/O drawer(s) These components must be installed as a contiguous portion in the client rack, and in a specific order. In case CPC drawer or PCIe+ I/O drawer plan-ahead features are ordered for future non-disruptive upgrades, required free space will be left open but filler plates are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.203829",
+    "chunk_number": 1060,
+    "word_count": 161
+  }
+}

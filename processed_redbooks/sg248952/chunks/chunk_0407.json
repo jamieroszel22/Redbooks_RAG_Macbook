@@ -1,0 +1,18 @@
+{
+  "content": "supported for point to point connections c. 2 and 4 Gbps connectivity is supported through a SAN switch 0461 8, 16 or 32d Gbps d. For Single Mode fiber, at 1310nm, link running at 32Gbps are limited for point to point connectivity to 5 km. SM 9 \u00b5m 10 km FICON Express32S SXcd 0462 32 Gbps MM 50 \u00b5m 20m (500) 70m (2000) 100m (4700) 16 Gbps MM 62.5 \u00b5m MM 50 \u00b5m 15m (200) 35 m (500) 100 m (2000) 125 m (4700) 8 Gbps MM 62.5 \u00b5m MM 50 \u00b5m 21 m (200) 50 m (500) 150 m (2000) 190 m (4700) FICON Express16S+ 10km LX 0427 4, 8, or 16 Gbps SM 9 \u00b5m 10 km FICON Express16S+ SX 0428 16 Gbps MM 50 \u00b5m 35 m (500) 100 m (2000) 125 m (4700) 8 Gbps MM 62.5 \u00b5m MM 50 \u00b5m 21 m (200) 50 m (500) 150 m (2000) 190 m (4700) 4 Gbps MM 62.5 \u00b5m MM 50 \u00b5m 70 m (200) 150 m (500) 380 m (2000) 400 m (4700) Chapter 4. I/O structure 163 The z/OS supported versions for zHyperLink are: \u0002 z/OS V2.5 \u0002 z/OS V2.4 with PTFs. \u0002 z/OS V2.3 with PTFs. The zHyperLink Express1.1 feature (FC 0451) provides a low latency direct connection",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.809356",
+    "chunk_number": 407,
+    "word_count": 214
+  }
+}

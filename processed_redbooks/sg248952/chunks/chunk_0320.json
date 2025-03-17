@@ -1,0 +1,18 @@
+{
+  "content": "combinations, including their operating modes and processor types, operating systems, and addressing modes, also are listed. Only the currently supported versions of operating systems are considered. Table 3-7 z16 modes of operation Weight settings: When defined capacity is used to define an uncapped LPAR\u2019s capacity, carefully consider the weight settings of that LPAR. If the weight is much smaller than the defined capacity, PR/SM uses a discontinuous cap pattern to achieve the defined capacity setting. This configuration means PR/SM alternates between capping the LPAR at the MSU value that corresponds to the relative weight settings, and no capping at all. It is best to avoid this scenario and instead attempt to establish a defined capacity that is equal or close to the relative weight. Image mode PU type Operating system Addressing mode Generala CP and zIIP \u0002 z/OS \u0002 z/VM 64-bit CP \u0002 21CS VSEn \u0002 Linux on IBM Z \u0002 z/TPF 64-bit Coupling facility ICF or CP CFCC 64-bit Chapter 3. Central",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.474976",
+    "chunk_number": 320,
+    "word_count": 163
+  }
+}

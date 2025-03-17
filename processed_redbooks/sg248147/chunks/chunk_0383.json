@@ -1,0 +1,18 @@
+{
+  "content": "LINK RACFVM 200 200 MW LINK RACFVM 300 300 MW LINK RACFVM 301 301 MR LINK RACFVM 302 302 MR ===> file 4. Replace the user directory entry: ===> dirm for racmnt-1 rep ... 5. Repeat the previous steps for all other members in the SSI cluster. In this example, two-member SSI cluster, only the RACMNT-2 SUBCONFIG needed to be modified. The RACF database can now be shared on the volumes at real device addresses 103B and 113B. Defining the shared disks in the SYSTEM CONFIG file To define the RACF database DASD to CP as devices that can be shared concurrently between real systems, you must add the RDEVICE statements to the SYSTEM CONFIG file. Complete the following steps: 1. Verify that you are logged on as MAINT. 2. Access the PMAINT CF0 disk read/write. Use the LINK command with the multi-read (MR) parameter: ===> link pmaint cf0 cf0 mr 3. Use the ACCESS command to access it as F: ===> acc cf0 f 4. Make a copy of the working SYSTEM CONFIG file: ===> copy system config f = confwrks = (rep 5.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.693523",
+    "chunk_number": 383,
+    "word_count": 185
+  }
+}

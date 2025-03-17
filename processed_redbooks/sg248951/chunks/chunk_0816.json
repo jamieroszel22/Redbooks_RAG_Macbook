@@ -1,0 +1,18 @@
+{
+  "content": "It might require individual LPAR outages if dedicated PUs are converted. Unassigned CP capacity is recorded by a model capacity identifier. CP feature conversions change (increase or decrease) the model capacity identifier. Chapter 8. System upgrades 337 CIU prerequisites The CIU facility supports LICCC upgrades only. It does not support I/O upgrades. All other capacity that is required for an upgrade must be previously installed. Extra processor drawers or I/O cards cannot be installed as part of an order that is placed through the CIU facility. The sum of CPs, unassigned CPs, ICFs, zIIPs, IFLs, and unassigned IFLs cannot exceed the client PU count of the installed processor drawers. The total number of zIIPs can be twice the number of purchased CPs. CIU registration and contract for CIU To use the CIU facility, a customer must be registered and the system must be set up. After you complete the CIU registration, access to the CIU application is available through the IBM Resource Link",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.368403",
+    "chunk_number": 816,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "devices, such as disks and networks. The CHPID Mapping Tool can be used to assist with configuring a system for high availability. Enhanced (CPC) drawer availability (EDA) allows a single CPC drawer in a multidrawer CPC to be removed and reinstalled (serviced) concurrently for an upgrade or a repair. Removing a CPC drawer means that the connectivity to the I/O devices that are connected to that CPC drawer is lost. To prevent connectivity loss, the redundant I/O interconnect feature allows you to maintain connection to critical I/O devices (except for ICA SR1.1) when a CPC drawer is removed. 2.7.1 Redundant I/O interconnect Redundancy is provided for PCIe I/O interconnects. The PCIe+ I/O drawer supports up to 16 PCIe features, which are organized in two hardware domains (for each drawer). The infrastructure for the fanout to I/O drawers and external coupling is shown in Figure 2-22. Figure 2-22 Infrastructure for PCIe+ I/O drawer (system with two PCIe+ I/O drawers) The new PCIe+ Gen3",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.843222",
+    "chunk_number": 170,
+    "word_count": 162
+  }
+}

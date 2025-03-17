@@ -1,0 +1,18 @@
+{
+  "content": "the taxonomy repository, model paths, and training profiles. For example, selecting a training profile helps ensure compatibility with your hardware, whether it uses CPUs or GPUs, to provide the best performance and resource optimization for your setup: 1. Clone the taxonomy repository, either interactively or by specifying a path with the --taxonomy-path flag. 2. Specify the path to your model. By default, it uses a quantized Granite model. 3. Select a training profile. For systems without dedicated GPUs, choose No Profile (CPU, Apple Metal, AMD ROCm). After initialization, the directories that are shown in Table 5-1 are created. Table 5-1 ilab directory overview and details Directory Description ~/.cache/instructlab/models/ Contains downloaded models. ~/.local/share/instructlab/datasets/ Stores the dataset outputs that are generated during workflows. ~/.local/share/instructlab/taxonomy/ Contains skill and knowledge data from the taxonomy repository.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.867608",
+    "chunk_number": 171,
+    "word_count": 131
+  }
+}

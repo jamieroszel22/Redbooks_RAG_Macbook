@@ -1,0 +1,18 @@
+{
+  "content": "significant performance boosts for their sort workloads. With z/OS DFSORT's Z Sort algorithm, clients can see batch sort job elapsed time improvements of up to 20 - 30% (depending on record size) and CPU time improvements of up to 40% compared to IBM z14. The function is used on z/OS V2.R5 and enabled on z/OS V2.R4 and V2.R3 with PTFs for APAR PH03207. The sort jobs must meet certain eligibility criteria. For the full list and other considerations, see the DFSORT User Guide for PH03207. CPU Measurement Facility Also known as Hardware Instrumentation Services (HIS), CPU Measurement Facility (CPUMF) data can be collected by z/OS System Measurement Facility on SMF 113 records to gain insight into the interaction of workload and hardware on which it runs. The supported operating systems are listed in Table 7-3 on page 253. For more information about this function, see this IBM Support web page. For more information about the CPU Measurement Facility, see this IBM Support web page. For",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.841667",
+    "chunk_number": 662,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "IBM z16 AGZ configurations (carry forward). The 25GbE RoCE Express2 is a native PCIe feature. It does not use a CHPID and is defined by using the IOCP FUNCTION statement or in the hardware configuration definition (HCD). 25 GbE RoCE Express2.1 requirements: \u0002 The 25GbE RoCE Express2.1 feature does not support auto-negotiation to any other speed and runs in full duplex mode only. \u0002 25GbE and 10GbE RoCE features should not be mixed in a z/OS SMC-R Link Group. Switch configuration for 10GbE RoCE Express2.1: The 10GbE switches must meet the following requirements: \u0002 Global Pause function enabled \u0002 Priority flow control (PFC) disabled 10 GbE RoCE Express2.1 requirements: \u0002 The 10GbE RoCE Express2.1 feature does not support auto-negotiation to any other speed and runs in full duplex mode only. \u0002 25GbE and 10GbE RoCE features should not be mixed in a z/OS SMC-R Link Group. Chapter 4. I/O structure 173 The maximum supported unrepeated distance, point-to-point, is 300 meters (984 feet). A",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.909969",
+    "chunk_number": 434,
+    "word_count": 163
+  }
+}

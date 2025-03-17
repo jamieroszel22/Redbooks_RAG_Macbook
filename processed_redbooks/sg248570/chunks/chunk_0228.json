@@ -1,0 +1,18 @@
+{
+  "content": "Ingest data 116 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 2. To ingest data, the data engineer has three options to select from: Local System, Storages, and Databases. Because the data engineer already configured the IBM Cloud Object Storage bucket as a storage component by using the Infrastructure manager in IBM watsonx.data, they click Storages, as shown in Figure 8-23. Figure 8-23 Ingest data - Storages 3. The data engineer selects the source file and defines the target table before clicking Done, as shown in Figure 8-24 on page 117. The source file is selected from the storage-01 component that was defined in 8.2.3, \u201cConfigure storage and catalog in IBM watsonx.data\u201d on page 108. The target table points to the catalog catalog_01, which was created in 8.2.3, \u201cConfigure storage and catalog in IBM watsonx.data\u201d on page 108, and the schema marketing_campaign_data, which was created in 8.2.5, \u201cCreating a schema in the catalog\u201d on page 114. The data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.220614",
+    "chunk_number": 228,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "machine . . . . . . . . . . . . . . . . 238 6.16.3 Generating the SFS file pool for Linux guest systems . . . . . . . . . . . . . . . . . . . 239 6.16.4 Adding a directory entry for the SFS administration machine. . . . . . . . . . . . . . 242 6.16.5 Enrolling the Linux virtual machines as USERS . . . . . . . . . . . . . . . . . . . . . . . . 243 Contents vii 6.16.6 Adding Linux parm files and REXX EXECs to the LNX file pool. . . . . . . . . . . . 244 6.17 Creating identity LNXADMIN for Linux administration. . . . . . . . . . . . . . . . . . . . . . . . 246 6.18 Monitoring SFS file pool usage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 248 Chapter 7. z/VM live guest relocation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 251 7.1 LGR considerations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 252 7.1.1 General considerations before relocation . . . . . . . . . .",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.238582",
+    "chunk_number": 24,
+    "word_count": 325
+  }
+}

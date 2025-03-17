@@ -1,0 +1,18 @@
+{
+  "content": "are then conducted on the generated prompt output, with the results logged into watsonx.governance against the detached prompt template. Additionally, one can evaluate a detached prompt template within a deployment space by creating a detached deployment. This setup offers several benefits and capabilities: \u0002 Evaluating a prompt template within a project or space enhances the experience of reviewing evaluation results. \u0002 One can utilize access control for projects and spaces to invite collaborators or restrict access as needed. \u0002 The results of the evaluations can be tracked in factsheets related to AI use cases as part of the governance solution. The sample code to create a detached prompt template is shown in Example 6-1. Example 6-1 Sample code to create a detached prompt template from ibm_aigov_facts_client import DetachedPromptTemplate, PromptTemplate detached_information = DetachedPromptTemplate( prompt_id=prompt_id, model_id=model_id, model_provider=model_proivder,",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.177904",
+    "chunk_number": 196,
+    "word_count": 135
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Figure 2-7 Rear view of the CPC drawer The CPC drawer logical structure, component connections are shown in Figure 2-8 on page 32. BMC / OSC BMC / OSC PPC PPC 5x FANS PPS Ports Front ETS Ports 6 or 12x PCIe+ Gen3 fanouts and ICA SRs (LG01, LG02 \u2026 LG12) PSU1 2x SMP9s PSU2 PSU3 PSU4 SMP Connectors Rear 32 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 2-8 CPC drawer logical structure Memory is connected to the DCMs through memory control units (MCUs). Up to six MCUs are available in a CPC drawer (one or two per DCM) and provide the interface to the DIMM controller. A memory controller uses eight DIMM slots. The buses are organized in the following configurations: \u0002 The M-bus provides interconnects between PUs chips in the same DCM \u0002 The X-bus provides interconnects between PUs chips to each other, in the same drawer The A-bus provides interconnects between CPC drawers using SMP9 cables. 2.2.1 CPC drawer interconnect topology The point-to-point SMP9 connection topology for CPC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.689072",
+    "chunk_number": 133,
+    "word_count": 174
+  }
+}

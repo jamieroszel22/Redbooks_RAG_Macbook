@@ -1,0 +1,18 @@
+{
+  "content": "searches without the computational burden that exact searches on high-dimensional vectors would require. 150 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data In addition to vector similarity search, Milvus also supports hybrid search, combining vector similarity with traditional filtering based on scalar fields. These fields can include structured attributes such as tags, timestamps, and categories. This combination is particularly useful when both similarity to a query and specific contextual filters are required to narrow down results efficiently. For more information, see Working with Milvus. 9.3 Technical integration of IBM watsonx and Milvus IBM watsonx.data has recently launched an integrated vector database, based on the open source Milvus, in the data lakehouse. Now, IBM watsonx customers can unify, curate and prepare vectorized embeddings for their generative artificial intelligence (gen AI) applications at scale across their trusted, governed data.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.329133",
+    "chunk_number": 255,
+    "word_count": 140
+  }
+}

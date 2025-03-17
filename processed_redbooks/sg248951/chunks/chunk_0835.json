@@ -1,0 +1,18 @@
+{
+  "content": "configuration if any unused storage exists. The nondisruptive addition of storage to a z/OS and z/VM partition requires the correct operating system parameters to be set. If reserved storage is not defined to the LPAR, the LPAR must be deactivated, the image profile changed, and the LPAR reactivated. This process allows the extra storage resources to be available to the operating system image. 8.4.3 MES upgrades for I/O MES upgrades for I/O can concurrently add I/O features by using one of the following methods: \u0002 Installing I/O features on an installed PCIe+ I/O drawer \u0002 Adding a PCIe+ I/O drawer to hold the new I/O features For more information about PCIe+ I/O drawers, see 4.2, \u201cI/O system overview\u201d on page 148. The number of PCIe+ I/O drawers that can be present in an IBM z16 depends on how many CPC drawers are present and whether the configuration includes the Bulk Power Assembly (BPA) offering. It also depends on whether the CPC drawer reserve features are present. The number of",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.434879",
+    "chunk_number": 835,
+    "word_count": 169
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "platform. I would like to thank the authors, contributors, reviewers, and the IBM Redbooks team for their dedication, time, and effort in making this publication a valuable asset that organizations can use as part of their journey to AI. I also want to thank Mark Simmonds and Deepak Rangarao for taking the lead in shaping this request into yet another successful IBM Redbooks project. It is my sincere hope that you enjoy this watsonx trilogy as much as the team who wrote and contributed to them. Steve Astorino, IBM General Manager - Development, Data, AI and Sustainability xii Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Preface IBM\u00ae watsonx\u2122 is the IBM strategic AI and Data platform. This book focuses on watsonx.data, one of the three main components of the platform. IBM watsonx.data is a fit-for-purpose data store built on an open lakehouse architecture that is optimized for governed data and AI workloads, supported by querying, governance, and open",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.438199",
+    "chunk_number": 26,
+    "word_count": 162
+  }
+}

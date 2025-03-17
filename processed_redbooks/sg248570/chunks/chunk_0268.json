@@ -1,0 +1,18 @@
+{
+  "content": "Copyright IBM Corp. 2025. 159 Related publications The publications listed in this section are considered particularly suitable for a more detailed discussion of the topics covered in this book. IBM Redbooks The following IBM Redbooks publications provide additional information about the topic in this document. Note that some publications referenced in this list might be available in softcopy only. \u0002 Simplify Your AI Journey: Ensuring Trustworthy AI with IBM watsonx.governance, SG24-8573 \u0002 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai, SG24-8574 \u0002 Unlocking Data Insights and AI: IBM Storage Ceph as a Data Lakehouse Platform for IBM watsonx.data and Beyond, SG24-8563 You can search for, view, download or order these documents and other Redbooks, Redpapers, Web Docs, draft and additional materials, at the following website: ibm.com/redbooks Online resources These websites are also relevant as further information sources: \u0002 watsonx.data IBM Documentation Help",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.378440",
+    "chunk_number": 268,
+    "word_count": 146
+  }
+}

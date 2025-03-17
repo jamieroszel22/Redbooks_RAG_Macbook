@@ -1,0 +1,18 @@
+{
+  "content": "formats. Gone are the days when organizations were locked into proprietary schemas or tied to a single vendor's file formats. Instead, open columnar formats like Parquet, ORC, and open table formats such as Delta Lake have become industry-standard choices for storing large analytical datasets. IBM watsonx.data's embrace of these formats unlocks a range of benefits, including: \u0002 Efficient compression and encoding: High-performance columnar formats like Parquet and ORC are designed to store data by columns rather than by rows. This structure allows for more effective compression, especially if columns exhibit low cardinality or repetitive patterns. Consequently, organizations can drastically reduce storage costs while simultaneously lowering I/O overhead. In cloud environments, this translates directly to cost efficiencies, as less data is read and transferred over the network. \u0002 Schema evolution: Rigid, pre-defined schemas can stifle innovation and complicate data integration. Open",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.044090",
+    "chunk_number": 183,
+    "word_count": 140
+  }
+}

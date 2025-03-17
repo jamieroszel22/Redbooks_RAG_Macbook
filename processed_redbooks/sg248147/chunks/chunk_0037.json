@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . 381 12.2.1 Configuring IBM Performance Toolkit for VM . . . . . . . . . . . . . . . . . . . . . . . . . . 381 12.2.2 Configuring web browser support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 382 12.2.3 Configure PERFSVM . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 384 12.2.4 Starting the IBM Performance Toolkit for VM . . . . . . . . . . . . . . . . . . . . . . . . . . 386 12.2.5 Using the IBM Performance Toolkit for VM. . . . . . . . . . . . . . . . . . . . . . . . . . . . 387 12.3 Collecting and using raw CP monitor data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 390 12.3.1 Collecting CP monitor data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 390 12.3.2 Using CP monitor data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 392 12.4 Monitoring Linux performance for troubleshooting . . . . . . . .",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.285472",
+    "chunk_number": 37,
+    "word_count": 357
+  }
+}

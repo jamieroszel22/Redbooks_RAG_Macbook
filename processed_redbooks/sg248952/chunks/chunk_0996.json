@@ -1,0 +1,18 @@
+{
+  "content": "provided by the client. Existing supported switches can still be used. Ethernet switches often include the following characteristics: \u0002 A total of 16 auto-negotiation ports \u0002 100/1000 Mbps data rate \u0002 Full or half duplex operation \u0002 Auto medium-dependent interface crossover (MDIX) on all ports \u0002 Port status LEDs \u0002 Copper RJ45 connections 10.3.5 TCP/IP Version 6 on the HMC and SE The HMC and SE can communicate by using IPv4, IPv6, or both. IPv6 link-local addresses feature the following characteristics: \u0002 Every IPv6 network interface is assigned a link-local IP address. \u0002 A link-local address is used on a single link (subnet) only and is never routed. \u0002 Two IPv6-capable hosts on a subnet can communicate by using link-local addresses, without having any other IP addresses assigned. This is the reason, if HMC to SE IPv6 link-local is working, that the SE/CPC appears in System Management -> Unmanaged Systems on the HMC. Note: The recommendation is to use an Ethernet switch with 1000",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.980866",
+    "chunk_number": 996,
+    "word_count": 164
+  }
+}

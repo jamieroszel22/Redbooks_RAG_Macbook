@@ -1,0 +1,18 @@
+{
+  "content": "2620:0:6c2:200:129:42:56:189 \u2013 2620:0:6c4:200:129:42:60:189 10.5 HMC and SE capabilities The HMC and SE features many capabilities. This section describes the key areas. For more information about these capabilities, see the HMC and SE Driver 51/Version 2.16.0 console help system or see the IBM Resource Link. At this web page, select Library, the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide. With the introduction of the DPM mode mainly for LinuxONE management, the user interface and user interaction with the HMC changed significantly, although the capabilities are remained the same. The figures and descriptions in this section cover only the traditional Processor Resource/Systems Manager (PR/SM) mode. Note: All other previous IP addresses are no longer supported. 432 IBM z16 (3931) Technical Guide 10.5.1 Central processor complex management The HMC is the primary place for CPC control. For example, the input/output",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.980752",
+    "chunk_number": 1001,
+    "word_count": 145
+  }
+}

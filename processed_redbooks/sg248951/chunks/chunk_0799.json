@@ -1,0 +1,18 @@
+{
+  "content": "For IBM z16 servers, feature (CP7) provides full capacity. Capacity settings 7nn are full capacity settings with the ranges of 1 - 99 in decimal and A0 - K0, where A0 represents 100 and K0 represents 200, for capacity level 7nn. High-water mark Capacity that is purchased and owned by the client. Installed record The LICCC record is downloaded, staged to the Support Element (SE), and is installed on the central processor complex (CPC). A maximum of eight different records can be concurrently installed. Model capacity identifier (MCI) Shows the current active capacity on the system, including all replacement and billable capacity. For IBM z16 A01 servers, the model capacity identifier is in the form of 4xx, 5yy, 6yy, or 7nn, where xx, yy, or nn indicates the number of active CPs: \u0002 xx can have a range of 00 - 39. An all IFL or an all ICF system has a capacity level of 400. \u0002 yy can have a range of 01 - 39. \u0002 1 - 99 in decimal and A0 - K0, where A0 represents 100 and K0 represents 200,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.320252",
+    "chunk_number": 799,
+    "word_count": 184
+  }
+}

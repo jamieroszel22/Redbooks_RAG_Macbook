@@ -1,0 +1,18 @@
+{
+  "content": "semi-structured lakehouse data, watsonx.data drastically simplifies the analytical workflow. Teams do not need to master new query languages or develop custom parsers to access and manipulate data in Parquet or ORC files. Instead, they can rely on their existing SQL knowledge, reusing queries, tools, and dashboards that were originally designed for relational systems. This not only boosts productivity but also broadens the user base that can leverage the data ecosystem, encouraging data-driven insights to permeate the entire organization. 5.3.4 Embracing lakehouse architecture and open formats As enterprises strive to unify their data strategies, the lakehouse architecture has emerged as a key paradigm that combines the strengths of traditional data warehouses-such as structured schemas, performance optimizations, and reliability-with the flexibility, scalability, and cost efficiencies characteristic of data lakes. This hybrid approach addresses longstanding tensions in the data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.038752",
+    "chunk_number": 181,
+    "word_count": 136
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Filtering data with Data Refinery Before generating any visualizations, the data analyst filters the data to reflect the period that is needed for the analysis. As shown in Figure 8-50, the data analyst adds a filter where the month is equal to \u201cjul\u201d (for July), which filters the data to show only interactions from the direct marketing campaign in the month of July. Figure 8-50 Selecting only interactions where the month field equals \u201cjul\u201d Chapter 8. Marketing campaign analysis use case 133 Creating and formatting a data visualization Now, the data analyst creates and formats a data visualization by completing the following steps: 1. After the data is ready for analysis, the data analyst clicks the Visualizations tab, and then clicks the Bar chart type, as shown in Figure 8-51. Figure 8-51 Visualizations - Bar 134 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 2. As shown in Figure 8-52 and Figure 8-53 on page 135, the data analyst uses the fields on the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.262853",
+    "chunk_number": 239,
+    "word_count": 167
+  }
+}

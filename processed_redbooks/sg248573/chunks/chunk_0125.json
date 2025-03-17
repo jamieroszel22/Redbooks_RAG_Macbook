@@ -1,0 +1,18 @@
+{
+  "content": "provides better performance on a certain business task, but it creates a copyright infringement risk if it's not clear where the training data was sourced?). Organizations should define who gets to make the decision and how it gets documented. \u0002 Lastly, organizations should define the worfklow to automate the evaluation of a new model candidate by the various stakeholders. This chapter has the following sections: \u0002 \u201cKey considerations to onboard a foundation model\u201d on page 42 \u0002 \u201cConsiderations for legal team for approving a new foundation model\u201d on page 44 \u0002 \u201cEthical considerations for approving a new foundation model\u201d on page 47 \u0002 \u201cConsiderations for financial stakeholders for approving a new foundation model\u201d on page 49 4 42 Ensuring Trustworthy AI with IBM watsonx.governance 4.1 Key considerations to onboard a foundation model When onboarding a foundation model, several key aspects must be considered to ensure a smooth and effective process. The following subsections outline the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.918588",
+    "chunk_number": 125,
+    "word_count": 155
+  }
+}

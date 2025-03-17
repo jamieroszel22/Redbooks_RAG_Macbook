@@ -1,0 +1,18 @@
+{
+  "content": "Max82 Max125 Max168 / 200 Drawer CPC0 Dial Max Drawer CPC0 Drawer CPC1 Dial Max Drawer CPC0 Drawer CPC1 Drawer CPC2 Dial Max Drawer CPC0 Drawer CPC1 Drawer CPC2 Drawer CPC3 Dial Max 44 IBM z16 (3931) Technical Guide 2.5.4 Memory upgrades Memory upgrades can be ordered and enabled by LIC, upgrading the DIMM cards, adding DIMM cards, or adding a CPC drawer. For a model upgrade that results in the addition of a CPC drawer, the minimum memory increment is added to the system. Each CPC drawer has a minimum physical memory size of 1024 GB. Memory allowed upgrades for Max200 models Once a model Max200 is shipped, then the memory upgrades via MES are limited dependent on what configuration exists in the installed CPC drawers. \u0002 If a CPC drawer is plugged with CFG numbers 22 to 33 (see Table 2-8 on page 39) then the max memory configuration for that CPC drawer is 33 \u0002 If a CPC drawer is plugged with CFG number 34, then the max memory configuration for that CPC drawer is 34 \u0002 If a CPC drawer is",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.739457",
+    "chunk_number": 146,
+    "word_count": 185
+  }
+}

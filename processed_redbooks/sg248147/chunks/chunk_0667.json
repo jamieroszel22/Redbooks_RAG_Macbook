@@ -1,0 +1,18 @@
+{
+  "content": "status: VMFSRV1225I Service Level BASE VMFSRV1225I Production Level RDBKZVMC.BASE VMFSRV2760I SERVICE processing completed successfully (RC=0) Ready; We can see the service and production level designations that correspond to the levels in our service package, and matches the DETAIL information that we saw in the SERVMGR SYSTEM QUERY (DETAIL command output that is shown in Example 9-23 on page 298. Note: When service on a system is managed by VMCSM, the SERVICE command is effectively unavailable for interactive use. Only the SERVICE...STATUS subcommand is available. 302 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 303 Part 3 System management In this part, we discuss system management. This part include the following chapters: \u0002 Chapter 10, \u201cDirMaint, RACF-connector, and SMAPI\u201d on page 305 \u0002 Chapter 11, \u201cDeploying and maintaining Linux workloads\u201d on page 345 \u0002 Chapter 12, \u201cMonitoring z/VM and Linux\u201d on page 371 \u0002 Chapter 13,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.841629",
+    "chunk_number": 667,
+    "word_count": 154
+  }
+}

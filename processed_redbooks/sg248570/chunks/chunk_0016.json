@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . 141 8.5.1 Creating an AutoAI experiment. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 141 Chapter 9. Adopting Milvus for RAG using IBM watsonx . . . . . . . . . . . . . . . . . . . . . . 147 9.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148 9.2 Key steps in the RAG workflow. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148 9.2.1 Step 1: Document ingestion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 148 9.2.2 Step 2: Document chunking . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149 9.2.3 Step 3: Embedding generation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149 9.2.4 Step 4: Vector storage and searching with Milvus . . . . . . . . . . . . . . . . . . . . . . . 149 9.3 Technical integration of IBM watsonx",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.398728",
+    "chunk_number": 16,
+    "word_count": 374
+  }
+}

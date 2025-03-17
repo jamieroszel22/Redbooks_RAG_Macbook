@@ -1,0 +1,18 @@
+{
+  "content": "distributions: \u2013 SUSE Linux Enterprise Server 12 and SLES 11 \u2013 Red Hat Enterprise Linux (RHEL) 8 and Red Hat Enterprise Linux 7 \u2013 Ubuntu 16.04 LTS (or higher) \u0002 The KVM hypervisor, which is offered supported Linux distributions. For more information about minimal and recommended distribution levels, see the Tested platforms for Linux web page of the IBM IT infrastructure website. 6.8.2 Crypto Express8S support of VFPE The following minimum prerequisites must be met to use this element: \u0002 z/OS V2.5, z/OS V2.4 with PTFs \u0002 z/OS V2.3 with PTFs \u0002 z/OS V2.2 with the Enhanced Cryptographic Support for z/OS V1.13-V2.2 web deliverable installed \u0002 z/VM V7.2 for guest use \u0002 z/VM V7.1 with PTFs for guest use \u0002 Linux on IBM Z: \u2013 SUSE SLES 15 SP1 with service, SUSE SLES 12 SP4 with service, and SUSE SLES 11 SP4 with service. \u2013 Red Hat RHEL 8.0 with service, Red Hat RHEL 7.7 with service, and Red Hat RHEL 6.10 with service. \u2013 Ubuntu 18.04.1 LTS with service and Ubuntu 16.04.6 LTS with service. \u2013 The",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.565459",
+    "chunk_number": 595,
+    "word_count": 178
+  }
+}

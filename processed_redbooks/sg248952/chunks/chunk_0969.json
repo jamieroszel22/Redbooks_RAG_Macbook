@@ -1,0 +1,18 @@
+{
+  "content": "ipv4/ipv6 addresses, domain name, and MAC address among other things. For more information please see Hardware Management Console Web Services API Version 2.16.0, SC27-2642. \u0002 Web Services API for Secure Execution key management The HMC GUI has the functionalities for handling the keys (Host key, Global Hyper Protect key, Host Import Key) for Secure Execution available. Now, the management for they keys can also be done via Web Services API. For example the request URI to import a Secure Execution key is as following: POST /api/cpcs/{cpc-id}/operations/import-se-key Input: \u2013 file-content: KEy bundle file in base64-encoded string form \u2013 type: \u201chost\u201d, \u201cglobal\u201d, or \u201chost-import\u201d \u2013 force: override certain types of verification failures, if possible For more information please see Hardware Management Console Web Services API Version 2.16.0, SC27-2642. \u0002 Report a Problem using HMC Web Services API interface You can report a problem for the HMC via task Service Management -> Report a Console",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.893421",
+    "chunk_number": 969,
+    "word_count": 152
+  }
+}

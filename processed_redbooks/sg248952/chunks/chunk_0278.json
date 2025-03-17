@@ -1,0 +1,18 @@
+{
+  "content": "zIIPs. SMT must be enabled at the LPAR level and supported by the z/OS operating system. SMT was enhanced for IBM z16 A02 and IBM z16 AGZ and it is enabled for SAPs by default (no customer intervention required). Introduced in z/OS V2R4, the z/OS Container Extensions11 allows deployment of Linux on IBM Z software components, such as Docker Containers in a z/OS system, in direct support of z/OS workloads without requiring a separately provisioned Linux server. It also maintains overall solution operational control within z/OS and with z/OS qualities of service. Workload deployed in z/OS Container Extensions is zIIP eligible. 10 IBM Z Application Assist Processors (zAAPs) are not available since IBM z14. A zAAP workload is dispatched to available zIIPs (zAAP on zIIP capability). Tip: Starting with IBM z16 A02 and IBM z16 AGZ announcement, the 2:1 zIIP:CP ratio restriction has been removed. With one CP ordered, the number of zIIPs orderable is now (MaxYY-1). The restriction has been",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.265290",
+    "chunk_number": 278,
+    "word_count": 161
+  }
+}

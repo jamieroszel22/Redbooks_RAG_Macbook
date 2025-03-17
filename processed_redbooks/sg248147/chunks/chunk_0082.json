@@ -1,0 +1,18 @@
+{
+  "content": "system and method for virtualization of a computer system in the late 1960s. 1.2.1 Virtualization and cloud computing originated here Cloud computing and IBM large systems share a common lineage dating back to the 1950s and 1960s. In those days, enormous mainframe systems were beginning to appear at businesses and universities as the world began to adopt computerization on a large scale. Early mainframe systems were not the compact and affordable systems they are today. Because of cost and physical size, it was exceptionally rare for any organization to have more than one. To maximize the utility and return on investment, it became standard practice to provide shared access through physical terminals. Was there a better way? Engineers at IBM\u2019s Glendale development laboratory in Endicott, New York began to ponder this question and prototype methods. In 1971, IBM released a product that is considered the genesis of cloud computing; an operating system called virtual machine (VM). For",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.444864",
+    "chunk_number": 82,
+    "word_count": 157
+  }
+}

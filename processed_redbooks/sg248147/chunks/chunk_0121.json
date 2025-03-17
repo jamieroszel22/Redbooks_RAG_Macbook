@@ -1,0 +1,18 @@
+{
+  "content": "Linux that result from the adoption of systemd as a central service bus render the practice of cloning systems to be risky and uncertain. Chapter 1. Conceptual overview 29 1.6 Single system image design With the introduction of z/VM 6.2 in December 2011, the architecture of Linux solutions on this platform changed dramatically. It is true that Cross Systems Extensions (CSE) allowed for a type of clustering environment for Linux on z before z/VM 6.2. However, CSE was not widely used nor was the architecture completely enabled for clusters. z/VM 6.2 introduced VMSSI with LGR and brought about major changes. No longer is it true that a z/VM system is the most important \u201cobject\u201d in the hierarchy. With z/VM 6.1 and earlier, the system identifier of each z/VM system was the most important. With z/VM 6.2 and later, the VMSSI name is the highest level identifier. A block diagram of a four member VMSSI, with default volume labels, is shown in Figure 1-2. The recommend scenario for full",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.600989",
+    "chunk_number": 121,
+    "word_count": 168
+  }
+}

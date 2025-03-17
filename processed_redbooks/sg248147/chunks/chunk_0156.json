@@ -1,0 +1,18 @@
+{
+  "content": "File system layout 46 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Table 2-1 Linux virtual server file system layout We recommend this layout for the following reasons: \u0002 The intention of this book is to teach suitable methods that are based on long-established good practices. Therefore, we are choosing to correctly segment the file systems in a way that provides stability, easier recovery from potential mistakes or accidents, and affords easy expansion when necessary \u0002 One of the single most prevalent bad practices is to deploy a Linux system with everything in one file system. Frequently, we hear LVM used as a justification for having done so. Consider the following points: \u2013 A false belief exists that deploying in one file system that uses Logical Volume Manager (LVM) mitigates the future trap this creates. This belief is not true. \u2013 When the root (/) file system becomes full, Linux kernel panics and crashes. An LVM saves you only from this situation if good monitoring is used and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.771087",
+    "chunk_number": 156,
+    "word_count": 167
+  }
+}

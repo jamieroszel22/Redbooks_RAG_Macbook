@@ -1,0 +1,18 @@
+{
+  "content": "protocol. \u0002 Fibre Channel disks can be created with enormous volume sizes, which are exponentially larger than any single disk that is available today. \u0002 Because Fibre Channel uses Small Computer System Interface (SCSI) commands over fiber-optic cable, it also uses SCSI command queuing, which results in multiple commands that are processed at the same time. \u0002 Fibre Channel storage systems are available from many vendors in many price ranges. \u0002 Because the Linux OS that is running inside of the virtual machine must manage the adapters, it also must manage availability. Configuring dual adapters with multipathing by using dual fabrics is considered mandatory by the authors of this book. \u0002 The setup of the disks in the disk storage subsystem and the zoning of the adapters involve many worldwide port numbers (WWPNs). Meticulous attention to detail is critical to a successful outcome and special care must be taken. \u0002 For IBM Z, any supported FCP adapter, such as FICON Express or FICON",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.168963",
+    "chunk_number": 757,
+    "word_count": 163
+  }
+}

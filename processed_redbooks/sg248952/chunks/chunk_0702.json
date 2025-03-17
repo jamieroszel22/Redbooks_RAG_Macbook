@@ -1,0 +1,18 @@
+{
+  "content": "first and last IDAW) in a list must manage complete 2 K or 4 K units of data. Figure 7-2 shows a single CCW that controls the transfer of data that spans non-contiguous 4 K frames in main storage. When the IDAW flag is set, the data address in the CCW points to a list of words (IDAWs). Each IDAW contains an address that designates a data area within real storage. Figure 7-2 IDAW usage The number of required IDAWs for a CCW is determined by the following factors: \u0002 IDAW format as specified in the operation request block (ORB) \u0002 Count field of the CCW \u0002 Data address in the initial IDAW For example, three IDAWS are required when the following events occur: \u0002 The ORB specifies format-2 IDAWs with 4 KB blocks. \u0002 The CCW count field specifies 8 KB. \u0002 The first IDAW designates a location in the middle of a 4 KB block. CCWs with data chaining can be used to process I/O data blocks that have a more complex internal structure, in which portions of the data block are directed into separate",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.981904",
+    "chunk_number": 702,
+    "word_count": 187
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "because of the addition of physical processor capacity or memory \u2013 A planned outage because of the addition of I/O cards \u2013 An unplanned outage because of a failure of a power supply \u2013 An unplanned outage because of a memory failure The IBM Systems hardware has decades of intense engineering behind it, which results in a robust and reliable platform. The hardware has many RAS features that are built into it. For more information, see Chapter 9, \u201cReliability, availability, and serviceability\u201d on page 365. 2.7 Connectivity Connections to PCIe+ I/O drawers and Integrated Coupling Adapters are driven from the CPC drawer fanout cards. (see 2.4, \u201cPCIe+ I/O drawer\u201d on page 41). These fanouts are installed in the rear of the CPC drawer. Figure 2-21 shows the location of the fanout slots. Each slot is identified with a location code (label) of LGxx. Figure 2-21 Fanout locations in the CPC drawer Up to 12 PCIe fanouts (LG01 - LG12) can be installed in each CPC drawer. A fanout can be repaired",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.834334",
+    "chunk_number": 168,
+    "word_count": 171
+  }
+}

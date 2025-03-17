@@ -1,0 +1,18 @@
+{
+  "content": "ACCESSED Mode Stat Files Vdev Label/Directory A R/W 71 191 MNT191 B R/W 134 5E6 MNT5E6 C R/O 19 2CC MNT2CC D R/W 299 51D MNT51D E R/W 12 551 PMT551 S R/O 698 190 MNT190 Y/S R/O 1123 19E MNT19E If MNT51D is not shown at all, or is Read Only (R/O), use VMLINK to correct the situation and then, reissue the QUERY ACCESSED command to verify results. VMLINK MAINT 51D < 51D D MR > DMSVML2060I MAINT 51D linked MR as 051D file mode D For more information, see Program Directory for Directory Maintenance Facility for z/VM function level 720 Program Number 5741-A09 for Use with z/VM version 7 release 2, GI13-4362. Important: You must use the MAINT720 ID to perform these steps. Do not use MAINT or any other ID. Chapter 10. DirMaint, RACF-connector, and SMAPI 309 3. Enable DirMaint through the VMSES/E SERVICE command. Ensure that the message VMFSRV2760I is displayed: ===> service dirm enable ... // several windows full of text will quickly go by VMFSRV1233I The following products have been",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.873532",
+    "chunk_number": 675,
+    "word_count": 176
+  }
+}

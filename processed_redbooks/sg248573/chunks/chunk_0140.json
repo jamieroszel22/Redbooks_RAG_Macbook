@@ -1,0 +1,18 @@
+{
+  "content": "their model from the market before that date to avoid the compliance implications. Don't wait too long to engage your existing model providers to understand their intent and plan for compliance, and make sure you have a plan yourself to switch models when needed. Users of foundation models have no specific obligations, beyond what might result from the AI system(s) that use that foundation model. 4.2.2 Legal obligations on the part of the vendor Any vendor of AI is tied to the same local and national laws as mentioned earlier. In addition, most of the earlier section around model licensing also applies to the vendor. One more important topic left to cover is the topic of Legal Indemnification. In law, indemnification (or an indemnity) is any undertaking by one party to protect another party of some financial burden. In AI, the usage of foundation models can expose parties to novel financial burdens. As such, a major effort has been put forth around the idea of legal indemnification",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.972444",
+    "chunk_number": 140,
+    "word_count": 167
+  }
+}

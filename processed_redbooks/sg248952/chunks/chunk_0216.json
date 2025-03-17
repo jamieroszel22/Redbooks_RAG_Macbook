@@ -1,0 +1,18 @@
+{
+  "content": "nm EUV chip lithography and the lower cycle time allows IBM z16 A02 and IBM z16 AGZ to increase the size of L2 cache level within the PU chip. To overcome the inherent delays of the SMP CPC drawer design and save cycles to access the remote virtual L4 content, the system keeps instructions and data as close to the processors as possible. This configuration can be managed by directing as much work of a specific LPAR workload to the processors in the same CPC drawer as the L4 virtual cache. This configuration is achieved by having the IBM Processor Resource/Systems Manager (PR/SM) scheduler and the z/OS WLM and dispatcher work together. Have them keep as much work as possible within the boundaries of as few processors and L4 virtual cache space (which is best within a CPC drawer boundary) without affecting throughput and response times. The cache structures of IBM z16 A02 and IBM z16 AGZ systems are compared to the previous generation (IBM z15 T02) in Figure 3-5 on page 79. Logical",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.038722",
+    "chunk_number": 216,
+    "word_count": 174
+  }
+}

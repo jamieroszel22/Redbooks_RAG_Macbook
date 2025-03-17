@@ -1,0 +1,18 @@
+{
+  "content": "topics are described in this chapter: \u0002 2.1, \u201cOverview of watsonx.ai\u201d on page 14 \u0002 2.2, \u201cSynergy between watsonx.ai and other components in the watsonx platform\u201d on page 15 \u0002 2.3, \u201cBusiness impact of these synergies\u201d on page 16 2 14 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai 2.1 Overview of watsonx.ai watsonx.ai serves as the core engine of the watsonx platform, which is focused on the rapid development and deployment of AI models. Its architecture is designed to support various AI workloads, such as traditional machine learning (ML), deep learning (DL), and generative AI (gen AI). 2.1.1 Key capabilities Here are the key capabilities of watsonx.ai: \u0002 Foundation models (FMs): watsonx.ai provides access to pre-trained FMs, such as large language models (LLMs) and vision models, which can be fine-tuned for specific business needs. \u0002 Machine learning operations (MLOps): The platform integrates tools for version control, model monitoring, and deployment to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.396961",
+    "chunk_number": 67,
+    "word_count": 156
+  }
+}

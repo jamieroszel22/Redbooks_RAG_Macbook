@@ -1,0 +1,18 @@
+{
+  "content": "loading of initial keys in ATM - X - - Improved key exchange with non-CCA systems - X - - ISO 16609 CBC mode triple DES message authenti- cation code (MAC) support - X - - AES GMAC, AES GCM, AES XTS mode, CMAC - X - - SHA-2, SHA-3 (384,512), HMAC - X - - Visa Format Preserving Encryption - X - - AES PIN support for the German banking industry - X - - ECDSA (192, 224, 256, 384, 521 Prime/NIST) - X - - ECDSA (160, 192, 224, 256, 320, 384, 512 BrainPool) - X - - ECDH (192, 224, 256, 384, 521 Prime/NIST) - X - - ECDH (160, 192, 224, 256, 320, 384, 512 BrainPool) - X - - PNG (Prime Number Generator) - X - - a. To make adding the Crypto Express features nondisruptive, the logical partition must be predefined with the suitable PCI Express cryptographic adapter number. This number must be selected from its candidate list in the partition image profile. b. This feature is not required for Linux if only RSA clear key operations are used. DES or triple DES encryption requires CPACF to be",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.556113",
+    "chunk_number": 593,
+    "word_count": 194
+  }
+}

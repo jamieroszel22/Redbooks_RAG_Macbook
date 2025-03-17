@@ -1,0 +1,18 @@
+{
+  "content": "(= 256 threads). d. IBM z16 A01 supports defining up to 32 TB per LPAR (OS support is required). e. On IFL only. f. Packed decimal conversion support. g. IBM is working with its Linux distribution Business Partners to provide this feature. h. Delivered with Linux distributions as a new package: libzdnn. i. Subcapacity CP speed boost (no zIIP boost). j. For SCSI IPL. k. For second-level guests that are running under KVM. l. Requires Linux kernel exploitation support for gzip/zlib compression. Functiona z/VSE V6R2 z/TPF V1R1 Linux on IBM Zb 256 IBM z16 (3931) Technical Guide 7.3.2 Coupling and clustering The supported coupling and clustering functions for z/OS and z/VM are listed in Table 7-5. Table 7-5 Supported coupling and clustering functions for z/OS and z/VM In addition to operating system support that is listed in Table 7-5, Server Time Protocol is supported on z/TPF V1R1 and Linux on IBM Z. Also, CFCC Level 23, Level 24, and Level 25 are supported for z/TPF V1R1. Note: z/OS V2R2",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.639562",
+    "chunk_number": 614,
+    "word_count": 169
+  }
+}

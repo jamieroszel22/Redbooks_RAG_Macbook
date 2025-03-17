@@ -1,0 +1,18 @@
+{
+  "content": "Select System View -> Volume Management. Click Add -> Volume Group. Use vg_srv as Volume Group Name. Add the device to the volume group. Click Finish. Select System View -> Volume Management. Click Add -> Logical Volume. Set the name of the Logical Volume to srv, click Next. Use Maximum Size and click Next. Select Format partition and use file system XFS. Select Mount partition and set the Mount Point to /srv. Click finish and Next. Click Finish and leave YaST with Quit. 404 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 e. Check whether all paths are online: # multipath -ll 36005076305ffc74c0000000000001119 dm-4 IBM,2107900 size=10G features='1 queue_if_no_path' hwhandler='0' wp=rw `-+- policy='service-time 0' prio=1 status=active |- 0:0:0:1075396625 sda 8:0 active ready running |- 0:0:1:1075396625 sdb 8:16 active ready running |- 1:0:0:1075396625 sdc 8:32 active ready running `- 1:0:1:1075396625 sdd 8:48 active ready running 4. To activate a new LUN to an existing volume group, run",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.549432",
+    "chunk_number": 868,
+    "word_count": 154
+  }
+}

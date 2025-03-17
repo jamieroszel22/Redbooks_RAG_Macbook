@@ -1,0 +1,18 @@
+{
+  "content": "subchannel sets\u201d on page 206. Channel paths A channel path provides a connection between the channel subsystem and control units that allows the channel subsystem to communicate with I/O devices. Depending on the type of connections, a channel path might be a physical connection to a control unit with I/O devices, such as FICON, or an internal logical control unit, such as HiperSockets. Each channel path in a channel subsystem features a unique 2-digit hexadecimal identifier that is known as a channel-path identifier (CHPID), which ranges 00 - FF. Therefore, a total of 256 CHPIDs are supported by a CSS, and a maximum of 768 CHPIDs are available on an IBM z16 A02 and IBM z16 AGZ with three logical channel subsystems. By assigning a CHPID to a physical port of an I/O feature adapter, such as FICON Express32S, or a fanout adapter (ICA SR) port, the channel subsystem connects to the I/O devices through these physical ports. A port on an I/O feature card features a unique physical channel",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.073958",
+    "chunk_number": 477,
+    "word_count": 170
+  }
+}

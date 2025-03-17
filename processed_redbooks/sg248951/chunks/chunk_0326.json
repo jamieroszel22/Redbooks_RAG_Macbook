@@ -1,0 +1,18 @@
+{
+  "content": "storage, or when a concurrent memory upgrade occurs. With dynamic storage reconfiguration, the unused storage does not have to be continuous. When an operating system that is running on an LPAR assigns a storage increment to its configuration, PR/SM determines whether any free storage increments are available. PR/SM then dynamically brings the storage online. PR/SM dynamically takes offline a storage increment and makes it available to other partitions when an operating system running on an LPAR releases a storage increment. 16 When defining an LPAR on the HMC, the 2 G boundary must be followed in PR/SM. Logical partition: Largest main storage amount Logical partition: Main storage granularity Main storage amount </= 512 GB 1 GB 512 GB < main storage amount </= 1 TB 2 GB 1 TB < main storage amount </= 2 TB 4 GB 2 TB < main storage amount </= 4 TB 8 GB 4 TB < main storage amount </= 8 TB 16 GB 8 TB < main storage amount </= 16 TB 32 GB 128 IBM z16 (3931) Technical Guide 3.8 Intelligent",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.505150",
+    "chunk_number": 326,
+    "word_count": 179
+  }
+}

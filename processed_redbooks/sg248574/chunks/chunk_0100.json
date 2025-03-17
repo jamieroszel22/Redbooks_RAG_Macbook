@@ -1,0 +1,18 @@
+{
+  "content": "real-world applications. Chapter 4. Building and using artificial intelligence models 35 4.5.2 Preparing and cleaning data: data quality considerations Data quality is a critical factor in the success of AI models because it directly influences their performance and accuracy. Here are some key considerations: \u0002 Accuracy: Ensuring that data is correct, consistent, and error-free is vital for creating reliable AI models. Inaccurate data can lead to faulty predictions and flawed decision-making. \u0002 Completeness: AI models rely on comprehensive datasets to learn effectively. Missing data can skew results, which cause incomplete or biased predictions. \u0002 Consistency: Data must be consistent across different sources and formats to help ensure the AI model functions as expected. \u0002 Relevance: Data should be pertinent to the problem the AI aims to solve. Irrelevant data might introduce noise and reduce model effectiveness. \u0002 Bias and fairness: Addressing data biases and ensuring fairness are",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.518253",
+    "chunk_number": 100,
+    "word_count": 147
+  }
+}

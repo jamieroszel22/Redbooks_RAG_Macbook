@@ -1,0 +1,18 @@
+{
+  "content": "compared to coding. You can switch between ETL and ELT modes seamlessly without rebuilding pipelines. You can use Apache Spark or Presto within IBM watsonx.data for diverse tasks like BI, reporting, or data science. 44 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data By combining DataStage and IBM watsonx.data, you gain the following benefits: \u0002 Faster pipeline development: Build pipelines within IBM watsonx.data with minimal egress costs. \u0002 Simplified workflow: Use a drag-and-drop interface for efficient pipeline creation. \u0002 Flexibility: Switch between ETL and ELT modes. \u0002 Powerful query engines: Use Spark or Presto for diverse data analysis needs. Auto-responding to source schema changes DataStage simplifies data pipeline management by automatically detecting and adapting to changes in source data schemas. This approach eliminates the need for manual adjustments, which saves time and effort. With automated schema evolution, users can deploy pipelines",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.792502",
+    "chunk_number": 117,
+    "word_count": 144
+  }
+}

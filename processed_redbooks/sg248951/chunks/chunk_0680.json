@@ -1,0 +1,18 @@
+{
+  "content": "by using the normal structure object latches that all mainline commands use. However, a few \u201cedge conditions\u201d in ECR processing still require structure-wide latching. For more information about CFCC code levels, see the Parallel Sysplex page of the IBM IT infrastructure website. For more information about the latest CFCC code levels, see the current exception letter that is published on Resource Link website (login is required). CF structure sizing changes are expected when upgrading from a previous CFCC Level to CFCC Level 25. In fact, CFLEVEL 25 can have more noticeable CF structure size increases associated with it, especially for smaller structures, because of task-related memory increases that are associated with the increased number of CF tasks in CFLEVEL 25 Review the CF LPAR size by using the CFSizer tool. Alternatively, the batch SIZER utility also can be used for re-sizing your CF structures as needed. Make sure to update CFRM Policy INITISIZE or SIZE values as needed.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.905851",
+    "chunk_number": 680,
+    "word_count": 158
+  }
+}

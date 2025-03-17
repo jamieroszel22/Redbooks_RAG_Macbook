@@ -1,0 +1,18 @@
+{
+  "content": "wide range of topics. \u0002 MMLUBranch compares the model\u2019s performance to the performance of a base model to identify improvements in knowledge. \u0002 MTBench evaluates how well the model applies its knowledge in multi-turn conversations. \u0002 MTBenchBranch assesses improvements or regressions in specific skill areas when compared to a base model. Chapter 5. Advanced capabilities of watsonx.ai 79 For each benchmark, the evaluation generates detailed reports, which show scores and identify areas where the model performs well and areas that need further work. For example, the MMLU report provides a score for various subjects, such as abstract algebra, anatomy, and business ethics, which indicate how the model performs in each area. A typical output for MMLU looks like a series of subject categories with a score 0.0 - 1.0, with higher scores indicating better performance in the respective topics. Running MMLUBranch involves evaluating your model's contributions compared to a base model. The",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.941792",
+    "chunk_number": 187,
+    "word_count": 152
+  }
+}

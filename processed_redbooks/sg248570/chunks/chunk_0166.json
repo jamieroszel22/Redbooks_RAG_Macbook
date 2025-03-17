@@ -1,0 +1,18 @@
+{
+  "content": "engine details 6. Choose the number of nodes. This is the number of nodes that you want reserved (up to 20 nodes) for your Spark engine. See Figure 5-7. Figure 5-7 Number of node configurations 7. The billing for watsonx.data is based on fixed base charge plus the number of RUs (Resource Units) consumed. To understand how the billing is done for the Spark engine, refer to the About tab at https://cloud.ibm.com/watsonxdata. 8. Next, you can then choose to associate one or more existing catalogs with the engine. In Figure 5-8 on page 70 we paired two catalogs with a single Spark engine. This demonstrates that a Spark engine, like a Presto engine or Milvus service, can be paused when inactive. Resume can take up to 10 minutes. 70 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Figure 5-8 Spark engine Start and Stop 9. In the next step, we will associate a bucket with a catalog. We will use an IBM Cloud Object Storage bucket as an example. If you do not already",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.979551",
+    "chunk_number": 166,
+    "word_count": 177
+  }
+}

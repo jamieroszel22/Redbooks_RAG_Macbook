@@ -1,0 +1,18 @@
+{
+  "content": "the IBM z16. IBM z16 servers support dynamic provisioning features to give clients exceptional flexibility and control over system capacity and costs. This chapter includes the following topics: \u0002 8.1, \u201cIntroduction\u201d on page 328 \u0002 8.2, \u201cPermanent and Temporary Upgrades\u201d on page 328 \u0002 8.3, \u201cConcurrent upgrades\u201d on page 334 \u0002 8.4, \u201cMiscellaneous equipment specification upgrades\u201d on page 341 \u0002 8.5, \u201cPermanent upgrade by using the CIU facility\u201d on page 347 \u0002 8.6, \u201cOn/Off Capacity on Demand\u201d on page 352 \u0002 8.7, \u201cz/OS Capacity Provisioning\u201d on page 359 \u0002 8.8, \u201cSystem Recovery Boost Upgrade\u201d on page 364 \u0002 8.9, \u201cCapacity for Planned Event\u201d on page 365 \u0002 8.10, \u201cCapacity Backup\u201d on page 365 \u0002 8.11, \u201cFlexible Capacity Cyber Resiliency\u201d on page 370 \u0002 8.12, \u201cPlanning for nondisruptive upgrades\u201d on page 372 \u0002 8.13, \u201cSummary of Capacity on-Demand offerings\u201d on page 378 8 328 IBM z16 (3931) Technical Guide 8.1 Introduction A key resource for managing client IBM Z servers is the IBM Resource Link",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.298728",
+    "chunk_number": 792,
+    "word_count": 164
+  }
+}

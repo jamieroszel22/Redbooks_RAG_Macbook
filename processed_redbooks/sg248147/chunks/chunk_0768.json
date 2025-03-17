@@ -1,0 +1,18 @@
+{
+  "content": "the FILE command. 6. Run the following commands: ===> CPSYNTAX SYSTEM CONFIG Z (LPAR A09 ===> CPSYNTAX SYSTEM CONFIG Z (LPAR A0A 7. Check the output of the last two commands for errors, and fix any errors. 8. Run the following command: ===> RELEASE Z (DETACH To perform the online configuration without restarting z/VM, complete the following steps: 1. Create a small REXX script that enables the EDEV: ===> XEDIT SETEDEV EXEC A 2. Insert the lines that are shown in Example 11-4 into the newly created SETEDEV EXEC A file. Example 11-4 Online definition of EDEV devices with SETEDEV EXEC 00001 /* REXX */ 00002 'SET EDEV 3000 EQID EDASD0 TYPE FBA ATTR 2107', 00003 'FCP_DEV B800 WWPN 500507630500C74C LUN 4010401100000000', 00004 'FCP_DEV B800 WWPN 50050763050BC74C LUN 4010401100000000' 3. Save that script and run it: ===> SETEDEV 4. Create another REXX script that enables the additional paths on B900: ===> XEDIT ADDEDEV EXEC A Chapter 11. Deploying and maintaining Linux workloads 355 5.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.209813",
+    "chunk_number": 768,
+    "word_count": 164
+  }
+}

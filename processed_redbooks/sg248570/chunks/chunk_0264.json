@@ -1,0 +1,18 @@
+{
+  "content": "and gain a competitive edge. To effectively execute real-time use cases, data attributes such as authenticity, lineage, governance, PII protection, aggregation, and open formats are essential. By ensuring data quality and security, banks can build trust with both existing and potential customers, ultimately enhancing their service offerings. 10.2 Data lakehouses: Empowering data-driven decisions in banking Banks have traditionally relied on data warehouses for business intelligence workloads. While fraud detection on edge devices often involves real-time streaming data, large-scale data analysis (petabytes and exabytes) typically relies on data warehouses and data lakes, which can present challenges in terms of cost and performance. The banking sector, traditionally cautious about cloud-based solutions, is increasingly embracing data lakehouses. These platforms, built on open data formats and lineage standards, offer improved control and flexibility in data management: \u0002 Data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.362009",
+    "chunk_number": 264,
+    "word_count": 134
+  }
+}

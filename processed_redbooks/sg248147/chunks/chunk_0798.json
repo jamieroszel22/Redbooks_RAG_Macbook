@@ -1,0 +1,18 @@
+{
+  "content": "and leave work units behind. In general, this situation rarely occurs. Before you cancel a work unit that appears to be stuck, use the DirMaint commands to reload the code and data first and allow several minutes for them to complete. If this action does not resolve the issue, complete the following steps: 1. Check for active work units: ===> dirm status workunit all DVHXMT1191I Your STATUS request has been sent for processing to DIRMAINT DVHXMT1191I at ITSOZVM1 via DIRMSAT2. Ready; T=0.01/0.01 11:01:46 DVHREQ2288I Your STATUS request for MAINT at * DVHREQ2288I has been accepted. DVHSTT3419I The following active Work Unit DVHSTT3419I Control Files currently exist: DVHSTT3419I 13153849 DVHREQ2289I Your STATUS request for MAINT at * DVHREQ2289I has completed; with RC = 0. 2. Display more information about the work unit in question: ===> dirm status workunit 13153849 DVHXMT1191I Your STATUS request has been sent for processing to DIRMAINT DVHXMT1191I at ITSOZVM1 via DIRMSAT2. Ready;",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.306743",
+    "chunk_number": 798,
+    "word_count": 155
+  }
+}

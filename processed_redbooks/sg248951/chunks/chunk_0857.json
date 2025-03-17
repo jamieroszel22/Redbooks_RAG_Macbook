@@ -1,0 +1,18 @@
+{
+  "content": "also can perform administrative testing. Although capacity is not added to the system, you can test all of the procedures and automation for the management of the On/Off CoD facility. Chapter 8. System upgrades 357 An example of an On/Off CoD order on the Resource Link web page is shown in Figure 8-11. Figure 8-11 On/Off CoD order example The example order that is shown in Figure 8-11 is an On/Off CoD order for 0% more CP capacity (system is at capacity level 7), and for two more ICFs and two more zIIPs. The maximum number of CPs, ICFs, zIIPs, and IFLs is limited by the current number of available unused PUs of the installed processor drawers. The maximum number of SAPs is determined by the model number and the number of available PUs on the already installed processor drawers. To finalize the order, you must accept Terms and Conditions for the order, as shown in Figure 8-12. Figure 8-12 CIU order Terms and Conditions 358 IBM z16 (3931) Technical Guide 8.6.5 Activation and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.517807",
+    "chunk_number": 857,
+    "word_count": 174
+  }
+}

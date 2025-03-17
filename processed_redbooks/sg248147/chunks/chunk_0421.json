@@ -1,0 +1,18 @@
+{
+  "content": ".********************************************************* :nick.TCPIP :type.server :class.stack .* :attach.2103-2105 ====> file 4. Make a backup copy of the working PROFILE TCPIP file that was created by the IPWIZARD: ===> copy profile tcpip d = tcpiwrks = (olddate 5. Edit the PROFILE TCPIP file on the TCPMAINT 198 (D) disk. Change the real OSA starting address (2103 in this example) to the virtual starting address (0600) everywhere in the file: ===> xedit profile tcpip d ====> c/2103/0600/* * DMSXCG517I 4 occurrence(s) changed on 3 line(s) ====> file This command instructs TCPIP to use the virtual NIC that starts at the virtual device address 600. 6. Log off from TCPMAINT. 7. Repeat these steps on all other members in the cluster. Remember, the real OSA addresses might differ on each node. Modifying the TCPIP user directory entry Complete the following steps: 1. Log on to the first node of the SSI cluster as MAINT. 2. Create a virtual NIC for the TCP/IP virtual machine on VSW1: ===>",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.850090",
+    "chunk_number": 421,
+    "word_count": 162
+  }
+}

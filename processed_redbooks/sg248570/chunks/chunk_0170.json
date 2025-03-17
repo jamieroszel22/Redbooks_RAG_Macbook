@@ -1,0 +1,18 @@
+{
+  "content": "Spark-generated application ID, as indicated in Figure 5-16. Chapter 5. Querying and manipulating data and leveraging persona-specific engines 77 return spark,sc def main(): spark,sc = init_spark() spark.sql(\"create database if not exists mm_may_catalog.mayday_db1 LOCATION 's3a://my-bucket/'\") spark.sql(\"show databases from my_catalog\").show() spark.sql(\"create table if not exists my_catalog.db1.testTable1(id INTEGER, name VARCHAR(10), age INTEGER, salary DECIMAL(10, 2)) using iceberg\").show() spark.sql(\"insert into my_catalog.db1.testTable1 values(4,'John black',23,3400.00),(5,'Peter black',30,5500.00),(6,'George Black',35,6500.00)\") spark.sql(\"select * from my_catalog.db1.testTable1\").show() if __name__ == '__main__': main() 1. First, upload Spark application to a bucket. See Figure 5-17. Figure 5-17 Upload Spark application to a bucket 2. To submit applications you need a token. To generate the token, you can use the IBM Cloud IAM CLI or use the REST API as shown in Figure 5-18.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.996576",
+    "chunk_number": 170,
+    "word_count": 119
+  }
+}

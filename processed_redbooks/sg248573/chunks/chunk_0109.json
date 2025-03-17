@@ -1,0 +1,18 @@
+{
+  "content": "the model is functioning as intended and meets the required standards. Persona interaction: \u0002 Model Validator reviews the model documentation and use-case. In case of any shortcomings, they challenge the inconsistence and clarify any unclear or missing information To implement a model validation strategy, the following objects are primarily utilized: 1. Review - The review object is a critical component of model governance, serving as a record of all model review activities. As a child of both the model deployment and model objects, it provides a comprehensive view of review outcomes. The review object is designed to capture the results of various types of reviews (for example, pre- and post-implementation ), and reviews consumed by independent teams to ensure model integrity and effectiveness. By utilizing the review object, organizations can maintain a centralized record of all model review activities, facilitating informed decision-making and effective model governance. 2.",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.862300",
+    "chunk_number": 109,
+    "word_count": 147
+  }
+}

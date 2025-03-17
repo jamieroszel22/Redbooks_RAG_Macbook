@@ -1,0 +1,18 @@
+{
+  "content": "greater if present during MES upgrades. \u0002 All PU conversions can be performed concurrently. A capacity marker identifies the number of CPs that were purchased. This number of purchased CPs is higher than or equal to the number of CPs that is actively used. The capacity marker marks the availability of purchased but unused capacity that is intended to be used as CPs in the future. This status often is present for software-charging reasons. Unused CPs are not a factor when establishing the millions of service units (MSU) value that is used for charging monthly license charge (MLC) software, or when charged on a per-processor basis. 2.8.1 Upgrades Concurrent upgrades of CPs, IFLs, ICFs, zIIPs, or SAPs are available for the IBM z16. However, concurrent PU upgrades require that more PUs are installed but not activated. Spare PUs are used to replace defective PUs. Two spare PUs always are on an IBM z16 A01 server. In the rare event of a PU failure, a spare PU is activated concurrently and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.853427",
+    "chunk_number": 171,
+    "word_count": 170
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": ",ccCCCCc, LL ,oOOOOOo, UU UU ,ddDDDd,DD Built on IBM :cC\" LL :O\" \"O' UU UU dD\" `DDD Virtualization .\"Cc, ,c LL :Oo, ,oO' \"Uu, ,uUU \"Dd, ,dDD Technology `\"CccccC\" LLL `\"OOoOO\" `\"UUUUU'UU `\"DdddD\"DDD Fill in your USERID and PASSWORD and press ENTER (Your password will not appear when you type it) USERID ===> PASSWORD ===> COMMAND ===> logon sysadmin by edialves RUNNING RDBKZVMG Chapter 6. Configuring z/VM 179 HCPRPW004I Password changed z/VM Version 7 Release 2.0, Service Level 2001 (64-bit), built on IBM Virtualization Technology There is no logmsg data FILES: NO RDR, NO PRT, NO PUN LOGON AT 10:10:58 EDT TUESDAY 06/11/13 z/VM V7.2.0 2020-06-04 12:50 You can issue a QUERY USERID command to see that you are logged on as SYSADMIN with its privileges. 6.7.9 Using the RACF SMF data unload utility The RACF SMF data unload utility is a simple way to extract RACF type 80 SMF data. The following example shows the TYPE 80 SMF record where USERID1 was created and given access to log on by",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.825246",
+    "chunk_number": 414,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "workflows. This section presents the architectural design of Role-Level Access Control (RLAC) within IBM watsonx.data. It outlines the primary role types - platform roles, instance roles, and resource-level roles - and explains how they can be effectively mapped and managed. Furthermore, it discusses the integration of Single Sign-On (SSO) with these roles to facilitate seamless user access across the platform. By establishing clear roles and responsibilities, organizations can grant users precise access to the tools and data that they need, which minimizes risk and optimizes operational efficiency. 4.2.1 The architectural design for RLAC RLAC in IBM watsonx.data is designed to manage access at different levels within the platform so that administrators can define specific roles and assign them to users or groups. This architecture is built to handle complex access needs by combining platform roles for administrative access, instance roles for managing individual data environments,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.850053",
+    "chunk_number": 132,
+    "word_count": 145
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "addresses that are used in this book. This pane is shown in 5.5.1, \u201cCopying the in-memory z/VM system to DASD\u201d on page 115. If only two members exist in the SSI, you must specify only two pairs of CTCAs (from member 1 to member 2, and vice versa). Table 2-8 INSTPLAN values for channel-to-channel adapter definitions Type/purpose Label Address Comment COMMON AV953E 953E Common volume RELVOL AV95BE 95BE Release volume SESVOL AVFAAE FAAE VMSES/E service volume SFSVOL AVFFA0 FFA0 LNX SFS pool volume Mem 1 RES AV963E 963E Member 1 residence volume Mem 1 SPOOL AS96BE 96BE Member 1 spool volume Mem 1 PAGE AP973E 973E Member 1 page volume Mem 1 WORK AMFF10 FF10 Member 1 work volume Mem 2 RES AV97BE 97BE Member 2 residence volume Mem 2 SPOOL AS983E 983E Member 2 spool volume Mem 2 PAGE AP98BE 98BE Member 2 page volume Mem 2 WORK AMFF20 FF20 Member 2 work volume Mem 3 RES AV9F00 9F00 Member 3 residence volume Mem 3 SPOOL AS9F01 9F01 Member 3 spool volume Mem 3 PAGE AP9F02 9F02 Member 3 page",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.964448",
+    "chunk_number": 203,
+    "word_count": 181
+  }
+}

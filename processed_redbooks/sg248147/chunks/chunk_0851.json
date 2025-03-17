@@ -1,0 +1,18 @@
+{
+  "content": ".0/s Diagnose instr. 16/s Total rel. SHARE 3050 Tot. abs SHARE 0% Queue Statistics: Q0 Q1 Q2 Q3 User Status: VMDBKs in queue 1 0 1 0 # of logged on users 14 VMDBKs loading 0 0 0 0 # of dialed users 0 Eligible VMDBKs 0 0 0 # of active users 7 El. VMDBKs loading 0 0 0 # of in-queue users 2 Tot. WS (pages) 2911 0 41870 0 % in-Q users in PGWAIT 0 Reserved % in-Q users in IOWAIT 0 85% elapsed time 96.00 16.00 128.0 768.0 % elig. (resource wait) 0 Transactions Q-Disp trivial non-trv User Extremes: Average users 2.7 .8 .2 Max. CPU % LNXADMIN .1 Trans. per sec. .2 .1 .0 Reserved Av. time (sec) 18.40 12.39 16.39 Max. IO/sec MONWRITE 9.4 UP trans. time .000 .000 Max. PGS/s ........ ..... MP trans. time 12.39 16.39 Max. RESPG LNXADMIN 41923 System ITR (trans. per sec. tot. CPU) 31.3 Max. MDCIO MONWRITE .1 Emul. ITR (trans. per sec. emul. CPU) 269.2 Max. XSTORE ........ ..... Chapter 12. Monitoring z/VM and Linux 395 12.4.1 Monitoring Linux performance from z/VM This section describes how to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.495334",
+    "chunk_number": 851,
+    "word_count": 190
+  }
+}

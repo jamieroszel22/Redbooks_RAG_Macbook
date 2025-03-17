@@ -1,0 +1,18 @@
+{
+  "content": "algorithms which 1 UE - Unrecoverable error 2 SECDED - Single error correction double error detection Chapter 9. Reliability, availability, and serviceability 369 provides virtualized L3 (shared victim) and virtual L4 (shared victim) caches (see Figure 9-4). \u0002 The dedicated L2 cache (dense SRAM) is semi-private to the core, or we can say each core has an associated 32MB slice of the L2 cache (semi-private). \u2013 Virtual L3 on PU Chip (shared victim 256MB) \u2013 Virtual L4 on drawer up to 2GB Figure 9-4 Cache hierarchy: IBM z15 vs. IBM z16 A02 and IBM z16 AGZ \u0002 L2 cache and L2 cache recovery \u2013 The L2 cache has expected inline Symbol ECC (RAID4) recovery \u2022 64:1 interleaving (4:1 physical, 16:1 logical) \u2022 L2 symbol ECC is inherited by virtual L3 and virtual L4 \u2013 The array macro have row and column repair (Module manufacturing and ABIST) \u2013 Ring can be fenced from L2 for yield, fences core too (Module manufacturing) \u2022 If the core checkstops, all 32MB can be used by the system \u2022 L2 dedicated /",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.669489",
+    "chunk_number": 903,
+    "word_count": 177
+  }
+}

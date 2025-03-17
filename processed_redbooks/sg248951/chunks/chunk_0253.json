@@ -1,0 +1,18 @@
+{
+  "content": "or FC 2982. CPC drawer installation is nondisruptive, but takes more time than a simple LIC upgrade. Features Max68 and Max200 are factory build only. For more information about Capacity on Demand, see Chapter 8, \u201cSystem upgrades\u201d on page 327. PU sparing If a PU failure occurs, the failed PU\u2019s characterization is dynamically and transparently reassigned to a spare PU. IBM z16 servers have two spare PUs. PUs that are not characterized on a CPC configuration also can be used as extra spare PUs. For more information about PU sparing, see 3.5.10, \u201cSparing rules\u201d on page 111. PU pools PUs that are defined as CPs, IFLs, ICFs, and zIIPs are grouped in their own pools from where they can be managed separately. This configuration significantly simplifies capacity planning and management for LPARs. The separation also affects weight management because CP and zIIP weights can be managed separately. For more information, see \u201cPU weighting\u201d on page 99. All assigned PUs are grouped in the PU pool.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.176617",
+    "chunk_number": 253,
+    "word_count": 165
+  }
+}

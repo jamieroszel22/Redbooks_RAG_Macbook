@@ -1,0 +1,18 @@
+{
+  "content": "latch-specific waiter queues for the exact instance of the latch they are requesting, and in the exact order in which they requested the latch. As a result, the global suspend queue is much less heavily used, and thus is much less a source of global contention or cache misses in the CF. Also, when a latch is released, the specific latch\u2019s latch waiter queue is used to transfer ownership of the latch directly to the next request in line (or multiple requests, in the case of a shared latch), and make that task (or tasks) ready to run, with the transferred latch already held. No possibility exists of any unfairness or \u201ccutters\u201d in line between the time that the latch is released versus when is obtained again. For managing latches correctly for structures that are System-Managed (SM) synchronous duplexing, it is now important for the CF to understand which of the duplexed pair of requests operates as the \u201cmaster\u201d versus \u201cslave\u201d from a latching perspective, which requires more SM duplexing",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.567103",
+    "chunk_number": 342,
+    "word_count": 170
+  }
+}

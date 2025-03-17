@@ -1,0 +1,18 @@
+{
+  "content": "varied online B802 varied online B901 varied online B902 varied online 4 device(s) specified; 4 device(s) successfully varied online 6. Repeat these steps on the other nodes of the SSI. 350 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 To make the EQIDs permanent, complete the following steps: 1. Edit the SYSTEM CONFIG file and add RDEV statements: ===> vmlink pmaint cf0 < cf0 f mr > ===> xedit system config f /* Add EQID statements for OSA addresses, unique MAC IDs and FCP*/ ZVM63A: BEGIN RDEV 2100-210F EQID OSA1SET1 TYPE OSA RDEV 2120-212F EQID OSA1SET1 TYPE OSA VMLAN MACPREFIX 02000B VMLAN LIMIT TRANSIENT 0 DEFINE VSWITCH VSW1 RDEV 2103 2123 ETHERNET DEFINE VSWITCH VSW2 ETHERNET RDEV B801 EQID FCPID01 TYPE FCP RDEV B802 EQID FCPID02 TYPE FCP RDEV B901 EQID FCPID01 TYPE FCP RDEV B902 EQID FCPID02 TYPE FCP ZVM63A: END ZVM63B: BEGIN RDEV 2040-204F EQID OSA1SET1 TYPE OSA RDEV 2060-206F EQID OSA1SET1 TYPE OSA VMLAN MACPREFIX 02000C VMLAN LIMIT TRANSIENT 0 DEFINE VSWITCH VSW1 RDEV 2043",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.179949",
+    "chunk_number": 760,
+    "word_count": 167
+  }
+}

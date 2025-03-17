@@ -1,0 +1,18 @@
+{
+  "content": "and creates the WWPN assignments that are required to set up the SAN. A binary configuration file that can be imported later by the system is also created. The .csv file can be created manually or exported from the HCD/HCM. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258. The WWPN tool is applicable to all FICON channels that are defined as CHPID type FCP (for communication with SCSI devices) on IBM z16. It is available for download at the Resource Link at the following website (log in is required). 7.4.5 Networking features and functions In this section, we describe the networking features and functions that are supported on IBM z16. 25 GbE RoCE Express3 SR and 25 GbE RoCE Express3 LR The 25 GbE RoCE Express3 features (FC 0452 and FC 0453) are a RDMA/Ethernet technology refresh. The features now also support LR optics and 25 Gbit Ethernet switches with relaxed requirements. The features are installed in the PCIe+ I/O drawer and are",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.035629",
+    "chunk_number": 715,
+    "word_count": 173
+  }
+}

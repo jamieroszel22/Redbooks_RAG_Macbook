@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.governance Governance Console (OpenPages). In a prior Minimum Viable Product (MVP), IBM OpenPages demonstrated value by importing consumer code and GDPR laws via standard REST API such as L\u00e9gifrance REST API in France. Initially, Excel was used for linking with the eventual goal being direct integration within IBM OpenPages. List of key steps: \u0002 Develop a Connector: Connect the L\u00e9gifrance REST API and IBM OpenPages REST API to fetch and properly format regulatory data. \u0002 Automate Hyperlinks: Enable referencing between articles for better navigation and usability. By streamlining legal monitoring, the solution enhances risk identification and regulatory compliance, reduces prior manual steps, and improves the quality of formatting legal data. 7.2 Overview of use case 2 - Automated governance for universal bank's AI chatbot A prominent British universal bank and financial services group, provides a broad range of offerings such as savings accounts, loans, insurance, and",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.221427",
+    "chunk_number": 208,
+    "word_count": 146
+  }
+}

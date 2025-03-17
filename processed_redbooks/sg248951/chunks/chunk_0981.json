@@ -1,0 +1,18 @@
+{
+  "content": "front of rack A under the 1U servers replaces the previous KMM assembly that was mounted on a swing gate in IBM z14. The KMM device is shown in Figure 10-15. Important: With the IBM HMA, shutdown or restart of the HMC that includes the Primary SE code as guest also restarts the Primary SE code. Only an application restart of the HMC is not disruptive to the guest SE code. Chapter 10. Hardware Management Console and Support Element 421 Figure 10-15 HMC / SE KMM device inside A frame Consider the following points: \u0002 The device is intended to be used by the IBM System Service Representative only. If remote access to the HMC and SE is not possible, the customer can use the KMM as an emergency option. It can be local or onsite and managed by the Virtual Support Element Management task, as shown in Figure 10-16. Figure 10-16 Local Virtual Support Element Management \u0002 One KMM is provided. \u0002 The KMM is stored at the front of the A frame, below the two 1U servers. A USB-C cable and mounting",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.917356",
+    "chunk_number": 981,
+    "word_count": 184
+  }
+}

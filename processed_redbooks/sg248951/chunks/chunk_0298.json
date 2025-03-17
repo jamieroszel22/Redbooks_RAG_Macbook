@@ -1,0 +1,18 @@
+{
+  "content": "Flash Memory (VFM, FC 0644) is the replacement for the Flash Express features that were available on the IBM zEC12 and IBM z13. No application changes are required to change from IBM Flash Express to VFM. For IBM z16 A01, IBM VFM provides up to 6.0 TB of virtual flash memory in 512 GB increments. The minimum is 0, while the maximum is 12 features. The number of VFM features ordered reduces the maximum orderable memory for the IBM z16. Chapter 3. Central processor complex design 117 3.7 Logical partitioning The logical partitioning features are described in this section. 3.7.1 Overview Logical partitioning is a function that is implemented by the PR/SM on IBM z16. IBM z16 can run in LPAR mode, or in DPM mode. DPM provides a GUI for PR/SM to manage I/O resources dynamically. PR/SM is aware of the processor drawer structure on IBM z16 servers. However, LPARs do not feature this awareness. LPARs feature resources that are allocated to them from various physical resources. From a systems",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.398482",
+    "chunk_number": 298,
+    "word_count": 171
+  }
+}

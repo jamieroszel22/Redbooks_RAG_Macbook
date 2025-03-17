@@ -1,0 +1,18 @@
+{
+  "content": "data sets and table space interest across the sysplex. Not all locks have anything to do with serialization of database updates or user database data or transactions. When lock structures use up all of the modify lock \u201crecord data entries\u201d that track held locks, users might need to perform special back-out or recovery processing to recover from this structure full condition. At times, that processing requires them to obtain more \u201cspecial\u201d lock structure locks, which are needed to perform the recovery that can lead to a paradoxical situation: They must use more \u201crecord data entries\u201d to recover from being out of record data entries. CFCC level 25 on IBM z16 is providing improved use support for handling of lock structure \u201crecord data full\u201d conditions by: \u2013 Thresholding record data structure full conditions to occur when less than 100% full, reserving a special \u201cfor emergency use only\u201d pool of record data entries for critical recovery purposes (user-specified threshold) \u2013 Providing new",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.550894",
+    "chunk_number": 338,
+    "word_count": 160
+  }
+}

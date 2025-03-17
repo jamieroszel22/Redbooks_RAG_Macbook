@@ -1,0 +1,18 @@
+{
+  "content": "two CPC drawers (Max68) can only use three-phase PDUs and power cords. For a future nondisruptive upgrade from single CPC drawer system to one with two CPC drawers, plan the initial machine with three-phase power and FC 2332 (CPC1 Reserve space). 2 American Society of Heating Refrigeration and Air Conditioning Engineers Chapter 11. Environmentals 447 The system requires chilled air to fulfill the air-cooling requirements. The airflow is from the front of the frame (intake, chilled air) to the rear (exhausts, warm air) of the frame. The chilled air is provided through perforated floor panels in front of the system. Figure 11-4 Hot and cold aisles Figure 11-4 shows an example on how rows of racks must be placed front-to-front. Chilled air is provided through perforated floor panels that are placed in rows between the front of servers (the cold aisles). 11.3.3 Physical specifications The Power and weight estimation tool for IBM Z servers, also available on Resource Link, can provide the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.197545",
+    "chunk_number": 1058,
+    "word_count": 162
+  }
+}

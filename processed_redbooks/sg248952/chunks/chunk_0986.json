@@ -1,0 +1,18 @@
+{
+  "content": "Management \u0002 One KMM is provided \u0002 The USB-C cable can be used to plug the device into a KVM switch at the front or the rear of the rack when servicing the system. Chapter 10. Hardware Management Console and Support Element 411 \u0002 Switching between servers is done by using buttons next to the USB-C port (see Figure 10-16 on page 410). The KMM screen also indicates which server is selected \u0002 The KMM mounting bracket (only provided with z16 AGZ) can be used to mount the device to any frame in the system (either in front or rear) \u0002 The KMM can be used on any IBM z16 system (no affinity to system with which it is shipped) For more information about the KMM and how to attach it to the frame, see 3932 Installation Manual, GC28-7041. 10.2.4 USB support for HMC and SE Because a DVD drive is not available on the HMC or SE, this section describes two according service and functional operations for HMC Driver 51/Version 2.16.0. Microcode load Microcode can be loaded by using the following",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.949400",
+    "chunk_number": 986,
+    "word_count": 182
+  }
+}

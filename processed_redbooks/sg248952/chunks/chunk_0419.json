@@ -1,0 +1,18 @@
+{
+  "content": "Note: CHPID types OSM, OSN and OSX are not supported on IBM z16 A02 and IBM z16 AGZ. Chapter 4. I/O structure 167 \u0002 OSA-Express6S 1000BASE-T Ethernet, FC 0426 The supported OSA-Express6S features are listed in Table 4-8 on page 168. OSA-Express6S 10 Gigabit Ethernet LR (FC 0424) The OSA-Express6S 10 Gigabit Ethernet (GbE) Long Reach (LR) feature includes one PCIe adapter and one port per feature. The port supports CHPID types OSD and OSX. The 10 GbE feature is designed to support attachment to a single-mode fiber 10 Gbps Ethernet LAN or Ethernet switch that is capable of 10 Gbps. The port can be defined as a spanned channel and can be shared among LPARs within and across logical channel subsystems. The OSA-Express6S 10 GbE LR feature supports the use of an industry standard small form factor LC Duplex connector. Ensure that the attaching or downstream device includes an LR transceiver. The transceivers at both ends must be the same (LR to LR). The OSA-Express6S 10 GbE LR feature does",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.852844",
+    "chunk_number": 419,
+    "word_count": 171
+  }
+}

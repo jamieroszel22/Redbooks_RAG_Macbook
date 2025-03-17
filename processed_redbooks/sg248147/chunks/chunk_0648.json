@@ -1,0 +1,18 @@
+{
+  "content": "VMFCSQ4205I ---------------------------------------- VMFCSQ4202I System Information Details for System: RDBKZVMC VMFCSQ4202I ESM Enablement: NO VMFCSQ4202I Current Service Level: <None> VMFCSQ4202I Pending Service Level: RSU1 VMFCSQ4202I Pending Service Level Status: INSTALLED VMFCSQ4200I VMFCSQ2760I CSMQUERY processing completed successfully (RC=0) VMFCMG2760I SERVMGR processing completed successfully (RC=0) Ready; servmgr system query 720 rdbkzvmc (details VMFCMG2195I SERVMGR SYSTEM QUERY 720 RDBKZVMC (DETAILS VMFCMG2760I SERVMGR processing started VMFUTL2767I Reading VMSESE PROFILE B for additional options VMFCSQ2760I CSMQUERY processing started VMFCSQ4205I ---------------------------------------- VMFCSQ4205I CSM SYSTEM Query for z/VM Version 7.2.0 VMFCSQ4205I ---------------------------------------- VMFCSQ4202I System Information Details for System: RDBKZVMC VMFCSQ4202I VRM: 720 VMFCSQ4202I Communication Protocol: FTP VMFCSQ4202I Host Name: 9.76.61.239 VMFCSQ4202I FTP Port: 4535",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.770639",
+    "chunk_number": 648,
+    "word_count": 106
+  }
+}

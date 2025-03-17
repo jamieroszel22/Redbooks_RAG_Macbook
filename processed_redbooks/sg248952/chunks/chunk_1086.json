@@ -1,0 +1,18 @@
+{
+  "content": "V2R1, you can record Instruction Counts in SMF type 30 record when you activate CPU MF. Therefore, we strongly recommend that you always activate CPU MF. For more information about getting CPUMF counter data, see the CPU MF - 2022 Update and WSC Experiences of the IBM Techdoc Library website. 12.8 Workload performance variation As the size of transistors approaches the size of atoms that stand as a fundamental physical barrier, a processor chip\u2019s performance can no longer double every two years (Moore\u2019s Law8 does not apply). A holistic performance approach is required when the performance gains are reduced because of frequency. Therefore, hardware and software synergy becomes an absolute requirement. Starting with z13, Instructions Per Cycle (IPC) improvements in core and cache became the driving factor for performance gains. As these microarchitectural features increase (which contributes to instruction parallelism), overall workload performance variability also increases because not",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.273636",
+    "chunk_number": 1086,
+    "word_count": 148
+  }
+}

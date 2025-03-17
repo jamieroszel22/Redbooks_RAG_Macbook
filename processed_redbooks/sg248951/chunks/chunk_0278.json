@@ -1,0 +1,18 @@
+{
+  "content": "environments. However, some application environments feature high I/O rates, typically Transaction Processing Facility (TPF) environments. In this case, more SAPs can be ordered. Assigning more SAPs can increase the capability of the channel subsystem to run I/O operations. In IBM z16 systems, the number of SAPs plus the number of optional SAPs cannot exceed firmware limit of 128 threads. Optional other orderable SAPs (FC 1963) The option to order more SAPs is available on all models (FC 1963). These extra SAPs increase the capacity of the channel subsystem to run I/O operations, which is suggested for TPF environments. The maximum number of optional extra orderable SAPs depends on the configuration and the number of available uncharacterized PUs. The number of SAPs is listed in Table 3-5. Table 3-5 Optional SAPs per feature 3.5.7 Reserved processors Reserved processors are defined by PR/SM to allow for a nondisruptive capacity upgrade. Reserved processors are similar to spare logical",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.271996",
+    "chunk_number": 278,
+    "word_count": 155
+  }
+}

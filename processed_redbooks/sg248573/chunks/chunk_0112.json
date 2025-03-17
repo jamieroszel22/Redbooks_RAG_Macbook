@@ -1,0 +1,18 @@
+{
+  "content": "breaches, investigate and respond to potential issues or anomalies and collaborate with Model Evaluators to identify root causes For evaluation and monitoring, the following objects are primarily utilized: 1. Metric - The Metric object is used to record the definition of a performance measurement that an organization wants to track. This involves setting key parameters, including: \u2013 Metric Type: The type of performance metric being tracked \u2013 Threshold: The threshold at which the metric is considered cautionary, critical, etc. \u2013 Collection information: Additional details about the metric's collection and calculation 2. Metric Value - The Metric Value object records the result of the metric performance measurement. It is designed to behave in a way to allow the organization to store time series results of measurement. 3. Change Request - The change request object is a critical component of model governance, providing a structured process for requesting, justifying, and approving changes",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.873590",
+    "chunk_number": 112,
+    "word_count": 150
+  }
+}

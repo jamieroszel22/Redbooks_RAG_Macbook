@@ -1,0 +1,18 @@
+{
+  "content": "case solution. As described in Chapter 4, \u201cOnboarding a new foundation model\u201d on page 41 and Chapter 5, \u201cAssessing a new use case\u201d on page 53, the AI use case will go through an approval process before being worked on by the appropriate practitioners. Once the approval process is complete, an engineer may begin to develop the technical assets for the AI use case. The engineer can achieve many things in this stage. Prompt engineering, parameter tuning, and solution experimentation all fall within the development stage. For traditional ML, this stage also includes activities such as feature engineering, exploratory data analysis, and other pre-processing tasks which go into the model development process. Validation stage After development efforts are complete, the validation stage of the life cycle is started. This stage represents the process of putting development efforts through testing. An independent practitioner such as an AI engineer or data scientist can use IBM's",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.075755",
+    "chunk_number": 167,
+    "word_count": 153
+  }
+}

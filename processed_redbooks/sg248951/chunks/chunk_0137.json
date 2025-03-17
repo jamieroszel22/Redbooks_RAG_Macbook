@@ -1,0 +1,18 @@
+{
+  "content": "must be the same size. \u0002 Addressable memory is required for partitions and HSA. 2.5.2 Redundant array of independent memory The IBM z16 Model A01 server uses the enhanced RAIM design. Installed Physical Memory (DIMM capacity) in configuration reports is addressable memory size. Memory is protected by RAIM. DIMM size includes RAIM overhead. Servers are configured with the most efficient configuration of memory DIMMs that can support Addressable Memory that is required for Customer Ordered Memory plus HSA. In some cases, Available Addressable Memory might be available to support one or more concurrent LIC CC Customer Memory upgrades with no DIMM changes. Chapter 2. Central processor complex hardware components 39 IBM z16 implements enhanced RAIM design that includes the following features: \u0002 Eight Channel Reed-Solomon3 RAIM (IBM z15 uses 5-channel RAIM) \u0002 90 \u2192 80 DRAMs accessed across memory channels (11% reduction, excluding unused spare) \u0002 Staggered Memory Refresh \u2192 Leverage RAIM to",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.693623",
+    "chunk_number": 137,
+    "word_count": 153
+  }
+}

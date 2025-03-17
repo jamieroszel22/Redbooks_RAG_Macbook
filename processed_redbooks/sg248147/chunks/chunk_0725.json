@@ -1,0 +1,18 @@
+{
+  "content": "on page 339. 10.5.3 Shared File System that is used by SMAPI The SMAPI request servers and worker servers use Shared File System (SFS) directories to access configuration files and other data. SMAPI uses the standard file pool VMSYS and VMPSFS to keep their files. The VSMWORK1 user ID is the owner of some of the SFS directories that have control files, logs, and so on. The SFS directories are defined on SFS file pools. The authorization and ownership for the SFS directories are done by using enroll SFS commands. You can set AUDIT parameter on DSMPARMS file for auditing purpose. All commands that are shown in this chapter regarding SFS ENROLL and GRANT are performed automatically during z/VM installation. They are shown here for verification and testing purposes. Also, if you are adding a worker or request server, you can use the appropriate commands from these lists as a guide for enrolling your new server in the correct file pool and then grant SFS authorizations. Example 10-9 SFS",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.051883",
+    "chunk_number": 725,
+    "word_count": 169
+  }
+}

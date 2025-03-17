@@ -1,0 +1,18 @@
+{
+  "content": "allows programs on the pipeline to read records, process them, and write them to a standard interface. Programs in the pipeline, also called stages, can be combined to run various functions. They are included on z/VM. The pipeline module contains a library of stages to perform a handful of utility functions, such as reading and writing files, sorting and changing records, and even opening TCP sockets. Those functions can be used to perform various processing without having to write the filters and subroutines. It is even possible to use REXX to create a custom stage if no suitable stages are available. Every stage consists of a program, its arguments, and the pipeline separator (the vertical bar \u201c|\u201d by default). The programs are not common CMS programs, but are created specially to be run by the pipeline. Every stage reads one line of data from the pipeline, processes it in some way, and writes it back to the pipeline. Every stage is independent from the others; they do not have to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.160639",
+    "chunk_number": 255,
+    "word_count": 170
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "unaware that modern Linux systems always attempt to use the IPv6 TCP/IP stack first, and then fall back to IPv4 if unsuccessful. Each time this attempt occurs, a penalty is paid in extra processor time and in some cases, latency that might not be considered trivial in all circumstances. 2.10 Channel-to-channel adapter planning It is important to plan adequate channel-to-channel (CTC) definitions to achieve an adequate LGR quiesce and relocation time. At an absolute minimum, it is recommended that two CTC devices are connected for each SSI member through two channel paths. During the SSI installation process, you can install only two CTCs for each SSI member. If you \\ use the VMSSI feature for consolidated systems management only, two CTCs for each SSI member are sufficient. If you plan to use LGR also, plan to add a third CTC to each member node soon as the workload grows. For more information, see 5.8, \u201cAdding CTCAs to an SSI cluster\u201d on page 130. To configure the two",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.906944",
+    "chunk_number": 187,
+    "word_count": 167
+  }
+}

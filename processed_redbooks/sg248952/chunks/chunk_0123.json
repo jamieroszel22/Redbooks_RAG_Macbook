@@ -1,0 +1,18 @@
+{
+  "content": "Hardware Maximum eight Harness plates for trunking installed in top hat or bottom tailgate 7802 Top Exit Cabling with Tophat Includes cable management top hat 7803 Top Exit Cabling without Tophat Uses rear slide plates at top of frame 7804 Bottom exit cabling Tailgate hardware for cables routing Feature Code Description Comments Feature Code Description Comments 0515 g identifier Supports CPs and specialty engines 0672 One CPC Drawer, two PU DCMs Feature Max5 0673 One CPC Drawer, two PU DCMs Feature Max16 0674 One CPC Drawer, four PU DCMs Feature Max32 0675 Two CPC Drawers, eight PU DCMs Feature Max68 2332 CPC1 reserve Reserve 5u immediately above CPC0 location for future add CPC1 2333 AIO1 reserve Reserve 8u immediately below CPC location for future add 2334 AIO2 reserve Reserve 8u immediately above CPC location for future add 2335 AIO3 reserve Reserve 8u immediately above AIO2 location for future add 4010 CPC Drawer Maximum two (feature dependant) Chapter 2. Central processor",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.646314",
+    "chunk_number": 123,
+    "word_count": 160
+  }
+}

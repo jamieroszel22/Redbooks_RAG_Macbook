@@ -1,0 +1,18 @@
+{
+  "content": "50 \u00b5m multimode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature to the selected device. The following other OSA-Express7S features can be installed on IBM z16 servers (when carried forward): \u0002 OSA-Express7S 10 Gigabit Ethernet LR, FC 0444 \u0002 OSA-Express7S 10 Gigabit Ethernet SR, FC 0445 \u0002 OSA-Express7S Gigabit Ethernet LX, FC 0442 \u0002 OSA-Express7S Gigabit Ethernet SX, FC 0443 \u0002 OSA-Express7S 1000BASE-T Ethernet, FC 0446 The supported OSA-Express7S features are listed in Table 4-5 on page 161. OSA-Express7S 10 Gigabit Ethernet LR (FC 0444) The OSA-Express7S 10 Gigabit Ethernet (GbE) Long Reach (LR) feature includes one PCIe Gen3 adapter and one port per feature. The port supports CHPID types OSD. The 10 GbE feature is designed to support attachment to a single-mode fiber 10 Gbps Ethernet LAN or Ethernet switch that is capable of 10 Gbps. The port can be defined as a spanned channel and can be shared among LPARs within and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.917682",
+    "chunk_number": 433,
+    "word_count": 165
+  }
+}

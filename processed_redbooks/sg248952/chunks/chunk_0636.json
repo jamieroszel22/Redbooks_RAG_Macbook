@@ -1,0 +1,18 @@
+{
+  "content": "the operating system that runs in the LPAR. z/OS can take advantage of this support and non disruptively acquire and release memory from the reserved area. z/VM V7R2 and later can acquire memory non disruptively and immediately make it available to guests. z/VM virtualizes this support to its guests, which now also can increase their memory non disruptively if supported by the guest operating system. Currently, releasing memory from z/VM is supported on z/VM 7.3 and z/VM V7.2 with PTFs2. Releasing memory from the z/VM guest depends on the guest\u2019s operating system support. Operating system Maximum supported main storagea a. On IBM z16 A02 and IBM z16 AGZ LPAR storage definition supports 32TB (IBM z16 A02 and IBM z16 AGZ supports up to 40 TB of usable memory). z/OS z/OS V2R5 supports 16 TB. Prior z/OS releases support 4TB z/VM z/VM V7R1 supports 2TB while z/VM 7.2b and z/VM 7.3 support 4TB b. With fix for APAR VM66173. 21CS VSEn 21CS VSEn V6R3 supports 32 GB z/TPF z/TPF supports 4 TB",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.741964",
+    "chunk_number": 636,
+    "word_count": 171
+  }
+}

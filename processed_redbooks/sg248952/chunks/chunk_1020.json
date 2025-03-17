@@ -1,0 +1,18 @@
+{
+  "content": "same quality service through RCL. a. IBM's statements regarding its plans, directions, and intent are subject to change or withdrawal without notice at IBM's sole discretion. The information mentioned regarding potential future products is not a commitment, promise, or legal obligation to deliver any material, code, or functionality. 428 IBM z16 A02 and IBM z16 AGZ Technical Guide Environmental Dashboard task The Environmental Dashboard task is part of the Monitor task group. It provides historical power consumption and thermal information for the IBM Z CPC. Figure 10-30 show an example of the Environmental Dashboard. Figure 10-30 Example of the Environmental Dashboard The data is presented in table format and graphical \u201chistogram\u201d format. The data also can be exported to a .csv-formatted file so that the data can be imported into a spreadsheet. For this task, you must use a web browser to connect to an HMC. The following can be displayed: \u0002 View of power utilized by components",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.089412",
+    "chunk_number": 1020,
+    "word_count": 158
+  }
+}

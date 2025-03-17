@@ -1,0 +1,18 @@
+{
+  "content": "commands to create new directories under the MAINT ID on the userspace filepool, VMSYSU: ===> CREATE DIRECTORY VMSYSU:MAINT.UTILS ===> CREATE DIRECTORY VMSYSU:MAINT.UTILS.VMARC 4. Use VMLINK to access the TCP/IP tools so that you can use the z/VM FTP client: ===> vmlink tcpmaint 592 DMSVML2060I TCPMAINT 592 linked as 0120 file mode Z 5. Access the new SFS directory as file mode M with read/write mode: ===> access VMPSFS:MAINT720.UTILS. M (forcerw 6. On the FTP server. the directory path /ftp/zvm/cookbook/maintvrm (or /ftp/zvm/sg248147/maintvrm) was created automatically through the expansion of the .tgz file in 5.2.1, \u201cCreating directories on the FTP server and upload the installation image\u201d on page 108. We are now ready to transfer files from the FTP server to the VMPSFS file pool using one of the following methods: \u2013 Perform a get (pull) from z/VM by initiating a session to the FTP server: ===> ftp 9.60.87.87 ... ===> lcd M Local directory mode is \u2018M\u2019 Command: ===> cd",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.897903",
+    "chunk_number": 432,
+    "word_count": 159
+  }
+}

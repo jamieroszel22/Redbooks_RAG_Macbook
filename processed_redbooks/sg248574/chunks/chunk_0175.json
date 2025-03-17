@@ -1,0 +1,18 @@
+{
+  "content": "taxonomy repository, which is the source of truth for your model training. In the context of skill contributions, the required content is smaller in volume compared to knowledge contributions. A complete skill addition to the taxonomy tree can be represented by a few lines in a qna.yaml file (short for \u201cquestions and answers\u201d) and an attribution.txt file to cite sources. Chapter 5. Advanced capabilities of watsonx.ai 75 To make a valid skills contribution, the pull request must include a qna.yaml file with key-value entries that contain at least five question-and-answer pairs and an attribution.txt file that lists the sources that are used. The taxonomy structure serves multiple purposes: selecting the relevant subset for data generation, ensuring interpretability for contributors and maintainers, and forming part of the prompt for the LLM when generating synthetic samples. Each qna.yaml file must adhere to a standard structure with specific keys: \u0002 version: Must be set to 2",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.883739",
+    "chunk_number": 175,
+    "word_count": 153
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "point-to-point connections and switched connections with an enterprise-class switch are supported (ports running at matching speeds). 10GbE RoCE Express2 (FC 412) 10GbE RoCE Express2 (FC 0412) is installed in the PCIe I/O drawer and is supported on IBM z16 A02 and IBM z16 AGZ configurations as carry forward. The 10GbE RoCE Express2 is a native PCIe feature. It does not use a CHPID and is defined by using the IOCP FUNCTION statement or in the hardware configuration definition (HCD). The maximum supported unrepeated distance, point-to-point, is 300 meters (984 feet). A client-supplied cable is required. The following types of cables can be used for connecting the port to the selected 10 GbE switch or to another 10GbE RoCE Express2 feature: \u0002 OM3 50-micron multimode fiber optic cable that is rated at 2000 MHz-km that ends with an LC Duplex connector; supports 300 meters (984 feet) \u0002 OM2 50-micron multimode fiber optic cable that is rated at 500 MHz-km that ends with an LC Duplex",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.917403",
+    "chunk_number": 436,
+    "word_count": 164
+  }
+}

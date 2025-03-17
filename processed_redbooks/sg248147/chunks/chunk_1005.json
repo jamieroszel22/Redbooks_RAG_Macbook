@@ -1,0 +1,18 @@
+{
+  "content": "worksheets, and education 487 Linux resources worksheet Use the worksheet in Table B-10 to document the resources that are associated with the Network File System (NFS) server that will be used to be the installation source of the first Linux on z Systems. Table B-10 Linux NFS server resources blank worksheet Use the worksheet in Table B-11 to document your Linux on z Systems resources. Table B-11 Linux resources blank worksheet Device number Label Type Notes Name Value Comment TCP/IP address User/password NFS-exported installation directory Name Value Comment Linux installation password Linux root password Linux TCP/IP gateway Linux TCP/IP broadcast Linux DNS server Virtual Network Computing (VNC) installation password 488 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Host names and IP addresses worksheet Use the worksheet in Table B-12 to document the host names and associated IP addresses and virtual machines that you will use. Table B-12 Host names blank worksheet Host name IP",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.984790",
+    "chunk_number": 1005,
+    "word_count": 154
+  }
+}

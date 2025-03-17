@@ -1,0 +1,18 @@
+{
+  "content": "for application and work data. File system types We recommend the use of the default file system type for your Linux distribution for the root file system (/): \u0002 RHEL 8: xfs \u0002 SLES 15: Btrfs \u0002 Ubuntu 20.04: xfs File system Size Mount point Disk partition / logical volume File system type LVM boot 512 MiB /boot ccw-0.0.0700-part1 ext4 or xfs No system root approx 6.3 GiB / ccw-0.0.0700-part2 Use the recommended type for your distribution. No opt 1.5GiB /opt vg_work_lv_opt xfs or ext4 Yes srv 512MiB /srv vg_work_lv_srv xfs or ext4 Yes usr 2.5GiB /usr vg_work_lv_usr xfs or ext4 Yes var 1.0GiB /var vg_work_lv_var xfs Yes Chapter 2. Planning 47 For more information about the types of file systems that are available for each Linux distribution, see the following resources: \u0002 Red Hat: Managing file systems \u0002 SUSE Release Notes: 5.6.1 Comparison of Supported File Systems \u0002 Ubuntu: Linux Filesystems Explained Swapping The terms swap disk and swapping are often used in describing the operation",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.785427",
+    "chunk_number": 158,
+    "word_count": 167
+  }
+}

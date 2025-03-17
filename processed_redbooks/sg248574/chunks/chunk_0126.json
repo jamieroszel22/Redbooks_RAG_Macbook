@@ -1,0 +1,18 @@
+{
+  "content": "55. 4.10 Additional information and where to go next In this chapter, you learned the following things: \u0002 How to set up your environment, which includes IBM Cloud accounts and project configuration. \u0002 The key features of watsonx.ai, such as FMs, Prompt Lab, and Tuning Studio. \u0002 The importance of data quality, cleaning, and ingestion for AI model development. \u0002 Building and training AI models, which include traditional ML and LLMs, by using tools like AutoAI, Tuning Studio, and InstructLab. \u0002 Deploying AI models as APIs for real-time or batch processing and integrating them with enterprise systems. Chapter 4. Building and using artificial intelligence models 55 4.10.1 Additional support and documentation watsonx.ai has extensive support and documentation to help users maximize the platform's capabilities. The IBM watsonx Documentation Portal offers a comprehensive collection of resources, which include detailed user guides, tutorials, API references, and best practices. Whether you are",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.655618",
+    "chunk_number": 126,
+    "word_count": 149
+  }
+}

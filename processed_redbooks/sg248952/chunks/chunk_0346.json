@@ -1,0 +1,18 @@
+{
+  "content": "and feature of the different CFCC levels, see 7.4.3, \u201cCoupling and clustering features and functions\u201d on page 276 or the current exception letter that is published on IBM Resource Link. 3.9.2 Coupling Thin Interrupts CFCC Level 19 introduced Coupling Thin Interrupts to improve performance in environments that share CF engines. Although dedicated engines are preferable to obtain the best CF performance, Coupling Thin Interrupts helps facilitate the use of a shared pool of engines, which helps to lower hardware acquisition costs. The interrupt causes a shared logical processor CF partition to be dispatched by PR/SM (if it is not already dispatched), which allows the request or signal to be processed in a more timely manner. The CF relinquishes control when work is exhausted or when PR/SM takes the physical processor away from the logical processor. On IBM z16 A02 and IBM z16 AGZ, the use of Coupling Thin Interrupts (DYNDISP=THIN) is now the only option that is available for shared",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.569996",
+    "chunk_number": 346,
+    "word_count": 160
+  }
+}

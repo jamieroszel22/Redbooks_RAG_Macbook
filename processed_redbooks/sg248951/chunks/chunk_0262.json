@@ -1,0 +1,18 @@
+{
+  "content": "the shared processor, whichever comes first. CF processor combinations A CF image can have one of the following combinations that are defined in the image profile: \u0002 Dedicated ICFs \u0002 Shared ICFs \u0002 Dedicated CPs \u0002 Shared CPs Shared ICFs add flexibility. However, running only with shared coupling facility PUs (ICFs or CPs) is not a preferable production configuration. It is preferable for a production CF to operate by using dedicated ICFs. 5 It is the only option for shared processors in a CF image (whether they be ICFs or CPs) on IBM z16. Chapter 3. Central processor complex design 103 In Figure 3-18, the CPC on the left has two environments that are defined (production and test), and each has one z/OS and one coupling facility image. The coupling facility images share an ICF. Figure 3-18 ICF options - shared ICFs The LPAR processing weights are used to define how much processor capacity each CF image can include. The capped option also can be set for a test CF image to protect the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.209323",
+    "chunk_number": 262,
+    "word_count": 174
+  }
+}

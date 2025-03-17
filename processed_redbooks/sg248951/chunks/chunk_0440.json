@@ -1,0 +1,18 @@
+{
+  "content": "Duplex connector. Ensure that the attaching or downstream device includes an SX transceiver. The sending and receiving transceivers must be the same (SX to SX). A multi-mode fiber optic cable that ends with an LC Duplex connector is required for connecting each port on this feature to the selected device. For more information about supported distances, see Table 4-8 on page 179. OSA-Express6S 1000BASE-T Ethernet feature (FC 0426) Feature code 0426 occupies one slot in the PCIe+ I/O drawer. It features two ports that connect to a 1000 Mbps (1 Gbps) or 100 Mbps Ethernet LAN. Each port has an SFP with an RJ-45 receptacle for cabling to an Ethernet switch. The RJ-45 receptacle is required to be attached by using an EIA/TIA Category 5 or Category 6 UTP cable with a maximum length of 100 meters (328 feet). The SFP allows a concurrent repair or replace action. The OSA-Express6S 1000BASE-T Ethernet feature supports auto-negotiation when attached to an Ethernet router or switch. If you allow",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.943559",
+    "chunk_number": 440,
+    "word_count": 166
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "RECORDS ARE ENQUEUED. The VMLOGS VSM invokes a routine that is called SVMREST to attempt to prevent this situation. 6.13.7 Creating a console logs repository On z/VM, console logs are created each time a user ID is logged on to the system. These logs are an excellent starting point when performing problem determination on an issue or to understand a specific behavior. In this section, we describe how to create a virtual service machine that will collect and store log files that are sent to its virtual spool. It will also invoke SFPURGER and SVMREST. The installation will use the package from the z/VM downloads page, which is included in the compressed file that you downloaded earlier into SFS. This package populates a virtual machine that is named VMLOGS to act as a repository for consoles and any data file that needs to be accessible for a predetermined number of days. Logs are spooled to the VMLOGS VSM and automatically received onto the VMLOGS 191 minidisk. Files are kept until a",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.109889",
+    "chunk_number": 490,
+    "word_count": 171
+  }
+}

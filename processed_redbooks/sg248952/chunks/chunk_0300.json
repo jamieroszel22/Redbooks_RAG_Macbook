@@ -1,0 +1,18 @@
+{
+  "content": "older IBM Z processors, memory allocation was striped across the available CPC drawers because relatively fast connectivity (that is, relatively fast to the processor clock frequency) existed between the drawers. Splitting the work between all of the memory controllers allowed a smooth performance variability. The memory allocation algorithm changed starting with IBM z13\u00ae. For IBM z16 A02 and IBM z16 AGZ, PR/SM tries to allocate memory into a single CPC drawer. If memory does not fit into a single drawer, PR/SM tries to allocate the memory into the CPC drawer with the most processor entitlement. The PR/SM memory and logical processor resources allocation goal is to place all partition resources on a single CPC drawer, if possible. The resources, such as memory and logical processors, are assigned to the logical partitions at the time of their activation. Later on, when all partitions are activated, PR/SM can move memory between CPC drawers to benefit the performance of each LPAR,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.392488",
+    "chunk_number": 300,
+    "word_count": 158
+  }
+}

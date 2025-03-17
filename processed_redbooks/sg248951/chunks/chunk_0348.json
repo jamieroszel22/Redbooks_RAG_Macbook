@@ -1,0 +1,18 @@
+{
+  "content": "the z14 (M/T 3906 and 3907) with driver level 36. CFCC Level 23 introduces the following enhancements: \u0002 Asynchronous cross-invalidate (XI) of CF cache structures. Requires PTF support for z/OS and explicit data manager support (Db2 V12 with PTFs). Consider the following points: \u2013 Instead of performing XI signals synchronously on every cache update request that causes them, data managers can \u201copt in\u201d for the CF to perform these XIs asynchronously (and then sync them up with the CF at or before transaction completion). Data integrity is maintained if all XI signals complete by the time transaction locks are released. \u2013 Results in faster completion of cache update CF requests, especially with cross-site distance involved. \u2013 Provides improved cache structure service times and coupling efficiency. \u0002 Coupling Facility hang detect enhancements provide a significant reduction in failure scope and client disruption (CF-level to structure-level), with no loss of FFDC collection capability: \u2013",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.587322",
+    "chunk_number": 348,
+    "word_count": 152
+  }
+}

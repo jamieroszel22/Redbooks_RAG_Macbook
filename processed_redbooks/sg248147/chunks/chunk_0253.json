@@ -1,0 +1,18 @@
+{
+  "content": "replica can protect against hardware failures, but not operational failures. A file that was saved with incorrect data is replicated on the Disaster Recovery site, and both sites have a stored corrupted version. With a backup implementation, several versions of the file exist, which allows system administrators to recover the newest good version of any backed-up file. 90 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Backup and Restore Manager can generate file-level backups for individual files, or a group of files. This feature is important to keep a safe copy of critical system configuration files, such as SYSTEM CONFIG, USER DIRECT, log files, automation scripts, and other files (see Figure 4-4). Figure 4-4 z/VM Backup and Restore running on z/VM environment It can create full disk backups from SFS, FBA, CKD, or CMS minidisk. This feature is useful for backing up a set of Linux servers, for example. It is helpful to create a system backup before applying a set of fixes to allow for",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.151847",
+    "chunk_number": 253,
+    "word_count": 165
+  }
+}

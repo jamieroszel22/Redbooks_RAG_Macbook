@@ -1,0 +1,18 @@
+{
+  "content": "authoritative source of detailed information for the how and why IBM Z and LinuxONE systems work; often referred to as The Z POp. \u0002 IBM DeveloperWorks guides \u2013 How to Improve Performance with PAV (Kernel 2.6.35), SC33-8414 \u2013 How to use FC-attached SCSI devices with Linux on z Systems (Kernel 4.0), SC33-8413 \u2013 How to Set up a Terminal Server Environment, SC34-2596 \u2013 Linux Channel Bonding Best Practices and Recommendations \u0002 Linux390 reference documentation on IBM DeveloperWorks The following documents are available at this web page: \u2013 Kernel Messages (Kernel 4.19), SC34-2599 \u2013 Pervasive Encryption for Data Volumes, SC34-2782 \u2013 Getting Started with Pervasive Disk Encryption, SC34-2783 \u2013 libica Programmer\u2019s Reference, SC34-2602 \u2013 Secure Key Solution with the Common Cryptographic Architecture Application Programmer's Guide, SC33-8294 \u2013 Exploiting Enterprise PKCS #11 using openCryptoki, SC34-2713 \u0002 Linux distribution-specific materials: SUSE Linux Enterprise Server 12 on IBM z Systems",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.931532",
+    "chunk_number": 987,
+    "word_count": 146
+  }
+}

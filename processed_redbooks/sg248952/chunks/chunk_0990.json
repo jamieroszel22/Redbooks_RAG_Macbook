@@ -1,0 +1,18 @@
+{
+  "content": "SE (backup). With the HMA, each HMC and each SE has its own two physical Ethernet RJ45 ports as shown in Figure 10-19. The red lines illustrates the RJ45 Ethernet connectivity for the SEs and the green lines for the HMCs. Figure 10-19 Hardware Management Appliance connectivity 10.3.2 Legacy standalone HMC connectivity You can use the IBM z16 A02 and IBM z16 AGZ with previous ordered standalone HMCs (Tower or Rack) and no HMA. It is possible to order the HMA FC 0129 at a later point in time as an MES. Security: The configuration of network components, such as routers or firewalls, is beyond the scope of this document. Whenever the networks are interconnected, security exposures can exist. For more information about HMC security, see Hardware Management Console Security, SC28-7027 and Integrating the Hardware Management Console\u2018s Broadband Remote Support Facility into your Enterprise, SC28-7026. For more information about the HMC settings that are related to access and security, see",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.961188",
+    "chunk_number": 990,
+    "word_count": 160
+  }
+}

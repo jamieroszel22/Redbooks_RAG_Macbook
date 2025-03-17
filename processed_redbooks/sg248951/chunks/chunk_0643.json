@@ -1,0 +1,18 @@
+{
+  "content": "SMP factor based on the workload demands. For more information about CPU polarization support in Linux on IBM Z, see this IBM Documentation web page. z/TPF z/TPF on IBM z16 can use more processors immediately without reactivating the LPAR or IPLing the z/TPF system. When z/TPF is running in a shared processor configuration, the achieved MIPS is higher when z/TPF uses a minimum set of processors. In low-use periods, z/TPF minimizes the processor footprint by compressing TPF workload onto a minimal set of I-streams (engines), which reduces the effect on other LPARs and allows the entire CPC to operate more efficiently. As a consequence, z/OS and z/VM experience less contention from the z/TPF system when the z/TPF system is operating at periods of low demand. Chapter 7. Operating system support 271 The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254. zIIP support zIIPs do not change the model capacity identifier of IBM z16 servers. IBM software",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.775532",
+    "chunk_number": 643,
+    "word_count": 165
+  }
+}

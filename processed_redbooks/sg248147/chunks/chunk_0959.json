@@ -1,0 +1,18 @@
+{
+  "content": "DATADVH A CONFAA-1 = = Ready; T=0.01/0.01 12:02:10 452 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 This example shows how to rename the old copy of the file to CONFAA-1 DATADVH, then receive the current version. It is important that you review CONFAA-1 to see if it contains work that is still in progress by someone, or other changes that were not sent to the DirMaint service machine. If necessary, merge any required values from CONFAA-1 into CONFIGAA before you issue the command to send it back for processing. 15.6 Manually formatting DASD for use Often, you must add a DASD to the system for extra paging, spooling, or other reasons. During the initial setup of z/VM, we mentioned that certain types of DASD require formatting parameters that determine the ownership of the volume. The following example covers the formatting of three extra DASDs: ===> query 30D0-30D2 DASD 30D0 VM30D0 , DASD 30D1 VM30D1 , DASD 30D2 VM30D2 ===> attach 30D0-30D2 to * 30D0-30D2 ATTACHED TO MAINT720 Allocate",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.844365",
+    "chunk_number": 959,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "processing to DIRMAINT... DVHSHN3430I AMDISK operation for LNXADM-1 address 0100 has finished --------------------------------DirMaint AMDISK------------------------------ To add a new minidisk to a user definition, fill in the following: Minidisk Address ===> 0100 Device Type ===> 3390 Fill in one of the following rows: Explicit Start ===> Size ===> Volser ===> AUTOV Size ===> 10016 Volser ===> VM1567 VBLK Blksize ===> Blocks ===> Volser ===> AUTOG Size ===> Grpname ===> GBLK Blksize ===> Blocks ===> Grpname ===> AUTOR Size ===> Region ===> RBLK Blksize ===> Blocks ===> Region ===> T-DISK Size ===> TBLK Blksize ===> Blocks ===> V-DISK Size ===> VDBS Blksize ===> Blocks ===> DEVNO Real Device Number ===> Optionally fill in: Link Mode ===> MR BLKSIZE ===> LABEL ===> PWS Read ===> LNX4VM Write ===> LNX4VM Multi ===> LNX4VM (passwords) 248 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Alternatively, you can issue the following command instead of using the DirMaint AMDISK panel: ===>",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.380150",
+    "chunk_number": 559,
+    "word_count": 153
+  }
+}

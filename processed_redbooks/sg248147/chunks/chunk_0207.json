@@ -1,0 +1,18 @@
+{
+  "content": "FF12 VMFF12 System (3390-27) LNXADMIN 0701 on member 1 (RHEL) FF21 VMFF21 System (3390-09) LNXADMIN 0700 on member 2 (SLES) FF22 VMFF22 System (3390-27) LNXADMIN 0701 on member 2 (SLES) FF31 VMFF31 System (3390-09) LNXADMIN 0700 on member 3 (Ubuntu) FF32 VMFF32 System (3390-27) LNXADMIN 0701 on member 3 (Ubuntu) FF50 VMFF50 System (3390-09) MINIDISKS - POOL1 FF51 VMFF51 System (3390-09) MINIDISKS - POOL1 FF52 VMFF52 System (3390-09) MINIDISKS - POOL1 FF53 VMFF53 System (3390-09) MINIDISKS - POOL1 E300 (EDEV 10 GB) LNXADMIN 0750 on member 1 (RHEL) E301 (EDEV 10 GB) LNXADMIN 0750 on member 2 (SLES) E302 (EDEV 10 GB) LNXADMIN 0750 on member 3 (Ubuntu) E303 (EDEV 10 GB) LINUX1 0750 (RHEL) E304 (EDEV 10 GB) LINUX2 0750 (RHEL) E305 (EDEV 10 GB) LINUX3 0750 (SLES) E306 (EDEV 10 GB) LINUX4 0750 (SLES) E307 (EDEV 10 GB) LINUX5 0750 (Ubuntu) E308 (EDEV 10 GB) LINUX6 0750 (Ubuntu) E309 (EDEV 10 GB) 68 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 2.13.6 FCP devices Table 2-11 and Table 2-12 list",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.980807",
+    "chunk_number": 207,
+    "word_count": 171
+  }
+}

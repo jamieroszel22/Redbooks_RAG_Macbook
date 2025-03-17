@@ -1,0 +1,18 @@
+{
+  "content": "that is named SUBPRO-1 PROTODIR A. It will contain only one line: ===> xedit subpro-1 protodir A ====> input SUBCONFIG SUBPRO-1 2. Modify and save new copies for each member in your cluster. If your SSI cluster has: \u2013 One member: ====> file \u2013 Two members: ====> save SUBPRO-1 PROTODIR A ====> c/1/2/* * # save SUBPRO-2 PROTODIR A ====> file \u2013 Three members: ====> save SUBPRO-1 PROTODIR A ====> c/1/2/* * # save SUBPRO-2 PROTODIR A ====> c/2/3/* * # save SUBPRO-3 PROTODIR A ====> file \u2013 Four members: ====> save SUBPRO-1 PROTODIR A ====> c/1/2/* * # save SUBPRO-2 PROTODIR A ====> c/2/3/* * # save SUBPRO-3 PROTODIR A ====> c/3/4/* * # save SUBPRO-4 PROTODIR A ====> file 3. Send the new PROTODIRs to DirMaint for filing: ===> dirmaint file SUBPRO-1 protodir A ... DVHRCV3821I File SUBPRO-1 PROTODIR A has been received; RC = 0. DVHXMT1191I Your FILE request ... has completed; with RC = 0. ===> dirmaint file SUBPRO-2 protodir A ... DVHXMT1191I Your FILE request ... has completed; with RC = 0.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.073752",
+    "chunk_number": 479,
+    "word_count": 177
+  }
+}

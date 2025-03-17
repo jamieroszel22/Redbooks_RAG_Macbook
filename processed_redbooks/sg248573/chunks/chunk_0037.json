@@ -1,0 +1,18 @@
+{
+  "content": "performance.1\u201d ___________________________________________________________________ In other words, it is about two things. First, it is about the rules that an organization sets for themselves to make sure their use of AI is profitable, compliant, secure and fair. And second, it is about the methods that an organization applies to ensure and document that those rules are followed using tools as the enabler. AI governance comprises a set of activities that run in parallel to the operational process of creating, deploying and maintaining AI assets. Table 1-1 contrasts the typical activities related to different aspects of an AI solution. Many of the activities in the AI governance column will be discussed in more detail in the following chapters of this Redbooks publication. Table 1-1 Contrast between typical Governance and Operations activities 1 Data & Trust Alliance, IBM - The urgency of AI governance, 2023 Note: Some clients also refer to AI governance as responsible governance.",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.563011",
+    "chunk_number": 37,
+    "word_count": 152
+  }
+}

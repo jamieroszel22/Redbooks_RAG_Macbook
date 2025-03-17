@@ -1,0 +1,18 @@
+{
+  "content": "type or I/O rate, include RNI tendencies. However, it is the L1MP and the net RNI of the workload that is the underlying factor in determining the workload\u2019s performance. The LSPR now runs various combinations of former workload primitives, such as CICS, Db2, IMS, OSAM, VSAM, WebSphere, COBOL, and utilities, to produce capacity curves that span the typical range of RNI. The following workload categories are represented in the LSPR tables: \u0002 LOW (relative nest intensity) A workload category that represents light use of the memory hierarchy. \u0002 AVERAGE (relative nest intensity) A workload category that represents average use of the memory hierarchy. This category is expected to represent most production workloads. \u0002 HIGH (relative nest intensity) A workload category that represents a heavy use of the memory hierarchy. These categories are based on the L1MP and the RNI. The RNI is influenced by many variables, such as application type, I/O rate, application mix, processor usage, data",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.266327",
+    "chunk_number": 1087,
+    "word_count": 157
+  }
+}

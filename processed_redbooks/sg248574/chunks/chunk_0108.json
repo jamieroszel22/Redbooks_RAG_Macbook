@@ -1,0 +1,18 @@
+{
+  "content": "innovations while maintaining watsonx.ai enterprise-grade security and scalability. Chapter 4. Building and using artificial intelligence models 39 4.6.2 Model creation workflow This section describes the workflow of model creation. Model selection and configuration Selecting the appropriate AI model is key to achieving your business objectives, and watsonx.ai provides the flexibility to support both LLM and non-LLM models. Whether your needs involve predictive analytics, pattern discovery, decision-making, or natural language processing (NLP), watsonx.ai helps ensure that the correct tools are at your fingertips. For non-LLM tasks, the platform accommodates models such as regression, classification, clustering, and RL, which enable a wide range of traditional ML applications. When working with LLMs, watsonx.ai offers various pretrained models in different sizes, from lightweight options for tasks that require efficiency and speed to larger, more complex models that are ideal for",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.576026",
+    "chunk_number": 108,
+    "word_count": 136
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "A02 and IBM z16 AGZ. Use SMP/E FIXCATs. 312 IBM z16 A02 and IBM z16 AGZ Technical Guide infrastructure that provides the performance and availability for on-premise or provisioned as-a-service workloads. z/OS V2.R4 delivers the following capabilities (list is not exclusive): \u0002 IBM z/OS Container Extensions (zCX), which enables the ability to run almost any Linux on IBM Z Docker container in z/OS alongside existing z/OS applications and data without a separate provisioned Linux server \u0002 Easier integration of z/OS into private and multi-cloud environments with improvements that deliver a more robust, easy to use, and highly available implementation using IBM Cloud\u2122 Provisioning and Management for z/OS, IBM z/OS Cloud Broker and IBM Cloud Storage Access for z/OS Data, \u0002 Enhancements that continue to simplify and modernize the z/OS environment for a better user experience and improved productivity by reducing the level of IBM Z specific skills that are required to maintain z/OS, \u0002 Ongoing",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.255493",
+    "chunk_number": 776,
+    "word_count": 155
+  }
+}

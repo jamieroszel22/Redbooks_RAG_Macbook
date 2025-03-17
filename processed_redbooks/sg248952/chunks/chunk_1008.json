@@ -1,0 +1,18 @@
+{
+  "content": "browser. Direct browser access to the SE is not possible, you have to use the Single Object Operations (SOO) task on the HMC. Access to the USB Device on HMC and SE requires physical access to the HMC/SE. Logon security for a web browser is provided by the local HMC user logon procedures. Certificates for secure communications are provided, and can be changed by the user. You can limit remote web browser access by specifying an IP address from the Customize Console Services task. To enable or disable the Remote operation service, click Change... in the Customize Console Services window, as shown in Figure 10-23 on page 422. Note: Remote web browser access is the default for the Hardware Management Appliance HMCs. 422 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 10-23 Customizing HMC remote operation Microsoft Edge, Mozilla Firefox, Safari and Goggle Chrome were tested as remote web browsers. For more information about web browser requirements, see the HMC and SE console help",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.039627",
+    "chunk_number": 1008,
+    "word_count": 166
+  }
+}

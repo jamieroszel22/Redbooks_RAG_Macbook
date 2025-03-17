@@ -1,0 +1,18 @@
+{
+  "content": "between IBM z16 A02 and IBM z16 AGZ and DS8000 storage system. The zHyperLink Express1.1 is the result of new business requirements that demand fast and consistent application response times. It dramatically reduces latency by interconnecting the IBM z16 A02 and IBM z16 AGZ directly to I/O Bay of the DS8K by using PCIe Gen3 x 8 physical link (up to 150-meter [492-foot] distance). A new transport protocol is defined for reading and writing IBM CKD data records10, as documented in the zHyperLink interface specification. On IBM z16 A02 and IBM z16 AGZ, zHyperLink Express1.1 card is a PCIe Gen3 adapter, which installed in the PCIe+ I/O drawer. HCD definition support was added for new PCIe function type with PORT attributes. Requirements of zHyperLink Express1.1 The zHyperLink Express1.1 feature is available on IBM z16 A02 and IBM z16 AGZ, and includes the following requirements: \u0002 z/OS 2.3 or later \u0002 150 m maximum distance in a point to point configuration \u0002 Supported DS8000 (see Getting",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.816165",
+    "chunk_number": 408,
+    "word_count": 165
+  }
+}

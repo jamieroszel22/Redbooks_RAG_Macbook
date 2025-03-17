@@ -1,0 +1,18 @@
+{
+  "content": "registered as an Unassigned IFL (FC 1962). When the system is later upgraded with another IFL, the system recognizes that an IFL was purchased and is present. The allowable number of IFLs and Unassigned IFLs numbers per feature is listed in Table 3-2. Table 3-2 IFLs and Unassigned IFLs per feature Unassigned zIIPs A zIIP that is purchased but not activated is registered as an Unassigned zIIP (FC 1975). When the system is later upgraded with another zIIP, the system recognizes that a zIIP was purchased and is present. The allowable number of zIIPs and Unassigned zIIPs numbers per feature is listed in Table 3-3 Table 3-3 zIIPs and unassigned zIIPs per feature 3.5.4 Internal Coupling Facility (FC 1960) An Internal Coupling Facility (ICF) is a PU that is used to run the CFCC for Parallel Sysplex environments. Within the sum of all unassigned PUs in up to five CPC drawers, up to 68 ICFs can be characterized, depending on the feature. However, the maximum number of ICFs that can be defined",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.240239",
+    "chunk_number": 270,
+    "word_count": 172
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "align with user responsibilities. \u0002 Assign users to groups: Place users in pre-configured groups that match their roles and responsibilities for quick onboarding and access updates. \u0002 Monitor group memberships: Regularly review group memberships to ensure that users retain only the necessary permissions based on their current roles. Integrating attribute-based access control In environments where roles and permissions must change dynamically, IBM watsonx.data supports ABAC to accommodate context-specific access requirements. Attributes such as job title, department, or project ID can be used to accomplish the following tasks: \u0002 Dynamically update access: Adjust permissions automatically when a user\u2019s status or role changes. \u0002 Enhance security: Limit access to sensitive data by defining attributes that are required for specific data sets. \u0002 Streamline administration: Reduce manual role assignments, especially for temporary or project-based access needs. 50 Simplify Your AI Journey:",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.844751",
+    "chunk_number": 130,
+    "word_count": 138
+  }
+}

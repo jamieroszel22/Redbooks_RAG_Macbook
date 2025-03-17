@@ -1,0 +1,18 @@
+{
+  "content": "intricate patterns, which improves task-specific adaptation. However, this approach comes with the risk of overfitting, especially with smaller datasets, which reduce the generalization of the prompts. Conversely, a lower number of epochs minimizes the risk of overfitting but might lead to underoptimized prompts that fail to leverage the model's full potential. To strike the right balance, monitor validation loss and apply early stopping criteria to help ensure that training halts before overfitting occurs. Using pre-trained checkpoints can also reduce the need for extensive epochs because these starting points encapsulate foundational knowledge that accelerates convergence. Chapter 5. Advanced capabilities of watsonx.ai 63 \u0002 The learning rate governs the size of the updates that are made to prompt parameters during each optimization step. It influences the speed and stability of the training process. A high learning rate expedites convergence, which reduces training time but risks",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.741838",
+    "chunk_number": 143,
+    "word_count": 143
+  }
+}

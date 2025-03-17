@@ -1,0 +1,18 @@
+{
+  "content": "memory, for a total of 16 TB of memory per system. The minimum and maximum memory sizes that you can order for each IBM z16 A02 and IBM z16 AGZ are listed in Table 2-8. Table 2-8 Purchased Memory (Memory available for assignment to LPARs) The following memory types are available: \u0002 Purchased: Memory that is available for assignment to LPARs. \u0002 Hardware System Area (HSA): Standard 160 GB of addressable memory for system use outside of customer memory. Note: The CHPID Mapping Tool (available on ResourceLink) can be used to print a CHPID Report that displays the drawer and PCHID/CHPID layout. Feature # of CPC drawers Customer memory GB Max5 1 512 - 4936 Max16 1 512 - 4936 Max32 1 512 - 8032 Max68 2 512 - 16224 44 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Standard: Provides minimum physical memory that is required to hold customer purchase memory plus 160 GB HSA. The memory granularity, which is based on the installed customer memory, is listed in Table 2-9. Table 2-9 Customer",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.768604",
+    "chunk_number": 151,
+    "word_count": 177
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "same device (HyperPAV), it is possible to use a real volume\u2019s alias devices to run more than one virtual machine I/O at a time on the volume. This capability helps to prevent I/O operations from blocking one another, which can result in virtual machine I/O operations with reduced response time, which in turn allows the workload on virtual machines to run more quickly. For more information about HyperPAV, see 11.2.5, \u201cHyperPAV\u201d on page 358. Model Cylinders Storage capacity Model-3 3,339 2.83 GB Model-9 10,017 8.51 GB Model-27 32,760 27.84 GB Model-54 65,520 55.68 GB Note: The Model-27 DASD and the Model-54 DASD are not multiples of Model-9. The actual Model-54 size is debated, but it helps to know that Model-54 came with DS8000. Model-54 is configured with DS8000 as 3390-A. Model-27 is considered half of the size of a Model-54. 348 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 11.2.2 Direct-attached Fibre Channel Storage area networks (SANs) are specialized networks that are dedicated",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.166715",
+    "chunk_number": 755,
+    "word_count": 162
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "by LPARs within a same LCSS, a spanned channel path can be shared by LPARs within and across LCSSs. By assigning the same CHPID from different LCSSs to the same channel path (for example, a PCHID), the channel path can be accessed by any LPARs from these LCSSs at the same time. The CHPID is spanned across those LCSSs. The use of spanned channels paths decreases the number of channels that are needed in an installation of IBM Z servers. A sample of channel paths that are defined as dedicated, shared, and spanned is shown in Figure 5-3. Figure 5-3 IBM Z CSS: Channel subsystems with channel spanning The following definitions of a channel path are shown in Figure 5-3: \u0002 CHPID FF, assigned to PCHID 20A, is dedicated access for partition 15 of LCSS0. The same applies to CHPID 00,01,02 of LCSS0, and CHPID 00,01,FF of LCSS1. \u0002 CHPID 03, assigned to PCHID 20E, is shared access for partition 2, and 15 of LCSS0. The same applies to CHPID 05 of LCSS1. \u0002 CHPID 06, assigned to PCHID 120 is spanned",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.182508",
+    "chunk_number": 504,
+    "word_count": 182
+  }
+}

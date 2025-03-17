@@ -1,0 +1,18 @@
+{
+  "content": "next window, select Internet as the preferred delivery media. Confirm the order contents, and click Submit. 4. You receive an email within a few minutes. The email shows your order number and a link that is used to download the service files. The following example shows the important information in the email: From: Oms Client01/Boulder/IBM Subject: IBM Order <Bxxxxxxx> is ready for download. ... To access your order directly, go to: https://www14.software.ibm.com/webapp/ShopzSeries/ShopzSeries.jsp?action=downlo ad&orderId=<Uxxxxxxxd>0 Chapter 8. Servicing z/VM 269 5. Point your browser to the link in the email. You see a web page that looks similar to the example that is shown in Figure 8-6. Figure 8-6 Web page that was created for downloading a PTF 6. Choose a method of downloading the files to a desktop or staging machine. In this example, Download to your workstation using HTTPS was used. Two small files (a XML and XSL in EBCDIC format, with details of the order) and some large",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.535750",
+    "chunk_number": 592,
+    "word_count": 159
+  }
+}

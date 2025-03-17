@@ -1,0 +1,18 @@
+{
+  "content": "risks from the IBM Risk Atlas based upon answers provided as seen in Figure 5-4 on page 57. Chapter 5. Assessing a new use case 57 Figure 5-4 Dynamic assignment of use case risks based on risk assessment answers Risks assigned are determined based on a \u201cif this, then that\u201d selection structure as seen in Figure 5-5. Figure 5-5 Dynamic risk applicability assignment selection structure rules Once assigned, each risk must be evaluated and approve or rejected for applicability for the use case. These risks are the primary bases for assessing and managing risk throughout the lifecycle of your use case. While risks are assigned from the IBM Risk Atlas by default, additional risks or risk sources can be added as required by an organization. Once all assigned risks have been approved or rejected, the use case can be approved for stakeholder review and defined in the primary use case approval workflow. 58 Ensuring Trustworthy AI with IBM watsonx.governance 5.4 Applicability assessment",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.054068",
+    "chunk_number": 162,
+    "word_count": 162
+  }
+}

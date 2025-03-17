@@ -1,0 +1,18 @@
+{
+  "content": "\u201cRedundant I/O interconnect\u201d on page 52.) However, all ICA SR1.1 links that are installed in the removed CPC drawer must be configured offline. If the enhanced drawer availability and flexible memory options are not used when a CPC drawer must be replaced, the memory in the failing drawer also is removed. This process might be necessary during an upgrade or a repair action. Until the removed CPC drawer is replaced, a power-on reset of the system with the remaining CPC drawers is supported. The CPC drawer then can be replaced and added back into the configuration concurrently. 2.7.3 CPC drawer upgrade All fan-outs that are used for I/O and coupling links are rebalanced concurrently as part of a CPC drawer addition to support better RAS characteristics. Note: The PCIe Interconnect (switch) adapter must be installed in the PCIe+ I/O drawer to maintain the interconnect across I/O domains. If the adapter is removed (for a service operation), the I/O cards in that domain (up to eight)",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.834084",
+    "chunk_number": 167,
+    "word_count": 165
+  }
+}

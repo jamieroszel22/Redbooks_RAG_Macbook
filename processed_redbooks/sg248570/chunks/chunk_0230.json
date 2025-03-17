@@ -1,0 +1,18 @@
+{
+  "content": "data in the schema: Columns 2. To view a sample of the data load, the data engineer clicks the Data sample tab, as shown in Figure 8-27 on page 119. Chapter 8. Marketing campaign analysis use case 119 Figure 8-27 Verifying the data in the schema: Data sample 8.3 Connecting to and accessing data After the direct marketing campaign data is ingested into IBM watsonx.data, the data engineer must make the data source available in IBM watsonx.ai so that the team can connect to and access this data for analysis. In this section, the data engineer accesses the IBM watsonx.ai project that the team is using for this initiative and creates a data connection to the IBM watsonx.data instance. With this connection, the team members on the project can access the necessary data for analysis. 8.3.1 Gathering the required information in IBM watsonx.data Before the data engineer can create a data connection in the IBM watsonx.ai project, they must collect the required information from the IBM",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.229136",
+    "chunk_number": 230,
+    "word_count": 166
+  }
+}

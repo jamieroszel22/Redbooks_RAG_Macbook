@@ -1,0 +1,18 @@
+{
+  "content": "the extra capacity activated: \u0002 Improved and more predictable response times with lower latency (especially when compared to a public cloud solution) \u0002 Faster transaction processing, with shorter spikes of high use \u0002 Higher number of active processor engines have a positive n-way effect (higher parallelization) and delivers more cache, less contention, and overhead \u0002 Optimized workload handling under customer-defined use thresholds \u0002 Improved insight for future capacity planning \u0002 Improved balance between physical and logical Central Processor (CPs) \u0002 Reduced Processor Resource/System Manager (PR/SM) logical partitions (LPAR) management, less overhead Conclusion The combination of TFP for the hardware and software is a powerful one for our customers to maximize their investment in IBM Z. For eligible customers, it allows them to use their hardware for their general capacity requirements with a consumption-based corridor on top. When this TFP for hardware is combined with the TFP-SW",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.401485",
+    "chunk_number": 1146,
+    "word_count": 146
+  }
+}

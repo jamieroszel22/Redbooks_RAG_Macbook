@@ -1,0 +1,18 @@
+{
+  "content": "Encryption Y Y Y Yb Yb Crypto Express7S Support for Coprocessor in PCI-HSM Compliance Modec Y Y Y Yb Yb Crypto Express6S Y Y Y Yb Yb Crypto Express6S Support for Visa Format Preserving Encryption Y Y Y Yb Yb Crypto Express6S Support for Coprocessor in PCI-HSM Compliance Moded Y Y Y Yb Yb Elliptic Curve Cryptography (ECC) Y Y Y Yb Yb Secure IBM Enterprise PKCS #11 (EP11) coprocessor mode Y Y Y Yb Yb z/OS Data Set Encryption Y Y Y - - z/VM Encrypted paging support - - - Y Y RMF Support for Crypto Express8, Express7, and Express6 Y Y Y - - z/OS SMF Enhancements for CPACF Ye Ye N - - z/OS encryption readiness technology (zERT) Y Y Y - - ICFSF New Function Support Y Ye Ye - - Quantum-Safe Cryptography (QSC) for signing and key negotiation Y Yf Yf Y Y 260 IBM z16 A02 and IBM z16 AGZ Technical Guide The IBM z16 A02 and IBM z16 AGZ supported cryptography functions for 21CS VSEn, z/TPF, and Linux on IBM Z are listed in Table 7-11. Table 7-11 Supported cryptography functions for 21CS VSEn",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.721758",
+    "chunk_number": 630,
+    "word_count": 192
+  }
+}

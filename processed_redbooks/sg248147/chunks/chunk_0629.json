@@ -1,0 +1,18 @@
+{
+  "content": "shown in Example 9-11. Example 9-11 Creating a service level by using SERVMGR servmgr srvlvl add 720 rsu1 based on base nonesm desc RSU level shipped with prod uct VMFCMG2195I SERVMGR SRVLVL ADD 720 RSU1 BASEDON BASE NONESM DESC RSU LEVEL SHIPPED WITH PRODUCT VMFCMG2760I SERVMGR processing started VMFUTL2767I Reading VMSESE PROFILE B for additional options VMFCSV2760I CSMSRVMT EXEC processing started VMFCSV2195I CSMSRVMT SRVLVL ADD 720 RSU1 BASEDON BASE NONESM DESC RSU LEVEL SHIPPED WITH PRODUCT VMFCSV4115I Creating 138 directories for new service level RSU1 VMFCSV4115I Created 10 of 138 directories for new service level RSU1 VMFCSV4115I Created 20 of 138 directories for new service level RSU1 VMFCSV4115I Created 30 of 138 directories for new service level RSU1 VMFCSV4115I Created 40 of 138 directories for new service level RSU1 VMFCSV4115I Created 50 of 138 directories for new service level RSU1 VMFCSV4115I Created 60 of 138 directories for new service level RSU1 VMFCSV4115I Created",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.699068",
+    "chunk_number": 629,
+    "word_count": 153
+  }
+}

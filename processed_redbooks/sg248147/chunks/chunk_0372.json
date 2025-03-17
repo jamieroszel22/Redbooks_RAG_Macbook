@@ -1,0 +1,18 @@
+{
+  "content": "generic(vmbatch) gencmd(vmbatch) rdefine vmbatch ** uacc(none) permit ** class(vmbatch) id(ftpserve vmnfs dirmsat dirmsat2) acc(control) setropts classact(vmbatch vmmdisk vmcmd vmlan surrogat) ====> file 10.Move the file to the 7VMRAC20 191 disk (F) by using the following commands: ===> copy rpidirct sysut1 a = = f ===> erase rpidirct sysut1 a The modified RPIDIRCT SYSUT1 file is now on the 7VMRAC20 191 disk. 6.7.2 Customizing SMF One of the reasons that you run RACF on your z/VM system is to be able to audit who is doing what on the system. The audit records must be managed through the RACFSMF virtual machine. To create a PROFILE EXEC for the RACFSMF virtual machine, complete the following steps: 1. Link the RACFSMF 191 disk read/write and access it as file mode H: ===> link racfsmf 191 2191 mr ===> acc 2191 h 2. Copy the sample profile SMFPROF EXEC to the RACFSMF 191 disk (H) as the file PROFILE EXEC: ===> copy smfprof exec g profile = h 3. Edit the PROFILE EXEC and change the value",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.652919",
+    "chunk_number": 372,
+    "word_count": 173
+  }
+}

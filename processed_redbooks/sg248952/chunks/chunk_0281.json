@@ -1,0 +1,18 @@
+{
+  "content": "code, such as the z/OS dispatcher and supervisor services. Chapter 3. Central processor complex design 109 A zIIP cannot process I/O or clock comparator interruptions. It also does not support operator controls, such as IPL. Java application code can run on a CP or a zIIP. The installation can manage the use of CPs so that Java application code runs only on CPs or zIIPs, or on both. The following execution options for zIIP-eligible code execution are available and supported for z/OS12. These options are user-specified in IEAOPTxx and can be dynamically altered by using the SET OPT command: \u0002 Option 1: Java dispatching by priority (IIPHONORPRIORITY=YES) This option is the default option and specifies that CPs must not automatically consider zIIP-eligible work for dispatching on them. The zIIP-eligible work is dispatched on the zIIP engines until Workload Manager (WLM) determines that the zIIPs are overcommitted. WLM then requests help from the CPs. When help is requested, the CPs",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.284280",
+    "chunk_number": 281,
+    "word_count": 159
+  }
+}

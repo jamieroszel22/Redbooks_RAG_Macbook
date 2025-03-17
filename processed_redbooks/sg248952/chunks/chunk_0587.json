@@ -1,0 +1,18 @@
+{
+  "content": "A02 and IBM z16 AGZ Validated Boot technology is a security feature that verifies the authenticity of the boot process, including the operating system and all other components that are loaded during boot. It uses digital signatures to provide a check at the time of an Initial Program Load (IPL) that all IPL data like the executables residing on an IPL volume is intact, unaltered, and originates from a trusted source. Thus the detection of unauthorized changes to software executables is enabled, and if any component is found to be modified, the system will halt the boot process, preventing any malicious code from executing. With Validated Boot customers are able to meet regulatory compliance required for certain secure software deployment scenarios. Any accidental IPL data changes are detected early, which can reduce the impact of outages. Also any malicious IPL data changes can be detected and certain types of attacks can be stopped. Figure 6-8 on page 238 is showing the principles of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.522422",
+    "chunk_number": 587,
+    "word_count": 163
+  }
+}

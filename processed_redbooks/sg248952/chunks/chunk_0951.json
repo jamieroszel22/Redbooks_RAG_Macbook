@@ -1,0 +1,18 @@
+{
+  "content": "Resource Groups per system (CPC). The front, rear, and top view of the PCIe+ I/O drawer and the Resource Group assignment by card slot are shown in Figure 9-11. All PCIe+ I/O drawers that are installed in the system feature the same Resource Group assignment. Figure 9-11 Resource Group slot assignment 9.10 RAS capability for the HMA and SE The HMA and the SE include the following RAS capabilities: \u0002 Back up from HMA and SE On a scheduled basis, the HMA hard disk drive (HDD) is backed up to the USB flash memory drive (UFD), a defined FTP server, or both. SE HDDs are backed up on to the primary SE HDD and an alternative SE HDD. In addition, you can save the backup to a defined FTP server. For more information, see 10.2, \u201cHMC and SE new features and changes\u201d on page 395. \u0002 Remote Support Facility (RSF) Note: Other adapter types, such as FICON Express, OSA Express, and Crypto Express that are installed in the PCIe+ I/O drawer are not effected because they are not managed by the Resource",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.837535",
+    "chunk_number": 951,
+    "word_count": 182
+  }
+}

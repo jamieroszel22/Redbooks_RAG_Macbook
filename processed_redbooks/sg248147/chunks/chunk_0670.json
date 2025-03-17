@@ -1,0 +1,18 @@
+{
+  "content": "corrupted or invalid online user directory can be disastrous. For example, if you inadvertently overlap minidisk definitions, it can cause serious and permanent data loss. \u0002 If your z/VM system has more than a few virtual machines or belongs to a z/VM SSI cluster, it is illogical to attempt manual user management when automation exists. \u0002 For z/VM SSI cluster works correctly, and relocation behaves as designed, the user directories on all members of an SSI cluster must always remain synchronized. 10.1.1 DirMaint features One of the major advantages of z/VM has always been its ability to provide each user with an individual working environment, a virtual machine (userids). The virtual machine simulates a dedicated, real machine, including processor functions, memory, and input/output resources. Various operating systems and applications can run in a virtual machine. However, managing many guest operating systems (virtual images) requires a thorough understanding of VM concepts and the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.853441",
+    "chunk_number": 670,
+    "word_count": 152
+  }
+}

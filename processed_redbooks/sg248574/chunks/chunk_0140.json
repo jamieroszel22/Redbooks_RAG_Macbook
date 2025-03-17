@@ -1,0 +1,18 @@
+{
+  "content": "setting) generative LLM model that you want to improve, and adapts its weights to create better prompts through a tunable soft prompt, as shown in Figure 5-3. Figure 5-3 Prompt tuning overview With prompt tuning, you create a model that automatizes the prompt engineering task, which makes it dynamically adaptive to new, incoming inputs over time. The key benefit of prompt tuning is performing tuning in ways that are better than what experts can do for certain tasks, that is, the best token leading to a successful completion of the input task. Prompt tuning can do this task because it leverages 100 - 10000 examples to learn which token is the best one to add to a starting pre-engineered prompt to minimize the loss of the generative model. 62 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai The watsonx.ai platform provides a simplistic way of using prompt tuning, as shown in Figure 5-4. Figure 5-4 Prompt tuning in watsonx.ai Tuning Studio 5.2.1 Prompt tuning",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.728856",
+    "chunk_number": 140,
+    "word_count": 168
+  }
+}

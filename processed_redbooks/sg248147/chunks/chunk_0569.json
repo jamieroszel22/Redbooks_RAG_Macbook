@@ -1,0 +1,18 @@
+{
+  "content": "whether packets are delayed or dropped. 7. Verify that the Linux system is now running somewhere in the SSI: ===> q LINUX1 LINUX1 - SSI The output shows LINUX1 as SSI, which means that it is running on a different member. We described how to migrate a running Linux system by using the VMRELOCATE command. \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 255 Chapter 8. Servicing z/VM This chapter focuses on the requirements to keep your z/VM systems updated to ensure full functionality, optimal utility, security, and the elimination of known problems. The process of ordering and applying z/VM Service also is described. The full details are provided to apply the two main types of service: \u0002 Recommended service upgrade (RSU), which is analogous to a service pack \u0002 Program temporary fix (PTF), which is analogous to a bug fix The processes to install these types of service are essentially the same. This chapter includes the following topics: \u0002 8.1, \u201cz/VM release schedule\u201d on",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.447696",
+    "chunk_number": 569,
+    "word_count": 167
+  }
+}

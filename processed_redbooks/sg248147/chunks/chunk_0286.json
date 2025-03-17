@@ -1,0 +1,18 @@
+{
+  "content": "12:58:06 SYSTEM NUCLEUS CREATED ON 2020-06-26 AT 09:02:09, LOADED FROM $RAMD$ 12:58:06 12:58:06 **************************************************************** 12:58:06 * LICENSED MATERIALS - PROPERTY OF IBM* * 12:58:06 * * 12:58:06 * 5741-A09 (C) COPYRIGHT IBM CORP. 1983, 2020. ALL RIGHTS * 12:58:06 * RESERVED. US GOVERNMENT USERS RESTRICTED RIGHTS - USE, * 12:58:06 * DUPLICATION OR DISCLOSURE RESTRICTED BY GSA ADP SCHEDULE * 12:58:06 * CONTRACT WITH IBM CORP. * 12:58:06 * * 12:58:06 * * TRADEMARK OF INTERNATIONAL BUSINESS MACHINES. * 12:58:06 **************************************************************** 12:58:06 12:58:06 HCPZCO6718I Using parm disk 1 on volume $RAMD$ (device FFFF). 12:58:06 HCPZCO6718I Parm disk resides on blocks 18000 through 52992. 12:58:06 The directory on volume $RAMD$ at address FFFF has been brought online. 12:58:06 HCPWRS2512I Spooling initialization is complete. 12:58:06 No dump unit - Dump function is SET OFF 12:58:06 HCPAAU2700I System gateway IBMVMRAM",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.285298",
+    "chunk_number": 286,
+    "word_count": 137
+  }
+}

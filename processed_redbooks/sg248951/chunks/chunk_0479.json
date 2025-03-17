@@ -1,0 +1,18 @@
+{
+  "content": "Express8S (2 HSM) includes two IBM PCIe Cryptographic Co-processors (PCIeCC); the Crypto Express8S (1 HSM) includes one PCIeCC per feature. For availability reasons, a minimum of two features is required. Up to 30 Crypto Express8S (2 HSM) features are supported. The maximum number of the 1 HSM features is 16. The Crypto Express8S feature occupies one I/O slot in a PCIe+ I/O drawer. Each adapter can be configured as a Secure IBM CCA coprocessor, a Secure IBM Enterprise PKCS #11 (EP11) coprocessor, or as an accelerator. Crypto Express8S provides domain support for up to 85 logical partitions. Chapter 4. Central processor complex I/O structure 193 The accelerator function is designed for maximum-speed Secure Sockets Layer and Transport Layer Security (SSL/TLS) acceleration, rather than for specialized financial applications for secure, long-term storage of keys or secrets. The Crypto Express8S can also be configured as one of the following configurations: \u0002 The Secure IBM CCA coprocessor",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.093485",
+    "chunk_number": 479,
+    "word_count": 154
+  }
+}

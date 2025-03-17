@@ -1,0 +1,18 @@
+{
+  "content": "describes the specific steps that are required for configuring the CSMSERVE server for use, see Chapter 8 of z/VM 7.2 Service Guide, GC24-6325. \u0002 To initialize z/VM CSM, sufficient SFS file pool space on the principal system is needed. The VMPSFS file pool is used for z/VM CSM. To initialize z/VM CSM successfully, at least 3000 4-K blocks of free space are required in Group 1 and 520000 4-K blocks of free space is required in Group 2. In addition, it is highly recommended to have extra space available for new service levels. \u0002 The PTF for APAR VM66428 must be installed on the principal system and all managed systems before initializing z/VM CSM. In addition, the PTF must be included as part of any customer-defined service level that is based on the initial z/VM 7.2 RSU. In addition to the system requirements, some configuration requirements must be met before z/VM CSM is used. For more information about these requirements, see \u201cOverall system configuration changes\u201d in Chapter 8 of",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.595016",
+    "chunk_number": 608,
+    "word_count": 169
+  }
+}

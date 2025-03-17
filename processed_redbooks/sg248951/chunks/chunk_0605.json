@@ -1,0 +1,18 @@
+{
+  "content": "continuous delivery page. Note: At the time of this writing, z/VM V7.3 is planned for third quarter 2022 availability. Chapter 7. Operating system support 251 7.2.3 z/VSE IBM z16 support is provided by z/VSE V6R2 and later, with the following considerations: \u0002 z/VSE runs in z/Architecture mode only \u0002 z/VSE supports 64-bit real and virtual addressing For more information about supported functions and their minimum required support levels, see 7.3, \u201cIBM z16 features and function support overview\u201d on page 252. 7.2.4 21st Century Software z/VSEn V6.3 21st Century Software VSEn V6.3 was announced in March 2022 and is based on an IBM licensed copy of IBM z/VSE. For more information about this product, visit see the 21st Century Software website. 7.2.5 z/TPF IBM z16 support is provided by z/TPF V1R1 with PTFs. For more information about supported functions and their minimum required support levels, see 7.3, \u201cIBM z16 features and function support overview\u201d on page 252. 7.2.6 Linux on IBM Z",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.604493",
+    "chunk_number": 605,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "the file. top Move to the top of the file. down <n> Move down \u2018n\u2019 lines. up <n> Move up \u2018n\u2019 lines. file Save the current file and exit XEDIT. ffile Save the current file and exit but do not warn of overwrite. save Save the current file but do not exit. quit Exit XEDIT if no changes were made. qquit Exit XEIDT even if changes were not saved. left <n> Shift \u2018n\u2019 characters to the left. right <n> Shift \u2018n\u2019 characters to the right. get <file> Copy file and insert past the current line. input Enable INPUT mode to insert multiple lines of text, beginning at the current line. :<n> Move to line \u2018n\u2019. ? Display the last command. = Execute the last command. x <file> Edit \u2018file\u2019 and put it into the XEDIT \u201cring\u201d. x Move to the next file in the ring. 480 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Prefix commands Prefix commands are typed over the line numbers on the left side of the window: a Add one line. a<n> Add 'n' lines. c Copy one line. cc Copy a block of lines. d Delete one line. dd Delete",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.947468",
+    "chunk_number": 993,
+    "word_count": 194
+  }
+}

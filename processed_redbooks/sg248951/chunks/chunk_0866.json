@@ -1,0 +1,18 @@
+{
+  "content": "using the HMC, SE, or available CPM commands. 362 IBM z16 (3931) Technical Guide \u0002 Confirmation In this mode, CPM processes capacity provisioning policies and interrogates the installed temporary offering records. Every action that is proposed by the CPM must be confirmed by the operator. \u0002 Autonomic This mode is similar to the confirmation mode, but no operator confirmation is required. Several reports are available in all modes that contain information about the workload, provisioning status, and the rationale for provisioning guidelines. User interfaces are provided through the z/OS console and the CPMC application. The provisioning policy defines the circumstances under which more capacity can be provisioned (when, which, and how). The criteria features the following elements: \u0002 A time condition is when provisioning is allowed: \u2013 Start time indicates when provisioning can begin. \u2013 Deadline indicates that provisioning of more capacity is no longer allowed. \u2013 End time indicates that",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.548167",
+    "chunk_number": 866,
+    "word_count": 151
+  }
+}

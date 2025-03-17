@@ -1,0 +1,18 @@
+{
+  "content": "model capacity identifier D05. When the addition of temporary capacity that is requested by On/Off CoD for CPs results in a cross-over from one capacity identifier range to another, the total number of CPs active when the temporary CPs are activated is equal to the number of temporary CPs ordered. For example, when a configuration with model capacity identifier D03 specifies four temporary CPs through On/Off CoD, the result is a configuration with model capacity identifier E05. A cross-over does not necessarily mean that the CP count for the extra temporary capacity increases. The same D03 can temporarily be upgraded to a configuration with model capacity identifier F03. In this case, the number of CPs does not increase, but more temporary capacity is achieved. On/Off CoD guidelines When you request temporary capacity, consider the following guidelines: \u0002 Temporary capacity must be greater than permanent capacity. \u0002 Temporary capacity cannot be more than double the purchased capacity.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.925330",
+    "chunk_number": 189,
+    "word_count": 156
+  }
+}

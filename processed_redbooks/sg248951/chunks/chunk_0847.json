@@ -1,0 +1,18 @@
+{
+  "content": "can assign PUs up to twice the currently installed CP capacity, and up to twice the number of ICFs, zIIPs, or IFLs. An On/Off CoD upgrade cannot change the system capacity feature. The addition of processor drawers is not supported. However, the activation of an On/Off CoD upgrade can increase the model capacity identifier (4xx, 5yy, 6yy, or 7nn). 8.6.2 Capacity Provisioning Manager The installation of the capacity provision function on z/OS requires the following prerequisites: \u0002 Setting up and customizing z/OS RMF, including the Distributed Data Server (DDS). \u0002 Setting up the z/OS CIM Server (included in z/OS base). \u0002 Performing capacity provisioning customization. For more information, see z/OS MVS Capacity Provisioning User\u2019s Guide, SC34-2661. The use of the capacity provisioning function requires the following prerequisites: \u0002 TCP/IP connectivity to observed systems \u0002 RMF Distributed Data Server is active \u0002 CIM server is active \u0002 Security and CIM are customized \u0002 Capacity",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.488033",
+    "chunk_number": 847,
+    "word_count": 153
+  }
+}

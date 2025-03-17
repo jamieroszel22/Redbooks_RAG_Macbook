@@ -1,0 +1,18 @@
+{
+  "content": "features. The ordering system allows for over-configuration in the order. You can order up to 200 CBU features, regardless of the current configuration. However, at activation, only the capacity that is installed can be activated. At activation, you can decide to activate only a subset of the CBU features that are ordered for the system. Sub-capacity makes a difference in the way that the CBU features are completed. On the full-capacity models, the CBU features indicate the amount of extra capacity that is needed. If the amount of necessary CBU capacity is equal to four CPs, the CBU configuration is four CBU CPs. Chapter 8. System upgrades 367 The sub-capacity models feature multiple capacity settings of 4xx, 5yy, or 6yy. The standard models use the capacity setting 7nn. To change the capacity setting, the number of CBU CPs must be equal to or greater than the number of CPs in the base configuration. For example, if the base configuration is a two-way 402, two CBU feature codes are",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.588464",
+    "chunk_number": 879,
+    "word_count": 168
+  }
+}

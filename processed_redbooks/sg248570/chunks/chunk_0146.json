@@ -1,0 +1,18 @@
+{
+  "content": "overlap with Policy A, which creates unnecessary complexity. Chapter 4. Protecting data 57 Best practice: Consolidating policies To simplify management, consolidate overlapping policies into a single, unified policy. For example, you could create a policy, Policy D, that grants read access to both the example-bucket/reports/ and example-bucket/finance/ folders. This streamlined approach reduces the risk of errors, improves security, and makes it easier to manage access permissions. 4.3.4 Summary IBM watsonx.data empowers secure and organized data access through Access Control Lists (ACLs). ACLs manage permissions for object stores and federated databases by using two primary methods: \u0002 Role-based ACLs: Assign broad permissions through predefined roles like Catalog Admin, Storage Writer, and Milvus Viewer. This method simplifies access control. \u0002 Policy-based ACLs: Offer granular control by defining specific rules for subjects (users or groups), actions (read, write, and so forth), and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.907443",
+    "chunk_number": 146,
+    "word_count": 139
+  }
+}

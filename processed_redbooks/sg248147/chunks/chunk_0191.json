@@ -1,0 +1,18 @@
+{
+  "content": "among LPARs. In this case, your z/VM LPAR can see DASD that is owned by other LPARs. In this situation, it is convenient to identify the LPAR or SSI that owns the DASD. Therefore, the volume labeling convention that is used in this book creates DASD labels where each of the six characters specifically represents identifying information: Character 1 Identifies the LPAR or VMSSI cluster name or ID. The example VMSSI cluster in this book is identified by the character \u201cV\u201d. Character 2 The basic function of the DASD. Characters 3-6 The real device number of the DASD volume. Chapter 2. Planning 59 First character in the label The letter \u201cV\u201d is hardcoded into the CPFORMAT REXX EXEC in the tarball file that is associated with this book, which is described in Appendix C, \u201cAdditional material\u201d on page 489. This EXEC uses this volume labeling convention. If you want to use a different LPAR identifier character, you can easily change them (search for the firstChar variable). The following line",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.921715",
+    "chunk_number": 191,
+    "word_count": 169
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "locally administered MAC addresses are created by using the prefix value that is specified on the MACPREFIX operand. The MACPREFIX value must be different for each member of the cluster. The default value is 02xxxx, where xxxx is the member\u2019s slot number on the SSI statement. If the MACPREFIX value is explicitly defined, the VMLAN statement must be qualified for the member to which it applies. Therefore, if a VMLAN statement with the MACPREFIX operand is retained from the non-SSI system or created in this step, it must be qualified for member VMSYS01.\u201d 152 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 However, a second-level IPL does not eliminate environmental factors of the target first-level system that the file is intended for, and still might not find all problems that relate to the system configuration file. Complete the following steps: 1. Test the changes that are made to SYSTEM CONFIG with the CPSYNTAX command, which is on the MAINT 193 disk. The CPSYNTAX command must be run",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.598673",
+    "chunk_number": 358,
+    "word_count": 166
+  }
+}

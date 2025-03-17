@@ -1,0 +1,18 @@
+{
+  "content": "model capacity \u0002 Add specialty engines \u0002 Add memory \u0002 Activate unassigned model capacity or IFLs, ICFs, or zIIPs. \u0002 Deactivate activated model capacity or IFLs, ICFs, or zIIPs. \u0002 Add IO channels \u0002 Add Crypto Express cards \u0002 Change specialty engines (recharacterization) Tip: The use of the CIU facility for a system requires that the online CoD buying feature (FC 9900) is installed on the system. The CIU facility is enabled through the permanent upgrade authorization feature code (FC 9898). A prerequisite to FC 9898 is the online CoD buying feature code (FC 9900). 324 IBM z16 A02 and IBM z16 AGZ Technical Guide Permanent upgrades by using CIU on the IBM Resource Link Ordering the following permanent upgrades by using the CIU application through Resource Link allows you to add capacity to fit within your hardware: \u0002 Add model capacity \u0002 Add specialty engines \u0002 Add memory \u0002 Activate unassigned model capacity or IFLs, ICFs, or zIIPs. \u0002 Deactivate activated model capacity or IFLs, ICFs, or",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.346357",
+    "chunk_number": 808,
+    "word_count": 168
+  }
+}

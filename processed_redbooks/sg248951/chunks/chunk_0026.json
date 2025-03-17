@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 321 7.5.5 z/OS V2.R3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 322 7.5.6 Remote dynamic activation of I/O configurations for stand-alone Coupling Facilities, Linux on Z and z/TPF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 322 7.5.7 Coupling links . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 322 7.5.8 z/OS XL C/C++ considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 323 7.6 IBM z/VM migration considerations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 324 7.6.1 IBM z/VM 7.3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 324 7.6.2 IBM z/VM 7.2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.247064",
+    "chunk_number": 26,
+    "word_count": 402
+  }
+}

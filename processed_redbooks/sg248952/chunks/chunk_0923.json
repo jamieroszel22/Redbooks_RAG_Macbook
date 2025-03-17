@@ -1,0 +1,18 @@
+{
+  "content": "a processor core malfunctioned and is spared. IBM determines what to do based on the system and the history of that system. \u0002 Point-to-point fabric for symmetric multiprocessing (SMP) RAS design \u2013 The A-bus is the logical bus and it is split over 2 SMP9 cables \u2022 11 bits per A-Bus One SMP9 cable has 6 bits and the other has 5 bits. \u2013 CRC detection and replay \u2013 RAS lane Degrade and Callhome Strategy design \u2013 Concurrent repair of the SMP9 cable. NEW for IBM z16 A02 and IBM z16 AGZ generation. Having fewer components that can fail is an advantage. In a two drawer system, the drawers are connected by point-to-point connections. A second drawer can be added concurrently if the starting point is IBM z16 A02 and IBM z16 AGZ Max32 feature. \u0002 The PCIe+ I/O drawer is available for IBM z16 A02 and IBM z16 AGZ. It and all of the PCIe+ I/O drawer-supported features can be installed concurrently. \u0002 Memory interface logic to maintain channel synchronization when one channel goes into replay. IBM z16",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.725574",
+    "chunk_number": 923,
+    "word_count": 179
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "59 \u0002 Few-shot prompting: Expands on this concept by incorporating multiple examples of the task in the prompt. The additional examples provide a richer context and help the model better understand complex patterns or subtle variations in the task. Few-shot prompting is useful for tasks that require multi-step reasoning, handling of ambiguous inputs, or understanding domain-specific jargon. However, it demands careful prompt construction to balance informativeness and brevity because excessive length can lead to token limitations or diminished performance. Figure 5-1 LLM prompting method types overview 5.1.2 Importance of system tokens In addition to zero-shot, one-shot, and few-shot prompting techniques, system tokens (also known as system-level instructions or control tokens) play a critical role in crafting effective prompts. These tokens provide metadata or guidance to steer the behavior of the language model at a higher level, often defining the context, tone, or expected behavior",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.698035",
+    "chunk_number": 134,
+    "word_count": 144
+  }
+}

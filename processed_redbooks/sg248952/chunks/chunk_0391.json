@@ -1,0 +1,18 @@
+{
+  "content": "feature on IBM z16 A02 and IBM z16 AGZ servers are listed in Table 4-6. Table 4-6 Feature connector and cable types Cables: All fiber optic cables, cable planning, labeling, and installation are client responsibilities for new IBM z16 A02 and IBM z16 AGZ installations and upgrades. Fiber optic conversion kits and mode conditioning patch cables are not orderable as features on IBM z16 A02 and IBM z16 AGZ. All other cables must be sourced separately. Feature code Feature name Connector type Cable type 0461 FICON Express32S LX LC Duplex 9 \u00b5m SM 0462 FICON Express32S SX LC Duplex 50 \u00b5m MMa 0427 FICON Express16S+ LX 10 Kim LC Duplex 9 \u00b5m SM 0428 FICON Express16S+ SX LC Duplex 50a, 62.5 \u00b5m MM 0459 OSA-Express7S 1.2 25 GbE SR LC Duplex 50 \u00b5m MM 0460 OSA-Express7S 1.2 25 GbE LR LC Duplex 9 \u00b5m SM 0456 OSA-Express7S1.2 10 GbE LR LC Duplex 9 \u00b5m SM 0457 OSA-Express7S 1.2 10 GbE SR LC Duplex 50 \u00b5m MMa 0454 OSA-Express7S 1.2 GbE LX LC Duplex 9 \u00b5m SM 0455 OSA-Express7S 1.2 GbE SX LC Duplex 50, 62.5",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.739850",
+    "chunk_number": 391,
+    "word_count": 185
+  }
+}

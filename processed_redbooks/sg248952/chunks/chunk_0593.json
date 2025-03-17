@@ -1,0 +1,18 @@
+{
+  "content": "use - IBM document. With secure boot enabled, an IPL fails if a component containing code is not signed or cannot be verified. IBM Secure Boot for Linux allows validation of signed Linux kernels to prevent non-approved Linux kernels from booting, based on a previously validated root of trust established for the firmware Bootloader. For details about how to prepare a device for secure boot, see zipl modes and syntax overview in Linux on IBM Z documentation. Kernel interfaces are restricted in a kernel that is prepared for secure boot. In particular, in a kernel prepared for secure boot, all kernel modules must be signed. Instructions about how to boot Linux from DASD (ECKD) are detailed in Booting from DASD Linux on IBM Z documentation website. Note: KVM: You can IPL a KVM guest from a device with the secure boot format, but signatures are not verified. Chapter 6. Cryptographic features 241 6.9.3 z/VM 7.3 Guest Secure-IPL z/VM V7.3 extends support for hardware secure boot by providing",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.545295",
+    "chunk_number": 593,
+    "word_count": 167
+  }
+}

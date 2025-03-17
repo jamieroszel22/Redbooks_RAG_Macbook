@@ -1,0 +1,18 @@
+{
+  "content": "and opportunities in AI governance 7 \u0002 Generative AI enables use cases in new areas of an organization increasing the complexity of governance - more use cases to review, more (types of) users to educate, more room for accidental errors. \u0002 Generative AI carries amplified and new risks such as bias in generated content, intellectual property concerns, hallucination, energy consumption and misinformation. \u0002 Generative AI has a different supply chain - most organizations do not train their own large language models, but leverage pre-trained models from commercial vendors and the open-source community. These external models need to be vetted before being applied in use cases. See Chapter 4, \u201cOnboarding a new foundation model\u201d on page 41 for more on this topic. \u0002 Generative AI introduces different assets to govern - organizations now routinely work with prompt templates, foundation models (FMs), and other AI assets. These assets come with different metadata and different ways to measure",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.610363",
+    "chunk_number": 50,
+    "word_count": 155
+  }
+}

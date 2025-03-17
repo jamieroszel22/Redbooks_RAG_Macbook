@@ -1,0 +1,18 @@
+{
+  "content": "2.5.6, \u201cDrawer replacement and memory\u201d on page 52. Memory upgrades which require the addition or replacement for existing DIMMs in a single CPC drawer system require the system to be powered off during this operation. When the total capacity that is installed has more usable memory than required for a configuration, the Licensed Internal Code Configuration Control (LICCC) determines how much memory is used from each processor drawer. The sum of the LICCC provided memory from each CPC drawer is the amount that is available for use in the system. 116 IBM z16 A02 and IBM z16 AGZ Technical Guide Memory allocation When the system is activated by using a POR, PR/SM determines the total installed memory and the customer enabled memory. Later in the process, during LPAR activation, PR/SM assigns and allocates each partition memory according to their image profile. PR/SM controls all physical memory, and can make physical memory available to the configuration when a CPC drawer is added. In",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.385963",
+    "chunk_number": 299,
+    "word_count": 162
+  }
+}

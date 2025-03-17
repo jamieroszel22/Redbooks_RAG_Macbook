@@ -1,0 +1,18 @@
+{
+  "content": "appropriate and in compliance with security policies. \u0002 Monitor Sensitive Data Access: For highly sensitive resources, configure alerts to monitor access patterns and identify potential security risks. This best practice is especially relevant in regulated industries where data access must be auditable. 4.3 Establishing ACLs In IBM watsonx.data, access control lists (ACLs) are used to manage and restrict access to the data in object store and in federated databases, which helps ensure that only authorized users or services can interact with the data. ACLs are critical for maintaining security and compliance in a data environment by specifying who can read, write, or modify data, and by controlling administrative tasks. The typical types of ACLs for data access in IBM watsonx.data include role-based ACL and policy-based ACL. 4.3.1 Role-based ACL Roles define sets of permissions that can be assigned to users and user groups. This approach simplifies the management of permissions by",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.884320",
+    "chunk_number": 140,
+    "word_count": 151
+  }
+}

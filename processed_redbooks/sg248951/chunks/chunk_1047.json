@@ -1,0 +1,18 @@
+{
+  "content": "floor or nonraised floor \u0002 I/O and power cables can exit under the raised floor or off the top of the server frames For more information about physical planning, see 3931 Installation Manual for Physical Planning, GC28-7015. 11.2 Power and cooling The IBM z16 server can be a 1 - 4 19-inch rack system, depending on the configuration. Frames are shipped separately in Arbo crates, along with separate front and rear cover sets for each frame boxed on a shipping pallet. The frames are bolted together during the installation procedure. IBM z16 servers support installation on a raised floor or nonraised floor and are available in the following power and cooling options: \u0002 Intelligent Power Distribution Unit-based power (iPDU) or PDU \u0002 Bulk Power Assembly-based power (BPA) All IBM z16 models include radiator-based cooling (air cooled system). 11.2.1 Intelligent Power Distribution Unit The iPDUs can be ordered as the following feature codes (FCs), per customer data center power infrastructure",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.156766",
+    "chunk_number": 1047,
+    "word_count": 159
+  }
+}

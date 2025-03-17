@@ -1,0 +1,18 @@
+{
+  "content": "Presto supports a wide range of SQL commands, including SELECT, UPDATE, DELETE, INSERT, and WHERE, enabling seamless integration with diverse data sources and BI tools. Presto\u2019s SQL foundation ensures broad accessibility and rapid adoption. Its SQL compatibility with other databases allows for seamless migration of existing SQL queries and BI tools, requiring minimal to no modifications. Presto's adaptable, flexible, and extensible architecture enables seamless integration with a wide range of data sources. Its plugin mechanism allows you to connect to diverse data systems, from traditional databases to modern data lakes and warehouses. A single Presto query can effortlessly combine data from multiple sources, empowering organizations to conduct comprehensive analytics across their entire data ecosystem. The vibrant Presto community provides a rich ecosystem of connectors, further expanding the platform's capabilities. You can see the high-level architecture diagram in Figure 5-1.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.917531",
+    "chunk_number": 149,
+    "word_count": 139
+  }
+}

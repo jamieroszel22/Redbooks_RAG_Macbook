@@ -1,0 +1,18 @@
+{
+  "content": "These PUs are dispatched to online logical PUs. For example, consider an IBM z16 with 10 CPs, 2 IFLs, 5 zIIPs, and 1 ICF. This system has a PU pool of 18 PUs, called the pool width. Subdivision defines the following pools: \u0002 A CP pool of 10 CPs \u0002 An ICF pool of one ICF \u0002 An IFL pool of two IFLs \u0002 A zIIP pool of five zIIPs PUs are placed in the pools in the following circumstances: \u0002 When the system is PORed \u0002 At the time of a concurrent upgrade \u0002 As a result of adding PUs during a CBU \u0002 Following a capacity on-demand upgrade through On/Off CoD or CIU. PUs are removed from their pools when a concurrent downgrade occurs as the result of the removal of a CBU. They also are removed through the On/Off CoD process and the conversion of a PU. When a dedicated LPAR is activated, its PUs are taken from the correct pools. This process also is the case when an LPAR logically configures a PU as on, if the width of the pool allows for it. For an LPAR, logical PUs are dispatched from the supporting",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.178234",
+    "chunk_number": 254,
+    "word_count": 198
+  }
+}

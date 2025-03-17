@@ -1,0 +1,18 @@
+{
+  "content": "seamlessly with existing tools like Apache Spark, DataStage, and StreamSets. In this section we discuss the benefits from this ecosystem. Data unification and accessibility The following benefits for data unification and accessibility can be achieved: \u0002 watsonx.data leverages open formats (for example, Parquet, Delta Lake) to store and process data, making it accessible to all three tools (Spark, DataStage, StreamSets). \u0002 It provides a single source of truth for AI and analytics workloads. Scalability and performance There are several scalability and performance benefits, such as: \u0002 Apache Spark ensures scalable compute for large-scale analytics. 26 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data \u0002 DataStage efficiently manages ETL workflows to prepare high-quality data. \u0002 StreamSets delivers real-time data with low latency, keeping watsonx.data pipelines dynamic and up-to-date. Governance and compliance Key governance and compliance features include: \u0002",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.689565",
+    "chunk_number": 89,
+    "word_count": 140
+  }
+}

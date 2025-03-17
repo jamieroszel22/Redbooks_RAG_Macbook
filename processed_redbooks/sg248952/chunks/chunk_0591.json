@@ -1,0 +1,18 @@
+{
+  "content": "Protection Profile 4.2.1 Certification. Package signing IBM plans to provide the capability to digitally sign electronically and physically delivered software packages. This new capability is designed to allow a user to ensure the package hasn't been tampered with and that the package was signed by the expected provider of the package by verifying the signature of the package. Software packages from IBM that are intended to be signed include: ServerPac, CBPDO, Shopz PTF orders, SMP/E RECEIVE ORDER PTFs, and HOLDDATA. This support for signing and verification is planned to be available in both SMP/E and z/OSMF Software Management on all supported z/OS releases. 240 IBM z16 A02 and IBM z16 AGZ Technical Guide With z/OS 2.5, the IPL must be done with CLPA (cold start) on all Validated Boot IPLs. This avoids any tampering with executable code on the PLPA page dataset while residing on disk. Building the LPA via load module loads at cold start time can be validated, but re-building LPA via",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.538179",
+    "chunk_number": 591,
+    "word_count": 164
+  }
+}

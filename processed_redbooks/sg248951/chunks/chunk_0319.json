@@ -1,0 +1,18 @@
+{
+  "content": "it that allows customers to define, use, and operate the platform virtualization without IBM Z experience or skills. 3.7.2 Storage operations In IBM z16 A01 systems, memory can be assigned as main storage, supporting up to 85 LPARs. Before you activate an LPAR, main storage must be defined to the LPAR. All installed storage can be configured as main storage. For more information about operating system main storage support, see the PR/SM Planning Guide, SB10-7178. Memory cannot be shared between system images (LPARs). It is possible to dynamically reallocate storage resources for z/Architecture LPARs that run operating systems that support dynamic storage reconfiguration (DSR). This process is supported by z/OS, and z/VM. z/VM, in turn, virtualizes this support to its guests. For more information, see 3.7.5, \u201cLPAR dynamic storage reconfiguration\u201d on page 127. Operating systems that run as guests of z/VM can use the z/VM capability of implementing virtual memory to guest virtual",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.475736",
+    "chunk_number": 319,
+    "word_count": 153
+  }
+}

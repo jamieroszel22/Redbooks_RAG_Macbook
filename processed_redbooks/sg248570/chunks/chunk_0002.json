@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . .xv Chapter 1. Challenges and opportunities with data. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 1.1 Current challenges in the data landscape. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 1.1.1 From centralized to distributed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 1.1.2 Data stores, data integration, and data management tools . . . . . . . . . . . . . . . . . . 2 1.1.3 Data lakes and data warehouses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 1.2 Benefits of an open lakehouse for businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3 1.2.1 The impact of cloud. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 1.3 Open table formats and open data formats. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 1.3.1 Open data storage . . . . . . . .",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.352574",
+    "chunk_number": 2,
+    "word_count": 367
+  }
+}

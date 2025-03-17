@@ -1,0 +1,18 @@
+{
+  "content": "Co-processor mode to enforce restrictions on classes of requests \u0002 Remove Obsolete IOCP Parameters \u0002 z/VM Security Settings and Compliance interface (API and Command): \u2013 Provides support for a compliance status extractor for future IBM Z Security and Compliance Center (zSCC) exploitation The following IBM z16 A02 and IBM z16 AGZ support will be transparent to z/VM: \u0002 Dynamic Partition Mode (DPM) enhancements SMC-R, SMC-D \u0002 Dynamic Partition Mode (DPM) FICON CTC support between LPARS on the same CPC \u2013 FICON CTC support is a prerequisite for establishing z/VM Single System Image (SSI) clustering. DPM FICON CTC support allows customers to create a z/VM SSI environment within the same CPC. SSI Clustering technology is required in order for customers to exploit Live Guest Relocation (LGR) to move running Linux guests across z/VM images. \u0002 OSA-Express7S 1.2 (GbE, 10GbE, 1000BASE-T, OSA-Express7S 1.1 (25GbE) Adapters \u0002 Coupling Express2 LR Adapter \u0002 32Gbps 2 port FICON Adapter \u0002 Coupling",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.595084",
+    "chunk_number": 605,
+    "word_count": 156
+  }
+}

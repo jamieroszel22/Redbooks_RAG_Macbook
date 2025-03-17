@@ -1,0 +1,18 @@
+{
+  "content": "specific task, and if you had a different task, you would train another model. The use case comes first, and then the model(s) follow. With generative AI and foundation models, this is typically no longer the case as these models are now pre-trained to handle a large variety of use cases. Not only does this mean a one-to-many relationship, but the relationship is also reversed: the model is already there before any specific use cases are considered. One result of this is that the use case has become more important as a governed item in its own right, separate from the (foundation) models applied to deliver a use case. Chapter 5 describes the governance considerations around use cases 10 Ensuring Trustworthy AI with IBM watsonx.governance More AI assets In machine learning and deep learning projects, typically the asset created was a trained model. Depending on the use case and the data, these can take many forms but they're generally all referred to as models. With generative AI and",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.637720",
+    "chunk_number": 56,
+    "word_count": 168
+  }
+}

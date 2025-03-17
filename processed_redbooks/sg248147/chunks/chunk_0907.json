@@ -1,0 +1,18 @@
+{
+  "content": "created Ready; T=0.01/0.01 07:05:26 set port group grpglbl join 1910 1930 Port group GRPGLBL is updated Ready; To verify that the IVL Domain was functioning correctly, we ran a QUERY PORT GROUP command on the second system. When running the QUERY PORT GROUP command without parameters, we saw the response No active groups found. This message is expected because the port group does not become active until it is connected to a VSwitch. Displaying inactive port groups can be done by using the ALL INActive parameter on the QUERY PORT GROUP command, or by displaying the group by name. We used the display-by-name method to show the group. As shown in Example 14-7, we saw that the group was defined on the second system automatically through the IVL. Example 14-7 QUERY PORT GROUP command q port group grpglbl Group: GRPGLBL.0 Inactive LACP Mode: Active Shared VSWITCH <none> ifIndex: 2112 Load Balancing: Collaborative Interval: 300 RDEV: 1930.P00 Adapter ID: 3907000BB4B7.010C RDEV: 1910.P00",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.662742",
+    "chunk_number": 907,
+    "word_count": 161
+  }
+}

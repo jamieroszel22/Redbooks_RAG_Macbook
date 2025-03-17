@@ -1,0 +1,18 @@
+{
+  "content": "RoCE Express feature can be shared by up to 126 partitions (LPARs) (one adapter is one PCHID). The 10GbE RoCE Express2 feature uses SR optics and supports the use of a multimode fiber optic cable that ends with an LC Duplex connector. Both point-to-point connections and switched connections with an enterprise-class switch are supported (ports running at matching speeds). Shared Memory Communications functions The Shared Memory Communication (SMC) capabilities of the IBM z16 A02 and IBM z16 AGZ help optimize the communications between applications for server-to-server (SMC-R) or LPAR-to-LPAR (SMC-D) connectivity. Shared Memory Communications Version 1 SMC-R SMC-R provides application transparent use of the RoCE-Express feature. This feature reduces the network overhead and latency of data transfers, which effectively offers the benefits of optimized network performance across processors. SMC-D SMC-D was used with the introduction of the Internal Shared Memory (ISM) virtual PCI",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.923777",
+    "chunk_number": 438,
+    "word_count": 143
+  }
+}

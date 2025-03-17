@@ -1,0 +1,18 @@
+{
+  "content": "details that are specific to the Presto engine on IBM watsonx.data, as shown in Figure 41: \u2013 Engine's hostname or IP address: ibm-lh-lakehouse-presto-01-presto-svc.cpd.svc.cluster.local \u2013 Engine ID: presto-01 \u2013 Engine's port: 8443 Figure 8-41 Engine connection details 10.The data engineer tests the connection. Because the test was successful, they click Create to create the IBM watsonx.data Presto connection in the project, as shown in Figure 8-42 on page 129. Chapter 8. Marketing campaign analysis use case 129 Figure 8-42 Test connection: Create 11.After the connection is created, the data engineer views the connection in the Assets tab of the project by selecting Projects \u2192 Bank Term Deposit Marketing Campaign Analysis \u2192 Assets \u2192 watsonx.data connection, as shown in Figure 8-43. Figure 8-43 IBM watsonx.data connection 8.4 Visualizing and exploring data After the data connection to IBM watsonx.data is established in the IBM watsonx.ai project, the data analyst can use the connection.",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.253403",
+    "chunk_number": 236,
+    "word_count": 150
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "in the CPC memory subsystem The IBM z16 A01 server includes the following RAS features: \u0002 Up to 48 DIMM per drawer in two rows (40 TB system maximum): \u2013 Organized in eight-card RAIM groups: \u2022 50% reduced RAIM overhead (compared to IBM z15) \u2022 RAIM protection (similar to IBM z15) 2873 1024 18176 35 35 35 30464 31 31 31 31 24320 2874 19200 35 35 35 30464 32 32 32 32 28416 2875 20224 32 32 32 32 28416 2876 21248 32 32 32 32 28416 2877 22272 33 33 33 33 32512 2878 23296 33 33 33 33 32512 2879 24320 34 34 34 34 36608 2880 25344 34 34 34 34 36608 2881 26368 34 34 34 34 36608 2882 27392 34 34 34 34 36608 2883 28416 35 35 35 35 40704 2884 29440 35 35 35 35 40704 2885 30464 35 35 35 35 40704 Feature Code Increments Customer Memory Increments Max82 Max125 Max168 / 200 Drawer CPC0 Drawer CPC1 Dial Max Drawer CPC0 Drawer CPC1 Drawer CPC2 Dial Max Drawer CPC0 Drawer CPC1 Drawer CPC2 Drawer CPC3 Dial Max Chapter 2. Central processor complex hardware components 49 \u2022 Up to 3 chip marks + 1 channel",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.787822",
+    "chunk_number": 156,
+    "word_count": 203
+  }
+}

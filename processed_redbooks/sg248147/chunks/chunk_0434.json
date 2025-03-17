@@ -1,0 +1,18 @@
+{
+  "content": "Connection will close if idle for more than 5 minutes. Name (RDBKZVMG.itso.ibm.com:pwnovak): MAINT720 331 Send password please. Password: 230 MAINT720 logged in; working directory = MAINT720 191 Remote system type is z/VM. cd VMPSFS:MAINT720.UTILS ftp> cd VMPSFS:MAINT720.UTILS ftp> lcd /ftp/zvm/cookbook/maintvrm At this point, you may see the following: ftp 9.60.86.30 Connected to 9.60.86.30. 220-FTPSERVE IBM VM Level 630 at ATSVME6.ENDICOTT.IBM.COM, 21:10:02 EDT THURSDAY 2016-06-16 220 Connection will close if idle for more than 5 minutes. Name (9.60.86.30:pwnovak): MAINT720 331 Send password please. Password: 230 MAINT720 logged in; working directory = MAINT720 191 Remote system type is z/VM. ftp> cd VMPSFS:MAINT720.UTILS ===> ===> mput * ===> quit 7. Check the listing of the files that you just downloaded into SFS: ===> vmfclear # listfile * * M (isodate FILENAME FILETYPE FM FORMAT LRECL RECS BLOCKS DATE TIME CALLSM1 EXEC M1 V 75 853 8 2015-04-28 17:43:26 CPFORMAT EXEC M1 V 77 272",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.902277",
+    "chunk_number": 434,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "System (CMS), and so on \u0002 TCP/IP \u0002 RACF \u0002 PerfKit \u0002 DIRMAINT \u0002 Remote Spooling Communications Subsystem (RSCS) \u0002 Hardware Configuration Definition (HCD) When it is time to deliver a new RSU, the RSU sequence number is incremented and all of the available service levels for that release are placed in it. At least one of them is new, but the others are the same as on the previous RSU. Service levels are cumulative. They contain all of the PTFs that were in the earlier service levels for that release. For more information about applying corrective service to z/VM, see the following manuals: \u0002 z/VM Guide for Automated Installation and Service (see Part 4), GC24-6197 \u0002 z/VM Service Guide, GC24-6232 These manuals are more complete than this chapter. You might consider the use of these manuals first, rather than this chapter. At least, use them as references. VMSES/E is a component of z/VM that provides the SERVICE and PUT2PROD EXECs. The SERVICE EXEC performs the following functions: \u0002",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.460202",
+    "chunk_number": 573,
+    "word_count": 169
+  }
+}

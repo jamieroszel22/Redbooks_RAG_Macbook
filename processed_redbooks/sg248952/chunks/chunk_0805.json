@@ -1,0 +1,18 @@
+{
+  "content": "configuration with the associated time limit conditions. Replacement capacity A temporary capacity that is used for situations in which processing capacity in other parts of the enterprise is lost. This loss can be a planned event or an unexpected disaster. The two replacement offerings available are Capacity for Planned Events and Capacity Backup. Resource Link The IBM Resource Link is a technical support website that provides a comprehensive set of tools and resources (log in required). Secondary approval An option that is selected by the client that requires second approver control for each CoD order. When a secondary approval is required, the request is sent for approval or cancellation to the Resource Link secondary user ID. Staged record The point when a record that represents a temporary or permanent capacity upgrade is retrieved and loaded on the SE disk. Subcapacity For IBM z16 A02 and IBM z16 AGZ, CP features A01 to Y06 represent subcapacity configurations, and CP features",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.335655",
+    "chunk_number": 805,
+    "word_count": 159
+  }
+}

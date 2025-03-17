@@ -1,0 +1,18 @@
+{
+  "content": "workload capacity curves that are based on the underlying hardware sensitivities; in particular, the processor access to caches and memory. This processor access to caches and memory is called 12.4, \u201cRelative Nest Intensity\u201d on page 461. By using this data, LSPR introduces three workload capacity categories that replace all older primitives and mixes. LSPR contains the internal throughput rate ratios (ITRRs) for the z16 and the previous generation processor families. These ratios are based on measurements and projections that use standard IBM benchmarks in a controlled environment. Note: If your software configuration is different from what is described here, the performance results might vary. 3 Traditional online transaction processing workload (formerly known as IMS). 4 Commercial batch with long-running jobs. 5 Low I/O Content Mix Workload. 6 Transaction Intensive Mix Workload. Chapter 12. Performance 459 The throughput that any user experiences can vary depending on the amount of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.248363",
+    "chunk_number": 1073,
+    "word_count": 148
+  }
+}

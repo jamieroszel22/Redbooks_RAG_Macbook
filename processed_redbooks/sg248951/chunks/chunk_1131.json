@@ -1,0 +1,18 @@
+{
+  "content": "and 5655-W44) and IBM SDK 7 for z/OS Java provides the use of the zEDC Express feature and Shared Memory Communications-Remote Direct Memory Access (SMC-R), which is used by the 10 GbE RoCE Express feature. For more information about how to implement and use the IBM Z compression features, see Reduce Storage Occupancy and Increase Operations Efficiency with IBM zEnterprise Data Compression, SG24-8259. IBM Z Batch Network Analyzer IBM Z Batch Network Analyzer (zBNA) is a no-charge, \u201cas-is\u201d tool. It is available to customers, IBM Business Partners, and IBM employees. zBNA is based on Microsoft Windows. It provides graphical and text reports, including Gantt charts, and support for alternative processors. zBNA can be used to analyze client-provided System Management Facilities (SMF) records to identify jobs and data sets that are candidates for zEDC and IBM z16 On-Chip Compression across a specified time window (often a batch window). zBNA can generate lists of data sets by the following",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.372945",
+    "chunk_number": 1131,
+    "word_count": 157
+  }
+}

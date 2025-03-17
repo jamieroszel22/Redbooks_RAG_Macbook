@@ -1,0 +1,18 @@
+{
+  "content": "Applicability assessment, as seen in Figure 5-6, should also be completed by the use case owner as part of the Initial Approval stage of the use case assessment workflow. Figure 5-6 Applicability Assessment Workflow as seen in the watsonx.governance console This assessment enables the use case owner to assess their AI use cases using a simple dynamic questionnaire that aids in determining whether a use case is in scope for government regulations (such as the EU AI Act) and which risk category the use case aligns to (Prohibited, High, Limited, Minimal, Out of Scope) as seen in Figure 5-7. Figure 5-7 Dynamic assignment of risk category based on applicability assessment Chapter 5. Assessing a new use case 59 The questionnaire to determine the risk category follows a \u201cif this then that\u201d selection structure as seen in Figure 5-8. Figure 5-8 The questionnaire to determine the risk category 60 Ensuring Trustworthy AI with IBM watsonx.governance \u00a9 Copyright IBM Corp. 2025. 61 Chapter 6.",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.060968",
+    "chunk_number": 163,
+    "word_count": 162
+  }
+}

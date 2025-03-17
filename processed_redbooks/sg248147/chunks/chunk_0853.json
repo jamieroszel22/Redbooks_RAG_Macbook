@@ -1,0 +1,18 @@
+{
+  "content": "results from the commands, so no modules with the string appldata are loaded. Load those modules by using the modprobe command and verify that they were loaded: # modprobe appldata_mem # modprobe appldata_os # modprobe appldata_net_sum 4. If you repeat the lsmod command, you will see the following output: # lsmod | grep appldata appldata_net_sum 1966 0 appldata_os 2989 0 appldata_mem 2008 0 The directory in the virtual /proc/ file system where the monitoring variables exist is /proc/sys/appldata/. In this directory, five files exist: timer Controls whether any data gathering is in effect interval Sets the interval, in milliseconds, during which samples are taken mem Controls the memory data gathering module os Controls the CPU data gathering module net_sum Controls the net data gathering module 5. To turn on the built-in kernel monitoring, use the echo command to send a nonzero value into four of the five monitoring variables in the /proc/ virtual file system: # echo 1 >",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.495833",
+    "chunk_number": 853,
+    "word_count": 159
+  }
+}

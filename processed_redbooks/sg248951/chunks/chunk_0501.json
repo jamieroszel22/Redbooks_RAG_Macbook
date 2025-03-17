@@ -1,0 +1,18 @@
+{
+  "content": "types of devices in another subchannel set, with proper APAR or PTF installed: \u0002 Alias devices of the parallel access volumes (PAV). \u0002 Secondary devices of GDPS Metro Mirror Copy Service (formerly Peer-to-Peer Remote Copy [PPRC]). \u0002 IBM FlashCopy\u00ae SOURCE and TARGET devices with program temporary fix (PTF) OA46900. \u0002 Db2 data backup volumes with PTF OA24142. The use of another subchannel set for these special devices helps reduce the number of devices in the subchannel set 0, which increases the growth capability for accessing more devices. Initial program load from an alternative subchannel set IBM z16 A01 systems support initial program load (IPL) from alternative subchannel sets in addition to subchannel set 0. Devices that are used early during IPL processing now can be accessed by using subchannel set 1, subchannel set 2, or subchannel set3 on an IBM z16. This configuration allows the users of Metro Mirror (formerly PPRC) secondary devices that are defined by using the same device",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.168227",
+    "chunk_number": 501,
+    "word_count": 161
+  }
+}

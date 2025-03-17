@@ -1,0 +1,18 @@
+{
+  "content": "where suitable. The TUNE(14) compiler option allows the compiler to tune for any IBM z16 micro-architecture. Vector programming support is extended for IBM z16 to provide access to the new instructions that were introduced by the VEF 27 specification. Older levels of z/OS XL C/C++ compilers do not provide IBM z16 exploitation; however, the z/OS V2R5 XL C/C++ compiler can be used to generate code for the older levels of z/OS running on IBM z16. The followings compilers include built-in functions for SIMD: \u0002 IBM Java \u0002 XL C/C++ \u0002 Enterprise COBOL \u0002 Enterprise PL/I Code must be developed to use the SIMD functions. Applications with SIMD instructions abend if they run on a lower hardware level system that do not support SIMD. Some mathematical function replacement can be done without code changes by including the scalar MASS library before the standard math library. Because the MASS and standard math library include different accuracies, assess the accuracy of the functions in the context",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.833339",
+    "chunk_number": 659,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Security (SSL/TLS) transactions. \u0002 Provide on-chip compression. Every PU chip design incorporates a compression unit, which is the IBM Integrated Accelerator for z Enterprise Data Compression (zEDC). This configuration is different from the CMPSC (Compression Coprocessor) that is implemented in each core. \u0002 Provide a new dedicated on-chip integrated AI Accelerator for high-speed inference to enable real-time AI embedded directly in transactional workloads, and improvements for performance, security, and availability. \u0002 Be self-managing and self-optimizing, adjusting itself when the workload changes to achieve the best system throughput. This process can be done by using the Intelligent Resource Director or the Workload Manager functions, which are assisted by HiperDispatch. \u0002 Have a balanced system design with pervasive encryption, which provides large data rate bandwidths for high-performance connectivity along with processor and system capacity, while having the capability of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.012989",
+    "chunk_number": 209,
+    "word_count": 137
+  }
+}

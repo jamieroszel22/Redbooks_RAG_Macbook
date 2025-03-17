@@ -1,0 +1,18 @@
+{
+  "content": "TFP-Hardware calculations. The red line is the customer owned capacity (or Base capacity). The light green line shows the activated capacity of the machine, as reported by Sub-Capacity Reporting Tool (SCRT). As shown in Figure D-2, some of the blue bars reach above the red line, into the corridor between the red line and light green lines, which represents the TFP-Hardware capacity. Therefore, use over the customer\u2019s owned (Purchased) capacity is measured, so a Usage charge is incurred. If no use is measured over the customer\u2019s owned (Purchased) capacity, no Usage charge is incurred. In addition to the Usage charge, which might not be relevant, a Subscription charge also can be assessed. The Subscription charge is a flat, per system, per month payment that is based on the amount of TFP-Hardware capacity that is provided on the system. The Subscription charge is invoiced prepaid for the contract term or postpaid monthly. 518 IBM z16 (3931) Technical Guide Because only entire engines",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.399461",
+    "chunk_number": 1143,
+    "word_count": 161
+  }
+}

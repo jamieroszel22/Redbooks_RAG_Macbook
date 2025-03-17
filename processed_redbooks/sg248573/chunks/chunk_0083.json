@@ -1,0 +1,18 @@
+{
+  "content": "up an organization for the value generation benefits mentioned in that paragraph. 2.4.4 Synergy between watsonx.data and watsonx.governance IBM watsonx.data and IBM watsonx.governance provide a holistic solution for organizations. While watsonx.data focuses on data analysis and AI workloads, watsonx.governance ensures that all data is managed responsibly, securely, and in compliance with relevant regulations. By combining the strengths of both components, organizations can develop a unified data strategy that balances innovation with accountability. 2.4.5 Synergy between watsonx.ai and watsonx.governance The synergy between IBM watsonx.ai and IBM watsonx.governance makes it easy for AI developers to contribute to AI governance processes. The integration between the two components automates even more of the work, for example: \u0002 Model metadata is automatically captured. \u0002 Model evaluations can be easily set up from their development workspaces (UI or programmatic). 22 Ensuring",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.765992",
+    "chunk_number": 83,
+    "word_count": 135
+  }
+}

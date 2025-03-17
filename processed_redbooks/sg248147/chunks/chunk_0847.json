@@ -1,0 +1,18 @@
+{
+  "content": "MONSCAN. The following example uses the MAINT user ID. Complete the following steps: 1. Link and access PERFSVM\u2019s 201 minidisk: ===> vmlink perfsvm 201 DMSVML2060I PERFSVM 201 linked as 0120 file mode Z 2. Link and access MONWRITE\u2019s 191 minidisk: ===> vmlink monwrite 191 DMSVML2060I MONWRITE 191 linked as 0121 file mode X 3. Check that the files are available from MONWRITE: ===> filel * * x MAINT FILELIST A0 V 169 Trunc=169 Size=4 Line=1 Col=1 Alt=0 Cmd Filename Filetype Fm Format Lrecl Records Blocks Date Time D061020 T084824 X1 F 4096 53930 53930 6/10/20 9:20:43 PROFILE EXEC X1 V 65 3 1 6/10/20 8:48:21 4. Run the MONSCAN subcommand: ===> perfkit monscan D061020 T084824 X Chapter 12. Monitoring z/VM and Linux 393 The regular Performance Screen Selection window opens (see Figure 12-5). Figure 12-5 Performance Screen Selection window FCX124 Performance Screen Selection (FL720 ) Monitor Scan General System Data I/O Data History Data (by Time) 1. CPU load and trans. 11. Channel load 31.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.479692",
+    "chunk_number": 847,
+    "word_count": 165
+  }
+}

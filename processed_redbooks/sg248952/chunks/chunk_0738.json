@@ -1,0 +1,18 @@
+{
+  "content": "be installed in the PCIe I/O drawer, which is supported by the 16 GBps PCIe Gen3 host bus. The performance characteristics are comparable to the OSA-Express5S features and they also retain the same form factor and port granularity. Each adapter can be configured in the following modes: \u0002 QDIO mode, with CHPID types OSD \u0002 Non-QDIO mode, with CHPID type OSE \u0002 Local 3270 emulation mode, including OSA-ICC, with CHPID type OSC The supported operating systems are listed in Table 7-8 on page 255 and Table 7-9 on page 257. OSA-Integrated Console Controller The OSA-Express 1000BASE-T Ethernet features provide the Integrated Console Controller (OSA-ICC) function, which supports TN3270E (RFC 2355) and non-SNA DFT 3270 emulation. The OSA-ICC function is defined as CHPID type OSC and console controller, and includes multiple LPAR support as shared or spanned channels. With the OSA-ICC function, 3270 emulation for console session connections is integrated in the IBM z16 A02 and IBM z16 AGZ through",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.117066",
+    "chunk_number": 738,
+    "word_count": 159
+  }
+}

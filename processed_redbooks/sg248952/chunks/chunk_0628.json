@@ -1,0 +1,18 @@
+{
+  "content": "VCHID. Therefore, the IBM z16 A02 and IBM z16 AGZ IOCP definitions must be migrated to support the HiperSockets definitions (CHPID type IQD). VCHID specifies the virtual channel identification number that is associated with the channel path (valid range is 7C0 - 7FF). VCHID is not valid on IBM Z before IBM z13. e. Applicable to guest operating systems. f. Shared Memory Communications - Direct Memory Access. g. SMC-R and SMC-D are supported on Linux kernel; see: https://linux-on-z.blogspot.com/p/smc-for-linux-on-ibm-z.html h. Remote Direct Memory Access (RDMA) over Converged Ethernet. i. Linux can also use RocE Express as a standard NIC (Network Interface Card) for Ethernet. j. Does not require a peer OSA. k. Statements of Direction: IBM z16 A02 and IBM z16 AGZ server generation will be the last IBM Z server to support OSA Express 1000BASE-T hardware adapters l. Statements of Direction: IIBM z16 A02 and IBM z16 AGZ server generation will be the last IBM Z server to support the OSE",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.712048",
+    "chunk_number": 628,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "This comparison is based on the Large System Performance Reference (LSPR) mixed workload analysis. The range of performance ratings across the individual LSPR workloads is likely to have a large spread. More performance variation of individual logical partitions (LPARs) is available when an increased number of partitions and more PUs are available. For more information, see Chapter 12, \u201cPerformance\u201d on page 455. For more information about performance, see the LSPR website. For more information about millions of service units (MSUs) ratings, see the IBM Z Software Contracts website. 1.2.3 Supported operating systems The IBM z16 A02 and IBM z16 AGZ are supported by a large set of software products and programs, including independent software vendor (ISV) applications. Use of various features might require the latest releases. The following operating systems are supported on the IBM z16 A02 and IBM z16 AGZ: \u0002 z/OS Version 2 Release 5 with PTFs \u0002 z/OS Version 2 Release 4 with PTFs \u0002 z/OS",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.461948",
+    "chunk_number": 85,
+    "word_count": 159
+  }
+}

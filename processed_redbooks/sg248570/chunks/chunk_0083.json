@@ -1,0 +1,18 @@
+{
+  "content": "semi-structured data into the lakehouse. The following are key considerations: \u0002 Data quality and governance: Ensures data is accurate, consistent, and compliant with governance policies before ingestion. \u0002 Workflow orchestration: Simplifies complex ETL workflows and supports dependency management between tasks. \u0002 Error handling: Offers robust logging and error-handling mechanisms to ensure data pipeline reliability. \u0002 Integration: Interfaces well with data lakes, data warehouses, and third-party systems for seamless data flow. \u0002 Reusability: Reusable jobs and transformations improve development speed and maintainability. 2.4.3 StreamSets: Real-time data integration and monitoring StreamSets is a powerful platform for real-time data integration and monitoring. It facilitates continuous data ingestion from multiple sources into the lakehouse. The following are the key considerations: \u0002 Streaming pipelines: Supports real-time ingestion with minimal latency, critical for time-sensitive",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.666384",
+    "chunk_number": 83,
+    "word_count": 128
+  }
+}

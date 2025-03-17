@@ -1,0 +1,18 @@
+{
+  "content": "IBM system Service Representative at installation time. \u0002 If DPM is enabled, the IBM z16 system cannot run z/OS, IBM z/VSE, and z/TPF LPARs. \u00a9 Copyright IBM Corp. 2022. All rights reserved. 453 Chapter 11. Environmental requirements This chapter describes the environmental requirements for IBM z16 servers. It also lists the dimensions, weights, power, and cooling requirements that are needed to plan for the installation of an IBM z16. This chapter includes the following topics: \u0002 11.1, \u201cIntroduction\u201d on page 454 \u0002 11.3, \u201cPhysical specifications\u201d on page 463 \u0002 11.4, \u201cPhysical planning\u201d on page 464 \u0002 11.5, \u201cEnergy management\u201d on page 468 11 Naming: Throughout this chapter, IBM z16 refers to IBM z16 Model A01 (Machine Type 3931), unless otherwise specified. 454 IBM z16 (3931) Technical Guide 11.1 Introduction The following options are available for physically installing the server: \u0002 Air or water cooling \u0002 Power Distribution Unit (PDU) or Bulk Power Assembly (BPA) for power \u0002 On a raised",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.153334",
+    "chunk_number": 1046,
+    "word_count": 160
+  }
+}

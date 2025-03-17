@@ -1,0 +1,18 @@
+{
+  "content": "cryptographic coprocessor. It is separate from the Common Cryptographic Architecture (CCA) firmware that is loaded when a CCA coprocessor is selected. CCA firmware and PKCS #11 firmware cannot coexist in a card. The Trusted Key Entry (TKE) Workstation with smart card reader feature is required to support the administration of the Crypto Express8S when configured as an Enterprise PKCS #11 coprocessor. To support the new Crypto Express8S card, the TKE 10.0 is needed. An example of the Cryptographic Configuration window is shown in Figure 10-34. Figure 10-34 Cryptographic Configuration window The Usage Domain Zeroize task is provided to clear the appropriate partition crypto keys for a usage domain when you remove a crypto card from a partition. Crypto Express8/7/6S in EP11 mode is configured to the standby state after the zeroize process. Chapter 10. Hardware Management Console and Support Element 437 For more information, see IBM z16 Configuration Setup, SG24-8960. Digitally signed",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.141889",
+    "chunk_number": 1038,
+    "word_count": 152
+  }
+}

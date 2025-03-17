@@ -1,0 +1,18 @@
+{
+  "content": "automated handling of messages on common situations. It removes the need of operational personal to interpret the messages and to take the correct action. By using pattern matching, Operations Manager can take actions immediately, without the need of a human operator. It provides fast action and fast notifications. By monitoring system metrics and user logs, Operations Manager can take action whenever any message is received or any metric meets a predefined threshold. On events that require manual intervention, Operations Manager can send alerts with no delay. 4.4 Backup and Restore Manager A system backup is required to reduce the downtime that results from hardware failures or operational mistakes. By using Backup and Restore Manager for z/VM, different types of backups can be performed, depending on the operational needs. By running inside z/VM, it allows for backups to be taken while the system is running, without the need to shut down the system. A replica is not a backup. A",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.147325",
+    "chunk_number": 252,
+    "word_count": 159
+  }
+}

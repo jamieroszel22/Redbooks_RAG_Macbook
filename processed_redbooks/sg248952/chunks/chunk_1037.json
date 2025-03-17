@@ -1,0 +1,18 @@
+{
+  "content": "include standard cryptographic hardware and optional cryptographic features for flexibility and growth capability. The HMC/SE interface provides the following capabilities: \u0002 Defining the cryptographic controls \u0002 Dynamically adding a Crypto feature to a partition for the first time \u0002 Dynamically adding a Crypto feature to a partition that already uses Crypto \u0002 Dynamically removing a Crypto feature from a partition The Crypto Express8S, which is a new Peripheral Component Interconnect Express (PCIe) cryptographic coprocessor, is an optional IBM z16 A02 and IBM z16 AGZ exclusive feature. Crypto Express8S provides a secure programming and hardware environment on which crypto processes are run. Each Crypto Express8S adapter can be configured by the installation as a Secure IBM CCA coprocessor, a Secure IBM Enterprise Public Key Cryptography Standards (PKCS) #11 (EP11) coprocessor, or an accelerator. When EP11 mode is selected, a unique Enterprise PKCS #11 firmware is loaded into the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.138030",
+    "chunk_number": 1037,
+    "word_count": 147
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "or 0058 LICC 0877 0878 0879 0880 0881 0882 Smart Card Read- er 0891 0891 0895 0895 0895 0891 Smart Card 0892 0892 0892 0892 0892 0900 Manage Host Crypto Module CEX8C (CCA) No No No No No Yes CEX8P (EP11) No No No No No Yes CEX7C (CCA) No No No No Yes Yes CEX7P (EP11) No No No No Yes Yes CEX6C (CCA) No No Yes Yes Yes Yes CEX6P (EP11) No No Yes Yes Yes Yes Attention: The TKE is unaware of the CPC type where the host crypto module is installed. That is, the TKE does not consider whether a Crypto Express is running on IBM z16, IBM 15, or IBM z14 system. Therefore, the LIC can support any CPC where the coprocessor is supported, but the TKE LIC must support the specific crypto module. 242 IBM z16 (3931) Technical Guide 6.7 Cryptographic functions comparison The functions or attributes on IBM z16 for the two cryptographic hardware features are listed in Table 6-4, where \u201cX\u201d indicates that the function or attribute is supported. Table 6-4 Cryptographic functions on IBM z16 Functions or",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.549541",
+    "chunk_number": 590,
+    "word_count": 186
+  }
+}

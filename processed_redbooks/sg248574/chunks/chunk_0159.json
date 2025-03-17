@@ -1,0 +1,18 @@
+{
+  "content": "data serves as a proxy for real-world data, which enables InstructLab to adapt to niche topics or specialized knowledge areas without requiring the collection of large-scale, expensive datasets. The synthetic data can also be customized and controlled by the SME, which means that they can influence the generation process to help ensure that the model is trained on the most important or critical examples. The ability to generate synthetic training data directly from taxonomies is what makes InstructLab so efficient: It drastically reduces the need for large-scale manual data curation and opens. Furthermore, it solves the ever-existing problem of not having enough data for fine-tuning a model that is tailored for a particular business need in the generative AI (gen AI) era. The InstructLab approach is built around iterative feedback and instruction training, which are two techniques that further streamline the fine-tuning process. Instruction training involves providing LLMs with",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.816537",
+    "chunk_number": 159,
+    "word_count": 149
+  }
+}

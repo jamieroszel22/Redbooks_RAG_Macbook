@@ -1,0 +1,18 @@
+{
+  "content": "channel RAIM algorithm and written to the eight DIMMs forming a RAIM group, and the data is decrypted after being read from the DIMMs. For encryption and decryption, an AES algorithm is used, which is executed in the Memory Control Unit (MCU). The encryption key is unique per memory channel. Since the RAIM design uses eight channels to control the eight DIMMs in a group, the data on every DIMM in a group is encrypted with another key. The keys are generated once per IML, stored in the MCU, and locked against alteration, so the key values are Error Correction Code (ECC) protected. Since the encryption and decryption occur between RAIM error correction and memory, an encryption and decryption error is confined to a single memory channel. Encryption and decryption contain parity information to detect errors. Unauthorized physical access to the DIMMs will only deliver data which is distributed across eight DIMMs and encrypted with eight different keys. 2.5.4 Memory configurations Memory",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.785523",
+    "chunk_number": 154,
+    "word_count": 162
+  }
+}

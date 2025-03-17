@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . 49 4.1.5 Implementing group-based access in IBM watsonx.data . . . . . . . . . . . . . . . . . . . 49 4.2 Defining roles and responsibilities. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50 4.2.1 The architectural design for RLAC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50 4.2.2 Platform roles and instance roles in IBM watsonx.data . . . . . . . . . . . . . . . . . . . . 51 4.2.3 Resource-level roles and permissions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52 4.2.4 Best practices for resource-level role management . . . . . . . . . . . . . . . . . . . . . . . 53 4.3 Establishing ACLs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53 4.3.1 Role-based ACL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53 4.3.2 Policy-based ACL . . . . . . . . . . . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.375973",
+    "chunk_number": 9,
+    "word_count": 361
+  }
+}

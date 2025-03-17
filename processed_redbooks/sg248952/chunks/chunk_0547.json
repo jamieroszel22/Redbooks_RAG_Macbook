@@ -1,0 +1,18 @@
+{
+  "content": "and CCA 6.7 improvements \u0002 German banking API updates for program currency Consideration: CCA features a new code level starting with z13/z13s systems, and the UDX clients require a new UDX. Chapter 6. Cryptographic features 221 \u0002 X9.23 random padding for AES encryption for important cryptographic operation protection \u0002 Enhanced triple length TDES PIN encryption key support for PIN change workloads \u0002 New service to compare encrypted PINs, required for ISO 4 PIN block verification inside the HSM \u0002 EC SDSA signature support useful for new EMV certificate formats \u0002 PKCS#11 update to CCA API export of AES and RSA keys using RSA public key and AES ephemeral keys, for key exchange with Cloud service key management APIs \u0002 Australian Payment Network Acquirer function for key derivation and MAC chaining added for interoperability with Australian audited payment networks CCA 7.3 and CCA 6.6 improvements \u0002 WRAPENH3 Enhanced Wrapping Method for TDES key tokens CCA 7.2 and CCA 6.5 improvements \u0002",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.347830",
+    "chunk_number": 547,
+    "word_count": 160
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "administrator. Device in subchannel set 0 and extra subchannel sets An LCSS always includes the first subchannel set (SSID 0), which can have up to 63.75 K subchannels with 256 subchannels that are reserved by the channel subsystem. Users can always define their I/O devices in this subchannel set for general use. For the extra subchannel sets enabled by the MSS facility, each has 65535 subchannels (64 K minus one) for specific types of devices. These extra subchannel sets are referred as alternative subchannel sets in z/OS. Also, a device that is defined in an alternative subchannel set is considered a special device, which normally features a special device type in the I/O configuration. Currently, an IBM z16 A02 or IBM z16 AGZ that is running z/OS defines the following types of devices in another subchannel set, with proper APAR or PTF installed: \u0002 Alias devices of the parallel access volumes (PAV). \u0002 Secondary devices of GDPS Metro Mirror Copy Service (formerly Peer-to-Peer Remote",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.097701",
+    "chunk_number": 483,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "benefit Out-of-Order execution. The processor design features advanced micro-architectural innovations that provide the following benefits: \u0002 Maximized instruction-level parallelism (ILP) for a better cycles per instruction (CPI) design. \u0002 Maximized performance per watt. \u0002 Enhanced instruction dispatch and grouping efficiency. \u0002 Increased Out-of-Order) resources, such as Global Completion Table entries, physical GPR entries, and physical FPR entries. \u0002 Improved completion rate. \u0002 Reduced cache/TLB miss penalty. \u0002 Improved execution of D-Cache store and reload and new Fixed-point divide. \u0002 New Operand Store Compare (OSC) (load-hit-store conflict) avoidance scheme. \u0002 Enhanced branch prediction structure and sequential instruction fetching. Program results The Out-of-Order execution does not change any program results. Execution can occur out of (program) order, but all program dependencies are accepted, and the same results are seen as in-order (program) execution. The design was",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.089240",
+    "chunk_number": 230,
+    "word_count": 134
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Upgrade + 8 CPs & +2 IFL IBM z16 M/T 3932, Max32, MCI A20 (4 PU DCMs) CP CP CP CP CP CP CP CP CP CP CP CP PU PU PU PU CP CP CP CP CP CP CP CP PU PU PU PU PU PU IFL IFL 334 IBM z16 A02 and IBM z16 AGZ Technical Guide In the example that is shown in Figure 8-3 on page 333 it an IBM z16 A02 with an MCI A08. An upgrade to an MCI A12 is current, as with a Max16 you have in total 16 PUs to characterize. The next upgrade step from A12 to A20 and additional 2 IFLs is non-concurrent, as you need additional PUs to fulfil the 20 CPs and 2 IFLs. The next possible Max feature is Max32. To reach the 32 PUs, additional physical HW (two additional DCMs) has to be non-concurrently installed. The number of processors that are supported by various operating systems releases are listed in Table 8-3. Table 8-3 Number of processors that are supported by operating system Software charges, which are based on the total capacity of the system on which the software is installed, are adjusted to the new capacity",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.425834",
+    "chunk_number": 832,
+    "word_count": 202
+  }
+}

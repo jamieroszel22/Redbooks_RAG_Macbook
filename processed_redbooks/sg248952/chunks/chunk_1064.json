@@ -1,0 +1,18 @@
+{
+  "content": "Energy Optimization Advisor Chapter 11. Environmentals 451 Monitors Dashboard task In IBM z16 A02 and IBM z16 AGZ, the Monitors Dashboard task in the Monitor task group provides a tree-based view of resources. Multiple graphical views display data, including history charts. This task monitors processor and channel usage. It produces data that includes power monitoring information, power consumption, and the air input temperature for the server. An example of the Monitors Dashboard task is shown in Figure 11-8. Figure 11-8 Monitors Dashboard task Expand for CPC details 452 IBM z16 A02 and IBM z16 AGZ Technical Guide Environmental Efficiency Statistics task The Environmental Efficiency Statistics task (see Figure 11-9) has been redesigned and renamed to Environmental Dashboard. See next topic. Figure 11-9 Environmental Efficiency Statistics task The data is presented in table format and graphical \u201chistogram\u201d format. The data can also be exported to a .csv-formatted file so that the data",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.223231",
+    "chunk_number": 1064,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "support statements for IBM z16 also cover the KVM hypervisor on distribution levels that have KVM support. Chapter 6. Cryptographic features 245 For more information about the minimum required and recommended distribution levels, see the IBM Z website. 6.8.3 Crypto Express8S support of greater than 16 domains The following prerequisites must be met to support more than 16 domains: \u0002 z/OS V2.5 \u0002 z/OS V2.4 with PTFs \u0002 z/OS V2.3 with PTFs \u0002 z/OS V2.2 with the Enhanced Cryptographic Support for z/OS V1.13-V2.2 Web deliverable installed \u0002 z/VM V7.1 and V7.2 for guest use \u0002 z/VSE V6.2 with PTFs \u0002 Linux on IBM Z: \u2013 SUSE SLES 15 SP1 with service, SUSE SLES 12 SP4 with service, and SUSE SLES 11 SP4 with service. \u2013 Red Hat RHEL 8.0 with service, Red Hat RHEL 7.7 with service, and Red Hat RHEL 6.10 with service. \u2013 Ubuntu 18.04.1 LTS with service and Ubuntu 16.04.6 LTS with service. \u2013 The support statements for IBM z16 also cover the KVM hypervisor on distribution levels that have KVM support.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.568496",
+    "chunk_number": 596,
+    "word_count": 175
+  }
+}

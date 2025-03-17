@@ -1,0 +1,18 @@
+{
+  "content": "transfer and store data. The secure communication between SEs and HMAs, as well as the secure communication from HMA to the outside is described in Chapter 10, \u201cHardware Management Console and Support Element\u201d on page 393. The communication to consoles attached to an OSA-Express 1000BaseT Ethernet feature or to an OSA-Express GbE feature running in OSA-ICC mode can be secured by using Transport Layer Security/Secure Sockets Layer (TLS/SSL) with Certificate Authentication. This is described in chapter 7.4.5, \u201cNetworking features and functions\u201d on page 292. Encrypting the data traffic between a storage control unit and a FICON port in the IBM z16 A02 and IBM z16 AGZ by using IBM Fibre channel Endpoint Security is shortly described in 4.6.2, \u201cStorage connectivity\u201d on page 157. Together with the new memory RAIM design the usage of memory encryption is implemented in the IBM z16 A02 and IBM z16 AGZ. This is described in 2.5.3, \u201cMemory Encryption\u201d on page 45. 6.9.1 Validated boot IBM z16",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.519414",
+    "chunk_number": 586,
+    "word_count": 161
+  }
+}

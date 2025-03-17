@@ -1,0 +1,18 @@
+{
+  "content": "credentials are used: \u2013 Hostname: localhost \u2013 Port: 8443 \u2013 Username: ibmlhadmin \u2013 Password: password \u2013 Database: tpch \u2013 SSL: True \u2013 SSLTrustStorePath: /certs/presto-key.jks \u2013 SSLTrustStorePassword: watsonx.data Note: The IBM watsonx.data Presto database prioritizes secure communication. To achieve this goal, it relies on a client-side certificate for authentication. This certificate acts as a digital key that verifies your identity when connecting to the database. When using a Jupyter Notebook environment with IBM watsonx.data Presto, the certificate is available within a dedicated notebook that is named Credentials, as shown in Figure 3-2. This notebook contains links for downloading the necessary certificate files. 32 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 4. In the following settings, replace the Hostname and Port placeholders with the values from your TechZone reservation. Here are the database connection settings \u2013 Hostname:",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.710952",
+    "chunk_number": 96,
+    "word_count": 139
+  }
+}

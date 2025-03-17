@@ -1,0 +1,18 @@
+{
+  "content": "Dispatcher can use up to 4 CPs, and tolerates up to 10-way LPARs z/TPF V1R1 86 CPs CFCC Level 25 16 CPs or ICFs (CPs and ICFs cannot be mixed) Linux on IBM Z SUSE Linux Enterprise Server 12 and later: 256 CPs or IFLs. Red Hat RHEL 7 and later: 256 CPs or IFLs. Ubuntu 20.04.1 LTS and later: 256 CPs or IFLs. KVM Hypervisor The KVM hypervisor is offered with the following Linux distributions -- 256CPs or IFLs--: SLES 12 SP5 and later RHEL 7.9 and later Ubuntu 20.04.1 LTS and later Secure Service Container 80 GDPS Virtual Appliance 80 262 IBM z16 A02 and IBM z16 AGZ Technical Guide Table 7-13 Maximum memory that is supported by the operating system IBM z16 A02 and IBM z16 AGZ - Up to 40 LPARs The IBM z16 A02 and IBM z16 AGZ can be configured with up to 40 LPARs (same as previous air cooled systems). Because channel subsystems can be shared by up to 15 LPARs, it is necessary to configure three channel subsystems to reach the 40 LPARs limit. Dynamic PU add Planning an LPAR configuration",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.737095",
+    "chunk_number": 634,
+    "word_count": 189
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "emulator \u0002 IBM host access client \u0002 Host emulator \u0002 zSeries terminal client Linux We recommend the use of x3270 or c3270 to provide this function. Both of these programs, and several other related programs that are part of the overall x3270 suite, are available in the official repositories for Alpine, CentOS, ClefOS, Debian, OpenSUSE, RHEL, SLES, and Ubuntu. MacOS We recommend the use of x3270 or c3270 to provide this function. Both of these programs, and several other related programs that are part of the overall x3270 suite, are available by way of MacPorts and Homebrew. If you cannot use MacPorts or Homebrew, the installation code can be found at the x3270 web page. Note: The programs or products that are included in this appendix are not endorsed, nor is their fitness for intended purpose warranted in any way by the authors or publishers of this book. Appendix A. Configuring a workstation to deploy and administer z/VM 463 Windows Although many options are available for Windows,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.887793",
+    "chunk_number": 973,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . 98 7.6 Case study: Improving data discoverability for faster decision-making in the retail sector 98 7.6.1 Use case: Unified data access across retail functions . . . . . . . . . . . . . . . . . . . . . 98 Chapter 8. Marketing campaign analysis use case . . . . . . . . . . . . . . . . . . . . . . . . . . . 101 8.1 Use case introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102 8.2 Data ingestion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102 8.2.1 Locating the marketing campaign data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102 8.2.2 Setting up the internal spark engine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 106 8.2.3 Configure storage and catalog in IBM watsonx.data. . . . . . . . . . . . . . . . . . . . . . 108 8.2.4 Connecting query engines to catalog and storage in IBM",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.394493",
+    "chunk_number": 14,
+    "word_count": 331
+  }
+}

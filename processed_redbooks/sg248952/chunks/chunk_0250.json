@@ -1,0 +1,18 @@
+{
+  "content": "requirements for better performance, precision, and function. Base 10 arithmetic is used for most business and financial computation. Floating point computation that is used for work that is typically done in decimal arithmetic involves frequent data conversions and approximation to represent decimal numbers. This process makes floating point arithmetic complex and error-prone for programmers who use it for applications in which the data is typically decimal. Hardware DFP computational instructions provide the following features: \u0002 Data formats of 4, 8, and 16 bytes \u0002 An encoded decimal (base 10) representation for data 96 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Instructions for running decimal floating point computations \u0002 An instruction that runs data conversions to and from the decimal floating point representation Benefits of the DFP accelerator The DFP accelerator offers the following benefits: \u0002 Avoids rounding issues, such as those issues that occur with binary-to-decimal",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.162612",
+    "chunk_number": 250,
+    "word_count": 149
+  }
+}

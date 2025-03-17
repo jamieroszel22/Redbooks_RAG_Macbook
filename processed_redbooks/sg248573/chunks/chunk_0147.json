@@ -1,0 +1,18 @@
+{
+  "content": "was used in training it. PI must be properly handled and safeguarded wherever it is stored or used in the organization. The same safeguards must be applied for models trained on proprietary, intellectual, copyrighted and confidential information. Model providers must implement measures to prevent data leakage during inference. This includes: \u0002 Data minimization: Process only the absolute minimum amount of user data necessary for the model to function. \u0002 Differential privacy: Apply noise to user data or model outputs to enhance privacy and make it difficult to identify or isolate individual contributions. \u0002 Federated learning: Train models collaboratively across multiple decentralized data sources using techniques like federated learning, thereby avoiding the risks associated with centralizing sensitive user data Chapter 4. Onboarding a new foundation model 49 \u0002 Model monitoring: Continuously monitor model behavior for signs of unexpected data leakage or privacy violations. \u0002",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.997792",
+    "chunk_number": 147,
+    "word_count": 143
+  }
+}

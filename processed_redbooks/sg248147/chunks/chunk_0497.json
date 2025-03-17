@@ -1,0 +1,18 @@
+{
+  "content": "previous step for OPERATOR, LGLOPR, and MAINT: ===> dirmaint for operator logonby ... ===> dirmaint for lglopr logonby add edialves mauro vic pwnovak lydiap ... --------------------------------DirMaint LOGONBY---------------------------- Query or update the list of users on the current LOGONBY directory statement. Select one of the following: _ ? (Query) X ADD _ DELETE For ADD or DELETE, fill in one or more Userids: ===> EDIALVES ===> MAURO ===> LYDIAP ===> PWNOVAK ===> VIC ===> ===> ===> Chapter 6. Configuring z/VM 219 You might also choose to bypass the use of the LOGONBY panel by using the ADD subcommand and the list of IDs to add: ===> dirmaint for maint logonby add edialves mauro vic pwnovak lydiap DVHXMT1191I Your LOGONBY request has been sent for processing to DIRMAINT ... Ready; DVHREQ2288I Your LOGONBY request for MAINT at * has been accepted. DVHBIU3450I The source for directory entry MAINT has been updated. DVHBIU3424I The next ONLINE will take place immediately.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.138622",
+    "chunk_number": 497,
+    "word_count": 157
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "following steps: 1. Start a DIRMAINT SEND request for the CMS PROTODIR on file, and then receive the file to your A disk with the new filename of CMSPROTO for editing: ===> dirmaint send cms protodir DVHXMT1191I Your SEND request has been sent for processing to DIRMAINT ... ... RDR FILE 0015 SENT FROM DIRMAINT PUN WAS 3485 RECS ... ... ===> receive 0015 cmsproto = A FILE CMSPROTO PROTODIR A2 created from CMS PROTODIR E2 received from DIRMAINT ... 2. Edit the file so that it looks like Example 6-19: ===> xedit cmsproto protodir A Example 6-19 Edit the file USER CMSPROTO NOLOG 32M 64M G INCLUDE TCPCMSU IPL CMS PARM FILEPOOL VMSYSU AUTOCR COMMAND SET RUN ON Chapter 6. Configuring z/VM 209 DATEFORMAT ISODATE AMDISK 0191 3390 AUTOG 00004 USRWORK MR 3. Send the new PROTODIR file to DirMaint for filing: ===> dirmaint file cmsproto protodir A ... DVHRCV3821I File CMSPROTO PROTODIR A has been received; RC = 0. DVHXMT1191I Your FILE request ... has completed; with RC = 0. 4. Erase the temporary",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.063331",
+    "chunk_number": 476,
+    "word_count": 176
+  }
+}

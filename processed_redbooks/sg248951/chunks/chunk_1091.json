@@ -1,0 +1,18 @@
+{
+  "content": "CPU MF counter data. CPU overhead of CPUMF is minimal. Also, the amount of SMF 113 record is 1% of typical SMF 70 and 72 which RMF writes. CPU MF and HIS can by used for deciding workload type and other purposes. For example, starting with z/OS V2R1, you can record Instruction Counts in SMF type 30 record when you activate CPU MF. Therefore, we strongly recommend that you always activate CPU MF. For more information about getting CPUMF counter data, see CPU MF - 2022 Update and WSC Experiences at the IBM Techdoc Library website. 12.8 Workload performance variation As the size of transistors approaches the size of atoms that stand as a fundamental physical barrier, a processor chip\u2019s performance can no longer double every two years (Moore\u2019s Law6 does not apply). A holistic performance approach is required when the performance gains are reduced because of frequency. Therefore, hardware and software synergy becomes an absolute requirement. Starting with z13, Instructions Per Cycle (IPC)",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.273665",
+    "chunk_number": 1091,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "default is the user ID where you are issuing the command. CP INDICATE PAGING Run the INDICATE PAGING command to display: \u0002 A list of the virtual machines in page wait status \u0002 The number of pages this user ID has in the expanded storage and auxiliary storage (DASD) 12.1.2 CP Query commands The CP Query commands can be used to display information about the system and users. Another set of z/VM commands helps to get more information about the z/VM system environment and what was set to a specific virtual machine. cp query srm The cp query srm command (see Example 12-2) displays system-wide parameters that are used by the scheduler to set the priority of system resource access. These parameters define the size of the time slice and the access to the resources for different user classes as seen by the scheduler. Each of these parameters has a default setting that is suitable for most environments. The CP SET SRM command is useful if you must control users\u2019 use of resources that depend on",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.344197",
+    "chunk_number": 810,
+    "word_count": 176
+  }
+}

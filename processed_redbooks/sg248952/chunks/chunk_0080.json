@@ -1,0 +1,18 @@
+{
+  "content": "Max5 1 0672 1 - 5 2 2 Max16 1 0673 1 - 16 2 2 Max32 1 0674 1 - 32 4 2 Max68 2 0675 1 - 68 8 2 8 IBM z16 A02 and IBM z16 AGZ Technical Guide to deliver unmatched simplicity and predictability of hardware capacity and software pricing, even in the constantly evolving era of hybrid cloud. \u0002 The IBM z16 A02 and IBM z16 AGZ enhancements in resiliency include a capability called IBM Z Flexible Capacity for Cyber Resiliency. With Flexible Capacity for Cyber Resiliency, you can remotely shift capacity and production workloads between IBM z16 A02 and IBM z16 AGZ systems at different sites on demand with no on-site personnel or IBM intervention. This capability is designed to help you proactively avoid disruptions from unplanned events, as well from planned scenarios such as site facility maintenance. \u0002 IBM z16 A02 and IBM z16 AGZ System Recovery Boost enhancements provide boosted processor capacity and parallelism for specific events. Client-selected middleware starts and restarts to expedite",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.444625",
+    "chunk_number": 80,
+    "word_count": 172
+  }
+}

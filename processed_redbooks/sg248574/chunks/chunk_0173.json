@@ -1,0 +1,18 @@
+{
+  "content": "a model, can run the following command: ilab model download \u2013repository <MODEL-ID> When this command runs, the ilab CLI interacts with the designated repositories to fetch the selected models. By default, the models are stored locally in the ~/.cache/instructlab/models/ directory, which helps ensure efficient reuse because the downloaded models do not need to be fetched again for future operations unless explicitly removed or updated. You can download a non-default LLM from Hugging Face. If a Hugging Face token is required, can add it by running ilab model download \u2013repository <MODEL-ID>, but add the token after the argument -hf-token. You can use OCI-compliant repositories. To do so, log in to the registry and use the following command: ilab model download -rp docker://<MODEL_ID> -rl latest Once the models are downloaded, they can be served locally for inference. ilab supports serving both default and custom models if the system prerequisites are met. To serve models locally, ensure",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.875652",
+    "chunk_number": 173,
+    "word_count": 154
+  }
+}

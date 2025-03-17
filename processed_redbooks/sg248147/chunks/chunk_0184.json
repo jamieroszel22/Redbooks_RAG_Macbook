@@ -1,0 +1,18 @@
+{
+  "content": "Transmission Control Protocol (TCP) uses the MTU for the window size calculation, not the actual application send size. For VSWITCH, an MTU size of 8992 is recommended if possible because an OSA is optimized for use with an 8992 MTU. With synchronous operation, SIGA is required for every packet. You do not encounter packing (stalling due to queuing) from a VSWITCH as you do from a dedicated OSA. For more information about TCP/IP and the z/VM hypervisor, see Appendix B, \u201cReference, cheat sheets, blank worksheets, and education\u201d on page 475. For more information about Open Systems Adapters, see IBM z Systems Connectivity Handbook, SG24-5444. 2.9.5 IBM HiperSockets IBM HiperSockets (HIPERS) are a networking option that is defined in the I/O configuration of the LPAR. This type of network connection provides an internal memory-to-memory connection within one Channel Subsystem (CSS). The main use for this type of network option is as an internal connection between two Z LPARs that are on",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.895883",
+    "chunk_number": 184,
+    "word_count": 160
+  }
+}

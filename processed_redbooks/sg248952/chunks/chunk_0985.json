@@ -1,0 +1,18 @@
+{
+  "content": "(optional HMA feature) and SE functionality shown in Figure 10-15. Figure 10-15 HMC and SE servers (front view) HMC and SE Keyboard Mouse Monitor With IBM z16 A02 and IBM z16 AGZ, a Keyboard Mouse Monitor (KMM) device located in a cubby at the front of the frame can be used to work with the HMCs and SEs. The KMM device information for the IBM z16 A02 are shown in Figure 10-16 on page 410. 410 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 10-16 HMC / SE KMM device For the IBM z16 AGZ, no mounting bracket is shipped. The KMM is expected to be supported by a locally provided (non-IBM supplied) cart. Consider the following points: \u0002 The KMM device is intended to be used by the IBM System Service Representative (SSR) only. In case the remote access to the HMC and SE is not possible, the client can use it as an emergency option. The SEs can be local / on-site managed by the Virtual Support Element Management task, as shown in Figure 10-17. Figure 10-17 Local Virtual Support Element",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.945977",
+    "chunk_number": 985,
+    "word_count": 185
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "IBMVMRAM Note: From this point, if you want to install z/VM VMSSI Cluster, see \u201cInstalling VMSSI\u201d on page 115. If you want to install a stand-alone system, see \u201cInstalling non-SSI z/VM\u201d on page 124. Chapter 5. Installing z/VM 115 5.5 Installing VMSSI The focus of this installation is implementing z/VM VMSSI cluster with 1 - 4 members in 3390 DASDs. We are describing two SSI-members IPL; if you have more members, repeat the instructions of the second member to your third and fourth member. 5.5.1 Copying the in-memory z/VM system to DASD Complete these steps to copy z/VM to DASD: 1. Run the DVDPRIME command. The format is dvdprime dasdtype (source. The left parenthesis that is shown is part of the command and must be included: \u2013 For an installation from an FTP server, the dasdtype is 3390 and the source is server: ===> DVDPRIME 3390 (SERVER \u2013 For an installation from a DVD, the dasdtype is 3390 and the source is DVD: ===> DVDPRIME 3390 (DVD The command completes quickly and you see the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.324394",
+    "chunk_number": 288,
+    "word_count": 175
+  }
+}

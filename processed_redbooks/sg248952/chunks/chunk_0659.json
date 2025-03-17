@@ -1,0 +1,18 @@
+{
+  "content": "\u2013 SUSE SLES 12 SP5 with service \u0002 Red Hat: \u2013 Red Hat RHEL 9.1 \u2013 Red Hat RHEL 8.4 with service \u2013 Red Hat RHEL 7.9 with service \u0002 Ubuntu: \u2013 Ubuntu 22.04 LTS \u2013 Ubuntu 20.04.1 LTS with service The KVM hypervisor is supported on the same Linux on IBM Z distributions in this list. For most current support, see the Linux on IBM Z Tested platforms website. Chapter 7. Operating system support 271 Single-instruction multiple-data The SIMD feature introduces a new set of instructions to enable parallel computing that can accelerate code with string, character, integer, and floating point data types. The SIMD instructions allow a large number of operands to be processed with a single complex instruction. IBM z16 A02 and IBM z16 AGZ are equipped with a set of instructions to improve the performance of complex mathematical models and analytic workloads through vector processing and complex instructions, which can process numerous data with a single instruction. This set of instructions, which is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.828678",
+    "chunk_number": 659,
+    "word_count": 167
+  }
+}

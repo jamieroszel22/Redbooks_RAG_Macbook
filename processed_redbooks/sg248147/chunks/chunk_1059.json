@@ -1,0 +1,18 @@
+{
+  "content": "remove existing network configuration if it exists # - create new network configuration from information in CMS parmfile # - update HOSTNAME, hosts, and resolv.conf 520 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 #+--------------------------------------------------------------------------+ { # delete old configuration rm -f /etc/sysconfig/network/ifcfg-eth0 # setup new configuration if [ -n \"${targetHostname}\" ]; then echo \"Setting hostname to ${targetHostname}\" echo ${targetHostname} > /etc/HOSTNAME fi if [ -n \"${targetDNS}\" ]; then echo \"Setting dns resolver to ${targetDNS}\" sed -i '/nameserver/d' /etc/resolv.conf echo \"nameserver ${targetDNS}\" >> /etc/resolv.conf fi # echo target stuff # will add configuration of different devices when time permits. if [ -n \"${targetIP}\" ]; then echo \"Setting IP address to ${targetIP}\" echo \"STARTMODE='onboot'\" >> /etc/sysconfig/network/ifcfg-eth0 echo \"BOOTPROTO='static'\" >> /etc/sysconfig/network/ifcfg-eth0 echo \"IPADDR='${targetIP}'\" >>",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.180776",
+    "chunk_number": 1059,
+    "word_count": 121
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "correctness cannot be overstated. Transactional reliability underpins critical operations, from processing financial trades to updating inventory counts and handling personal health information. A single corrupted record or partial update can ripple through downstream analytics, misinform decision-makers, violate compliance standards, or damage the organization's reputation. Relational databases have long offered robust transactional support by adhering to ACID principles, as defined below: \u0002 Atomicity: Each transaction is treated as an indivisible unit; it either completes fully or not at all. \u0002 Consistency: All data written adheres to predefined rules, maintaining referential integrity and validity. \u0002 Isolation: Transactions run concurrently without interfering with each other's intermediate states. \u0002 Durability: Completed transactions are permanently recorded, ensuring that committed changes persist even after system failures. These properties created a trustworthy environment for",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.016618",
+    "chunk_number": 175,
+    "word_count": 127
+  }
+}

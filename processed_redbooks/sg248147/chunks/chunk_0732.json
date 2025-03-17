@@ -1,0 +1,18 @@
+{
+  "content": "the cursor over the line of AUTHFOR CONTROL is and issue PF9 to receive it. Then, issue filelist to xedit it and include the SMAPI user IDs that have authorization to issue DirMaint commands: VSMGUARD, VSMWORK1, VSMWORK2, and VSMWORK3: ===> x authfor control a ===> a 10 ALL VSMGUARD * 140A ADGHOPS ALL VSMGUARD * 150A ADGHOPS ALL VSMWORK1 * 140A ADGHOPS ALL VSMWORK1 * 150A ADGHOPS ALL VSMWORK2 * 140A ADGHOPS ALL VSMWORK2 * 150A ADGHOPS ALL VSMWORK3 * 140A ADGHOPS ALL VSMWORK3 * 150A ADGHOPS ===> file 5. Send the files you create to DirMaint and reload the file: ===> dirm file CONFIGSM DATADVH ===> dirm file AUTHFOR CONTROL ===> dirm rldd DirMaint configuration files for SMAPI were created and activated. After DirMaint (or another directory maintenance product) is configured, SMAPI can be enabled and configured. To set up SMAPI, perform the following tasks: 1. Define SMAPI on RACF. 2. Test SMAPI from the Conversational Monitor System (CMS). 3. Test SMAPI from Linux by using smaclient.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.078672",
+    "chunk_number": 732,
+    "word_count": 168
+  }
+}

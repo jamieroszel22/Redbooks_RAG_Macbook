@@ -1,0 +1,18 @@
+{
+  "content": "a new design. It uses the following combinations of Power Supply Units (PSUs), Point of Load (POLs), Voltage Regulator Modules (VRMs), and Processor Power Control Cards (PPCs): \u0002 PSUs: Provide AC conversions to 12V DC bulk/standby power and are installed at the rear of the CPC. There are four PSUs (N+1 redundancy) connected to the PDUs. \u0002 POLs: Five N+2 redundant cards are installed next to the Memory DIMMs. \u0002 VRMs: three modules (N+2 redundancy). Internal BMC Internal BMC BMC CPC Drawers BMC BMC PCIe Drawers HMC Alternate SE / HMA Primary SE / HMA Customer LAN 1 Customer LAN 2 Switch 1 Switch 2 BMC BMC BMC Note: The maximum IBM z16 A02 and IBM z16 AGZ configurations feature two GbE switches, two CPC drawers, and up to three PCIe I/O drawers. Chapter 2. Central processor complex hardware components 37 \u0002 Processor Power Control (PPC) card: Redundant processor power and control cards connect to the CPC trail board. The control function is powered from12V standby that is provided by the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.718759",
+    "chunk_number": 140,
+    "word_count": 171
+  }
+}

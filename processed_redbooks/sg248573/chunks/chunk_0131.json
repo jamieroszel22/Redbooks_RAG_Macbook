@@ -1,0 +1,18 @@
+{
+  "content": "scoring requests and transaction records that a model can process per second. This metric indicates the model's ability to handle a high volume of requests efficiently. The following are additional references: \u0002 Bommasani, R. K. (2024). The Foundation Model Transparency Index v1.1 May2024. arXiv preprint. \u0002 IBM. (n.d.). Responsible Use Guide. Note: AIR-Bench is a benchmark for evaluating robustness against adversarial attacks. It provides a standardized way to measure how well a model resists these attacks. 44 Ensuring Trustworthy AI with IBM watsonx.governance \u0002 Wang, Y. X. (2024). Mmlu-pro: A more robust and challenging multi-task language understanding benchmark. arXiv preprint arXiv:2406.01574. 4.2 Considerations for legal team for approving a new foundation model The Legal Team must have special considerations when approving a new Foundation Model. What kind of license is attached to the foundation model? Who owns the model? Does indemnification apply to the new Foundation Model",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.940427",
+    "chunk_number": 131,
+    "word_count": 147
+  }
+}

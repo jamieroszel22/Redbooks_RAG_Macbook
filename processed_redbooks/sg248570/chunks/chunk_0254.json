@@ -1,0 +1,18 @@
+{
+  "content": "storage and searching with Milvus In RAG, vector storage and searching are crucial for handling embeddings efficiently. Milvus, an open-source vector database designed for AI applications, is highly suited for this purpose due to its performance, scalability, and efficient handling of high-dimensional vector data. Milvus is optimized for large-scale vector storage and retrieval, making it ideal for RAG scenarios where embeddings from extensive document corpora need to be managed and queried. Milvus supports distributed storage like AWS S3, IBM Cloud Object Storage, MinIO to store vector data, ensuring it can manage both large-scale storage and parallel processing. As data volume grows, additional compute nodes can be added to maintain performance. Embeddings used in RAG models are often high-dimensional, with hundreds to thousands of dimensions. Milvus supports these high-dimensional vectors, leveraging Approximate Nearest Neighbor (ANN) search algorithms to perform fast and accurate",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.323213",
+    "chunk_number": 254,
+    "word_count": 141
+  }
+}

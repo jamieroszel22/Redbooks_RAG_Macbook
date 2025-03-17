@@ -1,0 +1,18 @@
+{
+  "content": "\"sleeping 10 seconds\" sleep 10 CPcmd XAUTOLOG $targetID # bring new clone to life if [ $verbose = \"on\" ]; then set +vx; fi # turn off debug echo \"Successfully cloned $sourceID to $targetID\" exit 0 SLES boot.clone script This section lists the code for the /etc/init.d/boot.clone script that runs at \u201cfirst boot\u201d of a newly cloned SLES system. #!/bin/bash # # /etc/init.d/boot.clone # ### BEGIN INIT INFO # Provides: boot.clone # Required-Start: boot.localfs boot.rootfsck # Required-Stop: boot.localfs # Default-Start: B # Default-Stop: # Short-Description: Change configuration during boot # Description: Change the current configuration of the system # during first bootup. This script works as follows: # 1. Run vmcp q userid # 2. Search for a cms file called userid() PARM-S11 # 3. Get new values for network config from there # 4. Update the network configuration accordingly # This previously used to be the cloning.sh script on linuxadmin. ### END INIT INFO . /etc/rc.status rc_reset",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.168522",
+    "chunk_number": 1055,
+    "word_count": 158
+  }
+}

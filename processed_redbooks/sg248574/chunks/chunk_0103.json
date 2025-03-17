@@ -1,0 +1,18 @@
+{
+  "content": "model training. \u2013 Regular monitoring: Bias can emerge or change over time, which requires continuous assessment and model updates to maintain fairness and inclusivity. By handling missing data, outliers, and bias, AI models can provide more accurate, reliable, and ethical outcomes, which ultimately increase their utility and impact across diverse applications. 4.5.4 Ingesting data into watsonx.ai Studio This section describes the following topics: \u0002 Supported data formats and sources \u0002 Manually uploading data to watsonx.ai Studio Supported data formats and sources watsonx.ai Studio supports seamless ingestion of diverse data formats and sources to facilitate efficient model development and deployment. Supported formats include structured data (CSV, JSON, and Parquet), semi-structured data (XML and Avro), and unstructured data (plain text and PDF). Data can be sourced from cloud storage platforms (such as AWS S3 and IBM Cloud Object Storage), databases (such as PostgreSQL and MySQL),",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.531711",
+    "chunk_number": 103,
+    "word_count": 143
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 175 4.6.4 Parallel Sysplex connectivity. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 189 4.7 Cryptographic functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 194 4.7.1 CPACF functions (FC 3863) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 194 4.7.2 Crypto Express8S feature (FC 0908 and FC 0909) . . . . . . . . . . . . . . . . . . . . . . 194 4.7.3 Crypto Express7S feature (FC 0898 and FC 0899) as carry forward only . . . . . 195 4.7.4 Crypto Express6S feature (FC 0893) as carry forward only . . . . . . . . . . . . . . . . 197 4.8 Integrated Firmware Processor. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 197 vi IBM z16 (3931) Technical Guide Chapter 5. Central processor complex channel subsystem. . . . . . . . . . . . . . . . . . . . 199 5.1 Channel subsystem.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.222695",
+    "chunk_number": 18,
+    "word_count": 337
+  }
+}

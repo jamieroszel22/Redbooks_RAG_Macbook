@@ -1,0 +1,18 @@
+{
+  "content": "migrating to z/VM 7.2. Chapter 2. Planning 49 \u0002 z/VM 7.2 changed the capabilities and effects of the CP SET RESERVED command; therefore, review the systems that you are migrating to ensure the values that are in use are still suitable. Earlier editions of z/VM sometimes failed to honor CP SET RESERVED settings for VMs, which prompted users to oversize the amount of reserved storage that they specified. z/VM 7.2 is more effective and precise in honoring reserved settings. \u0002 z/VM 7.2 also permits CP SET RESERVED for Named Saved Systems (NSS) or Discontiguous Saved Segments (DCSS). This new capability was especially intended for the MONDCSS segment. In previous z/VM releases, MONDCSS was at risk of being paged out and consequently unavailable for catching control program (CP) Monitor records under heavy storage constraint. Because CP Monitor records are especially needed when the system is under duress, IBM suggests that you establish a reserved setting for MONDCSS. Use a reserved",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.808153",
+    "chunk_number": 164,
+    "word_count": 159
+  }
+}

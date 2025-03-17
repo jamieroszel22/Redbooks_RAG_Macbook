@@ -1,0 +1,18 @@
+{
+  "content": "to the watsonx.ai documentation or the Redbooks publication: Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai, SG24-8574. Development After saving your prompt lab experiment, from the project home screen of watsonx.ai, view your assets tab. Find your saved prompt lab template, and using the hamburger menu of that prompt lab template, choose Track in AI use case. After following the guided click-through setup, your Prompt Template Asset (PTA) will be automatically placed under the development stage, tracked in the AI use case of your choice. Validation With a PTA being tracked against an AI use case in the development stage, users can utilize the power of watsonx.governance to perform fast and effective evaluations of their assets. To perform this step, validation data is required. Note: This subsection covers a UI-driven implementation of lifecycle governance using watsonx.gov and watsonx.ai. For code-driven approaches, review 6.2.3, \u201cModel health\u201d on page 57",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.129050",
+    "chunk_number": 183,
+    "word_count": 152
+  }
+}

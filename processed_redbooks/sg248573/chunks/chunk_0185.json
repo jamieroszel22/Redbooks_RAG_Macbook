@@ -1,0 +1,18 @@
+{
+  "content": "check the latest documentation for your version of watsonx.governance. After completing the evaluation, go back to your AI use case and scroll down. You should now see this asset as being tracked in the validation stage as a result of running the evaluation experiment. Before moving onto the operation stage, it is most common for assets to sit in the validation stage while iterations happen to improve performance. Evaluations can be constantly run against assets in the validation stage and the records of the latest evaluation can be viewed from the AI factsheet for that asset. Operation Once the validation stage is completed and the asset is ready to move into operation stage, head to your watsonx platform home page. Using the hamburger menu from the left, click on Deployments to access the watsonx.ai runtime platform (traditionally known as Watson Machine Learning or WML), and create a new deployment space with \u201cProduction\u201d type selected. Go back to the watsonx.ai project which holds",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.137949",
+    "chunk_number": 185,
+    "word_count": 162
+  }
+}

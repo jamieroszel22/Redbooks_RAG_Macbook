@@ -1,0 +1,18 @@
+{
+  "content": "distance, such as an inter-switch link (ISL) in a GDPS Metro Mirror environment. The FICON Express32S, FICON Express16SA, and FICON Express16S+ support FEC coding on top of its 64b/66b data encoding for 16 and 32 Gbps connections. This design can correct up to 11 bit errors per 2112 bits transmitted. Therefore, while connected to devices that support FEC at 16 Gbps connections, the FEC design allows FICON Express16SE, FICON Express16S+, and FICON Express16S channels to operate at higher speeds, over longer distances, with reduced power and higher throughput. At the same time, the same reliability and robustness for which FICON channels are traditionally known are maintained. With the IBM DS8870 or newer, IBM z16 servers can extend the use of FEC to the fabric N_Ports for a completed end-to-end coverage of 32 Gbps FC links. Consideration: FICON Express16S+ features do not support auto-negotiation to a data link rate of 2 Gbps (only 4, 8, or 16 Gbps). A compatible switch must be used to",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.840235",
+    "chunk_number": 410,
+    "word_count": 164
+  }
+}

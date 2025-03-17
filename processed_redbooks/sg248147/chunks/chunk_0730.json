@@ -1,0 +1,18 @@
+{
+  "content": "'GRANT AUTHORITY VMPSFS:VSMGUARD. TO DATAMOVE (READ NEWREAD' 'GRANT AUTHORITY VMPSFS:VSMGUARD. TO DATAMOV2 (READ NEWREAD' 'GRANT AUTHORITY VMPSFS:VSMGUARD. TO DATAMOV3 (READ NEWREAD' 'GRANT AUTHORITY VMPSFS:VSMGUARD. TO DATAMOV4 (READ NEWREAD' 'GRANT AUTHORITY VMPSFS:VSMGUARD. TO AUTOLOG1 (WRITE NEWWRITE' 'GRANT AUTHORITY VMPSFS:VSMGUARD. TO AUTOLOG2 (WRITE NEWWRITE' 10.5.4 SMAPI requirements z/VM DirMaint 7.2 or later is required to support the new socket-based environment that consists of one or more request servers and two or more worker servers. If using different directory manager, some exit replacement is needed. Refer to chapter 3 of z/VM: z/VM 7.2 Systems Management Application Programming (SMAPI) manual. 10.5.5 Configuring DirMaint to support SMAPI Complete the following steps: 1. Log on MAINT720 user ID. 2. Create the DirMaint configuration file, CONFIGSM DATADVH L. The L disk is on 7VMDIR20 41F, which is the preproduction disk. Add the following lines: ===> vmlink 7VMDIR20",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.069062",
+    "chunk_number": 730,
+    "word_count": 140
+  }
+}

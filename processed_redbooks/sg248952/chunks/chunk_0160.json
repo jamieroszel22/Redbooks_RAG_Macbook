@@ -1,0 +1,18 @@
+{
+  "content": "Table 11 provides the list of memory features orderable and the associates memory configurations. Table 11 Memory Offerings FC Increments Customer Memory Increments Max5 (CPC0) Max16 (CPC0) Max32 (CPC0) Max68 (CPC0 + CPC1) Cfg. # Dial Max Extra Mem Cfg. # Dial Max Extra Mem Cfg. # Dial Max Extra Mem CPC0 Cfg. # CPC1 Cfg. # Dial Max Extra Mem 3106 8 64 21 352 288 21 352 288 21 352 288 21 21 864 800 3107 72 21 352 280 21 352 280 21 352 280 21 21 864 792 3108 80 21 352 272 21 352 272 21 352 272 21 21 864 784 3109 88 21 352 264 21 352 264 21 352 264 21 21 864 776 3110 96 21 352 256 21 352 256 21 352 256 21 21 864 768 Chapter 2. Central processor complex hardware components 49 3111 32 128 21 352 224 21 352 224 21 352 224 21 21 864 736 3112 160 21 352 192 21 352 192 21 352 192 21 21 864 704 3113 192 21 352 160 21 352 160 21 352 160 21 21 864 672 3114 224 21 352 128 21 352 128 21 352 128 21 21 864 640 3115 256 21 352 96 21 352 96 21 352 96 21 21 864 608 3116 288 21 352 64 21 352 64 21 352 64",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.814629",
+    "chunk_number": 160,
+    "word_count": 232
+  }
+}

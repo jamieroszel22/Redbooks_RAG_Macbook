@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.governance\u201d on page 64 and again in 6.4.2, \u201cConsiderations for lifecycle governance for traditional ML hosted on watsonx.ai\u201d on page 70, a variety of metrics are available for configuration through watsonx.governance. When considering a model monitor in the operation stage, these metrics can be configured using the watsonx.governance UI or using notebooks. Review and follow the notebooks and directions provided in section 6.4.2, \u201cConsiderations for lifecycle governance for traditional ML hosted on watsonx.ai\u201d on page 70 to establish baseline data configurations and respective monitors. Additionally, code commands also exist to directly move assets into the production (operation) stage. Here is a snippet on how to move a model into a production deployment space to see the lifecycle stage progress into operation stage: model.set_environment_type(from_container=\"validate\", to_container=\"production\") watsonx.governance comes with an expansive toolkit for handling the lifecycle of",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.169109",
+    "chunk_number": 194,
+    "word_count": 135
+  }
+}

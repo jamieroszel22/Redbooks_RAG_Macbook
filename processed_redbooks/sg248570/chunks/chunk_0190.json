@@ -1,0 +1,18 @@
+{
+  "content": "storage tiers to accelerate subsequent queries. Adaptive execution strategies allow watsonx.data to modify query plans on the fly, reacting to real-time performance metrics and data distribution patterns. The system can split large tasks, redistribute workload, or change join strategies mid-query to achieve optimal performance. By leveraging these performance enhancements, watsonx.data ensures that analytics on even colossal datasets remain responsive and cost-effective. Analysts gain the ability to iterate rapidly over complex queries, data scientists can train machine learning models at scale, and business users enjoy timely insights without waiting hours for batch processing jobs to complete 86 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data \u00a9 Copyright IBM Corp. 2025. 87 Chapter 6. Establishing data governance IBM watsonx.data offers a comprehensive data governance solution. This powerful platform empowers organizations to ensure data security,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.076756",
+    "chunk_number": 190,
+    "word_count": 135
+  }
+}

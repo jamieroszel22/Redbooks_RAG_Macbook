@@ -1,0 +1,18 @@
+{
+  "content": "Discarded: 0 Errors: 0 TX Packets: 106 Discarded: 0 Errors: 0 RX Bytes: 10168 TX Bytes: 13144 Device: 0603 Unit: 000 Role: DATA Port: 2050 Partner Switch Capabilities: No_Reflective_Relay LAG Port Controller: Active Member: RDBKZVMC.VSWGLBL State: Synchronized Ready; The VSwitch details display shows some information about the port group. The members of the Global VSwitch at the bottom of the display. Because only RDBKZVMC (the first system) has the Global VSwitch defined, it is the only system listed. We ran a display of the port group to see if any other information was displayed there. The output of QUERY PORT GROUP VSWGLBL was much the same as we saw in the VSwitch display, but adding DETAILS to the query displayed much LACP information (see Example 14-10). Example 14-10 QUERY PORT GROUP DETAILS output q port group grpglbl details Group: GRPGLBL.0 Active LACP Mode: Active Shared VSWITCH RDBKZVMC.VSWGLBL ifIndex: 2112 Load Balancing: Collaborative Interval: 300 GROUP Information:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.678662",
+    "chunk_number": 911,
+    "word_count": 156
+  }
+}

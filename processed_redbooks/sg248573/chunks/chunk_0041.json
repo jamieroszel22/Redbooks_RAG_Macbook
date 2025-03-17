@@ -1,0 +1,18 @@
+{
+  "content": "Manage outbound (for example: registering high-risk AI use cases) interactions with regulators. <not typically involved unless additional technical information is required for a specific AI solution.> Regulatory change Proactively assess how regulatory proposals related to AI might impact the organization. Review regulatory changes and determine with use cases are affected. Manage the activities to bring use cases and AI assets into compliance with the changed regulation. <not typically involved unless the regulatory change requires additional technical work.> Risk control evaluations Assess effectiveness of AI risk controls. <not typically involved> Implement AI governance policies Create and maintain compliance libraries, plans and assessment templates. Create and maintain risk/control libraries, plans and assessment templates. <not typically involved> Aspect of an AI solution Typical AI governance activities Typical AI operations activities 2 Based on IBM watsonx.ai chat interface,",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.579040",
+    "chunk_number": 41,
+    "word_count": 134
+  }
+}

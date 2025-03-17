@@ -1,0 +1,18 @@
+{
+  "content": "as shown in Example 10-4. Example 10-4 Q DISK command on MAINT720 user ID q disk LABEL VDEV M STAT CYL TYPE BLKSZ FILES BLKS USED-(%) BLKS LEFT BLK TOTAL MNT191 191 A R/W 175 3390 4096 3 10-01 31490 31500 MNT5E5 5E5 B R/O 40 3390 4096 140 1547-21 5653 7200 MNT2CC 2CC C R/O 10 3390 4096 4 98-05 1702 1800 MNT51D 51D D R/O 26 3390 4096 210 1189-25 3491 4680 PMT551 551 E R/O 40 3390 4096 10 132-02 7068 7200 MNT190 190 S R/O 207 3390 4096 693 15970-43 21290 37260 MNT19E 19E Y/S R/O 500 3390 4096 1121 35137-39 54863 90000 Ready; T=0.01/0.01 12:15:47 3. If it is not accessed as shown in Example 10-4, access the user directory source file (USER DIRECT) that is on PMAINT 2CC MDisk by using the VMLINK command. The read password is the value that you set all passwords to, or if you did not change them, it is READ: ===> vmlink pmaint 2CC <2CC C> DMSVML2060I MAINT 2CC linked as 0120 file mode C 4. Link to DIRMAINT 1df disk, as shown in Example 10-5. Example 10-5 Disks accessed vmlink dirmaint 1df",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.940552",
+    "chunk_number": 694,
+    "word_count": 195
+  }
+}

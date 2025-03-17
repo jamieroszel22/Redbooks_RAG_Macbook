@@ -1,0 +1,18 @@
+{
+  "content": "A bank's retail lending department is a Business Entity. Persona interactions: \u0002 Model Developers: Create models that meet the specific needs of the Business Entity. For example, a Model Developer may create a credit risk model for the retail lending department. \u0002 Model Owners: Ensure that models are aligned with the Business Entity's goals and objectives. For example, the Model Owner for the retail lending department may ensure that the credit risk model is aligned with the department's risk appetite. \u0002 Model Validators: Validate models to ensure they meet the Business Entity's requirements. For example, a Model Validator may validate the credit risk model to ensure it meets the retail lending department's requirements for accuracy and fairness. Inventory A centralized repository that organizes, documents, and maintains an enterprise-wide collection of models or AI assets, including their usage, issues, and governance activities. Persona interaction: \u0002 Model Owner: Interacts with the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.840682",
+    "chunk_number": 103,
+    "word_count": 149
+  }
+}

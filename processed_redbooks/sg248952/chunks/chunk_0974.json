@@ -1,0 +1,18 @@
+{
+  "content": "example the User Profile Data can be replicated. An HMC can have 3 different roles for replication: \u2013 Primary An HMC in the role of primary is a data replication source to other HMCs that are in the Chapter 10. Hardware Management Console and Support Element 403 role of replica. A primary HMC can only be a source for data replication, it can not receive replicated data from other HMCs. \u2013 Peer An HMC in the role of peer is data replication source to other HMCs that are in the role of peer or replica. An HMC in this role receives replicated data from other HMCs that are in the role of peer or primary. \u2013 Replica An HMC in the role of replica receives replicated data from other HMCs that are in the role of primary or peer. Modifications to replicated data types on a replica HMC are disallowed. Further a HMC can also be disabled for data replication. An example of selection of the roles can be seen on Figure 10-10. Figure 10-10 Selection of different roles for Data Replication on the HMC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.909878",
+    "chunk_number": 974,
+    "word_count": 185
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "identified and assigned to unique input queues: \u0002 z/OS Sysplex Distributor traffic Network traffic that is associated with a distributed virtual Internet Protocol address (VIPA) is assigned to a unique input queue. This configuration allows the Sysplex Distributor traffic to be immediately distributed to the target host. \u0002 z/OS bulk data traffic Network traffic that is dynamically associated with a streaming (bulk data) TCP connection is assigned to a unique input queue. This configuration allows the bulk data processing to be assigned the suitable resources and isolated from critical interactive workloads. \u0002 EE (Enterprise Extender / SNA traffic) IWQ for the OSA-Express features is enhanced to differentiate and separate inbound Enterprise Extender traffic to a dedicated input queue. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. GARP VLAN Registration Protocol All OSA-Express features support VLAN prioritization, which is a component of",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.139972",
+    "chunk_number": 745,
+    "word_count": 151
+  }
+}

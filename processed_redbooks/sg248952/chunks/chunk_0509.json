@@ -1,0 +1,18 @@
+{
+  "content": "cryptographic workload. The cryptographic hardware that is supported on IBM z16 A02 and IBM z16 AGZ is shown in Figure 6-2. These features are described in this chapter. Figure 6-2 Cryptographic hardware that is supported in IBM z16 A02 and IBM z16 AGZ Implemented in every processor unit (PU) or core in a central processor complex (CPC) is a cryptographic coprocessor that can be used1 for cryptographic algorithms that use clear keys or protected keys. For more information, see 6.4, \u201cCP Assist for cryptographic functions\u201d on page 211. Crypto Express coprocessor adapters contain one or two hardware security modules (HSMs) and are placed in the PCIe+ I/O drawer of IBM z16 A02 or IBM z16 AGZ. These features also support cryptographic algorithms by using secret keys. There are three generations of cryptographic coprocessors that are supported for IBM z16 A02 and IBM z16 AGZ systems: \u0002 Crypto Express6S, Feature Code 0893, carry forward only (miscellaneous equipment specification (MES) from",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.190093",
+    "chunk_number": 509,
+    "word_count": 159
+  }
+}

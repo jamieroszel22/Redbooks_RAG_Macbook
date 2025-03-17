@@ -1,0 +1,18 @@
+{
+  "content": "0454 1.25 SM 9 \u00b5m 5 km (3.1 miles) OSA-Express7S 1.2 GbE SX 0455 1.25 MM 62.5 \u00b5m MM 50 \u00b5m \u0002 275 m (200) \u0002 550 m (500) OSA-Express7S 1.2 1000BASE-T 0458 1000 Mbps Cat 5, Cat 6 unshielded twisted pair (UTP) 100 m OSA-Express7S 25 GbE SR1.1 0449 25 MM 50 \u00b5m \u0002 70 m (2000) \u0002 100 m (4700) OSA-Express7S 25 GbE SR 0429 OSA-Express7S 10 GbE LR 0444 10 SM 9 \u00b5m 10 km (6.8 miles) OSA-Express7S 10 GbE SR 0445 10 MM 62.5 \u00b5m MM 50 \u00b5m \u0002 33 m (200) \u0002 82 m (500) \u0002 300 m (2000) OSA-Express7S GbE LX 0442 1.25 SM 9 \u00b5m 5 km (3.1 miles) OSA-Express7S GbE SX 0443 1.25 MM 62.5 \u00b5m MM 50 \u00b5m \u0002 275 m (200) \u0002 550 m (500) OSA-Express7S 1000BASE-T 0446 1000 Mbps Cat 5, Cat 6 unshielded twisted pair (UTP) 100 m OSA-Express6S 10 GbE LR 0424 10 SM 9 \u00b5m 10 km (6.8 miles) OSA-Express6S 10 GbE SR 0425 10 MM 62.5 \u00b5m MM 50 \u00b5m \u0002 33 m (200) \u0002 82 m (500) \u0002 300 m (2000) OSA-Express6S GbE LX 0422 1.25 SM 9 \u00b5m 5 km (3.1 miles) OSA-Express6S GbE SX 0423 1.25 MM 62.5 \u00b5m MM 50 \u00b5m \u0002 275 m (200) \u0002 550 m (500) OSA-Express6S 1000BASE-T",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.954811",
+    "chunk_number": 443,
+    "word_count": 220
+  }
+}

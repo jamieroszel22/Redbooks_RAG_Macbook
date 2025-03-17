@@ -1,0 +1,18 @@
+{
+  "content": "To handle a peak workload, you can activate up to double the purchased capacity of any processor unit (PU) type temporarily. You are charged daily. This billable capacity offering is On/Off Capacity on Demand (On/Off CoD). Replacement capacity When processing capacity is lost in part of an enterprise, replacement capacity can be activated. It allows you to activate any PU type up to your authorized limit. The following replacement capacity offerings are available: \u0002 Capacity Backup \u0002 Capacity for Planned Event2 \u0002 Flexible Capacity for Cyber Resiliency 8.2 PU upgrades Concurrent upgrades on IBM z16 A02 and IBM z16 AGZ can provide more capacity with no system outage. In most cases, a concurrent upgrade can be nondisruptive to the operating system with planning and operating system support. The concurrent capacity growth capabilities that are provided by IBM z16 A02 and IBM z16 AGZ include, but are not limited to, the following benefits: \u0002 Enabling the meeting of new business",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.353866",
+    "chunk_number": 811,
+    "word_count": 159
+  }
+}

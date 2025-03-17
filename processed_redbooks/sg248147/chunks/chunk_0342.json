@@ -1,0 +1,18 @@
+{
+  "content": "disconnect. You turn off this feature so that any virtual machine that was forced to disconnect is note logged off. Important: If you are planning to use an External Security Manager (ESM), such as IBM Resource Access Control Facility for z/VM (RACF/VM), you must not enable Auto Warm IPL until your ESM is fully configured. Note: If you are planning to use Temporary Disks (T-Disk), for compliance reasons, modify the default on SYSTEM CONFIG, which enables the clean up. Note: The assignment is through the CP SET command, SET PF12 RETRIEVE. By pressing PF12, a command is retrieved and written back into the command area on the terminal screen. You likely do not need to change these settings. Note: The z/VM 7.2 default for Password_on_Cmds were changed to NO. Chapter 6. Configuring z/VM 145 \u0002 The ShutdownTime and Signal ShutdownTime features enable a virtual machine to register with CP to receive a shutdown signal when z/VM is shutting down. CP waits to shut itself down until the time",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.539274",
+    "chunk_number": 342,
+    "word_count": 168
+  }
+}

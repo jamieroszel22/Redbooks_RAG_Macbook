@@ -1,0 +1,18 @@
+{
+  "content": "roles, IBM watsonx.data enables administrators to create a highly flexible access control model, which helps ensure that users have the appropriate level of access based on their responsibilities while safeguarding sensitive data from unauthorized access. 4.2.4 Best practices for resource-level role management To maximize the effectiveness of resource-level roles, consider the following best practices: \u0002 Adopt the Principle of Least Privilege: Grant users only the minimum level of access that they need to perform their roles. This approach minimizes the risk of unauthorized data access and helps maintain data security. \u0002 Use Dynamic Groups for Resource Assignment: Where possible, assign resource roles that are based on dynamic groups or attributes (for example, department or role), allowing permissions to adjust automatically as users' responsibilities change. \u0002 Regularly Audit Access Permissions: Periodically review resource-level permissions to ensure that access levels are",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.877557",
+    "chunk_number": 139,
+    "word_count": 139
+  }
+}

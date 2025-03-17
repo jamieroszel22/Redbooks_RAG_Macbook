@@ -1,0 +1,18 @@
+{
+  "content": "and tasks. Each component in Figure 6-10 plays a critical role in orchestrating complex interactions between users, agents, tools, and workflows, which create a robust and adaptable ecosystem for AI-powered operations. At the top of the architecture is the Unified Assistant, which serves as the single, user-facing interface. This layer is designed to provide a consistent and coherent interaction experience by simplifying user engagement and abstracting the complexities of the underlying system. The Unified Assistant is supported by the Supervisory AI Meta-Agent, which is a central coordinator that facilitates all workflows and helps ensure that user requests are processed accurately and efficiently. The meta-agent acts as the brain of the system by orchestrating the activities of multiple subordinate agents and tools to fulfill user intents. Its responsibilities include routing tasks to the appropriate agents, resolving ambiguities in user input, starting the necessary tools,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.197089",
+    "chunk_number": 254,
+    "word_count": 143
+  }
+}

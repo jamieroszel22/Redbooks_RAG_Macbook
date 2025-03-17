@@ -1,0 +1,18 @@
+{
+  "content": "and any files inside: ===> grant auth lnx:lnxadmin.swapgen to public ( read newread ===> grant auth lnx:lnxadmin.redhat to public ( read newread ===> grant auth lnx:lnxadmin.suse to public ( read newread /*** LNXMAINT PROFILE EXEC : LNX:LNXMAINT. -- MOD 2015-04-10 PWNOVAK ***/ ADDRESS COMMAND 'CP SET PF11 RETRIEVE BACK' 'CP SET PF12 RETRIEVE' 'EXEC VMLINK .DIR LNX:LNXADMIN. < . D FORCERW >' 'CP SET RUN ON' EXIT Note: For suitable security, the only IDs that are enrolled in the LNX filepool should be Linux virtual servers, admin IDs that are defined in Figure 6-21, and I/T staff supporting z/VM and Linux virtual servers. 244 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 ===> grant auth lnx:lnxadmin.ubuntu to public ( read newread 3. Create enrollment of the first few Linux virtual server machines in the file pool with 100 blocks each. Note that these IDs are not required to exist in the directory yet; you are creating configuration that SFS will utilize if and when the ID is",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.343831",
+    "chunk_number": 550,
+    "word_count": 166
+  }
+}

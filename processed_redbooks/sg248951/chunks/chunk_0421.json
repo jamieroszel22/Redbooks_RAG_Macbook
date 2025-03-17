@@ -1,0 +1,18 @@
+{
+  "content": "virtualized as a native PCIe adapter and can be shared by multiple LPARs. Each port can support up to 127 Virtual Functions (VFs), with one or more VFs/PFIDs being assigned to each LPAR. This configuration gives a maximum of 254 VFs per adapter. The zHyperLink Express requires the following components: \u0002 zHyperLink connector on DS8k I/O Bay For DS8880 firmware R8.3 or newer, the I/O Bay planar is updated to support the zHyperLink interface. This update includes the update of the PEX 8732 switch to PEX8733 that includes a DMA engine for the zHyperLink transfers, and the upgrade from a copper to optical interface by a CXP connector (provided). \u0002 Cable The zHyperLink Express1.1 uses optical cable with MTP connector. Maximum supported cable length is 150 meters (492 feet). 9 CKD data records are handled by using IBM Enhanced Count Key Data (ECKD) command set. 172 IBM z16 (3931) Technical Guide zHyperLink Express (FC 0431) zHyperLink is a new technology that provides up to 5x reduction in",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.879304",
+    "chunk_number": 421,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "domains. Starting with IBM z14, the IBM Z crypto architecture can support up to 256 domains in an adjunct processor (AP) with the AP extended addressing (APXA) facility that is installed. As such, the Crypto Express adapters are enhanced to handle 256 domains. The IBM Z firmware provides up to 85 domains for IBM z16 to customers (to match the current LPAR maximum). Customers can map individual LPARs to unique crypto domains or continue to share crypto domains across LPARs. The following requirements must be met to support 85 domains: \u0002 Hardware: IBM z16 A01 and Crypto Express8S, Crypto Express7S, or Crypto Express6S \u0002 Operating systems: \u2013 z/OS: \u2022 New ICSF support is required to administer a CEX8 coprocessor by using a TKE workstation because of the exploitation of quantum algorithms. Otherwise, workloads run on IBM z16 without requiring ICSF support. \u2022 Exploitation of new function is supplied in ICSF PTFs on z/OS V2.2 V2.4 (Web deliverable HCR77D1) or V2.5 (base, which is HCR77D2). \u2022",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.450661",
+    "chunk_number": 565,
+    "word_count": 165
+  }
+}

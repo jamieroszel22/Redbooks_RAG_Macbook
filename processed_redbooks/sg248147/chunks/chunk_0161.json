@@ -1,0 +1,18 @@
+{
+  "content": "to the root file system, they are not designed for use outside of the core components of a distribution present after a clean, newly-installed system. Using BTRFS for /home, /opt, /srv, /usr, or /var quickly becomes a severe performance bottleneck that often results in a system failure to adequately process workload. 48 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 2.5 HiperDispatch planning In z/VM 6.3, IBM introduced new virtual server dispatching technology into z/VM this is called HiperDispatch. The z/VM HiperDispatch enhancement is meant to help the workload realize good performance from the CPC\u2019s memory subsystem, especially from its caches. To achieve this performance, z/VM HiperDispatch runs the partition in vertical mode, dispatches virtual servers in a topologically aware way, and uses logical CPUs in accordance with the availability of physical CPU power. Workloads that are likely to benefit from z/VM HiperDispatch are those workloads for which cache performance is likely to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.794954",
+    "chunk_number": 161,
+    "word_count": 152
+  }
+}

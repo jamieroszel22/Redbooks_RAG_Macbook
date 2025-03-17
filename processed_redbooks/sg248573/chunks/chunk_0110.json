@@ -1,0 +1,18 @@
+{
+  "content": "Challenge - The challenge object serves as a repository for documenting and evidencing concerns or issues related to any part of the Model Inventory. When a challenge is raised, the response is recorded, providing a clear audit trail. As a child of both the model and model deployment objects, the challenge object ensures that all relevant information is linked and easily accessible. There could be many factors prompting different personas to challenge existing deployments, such as: \u2013 Regulatory non-compliance: Models that fail to meet new or updated regulatory requirements \u2013 Data relevancy issues: Models that rely on outdated, incomplete, or inaccurate data \u2013 Performance deterioration: Models that experience a decline in performance over time Chapter 3. Implementing AI governance strategy 35 When a challenge is identified, stakeholders will review it in accordance with established processes to address the concerns. This may involve remediation efforts to bring the model into",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.866488",
+    "chunk_number": 110,
+    "word_count": 149
+  }
+}

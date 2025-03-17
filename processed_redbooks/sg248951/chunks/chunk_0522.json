@@ -1,0 +1,18 @@
+{
+  "content": "secure keys usually is far slower than the use of clear keys, as shown in Figure 6-1. b Figure 6-1 Three levels of protection with three levels of speed speed protection protected key secure key clear key 214 IBM z16 (3931) Technical Guide 6.2.4 Algorithms The following algorithms of modern cryptography are differentiated based on whether they use the same key for the encryption of the message as for the decryption: \u0002 Symmetric algorithms use the same key to encrypt and decrypt data. The function that is used to decrypt the data is the opposite of the function that is used to encrypt the data. Because the same key is used on both sides of an operation, it must be negotiated between both parties and kept secret. Therefore, symmetric algorithms are also known as secret key algorithms. The main advantage of symmetric algorithms is that they are fast and therefore can be used for large amounts of data, even if they are not run on specialized hardware. The disadvantage is that the key must",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.256894",
+    "chunk_number": 522,
+    "word_count": 174
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Cloud Pak\u00ae IBM Research\u00ae Netezza\u00ae Redbooks\u00ae Redbooks (logo) \u00ae Resilient\u00ae Think\u00ae The following terms are trademarks of other companies: ITIL is a Registered Trade Mark of AXELOS Limited. Microsoft, and the Windows logo are trademarks of Microsoft Corporation in the United States, other countries, or both. Java, and all Java-based trademarks and logos are trademarks or registered trademarks of Oracle and/or its affiliates. Ceph, OpenShift, Red Hat, are trademarks or registered trademarks of Red Hat, Inc. or its subsidiaries in the United States and other countries. Other company, product, or service names may be trademarks or service marks of others. \u00a9 Copyright IBM Corp. 2025. xi Foreword This trilogy of IBM\u00ae Redbooks\u00ae publications positions and explains the IBM strategic AI and Data platform - IBM watsonx. Each book focuses on one of the three main components of the watsonx platform: \u0002 IBM watsonx.ai: A next-generation enterprise studio for AI builders to train, validate, tune, and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.430713",
+    "chunk_number": 24,
+    "word_count": 155
+  }
+}

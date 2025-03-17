@@ -1,0 +1,18 @@
+{
+  "content": "identifiers in this setup: \u0002 Each of the LUNs in the volume group has a LUN number. \u0002 Each of the I/O devices in the DS8000 has its own WWPN. \u0002 Each of the NPIV adapters on the IBM Z machine has its own WWPN. The necessary configuration tasks in the SAN are shown: \u0002 On the DS8000, configure all of the LUNs, and put them into a volume group. \u0002 On the z System, get all of the needed NPIV WWPNs from the Support Element (SE). To access them, perform these steps: \u2013 Log on to the Hardware Management Console (HMC). \u2013 Select your system. Then, select Recovery and Single Object Operations. \u2013 On the SE, select System Management, your system, central processor complex (CPC) configuration, and FCP Configuration. Look up the NPIV addresses that you want. \u0002 On the DS8000, set up the host connections to the WWPN addresses that you looked up at the SE. \u0002 On the SAN switches, set up a new zone that contains the WWPN addresses of the z System adapters and the WWPN addresses of the DS8000 I/O ports.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.194584",
+    "chunk_number": 764,
+    "word_count": 187
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "influence total performance. Workloads with these traits usually involve a few CPU-heavy virtual servers for which isolating their execution from one another in the physical hardware will allow cache to adapt well to the respective servers\u2019 memory reference habits. For more information about HiperDispatch, see this web page. 2.6 Storage planning As you proceed through this section, remember the terminology that was covered in section 1.4, \u201cA high-level overview of components and terminology\u201d on page 18. Central storage and real storage both refer to main system memory. Memory planning might be the most complex issue with z/VM and Linux on IBM Z or LinuxONE systems, yet it is the most important factor in performance. By using the Hardware Management Console (HMC), you can define the INITIAL and RESERVED real storage (memory) for each LPAR that will run z/VM. When you IPL z/VM, the control program assumes that all of the INITIAL central storage is available to it. 2.6.1 z/VM 7.2 initial",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.798654",
+    "chunk_number": 162,
+    "word_count": 161
+  }
+}

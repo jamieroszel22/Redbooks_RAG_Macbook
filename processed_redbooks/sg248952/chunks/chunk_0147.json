@@ -1,0 +1,18 @@
+{
+  "content": "Spare PUs Max5 0-5 0-5 0-4 0-4 0-5 2 2 0-8 2 Max16 0-6 0-16 0-15 0-15 0-16 2 2 0-8 2 Max32 0-6 0-32 0-31 0-31 0-32 2 4 0-8 2 Max68 0-6 0-68 0-67 0-67 0-68 2 8 0-8 2 Note: The addition of ICFs, IFLs, zIIPs, and SAPs does not change the system capacity setting or its million service units (MSU) rating, which applies to engines (processor units- PUs) characterized as Central Processor (CP). Chapter 2. Central processor complex hardware components 41 2.3.3 Cache level structure The cache structure comparison between CPC drawers on z16 and z15 is shown in Figure 2-15. Figure 2-15 Cache structure comparison: z16 versus z15 2.4 PCIe+ I/O drawer PCIe Generations The z16 uses PCIe Generation 4 (Sextupled Data Rate - XDR), Generation 3 (Quadruple Data Rate - QDR), Generation 2 (Double Data Rate - DDR) and Generation 1, (Single Data Rate - SDR). XDR is used between the CP-DCM and the fanout card. QDR is used between CEC drawer and PCIe I/O drawer with a width of 16 Lanes. Both connections",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.750923",
+    "chunk_number": 147,
+    "word_count": 180
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "InstructLab One of the key functions of this UI is its ability to visualize and maintain version history for each training run, which includes the trained models, the associated skills and knowledge taxonomy, grounding data, and the generated synthetic data. By tracking the evolution of these elements over time, users can effectively monitor the progression and improvements that are made with each iteration. This version control mechanism is essential for helping ensure the reproducibility and reliability of model training processes. Also, it will be possible to add knowledge and ingest multiple data formats, such as PDFs, docx, HTML, MD, and more. The Tuning Studio capability to handle such a vast array of data types and their versions enables meticulous fine-tuning and enhances the overall model development lifecycle. Through this meticulous documentation and management, users can draw insights from past training runs, identify best practices, and apply learned lessons to future",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.962906",
+    "chunk_number": 193,
+    "word_count": 150
+  }
+}

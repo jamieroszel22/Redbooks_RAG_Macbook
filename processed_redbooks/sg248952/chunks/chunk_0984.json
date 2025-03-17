@@ -1,0 +1,18 @@
+{
+  "content": "Alternate SE roles is important, as HMC microcode installation can only be performed on the HMC which runs the Alternate SE as a guest. You can use the IBM z16 A02 and IBM z16 AGZ with carry forward HMCs and no initial order of FC 0129 (HMA for IBM z16 A02 and IBM z16 AGZ). Order and install of the HMA FC 0129 is possible at a later time as an upgrade. Important: With the IBM Hardware Management Appliance, shutdown or restart of the HMC which has the Primary SE code as guest, restarts also the Primary SE code. Just an application restart of the HMC is not disruptive to the guest SE code. Recommendation: It is recommended to limit the number of HMA instances per location or datacenter to two (2). Cabling, management and microcode updates can become overwhelmingly complicated. HMC1 HMC2 SE (Prim) SE (Alt) Chapter 10. Hardware Management Console and Support Element 409 10.2.3 HMC and SE servers The two 1U rack-mounted hardware servers that are installed in the rack are used for HMC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.943088",
+    "chunk_number": 984,
+    "word_count": 177
+  }
+}

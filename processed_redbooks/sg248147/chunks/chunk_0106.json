@@ -1,0 +1,18 @@
+{
+  "content": "corrective service. 24 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u0002 Beginning with Version 7.1, IBM delivers z/VM releases on a fixed, 24-month cycle. These releases are a cumulative roll-up of: \u2013 Previously-released SPEs \u2013 New function that is too disruptive or pervasive to ship in the z/VM service stream \u2013 Fixes that were shipped in the service stream of the earlier release \u0002 VMSSI is included in the base of z/VM V7.1 at no extra cost. Previously, it was a priced feature of z/VM V6. Integrating and making VMSSI available at no charge is intended to help more customers reduce or shorten planned outages of their Linux workloads as they adopt the z/VM Continuous Delivery model for their z/VM systems. VMSSI includes Live Guest Relocation and single system maintenance to give customers a mechanism to host Linux virtual server images without suffering interruptions as they apply updates to their z/VM system. \u0002 Dump processing is enhanced to reduce the time required to create, process,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.556595",
+    "chunk_number": 106,
+    "word_count": 165
+  }
+}

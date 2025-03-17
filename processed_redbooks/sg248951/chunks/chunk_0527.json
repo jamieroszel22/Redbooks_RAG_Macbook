@@ -1,0 +1,18 @@
+{
+  "content": "contains two IBM 4770 PCIe Cryptographic Coprocessors (HSMs), which can be independently defined as Coprocessor or Accelerator. New feature. Not supported on previous generations IBM Z systems. A TKE, smart card Reader and latest available level smart cards are required to operate the Crypto adapter card in EP11 mode. 0909 Crypto Express8S feature (single HSM)a These features are optional. The 2-port feature contains two IBM 4770 PCIe Cryptographic Coprocessors (HSMs), which can be independently defined as Coprocessor or Accelerator. New feature. Not supported on previous generations IBM Z systems. A TKE, Smart Card Reader and latest available level smart cards are required to operate the Crypto adapter card in EP11 mode. 0898 Crypto Express7S feature (2-port)a Carry forward from IBM z15. This feature contains two IBM 4769 PCIe Cryptographic Coprocessors (HSMs), which can be independently defined as Coprocessor or Accelerator. Supported on IBM z15 and IBM z16. 0899 Crypto Express7S",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.280005",
+    "chunk_number": 527,
+    "word_count": 150
+  }
+}

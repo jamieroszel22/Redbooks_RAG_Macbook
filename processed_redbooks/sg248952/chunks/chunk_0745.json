@@ -1,0 +1,18 @@
+{
+  "content": "isolated. QDIO interface isolation is supported on all OSA-Express features on IBM z16 A02 and IBM z16 AGZ. The supported operating systems are listed in Table 7-8 on page 255 and Table 7-9 on page 257. QDIO optimized latency mode QDIO optimized latency mode (OLM) can help improve performance for applications that feature a critical requirement to minimize response times for inbound and outbound data. OLM optimizes the interrupt processing in the following manner: \u0002 For inbound processing, the TCP/IP stack looks more frequently for available data to process. This process ensures that any new data is read from the OSA-Express features without needing more program controlled interrupts (PCIs). \u0002 For outbound processing, the OSA-Express cards also look more frequently for available data to process from the TCP/IP stack. Therefore, the process does not require a Signal Adapter (SIGA) instruction to determine whether more data is available. The supported operating systems are listed in",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.139839",
+    "chunk_number": 745,
+    "word_count": 154
+  }
+}

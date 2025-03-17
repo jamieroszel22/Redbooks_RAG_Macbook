@@ -1,0 +1,18 @@
+{
+  "content": "of Smffreq to AUTO and Smfswtch to NO: ===> x profile exec h ====> /Smfdisk ====> = ... Smfdisk = 192 Smfpct = 80 Smfinfo = 'OPERATOR' /* Default message receiver @VA45455*/ Smffreq = 'AUTO' /* Valid values: DAILY, WEEKLY, MONTHLY, */ /* AUTO @VA45455*/ Smfday = 'MONDAY' /* Valid values: SATURDAY - FRIDAY @VA45455*/ Smfswtch = 'NO' /* Valid values: YES NO @VA45455*/ Notes: \u0002 The first two lines make VMBATCH a generic class. \u0002 The third line permits the FTP, Network File System (NFS), and DirMaint satellite servers to the VMBATCH class. The number of DIRMSAT* entries needs to correspond to the number of members in the SSI (for example, if you use a four-member SSI, add DIRMSAT3 and DIRMSAT4). Permitting the servers to the VMBATCH class will allow them to use the alternate user ID function. \u0002 For more information about protecting this function, see the \u201cProtecting Alternate User IDs\u201d section of the z/VM RACF Security Server Auditor\u2019s Guide, SC24-6212. \u0002 The fourth line activates the",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.654474",
+    "chunk_number": 373,
+    "word_count": 169
+  }
+}

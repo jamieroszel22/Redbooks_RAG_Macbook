@@ -1,0 +1,18 @@
+{
+  "content": "way to the objective, it is not always the best tool to use or the most capable tool that is available. As task difficulty and complexity increases, watsonx.ai can use more advanced model enhancing techniques. We explore these techniques in the following sections of this chapter. Chapter 5. Advanced capabilities of watsonx.ai 61 5.2 Multitask prompt tuning Multitask prompt tuning within watsonx.ai builds on traditional prompt engineering by implementing adaptive mechanisms to refine the prompt\u2019s interpretative accuracy over time. This approach differs fundamentally from prompt engineering because it modifies prompt content and continuously aligns the model\u2019s interpretative layers with domain-specific expectations. In essence, prompt tuning enables models to retain learned adjustments across sessions, which support consistency and reduce the need for extensive re-engineering. Prompt tuning leverages techniques such as embedding adjustments and parameter scaling to influence the model\u2019s",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.720917",
+    "chunk_number": 138,
+    "word_count": 138
+  }
+}

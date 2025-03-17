@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.data's automated metadata extraction capabilities to minimize manual efforts and reduce errors. \u0002 Enrich metadata with business context: Go beyond technical data definitions. Include lineage information, quality metrics, and usage guidelines to provide a richer understanding of the data. \u0002 Integrate metadata with AI workflows: Use high-quality metadata to improve the accuracy and effectiveness of your AI models and analytics initiatives. 6.2.3 Policy management The following are best practices for policy management: \u0002 Align policies with business objectives: Develop data governance policies that support your organization's goals and regulatory requirements. \u0002 Implement role-based access control (RBAC): Define clear access levels and permissions for users based on their roles and responsibilities. This ensures data security and minimizes the risk of unauthorized access. \u0002 Leverage data usage tracking: Utilize IBM watsonx.data's data lineage and usage tracking features to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.093573",
+    "chunk_number": 195,
+    "word_count": 136
+  }
+}

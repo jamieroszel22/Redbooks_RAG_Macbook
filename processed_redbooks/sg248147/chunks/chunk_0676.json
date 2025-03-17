@@ -1,0 +1,18 @@
+{
+  "content": "serviced. VMFSRV1233I DIRM VMFSRV2760I SERVICE processing completed successfully. 4. Put DirMaint into production with the PUT2PROD command. Ensure that the message VMFP2P2760I is displayed: ===> put2prod dirm VMFP2P2760I PUT2PROD processing started several messages ... VMFP2P1233I The following products have been put into production. Recycle the appropriate servers. VMFP2P1233I DIRM several messages ... VMFP2P2760I PUT2PROD processing completed successfully (RC=0). 5. Optional: Review the changed SYSTEM CONFIG file. The SERVICE and PUT2PROD steps modified data that is near the end of your SYSTEM CONFIG file, regarding the enablement of DirMaint. If you want to see the changes, link to the PMAINT CF0 disk and use the type command to output the contents of the SYSTEM CONFIG file to observe these lines at the end of the file: ===> vmlink pmaint cf0 (filelist DMSVML2060I PMAINT CF0 linked as 0120 file mode Z ===> xedit system config z ===> bot ===> u10 PRODUCT PRODID 7VMDIR20 STATE",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.873762",
+    "chunk_number": 676,
+    "word_count": 152
+  }
+}

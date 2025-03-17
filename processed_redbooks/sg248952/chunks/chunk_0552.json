@@ -1,0 +1,18 @@
+{
+  "content": "Exploitation of new function is supplied in ICSF PTFs on z/OS V2.2 V2.4 (Web deliverable HCR77D1) or V2.5 (base, which is HCR77D2) \u2022 When exploiting new Quantum Safe Algorithms and sharing a KDS in a sysplex, ensure all ICSF PTFs are installed on all systems. 5 A TKE is required to manage a PCI-compliant coprocessor and for certificate management Chapter 6. Cryptographic features 223 \u2013 z/VM Version 6.4 and 7.1 with PTFs or newer for guest use. Payment Card Industry-HSM certification Payment Card Industry (PCI) standards are developed to help ensure security in the PCI. PCI defines their standards as a set of security standards that is designed to ensure that all companies that accept, process, store, or transmit credit card information that is maintained a secure environment. Compliance with the PCI-HSM standard is valuable for customers, particularly those customers who are in the banking and finance industry. This certification is important to clients for the following fundamental",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.368602",
+    "chunk_number": 552,
+    "word_count": 158
+  }
+}

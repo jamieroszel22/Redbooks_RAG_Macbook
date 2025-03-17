@@ -1,0 +1,18 @@
+{
+  "content": "value by integrating data from various sources and domains into higher layers, such as the silver and gold layers of a medallion data architecture. Additionally, watsonx.data provides multiple query engines, including Presto and Spark, allowing users to select the most suitable engine based on the characteristics of their workload. IBM watsonx.data seamlessly integrates with Db2 Warehouse and Netezza Performance Service, facilitating data sharing across these products and enabling users to leverage the most appropriate engine for each specific task. 24 Ensuring Trustworthy AI with IBM watsonx.governance Once structured and unstructured data is onboarded to watsonx.data in the watsonx platform, users can access the data assets as long as they have the necessary access rights. They can build, train, tune, and deploy traditional ML models or utilize generative AI models to enhance their business use cases with AI. 2.5.3 AI Building and Deployment IBM watsonx.ai provides low-code and",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.787091",
+    "chunk_number": 89,
+    "word_count": 147
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "starting point. Review Chapter 4, \u201cOnboarding a new foundation model\u201d on page 41 and Chapter 5, \u201cAssessing a new use case\u201d on page 53 for organizational processes and considerations to make prior to setting up lifecycle governance. 76 Ensuring Trustworthy AI with IBM watsonx.governance \u00a9 Copyright IBM Corp. 2025. 77 Chapter 7. Use cases This chapter highlights various implementations of watsonx.governance, focusing on fairness, drift, regulatory compliance, and accountability. These implementations span multiple sectors such as healthcare, banking, and finance, leveraging robust data tracking and model auditing mechanisms. This chapter has the following sections: \u0002 \u201cOverview of use case 1- Banking credit risk management\u201d on page 78 \u0002 \u201cOverview of use case 2 - Automated governance for universal bank's AI chatbot\u201d on page 80 \u0002 \u201cOverview of use case 3 - Belgian biopharmaceutical company\u201d on page 81 7 78 Ensuring Trustworthy AI with IBM watsonx.governance 7.1 Overview of use case 1-",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.205641",
+    "chunk_number": 203,
+    "word_count": 151
+  }
+}

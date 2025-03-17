@@ -1,0 +1,18 @@
+{
+  "content": "Governing AI embedded in a business application If an AI/ML asset which is consumed in a business application is directly owned and operated by the governance team (or a department from the same organization as the governance team), any of the above techniques can be used to apply AI governance. Depending on the kind of AI/ML being used in the business application, a user may have to configure a detached prompt template for LLM (as described in section 6.4.3, \u201cConsiderations for prompt templates from another platform\u201d on page 72) or they may have to configure a headless subscription for ML (as described in section 6.4.4, \u201cConsiderations for traditional ML from another platform\u201d on page 74) If the ML/AI process is being provided by an outside vendor, various considerations should be made when looking to apply governance to that process. This section will shed light on some of the most common and important things to consider when looking to govern an existing business application where",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.192843",
+    "chunk_number": 200,
+    "word_count": 164
+  }
+}

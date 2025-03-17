@@ -1,0 +1,18 @@
+{
+  "content": "and 6.2.4, \u201cGenerative AI quality\u201d on page 57. The watsonx.ai documentation will also be helpful. Chapter 6. Governing the end-to-end lifecycle of an AI asset 69 Work with use case SMEs and other teammates in order to build up a quality dataset of at least 10 records in CSV format which you can use to validate the performance of your PTA. Based on your use case, the format of your data will vary. Explore the evaluation page for your specific use case in order to identify the correct format for your validation data. For example, a summarization use case will have the following format for the test data: -Original_Text1, Ground_Truth_Summary1- -Original_Text1, Ground_Truth_Summary2- Once data is acquired, use the hamburger menu to access the options of the given PTA. Click on Evaluate to open the evaluation page. Using the Actions drop-down, click on \u201cEvaluate Now\u201d and follow through the options on-screen to set up the evaluation experiment. To review the available evaluation metrics,",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.136531",
+    "chunk_number": 184,
+    "word_count": 162
+  }
+}

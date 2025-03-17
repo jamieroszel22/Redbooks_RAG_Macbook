@@ -1,0 +1,18 @@
+{
+  "content": "1.4.3 Technical standards for AI governance In addition to regulations, there are various initiatives underway to define technical standards for AI systems. The standards define the state-of-the-art tools and methods that can be applied when creating and using AI systems. From a governance perspective, these standards will provide a baseline of \u201cgenerally accepted\u201d practices that organizations are encouraged to adopt. Technical standards supporting the EU AI Act The European Commission has requested the development of a set of technical standards covering the following requirements: \u0002 Risk management system for AI systems. \u0002 Governance and quality of datasets used to build AI systems. \u0002 Record keeping through logging capabilities by AI systems. \u0002 Transparency and information provisions for users of AI systems. \u0002 Human oversight of AI systems. \u0002 Accuracy specifications for AI systems. \u0002 Robustness specifications for AI systems. 5 European Union, Article 6: Classification Rules for",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.699125",
+    "chunk_number": 66,
+    "word_count": 147
+  }
+}

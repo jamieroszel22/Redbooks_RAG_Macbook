@@ -1,0 +1,18 @@
+{
+  "content": "(subject to all applicable terms and conditions). When an IBM z16 server is running z/VSE, you can choose Mid-Range Workload License Charges (MWLC), which are subject to all applicable terms and conditions. 326 IBM z16 (3931) Technical Guide For more information about AWLC, CMLC, MzNALC, PSLC, MWLC, or the Technology Update Pricing and Transition Charges for Sysplexes or Multiplexes TTO offerings, see the IBM Z Software Pricing page of the IBM IT infrastructure website. 7.9 References For more information about planning, see the home pages for the following operating systems: \u0002 z/OS \u0002 z/VM \u0002 z/VSE \u0002 z/TPF \u0002 Linux on IBM Z \u0002 KVM for IBM Z \u00a9 Copyright IBM Corp. 2022. All rights reserved. 327 Chapter 8. System upgrades This chapter provides an overview of the IBM Z server upgrade process and how, in many cases, customers can manage capacity upgrades by using online tools and automation. The chapter also includes a detailed description of capacity on demand (CoD) offerings available on",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.295038",
+    "chunk_number": 791,
+    "word_count": 164
+  }
+}

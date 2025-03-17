@@ -1,0 +1,18 @@
+{
+  "content": "along with the order number to the HMC to enable the order. 8.5.6 Termination A client is contractually obligated to end the On/Off CoD right-to-use feature when a transfer in asset ownership occurs. A client also can choose to end the On/Off CoD right-to-use feature without transferring ownership. Removing FC 9898 ends the right to use the On/Off CoD. This feature cannot be ordered if a temporary session is active. Similarly, the CIU enablement feature cannot be removed if a temporary session is active. When the CIU enablement feature is removed, the On/Off CoD right-to-use feature is simultaneously removed. Reactivating the right-to-use feature subjects the client to the terms and fees that apply then. Upgrade capability during On/Off CoD Upgrades that involve physical hardware are supported while an On/Off CoD upgrade is active on a particular IBM z16 A02 and IBM z16 AGZ configuration. LICCC-only upgrades can be ordered and retrieved from Resource Link, and can be applied while an",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.520770",
+    "chunk_number": 857,
+    "word_count": 160
+  }
+}

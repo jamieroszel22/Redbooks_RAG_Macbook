@@ -1,0 +1,18 @@
+{
+  "content": "reassignment can swap client processors of different types between processor drawers21. For example, reassignment can swap an IFL on processor drawer 0 with a CP on processor drawer 2. Swaps can also occur between PU chips within a processor drawer or a DCM and can include spare PUs. The goals are to pack the LPAR on fewer Partition profile: Cryptographic coprocessors are not tied to partition numbers or MIF IDs. They are set up with Adjunct Processor (AP) numbers and domain indexes. These numbers are assigned to a partition profile of a given name. The client assigns these AP numbers and domains to the partitions and continues to have the responsibility to clear them out when their profiles change. 20 In z/OS, this support is available since Version 1 Release 10 (z/OS V1.10), while z/VM supports this addition since z/VM V5.4, and z/VSE since V4.3. However, z16 A02 and z16 AGZ support z/OS V2R2 and later, 21CS VSEn V6R3 and z/VM V7R1 or later, and do not support z/VSE. 21 Applicable",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.499045",
+    "chunk_number": 327,
+    "word_count": 171
+  }
+}

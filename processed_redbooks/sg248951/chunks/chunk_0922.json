@@ -1,0 +1,18 @@
+{
+  "content": "optics versus failures because of dirty or faulty links. Key metrics can be displayed on the operator console. The results of a display matrix command with the LINKINFO=FIRST parameter, which collects information from each device in the path from the channel to the I/O device (see Figure 9-6 on page 389): \u2013 Transmit (Tx) and Receive (Rx) optic power levels from the PCHID, Switch Input and Output, and I/O device \u2013 Capable and Operating speed between the devices \u2013 Error counts \u2013 Operating System requires new function APAR OA49089 Note: Customer chilled water (WCU) is not offered on IBM z16. Chapter 9. Reliability, availability, and serviceability 389 Figure 9-6 Read Diagnostic Parameters function The new IBM Z Channel Subsystem Function performs periodic polling from the channel to the end points for the logical paths that are established and reduces the number of useless Repair Actions (RAs). The RDP data history is used to validate Predictive Failure Algorithms and identify Fibre",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.717261",
+    "chunk_number": 922,
+    "word_count": 160
+  }
+}

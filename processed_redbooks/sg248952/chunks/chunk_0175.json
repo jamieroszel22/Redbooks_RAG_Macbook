@@ -1,0 +1,18 @@
+{
+  "content": "for the IFL is installed. It does not affect software licenses or maintenance charges. ICF An internal coupling facility (ICF) processor that is purchased and activated for use by the Coupling Facility Control Code. zIIP An \u201cOff Load Processor\u201d for workload that supports applications such as DB2, Java, XML and z/OS Container Extensions. It can also be used for System recovery Boost (SRB). For more information, see IBM Z System Recovery Boost, REDP-5563-02. Unassigned zIIP A processor that is purchased for future use as a zIIP. It is offline and cannot be used until an upgrade for the zIIP is installed. It does not affect software licenses or maintenance charges. Additional SAP An optional processor that is purchased and activated for use as SAP (System Assist Processor). A minimum of one PU that is characterized as a CP, IFL, or ICF is required per system. The maximum number of characterizable PUs is 68. At least one CP must be purchased before a zIIP can be purchased. Starting with",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.862872",
+    "chunk_number": 175,
+    "word_count": 168
+  }
+}

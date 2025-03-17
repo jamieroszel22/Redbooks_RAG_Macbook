@@ -1,0 +1,18 @@
+{
+  "content": "Compression. The z/OS zEDC capability is a software-priced feature that is designed to support compression capable hardware. With IBM z16 A02 and IBM z16 AGZ, the zEDC feature is implemented in the on-chip compression accelerator unit, but the software (z/OS) component is required to maintain the same functionality as previous PCIe based zEDC features. All data interchange with existing (zEDC) compressed data remains compatible as IBM z16 A02 and IBM z16 AGZ and zEDC capable machines coexist (accessing same data). Data that 276 IBM z16 A02 and IBM z16 AGZ Technical Guide is compressed and written with zEDC will be read and decompressed by IBM z16 A02 and IBM z16 AGZ well into the future. The on-chip compression unit has the following operating modes: \u0002 Synchronous execution in Problem State, where user application starts instruction in its virtual address space, which provides low latency and high-bandwidth compression/decompression operations). This mode does not require any special",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.883201",
+    "chunk_number": 674,
+    "word_count": 155
+  }
+}

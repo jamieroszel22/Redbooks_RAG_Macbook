@@ -1,0 +1,18 @@
+{
+  "content": "pace of innovation in artificial intelligence (AI) is high, especially in the development of newer and better foundation models. New versions of major models are regularly released, and numerous smaller models are created for specific languages, such as Danish; data types like geospatial; or business domains, such as IT programming. Additionally, a vibrant open-source community exists, with over one million models available on Hugging Face, an online marketplace for open-source AI models. That increasing choice in models means there is an increasing need for organizations to govern those choices. \u0002 Organizations should define the minimal standards a foundation model needs to meet before they will allow it to be applied in their use cases. This chapter describes the key considerations from the point of view of different stakeholders. \u0002 These considerations might require a trade-off decision when the minimal standards are in conflict (for example, would you accept a new model that",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.915788",
+    "chunk_number": 124,
+    "word_count": 152
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "available for use in the system. Memory allocation When the system is activated by using a POR, PR/SM determines the total installed memory and the customer enabled memory. Later in the process, during LPAR activation, PR/SM assigns and allocates each partition memory according to their image profile. PR/SM controls all physical memory, and can make physical memory available to the configuration when a CPC drawer is added. In older IBM Z processors, memory allocation was striped across the available CPC drawers because relatively fast connectivity (that is, relatively fast to the processor clock frequency) existed between the drawers. Splitting the work between all of the memory controllers allowed a smooth performance variability. The memory allocation algorithm changed starting with IBM z13\u00ae. For IBM z16, PR/SM tries to allocate memory into a single CPC drawer. If memory does not fit into a single drawer, PR/SM tries to allocate the memory into the CPC drawer with the most processor",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.355451",
+    "chunk_number": 288,
+    "word_count": 157
+  }
+}

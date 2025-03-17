@@ -1,0 +1,18 @@
+{
+  "content": "notify in the left navigation menu for the site and complete the subscription form to enable automatic email notification for service news, such as the availability date of a new RSU: Action: Enroll Your e-mail address: ... File: /service/news c. Navigate to the Red Alerts page. d. Click notify in the left navigation menu and complete the form to enable automatic email notification when a critical fix is available: Action: Enroll Your e-mail address: ... File: /service/redalert Note: For more information about z/VM Service, see Chapter 8, \u201cServicing z/VM\u201d on page 255 Chapter 6. Configuring z/VM 155 A z/VM 7.2 SSI cluster is now available. Proceed to begin the configuration of your new SSI cluster. 6.6 Enabling and configuring DirMaint DirMaint helps you to manage the USER DIRECT file, which holds all information about the z/VM user ID and makes user ID and resource administration easier. It is recommended that you enable DirMaint and configure it before enabling and configuring RACF.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.619262",
+    "chunk_number": 364,
+    "word_count": 161
+  }
+}

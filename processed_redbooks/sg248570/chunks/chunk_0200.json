@@ -1,0 +1,18 @@
+{
+  "content": "automatically applied when users query data in IBM watsonx.data. For example, if a column contains personally identifiable information (PII) such as Social Security Numbers (SSNs), watsonx.data will automatically transform the data using masking techniques like redaction or obfuscation, complying with data protection rules. This ensures data privacy is maintained during data access. 6.3.3 Summary and references In summary, the integration of IBM Knowledge Catalog with IBM watsonx.data facilitates the organization and understanding of data, implements privacy data protection such as data redaction, obfuscation, etc. This integration ensures that sensitive data is protected while Chapter 6. Establishing data governance 93 making data accessible for AI and data-driven initiatives. It provides a strong foundation for enhanced security, compliance, and data governance practices. For more information, visit IBM watsonx.data documentation. 94 Simplify Your AI Journey: Hybrid, Open Data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.109829",
+    "chunk_number": 200,
+    "word_count": 135
+  }
+}

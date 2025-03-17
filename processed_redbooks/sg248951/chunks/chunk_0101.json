@@ -1,0 +1,18 @@
+{
+  "content": "Boost. \u2013 At the time of this writing, the main System Recovery Boost users are z/OS (running in an LPAR), z/VM, z/VSE, and z/TPF) and stand-alone memory dump (SADMP). z/VM uses the System Recovery Boost if it runs on subcapacity CP processors only (IFLs are always at their full clock speed). Second-level z/VM guest operating systems12 can inherit the boost if they are running on CPs. For more information about RAS and System Recovery Boost, see Introducing IBM Z System Recovery Boost, REDP-5563. \u0002 Level 2 (physical), Level 3, and Level 4 (virtual) cache enhancements include the use symbol ECC to extend the reach of older IBM Z generations cache and memory improvements for augmented availability. The L2, L3, and L4 cache powerful symbol ECC makes it resistant to more failure mechanisms. Preemptive DRAM marking is added to the main memory to isolate and recover failures more quickly. 12 z/OS that is configured as a guest system under z/VM does not use the boost. \u00a9 Copyright IBM Corp.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.531152",
+    "chunk_number": 101,
+    "word_count": 168
+  }
+}

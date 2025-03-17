@@ -1,0 +1,18 @@
+{
+  "content": "instructions are allowed to run ahead of the stalled instruction. 82 IBM z16 (3931) Technical Guide \u0002 Reordering storage accesses Instructions that access storage can stall because they are waiting on results that are needed to compute the storage address. In an in-order core, later instructions are stalled. In an out-of-order core, later storage-accessing instructions that can compute their storage address are allowed to run. \u0002 Hiding storage access latency Many instructions access data from storage. Storage accesses can miss the L1 and require 7 - 50 more clock cycles to retrieve the storage data. In an in-order core, later instructions in the code stream are stalled. In an out-of-order core, later instructions that are not dependent on this storage data are allowed to run. The IBM z16 processor includes pipeline enhancements that benefit Out-of-Order execution. The processor design features advanced micro-architectural innovations that provide the following benefits: \u0002 Maximized",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.045501",
+    "chunk_number": 218,
+    "word_count": 150
+  }
+}

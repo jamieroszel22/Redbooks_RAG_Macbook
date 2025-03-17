@@ -1,0 +1,18 @@
+{
+  "content": "Replication were improved. \u0002 Remote Code Load The Remote Code Load (RCL) for IBM Z allows IBM to upgrade a machine remotely by working with the customer to schedule a date and time for the code load and monitor the process to ensure that it completes successfully. This feature allows you to schedule one or multiple Single Step Code Loads for an HMC or SE. On an IBM z16 system with the HMA feature, RCL can be scheduled to update both HMCs. The firmware automatically manages Alternative SE switches to ensure that each HMC can be updated without the Primary SE being present. In general, you first must generate a token on the HMC task Manage Remote Firmware Updates. Then, you can schedule an RCL on IBM Resource Link by selecting Fixes \u2192 Licensed internal code \u2192 Remote Code Load request. Note: For IBM Z, IBM Support personnel do not connect to your IBM Z from outside the data center location to perform the RCL. Instead, the RCL is managed on your HMC. Chapter 10. Hardware Management",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.895286",
+    "chunk_number": 974,
+    "word_count": 177
+  }
+}

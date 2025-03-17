@@ -1,0 +1,18 @@
+{
+  "content": "linked above also covers how to code the configuration of quality monitors, fairness, drift, and explanations. It is highly recommended to consult sample notebooks for thorough and up-to-date instructions. For users who are looking to create data configurations to specific data science problems, see the IBM directory for different options on creating data configurations. Note: The following pseudo-code requires additional code to function properly. Users should consult the notebook and the API documentation linked in the previous sections for a full walkthrough. 72 Ensuring Trustworthy AI with IBM watsonx.governance Validation Once the model is successfully tracked against an AI use case, it is placed into development stage. If the model is already deployed into a production space, it will instead show in the operation stage. This section will assume we have a model in the development stage of the lifecycle. There are multiple ways to move a model from the development stage into the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.164750",
+    "chunk_number": 192,
+    "word_count": 154
+  }
+}

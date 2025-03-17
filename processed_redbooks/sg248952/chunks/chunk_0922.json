@@ -1,0 +1,18 @@
+{
+  "content": "regulators for the principle logic voltage boundaries in the IBM z16 A02 and IBM z16 AGZ CPC drawer. They plug onto the CPC drawer system board and are non concurrent FRUs for the affected drawer, similar to the memory DIMMs. If you can use EDA, the replacement of POL cards is concurrent for the IBM Z server. \u0002 Redundant (N+1) Ethernet switches. \u0002 Redundant (N+2) ambient temperature sensors. \u0002 Dual inline memory module (DIMM) field-replaceable unit (FRU) indicators. These indicators imply that a memory module is not error-free and might fail sometime in the future. This indicator gives IBM a warning and provides time to concurrently repair the storage module for the IBM z16 A02 and IBM z16 AGZ Max68 feature. 378 IBM z16 A02 and IBM z16 AGZ Technical Guide The process to repair the storage module is to isolate or \u201cfence off\u201d the drawer, remove the drawer, replace the failing storage module, and then add the drawer. Single processor core checkstop and sparing. This indicator shows that",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.724144",
+    "chunk_number": 922,
+    "word_count": 169
+  }
+}

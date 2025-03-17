@@ -1,0 +1,18 @@
+{
+  "content": "the same physical system frame. An example is the connectivity between a z/OS LPAR that serves IBM DB2\u00ae and a z/VM LPAR where one or more Linux VMs access the DB2 instance on z/OS. With the advent of 10 GB Ethernet connectivity, the utility from HIPERS is diminished. The network speeds that are obtained from a HiperSocket are substantially similar to that of 10 GB Ethernet. It is the general opinion of the authors of this book, whenever you can use 10 GB Ethernet or HiperSockets, use the 10 GB Ethernet unless a substantially compelling reason exists not to use it. HiperSockets characteristics HiperSockets feature the following characteristics: \u0002 They are used to configure the connection between two Z LPARs. \u0002 HIPERS is a direct memory-to-memory pipeline; it operates at memory transfer speed. \u0002 HIPERS can use System Assist Processors (SAP). \u0002 HiperSockets require access to the General Purpose Command Processor (CP). Because of this, HiperSockets are not available on any LinuxONE CPC,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.898330",
+    "chunk_number": 185,
+    "word_count": 163
+  }
+}

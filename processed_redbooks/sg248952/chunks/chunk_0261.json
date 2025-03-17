@@ -1,0 +1,18 @@
+{
+  "content": "This benefit is especially important for heavily threaded applications, such as Java. 3.4.17 Runtime Instrumentation Runtime Instrumentation (RI) is a hardware facility for managed run times, such as the Java Runtime Environment (JRE). RI allows dynamic optimization of code generation as it is being run. It requires fewer system resources than the current software-only profiling, and provides information about hardware and program characteristics. RI also enhances JRE in making the correct decision by providing real-time feedback. 3.5 Processor unit functions The PU functions are described in this section. 3.5.1 Overview All PUs on an IBM z16 A02 and IBM z16 AGZ are physically identical. When the system is initialized, two integrated firmware processors (IFP) are allocated from the pool of PUs that is available for the entire system. The other PUs can be characterized to specific functions (CP, IFL, ICF, zIIP, or SAP). The function that is assigned to a PU is set by the Licensed",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.206849",
+    "chunk_number": 261,
+    "word_count": 156
+  }
+}

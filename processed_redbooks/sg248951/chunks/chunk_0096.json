@@ -1,0 +1,18 @@
+{
+  "content": "SR1.1 features connect directly into the CPC (processor) Drawer, while Coupling Express2 Long Reach connects into the PCIe+ I/O Drawer. Chapter 1. Introducing the IBM z16 13 1.4 Reliability, availability, and serviceability System reliability, availability, and serviceability (RAS) is an area of continuous IBM focus and a defining IBM Z platform characteristic. The RAS objective is to reduce (or eliminate, if possible) all sources of planned and unplanned outages while providing adequate service information if an issue occurs. Adequate service information is required to determine the cause of an issue without the need to reproduce the context of an event. IBM Z platforms are designed to enable highest availability and lowest downtime. These facts are recognized by various IT analysts, such as ITIC9 and IDC10. A comprehensive, multi-layered strategy includes the following features: \u0002 Error Prevention \u0002 Error Detection and Correction \u0002 Error Recovery \u0002 System Recovery Boost With a",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.503546",
+    "chunk_number": 96,
+    "word_count": 150
+  }
+}

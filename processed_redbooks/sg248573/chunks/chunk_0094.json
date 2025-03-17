@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.governance. 26 Ensuring Trustworthy AI with IBM watsonx.governance \u00a9 Copyright IBM Corp. 2025. 27 Chapter 3. Implementing AI governance strategy Artificial Intelligence (AI) governance is a multifaceted process that ensures AI systems are developed and deployed responsibly and ethically. This chapter provides a comprehensive overview of the end-to-end AI lifecycle governance process, exploring the various steps involved in achieving this goal. This chapter contains the following sections: \u0002 \u201cUnderstanding the end-to-end AI lifecycle governance process\u201d on page 28 \u0002 \u201cElements of model risk governance\u201d on page 29 \u0002 \u201cConsiderations to implement AI governance strategy\u201d on page 37 3 28 Ensuring Trustworthy AI with IBM watsonx.governance 3.1 Understanding the end-to-end AI lifecycle governance process This section describes the governance process which is divided into two primary levels: macro and micro as shown in Figure 3-1. Figure 3-1 End-to-end AI lifecycle governance process",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.804305",
+    "chunk_number": 94,
+    "word_count": 141
+  }
+}

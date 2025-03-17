@@ -1,0 +1,18 @@
+{
+  "content": "sources of knowledge to supplement the LLM\u2019s internal representation of information. The key benefits of RAG solutions include reducing the chance that an LLM leaks sensitive data or \u2018hallucinate\u2019 incorrect or misleading information, and reducing the need for users to continuously train the model on new data, thus resulting in lower computational and financial costs. For more information about RAG, see What is Retrieval-Augmented Generation? Many organizations are implementing RAG solutions as part of their gen AI efforts. Although RAG has many benefits, there are challenges too, such as creating a robust and scalable pipeline, and the time to deliver and implement RAG solutions. AutoAI for RAG is a tool that was created by IBM. Similar to AutoAI, AutoAI for RAG is intended to help AI engineers quickly build RAG solutions. With AutoAI for RAG, AI engineers can quickly build and test multiple RAG pipelines without writing code. From the pipelines that are generated, the AI engineer can",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.461874",
+    "chunk_number": 85,
+    "word_count": 158
+  }
+}

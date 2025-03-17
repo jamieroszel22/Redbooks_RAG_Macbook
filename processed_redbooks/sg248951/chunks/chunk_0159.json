@@ -1,0 +1,18 @@
+{
+  "content": "System Reset Function: \u2013 No physical EPO switch is available on the IBM z16, which provides a means for the service technician6 to put a server into a known state. 5 The air density sensor measures air pressure and is used to control blower speed. 6 This function is available to IBM System Service Representatives (SSRs) only. 50 IBM z16 (3931) Technical Guide \u2013 This function does not provide the option to power down and keep the power down to the system. The power must be unplugged or the customer-supplied power turned off at the panel. \u0002 Other characteristics: \u2013 PDU Firmware can be concurrently updated \u2013 Concurrently repairable \u2013 Power redundancy check \u0002 Cable verification test by way of PDU: \u2013 By power cycling individual iPDU outlets, the system can verify proper cable connectivity \u2013 Power cable test runs during system Power On \u2013 Runs at system Installation and at every system Power On until the test passes \u0002 PCIe service enhancements: \u2013 Mandatory end-to-end cyclic redundancy check",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.798621",
+    "chunk_number": 159,
+    "word_count": 169
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "core database engine, this approach helps ensure rapid query response times, even for complex queries against large data sets. \u0002 Scalability and flexibility: SingleStore horizontal scalability and separation of storage and compute enable cost-effective performance optimization. Workspaces provide isolated compute environments for different workloads, helping to ensure optimal resource allocation and low-latency access to shared data. Also, SingleStore supports a wide range of data models, including relational, vector search, full-text search, time-series, geospatial, JSON, and BSON. By using SingleStore powerful capabilities, organizations can unlock the full potential of their data, drive innovation, and gain a competitive edge. 3.5.1 IBM watsonx.data: Simplifying data for AI IBM watsonx.data streamlines data management for AI applications in the following ways: \u0002 Unifying data: Consolidating data from various sources into a single, unified view \u0002 Optimizing performance: Enhancing",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.778856",
+    "chunk_number": 113,
+    "word_count": 133
+  }
+}

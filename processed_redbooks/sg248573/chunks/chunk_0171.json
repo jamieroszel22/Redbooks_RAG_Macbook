@@ -1,0 +1,18 @@
+{
+  "content": "drift) and to look at how the metadata like character counts and word counts is changing (input and output metadata drift). Any change in the data is reported as a metric on different dimensions. 6.2.2 Explainability For the predictive AI models, watsonx.governance gives users a sneak peek into the black box by giving localized explanations to understand how the different feature values are impacting the outcomes of the specific transactions. By aggregating these local explanations for a sample of such transactions, a global explanation is presented so that the user can understand the general factors that are influencing the model decisions. Chapter 6. Governing the end-to-end lifecycle of an AI asset 65 To this end, watsonx.governance utilizes both open-source algorithms (LIME and SHAP) and IBM Research\u00ae built contrastive explanations. By generating and analyzing data points, in the vicinity or the local neighborhood of a given transaction, Local Interpretable Model-agnostic",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.090345",
+    "chunk_number": 171,
+    "word_count": 149
+  }
+}

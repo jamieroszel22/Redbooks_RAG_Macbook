@@ -1,0 +1,18 @@
+{
+  "content": "implement Lifecycle Governance\u201d on page 66 \u0002 \u201cLifecycle implementation and considerations\u201d on page 67 6 62 Ensuring Trustworthy AI with IBM watsonx.governance 6.1 What is the AI lifecycle? Before reading through how watsonx.governance defines the lifecycle of an AI asset, it is useful to review the general lifecycle for data projects. Figure 6-1 represents the CRISP-DM methodology which encapsulates an industry-standard blueprint for completing data mining or data science projects. Figure 6-1 The CRISP-DM Methodology (Cross-industry Standard Process for Data Mining) Because AI is a form of machine learning (albeit a very large and complex version), every step of the CRISP-DM applies to the AI lifecycle during initial foundation model development (commonly referred to as model pretraining.) Differences begin to appear when we consider an AI asset after it has been developed. It is unreasonable to expect every enterprise to train their own model from scratch. For this reason, in",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.065108",
+    "chunk_number": 165,
+    "word_count": 150
+  }
+}

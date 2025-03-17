@@ -1,0 +1,18 @@
+{
+  "content": "performance of the link. The performance depends on many factors, including latency through the adapters, cable lengths, and the type of workload. 142 IBM z16 A02 and IBM z16 AGZ Technical Guide 4.2 I/O system overview The IBM z16 A02 and IBM z16 AGZ I/O characteristics and supported features are described in this section. 4.2.1 Characteristics The IBM z16 A02 and IBM z16 AGZ I/O subsystem is designed to provide great flexibility, high availability, and the following excellent performance characteristics: \u0002 High bandwidth IBM z16 A02 and IBM z16 AGZ use PCIe Gen3 protocol to drive PCIe+ I/O drawers and CPC to CPC (coupling) connections. The I/O bus infrastructure data rate of up to 128 GBps1 per system (12 PCIe+ Gen3 fanout slots). For more information about coupling link connectivity, see 4.6.4, \u201cParallel Sysplex connectivity\u201d on page 177. \u0002 Connectivity options: \u2013 IBM z16 A02 and IBM z16 AGZ configurations can be connected to an extensive range of interfaces, such as FICON/FCP for",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.630611",
+    "chunk_number": 363,
+    "word_count": 163
+  }
+}

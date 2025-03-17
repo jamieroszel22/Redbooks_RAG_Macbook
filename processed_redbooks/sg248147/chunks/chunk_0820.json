@@ -1,0 +1,18 @@
+{
+  "content": "All examples are shown from the MAINT virtual machine. The results differ for users with fewer privileges. Getting help To get help on the system, use the HELP command. Sometimes, it is difficult to find help for the exact command for which you are looking. The following HELP commands are useful: ===> help // for basic help ===> help menus // for menu of all z/VM help menus ===> help cp menu // for a menu of all CP commands ===> help cpquery // for a menu of all CP QUERY command ===> help cpset // for a menu of all CP SET commands Determining who is logged on To see who is logged on to the system, use the QUERY NAMES command, for example: ===> q n DIRMSAT2 - SSI ZMAPVM62 - DSC , LINUX153 - DSC , LNXADMIN - DSC , LINUX157 - DSC VSMEVSRV - DSC , VSMPROXY - DSC , VSMREQIU - DSC , VSMREQI6 - DSC VSMREQIN - DSC , DTCSMAPI - DSC , PERSMAPI - DSC , VSMWORK3 - DSC VSMWORK2 - DSC , VSMWORK1 - DSC , FTPSERVE - DSC , VSMGUARD - DSC TCPIP - DSC , DIRMAINT - DSC , DTCVSW2 - DSC , DTCVSW1 - DSC",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.373159",
+    "chunk_number": 820,
+    "word_count": 206
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "several of the links on this page. Chapter 8. Servicing z/VM 259 8.3 Applying a recommended service upgrade Applying an RSU is similar to applying a PTF, which was described in the previous section. z/VM service can be preventive (RSU) or corrective (COR). For more information about the latest RSU content, see this web page. For more information about Red Alerts, which contain information about potential high-impact items, see this web page. Next, we summarize applying service and also describe how to obtain service over the internet by using IBM Shopz. First, you must determine whether your system needs service by using the QUERY CPLEVEL command: ==> query cplevel z/VM Version 7 Release 1.0, service level 1801 (64-bit) Generated at 09/10/20 17:34:33 EDT IPL at 09/11/20 16:34:30 EDT The service level (also called RSU level) is a four-digit field that consists of a pair of two-digit segments. The first two digits represent the calendar year that the RSU was published, and the second",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.467363",
+    "chunk_number": 575,
+    "word_count": 163
+  }
+}

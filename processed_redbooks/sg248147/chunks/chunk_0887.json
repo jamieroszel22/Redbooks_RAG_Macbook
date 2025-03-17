@@ -1,0 +1,18 @@
+{
+  "content": "easy way to connect the network on the guests is to set up a virtual LAN (VLAN) for each of the required private interconnects on the external network. For each of these VLANs, then create a VLAN-aware VSWITCH with PORTTYPE ACCESS. Complete the following steps: 1. Set up a network switch that connects to the mainframe and configure all necessary VLANs as tagged VLANs to the attached port. 2. Find a free port triplet on the Open Systems Adapter (OSA) device, for example, for the devices 903 - 905. 3. Edit the system configuration and add the following statement to the end of the file: DEFINE VSWITCH PRV01 RDEV 0903 ETH VLAN 75 PORTT ACCESS Chapter 14. Working with networks 417 4. Grant access to only the group of virtual machines that are on that network: MODIFY VSWITCH PRV01 GRANT LINUXADM MODIFY VSWITCH PRV01 GRANT LINUX5 5. Perform the same steps on all other members of the SSI. 6. Define a private Internet Protocol (IP) range for the group of hosts. It is a preferred practice to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.603619",
+    "chunk_number": 887,
+    "word_count": 177
+  }
+}

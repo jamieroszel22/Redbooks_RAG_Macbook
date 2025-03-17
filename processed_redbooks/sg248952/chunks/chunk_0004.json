@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . 16 1.3.9 Supported connectivity and crypto features . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 1.3.10 Special-purpose features and functions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 1.4 Hardware management. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 1.5 Reliability, availability, and serviceability(RAS). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 Chapter 2. Central processor complex hardware components . . . . . . . . . . . . . . . . . . 21 2.1 System overview: frames and drawers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 2.1.1 IBM z16 A02 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 2.1.2 Top and bottom exit I/O and cabling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 2.1.3 IBM z16 A02 system features . . . . . . . . . . . . . .",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.164016",
+    "chunk_number": 4,
+    "word_count": 362
+  }
+}

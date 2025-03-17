@@ -1,0 +1,18 @@
+{
+  "content": "site failure or planned disaster test, GDPS concurrently adds CPs to the systems in the take-over site to restore processing power for mission-critical production workloads. GDPS automation runs the following tasks: \u0002 The analysis that is required to determine the scope of the failure. This process minimizes operator intervention and the potential for errors. \u0002 Automates authentication and activation of the reserved CPs. \u0002 Automatically restarts the critical applications after reserved CP activation. \u0002 Reduces the outage time to restart critical workloads from several hours to minutes. The GDPS service is for z/OS only, or for z/OS in combination with Linux on Z. 8.9 Flexible Capacity Cyber Resiliency Flexible Capacity for Cyber Resiliency is a new Capacity on Demand (CoD) offering available on IBM z16 A02 and IBM z16 AGZ machines that allows processing capacity flexibility between an organization\u2019s primary site and alternate data centers. This section summarizes the main features of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.601143",
+    "chunk_number": 881,
+    "word_count": 152
+  }
+}

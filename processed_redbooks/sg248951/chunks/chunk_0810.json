@@ -1,0 +1,18 @@
+{
+  "content": "Set the DYNCPADD parameter in member LOADxx to ENABLE. Another function concerns the system assist processor (SAP). When more SAPs are concurrently added to the configuration, the SAP-to-channel affinity is dynamically remapped on all SAPs on the system to rebalance the I/O configuration. 8.3.1 PU Capacity feature upgrades IBM z16 Model A01 has a machine type 3931 and a model capacity identifier. The 3931 is available in the following CPC drawer configurations: \u0002 Feature Max39 (one CPC Drawer installed) can have a maximum of 39 PUs for client characterization \u0002 Feature Max82 (two CPC Drawers) can have a maximum of 82 client PUs \u0002 Feature Max125 (three CPC Drawers) can have a maximum of 125 client PUs \u0002 Feature Max168 (four CPC Drawers) can have a maximum of 168 client PUs Chapter 8. System upgrades 335 \u0002 Feature Max200 (four CPC Drawers) can have a maximum of 200 client PUs \u0002 Model capacity identifiers 4xx, 5yy, 6yy, or 7nn The xx is a range of 00 - 392, yy is a range of 01 - 39, and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.353681",
+    "chunk_number": 810,
+    "word_count": 177
+  }
+}

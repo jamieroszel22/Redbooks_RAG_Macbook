@@ -1,0 +1,18 @@
+{
+  "content": "gather Linux performance data in Linux and provide this data to z/VM for a consolidated overview. To monitor Linux performance data directly from the kernel, the following statements must be true: \u0002 The APPLMON option must be set in the user directory. \u0002 Applmon data monitoring must be built into the kernel. The first requirement typically is true because the OPTION APPLMON was set for the Linux virtual machines in earlier sections. For the second requirement, this feature is built into both Red Hat Enterprise Linux (RHEL) Server and SUSE Linux Enterprise Server (SLES). Complete the following steps to use this built-in monitoring function: 1. Start a Secure Shell (SSH) session to a Linux system. In this example, LINUX3 is used. 2. Three modules are built into the kernel but they are not loaded, by default. They are named appldata_mem, appldata_os, and appldata_net_sum. You can verify that they are not loaded with the lsmod and grep commands: # lsmod | grep appldata 3. No output",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.495568",
+    "chunk_number": 852,
+    "word_count": 165
+  }
+}

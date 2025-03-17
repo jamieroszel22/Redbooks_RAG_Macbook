@@ -1,0 +1,18 @@
+{
+  "content": "Express32S LX feature, FC 0461, with two ports per feature, LC Duplex connectors \u0002 FICON Express32S SX feature, FC 0462, with two ports per feature, LC Duplex connectors For supported distances, see Table 4-6 on page 156. Consideration: FICON Express32S features do not support auto-negotiation to a data link rate of 2 or 4 Gbps (only 8, 16, or 32 Gbps) for point to point connections. To connect to lower speed devices a compatible switch must be used. Chapter 4. I/O structure 159 FICON Express16S+ The FICON Express16S+ feature is installed in the PCIe+ I/O drawer. Each of the two independent ports is capable of 4 Gbps, 8 Gbps, or 16 Gbps. The link speed depends on the capability of the attached switch or device. The link speed is auto-negotiated, point-to-point, and is transparent to users and applications. The following types of FICON Express16S+ optical transceivers are supported (no mix on same card): \u0002 FICON Express16S+ LX feature, FC 0427, with two ports per feature, supporting LC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.763031",
+    "chunk_number": 396,
+    "word_count": 167
+  }
+}

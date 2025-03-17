@@ -1,0 +1,18 @@
+{
+  "content": "the following points: \u0002 Operational changes can be made by using the Change LPAR Cryptographic Controls task from the SE, which reflects the cryptographic definitions in the image profile for the partition. With this function, adding and removing the cryptographic feature without stopping a running operating system can be done dynamically. \u0002 The same usage domain index can be defined more than once across multiple LPARs. However, the PCIe cryptographic adapter number that is coupled with the usage domain index that is specified must be unique across all active LPARs. The same PCIe cryptographic adapter number and usage domain index combination can be defined for more than one LPAR (up to 40 for IBM z16 A02 and IBM z16 AGZ). For example, you might define a configuration for backup situations. However, only one of the LPARs can be active at a time. For more information, see 6.5.5, \u201cManaging Crypto Express8S\u201d on page 226. 6.5.1 Cryptographic asynchronous functions The optional PCIe",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.305234",
+    "chunk_number": 536,
+    "word_count": 160
+  }
+}

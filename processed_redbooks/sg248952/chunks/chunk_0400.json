@@ -1,0 +1,18 @@
+{
+  "content": "support dynamic routing in the SAN with the FICON Dynamic Routing (FIDR) feature. FDR is designed to support the dynamic routing policies that are provided by the FICON director manufacturers; for example, Brocade\u2019s exchange-based routing (EBR) and Cisco\u2019s originator exchange ID (OxID)8 routing. A static SAN routing policy normally assigns the ISL routes according to the incoming port and its destination domain (port-based routing), or the source and destination ports pairing (device-based routing). The port-based routing (PBR) assigns the ISL routes statically that is based on \u201cfirst come, first served\u201d when a port starts a fabric login (FLOGI) to a destination domain. The ISL is round-robin that is selected for assignment. Therefore, I/O flow from same incoming port to same destination domain always is assigned the same ISL route, regardless of the destination port of each I/O. This setup can result in some ISLs overloaded while some are under-used. The ISL routing table is changed",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.778773",
+    "chunk_number": 400,
+    "word_count": 155
+  }
+}

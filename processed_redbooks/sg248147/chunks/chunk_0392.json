@@ -1,0 +1,18 @@
+{
+  "content": "FILES: NO RDR, NO PRT, NO PUN LOGON AT 13:24:34 EDT FRIDAY 20/09/22 z/VM V7.2.0 2020-06-26 09:03 ... Note: If you completed the next three sections on the first SSI member, proceed to \u201cPutting RACF into production\u201d on page 172. Chapter 6. Configuring z/VM 169 4. Set the F12 function key to the command RETRIEVE: ===> set pf12 ret 5. Link and access 7VMRAC20\u2019s 505, 191, and 29E disks. Disregard any error messages: ===> link 7VMRAC20 505 505 rr RPIMGR031E RESOURCE 7VMRAC20.505 SPECIFIED BY LINK COMMAND NOT FOUND DASD 0505 LINKED R/O; R/W BY RACMAINT ===> acc 505 c DMSACP723I C (505) R/O ===> link 7VMRAC20 191 192 rr RPIMGR031E RESOURCE 7VMRAC20.191 SPECIFIED BY LINK COMMAND NOT FOUND ===> acc 192 b DMSACP723I B (192) R/O DMSACP725I 192 also = D disk ===> link 7VMRAC20 29e 29e rr RPIMGR031E RESOURCE 7VMRAC20.29E SPECIFIED BY LINK COMMAND NOT FOUND ===> acc 29e d DMSACP724I 29E replaces D (192) R/O DMSACP723I D (29E) R/O 6. Update the RACF database with existing CP directory information by",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.734148",
+    "chunk_number": 392,
+    "word_count": 172
+  }
+}

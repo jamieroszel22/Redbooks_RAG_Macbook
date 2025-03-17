@@ -1,0 +1,18 @@
+{
+  "content": "summary: Pipeline leaderboard 11.The data scientist views additional model details of the highest ranked model, which is Pipeline 2, as shown in Figure 8-75. Figure 8-75 Pipeline 2: Confusion matrix 12.There is an option to save the model as either a model or notebook, but the data scientist chooses to gather the results and share with the broader team before adjusting or deploying the model. \u00a9 Copyright IBM Corp. 2025. 147 Chapter 9. Adopting Milvus for RAG using IBM watsonx By combining the generative power of large language models (LLMs) with the precision of information retrieval, Retrieval-Augmented (RAG) systems can deliver more accurate, relevant, and contextually rich outputs. This integration becomes even more powerful when leveraging robust vector databases like Milvus alongside comprehensive AI platforms such as IBM watsonx. This approach allows developers to build sophisticated RAG pipelines that efficiently manage and query massive datasets, enriching the capabilities of",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.299126",
+    "chunk_number": 247,
+    "word_count": 149
+  }
+}

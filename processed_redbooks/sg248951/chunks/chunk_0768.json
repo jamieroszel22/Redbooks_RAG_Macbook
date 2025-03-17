@@ -1,0 +1,18 @@
+{
+  "content": "Review any restrictions and migration considerations before creating an upgrade plan. \u0002 Acknowledge that some hardware features cannot be ordered or carried forward for an upgrade from an earlier server to IBM z16 and plan accordingly. z/OS Release IBM zEC12 IBM zBC12 WDFMa IBM z13 IBM z13s WDFMa IBM z14a a. Server is withdrawn from marketing. IBM z15 IBM z16 End of Service Extended Defect Supportb b. The IBM Software Support Services provides the ability for customers to purchase extended defect support service for z/OS. V2R2 X X X X X 09/2020b 09/2023b V2R3 X X X X X 09/2022 09/2025b V2R4 - X X X X 09/2024 09/2027b V2R5 - - X X X 09/2026 09/2029b 14 For example, the use of Crypto Express7S requires the Cryptographic Support for z/OS V2R2 - z/OS V2R3 web deliverable. New: ICSF support for IBM z16 is provided with PTFs, not Web deliverables 318 IBM z16 (3931) Technical Guide \u0002 Determine the changes in IOCP, HCD, and HCM to support defining IBM z16 configuration and the new features",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.223277",
+    "chunk_number": 768,
+    "word_count": 175
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "MDISK 155 3390 06232 012 VMBCM1 MR MDISK 1DF 3390 06244 012 VMBCM1 MR MDISK 1DB 3390 06256 012 VMBCM1 MR MDISK 2DF 3390 06268 012 VMBCM1 MR MDISK 2DB 3390 06280 012 VMBCM1 MR MDISK 15D 3390 06292 009 VMBCM1 MR 10.6.1 DirMaint commands To add a USER or IDENTITY, you must enter the DirMaint commands to include this definition in the z/VM directory. A HELP menu is available in z/VM to clarify any commands that you want to issue. This function shows different levels of information that is useful and can help the z/VM administrator to better understand the commands. To see the DirMaint commands, position the cursor over an option and press Enter. DirMaint commands overview The DirMaint command must be preceded by the abbreviation DIRM. This abbreviation routes the command to the DIRMAINT service machine, where the service machine performs validation checking and processes the request or rejects it with a suitable message. Quick reference for the most useful commands In this section, we",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.131230",
+    "chunk_number": 747,
+    "word_count": 168
+  }
+}

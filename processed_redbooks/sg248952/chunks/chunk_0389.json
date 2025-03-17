@@ -1,0 +1,18 @@
+{
+  "content": "32 Yes CL5 Integrated Coupling Adapter (ICA SR1.1)f 2 2 48 24 N/Ag CS5 Integrated Coupling Adapter (ICA SR)f 2 2 48 24 N/Ag CS5 a. Max. number depends on the feature: Max5, Max16 and Max32 have one CPC drawer and up to three I/O drawers. Max68 has two CPC drawers and up to three I/O drawers. b. Both ports must be defined with the same CHPID type. c. These features are defined by using Virtual Functions ID (FIDs). d. On IBM z16, the OSX and OSM type CHPIDs cannot be defined. IBM z16 cannot be part of an ensemble managed by zManager. e. IBM z16 is planned to be the last IBM Z generation to support OSA-Express 1000BASE-T adapters f. Installed in the CPC Drawer g. ICA SR 1.1 and ICA SR features are characterized by Adapter ID (AID). I/O feature Ports per card Port increments Max. portsa Max. I/O slotsa PCHID CHPID definition 156 IBM z16 A02 and IBM z16 AGZ Technical Guide Express3 can be defined to up to 126 virtual functions (VFs) per feature (port is defined in z/OS Communications",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.732179",
+    "chunk_number": 389,
+    "word_count": 184
+  }
+}

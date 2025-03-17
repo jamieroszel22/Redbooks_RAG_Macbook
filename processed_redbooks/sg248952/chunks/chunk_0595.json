@@ -1,0 +1,18 @@
+{
+  "content": "VM66424, and VM66650. Support for Linux Guest Secure IPL Guest Exploitation support for Secure IPL uses digital signatures to provide an IPL-time check that IPL data is intact, unaltered, and originates from a trusted build-time source. Enables detection of unauthorized changes to those software executables. This support provides ability for a guest to use (or exploit) hardware to validate the code being booted. Booted code must be signed by the customer or its supplier. The zBootLoader verifies the digitally signed hashes of the code, using verification certificates that the customer has loaded into the HMC certificate store. The machine loader will use the certificates in the HMC certificate store to validate that the signature of the code being loaded matches the signature on the program z/VM makes these same certificates available to the guest OS (Linux or z/OS), so that the OS can verify additional code loaded after IPL. z/OS as a z/VM guest supports AUDIT mode only. Enablement",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.552125",
+    "chunk_number": 595,
+    "word_count": 159
+  }
+}

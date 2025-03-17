@@ -1,0 +1,18 @@
+{
+  "content": "environment results in a robust virtualized cloud environment that can serve as a base for many upcoming new tasks and workloads. 1.4 A high-level overview of components and terminology We provide an overview of the components and technology because understanding what you are working with is critical to successful planning and deployment. 1.4.1 Hardware Consider the following hardware concepts: \u0002 Central processor complex Depending on the context of a discussion, the terms processor and CPU can refer to the complete system box, or one of the central processors (CPUs) within the system box. Although the meaning might be clear from the context of a discussion, even IT professionals must clarify their intended meaning when they use the terms processor or CPU. IBM uses the term central processor complex (CPC) to refer to the physical collection of hardware for IBM Z that includes main storage or memory, one or more central processors, timers, channels, interconnects, peripherals, cooling",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.478539",
+    "chunk_number": 91,
+    "word_count": 156
+  }
+}

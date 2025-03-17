@@ -1,0 +1,18 @@
+{
+  "content": "cache hierarchy is explained in more detail in Figure 9-4 on page 369. L2 Virtual L3 Chapter 3. Central processor complex design 79 Figure 3-5 IBM z16 A02 and IBM z16 AGZ and IBM z15 cache level comparison Compared to IBM z15, the IBM z16 A02 and IBM z16 AGZ cache design have larger L2 cache size. while L3 and L4 are now virtual caches. More affinity exists between the memory of a partition, the L4 virtual cache in a drawer, and the cores in the PU chips. As in IBM z15, the IBM z16 A02 and IBM z16 AGZ cache level structure is focused on keeping more data closer to the PU. This design can improve system performance on many production workloads. HiperDispatch To help avoid latency in a high-frequency processor design, PR/SM and the dispatcher must be prevented from scheduling and dispatching a workload on any processor available, which keeps the workload in as small a portion of the system as possible. The cooperation between z/OS and PR/SM is bundled in a function that is called",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.040701",
+    "chunk_number": 217,
+    "word_count": 178
+  }
+}

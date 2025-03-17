@@ -1,0 +1,18 @@
+{
+  "content": "and ingestion for AI model building This section describes the following topics: \u0002 Understanding the importance of data in AI \u0002 Preparing and cleaning data: data quality considerations \u0002 Handling missing data, outliers, and bias \u0002 Ingesting data into watsonx.ai Studio \u0002 Connecting to data repositories and cloud services 4.5.1 Understanding the importance of data in AI Data is the backbone of AI. It shapes the accuracy, effectiveness, and reliability of AI models. High-quality data enables AI to learn patterns, make predictions, and deliver meaningful insights. Understanding the importance of data in AI goes beyond mere volume; it involves ensuring data accuracy, consistency, and fairness. Poor data quality, bias, or gaps can lead to flawed models, incorrect predictions, and potential ethical issues. Therefore, this section focuses on the robust data preparation, cleaning, and validation that is essential for building AI systems that are trustworthy, transparent, and impactful in",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.515471",
+    "chunk_number": 99,
+    "word_count": 148
+  }
+}

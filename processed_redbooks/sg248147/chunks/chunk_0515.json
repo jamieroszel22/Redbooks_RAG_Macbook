@@ -1,0 +1,18 @@
+{
+  "content": "of the FILELIST panel by pressing F12. f. Populate SYSTEM DTCPARMS U with the contents from SSLPOOL DTCTEMP A: i. Move your cursor to the SYSTEM DTCPARMS U1 line and press F11 to open the file in XEDIT. ii. Delete all lines in the current file: ====> delete 10 DMSXCG501I 7 line(s) deleted DMSXSU559W Warning: file is empty 00001 * * * End of File * * * iii. Import the contents of SSLPOOL DTCTEMP A and then move to the top of the file and save your changes so far: ====> get SSLPOOL DTCTEMP A ====> top ====> save iv. Modify the header so that it reflects the file name, purpose, and last person to modify the file, as shown in Example 6-31. Example 6-31 Modified header * ================================================================= * SYSTEM DTCPARMS : TCPMAINT 198 -- MOD 2020-09-19 PWNOVAK * Created by: SSLPOOL EXEC -- 18 April 2015 - 18:41:15 * ================================================================= v. Filter by lines that contain an asterisk (*): ====> all/* vi.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.205956",
+    "chunk_number": 515,
+    "word_count": 165
+  }
+}

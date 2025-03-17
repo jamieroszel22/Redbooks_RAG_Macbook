@@ -1,0 +1,18 @@
+{
+  "content": "structure allows users to view their ML/AI assets as they relate to the business problem of the use case. One use case can hold multiple assets with each asset being represented by a factsheet. These factsheets hold all details of a given asset. Consider an AI factsheet to be a sort of \u201cnutrition label\u201d to the underlying AI asset. This factsheet is what will be used to represent the AI asset as it moves through each stage of its lifecycle. The following sections will show us how to set up AI use cases and how to create AI factsheets for AI assets. 6.3.1 Getting started: Setting up your AI use cases After installation and administration of watsonx.governance, we can implement lifecycle governance beginning at the use case level. The purpose of lifecycle governance is monitoring the progress of AI assets individually. These AI assets progress through what is called an AI use case. These AI use cases are central to lifecycle monitoring because it allows us to group AI assets together",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.108155",
+    "chunk_number": 177,
+    "word_count": 171
+  }
+}

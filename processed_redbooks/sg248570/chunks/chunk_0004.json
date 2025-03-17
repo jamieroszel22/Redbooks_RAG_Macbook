@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . 12 2.1.1 IBM watsonx.ai . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 2.1.2 IBM watsonx.data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 2.1.3 IBM watsonx.governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 2.2 IBM watsonx.data overview and architecture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16 2.3 Benefits of using watsonx.data for businesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 2.4 Data pipeline considerations for open lakehouse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 2.4.1 Apache Spark: The computational engine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 2.4.2 ETL tools: Managing complex workflows . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 2.4.3 StreamSets: Real-time data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.355415",
+    "chunk_number": 4,
+    "word_count": 366
+  }
+}

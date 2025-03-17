@@ -1,0 +1,18 @@
+{
+  "content": "introductions to the packages along with the data statistics configurations notebooks in that section. Once those activities are complete, new assets can be tracked against use cases in their appropriate lifecycle stages. It is worth noting that many ML processes which exist on other platforms are typically considered to be in a production state. Because of this, model tracking for third-party assets is most typically an administrative and organizational task while that asset is being developed and validated in its respective environment. Once the asset arrives into the production or operation stage, monitors can be configured for thorough and effective ML governance. For full instructions on how to configure headless subscriptions for ML models which are not hosted through watsonx.governance, see this notebook. Batch processing can also be achieved with watsonx.governance. For step-by-step instructions on achieving batch processing, see this notebook, the documentation. 6.4.5",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.189286",
+    "chunk_number": 199,
+    "word_count": 144
+  }
+}

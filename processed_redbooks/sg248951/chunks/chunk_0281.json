@@ -1,0 +1,18 @@
+{
+  "content": "example, the resource groups (RGs) that are used for managing the following native Peripheral Component Interconnect Express (PCIe) features: \u0002 10GbE and 25GbE RoCE Express3 Short Reach (SR) and Long Reach (LR) \u0002 10GbE and 25GbE RoCE Express2 \u0002 10GbE and 25GbE RoCE Express2.1 \u0002 Coupling Express2 Long Reach IFPs also are initialized at POR. They support Resource Group (RG) LIC11 to provide native PCIe I/O feature management and virtualization functions. 3.5.9 Processor unit assignment The processor unit assignment of characterized PUs is done at POR time when the system is initialized. The initial assignment rules keep PUs of the same characterization type grouped as much as possible in relation to PU chips and CPC drawer boundaries to optimize shared cache usage. The IBM z16 A01 PU assignment is based on CPC drawer plug order (not \u201cordering\u201d). Feature upgrade provides more processor (CPC) drawers. Max125 cannot be upgraded because the supposed targeted features (Max168 and Max200) are",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.285400",
+    "chunk_number": 281,
+    "word_count": 157
+  }
+}

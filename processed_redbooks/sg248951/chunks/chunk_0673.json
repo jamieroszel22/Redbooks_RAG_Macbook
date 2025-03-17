@@ -1,0 +1,18 @@
+{
+  "content": "orphaned cast-out lock problems and improved VSAM RLS Structure Full recovery processing. Addresses reoccurring problems that are encountered by installations running VSAM RLS data sharing. Retry Buffer support that is used on list and lock commands is extended to nonidempotent cache commands and optimized lock commands. The new support also allows connectors to lock structures to specify a percentage of record data entries to be reserved. These reserved entries are off limits to normal requests to the coupling facility and can be used only if a new keyword is used on lock requests that generate record data entries. \u0002 Cache residency time metrics The CF calculates in microseconds by way of a moving weighted average the elapsed time a data area or directory entry resides in a storage class before it is reclaimed. XES returns this information on an IXLCACHE REQUEST=READSTGSTATS and IXLMG STRNAME=strname,STGCLASS=stgclass request. \u0002 DYNDISP=ON|OFF is deprecated For CFCC Level 25,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.883250",
+    "chunk_number": 673,
+    "word_count": 153
+  }
+}

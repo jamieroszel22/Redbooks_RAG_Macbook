@@ -1,0 +1,18 @@
+{
+  "content": "where RACF is enabled. Figure 6-2 STAND ALONE PROGRAM LOADER window Attention: The PUT2PROD command must be run on each member of the SSI. Start with the first member. Perform all five of the following subsections on the first member. If you are in an SSI, you perform later only the first and last subsections on the other members: 1. IPLing the member and start RACMAINT. 2. Configuring the initial RACF database. 3. Enabling RACF-connector on DirMaint on the first member. 4. Setting the DirMaint use of the reader with RACF on the first member. 5. Putting RACF into production. STAND ALONE PROGRAM LOADER: z/VM VERSION 7 RELEASE 2.0 DEVICE NUMBER: 1136 MINIDISK OFFSET: 39 EXTENT: 1 MODULE NAME: CPLOAD LOAD ORIGIN: 1000 --------------------------------IPLPARAMETERS------------------------------ fn=SYSTEM ft=CONFIG pdnum=1 pdvol=1036 -----------------------------------COMMENTS--------------------------------- ---------------------------------------------------------------------------- 9=",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.718957",
+    "chunk_number": 389,
+    "word_count": 131
+  }
+}

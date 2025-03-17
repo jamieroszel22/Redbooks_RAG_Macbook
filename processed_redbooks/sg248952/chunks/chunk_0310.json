@@ -1,0 +1,18 @@
+{
+  "content": "64-K devices in each CSS \u0002 Subchannel set 2 with 64-K devices in each CSS The HSA features sufficient reserved space to allow for dynamic I/O reconfiguration changes to the maximum capability of the processor. 3.6.4 Virtual Flash Memory (FC 0644) IBM Virtual Flash Memory (VFM, FC 0644) is the replacement for the Flash Express features that were available on the IBM zBC12 and IBM z13s. No application changes are required to change from IBM Flash Express to VFM. For IBM z16 A02 and IBM z16 AGZ, up to 2.0 TB of virtual flash memory can be ordered, in 512 GB increments. The minimum is 0, while the maximum is 4 features. The number of VFM features ordered reduces the maximum orderable memory for the IBM z16 A02 and IBM z16 AGZ. 3.7 Logical partitioning The logical partitioning features are described in this section. 3.7.1 Overview Logical partitioning is a function that is implemented by the PR/SM on IBM z16 A02 and IBM z16 AGZ. IBM z16 A02 and IBM z16 AGZ can run in LPAR mode, or in",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.433161",
+    "chunk_number": 310,
+    "word_count": 179
+  }
+}

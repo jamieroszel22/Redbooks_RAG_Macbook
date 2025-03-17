@@ -1,0 +1,18 @@
+{
+  "content": "control (ABAC), dynamic groups, and multi-layered access controls. 4.1.2 Business use cases for user and group management This section delves into compelling business use cases for user and group management in IBM watsonx.data, and showcases how it can empower organizations to achieve data security, streamline access control, and foster efficient collaboration within their data analysis and AI workflows. Attribute-based access control ABAC is an advanced access control model that considers attributes that are associated with users, groups, and resources. Rather than assigning static permissions, ABAC enables dynamic, context-driven access based on attributes like department, project, geographic region, or time of day. ABAC is useful in lakehouse environments, where access requirements are complex and might vary significantly across the organization. Chapter 4. Protecting data 47 Business use case: Regulated financial services A financial services company managing a large lakehouse for",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.814122",
+    "chunk_number": 122,
+    "word_count": 139
+  }
+}

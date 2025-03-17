@@ -1,0 +1,18 @@
+{
+  "content": "Duplex 50, 62.5 \u00b5m MM 0434 CE2 LR LC Duplex 9 \u00b5m SM 0176 Integrated Coupling Adapter SR1.1 (ICA SR1.1) MTP 50 \u00b5m MM OM3/OM4 0172 Integrated Coupling Adapter (ICA SR) MTP 50 \u00b5m MM OM3/OM4 0451 zHyperLink Express1.1 MPO 50 \u00b5m MM OM3/OM4 0431 zHyperLink Express MPO 50 \u00b5m MM OM3/OM4 a. 50 \u00b5m core Multi Mode (MM) fiber: OM2, OM3, or OM4 (OM4 is highly recommended). b. UTP is unshielded twisted pair. Consider the use of category 6 UTP for 1000 Mbps connections. Feature Code Feature name Connector type Cable type Chapter 4. Central processor complex I/O structure 165 4.6.2 Storage connectivity Connectivity to external I/O subsystems (for example, disks) is provided by FICON channels and zHyperLink7. FICON channels IBM z16 supports the following FICON features: \u0002 FICON Express32S LX and SX (FC 0461/0462) \u0002 FICON Express16SA LX and SX (FC 0436/0437) \u0002 FICON Express16S+ LX and SX (FC 0427/0428) The ICON Express32S, FICON Express16SA, and FICON Express16S+ features conform to the following",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.816107",
+    "chunk_number": 403,
+    "word_count": 165
+  }
+}

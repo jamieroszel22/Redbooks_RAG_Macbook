@@ -1,0 +1,18 @@
+{
+  "content": "user-based (the default) or port-based access control. In user-based mode, a guest is permitted or denied to connect to a VSWITCH, and all ports that are connected to a VSWITCH feature the same access characteristics (such as ACCESS or TRUNK mode, and VLAN memberships). In port-based mode, a guest is granted access to connect to specific port numbers on a VSWITCH, and those ports might include different configured access characteristics. When DNA is enabled, all VSWITCHes operate like the previous port-based mode. A port definition that corresponds to the access that us implied through the NICDEF directory entry is automatically defined for a guest when that virtual NIC connects to the VSWITCH. DNA is the default operation mode for VSWITCHes on a system where the APAR is installed. Therefore, setting up an interconnect network can now be done by creating: \u0002 A VSWITCH (the old way) \u0002 A VLAN on an existing VSWITCH (the new \u201cDNA-enabled\u201d way) 14.1.2 Creating a VSWITCH for interconnect An",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.601469",
+    "chunk_number": 886,
+    "word_count": 164
+  }
+}

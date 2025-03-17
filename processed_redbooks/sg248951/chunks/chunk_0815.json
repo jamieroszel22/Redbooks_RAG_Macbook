@@ -1,0 +1,18 @@
+{
+  "content": "place an order through the CIU facility, you receive a notice that the order is ready for download. You can then download and apply the upgrade by using functions that are available through the Hardware Management Console (HMC), along with the RSF. After all of the prerequisites are met, the entire process (from ordering to activation of the upgrade) is performed by the customer, and does not require any onsite presence of IBM SSRs. Important: The LICCC-based PU conversions require that at least one PU (CP, ICF, or IFL), remains unchanged. Otherwise, the conversion is disruptive. The PU conversion generates a LICCC that can be installed concurrently in two steps: 1. Remove the assigned PU from the configuration. 2. Activate the newly available PU as the new PU type. Considerations: Client planning and operator action are required to use concurrent PU conversion. Consider the following points about PU conversion: \u0002 It is disruptive if all current PUs are converted to different types. \u0002",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.365943",
+    "chunk_number": 815,
+    "word_count": 163
+  }
+}

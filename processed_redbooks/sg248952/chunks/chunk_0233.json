@@ -1,0 +1,18 @@
+{
+  "content": "prefetches to prevent branch misses in an early stage. Furthermore, a branch history table (BHT) offers a Chapter 3. Central processor complex design 87 high branch prediction success rate in combination with a pattern history table (PHT) and the use of tagged multi-target prediction technology branch prediction. Branch prediction is now implemented as a two level BTB, BTB1 (\u201csmall\u201d and \u201cfast\u201d), and BTB2 (large, dense-SRAM). Now, BTB1 and BTB2 feature dynamic (variable) capacity: \u0002 BTB1: First Level Branch Target Buffer, smaller than IBM z15, dynamic director, variable capacity: \u2013 Minimum total branches in all parents (all large branches) = 8 K \u2013 Maximum total branches in all parents (all medium branches) = 12 K \u0002 BTB2: Second Level Branch Target Buffer, also variable capacity (variable directory), up to 260 k branches Branch prediction also implements auxiliary predictors for: \u0002 Direction: \u2013 Two table TAGE7 Pattern History Table (PHT): A two-level table (with different history",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.101145",
+    "chunk_number": 233,
+    "word_count": 154
+  }
+}

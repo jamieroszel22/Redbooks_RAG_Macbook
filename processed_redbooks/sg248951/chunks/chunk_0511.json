@@ -1,0 +1,18 @@
+{
+  "content": "includes the following topics: \u0002 6.1, \u201cCryptography enhancements on IBM z16\u201d on page 210 \u0002 6.2, \u201cCryptography overview\u201d on page 211 \u0002 6.3, \u201cCryptography on IBM z16\u201d on page 215 \u0002 6.4, \u201cCP Assist for Cryptographic Functions\u201d on page 219 \u0002 6.5, \u201cCrypto Express8S\u201d on page 224 \u0002 6.6, \u201cTrusted Key Entry workstation\u201d on page 239 \u0002 6.7, \u201cCryptographic functions comparison\u201d on page 242 \u0002 6.8, \u201cCryptographic operating system support for IBM z16\u201d on page 244 6 210 IBM z16 (3931) Technical Guide 6.1 Cryptography enhancements on IBM z16 IBM recognizes that with any new technology, new threats exist, and as such, suitable counter measures must be taken. Quantum technology can be used for incredible good, but in the hands of an adversary, it has the potential to weaken or break core cryptographic primitives that were used to secure systems and communications. Quantum-safe cryptography aims to provide protection against attacks that can be started by quantum computers. The IBM z16 uses quantum-safe",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.214184",
+    "chunk_number": 511,
+    "word_count": 162
+  }
+}

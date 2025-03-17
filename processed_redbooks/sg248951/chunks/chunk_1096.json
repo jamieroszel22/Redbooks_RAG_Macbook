@@ -1,0 +1,18 @@
+{
+  "content": "performance. Note: You should create an EDF file for each z/OS SYSID and load all the EDFs for the same CPC into IBM zPCR at the same time so to ensure that the correct LSPR Workload is assigned to each LPAR. IBM zPCR supports using drag-n-drop for multiple EDF files. Chapter 12. Performance and capacity planning 485 For additional information, see CP3KVMXT - VM Extract Utility for zCP3000 and zPCR Capacity Planning Support Tools. 12.9.3 Loading EDF files to the capacity planning tool By loading EDF files to IBM capacity planning tool, you can see the LSPR workload type that is based on CPU MF counter data. Figure 12-5 on page 486 shows a sample IBM zPCR window of a workload type. In this example, the workload type displays in the \u201cAssigned Workload\u201d column. The example shows only one partition, PX11, selected. Note that all active partitions can be selected on this panel. When you load the EDF file to IBM zPCR, it automatically sets your LPAR configuration. It also makes easy to",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.282472",
+    "chunk_number": 1096,
+    "word_count": 173
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "The support statements for the IBM z16 also cover the KVM hypervisor on distribution levels that have KVM support. For more information about the features and functions that are supported on IBM z16 by operating system, see Chapter 7, \u201cOperating system support\u201d on page 247. 1.1.4 Supported IBM compilers The following IBM compilers for IBM Z can be used with the IBM z16: \u0002 Enterprise COBOL for z/OS \u0002 Enterprise PL/I for z/OS \u0002 Automatic Binary Optimizer \u0002 z/OS XL C/C++ \u0002 XL C/C++ for Linux on IBM Z The compilers increase the return on your investment in IBM Z hardware by maximizing application performance by using the compilers\u2019 advanced optimization technology for IBM z/Architecture\u00ae. 6 IBM z16 (3931) Technical Guide Through their support of web services, XML, and Java, they allow for the modernization of assets in web-based applications. They also support the latest IBM middleware products (CICS\u00ae, Db2, and IMS), which allows applications to use their latest capabilities. To fully use",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.429437",
+    "chunk_number": 77,
+    "word_count": 163
+  }
+}

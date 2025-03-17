@@ -1,0 +1,18 @@
+{
+  "content": "64 64 N/A N/A N/A N/A CE LR Coupling Express LR 0433 10 Gbps 10 km (6.2 miles) N/A N/A 64 64 32 64 ICA SR 1.1 Integrated Coupling Adapter 0176 8 GBps 150 meters (492 feet) 48 48 96 48 N/A N/A ICA SR Integrated Coupling Adapter 0172 8 GBps 150 meters (492 feet) 48 48 96 48 16 80 IC Internal Coupling N/A Internal speeds N/A 64 64 64 64 32 32 180 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 They result in better coupling efficiency than with external links, effectively reducing the CPU cost that is associated with Parallel Sysplex. \u0002 They can be used in test or production configurations, reduce the cost of moving into Parallel Sysplex technology, and enhance performance and reliability. \u0002 They can be defined as spanned channels across multiple channel subsystems. \u0002 They are available at no extra hardware cost (no feature code). Employing ICFs with IC links results in considerable cost savings when configuring a cluster. IC links are enabled by defining CHPID type ICP. A maximum of 64 IC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.975312",
+    "chunk_number": 452,
+    "word_count": 182
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "The PCIe switch card spreads the x16 PCIe bus to the PCIe I/O slots in the domain. In the PCIe+ I/O drawer, the two PCIe switch cards (LG06 and LG16, see Figure 2-24) provide a backup path (Redundant I/O Interconnect [RII]) for each other through the passive connection in the PCIe+ I/O drawer backplane. Figure 2-24 PCIe+ I/O drawer locations During a CPC Drawer PCIe+ Gen3 fan-out or cable failure, all 16 PCIe cards in the two domains can be driven through a single PCIe switch card (see Figure 2-25). Figure 2-25 Redundant I/O Interconnect 54 IBM z16 (3931) Technical Guide To support RII between domain pair 0 and 1, the two interconnects to each pair must be driven from two different PCIe fan-outs. Normally, each PCIe interconnect in a pair supports the eight features in its domain. In backup operation mode, one PCIe interconnect supports all 16 features in the domain pair. 2.7.2 Enhanced drawer availability With EDA, the effect of CPC drawer replacement is minimized. In a multiple CPC",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.829039",
+    "chunk_number": 165,
+    "word_count": 171
+  }
+}

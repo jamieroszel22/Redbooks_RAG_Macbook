@@ -1,0 +1,18 @@
+{
+  "content": "plugs into BPA1 and the second power supply plugs into the paired BPA2 for redundancy. 2.9.3 Power estimation tool The power estimation tool for the IBM z16 allows you to enter your precise server configuration to obtain an estimate of power consumption by using the following process: 1. Log in to the Resource link with your user ID. 2. Click Planning \u2192 Tools \u2192 Power Estimation Tools. 3. Specify the quantity for the features that are installed in your system. This tool estimates the power consumption for the specified configuration. The tool does not verify that the specified configuration can be physically built. 2.9.4 Cooling The PU DCMs for IBM z16 A01 are cooled by a cold plate that is connected to the internal water-cooling loop. In an air-cooled system, the radiator unit dissipates the heat from the internal water loop with air. The radiator unit provides improved availability with N+ 1 pumps and blowers. For all IBM z16 A01 servers, the CPC drawer components (except for PU",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.906907",
+    "chunk_number": 183,
+    "word_count": 168
+  }
+}

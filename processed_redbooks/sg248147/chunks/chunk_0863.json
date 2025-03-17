@@ -1,0 +1,18 @@
+{
+  "content": "session to the target system. 2. Check that two devices are available with the CP QUERY FCP command: # vmcp q v fcp FCP FC00 ON FCP B801 CHPID 70 SUBCHANNEL = 0001 FC00 TOKEN = 00000007F62EA280 FC00 DEVTYPE FCP VIRTUAL CHPID FF FCP REAL CHPID 70 FC00 QDIO ACTIVE QIOASSIST ACTIVE QEBSM FC00 FC00 INP + 01 IOCNT = 00001346 ADP = 128 PROG = 000 UNAVAIL = 000 FC00 BYTES = 0000000000000000 FC00 OUT + 01 IOCNT = 00001464 ADP = 000 PROG = 128 UNAVAIL = 000 FC00 BYTES = 00000000005711FE FC00 DATA ROUTER ACTIVE WWPN C05076DD90000404 FCP FD00 ON FCP B901 CHPID 71 SUBCHANNEL = 0002 FD00 TOKEN = 00000007F62EA380 FD00 DEVTYPE FCP VIRTUAL CHPID 71 FCP REAL CHPID 71 FD00 QDIO ACTIVE QIOASSIST ACTIVE QEBSM FD00 FD00 INP + 01 IOCNT = 00001338 ADP = 128 PROG = 000 UNAVAIL = 000 FD00 BYTES = 0000000000000000 FD00 OUT + 01 IOCNT = 00001428 ADP = 000 PROG = 128 UNAVAIL = 000 FD00 BYTES = 000000000052EF86 FD00 DATA ROUTER ACTIVE WWPN C05076DD90000A64 3. Make the disk visible with the cio_ignore command: #",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.526338",
+    "chunk_number": 863,
+    "word_count": 187
+  }
+}

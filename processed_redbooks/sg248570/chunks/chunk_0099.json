@@ -1,0 +1,18 @@
+{
+  "content": "gosalesdw 3.2.4 MySQL access When connecting to the MySQL engine, select the MySQL driver by running the following command: export POSTGRES_PASSWORD=$(docker exec ibm-lh-postgres printenv | grep POSTGRES_PASSWORD | sed 's/.*=//') echo \"Postgres Userid : admin\" echo \"Postgres Password : \" $POSTGRES_PASSWORD echo $POSTGRES_PASSWORD > /tmp/postgres.pw 3.2.5 MySQL internal access When accessing the MySQL database in the system, use the following settings: \u0002 Hostname: watsonxdata \u0002 Port: 3306 \u0002 Username: root \u0002 Password: password \u0002 Database: gosalesdw 34 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Set allowPublicKeyRetrieval to True for the connection to work with dBeaver, as shown in Figure 3-3. Figure 3-3 MySQL internal access 3.2.6 MySQL external access The following credentials are used for remote access. \u0002 Hostname: region.services.cloud.techzone.com \u0002 Port: port \u0002 Username: root \u0002 Password: password \u0002 Database name: gosalesdw Set",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.722528",
+    "chunk_number": 99,
+    "word_count": 138
+  }
+}

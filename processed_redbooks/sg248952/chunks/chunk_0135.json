@@ -1,0 +1,18 @@
+{
+  "content": "two CPC drawers. 2.2.2 Oscillator With IBM z16 A02 and IBM z16 AGZ the oscillator card5, design and signal distribution scheme are new; however, the RAS strategy for the redundant clock signal and the dynamic switchover is unchanged. One primary OSC card and one backup are used. If the primary OSC card fails, the backup detects the failure, takes over transparently, and continues providing the CPC with the clock signals. The OSC card also provides the infrastructure for CPC time synchronization to an external time source (ETS). External time synchronization is provided via the IBM Z Server Time Protocol (STP), orderable feature FC1021, free of charge. Time synchronization functionality CPC drawer CPC0 CPC1 Installation order First Second Position in Frame A A10B A15B 5 Oscillator card (OSC) is combined (single FRU P/N) with the Baseboard Management Controllers (BMC); installed in pairs for each CPC Drawer 34 IBM z16 A02 and IBM z16 AGZ Technical Guide is configured and managed through",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.697735",
+    "chunk_number": 135,
+    "word_count": 160
+  }
+}

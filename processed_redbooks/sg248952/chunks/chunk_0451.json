@@ -1,0 +1,18 @@
+{
+  "content": "to a z/OS logical partition in the same CPC. These links are available on all IBM Z platforms. The IC link is an IBM Z coupling connectivity option that enables high-speed, efficient communication between a CF partition and one or more z/OS logical partitions that are running on the same CPC. The IC is a linkless connection (implemented in LIC) and does not require any hardware or cabling. An IC link is a fast coupling link that uses memory-to-memory data transfers. IC links do not have PCHID numbers, but do require CHPIDs. IC links have the following attributes: \u0002 They provide the fastest connectivity that is significantly faster than external link alternatives. Type Description Feature Code Link rate Max unrepeated distance Maximum number of supported links IBM z16 A02 and IBM z16 AGZ A01 IBM z16 A02 and IBM z16 AGZ A02a a. IBM z16 AGZ supports the same features as IBM z16 A02. IBM z15 T01 IBM z15 T02 IBM z14 ZR1 IBM z14 M0x CE2 LR Coupling Express2 LR 0434 10 Gbps 10 km (6.2 miles)",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.972360",
+    "chunk_number": 451,
+    "word_count": 178
+  }
+}

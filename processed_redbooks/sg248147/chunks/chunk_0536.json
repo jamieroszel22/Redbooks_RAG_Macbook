@@ -1,0 +1,18 @@
+{
+  "content": "that is owned by LNXMAINT, or defining a real minidisk for each of the z/VM guest systems. In this book, the authors implemented a sophisticated way to provide each user with a writable 191 disk and still share part of the content among all of the guests. In z/VM, the chosen solution is called a Shared File System (SFS) file pool. Each file pool is a collection of minidisks that are owned by a particular file pool virtual machine, which is known as a file pool server. The minidisks are used for storing file pool repository data, with control data (for example, catalogs, logs, and parameter files) that is necessary to keep the data definitions and recovery information. 6.16.1 SFS file pools characteristics When you compare the SFS file pool with technologies that are available to Linux, compare it with NFS. The following information relates to SFS file pools: \u0002 SFS file pools are run by a specific z/VM guest and need a special user with the appropriate rights to configure them; in our",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.291127",
+    "chunk_number": 536,
+    "word_count": 174
+  }
+}

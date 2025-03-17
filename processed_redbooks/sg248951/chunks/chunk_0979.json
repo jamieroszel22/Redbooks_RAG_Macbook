@@ -1,0 +1,18 @@
+{
+  "content": "changed) are configured as independent HMCs. They are not Primary or Alternative HMCs. HMC Data Replication can be established, if wanted. The SE code is running as a guest of the HMC. The two SE code instances are clustered for high availability. One SE code runs the Primary SE the other Alternative SE. These SEs perform data mirroring and their role can be switched for maintenance purposes. Switching the Primary and Alternative SE roles is important because HMC microcode maintenance can be performed only on the server that runs the Alternative SE as a guest. If the HMC, which receives microcode updates, runs the Primary SE guest, SE switchover must be performed. Figure 10-13 shows the HMA relation to the HMCs and SEs. Figure 10-13 HMA: HMCs and SEs 10.2.3 Rack Mount HMC and Tower HMC (carry forward only to IBM z16) For IBM z16, stand-alone HMCs (Tower or Rack Mount) can no longer be ordered. The following HMC feature codes can be carried forward from previous orders: 420 IBM z16",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.911392",
+    "chunk_number": 979,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "(first introduced with IBM z15) enables the restoration of service from, and catch up after, planned and unplanned outages faster than on any previous IBM Z with no extra software cost. It also provides faster site switching changeover between systems active in different sites (in a GDPS configured environment). Service restoration involves speeding up IPL and shutdown operations of an image (LPAR), and short-duration recovery process boosts for specific sysplex and operating system events. For more information see Introducing IBM Z System Recovery Boost, REDP-5563. Chapter 2. Central processor complex hardware components 51 IBM z16 servers continue to deliver robust server designs through new technologies, hardening innovative and classic redundancy. For more information, see Chapter 9, \u201cReliability, availability, and serviceability\u201d on page 379. 2.7 Connectivity Connections to PCIe+ I/O drawers and Integrated Coupling Adapters are driven from the CPC drawer fan-out cards. These",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.805409",
+    "chunk_number": 161,
+    "word_count": 143
+  }
+}

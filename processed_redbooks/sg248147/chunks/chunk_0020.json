@@ -1,0 +1,18 @@
+{
+  "content": "6.7.7 Configuring SMAPI to work with RACF. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 173 6.7.8 Configuring LogonBy processing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 176 6.7.9 Using the RACF SMF data unload utility. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 179 6.8 Implementing more network features . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 180 6.8.1 Enabling z/VM FTP and Network File System functions. . . . . . . . . . . . . . . . . . . 180 6.8.2 Reconfiguring TCP/IP for high availability by using a VSWITCH . . . . . . . . . . . . 181 6.9 Shutting down and IPLing the SSI cluster again . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 183 6.9.1 IPLing the other SSI members . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 184 6.10 Validating and testing your changes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 185 6.11",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.225981",
+    "chunk_number": 20,
+    "word_count": 342
+  }
+}

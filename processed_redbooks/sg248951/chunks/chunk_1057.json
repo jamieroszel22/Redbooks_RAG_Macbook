@@ -1,0 +1,18 @@
+{
+  "content": "internal water loop. The liquid in the internal water circuit is cooled by using a radiator. I/O drawers, PCIe I/O drawers, power enclosures, and CPC drawers are cooled by chilled air with blowers. CPC Feature Code Number of PCIe+ I/O drawers 0 1 2 3 4 5 6 7 8 9 10 max39 FC0667 1 7.0 kw 8.0 kw 9.0 kw 9.9 kw 10.8 kw 11.7 kw 14.0 kw N/A N/A N/A N/A max82 FC0668 2 10.7 kw 11.6 kw 12.5 kw 13.4 kw 14.3 kw 16.6 kw 17.9 kw 19.0 kw 20.1 kw 21.1 kw 22.1 kw max125 FC0669 3 14.1 kw 15.1 kw 16.1 kw 17.1 kw 18.0 kw 20.4 kw 21.7 kw 18.7 kw 23.9 kw 24.9 kw 25.9 kw max168 FC0670 4 20.6 kw 21.6 kw 22.6 kw 23.6 kw 24.6 kw 25.5 kw 26.5 kw 27.4 kw 28.3 kw 29.2 kw 30.0 kw max200 FC0671 4 20.6 kw 21.6 kw 22.6 kw 23.6 kw 24.6 kw 25.5 kw 26.5 kw 27.4 kw 28.3 kw 29.2 kw 30.0 kw Note: Consider the following points: \u0002 The power values that are listed in this table assume the CPC process drawer and PCIe+ I/O drawers are plugged to the maximum with highest power features (that is, memory and I/O adapters and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.185197",
+    "chunk_number": 1057,
+    "word_count": 213
+  }
+}

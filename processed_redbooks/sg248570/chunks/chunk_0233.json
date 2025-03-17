@@ -1,0 +1,18 @@
+{
+  "content": "project. 122 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Figure 8-31 shows the connection details. Figure 8-31 Connection information: Connection details 8.3.2 Creating a data connection in the IBM watsonx.ai project The data engineer accesses the IBM watsonx.ai project and creates a data connection to the Presto engine in IBM watsonx.data by completing the following steps: 1. From the IBM watsonx.ai home page, the data engineer selects Projects \u2192 All projects, as shown in Figure 8-32. Figure 8-32 All projects 2. From the list of projects, they click the Bank Term Deposit Marketing Campaign Analysis project, as shown in Figure 8-33 on page 123. Chapter 8. Marketing campaign analysis use case 123 Figure 8-33 Projects - Bank Term Deposit Marketing Campaign Analysis 3. To create a data connection, the data engineer navigates to the Assets tab in the project and clicks New asset, as shown in Figure 8-34. Figure 8-34 New asset 4. Under Prepare data, they",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.239012",
+    "chunk_number": 233,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "can put your environment at risk. 3.2.1 How hypervisor security protects you To illustrate the exposure of inadequate security at the hypervisor layer, we consider an environment where several virtualized systems run under the same hypervisor instance. If the hypervisor does not adequately protect the resources of one VM from another, data can be moved between VMs that are outside the control of the VM operating system. This movement of data between VMs might occur through attaching the disks of one instance to another, or by creating an isolated network connection between them. These methods might result in sensitive data (such as SPI) being exfiltrated from a high-sensitivity VM to one with a lower security profile. One way to mitigate this issue might be to create separate hypervisor instances for the different security levels in your environment. However, this process quickly leads to problems in scalability and management by forcing more hypervisor instances that might be needed",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.008477",
+    "chunk_number": 214,
+    "word_count": 157
+  }
+}

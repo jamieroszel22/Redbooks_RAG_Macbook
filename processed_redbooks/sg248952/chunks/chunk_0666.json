@@ -1,0 +1,18 @@
+{
+  "content": "Library website. For more information, see \u201c12.2, \u201cIBM z16 A02 and IBM z16 AGZ Large System Performance Reference ratio\u201d on page 458. z/OS SMF Enhancements for CPACF SMF 0 records have been enhanced to indicate the number of crypto counters supported by the current IBM Z hardware. SMF 30 records have been enhanced to include new crypto counter sections that contain counters for CPACF cryptographic instructions utilized by a job in a given period. These sections are produced only for those instructions that are used. These counters are correlated with z/OS jobs and users for the determination of the algorithms, bit lengths and key security utilized by a given workload. This data can aid in compliance, performance and configuration. The SMF 30 self-defining section indicates the length and number of crypto counter sections The SMF 30 product / subsystem section indicates if the crypto counters are active This feature is supported on z/OS 2.4 and later. It requires APAR OA61511. Large",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.853656",
+    "chunk_number": 666,
+    "word_count": 161
+  }
+}

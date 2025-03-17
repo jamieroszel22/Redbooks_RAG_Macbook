@@ -1,0 +1,18 @@
+{
+  "content": "only). Although extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document. Functiona a. PTFs might be required for toleration support or use of IBM z16 features and functions. z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3 z/VM V7R2 z/VM V7R1 CP Assist for Cryptographic Function (CPACF) Y Y Y Yb b. For guest use or exploitation. Yb Yb Support for 85 Domains Y Y Y Yb Yb Yb CPACF support for: \u0002 Encryption (DES, TDES, AES) \u0002 Hashing (SHA-1, SHA-2, SHA-3, SHAKE) \u0002 Random Number Generation (PRNG, DRNG, TRNG) Y Y Y Yb Yb Yb Crypto Express8S Y Y Y Yb Yb Yb Crypto Express7S Y Y Y Yb Yb Yb Crypto Express7S Support for Visa Format Preserving Encryption Y Y Y Yb Yb Yb Crypto Express7S Support for Coprocessor in PCI-HSM Compliance Modec c. Requires TKE 9.1 or newer. Y Y Y Yb Yb Yb Crypto Express6S Y Y Y Yb Yb Yb Crypto Express6S Support for Visa Format Preserving Encryption Y Y Y Yb Yb Yb Crypto Express6S Support for Coprocessor in",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.712331",
+    "chunk_number": 628,
+    "word_count": 185
+  }
+}

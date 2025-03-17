@@ -1,0 +1,18 @@
+{
+  "content": "Hybrid, Open Data Lakehouse with IBM watsonx.data Audit and compliance For regulatory and internal compliance, IBM watsonx.data provides audit capabilities that enable administrators to track access patterns and permissions changes. Here are some key features: \u0002 Access logging: Log all access events for auditing purposes. \u0002 Regular audits: Schedule audits to review and adjust group permissions as needed. \u0002 Policy-based alerts: Set up alerts for unauthorized access attempts to help ensure that administrators are informed of potential security issues. In Figure 4-1, you can create access groups, or give access to a trusted profile, user, or service ID access to any of the target and specific permissions as depicted. Figure 4-1 Implementing group-based policies and permissions 4.2 Defining roles and responsibilities In a robust data lakehouse environment, defining roles and responsibilities is crucial for managing access to data and helping ensure security, compliance, and efficient",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.847606",
+    "chunk_number": 131,
+    "word_count": 145
+  }
+}

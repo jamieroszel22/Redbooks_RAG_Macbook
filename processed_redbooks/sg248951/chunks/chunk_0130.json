@@ -1,0 +1,18 @@
+{
+  "content": "167 0 - 167 0 - 168 20 Max200 0 - 200 0 - 200 0 - 199 0 - 199 0 - 200 24 Note: The addition of ICFs, IFLs, zIIPs, and SAPs to the IBM z16 Model A01 does not change the system capacity setting or its million service units (MSU) rating. 34 IBM z16 (3931) Technical Guide 2.3.4 Cache level structure The cache structure comparison between CPC drawers on IBM z16 A01 and IBM z15 T01 is shown in Figure 2-16. Figure 2-16 Cache structure comparison: IBM z15 versus IBM z16 2.4 PCIe+ I/O drawer As shown in Figure 2-17, each PCIe+ I/O drawer includes 16 slots to support the PCIe I/O infrastructure with a bandwidth of 16 GBps and includes the following features: Figure 2-17 PCIe I/O drawer (front and rear view) \u0002 A total of 16 I/O cards are spread over two I/O domains (0 and 1): \u2013 Each I/O slot reserves four PCHIDs. L2 (per core) L1 (per core) # of cores 4 MB I + 4 MB D 128 KB I / 128 KBD 12 z15 32 MB 128 KB I / 128 KBD 8 z16 PU Chip 32 MB 128 KB I / 128 KBD 16 z16 DCM L4 (on drawer) L3 (on chip)",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.661819",
+    "chunk_number": 130,
+    "word_count": 212
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "configuration. The total loss of one BPA does not affect system operation. BPAs are installed in pairs (2 or 4), depending on the configuration. Consider the following points: \u0002 BPA1 and BPA2 are always initially installed in Frame A. \u0002 BPA3 and BPA4 are installed to support more components for larger configurations (CPC and I/O drawers). \u0002 BPA1/BPA2 and BPA3/BPA4 for paired redundancy. \u0002 From the rear of the system, the odd-numbered BPAs are above the even-numbered BPAs in both frames. \u0002 The total loss of one BPA in a pair has no effect on system operation. Note: For initial installation, all power sources are required to run the system checkout diagnostics successfully. Chapter 2. Central processor complex hardware components 63 The following components plug into the BPAs X 2 for redundancy: \u0002 CPC Drawers, I/O Drawers, Switches, Radiators, and Support Elements \u0002 The redundancy for each component plugs into the paired BPAs For example, for the top Support Element 1, one power supply",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.904307",
+    "chunk_number": 182,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "work together more effectively. \u0002 Metadata: Metadata plays a crucial role in providing context and meaning to the data within the watsonx catalog. It includes information such as data lineage, data quality metrics, business terms, and technical definitions. It is important to implement active metadata management, which involves automatically capturing and updating metadata to ensure its accuracy and completeness. This enables users to understand the characteristics of the data, its origin, and how it can be used, fostering trust and confidence in data-driven insights. IBM watsonx.data has a central storage for information about its data, called the Metadata Service. This lets different tools work together seamlessly because they all understand the data the same way. \u0002 Policies: Policies in watsonx define the rules and guidelines for how data can be accessed and used. They help ensure data privacy, security, and compliance with regulatory requirements. It is important to implement",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.086227",
+    "chunk_number": 192,
+    "word_count": 149
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "DirMaint itself provides a level of security through its command set authorizations. These can be tailored to suit the using installation's needs. However, for critical data files, extra security measures must be implemented. This process can be done by using an External Security Manager (ESM), such as Resource Access Control Facility (RACF). An ESM controls who can have access, and what kind of access they can have to specific data files and disks. If an ESM is implemented at your installation, DirMaint must be given the appropriate access to the disks and files you want it to manage. DirMaint can call RACF for the following functions: \u0002 User add or change \u0002 Password or passphrase change \u0002 Logonby change \u0002 POSIX parameter change \u0002 Minidisks commands (AMDISK, CMDISK, DMDISK, etc) You need RACF or another ESM installed before implementing what is described in this chapter. To enable and configure RACF, see 6.7, \u201cEnabling and configuring RACF\u201d on page 155. If RACF is installed on your",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.972341",
+    "chunk_number": 703,
+    "word_count": 165
+  }
+}

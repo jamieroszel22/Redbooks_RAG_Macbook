@@ -1,0 +1,18 @@
+{
+  "content": "z16 AGZ hardware prerequisites include \u0002 CPACF digital signature support with Elliptic Curve ECDSA-P521 support and SHA-512 hashing support and \u0002 Virtual Flash Memory (VFM), also known as Storage Class Memory (SCM), for use in z/OS paging, because LPA pages will be paged to SCM/VFM Flash memory only. The IBM z16 A02 and IBM z16 AGZ firmware for Validated Boot provides SE and HMC panels to perform a List-Directed IPL (LD-IPL) from ECKD DASD and also from SCSI DASD (for Linux on IBM Z), as well as to store certificates for Validated Boot on a per-LPAR basis. Validated Boot for z/OS IBM plans to deliver a solution providing Validated Boot, also known as Secure Boot or Boot Integrity Validation, capability for z/OS IPLs. This solution is intended to validate digital signatures for loaded z/OS executables that have been built and signed as part of the solution. This solution is designed to meet the requirements for achieving the National Information Assurance Partnership (NIAP) OS",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.534402",
+    "chunk_number": 590,
+    "word_count": 163
+  }
+}

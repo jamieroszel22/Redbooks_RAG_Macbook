@@ -1,0 +1,18 @@
+{
+  "content": "Request, Use Case Stakeholder Review, Use Case Development and Validation, and Use Case Deployment Approval \u0002 Metrics: Metric Value and Metric Value Creation \u0002 Questionnaires: AI Assessment and Questionnaire Assessment \u0002 Other: Challenges and Model Risk Assessment Figure 3-5 illustrates a matrix of various objects and personas involved in AI governance workflows. Each row and column represent different components and stakeholders discussed in 3.2, \u201cElements of model risk governance\u201d on page 29, showcasing their interconnected roles in executing standardized processes. This visualization underscores the necessity of collaboration and coordination among diverse stakeholders to ensure the effective implementation of AI governance workflows. Figure 3-5 Workflows bridging governance and personas for standardized processes Benefits of structured workflows By integrating these workflows into the AI governance process, organizations can: \u0002 Ensure transparency, accountability, and ethical",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.890533",
+    "chunk_number": 118,
+    "word_count": 132
+  }
+}

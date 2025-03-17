@@ -1,0 +1,18 @@
+{
+  "content": "factors, which include the increasing usage of IoT devices, social media, and cloud computing. As data grows, so too do the challenges that are associated with storing it. Organizations must balance the need to store large amounts of data with the need to ensure that data is accessible, secure, and compliant with regulatory requirements. 1.4.2 Storage challenges In storing growing data, organizations face several challenges: \u0002 Scalability: As data grows, storage systems must scale to accommodate it. This act can be a challenge, particularly for organizations with limited resources. \u0002 Performance: As data volumes surge, storage systems must maintain peak performance to help ensure rapid and efficient data access. Cost considerations are significant, especially when organizations rely on traditional storage solutions for large-scale data storage. \u0002 Data protection: As data grows, the risk of data loss or corruption increases. Organizations must ensure that they have adequate data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.562778",
+    "chunk_number": 58,
+    "word_count": 147
+  }
+}

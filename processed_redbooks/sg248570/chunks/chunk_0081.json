@@ -1,0 +1,18 @@
+{
+  "content": "across all data in the enterprise, leveraging the IBM data-fabric capabilities. \u0002 Extensibility through APIs, value-add partner ecosystems, accelerators, and third-party solutions. 2.4 Data pipeline considerations for open lakehouse When designing a data pipeline for an open lakehouse architecture, several considerations must be addressed to ensure efficient, scalable, and robust data handling. The integration of tools like Apache Spark, ETL tools like DataStage\u00ae, and StreamSets plays a crucial role in shaping the pipeline's functionality. 2.4.1 Apache Spark: The computational engine Apache Spark serves as a distributed data processing engine, capable of handling large-scale data with its in-memory computation capabilities. In an open lakehouse, Spark is often the go-to engine for data transformation, analytics, and machine learning workloads. 1 This cost reduction was calculated by comparing published 2023 list prices normalized for virtual private cloud (VPC) hours of IBM",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.654510",
+    "chunk_number": 81,
+    "word_count": 138
+  }
+}

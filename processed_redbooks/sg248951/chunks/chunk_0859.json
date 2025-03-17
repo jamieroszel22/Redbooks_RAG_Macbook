@@ -1,0 +1,18 @@
+{
+  "content": "capacity. In support of automation, an API is available that allows the activation of the On/Off CoD records. The activation is performed from the HMC and requires specifying the order number. With this API, automation code can be used to send an activation command along with the order number to the HMC to enable the order. 8.6.6 Termination A customer is contractually obligated to end the On/Off CoD right-to-use feature when a transfer in asset ownership occurs. A customer also can choose to end the On/Off CoD right-to-use feature without transferring ownership. Removing FC 9898 ends the right to use the On/Off CoD. This feature cannot be ordered if a temporary session is active. Similarly, the CIU enablement feature cannot be removed if a temporary session is active. When the CIU enablement feature is removed, the On/Off CoD right-to-use feature is simultaneously removed. Reactivating the right-to-use feature subjects the client to the terms and fees that apply then. Upgrade",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.520740",
+    "chunk_number": 859,
+    "word_count": 159
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "tools include functions such as code execution, document retrieval (RAG), calculations, weather queries, time and location services, and AI and gen AI models, among others. The module of communication is a crucial part of an agent because it sets the formatting of the I/O communication in a standardized way to enable fast and transparent invocation of tools and output comprehension. The LLM at the core of this system is typically a large foundation model (FM) that is optimized for high performance across diverse benchmarks and tasks. For example, in the context of the IBM watsonx.ai platform, this role can be fulfilled by models such as Mistral Large, Llama 3.3 70B, or Llama 3.1 405B, which are known for their robust capabilities in generative reasoning and planning. Behind the scenes, an agent has its own called system prompt, which is the usual system prompt that can be set for any generative LLM. It describes in detail the main task for which a generative LLM should adhere to. The",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.050707",
+    "chunk_number": 214,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "stack within z/OS to use the HiperSockets device, it is recommended to get assistance from your network team. For more information about HiperSockets connectivity, see IBM HiperSockets Implementation Guide, SG24-6816. Complete the following steps to create a TCP/IP stack on z/OS: 1. Create a TCP/IP stack (which is called TCPIPF in this example) with a TCP/IP profile that uses the F0 CHPID: VIEW TCPIPF.SC42.TCPPARMS(TCPPROF) - 01.05 Command ===> 000085 000086 DEVICE IUTIQDF0 MPCIPA 000087 LINK HIPERLF0 IPAQIDIO IUTIQDF0 000088 ... 000090 HOME 000093 10.1.1.42 HIPERLF0 .. 000097 BEGINROUTES .. 000102 ROUTE 10.1.1.0 255.255.255.0 = HIPERLF0 MTU 8192 Chapter 14. Working with networks 419 000103 ENDROUTES 000104 000107 START IUTIQDF0 2. Put the CHPID identifier within the IUTIQDxx device statement. If it meets your sites\u2019 requirements, place the CHPID identifier in the LINK statements. Give the link a HOME address and ROUTE address according to your site networking requirements. Start your",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.615306",
+    "chunk_number": 891,
+    "word_count": 150
+  }
+}

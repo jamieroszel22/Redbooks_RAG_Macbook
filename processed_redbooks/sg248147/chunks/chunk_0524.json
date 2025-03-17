@@ -1,0 +1,18 @@
+{
+  "content": "231. ===> vmfclear ===> gskkyman Chapter 6. Configuring z/VM 231 20.Select option 1 to create a key database, and use the default file name of Database.kdb (note the upper case D). 21.Select a password to use for securing the database. This password can be as complex as you want, but remember the following information: \u2013 Remember that the password is case-sensitive. \u2013 The number sign (#) character is the end of line indicator; do not use it in your password. \u2013 Your password must not be trivial. \u2013 Document the password in a secure location, such as an enterprise identity and access management (IAM) data vault. 22.If a requirement or regulation mandates that cryptography-stored passwords must change on a timed interval, set an expiration date. If not, press Enter. 23.Press Enter twice to set the record length to the default of 5,000. 24.If you are required to abide by United States Government Federal Information Processing Standards (FIPS), answer 1 to the FIPS prompt. The typical",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.243128",
+    "chunk_number": 524,
+    "word_count": 165
+  }
+}

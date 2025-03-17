@@ -1,0 +1,18 @@
+{
+  "content": "3. They select data for the Data Refinery flow by clicking Select from project, as shown in Figure 8-46. Figure 8-46 Select from project Chapter 8. Marketing campaign analysis use case 131 4. The data that is needed for this analysis comes from the IBM watsonx.data connection that was established by the data engineer earlier. To find the data source that is needed for this analysis, the data analyst selects Connection \u2192 watsonx.data connection, as shown in Figure 8-47. Figure 8-47 Categories: Connections 5. The data analyst selects the corresponding catalog, schema, and table (watsonx.data connection \u2192 catalog01 \u2192 marketing_campaign_data \u2192 bank_term_deposit), as shown in Figure 8-48. Figure 8-48 Selecting the corresponding catalog, schema, and table 132 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 6. Before selecting Create, the data analyst enters a name for the Data Refinery flow, as shown in Figure 8-49. Figure 8-49 Define the details: Create",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.259562",
+    "chunk_number": 238,
+    "word_count": 154
+  }
+}

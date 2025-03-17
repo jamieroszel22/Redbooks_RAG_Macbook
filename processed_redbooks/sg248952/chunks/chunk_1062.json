@@ -1,0 +1,18 @@
+{
+  "content": "horizontal bracket per PCIe+ I/O drawer \u0002 Cable retention clips for all power cable connections Service clearance areas IBM z16 AGZ requires specific service clearance to ensure the fastest possible repair in the unlikely event that a part must be replaced. Failure to provide enough clearance to open the front and rear covers results in extended service times or outages. For more information, see IBM z16 and LinuxONE Rockhopper 4 Rack Mount Bundle Installation Manual for Physical Planning (IMPP), GC28-7035 on Resource Link. 11.4 Energy Management This section describes the elements of energy management to help you understand the requirements for power and cooling, monitoring and trending, and reducing power consumption. The energy management structure for the server is shown in Figure 11-6. Figure 11-6 IBM z16 Energy Management 450 IBM z16 A02 and IBM z16 AGZ Technical Guide The hardware components in the IBMz16 A02 and IBM z16 AGZ are monitored and managed by the energy management",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.211500",
+    "chunk_number": 1062,
+    "word_count": 158
+  }
+}

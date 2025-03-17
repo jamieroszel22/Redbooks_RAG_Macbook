@@ -1,0 +1,18 @@
+{
+  "content": "devices and main storage. It allows data processing to proceeded concurrently with I/O processing, which relieves data processors (central processor (CP) and Integrated Facility for Linux [IFL]) of the task of communicating directly with I/O devices. The channel subsystem includes subchannels, I/O devices that are attached through control units, and channel paths between the subsystem and control units. For more information about the channel subsystem, see 5.1.1, \u201cMultiple logical channel subsystems\u201d. The design of IBM Z offers considerable processing power, memory size, and I/O connectivity. In support of the larger I/O capability, the CSS structure is scaled up by introducing the multiple logical channel subsystem (LCSS) since IBM z990, and multiple subchannel sets (MSS) since IBM z9. An overview of the channel subsystem for IBM z16 A02 and IBM z16 AGZ is shown in Figure 5-1. IBM z16 A02 and IBM z16 AGZ configurations are designed to support up to three logical channel subsystems,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.054879",
+    "chunk_number": 472,
+    "word_count": 154
+  }
+}

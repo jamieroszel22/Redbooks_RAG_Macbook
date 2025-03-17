@@ -1,0 +1,18 @@
+{
+  "content": "Signal option With IBM z16 A02 and IBM z16 AGZ a new STP recovery signal called n-mode power has been implemented. A CTN with IBM z16 for both the Primary Time Server and the Backup Time server can be enabled (configured) to recover from a PTS/CTS failure by using the n-mode power (imminent power failure on the CTS (IBM z16 HW) configured with dual utility power). For additional information see the IBM Z Server Time Protocol Guide, SG24-8480. Chapter 10. Hardware Management Console and Support Element 399 \u0002 BCPii enhancements for SE restarts With IBM z16 A02 and IBM z16 AGZ the SE and the BCPii for GDPS and System Automation (SA) has an improved communication to not disturb important task on each side. For example if you try to restart an SE and GDPS or SA is doing some important task, the restart panel ask for confirmation to force the restart as shown in Figure 10-6. Figure 10-6 New information/question for SE power off or restart regarding GDPS or SA \u0002 Create and delete profiles on",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.884909",
+    "chunk_number": 966,
+    "word_count": 177
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "computer room cabling. \u0002 The new PSCN structure uses industry standard Ethernet switches (up to four). 2.9.1 PDU-based configurations The IBM Z operate with redundant power infrastructure. The IBM z16 A01 is designed with a new power infrastructure that is based on intelligent PDUs that are mounted vertically on the rear side of the 19-inch racks and Power Supply Units for the internal components. The PDU configuration supports radiator-cooled systems only. The PDUs are controlled by using an Ethernet port and support the following input: \u0002 3-phase 200 - 240 V AC (4-wire \u201cDelta\u201d) \u0002 3-phase 380 - 415 V AC (5-wire \u201cWye\u201d) The power supply units convert the AC power to DC power that is used as input for the Point of Loads (POLs) in the CPC drawer and the PCIe+ I/O drawers. The power requirements depend on the number of CPC drawers (1 - 4), number of PCIe I/O drawers (0 - 12) and I/O features that are installed in the PCIe I/O drawers. PDUs are installed and serviced from the rear of the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.879849",
+    "chunk_number": 177,
+    "word_count": 176
+  }
+}

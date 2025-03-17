@@ -1,0 +1,18 @@
+{
+  "content": "organizational standards or that might distort analysis if used without remediation. The IBM watsonx.data profiling engine uses advanced statistical methods and machine learning algorithms to rapidly scan large data sets, detect anomalies, and highlight potential data quality issues. For example, the system can flag missing or inconsistent data, or it can identify unexpected patterns that might signify erroneous data entry. In addition to traditional profiling, IBM watsonx.data supports more complex evaluations, such as data relationship analysis and schema validation, which assess how data entities are connected and whether the data schema aligns with expected standards. Once profiling is complete, IBM watsonx.data integrates the findings into a data quality framework that automatically generates alerts when data sets fall below predefined quality thresholds. These alerts enable data stewards to address issues before they compromise downstream analytics. Also, customizable workflows",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.136753",
+    "chunk_number": 207,
+    "word_count": 137
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "The program to be loaded must be signed and at a level that supports secure IPL. The HMC certificate store must be loaded with any necessary matching security certificates. Then the SET LOADDEV or SET DUMPDEV command must be issued to set the appropriate LOADDEV or DUMPDEV parameters that includes the SECURE option. The IPL command is then issued to request a secure list-directed IPL. Environment variable name: CP.FUNCTION.SECURITY.IPL - available with APAR VM66434 - indicates what level of Secure IPL is installed on the system. ISV impact Directory maintenance products like DirMaint and SMAPI may be affected although the changes made are upwardly compatible. Check with your vendor for updates. Note: z/VM host secure boot is currently not supported; the CP nucleus is not hashed or signed. 242 IBM z16 A02 and IBM z16 AGZ Technical Guide Linux or hardware interaction New levels of both hardware and Linux are required if the guest is to do a secure IPL.Guest Secure IPL requires an IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.555952",
+    "chunk_number": 596,
+    "word_count": 165
+  }
+}

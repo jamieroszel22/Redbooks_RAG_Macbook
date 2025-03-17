@@ -1,0 +1,18 @@
+{
+  "content": "criteria. Also, the operator determines whether to ignore the information or to manually upgrade or downgrade the system by using the HMC, SE, or available CPM commands. HMC z/OS image z/OS image z/OS image Sysplex A z/OS image z/OS image Sysplex A z/VM CF Sysplex A z/OS image CF Sysplex B CF Sysplex B z/OS image z/OS image Sysplex B CF Sysplex A z/OS image z/OS image Sysplex B Linux on IBM Z Capacity Provisioning Domain IBM z16 A02 IBM z15 T02 z/OS image Sysplex A SE SE Capacity Provisioning Manager Console z/OS image Sysplex A Capacity Provisioning Manager z/OSMF Browser Interface Chapter 8. System upgrades 349 \u0002 Confirmation mode In this mode, CPM processes capacity provisioning policies and interrogates the installed temporary offering records. Every action that is proposed by the CPM must be confirmed by the operator. \u0002 Autonomic mode This mode is similar to the confirmation mode, but no operator confirmation is required. Several reports are available in all modes that contain",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.551716",
+    "chunk_number": 864,
+    "word_count": 165
+  }
+}

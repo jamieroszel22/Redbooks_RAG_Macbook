@@ -1,0 +1,18 @@
+{
+  "content": "format, the data assets from watsonx.data are imported into a governed catalog in IBM Knowledge Catalog, where they can be enriched with business semantics by mapping business terms to technical data assets (such as database tables and columns). Data quality can be assessed through profiling and running data quality analyses. Data protection rules are established to control access to sensitive data in governed catalogs, which can include denying access, redacting columns, obfuscating columns, substituting columns, or filtering rows. In addition, semi-structured and unstructured data and documents can be processed, split, and stored in the watsonx.data vector database, Milvus, along with their metadata and vector embeddings in the same datastore. Milvus is designed to store, index, and manage embedding vectors used for similarity search and retrieval-augmented generation, empowering embedding similarity search and AI applications. 2.5.2 Data Preparation Businesses can derive a greater",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.780180",
+    "chunk_number": 88,
+    "word_count": 141
+  }
+}

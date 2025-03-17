@@ -1,0 +1,18 @@
+{
+  "content": "development lifecycle. watsonx.governance can help to automate the assignments of the mandates, processes, policies and controls through custom workflow created to accommodate the specific needs of the organization. Chapter 5. Assessing a new use case 55 \u0002 Stakeholder Review & Approval: Once SME review is complete, required business stakeholder will be automatically notified by watsonx.governance to review the use case and approve or reject the case. They will also be asked to provide comments to explain the review decision. The number of stakeholders notified can be automated via a watsonx.governance workflow or pre-defined in a use case template depending on organization needs. \u0002 Use Case Approved for Development: If all stakeholders approve of the use case, watsonx.governance marks it as \u201cApproved for Development\u201d. This provides audited authorization for development of the solution to begin and marks the end of the initial use case assessment. 5.2 Approval workflow Once a use case",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.037759",
+    "chunk_number": 158,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "SERVMGR SYSTEM PUT2PROD command is used to take the successfully sent service package and put the service into production. We ran this command on our system and the result is shown in Example 9-22. Example 9-22 SERVMGR SYSTEM PUT2PROD servmgr system put2prod 720 rdbkzvmc VMFCMG2195I SERVMGR SYSTEM PUT2PROD 720 RDBKZVMC VMFCMG2760I SERVMGR processing started VMFUTL2767I Reading VMSESE PROFILE B for additional options VMFCSY2760I CSMSYSMT processing started VMFCSY2195I CSMSYSMT CMG VMFCSY4063I SYSTEM PUT2PROD processing started for system RDBKZVMC VMFCSY4064R Service level RSU1 has a build state of TEST. Enter (1) to put the service level into production on system RDBKZVMC or (0) to quit 1 VMFCTL4017R Enter the login user ID to be used for RDBKZVMC host system: 9.76.61.239 csmwork VMFCTL4018R Enter the login password for user 'csmwork' on RDBKZVMC host system: 9.76.61.239 < < password > > VMFCSY4063I SYSTEM PUT2PROD processing completed successfully for system RDBKZVMC VMFCSY2760I",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.814219",
+    "chunk_number": 659,
+    "word_count": 147
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "memory, and I/O conditions are successfully resolved. The preparation step can be done in advance. However, if any changes to the configuration occur between the preparation and the physical removal of the drawer, you must rerun the preparation phase. The process can be run multiple times because it does not move any resources. To view the results of the last preparation operation, click Display Previous Prepare Enhanced Drawer Availability Results from the Perform Model Conversion window in the SE. The preparation step can be run without performing a drawer replacement. You can use it to dynamically adjust the operational configuration for drawer repair or replacement before IBM SSR activity. The Perform Model Conversion window in you click Prepare for Enhanced Drawer Availability is shown in Figure 9-7 on page 397. After you click Prepare for Enhanced Drawer Availability, the Enhanced Drawer Availability window opens. Select the drawer that is to be repaired or upgraded; then,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.808644",
+    "chunk_number": 945,
+    "word_count": 155
+  }
+}

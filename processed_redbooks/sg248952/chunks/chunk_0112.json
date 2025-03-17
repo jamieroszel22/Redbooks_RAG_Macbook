@@ -1,0 +1,18 @@
+{
+  "content": "will boost the system on which SVC dump is taken, to reduce system impact and expedite diagnostic capture. It is possible to enable/disable/set thresholds for this option. \u2022 Middleware restart/recycle boost will boost the system on which a middleware instance is being restarted, to expedite resource recovery processing, release retained locks, and so on. It is applicable to planned restarts, or restarts after failure, automated, or ARM-driven restarts. System Recovery Boost will not boost any system address spaces by default and must be explicitly configured by the WLM policy specification. \u2022 HyperSwap configuration load boost will boost the system in which the HyperSwap configuration and policy information are being loaded/re-loaded. This applies to both Copy Services Manager (CSM) and GDPS. HyperSwap Configuration Load boost is enabled by default. There are no thresholds or criteria applied to the boost request based on the size or number of devices present in the HyperSwap",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.591968",
+    "chunk_number": 112,
+    "word_count": 151
+  }
+}

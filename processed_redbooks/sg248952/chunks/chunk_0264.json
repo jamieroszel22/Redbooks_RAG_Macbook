@@ -1,0 +1,18 @@
+{
+  "content": "Event (CPE) for temporary upgrades (available only if the CPE feature code was carried forward from a previous IBM z14 or IBM z15 machine) \u0002 Flexible Capacity for Cyber Resilience upgrades If the PU chips in the installed in the first CPC drawer have no available remaining PUs, an upgrade results in a feature upgrade and potential installation of extra PU chips (e.g. from Max5 or Max16 to a Max32) or installation of the second CPC drawer (upgrades to a Max68). The mentioned addition of PU chips in the first CPC drawer is a disruptive upgrade, the addition of the second CPC drawer is always non-disruptive for the IBM z16 A02, but for the IBM z16 AGZ only if planned ahead when the original machine was ordered. For more information about Capacity on Demand, see Chapter 8, \u201cSystem upgrades\u201d on page 319. PU sparing If a PU failure occurs, the failed PU\u2019s characterization is dynamically and transparently reassigned to a spare PU. IBM z16 A02 and IBM z16 AGZ have two spare PUs. PUs that are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.213896",
+    "chunk_number": 264,
+    "word_count": 176
+  }
+}

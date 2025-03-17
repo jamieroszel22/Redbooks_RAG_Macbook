@@ -1,0 +1,18 @@
+{
+  "content": "extended (fee-based) support for z/OS V2.R2 can be obtained, support for z/OS V2.R2 is not covered extensively in this document. Functiona z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3 z/VM V7R2 Checksum offload for IPV6 packets Y Y Y Yb Yb Checksum offload for LPAR-to-LPAR traffic with IPv4 and IPv6 Y Y Y Yb Yb QDIO data connection isolation for z/VM - - - Y Y QDIO interface isolation for z/OS Y Y Y - - QDIO OLM (Optimized Latency Mode) Y Y Y - - QDIO Diagnostic Synchronization Y Y Y N N IWQ (Inbound Workload Queuing) for OSA Y Y Y Yb Yb GARP VLAN Registration Protocol Y Y Y Y Y Link aggregation support for z/VM - - - Y Y Multi-vSwitch Link Aggregation - - - Y Y Large send for IPV6 packets Y Y Y Yb Yb z/VM Dynamic I/O Support for OSA-Express OSD CHPIDs - - - Y Y OSA Dynamic LAN idle Y Y Y N N OSA Layer 3 virtual MAC for z/OS environments Y Y Y - - Network Traffic Analyzer Y Y Y N N Hipersockets HiperSocketsc Y Y Y Y Y HiperSockets Completion Queue Y Y Y Y Y HiperSockets Virtual Switch",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.684261",
+    "chunk_number": 622,
+    "word_count": 203
+  }
+}

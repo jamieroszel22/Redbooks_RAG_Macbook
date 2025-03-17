@@ -1,0 +1,18 @@
+{
+  "content": "you are installing to a larger disk size, overtype 10016 with the cylinder count for the disks you will use. (Installation to a fixed-block architecture (FBA) disk is not described in this book.). File pool name VMPSFS VMPSFS (default) recommended. System type \uf06fSSI (VMSSI) \uf06fNon-SSI Non-SSI system name Used for non-SSI installation only. Number of members VMSSI installation only (usually 2 or 4). SSI cluster name RBVMCLA VMSSI installation only. Our example is Redbooks z/VM cluster \u201cA\u201d Automatic configuration NO Slot Member name LPAR name Comment 1 RDBKZVMG A09 Member 1 system identifier and LPAR name 2 RDBKZVMH A0A Member 2 system identifier and LPAR name 3 RDBKZVMI A0C Member 3 system identifier and LPAR name 4 RDBKZVMJ A0D Member 4 system identifier and LPAR name Chapter 2. Planning 65 The values that are required for each row are listed in Table 2-7. Table 2-7 INSTPLAN values for volume definitions INSTPLAN worksheet 4 The values in Table 2-8 document the common volume and CTC",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.962802",
+    "chunk_number": 202,
+    "word_count": 164
+  }
+}

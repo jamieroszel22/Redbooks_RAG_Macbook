@@ -1,0 +1,18 @@
+{
+  "content": "DISCLAIMER: IBM z16 with the Crypto Express 8S card provides quantum-safe APIs and access to quantum-safe algorithms that were selected as finalists during the PQC standardization process that was conducted by NIST (https://csrc.nist.gov/Projects/post-quantum-cryptography/round-3-submissions). Quantum-safe cryptography refers to efforts to identify algorithms that are resistant to attacks by classic and quantum computers to keep information assets secure, even after a large-scale quantum computer is built. (https://www.etsi.org/technologies/quantum-safe-cryptography). These algorithms are used to help ensure the integrity of several firmware and boot processes. IBM z16 is the Industry-first system that is protected by quantum-safe technology across multiple layers of firmware. 12 IBM z16 (3931) Technical Guide \u2013 OSA-Express7S (carry forward only) \u2013 OSA-Express6S (carry forward only) \u2013 RoCE Express3 (new build only) \u2013 RoCE Express2.1 (carry forward only) \u2013 RoCE Express2 (carry forward",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.493427",
+    "chunk_number": 93,
+    "word_count": 130
+  }
+}

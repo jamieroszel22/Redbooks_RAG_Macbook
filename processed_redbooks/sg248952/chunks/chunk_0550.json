@@ -1,0 +1,18 @@
+{
+  "content": "cryptographic keys will be protected by the 256-bit AES MK. The lattice-based key has a security strength of 128 bits. \u0002 TR-31 for Hash-based Message Authentication Code (HMAC) HMAC keys are used to verify the integrity and authenticity of a message. This support provides a standard method of exchanging HMAC keys with a partner using symmetric key techniques. The key is exchanged in the standard TR-31 key block format which can be consumed by any crypto system supporting the standard CCA Version 6.3 improvements5 \u0002 Compliance support for: \u2013 All DES services \u2013 AES services \u2013 RSA services, including full use of X.509 certificates \u0002 TR-34 Remote Key Load Greater than 16 domains support IBM z16 A02 and IBM z16 AGZ supports up to 40 LPARs. The early IBM Z crypto architecture was designed to support 16 domains, which matched the LPAR maximum at the time. Before IBM z13 systems, crypto workload separation can be complex in customer environments where the number of LPARs was larger than 16.",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.359908",
+    "chunk_number": 550,
+    "word_count": 168
+  }
+}

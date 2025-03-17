@@ -1,0 +1,18 @@
+{
+  "content": "credentials must be imported to one or more managing HMC consoles. After the HMC console completes all FTP operations, the HMC console performs the FTP operation on the SE\u2019s behalf and returns the results. The IBM Z platform must be managed by at least one HMC to allow FTP operations. Secure console-to-console communications The IBM z16 HMC features an industry standard-based, password-driven cryptography system. The Domain Security Settings are used to provide authentication and high-quality encryption. We recommend that clients use unique Domain Security settings to provide maximum security. These settings provide greater security than anonymous cipher suites, even if the default settings are used. To allow greater flexibility in password selection, the password limit was increased to 64 characters and special characters are allowed for IBM z16. For more information about HMC networks, see the following resources: \u0002 The HMC and SE Driver 51/Version 2.16.0 console help system \u0002 IBM",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.944570",
+    "chunk_number": 990,
+    "word_count": 151
+  }
+}

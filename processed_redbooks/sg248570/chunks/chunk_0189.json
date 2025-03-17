@@ -1,0 +1,18 @@
+{
+  "content": "improves efficiency by enhancing data locality and compression ratios. \u0002 Z-ordering and data skipping: Advanced file layout techniques like Z-ordering rearrange data to maximize locality across multiple dimensions. This technique can dramatically reduce the search space for queries filtering on multiple columns. Additionally, file-level statistics and indexes enable skipping entire files that do not match query predicates, further trimming query execution times. \u0002 Indexing and summary statistics: Just like traditional databases, lakehouse systems can maintain indexing structures and summary statistics on column distributions. These help the query optimizer quickly identify which segments of data are most relevant, leading to more efficient scans and joins. Instead of sifting through all data, watsonx.data can pinpoint only the necessary subsets, delivering near-interactive query responses. \u0002 Caching and adaptive execution: Frequently accessed data can be cached in memory or on faster",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.073776",
+    "chunk_number": 189,
+    "word_count": 137
+  }
+}

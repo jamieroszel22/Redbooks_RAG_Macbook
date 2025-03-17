@@ -1,0 +1,18 @@
+{
+  "content": "Infrastructure manager window and selects Add component to add the Spark engine, as shown in Figure 8-8. Figure 8-8 Add component 2. Under Engines, the data engineer clicks IBM Spark, and then clicks Next, as shown in Figure 8-9. Figure 8-9 Add component: IBM Spark Chapter 8. Marketing campaign analysis use case 107 3. Before creating the IBM Spark engine instance, the data engineer adds the engine details, which includes information to create a volume for the engine and catalogs to associate to the engine by selecting General Information \u2192 Engine Configuration \u2192 Associate catalogs \u2192 Create, as shown in Figure 8-10. Figure 8-10 Add component: IBM Spark 108 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data The new Spark engine takes a few minutes to provision. Once provisioned, the data engineer can view and access this engine from the Infrastructure manager page, as shown in Figure 8-11. Figure 8-11 Infrastructure manager view with IBM Spark engine spark-01",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.199093",
+    "chunk_number": 223,
+    "word_count": 161
+  }
+}

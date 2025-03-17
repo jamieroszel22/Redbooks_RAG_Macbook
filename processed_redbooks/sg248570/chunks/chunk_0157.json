@@ -1,0 +1,18 @@
+{
+  "content": "process avoids the need to write and read from disk between stages; the result: faster query execution time. The key pieces of the query execution model are as follows: Statement Presto executes ANSI-compatible SQL statements. When the Presto documentation refers to a statement, it is referring to statements as defined in the ANSI SQL standard which consist of clauses, expressions, and predicates. Some readers might be curious why this section lists separate concepts for statements and queries. This is necessary because, in Presto, statements simply refer to the textual Chapter 5. Querying and manipulating data and leveraging persona-specific engines 65 representation of a SQL statement. When a statement is executed, Presto creates a query along with a query plan that is then distributed across a series of Presto workers. Query When Presto parses a statement, it converts it into a query and creates a distributed query plan which is then realized as a series of interconnected stages",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.948078",
+    "chunk_number": 157,
+    "word_count": 157
+  }
+}

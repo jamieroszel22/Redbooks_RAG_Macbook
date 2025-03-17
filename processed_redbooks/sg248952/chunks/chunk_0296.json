@@ -1,0 +1,18 @@
+{
+  "content": "still be upgraded when sufficient PUs are available. Transparent CP, IFL, ICF, zIIP, SAP, and IFP sparing Depending on the feature, sparing of CP, IFL, ICF, zIIP, SAP, and IFP is transparent and does not require operating system or operator intervention. With transparent sparing, the status of the application that was running on the failed processor is preserved. The application continues processing on a newly assigned CP, IFL, ICF, zIIP, SAP, or IFP (allocated to one of the spare PUs) without client intervention. Application preservation If no spare PU is available, application preservation (z/OS only) is started. The state of the failing processor is passed to another active processor that is used by the operating system. Through operating system recovery services, the task is resumed successfully (in most cases, without client intervention). Dynamic SAP and IFP sparing and reassignment Dynamic recovery is provided if a failure of the SAP or IFP occurs. If the SAP or IFP fails, and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.375836",
+    "chunk_number": 296,
+    "word_count": 159
+  }
+}

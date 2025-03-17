@@ -1,0 +1,18 @@
+{
+  "content": "Built-in governance features in watsonx.data, enhanced by DataStage's data quality and lineage capabilities, ensure compliance with regulatory requirements. \u0002 StreamSet\u2019s monitoring capabilities add transparency, aligning with the watsonx.data data governance framework. Hybrid and open ecosystem watsonx.data's open and hybrid design allows integration across cloud and on-premises environments, fully leveraging the strengths of Spark, DataStage, and StreamSets. In a watsonx.data lakehouse architecture, the combined power of Apache Spark, IBM DataStage, and StreamSets ensures a robust data pipeline. Spark handles complex analytics and ML workloads, DataStage ensures ETL processes are efficient and governed, while StreamSets brings real-time capabilities. Together, they enable organizations to harness the full potential of watsonx.data for data-driven decision-making and AI innovation. 2.5.5 Synergy between watsonx.data and other watsonx platform components IBM watsonx platform is",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.693565",
+    "chunk_number": 90,
+    "word_count": 126
+  }
+}

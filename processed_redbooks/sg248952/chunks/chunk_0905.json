@@ -1,0 +1,18 @@
+{
+  "content": "RAIM protection (similar to IBM z15) \u2013 Up to 3 chip marks + 1 channel mark \u2013 DDR4 DRAM with on chip power regulation \u2022 N+1 voltage regulators \u2013 Standard Open Memory Interface (OMI); up to 6 OMI per drawer \u2022 CRC/Retry for soft errors \u2022 Degrade bus lanes from 4 lanes to 2 lanes on hard error \u2013 No waiting for all 8 RAIM channels, use first seven to respond \u2022 RAIM recovery is used to enhance performance without impacting RAS \u2022 Processor uses data from the first 7 channels to respond \u2022 Refetch data using all 8 RAIM channels if an error occurs \u2013 Virtual Flash Memory considerations \u2022 Each VFM Feature (FC 0644) takes 512 GB of memory. Up to 12 VFM features can be ordered. \u2022 If VFM is present, it is included in the Flexible memory calculations \u0002 Concurrent service and upgrade via Concurrent Drawer Repair (CDR) for 2-CPC drawer systems (Max68), 9.2.3 I/O and service I/O and service consist of the following features: Note: Flexible Memory feature is not supported on IBM A02 and IBM z16 A02 and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.673456",
+    "chunk_number": 905,
+    "word_count": 184
+  }
+}

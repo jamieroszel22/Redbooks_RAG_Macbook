@@ -1,0 +1,18 @@
+{
+  "content": "drawers 0 1 2 3 4 5 6 7 8 9 10 11 12 1 1 1 1 1 2 2 2 2 2 3 3 3 3 2 1 1 1 2 2 2 2 2 3 3 3 3 3 3 1 1 2 2 2 2 2 3 3 3 3 3 N/A 4 2 2 2 2 2 3 3 3 3 3 4 4 4 PDU/Linecord I/O drawers CPC drawers 0 1 2 3 4 5 6 7 8 9 10 11 12 1 1 1 1 1 2 2 2 2 2 3 3 3 3 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 2 2 2 2 2 2 2 3 3 3 3 3 N/A 4 3 3 3 3 3 3 3 3 3 4 4 4 4 62 IBM z16 (3931) Technical Guide The power supply units convert the regulated high-voltage DC power (supplied by BPA) to DC power that is used as input for the Points of Load (POLs) in the CPC drawer and the PCIe+ I/O drawers. The power requirements depend on the number of CPC drawers (1 -4), number of PCIe I/O drawers (0 - 10), and I/O features that are installed in the PCIe+ I/O drawers. A schematic view of a maximum configured system with BPA power is shown in Figure 2-28. Figure 2-28 Rear view of maximum configured system BPA power Each installed BPA requires a customer-supplied power feed. The number of power cords that are required depends on the system",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.899674",
+    "chunk_number": 181,
+    "word_count": 263
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "VMSSI members In this example of a two-node VMSSI cluster, only one more member exists. If you are creating a four-member VMSSI cluster, you have three more members. IPL each of the extra members from the HMC by completing the following steps: 1. Select the next LPAR, again double-checking to ensure that it is the correct choice. 2. Click Tasks \u2192 Recovery \u2192 Integrated 3270 Console, as shown in Figure 5-24. Figure 5-24 Starting a second Integrated 3270 Console 3. Click Load in the same Recovery menu. A window opens, as shown in Figure 5-25. Figure 5-25 Load a second LPAR in the z/VM VMSSI cluster Chapter 5. Installing z/VM 123 4. In the Load address field, enter the real device address of the Residence Volume that is allocated to the LPAR on your planning worksheet. In this example, it is 1560. In the Load Parameter field, enter SYSG. Click OK. 5. Switch to the Integrated 3270 Console window of the LPAR that you are loading. 6. At the Start (Warm|Force|COLD|CLEAN) prompt, enter warm:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.387752",
+    "chunk_number": 301,
+    "word_count": 174
+  }
+}

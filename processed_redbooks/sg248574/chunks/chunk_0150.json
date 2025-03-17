@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.ai 65 \u0002 Computationally demanding workloads requiring a high-performance architecture: Large models can have billions of parameters, which require a significant amount of computational resources. Even with the right data and parameters in place, fine-tuning remains computationally demanding. Training these large LLMs requires access to high-performance hardware, such as multi-GPU, along with robust memory and storage capabilities. For organizations without dedicated AI infrastructure, these requirements are often prohibitive. \u0002 Ensuring stability during the training process: Large-scale optimization algorithms are prone to issues like exploding or vanishing gradients, so achieving convergence without diverging from the optimal solution requires careful tuning and monitoring. 5.3.2 How watsonx.ai addresses fine-tuning challenges By automating the complexities of fine-tuning, watsonx.ai transforms what was once a labor-intensive and technically demanding process into an",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.779952",
+    "chunk_number": 150,
+    "word_count": 126
+  }
+}

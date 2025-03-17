@@ -1,0 +1,18 @@
+{
+  "content": "A02 and IBM z16 AGZ provide increased processing and enhanced I/O capabilities over the predecessor, IBM z15 T02. This capacity is achieved by increasing the number of PUs per system, redesigning the system cache and introducing new I/O technologies. IBM z16 A02 and IBM z16 AGZ provide 14% more z/OS processor capacity (6 CPs) and up to 25% full system capacity (Max68) compared to the IBM z15 T02 Max65. Uniprocessor performance has also increased 13% for full speed processor over its predecessor, IBM z15 T02 (IBM z16 A02 and IBM z16 AGZ capacity model Z01 over z15 T02 capacity model Z014). The Integrated Facility for Linux (IFL) and IBM Z Integrated Information Processor (zIIP) processor units on the IBM z16 A02 and IBM z16 AGZ can be configured to run two simultaneous threads in a single processor (SMT). SMT increases the capacity of these processors with 25% in average over the same processors running single thread. SMT is also enabled by default on System Assist Processors (SAPs).",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.461649",
+    "chunk_number": 84,
+    "word_count": 167
+  }
+}

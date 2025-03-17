@@ -1,0 +1,18 @@
+{
+  "content": "to communicate to the SEs (of a CPC). IPv6 addresses are easily identified. A fully qualified IPV6 address features 16 bytes. It is written as eight 16-bit hexadecimal blocks that are separated by colons, as shown in the following example: 2001:0db8:0000:0000:0202:b3ff:fe1e:8329 Because many IPv6 addresses are not fully qualified, shorthand notation can be used. In shorthand notation, the leading zeros can be omitted, and a series of consecutive zeros can be replaced with a double colon. The address in the previous example also can be written in the following manner: 2001:db8::202:b3ff:fe1e:8329 If an IPv6 address is assigned to the HMC for remote operations that use a web browser, browse to it by specifying that address. The address must be surrounded with square brackets in the browser\u2019s address field, as shown in the following example: https://[fdab:1b89:fc07:1:201:6cff:fe72:ba7c] 1 For the customer-supplied switch, multicast must be enabled at the switch level. Chapter 10.",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.956921",
+    "chunk_number": 994,
+    "word_count": 150
+  }
+}

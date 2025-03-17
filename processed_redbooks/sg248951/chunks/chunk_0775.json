@@ -1,0 +1,18 @@
+{
+  "content": "Personal Development Tool, a minimum of 2 GB is required for z/OS V2.R3. If the minimum is not met, a warning WTOR is issued at IPL. Continuing with less than the minimum memory might affect availability. A migration health check warns if the system is configured with less than 8 GB. \u0002 Dynamic splitting and merging of Coordinated Timing Network (CTN) is available with IBM z16. \u0002 RMF support is provided to collect SMC-D related performance measurements in SMF 73 Channel Path Activity and SMF 74 subtype 9 PCIe Activity records. It also provides these measurements in the RMF Postprocessor and Monitor III PCIe and Channel Activity reports. HyperSwap support is enhanced to allow RESERVE processing. When a system runs a request to swap to secondary devices that are managed by HyperSwap, z/OS detects when RESERVEs are held and ensures that the devices that are swapped also hold the RESERVE. This enhancement is provided with collaboration from z/OS, GDPS HyperSwap, and CSM HyperSwap. 7.5.6",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.246248",
+    "chunk_number": 775,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "each data set, such as schema definitions, data sensitivity, update frequency, and ownership. Also, IBM watsonx.data supports the automation of catalog updates through scripts and APIs, which reduce manual overhead and helps ensure that the catalog remains consistent as data assets evolve. With this level of automation, organizations can keep their catalogs up to date without the need for constant human intervention. 98 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data IBM watsonx.data also offers advanced indexing capabilities, which optimize the catalog for fast and efficient search queries. By indexing the metadata, tags, synonyms, and multi-language support, IBM watsonx.data enhances search performance so that users can search by using various metadata attributes. This flexibility in indexing and search capabilities helps ensure that users can quickly find the data sets that they need, regardless of language, data type, or data set complexity. 7.5 Using",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.143839",
+    "chunk_number": 209,
+    "word_count": 146
+  }
+}

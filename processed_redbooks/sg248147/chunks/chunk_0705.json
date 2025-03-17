@@ -1,0 +1,18 @@
+{
+  "content": "configure RACF-Connector if you completed the steps to enable RACF as described in 6.7, \u201cEnabling and configuring RACF\u201d on page 155. If you do not plan to enable RACF, skip this section. Note: These recommendations are optional and whether you follow them depends on the level of security that your installation requires. 322 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 10.4.2 Adding RACF connector configuration When DirMaint is not up yet Create another DirMaint configuration file, CONFIGRC DATADVH L to have different configuration file for RACF only. The L disk is on DIRMAINT 41F, which is the pre-production disk. Add the following lines: ===> vmlink dirmaint x configrc datadvh l ===> a 10 USE_RACF= YES ALL RACF_ADDUSER_DEFAULTS= UACC(NONE) RACF_DISK_OWNER_ACCESS= ACC(ALTER) RACF_RDEFINE_VMPOSIX_POSIXOPT.QUERYDB= UACC(READ) RACF_RDEFINE_VMPOSIX_POSIXOPT.SETIDS= UACC(NONE) RACF_RDEFINE_SURROGAT_DEFAULTS= UACC(NONE) AUDIT(FAILURES(READ)) RACF_RDEFINE_VMBATCH_DEFAULTS= UACC(NONE)",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.981741",
+    "chunk_number": 705,
+    "word_count": 129
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "uses port groups. Chapter 14. Working with networks 437 14.4 Linux network commands Regardless of which Linux distribution you are using, some commands are available for interacting with network functions. Users who worked with Linux (or UNIX) for several years might be used to older commands that are bundled with the net-tools package, most of which are deprecated. The iproute2 suite replaced the net-tools package. If you are still relying on the deprecated commands, begin moving to the new iproute2 version as soon as you can. Some commonly used commands are listed in Table 14-1. Many of the modern commands can be abbreviated; the full command is shown with parenthesis around the optional full-length version. Table 14-1 Linux networking commands For more information about iproute2, see the following web pages: \u0002 The Linux Foundation wiki \u0002 IPROUTE2 Utility Suite How to For more information about the deprecated net-tools package, see this web page. Obsolete commands Modern commands",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.729927",
+    "chunk_number": 929,
+    "word_count": 157
+  }
+}

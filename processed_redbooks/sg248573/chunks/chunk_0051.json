@@ -1,0 +1,18 @@
+{
+  "content": "their performance and robustness. Chapter 6, \u201cGoverning the end-to-end lifecycle of an AI asset\u201d on page 61 for more on this topic. \u0002 Generative AI is evolving rapidly. ChatGPT broke through to the mainstream in 2023, in 2024 many organizations turned to retrieval-augmented generation (RAG) solutions and AI assistants in various forms, and 2025 looks to be the year of agentic AI. Each of these developments also impacts how AI is governed. To help keep up, look for AI governance partners with first-hand experience in delivering these types of cutting-edge AI solutions. Having said all that, generative AI is not replacing machine learning (ML) - traditional machine learning remains a core technology in businesses and continues to deliver value. Consistent governance is essential for both ML and generative AI to address overlapping and unique challenges effectively. 1.3.2 Bring together diverse stakeholder perspectives AI governance is not just a matter for the technical teams. It is an",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.614503",
+    "chunk_number": 51,
+    "word_count": 156
+  }
+}

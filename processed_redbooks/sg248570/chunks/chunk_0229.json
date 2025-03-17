@@ -1,0 +1,18 @@
+{
+  "content": "engineer adds a new name for the table and then clicks Done. Chapter 8. Marketing campaign analysis use case 117 Figure 8-24 Source files: Target table The ingestion job typically requires a few minutes to finalize its execution. The data engineer can see the status of the job on the Ingestion history tab within the Data manager page, as shown in Figure 8-25. Figure 8-25 Ingestion history 118 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 8.2.7 Verifying the data in the schema Once the data ingestion job completes, the data engineer verifies that the data is in the correct table and schema. To do so, they complete the following steps: 1. From the Data manager window, they select the catalog, schema, and table that are defined in the ingestion job (select catalog_01 \u2192 marketing_campaign_data \u2192 bank_term_deposit \u2192 Columns), as shown in Figure 8-26. The Columns tab on the right shows the columns in the table, including the data type. Figure 8-26 Verifying the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.227823",
+    "chunk_number": 229,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "example values with those values that are correct for your environment. The value for the label must match the value that was used in step 3 on page 222. Important: The use of self-signed certificates is not recommended for production environments. Use self-signed certificates only in test environments before production. 234 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Figure 6-18 Example values for self-signed certificate subject name fields f. Press Enter twice to return to the Key Management Menu and select the following options: ===> 1 - Manage keys and certificates ===> 1 - ITSOSSIA (the option that displays the label of the certificate that you generated) ===> 3 - Set key as default g. Press Enter twice to return to the Key and Certificate Menu and then, select 0 to exit the GSKKYMAN utility. 33.Grant the LOGONBY privilege for GSKADMIN to the authorized IDs. Then, change the password for GSKADMIN to LBYONLY: ===> dirmaint for GSKADMIN logonby add spiedie tjwatson lydiap pwnovak",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.261777",
+    "chunk_number": 529,
+    "word_count": 163
+  }
+}

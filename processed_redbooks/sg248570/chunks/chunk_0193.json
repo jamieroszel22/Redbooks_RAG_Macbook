@@ -1,0 +1,18 @@
+{
+  "content": "granular policy controls, which allow organizations to define policies at various levels, from individual data assets to entire catalogs. This enables organizations to enforce data governance policies consistently and effectively across their data landscape. Together, the catalog, metadata, and policies in watsonx provide a comprehensive framework for governing and managing data assets. They enable organizations to unlock the full potential of their data while ensuring trust, transparency, and compliance. 6.2 Best practices for implementing an effective data governance framework In this section we discuss some best practices for implementing an effective data governance framework in watsonx.data. 6.2.1 Cataloging The following are best practices for cataloging: \u0002 Start with a clear data inventory: Identify all your data sources and assets, including structured, unstructured, and semi-structured data. This comprehensive view will help prioritize governance efforts. \u0002 Leverage IBM",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.086473",
+    "chunk_number": 193,
+    "word_count": 136
+  }
+}

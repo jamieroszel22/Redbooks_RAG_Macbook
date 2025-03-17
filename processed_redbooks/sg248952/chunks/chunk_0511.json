@@ -1,0 +1,18 @@
+{
+  "content": "is a prerequisite to use CPACF (except for SHA-1, SHA-224, SHA-256, SHA-384, and SHA-512) and the PCIe Crypto Express features. 0908 Crypto Express8S feature (dual HSM)a These features are optional. The 2-port feature contains two IBM 4770 PCIe Cryptographic Coprocessors (HSMs), which can be independently defined as Coprocessor or Accelerator. New feature. Not supported on previous generations IBM Z systems. A TKE, Smart Card Reader and latest available level Smart cards are required to operate the Crypto adapter card in EP11 mode. 0909 Crypto Express8S feature (single HSM)a These features are optional. The 2-port feature contains two IBM 4770 PCIe Cryptographic Coprocessors (HSMs), which can be independently defined as Coprocessor or Accelerator. New feature. Not supported on previous generations IBM Z systems. A TKE, Smart Card Reader and latest available level Smart cards are required to operate the Crypto adapter card in EP11 mode. 0898 Crypto Express7S feature (2-port) Carry",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.199356",
+    "chunk_number": 511,
+    "word_count": 150
+  }
+}

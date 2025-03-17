@@ -1,0 +1,18 @@
+{
+  "content": "ONLINE FCP_DEV: C746 WWPN: 50050763091B9145 LUN: 4000401F00000000 CONNECTION TYPE: SWITCHED STATUS: ONLINE EQID: 6005076309FFD14500000000000000F1C600000000077FFFFF SERIAL NUMBER: 75KCG71001F During the re-IPL of z/VM, many messages scroll by, including that the original EQID is replaced by an automatic value. This message is expected. It shows that the devices were detected correctly. All of the configured EDEVs are now ready to use. To use them, handle them as rdev that is available on this z/VM LPAR. The commands to DEDICATE a disk are identical to the commands of configuring CKD DASD. Cloning FBA EDEV Run the following commands to clone FBA EDEV 3002 onto 3006: ===> attach 3002 to * R/O DASD 3002 ATTACHED TO MAINT630 3002 R/O ===> attach 3006 to * DASD 3006 ATTACHED TO MAINT630 3006 Ready; ===> ddr z/VM DASD DUMP/RESTORE PROGRAM ENTER: ===> sysprint cons ENTER: ===> input 3002 dasd ENTER: 356 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 ===> output 3006 dasd ENTER: ===> copy all",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.219260",
+    "chunk_number": 770,
+    "word_count": 159
+  }
+}

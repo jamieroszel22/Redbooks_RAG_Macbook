@@ -1,0 +1,18 @@
+{
+  "content": "the backplane board. The I/O domains and slots are listed in Table 4-1. Table 4-1 I/O domains of PCIe+ I/O drawer 4.3.1 PCIe+ I/O drawer offering Up to 12 (for PDU systems), or up to 10 (for BPA systems PCIe+ I/O drawers can be installed for supporting up to 192 (PDU), or up to 160 (BPA) PCIe I/O features. Only the following PCIe features can be carried forward for an upgrade to IBM z16 A01 servers: \u0002 FICON Express16SA \u0002 FICON Express16S+ \u0002 zHyperLink Express (all features) \u0002 OSA-Express7S 25 GbE SR1.1 \u0002 OSA-Express7S (all features) \u0002 OSA-Express6S (all features) \u0002 25 GbE RoCE Express2.1 \u0002 25 GbE RoCE Express2 \u0002 10 GbE RoCE Express2.1 \u0002 10 GbE RoCE Express2 \u0002 Crypto Express7S(one or two ports/HSMs) \u0002 Crypto Express6S Domain I/O slot in the domain 0 LG02, LG03, LG04, LG05, LG07, LG08, LG09, and LG10 1 LG12, LG13, LG14, LG15, LG17, LG18, LG19, and LG20 154 IBM z16 (3931) Technical Guide IBM z16 A01 server supports the following PCIe I/O new features that are hosted in the PCIe+ I/O",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.728839",
+    "chunk_number": 382,
+    "word_count": 179
+  }
+}

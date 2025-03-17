@@ -1,0 +1,18 @@
+{
+  "content": "metrics, which include task-specific measures like accuracy or F1-scores, should guide the evaluation of prompt tuning effectiveness. Monitoring loss convergence and gradient stability help ensure that the chosen hyperparameters lead to tangible improvements. Carefully calibrating batch size, the number of epochs, the learning rate, and accumulation steps enables precise optimization of prompt tuning, which unlocks the full potential of LLMs for specific tasks. By managing these parameters holistically, practitioners can achieve performance gains while balancing computational efficiency and resource constraints. 64 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai 5.3 Fine-tuning Fine-tuning within the watsonx.ai ecosystem represents the next layer of model specialization, where foundation LLMs undergo retraining on domain-specific datasets to enhance accuracy and relevance for specific applications. Fine-tuning goes beyond prompt adjustments by modifying the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.756943",
+    "chunk_number": 146,
+    "word_count": 131
+  }
+}

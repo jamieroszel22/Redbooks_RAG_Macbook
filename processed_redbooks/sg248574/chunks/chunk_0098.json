@@ -1,0 +1,18 @@
+{
+  "content": "Welcome to watsonx window Chapter 4. Building and using artificial intelligence models 33 g. Click the + in the Projects table. h. Enter a project name, for example, test_project, as shown in Figure 4-18. Figure 4-18 Define details window i. Select Storage (if required). j. Click Create. k. Select Chat and build prompts with foundations models. l. Click Associate service to associate a Watson ML service to the project, as shown in Figure 4-19. Figure 4-19 Clicking Associate service m. Select the displayed Machine Learning service and click Associate, as shown in Figure 4-20. Figure 4-20 watsonx machine learning: Associate service 34 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai n. Go to the Assets tab, and then click New asset, as shown in Figure 4-21. Figure 4-21 watsonx projects: All assets o. Select Chat and build prompts with foundation models, as shown in Figure 4-22. Figure 4-22 Chat and build prompts with foundation models tile 4.5 Data preparation",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.515229",
+    "chunk_number": 98,
+    "word_count": 163
+  }
+}

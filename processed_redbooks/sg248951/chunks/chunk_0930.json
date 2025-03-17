@@ -1,0 +1,18 @@
+{
+  "content": "system, all of the drawers are connected by point-to-point connections. A drawer can always be added concurrently. \u0002 Air-cooled system: radiator with redundant (N+1) pumps. IBM z16 implements true N+1 redundancy on pumps and blowers for the radiator. One radiator unit in Frame A and one radiator unit in framer B, which is configuration-dependent. The radiator cooling system can support up to three CPC drawers simultaneously with a redundant design that consists of two pumps and two blowers. The replacement of a pump or blower causes no performance effect. \u0002 The PCIe+ I/O drawer is available for IBM z16. It and all of the PCIe+ I/O drawer-supported features can be installed concurrently. \u0002 Memory interface logic to maintain channel synchronization when one channel goes into replay. IBM z16 can isolate recovery to only the failing channel. \u0002 Out-of-band access to DIMM (for background maintenance functions). Out-of-band access (by using an I2C interface) allows maintenance (such as",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.739140",
+    "chunk_number": 930,
+    "word_count": 156
+  }
+}

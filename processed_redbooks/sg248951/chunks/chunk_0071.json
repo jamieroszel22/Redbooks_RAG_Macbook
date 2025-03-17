@@ -1,0 +1,18 @@
+{
+  "content": "unmatched simplicity and predictability of hardware capacity and software pricing, even in the constantly evolving era of hybrid cloud. Consider the following points: \u0002 The IBM z16 enhancements in resiliency include a capability that is called IBM Z Flexible Capacity for Cyber Resiliency. With Flexible Capacity for Cyber Resiliency, you can remotely shift capacity and production workloads between IBM z16 systems at different sites on demand with no onsite personnel or IBM intervention. This capability is designed to help you proactively avoid disruptions from unplanned events and planned scenarios, such as site facility maintenance. \u0002 IBM z16 System Recovery Boost enhancements provide boosted processor capacity and parallelism for specific events. Client-selected middleware starts and restarts to expedite recovery for middleware regions and restore steady-state operations as soon as possible. IBM SAN Volume Controller memory dump processing and HyperSwap configuration load and reload",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.407076",
+    "chunk_number": 71,
+    "word_count": 142
+  }
+}

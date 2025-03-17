@@ -1,0 +1,18 @@
+{
+  "content": "power and weight estimation tool for IBM Z servers on IBM Resource Link (log in required) covers the estimated weight for your designated configuration. On the Resource Link web page, click Tools \u2192 Power and weight estimation. Frame configurations Individual frame weights kg (lbs) Total weight kg (lbs) Z Frame A Frame B Frame C Frame A - 795 kg (1753 lbs) - - 795 kg (1753 lbs) ZA 712 kg (1569) lbs 739 kg (1629 lbs) - - 1451 kg (3198 lbs) ZAC 712 kg (1569) lbs 720 kg (1587 lbs) - 740 kg (1632 lbs) 2172 kg (4788 lbs) AB - 739 kg (1629 lbs) 704 kg (1552 lbs) - 1443 kg (3181 lbs) ZAB 712 kg (1569) lbs 720 kg (1587 lbs) 704 kg (1552 lbs) - 2136 kg (4709 lbs) ZABC 712 kg (1569) lbs 720 kg (1587 lbs) 685 kg (1510 lbs) 550 kg (1213 lbs) 2667 kg (5880 lbs) Notes: Consider the following points: \u0002 Weight is based on the maximum system configuration. \u0002 All weights are approximate and do not include Earthquake Kit hardware. \u0002 Ensure that the raised floor on which you are installing the server can",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.194621",
+    "chunk_number": 1061,
+    "word_count": 195
+  }
+}

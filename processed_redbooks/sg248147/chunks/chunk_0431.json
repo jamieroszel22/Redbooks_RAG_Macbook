@@ -1,0 +1,18 @@
+{
+  "content": "15, \u201cMiscellaneous recipes and helpful information\u201d on page 439. If you plan to install a systems management product, be aware of any volume labeling requirements that you must consider, such as the inclusion of the real device address. 6.11.2 Copying the utilities to Shared File System file pools Complete the following steps: 1. Log on as MAINT720 on the first member from your terminal emulator. 2. Issue the following command to create a new directory underneath the MAINT720 ID in the system-generated clustered product Shared File System (SFS) pool, VMPSFS: ===> CREATE DIRECTORY VMPSFS:MAINT720.UTILS Note: We use the VMPSFS filepool as a staging area because VMPSFS is created at the VMSSI cluster level. We move items out of this filepool into either the VMSYSU filepool on each member, or into the LNX filepool that we create later in this chapter. Consider VMPSFS to be volatile space, subject to overlay during system service. Chapter 6. Configuring z/VM 187 3. Issue the following",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.893022",
+    "chunk_number": 431,
+    "word_count": 161
+  }
+}

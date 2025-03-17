@@ -1,0 +1,18 @@
+{
+  "content": "access to shared cluster resources are all accomplished in a seamless fashion. This coordination allows Linux guests to be relocated between members during planned outages. Linux guests can now be moved from one member to another during most planned outages (service upgrades) without interruption. This capability allows the Linux application continuous run time during planned outages, and therefore allows the application to experience no downtime. To use the functions that define and maintain an VMSSI cluster, the IBM VMSSI feature must be licensed and enabled. Servicing in an VMSSI cluster is simplified by using a single service stream for all members. Sharing service resources allows service to be rolled out to each member of the cluster on individual schedules, which avoids an outage for the entire cluster. This capability allows uninterrupted Linux guest availability because the Linux guest can be relocated to a different member before a planned outage. 1.5 Choices and decisions",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.581480",
+    "chunk_number": 117,
+    "word_count": 153
+  }
+}

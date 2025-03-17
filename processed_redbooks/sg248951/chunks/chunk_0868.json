@@ -1,0 +1,18 @@
+{
+  "content": "in MSUs. The maximum provisioning scope is the maximum extra capacity that can be activated for all the rules in the CPD. In the specified time interval, the provisioning rule is that up to the defined extra capacity can be activated if the specified workload is behind its objective. The rules and conditions are named and stored in the Capacity Provisioning Policy. For more information about z/OS Capacity Provisioning functions, see z/OS MVS Capacity Provisioning User\u2019s Guide, SC34-2661. Tip: If no workload condition is specified, the full capacity that is described in the policy is activated and deactivated at the start and end times that are specified in the policy. Chapter 8. System upgrades 363 Planning considerations for using automatic provisioning Although only one On/Off CoD offering can be active at any one time, several On/Off CoD offerings can be present on the system. Changing from one offering to another requires stopping the active offering before the inactive one can be",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.556161",
+    "chunk_number": 868,
+    "word_count": 161
+  }
+}

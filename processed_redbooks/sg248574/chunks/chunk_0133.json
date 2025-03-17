@@ -1,0 +1,18 @@
+{
+  "content": "pre-trained knowledge to generate responses without providing any task-specific examples in the prompt. Instead, the input typically includes clear instructions or a well-defined query that guides the model to perform the task, for example, asking a model to summarize a paragraph or translate a sentence into another language without providing prior examples. The effectiveness of this approach hinges on the clarity and precision of the prompt and the model's inherent ability to generalize across diverse tasks. \u0002 One-shot prompting: In this approach, a single example of the task is embedded within the prompt, alongside the query or instructions. This example serves as a reference for the model to infer the behavior. By including a single demonstration, one-shot prompting can enhance performance for tasks that require nuanced or domain-specific understanding because it provides a concrete context for the model to interpret the instructions. Chapter 5. Advanced capabilities of watsonx.ai",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.696021",
+    "chunk_number": 133,
+    "word_count": 148
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "(examples Unicode, Locale, and ALTSEQ) \u0002 Unknown file size or file size=0. Note: Not all sorts are eligible to use ZSORT. IBM\u2019s zBNA tool provides modeling support for identifying potential ZSORT-eligible candidate jobs and estimates the benefits of ZSORT. The tool uses information in the SMF type 16 records. 92 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 SIZE/FILSZ=Uxxxxxx is specified \u0002 SORTIN/SORTOUT is a VSAM Cluster \u0002 Sort control field positions are beyond 4092 and VLSHRT is specified \u0002 Use of EXCP access method was requested \u0002 Insufficient storage (for example, above or below the line) \u0002 Sorting key greater than 4088 bytes or greater than 4080 bytes if EQUALS is specified \u0002 For variable records, the record length (LRECL) must be greater than 24 \u0002 zHPF is unavailable for a sort that cannot be performed entirely in memory \u0002 Insufficient amount of sort workspace 3.4.6 IBM Integrated Accelerator for Artificial Intelligence (on-chip) The IBM Z processor chip was enhanced from one",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.141923",
+    "chunk_number": 244,
+    "word_count": 165
+  }
+}

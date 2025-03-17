@@ -1,0 +1,18 @@
+{
+  "content": "AGZ or IBM z16 A02 and IBM z16 AGZ feature Max68 has two CPC drawers and 24 PCIe fanout slots (for PCIe + fanout cards or ICA SR fanout features). Internal I/O paths from the CPC drawer fanout ports to a PCIe drawer or an I/O drawer are spread across two CPC drawers (for feature Max68) and across different DCMs within a single CPC drawer Feature Max32. During an outage, a fanout card that is used for I/O can be repaired concurrently while redundant I/O interconnect ensures that no I/O connectivity is lost. \u0002 Redundant I/O interconnect Redundant I/O interconnect helps maintain critical connections to devices. Max68 system allows a single drawer to be removed and reinstalled concurrently during an upgrade or repair. Connectivity to the system I/O resources is maintained through a second path from a different drawer. \u0002 Baseboard Management Card (BMC) / Oscillator Cards (OSC). IBM z16 A02 and IBM z16 AGZ have two combined Baseboard Management Cards (BMC) and Oscillator Cards (OSC) per CPC",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.694454",
+    "chunk_number": 912,
+    "word_count": 168
+  }
+}

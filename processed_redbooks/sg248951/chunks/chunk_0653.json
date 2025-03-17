@@ -1,0 +1,18 @@
+{
+  "content": "the CPU parameter is accepted as an alias for applicable commands. Note: For zIIPs and IFLs, SMT must be enabled on z/OS, z/VM, or Linux on IBM Z instances. An operating system with SMT support can be configured to dispatch work to a thread on a zIIP (for eligible workloads in z/OS) or an IFL (for z/VM) core in single-thread or SMT mode. PR/SM Hypervisor MT Aware MT Ignorant z/OS z/VM Chapter 7. Operating system support 275 When PROCVIEW CORE or CORE,CPU_OK are specified in z/OS that is running on an IBM z16, HiperDispatch is forced to run as enabled, and you cannot disable HiperDispatch. The PROCVIEW statement cannot be changed dynamically; therefore, you must re-IPL after changing it to make the new setting effective. The MT_ZIIP_MODE parameter in the IEAOPTxx controls zIIP SMT mode. It can be 1 (the default), where only one thread can be running in a core, or 2, where up two threads can be running in a core. If PROCVIEW CPU is specified, the MT_ZIIP_MODE is always 1. Otherwise, the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.811780",
+    "chunk_number": 653,
+    "word_count": 175
+  }
+}

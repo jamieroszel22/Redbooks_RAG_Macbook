@@ -1,0 +1,18 @@
+{
+  "content": "component levels section shows that PTF UM35728 is available for z/VM 7.2. Before you get that PTF, ensure that it was not applied by seeing 8.4.2, \u201cDetermining whether a PTF was applied\u201d on page 267. Chapter 8. Servicing z/VM 267 8.4.2 Determining whether a PTF was applied Check to ensure that the PTF was not previously applied. In this example, we check for the PTF UM33539. Complete the following steps: 1. Log on to MAINT720. 2. Use the SERVICE ALL STATUS command followed by the PTF number so that you can query whether it was applied: ==> service all status UM35728 VMFUTL2767I Reading VMFINS DEFAULTS B for additional options VMFSRV2195I SERVICE ALL STATUS UM35728 VMFSRV2760I SERVICE processing started DASD 0491 LINKED R/W; R/O BY 10 USERS DASD 0492 LINKED R/W; R/O BY 10 USERS DASD 019D LINKED R/W; R/O BY 17 USERS DASD 0402 LINKED R/W; R/O BY 13 USERS DASD 193C LINKED R/W; R/O BY 16 USERS DASD 0200 LINKED R/W; R/O BY 2 USERS DASD 0201 LINKED R/W; R/O BY PERSMAPI at ZVM72A DASD 01CC",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.523601",
+    "chunk_number": 590,
+    "word_count": 177
+  }
+}

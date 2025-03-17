@@ -1,0 +1,18 @@
+{
+  "content": "the 191 minidisk is not formatted yet. Resolve this error by formatting and labeling the 191 minidisk: ===> format 191 A Erase all files? ===> 1 Enter label: ===> LNX191 2. Create a PROFILE EXEC for this server machine, as shown in Figure 6-20: ===> xedit profile exec a Figure 6-20 LNXSERV1 PROFILE EXEC contents The ACCESS command is necessary because several of the files that are needed by the server on MAINT\u2019s 193 minidisk. Specify SET EMSG ON so that the message number will be included in the messages that are shown on the server. You can use the message number to look up messages in z/VM: CMS and REXX/VM Messages and Codes, GC24-6118. 3. After you create the PROFILE EXEC, file it, then copy it as SETUP EXEC: ====> FILE /*** LNXSERV1 PROFILE EXEC : LNXSERV1 191 -- MOD 2015-04-10 PWNOVAK ***/ ADDRESS COMMAND 'CP MSG OPERATOR LOGON 'USERID()' FOR LINUX SFS FILEPOOL LNX:' 'CP SPOOL CONSOLE START' 'CP SPOOL CONSOLE TO OPERATOR EOF' 'CP SET PF11 RETRIEVE BACK' 'CP SET PF12 RETRIEVE'",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.308815",
+    "chunk_number": 541,
+    "word_count": 175
+  }
+}

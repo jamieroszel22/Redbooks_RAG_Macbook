@@ -1,0 +1,18 @@
+{
+  "content": "compilation. The binaries that are produced by the compiler on IBM z16 A02 or IBM z16 AGZ can be run only on IBM z16 A02 and IBM z16 AGZ, because it uses the vector facility available on them for new functions. The use of older versions of the compiler on IBM z16 A02 or IBM z16 AGZ does not enable new functions. z/OS V2R4 is able to use the latest level (14) of the following C/C++ compiler options: \u0002 ARCHITECTURE: This option selects the minimum level of system architecture on which the program can run. Certain features that are provided by the compiler require a minimum architecture level. ARCH(14) uses instructions that are available on the IBM z16 A02 and IBM z16 AGZ. \u0002 TUNE: This option allows optimization of the application for a specific system architecture within the constraints that are imposed by the ARCHITECTURE option. The TUNE level must not be lower than the setting in the ARCHITECTURE option. For more information about the ARCHITECTURE, TUNE, and VECTOR compiler options,",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.273030",
+    "chunk_number": 783,
+    "word_count": 172
+  }
+}

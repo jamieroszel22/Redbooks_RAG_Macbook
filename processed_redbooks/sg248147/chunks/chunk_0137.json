@@ -1,0 +1,18 @@
+{
+  "content": "up VMCSM in Chapter 9, \u201cz/VM Centralized Service Management\u201d on page 275. 2.2.4 Installing as VMSSI with live guest relocation As previously described in 1.4.2, \u201cSoftware\u201d on page 20, z/VM VMSSI with live guest relocation (LGR) makes it possible to actively run Linux virtual servers to be relocated from one z/VM system to another within the same VMSSI cluster. Before you adopt VMSSI, you must understand the architectural, disk, memory, and networking requirements. Even if you are experienced with the installation and service of z/VM, it is important that you read the instructions for installation of z/VM with or without VMSSI. If you are experienced with z/VM, or, are migrating from an older release, be aware that significant changes were made throughout the platform, beginning with Version 6 Release 2. It is critically important that you understand what changed and why. Consider the following points: \u0002 A VMSSI cluster must have direct logical links between all systems. All VMSSI",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.677719",
+    "chunk_number": 137,
+    "word_count": 159
+  }
+}

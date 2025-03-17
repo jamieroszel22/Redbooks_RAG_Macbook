@@ -1,0 +1,18 @@
+{
+  "content": "Guide 1.1 IBM z16 A01 highlights Each new IBM Z platform continues to deliver innovative technologies. The IBM z16 is no exception. It has a new processor chip design with each processor unit (PU) running at 5.2 GHz. IBM 16 provides 17% more processor capacity per CPC drawer compared to the IBM z15. The new processor chip design has a new cache hierarchy, on-chip AI accelerator that is shared by the PU cores, transparent memory encryption, and increased uniprocessor capacity (single thread and SMT similar). The on-chip AI scoring logic provides submicrosecond AI inferencing for deep learning and complex neural network models. The redesigned cache structure features the following cache sizes: \u0002 256 KB L1 per PU core \u0002 32 MB semi-private L2 per PU core \u0002 256 MB (logical) shared victim virtual L3 per chip \u0002 2 GB (logical) shared victim virtual L4 per CPC drawer The result is improved system performance and scalability with 1.5x more cache capacity per core over the IBM z15 and reduced",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.397087",
+    "chunk_number": 68,
+    "word_count": 168
+  }
+}

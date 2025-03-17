@@ -1,0 +1,18 @@
+{
+  "content": "for the Crypto Express8S, Crypto Express7S, and Crypto Express6S adapters is shown in Figure 6-5. Figure 6-5 CPACF key wrapping for Express8S, Crypto Express7S, and Crypto Express6S The CPACF Wrapping Key and the Transport Key for use with Crypto Express8S, Crypto Express7S or Crypto Express6S are in a protected area of the HSA that is not visible to operating systems or applications. Chapter 6. Cryptographic features 215 If a Crypto Express coprocessor (CEX7C, CEX6C, or CEX5C) is available, a protected key can begin its life as a secure key. Otherwise, an application is responsible for creating or loading a clear key value, and then uses the PCKMO instruction to wrap the key. ICSF is not called by the application if the CEX is not available. A new segment in the profiles of the CSFKEYS class in IBM RACF restricts which secure keys can be used as protected keys. By default, all secure keys are considered not eligible to be used as protected keys. The process that is shown in Figure",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.272083",
+    "chunk_number": 528,
+    "word_count": 170
+  }
+}

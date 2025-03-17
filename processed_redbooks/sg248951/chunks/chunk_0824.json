@@ -1,0 +1,18 @@
+{
+  "content": "on a sub-capacity system, or as both. A CPE contract must be in place before the special code that enables this capability can be loaded on the system. The standard CPE contract provides for one 3-day planned activation at a specific date. For more information, contact your IBM representative. \u0002 The System Recovery Boost Upgrade allows a concurrent activation of extra zIIPs. The System Recovery Boost Upgrade record offering can be used to provide extra zIIP capacity that can be used by the System Recovery Boost facility. You might want to consider the use of this offering if your server is a full capacity model (7nn) and can benefit from more CP capacity (running on zIIPs) for system shutdown and restart. The capacity is delivered as zIIPs that can perform CP work during the boost periods for an LPAR. A System Recovery Boost Record contract must be in place before the special code that enables this capability can be loaded on the system. The standard contract provides for one 6-hour",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.400100",
+    "chunk_number": 824,
+    "word_count": 170
+  }
+}

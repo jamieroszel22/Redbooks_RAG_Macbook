@@ -1,0 +1,18 @@
+{
+  "content": "drawer. \u0002 The eight DIMMs per MCU must be the same size. \u0002 Addressable memory is required for partitions and HSA. 2.5.2 Redundant array of independent memory The IBM z16 A02 and IBM z16 AGZ use the new RAIM design. The new RAIM design detects and recovers from failures of dynamic random access memory (DRAM), sockets, memory channels, or DIMMs. New RAIM Design \u2013 Change from 4+1 RAIM (for z15) to 8 Channel R-S RAIM \u2013 90 -> 80 DRAMs accessed across memory channels (11% reduction, excluding unused spare) \u2013 Staggered Memory Refresh -> Leverage RAIM to hide memory refresh penalty \u2013 New Memory Buffer Chip Interface 2.5.3 Memory Encryption Along with the new RAIM design, the new memory interface uses transparent memory encryption technology to protect all data leaving the processor chips before it's stored in the memory DIMMs. The encryption occurs post-RAIM encoding, the decryption occurs pre-RAIM decoding. That means the data is encrypted before being distributed according to the eight",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.779918",
+    "chunk_number": 153,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Release on IBM z16 A02 and IBM z16 AGZ b b. Fix installation is required for toleration. SUSE Linux Enterprise Server 15 SP5 and later SUSE Linux Enterprise Server 12 SP5c c. Maintenance is required. Red Hat RHEL 9.1 Red Hat RHEL 8.4c and later with service Red Hat RHEL 7.9c with service Ubuntu 22.04 LTS Ubuntu 20.04 LTSc KVM Hypervisord d. For more information about minimal and recommended distribution levels, see the Linux on IBM Z website. Offered with the supported Linux distributions. 248 IBM z16 A02 and IBM z16 AGZ Technical Guide IBM is working with Linux distribution Business Partners to provide further use of selected IBM z16 A02 and IBM z16 AGZ functions in future Linux on IBM Z distribution releases. Consider the following guidelines: \u0002 Use SUSE Linux Enterprise Server 15, Red Hat RHEL 9, or Ubuntu 22.10 LTS or newer in any new projects for IBM z16 A02 and IBM z16 AGZ. \u0002 Update any Linux distribution to the latest service level before migrating to IBM z16 A02 and IBM z16",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.606106",
+    "chunk_number": 608,
+    "word_count": 176
+  }
+}

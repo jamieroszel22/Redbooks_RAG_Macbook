@@ -1,0 +1,18 @@
+{
+  "content": "lifecycle monitoring of AI embedded in a business application is unique. Because of the fact that the AI already exists in a business application, some assumption may be made about the stage of that AI asset (it would be considered to be in production if it is live and being consumed by users.) This would make the process shorter than tracking a model from initial development; A user may initiate lifecycle governance on a business application's AI model beginning with the production or operation stage. Governing an AI/ML model from a business application must be accomplished with the same attention to detail regardless of who is the vendor / provider. As the process continues to evolve for AI governance, rules and requirements should be established with regarding which AI/ML providers and vendors are to be sbe utilized by the organization. Before configuring lifecycle monitoring for those AI/ML processes, verifying the vendor's ability to meet any legal requirements is an important",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.198475",
+    "chunk_number": 202,
+    "word_count": 160
+  }
+}

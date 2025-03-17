@@ -1,0 +1,18 @@
+{
+  "content": "or on stand-alone systems. Consider the following points: \u0002 When mentioning member 1 of the cluster, you can run the same instruction on stand-alone systems. \u0002 When describing actions to other members, we are referring only to the members in the SSI cluster. 10.2.1 Changing default passwords This section describes changing the default password on USER DIRECT file, regardless of whether you plan to use DirMaint. To take the first major step toward correctly securing your new z/VM system, complete the following steps to change the default passwords for Service Virtual Machines (SVMs): 1. Log on as MAINT720 on the first member of the SSI cluster. 2. Verify that the MAINT 2CC minidisk is accessed as file mode C and is read/write (R/W): ===> query accessed Mode Stat Files Vdev Label/Directory A R/W 71 191 MNT191 B R/W 134 5E6 MNT5E6 C R/W 19 2CC MNT2CC D R/W 299 51D MNT51D E R/W 12 551 PMT551 S R/O 698 190 MNT190 Y/S R/O 1123 19E MNT19E If you find that MNT2CC is not shown, or is Read Only",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.883456",
+    "chunk_number": 678,
+    "word_count": 178
+  }
+}

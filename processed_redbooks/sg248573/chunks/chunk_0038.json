@@ -1,0 +1,18 @@
+{
+  "content": "While AI governance focuses on the broader framework, responsible governance specifically highlights the ethical and societal implications. Aspect of an AI solution Typical AI governance activities Typical AI operations activities Foundation models Review and approve new foundation models before they're applied in your use cases. Acquire and host foundation models so they can be used when developing AI solutions. Use cases Assess and review new use cases before starting development. List the expected risk mitigation and compliance measures that the technical and other stakeholders need to apply. Determine the level and extent of governance based on the risk profile of the use case. Create an initial solution design and architecture to support assessment and review. AI asset development Document the technical characteristics and development process of the AI assets. Review the developed AI assets for adequate risk mitigation and regulatory compliance. Approve for deployment. Create and",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.567335",
+    "chunk_number": 38,
+    "word_count": 146
+  }
+}

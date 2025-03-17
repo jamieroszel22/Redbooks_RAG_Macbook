@@ -1,0 +1,18 @@
+{
+  "content": "technologies to help protect your business-critical infrastructure and data from potential attacks. The IBM z16 delivers a transparent and consumable approach that enables extensive (pervasive) encryption of data in flight and at rest, with the goal of substantially simplifying data security and reducing the costs that are associated with protecting data while achieving compliance mandates. IBM z16 introduced the new PCI Crypto Express8S feature (that can be managed by a new Trusted Key Entry (TKE) workstation) together with a further improved CPACF Coprocessor. In addition, the IBM Common Cryptographic Architecture (CCA) and the IBM Enterprise PKCS #11 (EP11) Licensed Internal Code (LIC) were enhanced. The new features support new standards and meet the following compliance requirements: \u0002 Payment Card Industry (PCI) Hardware Security Module (HSM) certification to strength the cryptographic standards for attack resistance in the payment card systems area. PCI HSM certification is",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.216850",
+    "chunk_number": 512,
+    "word_count": 144
+  }
+}

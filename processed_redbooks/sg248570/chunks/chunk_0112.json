@@ -1,0 +1,18 @@
+{
+  "content": "substantially enhance your real-time decision-making and reduce the risks that are associated with data flow across your organization. 42 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data SingleStore with IBM\u00ae is a high-performance database that is designed to deliver millisecond-level insights on massive data sets. Its unique architecture and features make it an ideal foundation for intelligent applications: \u0002 Unified data platform: The SingleStore Universal Storage engine seamlessly combines row-store and column-store technologies to enable efficient execution of both online transactional processing (OLTP) and online analytical processing (OLAP) workloads on a single platform. This approach eliminates the need for separate databases and complex ETL processes, which streamlines operations and reduces costs. \u0002 Real-time data ingestion: SingleStore Pipelines offer high-speed data ingestion from various sources, including Kafka, S3, and HDFS. Combined with the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.776276",
+    "chunk_number": 112,
+    "word_count": 135
+  }
+}

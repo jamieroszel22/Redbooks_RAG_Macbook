@@ -1,0 +1,18 @@
+{
+  "content": "more information about frames and configurations, see Chapter 2, \u201cCentral processor complex hardware components\u201d on page 21. 3.2 Design highlights The physical packaging of IBM z16 A02 and IBM z16 AGZ CPC drawer is a continuation and evolution of the previous generations of IBM Z. Its modular CPC drawer and new dual chip module (DCM) design address the augmenting costs that are related to building systems with ever-increasing capacities. The modular CPC drawer design is flexible and expandable. It offers unprecedented capacity and security features to meet consolidation needs. IBM z16 A02 and IBM z16 AGZCPC continues the line of mainframe processors that are compatible with an earlier version. The IBM z16 A02 and IBM z16 AGZ brings the following processor design enhancements: \u0002 7 nm EUV lithography using FinFET silicon process \u0002 Eight cores per PU chip design with 22.5 billion transistors per PU chip \u0002 Redesigned cache structure that is implemented in dense SRAM \u0002 Four PU Dual Chip",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.990215",
+    "chunk_number": 204,
+    "word_count": 161
+  }
+}

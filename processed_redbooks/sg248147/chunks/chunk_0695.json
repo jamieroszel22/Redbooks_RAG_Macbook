@@ -1,0 +1,18 @@
+{
+  "content": "(w DMSVML2060I DIRMAINT 1DF linked as 0120 file mode Z q disk LABEL VDEV M STAT CYL TYPE BLKSZ FILES BLKS USED-(%) BLKS LEFT BLK TOTAL MNT191 191 A R/W 200 3390 4096 22 90-01 35910 36000 MNT5E6 5E6 B R/W 20 3390 4096 140 1547-43 2053 3600 Note: For more information about all DirMaint files, see Appendix H of z/VM Version 7 Release 2 Directory Maintenance Facility Tailoring and Administration Guide, SC24-6283. Hint: The VMLINK command links the MDisk with another MDisk address. You must access it with the filemode (in our case, C). Therefore, you must issue filelist * * c to access the content of this MDisk. 318 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 MNT2CC 2CC C R/O 10 3390 4096 4 98-05 1702 1800 MNT51D 51D D R/W 26 3390 4096 210 1189-25 3491 4680 PMT551 551 E R/W 40 3390 4096 12 132-02 7068 7200 MNT190 190 S R/O 207 3390 4096 693 15970-43 21290 37260 MNT19E 19E Y/S R/O 500 3390 4096 1121 35137-39 54863 90000 DIR1DF 121 Z R/W 12 3390 4096 14 97-04 2063 2160 5. Copy the USER",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.945389",
+    "chunk_number": 695,
+    "word_count": 188
+  }
+}

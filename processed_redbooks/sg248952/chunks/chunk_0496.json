@@ -1,0 +1,18 @@
+{
+  "content": "through the Federal Information Processing Standard (FIPS) standard to implement guidance requirements. \u0002 Common Criteria EP11 EAL4. \u0002 German Banking Industry Commission (GBIC). \u0002 Visa Format Preserving Encryption (VFPE) for credit card numbers. \u0002 Enhanced public key Elliptic Curve Cryptography (ECC) for users such as Chrome, Firefox, and Apple\u2019s iMessage. \u0002 Accredited Standards Committee X9 Inc Technical Report-34 (ASC X9 TR-34) These enhancements are described in this chapter. IBM z16 A02 and IBM z16 AGZ include standard cryptographic hardware and optional cryptographic features for flexibility and growth capability. IBM has a long history of providing hardware cryptographic solutions. This history stretches from the development of the Data Encryption Standard (DES) in the 1970s to the Crypto Express tamper-sensing and tamper-responding programmable features. Attention: Many older cryptographic algorithms like DES or RSA, and hashing algorithms such as SHA1 are considered weak",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.145610",
+    "chunk_number": 496,
+    "word_count": 140
+  }
+}

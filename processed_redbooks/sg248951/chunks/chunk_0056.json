@@ -1,0 +1,18 @@
+{
+  "content": "product, or service names may be trademarks or service marks of others. Preface xv Preface This IBM\u00ae Redbooks\u00ae publication describes the features and functions of the latest member of the IBM Z\u00ae platform that was built with the IBM Telum processor: the IBM z16\u2122 (machine type 3931). It includes information about the IBM z16 processor design, I/O innovations, security features, and supported operating systems. The IBM Z platform is recognized for its security, resiliency, performance, and scale. It is relied on for mission-critical workloads and as an essential element of hybrid cloud infrastructures. The IBM z16 server adds capabilities and value with innovative technologies that are needed to accelerate the digital transformation journey. The IBM z16 is a state-of-the-art data and transaction system that delivers advanced capabilities, which are vital to any digital transformation. The IBM z16 is designed for enhanced modularity, which is in an industry standard footprint. This system",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.346048",
+    "chunk_number": 56,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Dispersed Parallel Sysplex (GDPS) enables automatic management of the PUs that are provided by the CBU feature during a system or site failure. Upon detection of a site failure or planned disaster test, GDPS concurrently adds CPs to the systems in the take-over site to restore processing power for mission-critical production workloads. GDPS automation runs the following tasks: \u0002 The analysis that is required to determine the scope of the failure. This process minimizes operator intervention and the potential for errors. \u0002 Automates authentication and activation of the reserved CPs. \u0002 Automatically restarts the critical applications after reserved CP activation. \u0002 Reduces the outage time to restart critical workloads from several hours to minutes. The GDPS service is for z/OS only, or for z/OS in combination with Linux on Z. Note: System Recovery Boost record does not affect model capacity identifier. 370 IBM z16 (3931) Technical Guide 8.11 Flexible Capacity Cyber Resiliency Flexible",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.611181",
+    "chunk_number": 886,
+    "word_count": 153
+  }
+}

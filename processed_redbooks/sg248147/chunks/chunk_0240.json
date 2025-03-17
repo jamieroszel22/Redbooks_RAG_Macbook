@@ -1,0 +1,18 @@
+{
+  "content": "Transfer completed successfully. 100 11 0 0 100 11 0 186k --:--:-- --:--:-- --:--:-- 193k * Connection #0 to host 9.60.86.71 left intact $ After the PKCS#12 and passphrase stash files are created, you can update the TCP/IP configuration. The SYSTEM DTCPARMS file is updated to point System SSL to the uploaded PKCS#12 file (see Example 3-4). Example 3-4 :nick.SSL* :type.server :class.ssl :stack.TCPIP :Parms.KEYFile /etc/gskadm/zVM.p12 Note: If the files are newly created and not replacing files, it might be necessary to modify the permissions of the files uploaded. The GSKADMIN ID can be used for this purpose. Note: For more information about GSKADMIN, see \u201cEncrypting communications by using SSL/TLS on z/VM\u201d on page 221. \u00a9 Copyright IBM Corp. 2015, 2016, 2021. 83 Chapter 4. Optional extra features of z/VM This chapter contains information about optional products and features that are useful for managing, backing up, and automating a z/VM environment. It includes the following topics: \u0002",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.105311",
+    "chunk_number": 240,
+    "word_count": 156
+  }
+}

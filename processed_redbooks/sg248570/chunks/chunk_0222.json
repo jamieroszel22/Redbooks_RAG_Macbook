@@ -1,0 +1,18 @@
+{
+  "content": "tab, the data engineer collects the following information that will be needed later to establish a connection to the IBM Cloud Object Storage in IBM watsonx.data: \u0002 Bucket name: marketing-campaign-analysis \u0002 Location (that is, Region): United States - Dallas (us-south) \u0002 Public endpoint: s3.us-south.cloud-object-storage.appdomain.cloud Figure 8-7 shows the endpoints of the bucket. Figure 8-7 Bucket details: Endpoints Note: An access key and secret are also required when establishing the connection in IBM watsonx.data. The data engineer noted this information in step 3 on page 103. 106 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 8.2.2 Setting up the internal spark engine Before ingesting data into IBM watsonx.data from the IBM Cloud Object Storage bucket, the data engineer configures the native Spark engine on IBM watsonx.data. To do so, the data engineer completes the following steps: 1. The data engineer logs in to IBM watsonx.data and navigates to the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.191022",
+    "chunk_number": 222,
+    "word_count": 151
+  }
+}

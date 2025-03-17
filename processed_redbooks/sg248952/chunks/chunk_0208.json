@@ -1,0 +1,18 @@
+{
+  "content": "single-system and clustered-systems points of view. \u0002 Offer the capability of concurrent upgrades for processors, memory, and I/O connectivity, which prevents system outages in planned situations. \u0002 Implement a system with high availability and reliability. These goals are achieved with redundancy of critical elements and sparing components of a single system, and the clustering technology of the Parallel Sysplex environment. \u0002 Have internal and external connectivity offerings, supporting open standards, such as Gigabit Ethernet (GbE) and Fibre Channel Protocol (FCP). \u0002 Provide leading cryptographic performance. Every processor unit (PU) includes a dedicated and optimized CP Assist for Cryptographic Function (CPACF). Optional Crypto Express features with cryptographic coprocessors provide the highest standardized security certification.2 These optional features also can be configured as Cryptographic Accelerators to enhance the performance of Secure Sockets Layer/Transport Layer",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.008381",
+    "chunk_number": 208,
+    "word_count": 132
+  }
+}

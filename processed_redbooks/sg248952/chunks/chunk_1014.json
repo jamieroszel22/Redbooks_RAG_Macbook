@@ -1,0 +1,18 @@
+{
+  "content": "the following characteristics: \u0002 The Driver contains engineering change (EC) streams. \u0002 Each EC stream covers the code for a specific component of the IBM Z. It includes a specific name and an ascending number. \u0002 The EC stream name and a specific number are one MCL. \u0002 MCLs from the same EC stream must be installed in sequence. \u0002 MCLs can include installation dependencies on other MCLs. \u0002 Combined MCLs from one or more EC streams are in one Bundle. \u0002 An MCL contains one or more Microcode Fixes (MCFs). Tip: The IBM Resource Link provides access to the system information for your IBM Z according to the system availability data that is sent on a scheduled basis. It provides more information about the MCL status of your IBM Z. At the Resource Link webbiest (https://www.ibm.com/servers/resourcelink), click Tools \u2192 Machine Information, choose your IBM Z, and then click on EC/MCL. Chapter 10. Hardware Management Console and Support Element 425 How the Driver, Bundle, EC stream, MCL, and MCFs",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.071185",
+    "chunk_number": 1014,
+    "word_count": 169
+  }
+}

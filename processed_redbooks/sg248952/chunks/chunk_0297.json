@@ -1,0 +1,18 @@
+{
+  "content": "if a spare PU is available, the spare PU is dynamically assigned as a new SAP or IFP. If no spare PU is available, and more than one CP is characterized, a characterized CP is reassigned as an SAP or IFP. In either case, client intervention is not required. This capability eliminates an unplanned outage and allows a service action to be deferred to a more convenient time. 3.5.11 CPC drawer numbering16 For the IBM z16 A02 and IBM z16 AGZ configurations, CPC drawer numbering starts with CPC0. The first CPC drawer is installed in the frame at location A10 (IBM z16 A02) or ACP0 (IBM z16 AGZ). The second CPC drawer (CPC 1) is installed at location at A15 (IBM z16 A02) or ACP1 (IBM z16 AGZ). For additional details see Appendix D, \u201cRack configurations\u201d on page 483. Figure 3-20 on page 115 shows CPC drawer numbering. 16 For IBM z16 A02 (IBM factory frame installed) position of all components are fixed. IBM z16 AGZ does not have any \u201cReserved\u201d space features (also, no carry forward of any",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.378578",
+    "chunk_number": 297,
+    "word_count": 179
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "algorithm uses keys with a length of 56 bits, Triple-DES (TDES) uses keys with a length of 112 bits, and Advanced Encryption Standard (AES) uses keys of 128, 192, or 256 bits. The asymmetric key RSA algorithm (named after its inventors Rivest, Shamir, and Adleman) uses keys with a length of 1024, 2048, or 4096 bits. Chapter 6. Cryptographic features 213 In modern cryptography, keys must be kept secret. Depending on the effort that is made to protect the key, keys are classified into the following levels: \u0002 A clear key is a key that is transferred from the application in clear text to the cryptographic function. The key value is stored in the clear (at least briefly) somewhere in unprotected memory areas. Therefore, the key can be made available to someone under specific circumstances who is accessing this memory area. This risk must be considered when clear keys are used. However, many applications exist where this risk can be accepted. For example, the transaction security for the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.247876",
+    "chunk_number": 520,
+    "word_count": 168
+  }
+}

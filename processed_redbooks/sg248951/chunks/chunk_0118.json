@@ -1,0 +1,18 @@
+{
+  "content": "Oscillator card With IBM z16 Model A01, the oscillator card design and signal distribution scheme are improved; however, the RAS strategy for redundant clock signal and dynamic switchover is unchanged. One primary OSC card and one backup are used. If the primary OSC card fails, the secondary detects the failure, takes over transparently, and continues to provide the clock signal to the CPC. Manage System Time HMC level 2.16.0 (Driver 51) is required to manage system time for IBM z16 Model A01. Network Time Protocol The SEs provide the Simple Network Time Protocol (SNTP) client function. When Server Time Protocol (STP) is used, the time of an STP-only Coordinated Timing Network (CTN) can be synchronized to the time that is provided by a Network Time Protocol (NTP) server. This configuration allows time-of-day (TOD) synchronization in a heterogeneous platform environment and throughout the LPARs running on the CPC. Precision Time Protocol For IBM z16 Model A01, Precision Time Protocol",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.602690",
+    "chunk_number": 118,
+    "word_count": 158
+  }
+}

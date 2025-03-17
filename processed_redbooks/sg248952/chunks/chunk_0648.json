@@ -1,0 +1,18 @@
+{
+  "content": "processor. This function is designed to help improve 2:1 zIIP:CP ratio restriction removal: Starting with IBM z16 A02 and IBM z16 AGZ M/T 3932 announcement as of April 4, 2023, the 2:1 zIIP:CP ratio restriction has been removed. The IBM z16 A01 now supports up to 199 zIIPs, while IBM z16 A02 and IBM z16 AGZ supports up to 67 zIIPs. Chapter 7. Operating system support 267 throughput for zIIP workloads and provide appropriate performance measurement, capacity planning, and SMF accounting data. zIIP support is available on all currently supported z/OS versions. Use the PROJECTCPU option of the IEAOPTxx parmlib member to help determine whether zIIPs can be beneficial to the installation. Setting PROJECTCPU=YES directs z/OS to record the amount of eligible work for zIIPs in SMF record type 72 subtype 3. The field APPL% IIPCP of the Workload Activity Report listing by WLM service class indicates the percentage of a processor that is zIIP eligible. Because of the zIIP\u2019s lower price as",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.785040",
+    "chunk_number": 648,
+    "word_count": 163
+  }
+}

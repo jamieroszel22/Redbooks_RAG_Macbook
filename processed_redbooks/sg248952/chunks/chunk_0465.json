@@ -1,0 +1,18 @@
+{
+  "content": "Express7S (2 port) features are supported on IBM z16 A02 and IBM z16 AGZ. The maximum number of the one-port features is 16. The total number of HSMs supported on IBM z16 A02 and IBM z16 AGZ is 60 in a combination of Crypto Express8S (2 HSM), Crypto Express8S (1 HSM), Crypto Express7S (2 port), Crypto Express7S (1 port) or Crypto Express6S. TKE feature: The Trusted Key Entry (TKE) Workstation feature is required for support- ing the administration of the Crypto Express6S when configured as an Enterprise PKCS #11 coprocessor or managing the CCA mode PCI-HSM. 184 IBM z16 A02 and IBM z16 AGZ Technical Guide The Crypto Express7S feature occupies one I/O slot in a PCIe+ I/O drawer. Each adapter can be configured as a Secure IBM CCA coprocessor, Secure IBM Enterprise PKCS #11 (EP11) coprocessor, or accelerator. Crypto Express7S provides domain support for up to 85 logical partitions. The accelerator function is designed for maximum-speed Secure Sockets Layer and Transport Layer Security",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.029401",
+    "chunk_number": 465,
+    "word_count": 164
+  }
+}

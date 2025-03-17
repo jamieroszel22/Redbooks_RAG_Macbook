@@ -1,0 +1,18 @@
+{
+  "content": "performance for these tasks and eliminates the need for the zEDC Express feature virtualization. It also brings new use cases to the platform. The IBM z16 A02 and IBM z16 AGZ continue to support IBM Integrated Accelerator for zEnterprise Data Compression. For more information, see Appendix C, \u201cIBM Integrated Accelerator for zEnterprise Data Compression\u201d on page 477. 12.1.4 Primary performance improvement drivers with z16 The attributes and design points of IBM z16 A02 and IBM z16 AGZ contribute to overall performance and throughput improvements as compared to the IBM z15. The following major items contribute to IBM z16 A02 and IBM z16 AGZ performance improvements: \u0002 IBM z16 A02 and IBM z16 AGZ microprocessor architecture: \u2013 7nm lithography FinFET silicon technology \u2013 New Core-Nest Interface \u2013 Brand new branch prediction design using SRAM \u2013 Significant architecture changes - COBOL compiler & more \u2013 On chip Artificial Intelligence (AI) - deep learning focus for inference \u2013",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.237875",
+    "chunk_number": 1069,
+    "word_count": 155
+  }
+}

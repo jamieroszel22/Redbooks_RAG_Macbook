@@ -1,0 +1,18 @@
+{
+  "content": "recovery for middleware regions and restore steady-state operations as soon as possible. SVC dump processing and HyperSwap configuration load and reload are boosted to minimize the impact to running workloads. \u0002 On IBM z16 A02 and IBM z16 AGZ, the enhanced ICA-SR coupling link protocol provides up to 10% improvement for read requests and lock requests, and up to 25% for write requests and duplexed write requests, compared to CF service times on IBM z15 T02 systems. The improved CF service times for CF requests can translate into better Parallel Sysplex coupling efficiency and therefore, may reduce software costs for the attached z/OS images in the Parallel Sysplex. \u0002 IBM z16 A02 and IBM z16 AGZ provide improved CF processor scalability for CF images. Compared to IBM z15 T02, the relative scaling of a CF image beyond a 9-way is significantly improved, meaning that the effective capacity of IBM z16 A02 and IBM z16 AGZ CF images continue to increase all the way up to the maximum of 16",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.447373",
+    "chunk_number": 81,
+    "word_count": 169
+  }
+}

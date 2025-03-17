@@ -1,0 +1,18 @@
+{
+  "content": "Currency Verb Algorithm Currency is a collection of CCA verb enhancements that are related to customer requirements, with the intent of maintaining currency with cryptographic algorithms and standards. It is also intended for customers who want to maintain the following latest cryptographic capabilities: \u0002 Secure key support AES GCM encryption \u0002 Key Check Value (KCV) algorithm for service CSNBKYT2 Key Test 2 \u0002 Key derivation options for CSNDEDH EC Diffie-Hellman service 6.5.3 Crypto Express8S as an EP11 coprocessor A Crypto Express8S adapter that is configured in Secure IBM Enterprise PKCS #11 (EP11) coprocessor mode provides PKCS #11 secure key support for public sector requirements. Before EP11, the ICSF PKCS #11 implementation supported only clear keys. In EP11, keys can now be generated and securely wrapped under the EP11 Master Key. The secure keys never leave the secure coprocessor boundary decrypted. The secure IBM Enterprise PKCS #11 (EP11) coprocessor runs the following",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.411090",
+    "chunk_number": 559,
+    "word_count": 151
+  }
+}

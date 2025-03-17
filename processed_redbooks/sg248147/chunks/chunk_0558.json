@@ -1,0 +1,18 @@
+{
+  "content": "assign full-pack minidisks. \u2013 All Linux and Linux virtual machines use the LNX file pool for their A disk, so you do not need to provision a 191 minidisk. \u2013 In the example environment that was used to author this book, both Red Hat and SUSE distributions were installed, which facilitated the requirement for the allocation of two full-pack minidisks on each of the two nodes in the SSI cluster. You might not need two full disks on each node. If you are not sure, add them anyway because it is simple to remove them later by using the DirMaint DMDISK command: ===> dirmaint for LNXADM-1 amdisk 5. Complete the DirMaint AMDISK panel as shown in Figure 6-25. Figure 6-25 DirMaint Add MiniDisk Panel for LNXADM-1 After you complete the fields as shown, press PF5 to submit. Because these minidisks will be Linux minidisks, CMS does not need to format them. By leaving the LABEL field blank, DirMaint does not use CMS to format the minidisks: DVHXMT1191I Your AMDISK request has been sent for",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.373932",
+    "chunk_number": 558,
+    "word_count": 174
+  }
+}

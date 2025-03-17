@@ -1,0 +1,18 @@
+{
+  "content": "following features: \u0002 Greater than 16 domains support up to 40 LPARs on IBM z16 A02 and IBM z16 AGZ. \u0002 Payment Card Industry (PCI) PIN Transaction Security (PTS) HSM Certification that is available to IBM z16 A02 and IBM z16 AGZ in combination with CEX8S, CEX7S or CEX6S features, to IBM z15 in combination with CEX7S or CEX6S features, and to IBM z14 with CEX6S features. \u0002 VFPE support, which was introduced with z13/z13s systems. \u0002 AES PIN support for the German banking industry. \u0002 PKA Translate UDX function into CCA. \u0002 Verb Algorithm Currency. CCA improvements \u0002 CCA Quantum Safe Algorithm enhancements \u2013 updated support for Dilithium signatures \u2022 Round 2: Level 2 (6 5) and 3 (8 7) \u2022 Round 3: Level 3 (6 5) and 5 (8 7) \u2013 add support for Kyber key encapsulation \u2022 Round 2: Level 5 (1024) \u0002 Quantum Safe protected key support for CCA \u2013 Host Firmware and CCA now employ a hybrid scheme combining ECDH and Kyber to accomplish a quantum safe transport key exchange for protected key import. CCA",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.339295",
+    "chunk_number": 545,
+    "word_count": 180
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "a preferred practice that when a LOGONBY profile is defined for a generic virtual machine, it is no longer possible to use the standard password to log on. The following example creates userid1 and gives it access to SYSADMIN: 1. Log on as MAINT. 2. Create a file that is called USERID1 DIRECT A with the following data: ===> x userid1 direct USER USERID1 PASSWORD1 512M 1G G Chapter 6. Configuring z/VM 177 3. Issue the DIRM ADD command for that virtual machine: ===> dirm add userid1 PUN FILE 0092 SENT TO DIRMAINT RDR AS 0057 RECS 0011 CPY 001 0 NOHOLD NOKEEP DVHXMT1191I Your ADD request has been sent for processing to DIRMAINT at DVHXMT1191I RDBKZVMG. Ready; T=0.01/0.01 09:36:19 DVHREQ2288I Your ADD request for USERID1 at * has been accepted. DVHBIU3450I The source for directory entry USERID1 has been updated. DVHBIU3424I The next ONLINE will take place immediately. DVHDRC3451I The next ONLINE will take place via delta object directory. DVHRLA3891I Your DSATCTL request has been relayed",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.810978",
+    "chunk_number": 411,
+    "word_count": 167
+  }
+}

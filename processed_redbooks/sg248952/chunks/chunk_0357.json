@@ -1,0 +1,18 @@
+{
+  "content": "tokenization, data masking, and key management capabilities to help protect and control access to data across the hybrid multicloud environment. For more information, see this web page. \u0002 IBM Blockchain\u2122 platform can be deployed on an IBM z16 A02 and IBM z16 AGZ by using IBM SSC to host the IBM Blockchain network. For more information, see this web page. 138 IBM z16 A02 and IBM z16 AGZ Technical Guide \u00a9 Copyright IBM Corp. 2023. All rights reserved. 139 Chapter 4. I/O structure This chapter describes the I/O system structure and connectivity options that are available on the IBM z16 A02 and IBM z16 AGZ. This chapter includes the following topics: \u0002 4.1, \u201cIntroduction to I/O infrastructure\u201d on page 140 \u0002 4.2, \u201cI/O system overview\u201d on page 142 \u0002 4.3, \u201cPCIe+ I/O drawer\u201d on page 144 \u0002 4.4, \u201cCPC drawer fanouts\u201d on page 147 \u0002 4.5, \u201cI/O features\u201d on page 151 \u0002 4.6, \u201cConnectivity\u201d on page 154 \u0002 4.7, \u201cCryptographic functions\u201d on page 182 \u0002 4.8, \u201cIntegrated Firmware Processor\u201d on page 185 4 140",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.610508",
+    "chunk_number": 357,
+    "word_count": 174
+  }
+}

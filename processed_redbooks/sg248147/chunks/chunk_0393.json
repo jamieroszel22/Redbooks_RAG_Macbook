@@ -1,0 +1,18 @@
+{
+  "content": "using the RPIBLDDS command. The RPIDIRCT SYSUT1 file that was created earlier and copied to the 7VMRAC20 191 disk is used as input. You can again choose to issue the command #CP TERM MORE 0 0 because many panels of messages will be issued: ===> rpibldds rpidirct Processing batch file RPIDIRCT SYSUT1 using \u201cRAC\u201d command interface ... => PERMIT LOGONBY.SSLDCSSM CLASS(SURROGAT) ID(TCPMAINT) ACCESS(READ) => PERMIT LOGONBY.SSLDCSSM CLASS(SURROGAT) ID(GSKADMIN) ACCESS(READ) => setropts generic(vmbatch) gencmd(vmbatch) => rdefine vmbatch ** uacc(none) => permit ** class(vmbatch) id(ftpserve vmnfs dirmsat dirmsat2) acc(control) => setropts classact(vmbatch vmmdisk vmcmd vmlan surrogat) The RACF database is now populated with the values from the user directory and other modifications that were configured previously. 7. Define the security administrator virtual machine. In this example, the default of SYSADMIN is used: ===> rac alu sysadmin special 8. Log off from IBMUSER. 9. Log on to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.739435",
+    "chunk_number": 393,
+    "word_count": 144
+  }
+}

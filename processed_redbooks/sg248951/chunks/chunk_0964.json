@@ -1,0 +1,18 @@
+{
+  "content": "features The initial release that is included with IBM z16 is HMC and SE Driver 51/Version 2.16.0. Check the \u201cWhat\u2019s new\u201d widget (which is available in the HMC interface) to examine the new features that are available. For more information about HMC and SE functions, use the HMC and SE console help system or see IBM Resource Link (login required), select Library, the applicable server and then, select Hardware Management Console Operations Guide or Support Element Operations Guide. 10.2.1 Driver 51/Version 2.16.0 HMC and SE new features The following support was added with Driver 51/Version 2.16.0: \u0002 Enhanced Multi-Factor Authentication (MFA) functions With Driver 41/Version 2.15.0, MFA by way of Time-based One-time Password (TOTP) or IBM Z MFA (z/OS) and RSA Secure ID is supported on the HMC. New with Driver 51/Version 2.16.0, the following MFA possibilities are supported: \u2013 Certificates: \u2022 Personal Identity Verification (PIV) \u2022 Common Access Card (CAC) \u2022 Certificates on USB keys \u2013",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.866019",
+    "chunk_number": 964,
+    "word_count": 157
+  }
+}

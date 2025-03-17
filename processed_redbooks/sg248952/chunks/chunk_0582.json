@@ -1,0 +1,18 @@
+{
+  "content": "other operating systems than z/OS, the following prerequisites must be met. \u0002 z/VM V7.1 and V7.2 for guest use Public Key Encrypt (PKE) support for Mod_Raised_to Power (MRP) function - X X - Remote loading of initial keys in ATM - X - - Improved key exchange with non-CCA systems - X - - ISO 16609 CBC mode triple DES message authenti- cation code (MAC) support - X - - AES GMAC, AES GCM, AES XTS mode, CMAC - X - - SHA-2, SHA-3 (384,512), HMAC - X - - Visa Format Preserving Encryption - X - - AES PIN support for the German banking industry - X - - ECDSA (192, 224, 256, 384, 521 Prime/NIST) - X - - ECDSA (160, 192, 224, 256, 320, 384, 512 BrainPool) - X - - ECDH (192, 224, 256, 384, 521 Prime/NIST) - X - - ECDH (160, 192, 224, 256, 320, 384, 512 BrainPool) - X - - PNG (Prime Number Generator) - X - - a. To make adding the Crypto Express features nondisruptive, the logical partition must be predefined with the appropriate PCI Express cryptographic adapter number. This number must be",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.505885",
+    "chunk_number": 582,
+    "word_count": 193
+  }
+}

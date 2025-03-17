@@ -1,0 +1,18 @@
+{
+  "content": "allows an area of storage to be identified such that an Exit routine assumes control if a reference is made to that storage. GSF is managed by new instructions that define Guarded Storage Controls and system code to maintain that control information across undispatch and redispatch. Enabling a less-pausing approach improves Java garbage collection. Function is provided on IBM z14 and subsequent servers that are running z/OS V2.R2 and later with APAR OA51643 installed. MACHMIG statement in LOADxx of SYS1.PARMLIB provides ability to disable the function. z/VM Guarded storage facility is designed to improve the performance of garbage-collection processing by various languages, in particular Java. The supported operating systems are listed in Table 7-3 on page 249 and Table 7-4 on page 250. Instruction Execution Protection Instruction Execution Protection (IEP) is a hardware function that enables software, such as Language Environment, to mark certain memory regions (for example, a heap",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.866655",
+    "chunk_number": 670,
+    "word_count": 150
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "z16 AGZ Technical Guide Figure 10-14 HMA: HMCs and SEs The SE interface can be accessed from the HMC by using the task Single Object Operation on the HMC. The optional HMA feature FC 0129 consists of the HMC code installed on the two 1U servers collocated with the SE code. The servers are configured with processor, memory, storage and networking resources to support all processing and security requirements for running both HMC and SE code. The two HMCs, named HMC1 and HMC2 from manufacturing (you can change the names) are configured as independent HMCs. They are not a Primary or Alternate HMCs. HMC Data Replication can be established if so desired. For example Data Replication can be used to replicate user credentials among different HMCs. The two SE code instances are clustered for high availability. One SE code runs the Primary SE the other the Alternate SE. These two SEs perform data mirroring and their role can be switched for maintenance purposes. Switching the Primary and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.939790",
+    "chunk_number": 983,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "View code icon (Figure 4-35). Figure 4-35 View code icon 4. Copy the code to a notepad application (Figure 4-36). Figure 4-36 Code example Chapter 4. Building and using artificial intelligence models 47 The code (Figure 4-37) is an example of a REST call that starts the model. watsonx.ai also provides a Python API for model invocation, which you review later in this lab. The header of the REST request includes the URL where the model is hosted and a placeholder for the authentication token. At the time of writing, all users share a single model inference endpoint. In the future, IBM plans to provide dedicated model endpoints. Security is managed by the IBM Cloud authentication token, which is described later in this section. The body of the request contains the entire prompt. Figure 4-37 Curl command example 5. At the end of the request, you specify the model parameters and the project ID, as shown in Figure 4-38. Figure 4-38 Curl command details 48 Simplify Your AI Journey:",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.609106",
+    "chunk_number": 117,
+    "word_count": 169
+  }
+}

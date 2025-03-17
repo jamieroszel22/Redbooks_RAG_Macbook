@@ -1,0 +1,18 @@
+{
+  "content": "four PU DCMs up to 32 characterizable PUs \u0002 FC 0675: Max68, eight PU DCMs up to 68 characterizable PUs Some PUs are characterized for system use; some are characterized for client workload use. By default, one spare PU is available to assume the function of a failed PU. The maximum number of PUs that can be characterized for client use are listed in Table 2-6. Table 2-6 PU characterization At least one CP must be purchased before a zIIP can be purchased. Starting with z16, the maximum for the zIIP FCs will be one less than the feature allowed maximum PUs. For instance, an IBM z16 A02 or IBM z16 AGZ Max68 can have up to 67 zIIPS. These rules are also valid for unassigned zIIPs, and unassigned IFLs. Java and XML workloads can run on zIIPs. Converting a PU from one type to any other type is possible by using the Dynamic Processor Unit Reassignment process. These conversions occur concurrently with the system operation. Feature CPs IFLs Unassigned IFLs zIIPs ICFs IFPs Std SAPs Add\u2019l SAPs",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.744576",
+    "chunk_number": 146,
+    "word_count": 178
+  }
+}

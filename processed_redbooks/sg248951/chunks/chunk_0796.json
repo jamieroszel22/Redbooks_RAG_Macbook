@@ -1,0 +1,18 @@
+{
+  "content": "introduced with IBM z16. This record holds the Flexible Capacity Entitlements for IBM z16 machines across two or more sites. 8.2.2 CoD for IBM z16 systems-related terminology The most frequently used terms that are related to CoD for IBM z16 systems are listed in Table 8-1. Table 8-1 CoD terminology Note: CPE is available only when carried forward to IBM z16. Term Description Activated capacity Capacity that is purchased and activated. Purchased capacity can be greater than the activated capacity. Billable capacity Capacity that helps handle workload peaks (expected or unexpected). The one billable offering that is available is On/Off CoD. Capacity Hardware resources (processor and memory) that can process the workload can be added to the system through various capacity offerings. Capacity Backup (CBU) This capacity allows you to place model capacity or specialty engines in a backup system. CBU is used in an unforeseen loss of system capacity because of an emergency or for Disaster",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.306787",
+    "chunk_number": 796,
+    "word_count": 157
+  }
+}

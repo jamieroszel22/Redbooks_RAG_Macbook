@@ -1,0 +1,18 @@
+{
+  "content": "effectively. 4 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data If implemented correctly, organizations can use their investments in data lakes and data warehouses by adopting and implementing a lakehouse architecture and technologies to help modernize their existing data lakes. Enterprises can also complement their data warehouses to support some of these new types of AI- and ML-driven workloads. A lakehouse, as shown in Figure 1-1, attempts to bridge data warehouses and data lakes by combining the best of both into one architecture. That said, these first-generation lakehouses have constraints that limit their ability to address cost and complexity challenges: \u0002 Single-query engines are set up to support limited workloads, typically just for BI and ML. \u0002 Lakehouses are typically deployed only over the cloud, with no support for hybrid multi-cloud deployments. \u0002 Lakehouses offer minimal governance and metadata capabilities to deploy across an entire",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.520024",
+    "chunk_number": 47,
+    "word_count": 148
+  }
+}

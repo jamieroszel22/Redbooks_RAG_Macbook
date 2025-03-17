@@ -1,0 +1,18 @@
+{
+  "content": "For each benchmark, it is important to help ensure that the model that is evaluated is in a supported format, either safetensors or GGUF. Using models directly from Hugging Face without downloading them is not supported. Also, while using models for MMLU and MMLUBranch evaluations, GGUF models are not supported at the time of writing. When running MTBench and MTBenchBranch, it is a best practice to use the Prometheus-8x7b-v2.0 model as the judge model, but you can use a different judge model. You can download the Prometheus model by running the ilab model download command for local use in these evaluations. The entire process of running these evaluations can take from several minutes to several hours, which depend on the size of the model and the dataset that is used. Be prepared to allocate enough time for the evaluations to complete, especially when working with large datasets or multiple training epochs. The results from these evaluations provide a comprehensive view of the model's",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.949730",
+    "chunk_number": 189,
+    "word_count": 163
+  }
+}

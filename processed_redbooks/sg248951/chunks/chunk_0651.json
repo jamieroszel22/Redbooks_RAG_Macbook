@@ -1,0 +1,18 @@
+{
+  "content": "6802 cannot be used for process recovery boosts. Y Yc Yc N N N N N N Recovery process boosts (IBM z16). Yc Yc N N N N N N N 5 SMT is also enabled (not user configurable) by default for SAPs. 274 IBM z16 (3931) Technical Guide The supported operating systems are listed in Table 7-3 on page 253 and Table 7-4 on page 254. An operating system that uses SMT controls each core and is responsible for maximizing its throughput and meeting workload goals with the smallest number of cores. In z/OS, consider HiperDispatch cache optimization when you must choose the two threads to be dispatched in the same processor. HiperDispatch attempts to dispatch guest virtual CPUs on the same logical processor on which they ran. PR/SM attempts to dispatch a vertical low logical processor in the same physical processor. If that process is not possible, it attempts to dispatch it in the same node, or then the same CPC drawer where it was dispatched before to maximize cache reuse. From the perspective of an",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.801850",
+    "chunk_number": 651,
+    "word_count": 178
+  }
+}

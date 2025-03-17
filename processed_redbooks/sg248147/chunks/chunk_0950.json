@@ -1,0 +1,18 @@
+{
+  "content": "Cookbook: Vol 1: IBM z/VM 7.2 \u0002 LBYONLY Log on is permitted by way of the surrogate log on or log on by procedure only, which is similar in overall concept to the use of sudo switch user in Linux. For example, sudo su - alternateaccount \u0002 AUTOONLY Log on is permitted only by using the AUTOLOG or XAUTOLOG commands. Authentication of this ID is not possible. \u0002 NOPASS The use of a password is not required. As of this writing, few legitimate uses of this option exist. Do not use NOPASS unless an ID is shipped with this set by IBM during system installation, or you are directed to do so by IBM support. 15.4 Resuming a revoked ID in RACF/VM Checking the status of an example virtual server ID, LNCG4050 with the command RAC LISTUSER is shown in Example 15-11. Notice the line that begins with the text ATTRIBUTES=REVOKED. This information verifies that the status of this ID is REVOKED. Example 15-11 RACF/VM LISTUSER output RAC LISTUSER LNCG4050 USER=LNCG4050 NAME=UNKNOWN OWNER=DIRMAINT",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.817176",
+    "chunk_number": 950,
+    "word_count": 173
+  }
+}

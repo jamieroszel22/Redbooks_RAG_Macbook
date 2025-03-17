@@ -1,0 +1,18 @@
+{
+  "content": "Collection(collection_name, schema) # Create index index_params = { 'metric_type':'L2', 'index_type':\"IVF_FLAT\", 'params':{\"nlist\":2048} } collection.create_index(field_name=\"vector\", index_params=index_params) for i in range(len(article_titles)): # Create vector embeddings + data model = SentenceTransformer('sentence-transformers/all-minilm-l12-v2') # 384 dim passage_embeddings = model.encode(article_chunks[i]) basic_collection = Collection(collection_name) data = [ article_chunks[i], article_titles[i], Chapter 9. Adopting Milvus for RAG using IBM watsonx 153 passage_embeddings ] out = basic_collection.insert(data) basic_collection.flush() # Ensures data persistence Example 9-4 demonstrates how to perform a similarity search with Milvus. Example 9-4 Code example - 4 def query_milvus(query, num_results): # Vectorize query model = SentenceTransformer('sentence-transformers/all-minilm-l12-v2') # 384 dim query_embeddings = model.encode([query]) # Search search_params = { \"metric_type\":",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.345600",
+    "chunk_number": 259,
+    "word_count": 99
+  }
+}

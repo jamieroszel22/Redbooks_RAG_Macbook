@@ -1,0 +1,18 @@
+{
+  "content": "group with all of the new extents: # lvextend -l +1760 /dev/mapper/system_vg-var_lv Extending logical volume var_lv to 7.38 GiB Logical volume var_lv successfully resized 8. Use the resize2fs command to increase the size of the ext4 file system while it is still mounted: # resize2fs /dev/mapper/system_vg-var_lv resize2fs 1.41.12 (17-May-2010) Filesystem at /dev/mapper/system_vg-var_lv is mounted on /var; on-line resizing required old desc_blocks = 1, new_desc_blocks = 1 Performing an on-line resize of /dev/mapper/system_vg-var_lv to 1933312 (4k) blocks. The filesystem on /dev/mapper/system_vg-var_lv is now 1933312 blocks long. 9. Use the xfs_growfs command to increase the size of the XFS file system while it is still mounted: # xfs_growfs /dev/mapper/system_vb-var_lv 10.Use the df command to show the file system size before and after you extend it, as shown in the following example: # df -h /var Filesystem Size Used Avail Use% Mounted on /dev/mapper/system_vg-var_lv 7.3G 393M 6.6G 6%",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.580961",
+    "chunk_number": 879,
+    "word_count": 145
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "exploratory data analysis, where insights emerge from raw data without prior assumptions. By uncovering hidden relationships, unsupervised learning enhances your understanding of data and informs decision-making processes. \u0002 Reinforcement learning (RL): RL is a paradigm of ML where algorithms learn optimal behaviors by interacting with an environment and receiving feedback in the form of rewards or penalties. RL systems employ agents that act based on policies, and aim to maximize cumulative rewards over time. Core to RL are concepts such as the exploration-exploitation tradeoff, Markov decision processes (MDPs), and value functions. Techniques such as Q-learning and Deep Q-Networks (DQNs) extend RL\u2019s capabilities to enable applications in robotics, game playing, and autonomous vehicles. RL's emphasis on learning through trial and error aligns it closely with real-world problem-solving, where dynamic environments require adaptive strategies. Chapter 1. Competing with artificial",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.287676",
+    "chunk_number": 37,
+    "word_count": 137
+  }
+}

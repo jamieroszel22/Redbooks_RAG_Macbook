@@ -1,0 +1,18 @@
+{
+  "content": "development, such as data usage, labor practices, computational resources, methodologies, and strategies to mitigate privacy and copyright concerns (Bommasani, 20241). Data scientists or AI Center of Excellence or Enterprise AI team onboarding a foundation model should leverage such assessments to ensure compliance with internal and external regulations and policies. 4.1.2 Model evaluation and validation To ensure the reliability and safety of large language models, a comprehensive evaluation and validation strategy is required, incorporating the following key elements \u0002 FMEval framework: Leverage the Foundation Model Evaluation Framework (FMEval) for systematic, reproducible, and consistent validation and evaluation of new large language models. \u0002 Evaluation modes: Support both fine-tuning and prompting (in-context learning) evaluation, with readily available academic and business benchmarks. \u0002 Content filtering: Implement robust content filtering mechanisms to detect and mitigate",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:12.922800",
+    "chunk_number": 127,
+    "word_count": 130
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "the IPL Text and the secure firmware repository for the validation keys. Figure 6-8 Validated Boot At the time of writing this book, there is a Statement of Direction (SoD)9 for Validated Boot and for Package Signing for z/OS 2.5, see IBM United States Software Announcement 222-214, dated June 21, 2022. See Figure 6-9 on page 239 9 All statements regarding IBM\u2019s future direction and intent are subject to change or withdrawal without notice, and represent goals and objectives only. Chapter 6. Cryptographic features 239 Figure 6-9 Statement of Direction in IBM United States Software Announcement 222-214 The support for Validated Boot for z/OS 2.5 will be delivered via z/OS Apart, also available for ServerPac installation. The process of building a a secure Code Package for Validated IPL will be open to include all forms of z/OS code provided by ISVs (Independent Software Vendors). This process is illustrated in Figure 6-10. Figure 6-10 Client Secure Build Process The IBM z16 A02 and IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.534102",
+    "chunk_number": 589,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "IBM Storage Ceph, IBM Cloud Object Storage, AWS S3, and MinIO object storage are supported. \u0002 Parquet, CSV, JSON, ORC, and AVRO file formats are supported as source data files. \u0002 The maximum limit for the cumulative size of files must be within 500 MB for local ingestion. \u0002 Parquet files exceeding 2 MB cannot be previewed, but they are ingested successfully. \u0002 JSON files with complex nested objects and arrays are not previewed in the UI. \u0002 Complex JSON files are ingested as arrays, which might hinder optimal data visualization and analysis. \u0002 JSON files exceeding 2 MB cannot be previewed, but they are ingested successfully. \u0002 Keys within JSON files must be enclosed in quotation marks for proper parsing and interpretation. \u0002 AVRO files exceeding 2 MB cannot be previewed, but they are ingested successfully. \u0002 ORC files exceeding 2 MB cannot be previewed, but they are ingested successfully. 3.4 Ingesting data To ingest data into IBM watsonx.data, you can use the intuitive user interface",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.748410",
+    "chunk_number": 105,
+    "word_count": 167
+  }
+}

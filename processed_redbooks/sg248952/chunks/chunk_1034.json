@@ -1,0 +1,18 @@
+{
+  "content": "10.5.11 System Input/Output Configuration Analyzer on the SE and HMC The System Input/Output Configuration Analyzer task supports the system I/O configuration function. The information that is needed to manage a system\u2019s I/O configuration must be obtained from many separate sources. The System Input/Output Configuration Analyzer task enables the system hardware administrator to access, from one location, the information from those sources. Managing I/O configurations then becomes easier, particularly across multiple systems. The System Input/Output Configuration Analyzer task runs the following functions: \u0002 Analyzes the current active IOCDS on the SE. \u0002 Extracts information about the defined channel, partitions, link addresses, and control units. \u0002 Requests the channels\u2019 node ID information. The Fibre Channel connection (FICON) channels support remote node ID information, using the pull-down menu View -> Node ID. The System Input/Output Configuration Analyzer is a view-only tool. It",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.130768",
+    "chunk_number": 1034,
+    "word_count": 139
+  }
+}

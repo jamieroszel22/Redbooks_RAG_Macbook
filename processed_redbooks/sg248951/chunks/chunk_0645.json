@@ -1,0 +1,18 @@
+{
+  "content": "for AI. \u0002 WebSphere Application Server V5R1 and later, and products that are based on it, such as WebSphere Portal, WebSphere Enterprise Service Bus (WebSphere ESB), and WebSphere Business Integration (WBI) for z/OS. \u0002 CICS/TS V2R3 and later. \u0002 Db2 UDB for z/OS Version 8 and later. \u0002 IMS Version 8 and later. \u0002 zIIP Assisted HiperSockets for large messages. \u0002 z/OSMF (z/OS Management Facility). \u0002 IBM z/OS Platform for Apache Spark. \u0002 IBM Watson\u00ae Machine Learning for z/OS. \u0002 z/OS System Recovery Boost. \u0002 Approved third-party vendor products. The use of a zIIP is transparent to application programs. The supported operating systems are listed in Table 7-3 on page 253. On IBM z16 servers, the zIIP processor is designed to run in SMT mode, with up to two threads per processor. This function is designed to help improve throughput for zIIP workloads and provide appropriate performance measurement, capacity planning, and SMF accounting data. zIIP support is available on all currently supported",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.779991",
+    "chunk_number": 645,
+    "word_count": 162
+  }
+}

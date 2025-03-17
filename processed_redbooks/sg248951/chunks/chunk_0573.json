@@ -1,0 +1,18 @@
+{
+  "content": "intended for customers who want to maintain the following latest cryptographic capabilities: \u0002 Secure key support AES GCM encryption \u0002 Key Check Value (KCV) algorithm for service CSNBKYT2 Key Test 2 \u0002 Key derivation options for CSNDEDH EC Diffie-Hellman service 6.5.3 Crypto Express8S as an EP11 coprocessor A Crypto Express8S adapter that is configured in Secure IBM Enterprise PKCS #11 (EP11) coprocessor mode provides PKCS #11 secure key support for public sector requirements. Before EP11, the ICSF PKCS #11 implementation supported only clear keys. In EP11, keys can now be generated and securely wrapped under the EP11 Master Key. The secure keys never leave the secure coprocessor boundary decrypted. The secure IBM Enterprise PKCS #11 (EP11) coprocessor runs the following tasks: \u0002 Encrypt and decrypt (AES, DES, TDES, and RSA) \u0002 Sign and verify (DSA, RSA, and ECDSA) \u0002 Generate keys and key pairs (DES, AES, DSA, ECC, and RSA) \u0002 HMAC (SHA1, SHA2 or SHA3 [SHA224, SHA256, SHA384, and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.478619",
+    "chunk_number": 573,
+    "word_count": 160
+  }
+}

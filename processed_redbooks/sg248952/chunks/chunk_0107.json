@@ -1,0 +1,18 @@
+{
+  "content": "functions\u201d on page 93. 1.4 Hardware management The Hardware Management Consoles (HMCs) and Support Elements (SEs) are appliances that together provide platform management for IBM Z. The HMC is an appliance that is designed to provide a single point of control for managing local or remote hardware elements. For IBM z16 A02 and IBM z16 AGZ new builds, IBM Z Hardware Management Appliance (FC 0129) is the only Hardware Management Console option available. Both Hardware Management Console Appliance and Support Element Appliance run virtualized on the Support Element hardware. Older standalone HMCs (rack mounted or tower) can be carried forward during an MES upgrade to IBM z16 A02 or IBM z16 AGZ. For more information, see Chapter 10, \u201cHardware Management Console and Support Element\u201d on page 393. 10 The Crypto Express8S is available with either one or two hardware security modules (HSM). The HSM is the IBM 4770 PCIe Cryptographic Coprocessor (PCIeCC). 11 The Crypto Express7S comes with",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.570638",
+    "chunk_number": 107,
+    "word_count": 158
+  }
+}

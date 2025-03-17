@@ -1,0 +1,18 @@
+{
+  "content": "to the new machine. This is necessary to allow individual components (z/OS LPARs, CFs) to be shut down and moved to the target machine and continue connect to the remaining systems. It is beyond the scope of this book to describe all possible migration scenarios. Always consult with subject matter experts to help you to develop your migration strategy. Coupling links and Server Time Protocol All external coupling links can be used to pass time synchronization signals by using Server Time Protocol (STP). STP is a message-based protocol in which timing messages are passed over data links between servers. The same coupling links can be used to exchange time and CF messages in a Parallel Sysplex. The use of the coupling links to exchange STP messages has the following advantages: \u0002 By using the same links to exchange STP messages and CF messages in a Parallel Sysplex, STP can scale with distance. Servers that are exchanging messages over short distances (ICA SR links), can meet more",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.996649",
+    "chunk_number": 457,
+    "word_count": 166
+  }
+}

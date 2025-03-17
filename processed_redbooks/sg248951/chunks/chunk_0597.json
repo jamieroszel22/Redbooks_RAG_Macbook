@@ -1,0 +1,18 @@
+{
+  "content": "For more information about the minimum that is required and recommended distribution levels, see the IBM Z website. For more information about the software support levels for cryptographic functions, see Chapter 7, \u201cOperating system support\u201d on page 247. 246 IBM z16 (3931) Technical Guide \u00a9 Copyright IBM Corp. 2022. All rights reserved. 247 Chapter 7. Operating system support This chapter describes the minimum operating system requirements and support considerations for the IBM z16\u2122 servers and their features. It addresses IBM z/OS, z/VM, z/VSE, z/TPF, Linux on IBM Z, and the KVM hypervisor. Because this information is subject to continuous updating, for the most current information check the hardware fix categories for IBM z16 A01 IBM.Device.Server.IBM z16-3931.*. Support of IBM z16 functions depends on the operating system and version and release. This chapter includes the following topics: \u0002 7.1, \u201cOperating systems summary\u201d on page 248 \u0002 7.2, \u201cSupport by operating system\u201d on page",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.572525",
+    "chunk_number": 597,
+    "word_count": 152
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Max32) can be ordered with single-phase power cords. Compared to the previous generation, the CPC1 reserve feature is not available on the IBM z16 A02 since that rack space is reserved by default. However, for a future nondisruptive add of the second CPC drawer (CPC1) the initial order of the system must include three-phase power. Configurations with two CPC drawers (Max68) are automatically shipped with three-phase power cords. 1 American Society of Heating Refrigeration and Air Conditioning Engineers 442 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 11-1 Hot and cold aisles As shown in Figure 11-1, rows of servers must be placed front-to-front. Chilled air is provided through perforated floor panels that are placed in rows between the fronts of servers (the cold aisles). For more information about cooling requirements, see 3932 Single Frame Installation Manual for Physical Planning (Models A02/LA2), GC28-7040 on Resource Link. 11.2.3 Physical specifications The IBM z16 A02 is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.169985",
+    "chunk_number": 1048,
+    "word_count": 156
+  }
+}

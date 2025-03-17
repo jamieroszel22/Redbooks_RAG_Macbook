@@ -1,0 +1,18 @@
+{
+  "content": "===> copy profile tcpip d = tcpiwork = (olddate 3. Edit the TCP/IP configuration file: ===> xedit profile tcpip d 4. By using the contents of Example 6-26 for reference, make the following changes: a. Add an SSLSERVERID statement as a new line underneath the LARGEENVELOPEPOOLSIZE line. b. On the following line, include an SSLLIMITS statement to specify the total number of secure connections that are allowed and the connection limit for each SSL server. c. Above the PORT stanza, create an INFORM stanza to contain the user IDs to notify if any serious TCP/IP or associated issues are detected. d. In the PORT stanza, add a semicolon to the beginning of the line for INTCLIENT that uses port 23. e. Also in the PORT stanza, add a line underneath the last line for LDAPSRV. Replace the value ITSOSSIA with the value from the planning worksheet that you chose for your SSI cluster name: 992 TCP INTCLIEN SECURE ITSOSSIA ; TN3270 IntClient Server (Secure) f. Just below the PORT stanza, create",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.165446",
+    "chunk_number": 505,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "km @ 32 Gbpsc (3.1 miles) 10 km @ 16 or 8 Gbps (6.2 miles) New build FICON Express32S SX 0462 8, 16, or 32 OM1, OM2, OM3, or OM4 See Table A-3 on page 502. New build FICON Express16SA LX 0436 8, or 16 SM 9 \u00b5m 10 km (6.2 miles) Carry forward 500 IBM z16 (3931) Technical Guide FICON Express16SA SX 0437 8, or 16 OM1, OM2, OM3, OM4 See Table A-3 on page 502. Carry forward FICON Express16S+ LX 0427 4, 8, or 16 SM 9 \u00b5m 10 km (6.2 miles) Carry forward FICON Express16S+ SX 0428 4, 8, or 16 OM1, OM2, OM3, OM4 See Table A-3 on page 502. Carry forward FICON Express16S LX 0418 4, 8, or 16 SM 9 \u00b5m 10 km (6.2 miles) Carry forward Open Systems Adapter (OSA) and Remote Direct Memory over Converged Ethernet (RoCE) OSA-Express7S 1.2 25GbE LR 0460 25 SM 9 \u00b5m 10 km (6.2 miles) New build OSA-Express7S 1.2 25GbE SR 0459 25 MM 50 \u00b5m 70 m (2000) 100 m (4700) New build OSA-Express7S 1.2 10GbE LR 0456 10 SM 9 \u00b5m 10 km (6.2 miles) New build OSA-Express7S 1.2 10GbE SR 0457 10 MM 62.5 \u00b5m MM 50 \u00b5m 33 m (200) 82 m",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.324506",
+    "chunk_number": 1114,
+    "word_count": 209
+  }
+}

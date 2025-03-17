@@ -1,0 +1,18 @@
+{
+  "content": "following infrastructure management functions: \u0002 Firmware update of adapters and resource groups 186 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Error recovery and failure data collection \u0002 Diagnostic and maintenance tasks \u00a9 Copyright IBM Corp. 2023. All rights reserved. 187 Chapter 5. Logical I/O - Channel Subsystem This chapter describes the concepts of the IBM z16 A02 and IBM z16 AGZ channel subsystem, including multiple channel subsystems and multiple subchannel sets. It also describes the technology, terminology, and implementation aspects of the channel subsystem. This chapter includes the following topics: \u0002 5.1, \u201cChannel subsystem\u201d on page 188 \u0002 5.2, \u201cI/O configuration management\u201d on page 196 \u0002 5.3, \u201cChannel subsystem summary\u201d on page 197 5 188 IBM z16 A02 and IBM z16 AGZ Technical Guide 5.1 Channel subsystem Channel subsystem (CSS) is a collective name of facilities that IBM Z use to control I/O operations. The channel subsystem directs the flow of information between I/O",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.049467",
+    "chunk_number": 471,
+    "word_count": 157
+  }
+}

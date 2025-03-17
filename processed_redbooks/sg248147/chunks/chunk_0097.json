@@ -1,0 +1,18 @@
+{
+  "content": "complex\u2019s channel subsystem. 1.4.2 Software The software components are described in this section. z/VM Enterprise Virtualization Platform Within the physical system, z/VM is installed as the operating system for an LPAR. z/VM allows the sharing of the physical resources that are accessible to that LPAR. Physical resources can include disk (DASD), memory (sometimes called storage), network adapters (OSA cards), and PUs (CPs or IFLs). Chapter 1. Conceptual overview 21 z/VM features the following key aspects: \u0002 Control program Resources that are available to each LPAR that is running z/VM are managed by the z/VM hypervisor, which is known as the control program (CP). When the user logs on to z/VM, the hypervisor creates a VM, which can run one of many different operating systems. The two operating systems that are described in this book are Conversational Monitor System (CMS) and Linux. \u0002 Conversational Monitor System CMS can be thought of as a z/VM shell because the outward function is",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.507376",
+    "chunk_number": 97,
+    "word_count": 159
+  }
+}

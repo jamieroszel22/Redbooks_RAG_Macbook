@@ -1,0 +1,18 @@
+{
+  "content": ". . . . . . . . . . . . . . . . . . . . . 139 6.2 Configuring the XEDIT PROFILE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 139 6.3 z/VM parm disks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143 6.4 System Configuration file . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143 6.5 Editing the z/VM SYSTEM CONFIG file . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 143 vi Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6.5.1 Modifying features and optimizing parameter settings . . . . . . . . . . . . . . . . . . . . 144 6.5.2 Enabling and configuring virtual networking components. . . . . . . . . . . . . . . . . . 149 6.5.3 Using CPSYNTAX to validate the modified system configuration file. . . . . . . . . 151 6.5.4 Initializing the allocated DASD for z/VM Service data. . . . . . . . . . . . . . . . . . . . . 152 6.5.5",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.217985",
+    "chunk_number": 18,
+    "word_count": 331
+  }
+}

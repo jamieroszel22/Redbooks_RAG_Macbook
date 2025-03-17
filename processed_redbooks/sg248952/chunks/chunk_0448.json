@@ -1,0 +1,18 @@
+{
+  "content": "links are included in parentheses, where applicable 25GbE RoCE Express3 SR 0452 25 MM 50 \u00b5m 70 m (2000) 100 m (4700) 25GbE RoCE Express3 LR 0453 25 SM 9 \u00b5m 10 km 10GbE RoCE Express3 SR 0440 10 MM 50 \u00b5m 70 m (2000) 100 m (4700) 10GbE RoCE Express3 LR 0441 10 SM 9 \u00b5m 10 km 25GbE RoCE Express2.1 0450 25 MM 50 \u00b5m 70 m (2000) 100 m (4700) 10GbE RoCE Express2.1 0432 10 MM 62.5 \u00b5m MM 50 \u00b5m 33 m (200) 82 m (500) 300 m (2000) 25GbE RoCE Express2 0430 25 MM 50 \u00b5m 70 m (2000) 100 m (4700) 10GbE RoCE Express2 0412 10 MM 62.5 \u00b5m MM 50 \u00b5m 33 m (200) 82 m (500) 300 m (2000) 13 IBM z14 M0x (M/T 3906) also supports Infiniband coupling links, however these are not supported on IBM z16 A02 and IBM z16 AGZ, IBM z15, and IBM z14 ZR1. Careful connectivity planning is needed if InfiniBand links are present in the supported systems. 178 IBM z16 A02 and IBM z16 AGZ Technical Guide \u0002 Coupling Express2 Long Reach (CE2 LR) adapters for IBM z16 A02 and IBM z16 AGZ and Coupling Express Long Reach (CE LR) are",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.961065",
+    "chunk_number": 448,
+    "word_count": 205
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "code Resource required to be offline 25 GbE RoCE Express3 SR 0452 FIDs/PCHID 25 GbE RoCE Express3 LR 0453 FIDs/PCHID 25 GbE RoCE Express2.1 0450 FIDs/PCHID 25 GbE RoCE Express2 0430 FIDs/PCHID 10 GbE RoCE Express3 SR 0440 FIDs/PCHID 10 GbE RoCE Express3 LR 0441 FIDs/PCHID 10 GbE RoCE Express2.1 0432 FIDs/PCHID 10 GbE RoCE Express2 0412 FIDs/PCHID zHyperLink Express1.1 0451 FIDs/PCHID zHyperLink Express 0431 FIDs/PCHID Coupling Express2 LR 0434 CHPIDs/PCHID Chapter 9. Reliability, availability, and serviceability 389 \u0002 Updates to the native PCIe adapter require the adapter to be offline. If the adapter is not defined, the MCL session automatically installs the maintenance that is related to the adapter. The PCIe native adapters are configured with Function IDs (FIDs) and might need to be configured offline when changes to code are needed. To help alleviate the number of adapters (and FIDs) that are affected by the Resource Group code update, IBM z16 A02 and IBM z16 AGZ have four",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.835152",
+    "chunk_number": 950,
+    "word_count": 160
+  }
+}

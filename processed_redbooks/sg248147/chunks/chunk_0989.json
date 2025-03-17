@@ -1,0 +1,18 @@
+{
+  "content": "Performance Toolkit for VM, SG24-6059 \u2013 Printing with Linux on zSeries Using CUPS and Samba, REDP-3864 Online resources The following websites and URLs are also relevant as further information sources: \u0002 The z/VM customer presentation library page: http://www.ibm.com/vm/library/presentations/ \u0002 The Linux for z Systems and S/390 portal: http://linuxvm.org \u0002 The IBMVM list server: http://listserv.uark.edu/archives/ibmvm.html \u0002 The linux-390 list server: http://www2.marist.edu/htbin/wlvindex?linux-390 \u0002 Red Hat Enterprise Linux Server no-charge evaluation download for IBM z Systems: http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux \u0002 SUSE Linux Enterprise Server no-charge evaluation download for IBM z Systems: https://www.suse.com/products/server/download/systemz.html \u0002 z/VM publications: http://www.vm.ibm.com/pubs/ \u0002 z/VM performance tips: http://www.vm.ibm.com/perf/tips/ \u0002 z/VM VDISK for Linux swap performance tips: http://www.ibm.com/vm/perf/tips/lxswpvdk.html 478",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.935920",
+    "chunk_number": 989,
+    "word_count": 106
+  }
+}

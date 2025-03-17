@@ -1,0 +1,18 @@
+{
+  "content": "#+--------------------------------------------------------------------------+ function CPcmd() # echo a CP command and invoke it via the vmcp module/command # Arg1-n: the command to issue 518 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 # Return: the command's return code #+--------------------------------------------------------------------------+ { # echo \"Invoking CP command: $@\" # parse output to get return code: awk -F# splits line at '#' with rc at end output=`vmcp $@ 2>&1` echo \"$output\" retVal=0 retVal=`echo $output | grep \"Error: non-zero CP response\" | awk -F# '{print $2}'` return $retVal } #+--------------------------------------------------------------------------+ function prepareVaddr() # Prepare an address by folding to lower case and prepending leading zeros # to make it 4 digits # Arg 1: The vaddr to be modified # Return: # The new value is written to the global variable newVaddr #+--------------------------------------------------------------------------+ {",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.171421",
+    "chunk_number": 1056,
+    "word_count": 127
+  }
+}

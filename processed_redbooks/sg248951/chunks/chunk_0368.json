@@ -1,0 +1,18 @@
+{
+  "content": "distance coupling links. The ICA SR and ICA SR1.1 features have two ports, each port supporting 8 GBps. \u0002 The 8U, 16-slot, and 2-domain PCIe+ I/O drawer for PCIe I/O features. Installed features in the PCIe+ I/O drawer The I/O infrastructure of IBM z16 A01 provides the following benefits: \u0002 The bus connecting the CPC drawer to the I/O domain in the PCIe+ I/O drawer bandwidth is 16 GBps. \u0002 Up to 32 channels (16 PCIe I/O cards) are supported in the PCIe+ I/O drawer. \u0002 Storage connectivity: \u2013 Storage Area Network (SAN) connectivity: \u2013 The FICON Express32S \u2013 FICON Express16SA (carry forward) \u2013 FICON Express16S+ (carry forward) These cards provide two channels per feature for Fibre Channel connection (FICON), High-Performance FICON on Z (zHPF), and Fibre Channel Protocol (FCP) storage area networks. \u2013 IBM zHyperLink Express 1.1: Two ports per feature (new build and carry forward) with ultra high-speed, direct connection to Select DS8000; works in tandem with FICON Express channels \u2013 IBM",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.670308",
+    "chunk_number": 368,
+    "word_count": 164
+  }
+}

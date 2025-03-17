@@ -1,0 +1,18 @@
+{
+  "content": "installed in a PCIe+ I/O drawer. Those channels are identified by a physical channel ID (PCHID) number that is related to their physical location. This AID must be used to assign a CHPID to the fanout in the IOCDS definition. The CHPID assignment is done by associating the CHPID to an AID port (see Table 4-2. Table 4-2 Fanout locations and their AIDs for the CPC drawer (IBM z16 A02 and IBM z16 AGZ) 5 Server Time Protocol Fanout locations CPC0 Location A10 AID (Hex) CPC1 Location A15 AID (Hex) LG01 00 0C LG02 01 0D LG03 02 0E LG04 03 0F LG05 04 10 LG06 05 11 LG07 06 12 150 IBM z16 A02 and IBM z16 AGZ Technical Guide Fanout slots The fanout slots are numbered LG01 - LG12, from left to right, as listed in Table 4-2 on page 149. All fanout locations and their AIDs for the CPC drawer are shown for reference only. The AID assignment is listed in the PCHID REPORT that is provided for each new server or for an MES upgrade on existing servers. Part of a PCHID REPORT for a z15 T02 is shown in",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.693447",
+    "chunk_number": 378,
+    "word_count": 194
+  }
+}

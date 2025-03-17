@@ -1,0 +1,18 @@
+{
+  "content": "drawers Number of I/O drawers I/O and power connections Power options Cooling options IBM z16 A01 1 - 4 1 - 4 0 - 12a a. Maximum of 12 if ordered with a PDU or maximum of 10 if ordered with a BPA. Rear only PDU or BPA Radiator (air) only IBM z15 T01 1 - 4 1 - 5 0 - 12b b. Maximum of 12 if ordered with a PDU or maximum of 11 if ordered with a BPA. Rear only PDU or BPA Radiator (air) or water- cooling unit (WCU) IBM z14 M0x 2 1 - 4 0 - 5 Front and rear BPA Radiator (air) or WCU Chapter 1. Introducing the IBM z16 7 1.2.2 CPC drawers The IBM z16 A01 can be configured with up to four CPC drawers (three in the A Frame and one in the B Frame). Each CPC drawer contains the following elements: \u0002 Telum processor chips that use Extreme ultraviolet (EUV) process with 7 nm silicon lithography technology. Each processor chip consists of eight PU cores. Two processor chips are packaged in the dual-chip module (DCM). \u0002 DCMs Four DCMs that contain 64 physical cores per drawer interconnected (each",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.439021",
+    "chunk_number": 79,
+    "word_count": 199
+  }
+}

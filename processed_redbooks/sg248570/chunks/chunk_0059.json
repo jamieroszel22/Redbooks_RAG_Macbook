@@ -1,0 +1,18 @@
+{
+  "content": "protection measures in place. 1 Source: The Digital Universe in 2025: Emerging Trends and the Future of Data (2018) Chapter 1. Challenges and opportunities with data 9 1.4.3 Storage opportunities Although there are challenges that are associated with storing growing data, there are also opportunities. New storage technologies and architectures are emerging that are designed to handle large amounts of data: \u0002 Object storage: Object storage is a type of storage that is designed to handle large amounts of unstructured data. It is highly scalable and can be more cost-effective than traditional storage solutions. \u0002 Cloud storage: Cloud storage provides organizations with a flexible and scalable storage solution that can be easily expanded or contracted as needed. \u0002 Flash Storage: Flash Storage is a type of storage that uses flash memory to store data. It is highly performant and can be used to accelerate applications that require high levels of I/O. 1.4.4 Best practices for storage In",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.567017",
+    "chunk_number": 59,
+    "word_count": 157
+  }
+}

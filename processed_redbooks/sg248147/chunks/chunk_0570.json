@@ -1,0 +1,18 @@
+{
+  "content": "page 256 \u0002 8.2, \u201cRecommended service upgrades\u201d on page 257 \u0002 8.3, \u201cApplying a recommended service upgrade\u201d on page 259 \u0002 8.4, \u201cApplying a program temporary fix\u201d on page 265 \u0002 8.5, \u201cDetermining the TCP/IP service level\u201d on page 273 \u0002 8.6, \u201cMoving on to Linux\u201d on page 274 8 Awareness is key: Go to the z/VM website and subscribe to notifications for Service News and Red Alerts. For more information, see 6.5.5, \u201cService-level validation and subscribing to service notifications\u201d on page 154. 256 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 8.1 z/VM release schedule Beginning with z/VM 7.1, a new z/VM release will be delivered on a fixed, 24-month cycle. Each release contains all previously released New Function APARs, which are functions that are too disruptive to ship in the service stream, and all fixes shipped on the service stream for the previous release. A z/VM release can be ordered for 18 months after the general availability of its follow-on release. IBM will provide service to a",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.450524",
+    "chunk_number": 570,
+    "word_count": 168
+  }
+}

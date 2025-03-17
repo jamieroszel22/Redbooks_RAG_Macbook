@@ -1,0 +1,18 @@
+{
+  "content": "at a time, while the remaining images continue to process work. For more information, see Parallel Sysplex Application Considerations, SG24-6523. \u0002 High capacity: 1- 32 z/OS images in a Parallel Sysplex operating as a single system. \u0002 Dynamic workload balancing: Because it is viewed as a single logical resource, work can be directed to any operating system image in a Parallel Sysplex cluster that has available capacity. \u0002 Systems management: The architecture defines the infrastructure to satisfy client requirements for continuous availability. It also provides techniques for achieving simplified systems management consistent with this requirement. \u0002 Resource sharing: Several base z/OS components use CF shared storage. This configuration enables sharing of physical resources with significant improvements in cost, performance, and simplified systems management. Chapter 3. Central processor complex design 133 \u0002 Single logical system: The collection of system images in the Parallel",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.565222",
+    "chunk_number": 344,
+    "word_count": 142
+  }
+}

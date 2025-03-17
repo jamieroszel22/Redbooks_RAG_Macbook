@@ -1,0 +1,18 @@
+{
+  "content": "co-processor to process the synchronous instructions, but AIU is in nest. The core control the AIU by issuing instruction (NNPA): \u2013 The array macro has row and column repair (MD and ABIST) \u2013 1 MB cache with single error correction double error detection (SECDEC) ECC \u0002 On-chip L2, caches are implemented in dense SRAM. The IBM z16 removed the physical L3 (on-chip for IBM z15) and L4 (on extra storage controller single chip module - SC SCM) and implemented clustered cache algorithms that provide virtualized L3 (shared victim) and virtual L4 (shared victim) caches (see Figure 9-4). Figure 9-4 IBM z15 versus IBM z16 cache hierarchy Chapter 9. Reliability, availability, and serviceability 383 \u0002 The dedicated L2 cache (dense SRAM) is semi-private to the core; that is, each core features an associated 32-MB slice of the L2 cache (semi-private): \u2013 Virtual L3 on PU Chip (shared victim 256 MB) \u2013 Virtual L4 on drawer up to 2 GB \u0002 L2 cache and L2 cache recovery: \u2013 The L2 cache includes expected",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.674705",
+    "chunk_number": 908,
+    "word_count": 171
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "RDBKZVMH. 6.11.4 Formatting DASD for minidisks In addition to CP disks, such as page space, you will need system disks to create minidisks for the virtual machines. In the following steps, the DASD that will be used for virtual machine minidisks will be formatted. Perform these steps: 1. Start a 3270 session as MAINT on the first SSI cluster member. 2. Query the DASD that will be used for minidisks. In this example, the DASDs have real device addresses 1567-1569 156A-156F: ===> query 1567-1569 156A-156F DASD 1567 NW1567 , DASD 1568 NW1568 , DASD 1569 NW1569 , DASD 156A NW156A ... 3. Attach the volumes: ===> attach 1567-1569 156A-156F to * DASD 1567 ATTACHED TO MAINT 1567 WITH DEVCTL HYPERPAV BASE ... 4. Run the CPFORMAT command against these volumes and use the AS PERM parameter: ===> cpformat 1567-1569 156A-156F AS PERM Format the following DASD: TargetID Tdev OwnerID Odev Dtype Vol-ID Rdev StartLoc Size MAINT 1567 MAINT 1567 3390 NW1567 1567 0 10017 ... WARNING - this will destroy",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.925663",
+    "chunk_number": 441,
+    "word_count": 170
+  }
+}

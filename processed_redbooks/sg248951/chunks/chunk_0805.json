@@ -1,0 +1,18 @@
+{
+  "content": "Resource Link allows you to add capacity to fit within your hardware: \u0002 Add: \u2013 Model capacity \u2013 Specialty engines \u2013 Memory \u0002 Activate unassigned model capacity or IFLs, ICFs, or zIIPs \u0002 Deactivate activated model capacity or IFLs, ICFs, or zIIPs Tip: The use of the CIU facility for a system requires that the online CoD buying feature (FC 9900) is installed on the system. The CIU facility is enabled through the permanent upgrade authorization feature code (FC 9898). Considerations: Most of the MESs can be concurrently applied without disrupting the workload. For more information, see 8.3, \u201cConcurrent upgrades\u201d on page 334. However, specific MES changes might be disruptive, such as adding PCIe IO drawers. Memory upgrades that require dual inline memory module (DIMM) changes can be made nondisruptively if multiple CPC drawers are available and the flexible memory option is used. Chapter 8. System upgrades 333 8.2.5 Temporary upgrades IBM z16 A01 offers the following types of temporary",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.337378",
+    "chunk_number": 805,
+    "word_count": 160
+  }
+}

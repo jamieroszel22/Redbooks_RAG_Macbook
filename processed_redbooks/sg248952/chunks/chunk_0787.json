@@ -1,0 +1,18 @@
+{
+  "content": "VSEn migration considerations z/VSE is not supported on the IBM z16 A02 and IBM z16 AGZ. Consider the following general guidelines when you are migrating a z/VSE environment to 21CS VSEn 6.3 on the IBM z16 A02 or IBM z16 AGZ servers: \u0002 Collect reference information before migration This information includes baseline data that reflects the status of, for example, performance data, CPU utilization of reference workload, I/O activity, and elapsed times, and is required to size IBM z16 A02 and IBM z16 AGZ as it is the only way to compare workload characteristics after migration. \u0002 Migrate to 21CS VSEn 6.3 on your current server before migrating to the IBM z16 A02 or to the IBM z16 AGZ. 316 IBM z16 A02 and IBM z16 AGZ Technical Guide 7.8 Software licensing The IBM z16\u2122 software portfolio includes operating system software (that is, z/OS, z/VM, 21st Century Software VSEn, and z/TPF) and middleware that runs on these operating systems. The portfolio also includes middleware for Linux on IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.288251",
+    "chunk_number": 787,
+    "word_count": 168
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "use z/OS Dataset Encryption, z/OS Coupling Facility Encryption, z/VM encrypted hypervisor paging, and z/TPF transparent database encryption, which use the performance enhancements in the hardware. CPACF supports the following features in IBM z16 A02 and IBM z16 AGZ: \u0002 Processor Activity Instrumentation to count cryptographic operations \u0002 Advanced Encryption Standard (AES, symmetric encryption) \u0002 Data Encryption Standard (DES, symmetric encryption) \u0002 Secure Hash Algorithm (SHA, hashing) \u0002 SHAKE Algorithms \u0002 True Random Number Generation (TRNG) \u0002 Improved GCM (Galois Counter Mode) encryption (enabled by a single hardware instruction) In addition, the IBM z16 A02 and IBM z16 AGZ core implements a Modulo Arithmetic unit in support of Elliptic Curve Cryptography. CPACF is used by several IBM software product offerings for z/OS, such as IBM WebSphere Application Server for z/OS. For more information, see 6.4, \u201cCP Assist for cryptographic functions\u201d on page 211. The supported operating",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.177834",
+    "chunk_number": 755,
+    "word_count": 145
+  }
+}

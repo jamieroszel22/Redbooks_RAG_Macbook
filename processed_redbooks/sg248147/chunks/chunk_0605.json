@@ -1,0 +1,18 @@
+{
+  "content": "z/VM SSI cluster, nor is it possible to use z/VM CSM to deliver service to a z/VM SSI cluster. 276 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 9.1 z/VM CSM structure When z/VM CSM is used, one system is designated as the principal system. This system is used to build service packages that are delivered to a set of defined managed systems. The z/VM CSM principal system builds service levels by using VMSES/E commands. When a system is participating in z/VM CSM, a dedicated FTP server is set up specifically for transporting service levels and the communication between principal and managed systems. A new command, SERVMGR, is used to manage z/VM CSM. SERVMGR uses VMSES/E commands to apply service and local modifications, build serviced content, and drive the transport of z/VM CSM packaged service to managed systems. z/VM CSM uses Shared File System (SFS) directories to manage service levels for the managed systems. Management of these directories is handled by SERVMGR. 9.1.1 z/VM CSM",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.585368",
+    "chunk_number": 605,
+    "word_count": 164
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "information on how to use this fix category to identify and install the specific PTFs that enable compliance data collection. Chapter 7. Operating system support 309 For additional information about z/OS collection sources and enablement refer to: \u2013 Software Announcement 222-005, IBM Z Security and Compliance Center. \u2013 Software Announcement 222-092, CICS Transaction Server for z/OS 6.1. \u2013 Software Announcement 222-003, Db2 13 for z/OS powered by AI innovations provides industry scalability, business resiliency and intelligence. Linux support for compliance Linux on IBM Z supports the collection of compliance data from the Linux environment. Pre-requisite operating systems: \u2013 Red Hat Enterprise Linux 8.0 (RHEL) on IBM Z, or later \u2013 SUSE Linux Enterprise Server (SLES) on IBM Z 15 \u2013 Ubuntu Server LTS for IBM Z 22.04 Optional middleware and software: \u2013 Oracle 19c \u2013 PostgresSQL 13.x, 14.x 7.5 z/OS migration considerations Except for base processor support, z/OS releases do not require any",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.227257",
+    "chunk_number": 769,
+    "word_count": 153
+  }
+}

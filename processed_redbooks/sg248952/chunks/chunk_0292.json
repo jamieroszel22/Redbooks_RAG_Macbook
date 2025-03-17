@@ -1,0 +1,18 @@
+{
+  "content": "the following native Peripheral Component Interconnect Express (PCIe) features: \u0002 10GbE and 25GbE RoCE Express3 Short Reach (SR) and Long Reach (LR) LPAR: In an LPAR, as many zIIPs as are available can be defined together with at least one CP. 13 Enabled by default, cannot be changed or altered by user Features Max5 Max16 Max32 Max68 Standard SAPs 2 2 4 8 Note: On the IBM z16 A02 and IBM z16 AGZ configurations it is no longer possible to order additional Optional SAPs. Chapter 3. Central processor complex design 113 \u0002 10GbE and 25GbE RoCE Express2.1 \u0002 10GbE and 25GbE RoCE Express2 \u0002 Coupling Express2 Long Reach IFPs are initialized at POR. They support various firmware functions such as Resource Group (RG) LIC14 to provide native PCIe I/O feature management and virtualization functions. 3.5.9 Processor unit assignment The processor unit assignment of characterized PUs is done at POR time, when the system is initialized. The initial assignment rules keep PUs of the same",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.363210",
+    "chunk_number": 292,
+    "word_count": 164
+  }
+}

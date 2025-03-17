@@ -1,0 +1,18 @@
+{
+  "content": "challenges. Figure 1-2 On-premises, cloud-native warehouses, and custom data lakes are commonly found in enterprise architectures Most lakehouse solutions offer a high-performance query engine over low-cost storage with a metadata governance layer. Intelligent metadata layers enable users to categorize and classify unstructured data (such as video and voice) and semi-structured data (such as eXtensible Markup Language (XML), JavaScript Object Notation (JSON), and emails). In an ideal world, a lakehouse offers open-source technologies that reduce data duplication and simplify complex Extract, Transform, Load (ETL) pipelines. Some first-generation lakehouses have key constraints that limit their ability to address the challenges of cost and complexity. For example, a single-query engine that is designed for BI or ML workloads might be ineffective when it is used for another workload type. Different workloads should be optimized with the best-suited environment to keep costs at a minimum",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.529102",
+    "chunk_number": 49,
+    "word_count": 141
+  }
+}

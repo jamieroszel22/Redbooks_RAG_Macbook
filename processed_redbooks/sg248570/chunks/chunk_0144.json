@@ -1,0 +1,18 @@
+{
+  "content": "Require read-only access to files. \u0002 Data Engineers: Need write access to upload and update files. To implement these groups, assign roles to them: Storage Admin: Granted to the Admin group. Storage Reader: Granted to the Analyst group. Storage Writer: Granted to the Data Engineer group. If a specific analyst, such as Tom, needs temporary write access to a file, a policy-based ACL can be created to grant him that permission for a specific period. This approach allows for flexibility without compromising overall security. Importantly, Tom retains his usual read-only access to other files in the storage. Using role hierarchies for simplified management IBM watsonx.data uses RBAC with role hierarchies. This approach simplifies permission management by enabling higher-level roles to inherit permissions from lower-level roles, which reduce redundancy. Here is the role hierarchy: \u0002 Storage Reader: The lowest level, which grants read-only access. \u0002 Storage Writer: Inherits Storage Reader",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.898051",
+    "chunk_number": 144,
+    "word_count": 149
+  }
+}

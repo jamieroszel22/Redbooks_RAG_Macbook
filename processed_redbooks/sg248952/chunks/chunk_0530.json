@@ -1,0 +1,18 @@
+{
+  "content": "exclusive to IBM z16 A02 and IBM z16 AGZ. Each feature FC 0909 has one IBM 4770 PCIe cryptographic adapter (hardware security module - HSM), whereas FC 0908 has two IBM 4770 PCIe cryptographic adapters (two HSMs). The Crypto Express8S (CEX8S) feature occupies one I/O slot in PCIe+ I/O drawer. This feature provides one or two HSMs and for a secure programming and hardware environment on which crypto processes are run. Each cryptographic coprocessor includes a general-purpose processor, non-volatile storage, and specialized cryptographic electronics. The Crypto Express8S feature provides tamper-sensing and tamper-responding, high-performance cryptographic operations. Each Crypto Express8S PCI Express adapter is available in one of the following configurations: \u0002 Secure IBM CCA coprocessor (CEX8C) - This configuration includes secure key functions. It is optionally programmable to deploy more functions and algorithms by using UDX. For more information, see 6.5.2, \u201cCrypto Express8S as a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.280040",
+    "chunk_number": 530,
+    "word_count": 144
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "machines. The z/VM dedicated real storage can be shared between guest operating systems. LPAR main storage allocation and usage The IBM z16 storage allocation and usage possibilities depend on the image mode and the operating system that is deployed in the LPAR. Important: The memory allocation and usage depends on the operating system architecture and tested (documented for each operating system) limits. While the maximum supported memory per LPAR for IBM z16 is 32 TB, each operating system has its own support specifications. For more information about general guidelines, see the PR/SM Planning Guide, SB10-7178, which is available at the IBM Resource Link website (log in required). Chapter 3. Central processor complex design 125 The following modes are provided: \u0002 z/Architecture In z/Architecture (General) mode, storage addressing is 64-bit, which allows for virtual addresses up to 16 exabytes (16 EB). However, the current main storage limit for LPARs on an IBM z16 A01 is 32 TB of",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.479287",
+    "chunk_number": 320,
+    "word_count": 157
+  }
+}

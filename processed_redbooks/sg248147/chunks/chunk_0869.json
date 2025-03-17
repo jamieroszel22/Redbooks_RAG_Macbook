@@ -1,0 +1,18 @@
+{
+  "content": "the following command: # rescan_scsi_bus -a 13.2 Adding a logical volume Sometimes, you require more disk space than a single DASD volume provides. For example, if you want a shared /home/ directory, it must be a sufficient size for many users to write data to. You can use the LVM to combine multiple DASD volumes into one logical volume. This example does not create a large logical volume, but it shows all of the necessary steps. The following sections describe a logical volume with additional DASD on a Linux guest. Use the following overall steps in adding a logical volume. 13.2.1 Creating a logical volume and file system The following overall steps are involved in creating a logical volume: 1. Create physical volumes from the two partitions. 2. Create a single volume group. 3. Create a single logical volume. 4. Make a file system from the logical volume. Figure 13-1 on page 405 shows a block diagram of the LVM. Chapter 13. Disk storage administration 405 Figure 13-1 LVM block",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.554086",
+    "chunk_number": 869,
+    "word_count": 170
+  }
+}

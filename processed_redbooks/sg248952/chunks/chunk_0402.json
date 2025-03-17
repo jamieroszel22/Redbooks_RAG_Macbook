@@ -1,0 +1,18 @@
+{
+  "content": "z16 A02 and IBM z16 AGZ, feature the following advantages for performance and management in configurations with ISL and cascaded FICON directors: \u0002 Support sharing of ISLs between FICON and FCP (PPRC or distributed) \u0002 I/O traffic is better balanced between all available ISLs \u0002 Improved use of FICON director and ISL \u0002 Easier to manage with a predicable and repeatable I/O performance FICON dynamic routing can be enabled by defining dynamic routing-capable switches and control units in HCD. Also, z/OS implemented a health check function for FICON dynamic routing. 8 Check with the switch provider for their support statement. Chapter 4. I/O structure 161 Improved zHPF I/O execution at distance By introducing the concept of pre-deposit writes, zHPF reduces the number of round trips of standard FCP I/Os to a single round trip. Originally, this benefit is limited to writes that are less than 64 KB. zHPF on IBM z14 and newer IBM Z were enhanced to allow all large write operations (> 64 KB) at",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.788986",
+    "chunk_number": 402,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Mem 4 WORK Member 4 work vol 2 (3390-3 only) Mem 4 WORK Member 4 work vol 3 (3390-3 only) Real addresses for the common volume on each member LPAR: Member 1 Member 2 Member 3 Member 4 CTC device addresses: From member 1 From member 2 To: member 1 N/A To: member 1 _______ _______ To: member 2 _______ _______ To: member 2 N/A To: member 3 _______ _______ To: member 3 _______ _______ To: member 4 _______ _______ To: member 4 _______ _______ From member 3 From member 4 To: member 1 _______ _______ To: member 1 _______ _______ To: member 2 _______ _______ To: member 2 _______ _______ To: member 3 N/A To: member 3 _______ _______ To: member 4 _______ _______ To: member 4 N/A Type Default label Chosen label Address Comment 486 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 z/VM networking resources Complete the worksheet in Table B-8 to list the networking resources that will be needed when you start the IPWIZARD and when you create a VSWITCH for the Linux virtual machines. Table B-8 z/VM and",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.978539",
+    "chunk_number": 1003,
+    "word_count": 182
+  }
+}

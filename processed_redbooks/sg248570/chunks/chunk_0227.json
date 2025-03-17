@@ -1,0 +1,18 @@
+{
+  "content": "Lakehouse with IBM watsonx.data 8.2.5 Creating a schema in the catalog The data engineer is ready to create a schema in the catalog that was created in 8.2.3, \u201cConfigure storage and catalog in IBM watsonx.data\u201d on page 108. This new schema is used to ingest the marketing campaign data from the IBM Cloud Object Storage bucket. To do this task, they complete the following steps: 1. On the Data manager page, the data engineer selects Create \u2192 Create schema, as shown in Figure 8-20. Figure 8-20 Create schema 2. The data engineer defines the Catalog, Name, and Path, as shown in Figure 8-21 on page 115. Chapter 8. Marketing campaign analysis use case 115 Figure 8-21 Create schema 8.2.6 Ingesting data from an IBM Cloud Object Storage bucket The data engineer proceeds to ingest the marketing campaign data from the IBM Cloud Object Storage bucket. To do so, they complete the following steps: 1. From the Data manager page, they click Ingest data to begin, as shown in Figure 8-22. Figure 8-22",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.219363",
+    "chunk_number": 227,
+    "word_count": 172
+  }
+}

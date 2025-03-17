@@ -1,0 +1,18 @@
+{
+  "content": "31463036 PCHID REPORT Nov 10,2021 Crypto Express8S (single HSM) 0909 Y N/A Crypto Express7S (2 ports) 0898 N Y Crypto Express7S (1 port) 0899 N Y Crypto Express6S 0893 N Y 25GbE RoCE Express3 SR 0452 Y N/A 25GbE RoCE Express3 LR 0453 Y N/A 10GbE RoCE Express3 SR 0440 Y N/A 10GbE RoCE Express3 LR 0441 Y N/A 25GbE RoCE Express2.1 0450 N Y 25GbE RoCE Express2 0430 N Y 10GbE RoCE Express2.1 0432 N Y 10GbE RoCE Express2 0412 N Y zHyperLink Express1.1 0451 Y Y zHyperLink Express 0431 N Y a. Installed in the CPC Drawer; provides connectivity for the PCIe+ I/O Drawer b. Installed in the CPC Drawer; provides coupling connectivity (short distance - up to 150m). Coupling links connectivity support: \u0002 z13 and z13s and older systems are not supported in same Parallel Sysplex or STP CTN with IBM z16 A02 and IBM z16 AGZ. \u0002 InfiniBand coupling Links (if available on IBM z14 M0x) are NOT supported in a Parallel Sysplex or CTN for connections to an IBM z16 A02 and IBM z16 AGZ member. Channel feature",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.709362",
+    "chunk_number": 383,
+    "word_count": 183
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "in the SETIOS system command to control whether zHPF is enabled or disabled. The default is ZHPF=NO. Support also is added for the D IOS,ZHPF system command to indicate whether zHPF is enabled, disabled, or not supported on the server. Similar to the existing FICON channel architecture, the application or access method provides the channel program (CCWs). How zHPF (transport mode) manages channel program operations is different from the CCW operation for the existing FICON architecture (command mode). While in command mode, each CCW is sent to the control unit for execution. In transport mode, multiple channel commands are packaged together and sent over the link to the control unit in a single control block. Fewer processors are used compared to the existing FICON architecture. Specific complex CCW chains are not supported by zHPF. The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258. For more information about FICON channel performance, see",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.959173",
+    "chunk_number": 694,
+    "word_count": 160
+  }
+}

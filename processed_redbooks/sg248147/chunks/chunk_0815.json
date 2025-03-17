@@ -1,0 +1,18 @@
+{
+  "content": "and paging capacity. \u0002 RELative nnnnn: Specifies that this user is to receive a target minimum relative share of nnnnn. The amount of scheduled system resources that is available to relative share users is the total of resources that are available less the amount that is allocated to absolute share users. CPOWNED Use QUERY CPOWNED to display the list of CP-owned DASD volumes. If paging or spooling problems occur, this list can be checked to ensure that all required volumes are available. FRAMES Use QUERY FRAMES to display the status of host real storage. It might be necessary to use this command if you are getting users in the eligible list when you need to check storage utilization. MDC Use QUERY MDC from a Class B user to: \u0002 Query minidisk cache settings for the entire system, for a real device, an active minidisk, or a minidisk defined in the directory \u0002 Query a user's ability to insert data into the cache Useful if I/O problems are being investigated. PATHS Use QUERY PATHS to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.356803",
+    "chunk_number": 815,
+    "word_count": 174
+  }
+}

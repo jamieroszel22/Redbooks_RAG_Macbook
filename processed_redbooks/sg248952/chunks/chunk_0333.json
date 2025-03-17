@@ -1,0 +1,18 @@
+{
+  "content": "The IBM z16 A02 and IBM z16 AGZ storage allocation and usage possibilities depend on the image mode and the operating system that is deployed in the LPAR. The following modes are provided: \u0002 z/Architecture mode In z/Architecture (General) mode, storage addressing is 64-bit, which allows for virtual addresses up to 16 exabytes (16 EB). However, the current main storage limit for LPARs on IBM z16 A02 and IBM z16 AGZ is 16 TB of main storage. \u0002 CF mode In CF mode, storage addressing is 64 bit for a CF image that runs CFCC. The current IBM z16 A02 and IBM z16 AGZ definition limit for CF LPARs is 16 TB of storage. Important: The memory allocation and usage depends on the operating system architecture and tested (documented for each operating system) limits. While the maximum supported memory per LPAR for IBM z16 A02 and IBM z16 AGZ is 16TB, each operating system has its own support specifications. For more information about the amount of main memory supported by the different operation",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.520070",
+    "chunk_number": 333,
+    "word_count": 173
+  }
+}

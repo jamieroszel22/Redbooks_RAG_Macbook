@@ -1,0 +1,18 @@
+{
+  "content": "new function is supplied in ICSF PTFs on: 14 Quoted from z/OS V2.R5 publications. 306 IBM z16 A02 and IBM z16 AGZ Technical Guide z/OS V2.R2-V2.R4 (Web deliverable HCR77D1) or V2.R5 (base, which is HCR77D2) New function exploitation includes: \u0002 CCA and EP11 CEX8 Coprocessor support \u0002 CCA and EP11 Quantum Safe Algorithms (Kyber & Dilithium 8,7) \u0002 EP11 mechanism for data re-encryption and new ECC curve support \u0002 Fully homomorphic encryption \u0002 Usage counters that count classes of crypto operations (to meet audit requirements) When exploiting new Quantum Safe Algorithms and sharing a KDS in a sysplex, ensure all ICSF PTFs are installed on all systems. For more information about ICSF versions and FMID cross-references, see the z/OS: ICSF Version and FMID Cross Reference, TD103782, abstract that is available at the IBM Techdoc website. RMF Support for Crypto Express RMF enhances the Monitor I Crypto Activity data gatherer to recognize and use performance data for the new Crypto Express8S",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.196819",
+    "chunk_number": 760,
+    "word_count": 160
+  }
+}

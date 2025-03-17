@@ -1,0 +1,18 @@
+{
+  "content": "unparalleled transactional consistency, robust optimization, and universally understood access methods via SQL. Rather than discarding these hard-won strengths, watsonx.data intelligently integrates them into the evolving data ecosystem, ensuring that modern data architectures gain the reliability, performance, and user-friendliness traditionally associated with relational databases. This integration is not about forcing a strict schema on all data sources, nor about replicating legacy infrastructure within a new paradigm. Instead, watsonx.data applies the core principles and best practices honed over decades of RDBMS evolution and extends them to open, columnar file formats, distributed storage environments, and hybrid cloud infrastructures. The result is a solution that provides end-to-end trustworthiness from ingestion to query execution without sacrificing openness or scalability. 5.3.1 ACID guarantees transactional reliability In data-intensive enterprises, the importance of data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.016321",
+    "chunk_number": 174,
+    "word_count": 126
+  }
+}

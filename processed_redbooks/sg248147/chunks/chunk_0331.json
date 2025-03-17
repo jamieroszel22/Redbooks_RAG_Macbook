@@ -1,0 +1,18 @@
+{
+  "content": "the file so that the comment line indicates the name and purpose, and the date and name or ID of the person who last modified it. This task is a preferred practice. Make this step a habit for all CMS REXX EXEC files that you edit. Type over the entire first line to replace it with the following information. Replace YYYY-MM-DD with today\u2019s date, and replace MYUSERID with something that is unique to yourself. Be sure to include the /* at the beginning and the */ at the end: /*** DEFAULT PROFILE XEDIT FOR z/VM -- MOD YYYY-MM-DD MYUSERID ***/ b. One default setting that can be dangerous, especially if you use F12 to retrieve commands, is that PF12 is set to the FILE (save and quit) subcommand. Most times, you do not want to save your changes and quit with the stroke of one key. It is recommended that you instead set PF12 to the ? (retrieve) subcommand, which effectively retrieves the last command that was issued on the XEDIT command line. Change the line SET PF12 FILE to: SET PF12 ? c.",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.498824",
+    "chunk_number": 331,
+    "word_count": 184
+  }
+}

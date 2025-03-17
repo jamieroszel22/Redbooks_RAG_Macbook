@@ -1,0 +1,18 @@
+{
+  "content": "instructions and advances in microprocessor designs. 3.4.14 Extended Translation Facility The z/Architecture instruction set includes instructions in support of the Extended Translation Facility. They are used in data conversion operations for Unicode data, which causes applications that are enabled for Unicode or globalization to be more efficient. These data-encoding formats are used in web services, grid, and on-demand environments in which XML and SOAP technologies are used. The High Level Assembler supports the Extended Translation Facility instructions. 3.4.15 Instruction set extensions Thirty new instructions were added to the IBM z16 A02 and IBM z16 AGZ processor. The following new mnemonics were added to the IBM z/Architecture: \u0002 LBEAR, LFI, LLGFI, and LPSWEY \u0002 NNPA \u0002 QPACI \u0002 RDP \u0002 SLLHH, SLLHL, SLLLH, SRLHH, SRLHL, SRLLH, and STBEAR \u0002 VCFN, VCLFNH, VCLFNL, VCLZDP, VCNF, VCRNF, VCSPH, VPKZR, VSCHDP, VSCHP, VSCHSP, VSCHXP, VSCSHP, VSRPR, VUPKZH, and VUPKZL A new procedure is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.196956",
+    "chunk_number": 259,
+    "word_count": 149
+  }
+}

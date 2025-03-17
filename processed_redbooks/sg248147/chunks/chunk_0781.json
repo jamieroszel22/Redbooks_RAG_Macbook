@@ -1,0 +1,18 @@
+{
+  "content": "============================================================================== 0.0.01FA alias ECKD 0.0.01FB alias ECKD 0.0.01FC alias ECKD 0.0.01FD alias ECKD 0.0.01FE alias ECKD 0.0.01FF alias ECKD 0.0.0100 active dasda 94:0 ECKD 4096 7042MB 1802880 0.0.0300 active dasdb 94:4 FBA 512 256MB 524288 0.0.0301 active dasdc 94:8 FBA 512 512MB 1048576 0.0.0102 active dasdd 94:12 ECKD 4096 7043MB 1803060 No other configuration is needed. From now on, whenever /dev/dasdd is used, Linux uses the base device and alias devices to distribute the workload. No multipathing is needed for HyperPAV to work in an exploiting Linux. If another device, which comes from the same logical control unit as device 102 in the previous example, is added, it also uses the same virtual HyperPAV devices. If a real device from a different logical control unit is added, it needs a new set of virtual HyperPAV aliases to be added. Consider the following information when you define virtual HyperPAV aliases: \u0002 The base",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.259648",
+    "chunk_number": 781,
+    "word_count": 152
+  }
+}

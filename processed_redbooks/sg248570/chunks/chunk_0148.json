@@ -1,0 +1,18 @@
+{
+  "content": "data engineering\u201d on page 67 \u0002 \u201cExecute important queries using the power of traditional RDBMS with shared open lakehouse formats\u201d on page 81 5 60 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 5.1 Using PrestoDB or Prestissimo engine for adhoc queries Presto is a distributed SQL query engine designed to efficiently process massive datasets across diverse data sources. It empowers users to perform interactive, ad-hoc analytics on data residing in various systems, including Hive, AWS S3, Hadoop, Cassandra, relational databases, NoSQL databases, and proprietary data stores. By unifying access to data from multiple sources, Presto enables organizations to conduct comprehensive analytics across their entire data landscape. Presto's distributed SQL engine architecture leverages SQL, the industry-standard language for data manipulation. This ensures broad accessibility and compatibility with existing SQL skills and tools. By adhering to the ANSI SQL standard,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.914692",
+    "chunk_number": 148,
+    "word_count": 142
+  }
+}

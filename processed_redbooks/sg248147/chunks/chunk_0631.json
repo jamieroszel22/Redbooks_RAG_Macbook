@@ -1,0 +1,18 @@
+{
+  "content": "command we issued performed the following tasks: \u0002 Created a service level in version 7.2.0 called RSU1. We called it RSU1 because after it is created, we add the content of the first RSU. \u0002 Based the service level on the supplied maintenance level, BASE. \u0002 Defined the service level to not include an External Security Manager - NONESM. \u0002 Provided the text RSU level shipped with product as a description for the service level. Chapter 9. z/VM Centralized Service Management 287 Next, we added the RSU level that was applied to the system at installation time by using the SERVMGR SRVLVL SERVICE command. We needed to access the MAINT720 500 disk where the RSU deliverable is stored. Then, we ran the SERVMGR command to include the RSU into our VMCSM service level. The steps are shown in Example 9-12. Example 9-12 Adding the RSU to the VMCSM service level link maint720 500 500 rr DASD 0500 LINKED R/O; R/W BY MAINT720 Ready; acc 500 c DMSACP723I C (500) R/O Ready; servmgr srvlvl service 720",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.707432",
+    "chunk_number": 631,
+    "word_count": 175
+  }
+}

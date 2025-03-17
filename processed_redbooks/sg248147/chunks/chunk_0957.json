@@ -1,0 +1,18 @@
+{
+  "content": "2 DVHCMS3868I 2020-09-01 12:47:03 DVHREQ2289I Your CMS request for MAINT at * has completed; with RC = 0. The output that is shown in Example 15-16 makes it clear that CONFIGAA is the only configuration override file that is used. Request DirMaint to send CONFIGAA DATADVH so it can be edited: ===> DIRMAINT SEND CONFIGAA DATADVH DVHXMT1191I Your SEND request has been sent for processing to DIRMAINT DVHXMT1191I at *. Ready; T=0.01/0.01 11:52:35 DVHREQ2288I Your SEND request for MAINT720 at * has been accepted. \u2192 RDR FILE 0276 SENT FROM DIRMAINT PUN WAS 0342 RECS 0059 CPY 001 A NOHOLD NOKEEP DVHREQ2289I Your SEND request for MAINT at * has completed; with RC = 0. Make note of the line that begins with RDR FILE, which indicates the reader file number that was sent. You need this number to retrieve the file from the reader, as shown in Example 15-17. You must replace the example value 0276 with the correct value for your system. Example 15-17 Retrieval of CONFIGAA from the reader list",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.837702",
+    "chunk_number": 957,
+    "word_count": 173
+  }
+}

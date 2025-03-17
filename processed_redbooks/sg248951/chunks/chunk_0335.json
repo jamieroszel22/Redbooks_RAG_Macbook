@@ -1,0 +1,18 @@
+{
+  "content": "use). \u2013 Specific deletions of these objects do not factor into the residency time metrics. \u2013 These metrics were implemented as new fields within the CF Storage Class controls: They are retrieved by using the IXLCACHE READ_STGSTATS command or IXLMG/IXLYAMDA services that are requesting CF Storage Class controls. They are also available in CF structure memory dumps that capture CF Storage Class controls. \u2013 The metrics are included in Db2 Performance Manager statistics and used for improved cache structure management (cache sizing, castout processing, reclaim management, and so on). The inclusion of these metrics in sysplex SMF/RMF data is not planned, but can be added later. APAR OA60650 is required on z/OS V2R3, V2R4, and V2R5 to support the new metrics. \u0002 New cache retry buffer support was added for IFCC retry idempotency: Initially, the CF cache structure architecture was defined to be idempotent (commands can be tried again after link glitches, such as IFCCs); therefore, no specific",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.539414",
+    "chunk_number": 335,
+    "word_count": 158
+  }
+}

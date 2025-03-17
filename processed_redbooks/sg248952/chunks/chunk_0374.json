@@ -1,0 +1,18 @@
+{
+  "content": "SR1.1) coupling links for Parallel Sysplex. All fanout cards support concurrent add, remove, and move. The IBM z16 A02 and IBM z16 AGZ CPC drawer I/O infrastructure consist of the following features: \u0002 The PCIe+ Generation 3 fanout cards: Two ports per card (feature) that connect to PCIe+ I/O drawers. \u0002 ICA SR (ICA SR and ICA SR1.1) fanout cards: Two ports per card (feature) that connect to other (external) CPCs. The PCIe fanout cards are installed in the rear of the CPC drawers. Each CPC drawer features 12 PCIe+ Gen3 fanout slots. The PCIe fanouts and ICA SR fanouts are installed in locations LG01 - LG12 at the rear in the CPC drawers (see Figure 2-7 on page 31). On the CPC drawer there are two BMC/OSC cards, each being a combination of BMC card and OSC card. BMC stands for Base Management and OSC for Oscillator Card. Each BMC/OSC card has one PPS port and one ETS port (RJ45 Ethernet, for both PTP and NTP). An I/O connection diagram is shown in Figure 4-3 on page 146. 4.4.1 PCIe+",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.676501",
+    "chunk_number": 374,
+    "word_count": 181
+  }
+}

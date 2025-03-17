@@ -1,0 +1,18 @@
+{
+  "content": "apikeyibmlhapikey_ibmcloudid:apikey). Tip:The user submitting the application needs to have MetastoreAccess permission for Spark applications that need to use metastore. Use IAM policies to add the access as shown in Figure 5-21. Chapter 5. Querying and manipulating data and leveraging persona-specific engines 79 Figure 5-21 Access policy edit 5. Once you submit the application, you get an id and an initial state. You can switch to Applications tab of the Spark engine or use another API to track the state of the application. You also need this Application ID to debug and search for the logs, as we will show later. {\"id\":\"8ac12670-8fef-4c67-b2ea-b7bd0d5529f2\",\"state\":\"accepted\"} 6. You can confirm that you can iceberg \"style\" of data and metadata folders got created. 80 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Figure 5-22 Iceberg data in Object Storage 7. For any Spark application, you may need to examine logs, including those from your application",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.006329",
+    "chunk_number": 172,
+    "word_count": 152
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "internal state and guide responses within boundaries. Using the watsonx.ai dynamic configuration settings, developers can set up continuous tuning processes that adapt prompts based on evolving business contexts, which lead to a finely calibrated model that reflects current operational realities. This capability enables rapid adaptation without costly retraining, and the watsonx.ai architecture permits this tuning to take place seamlessly, which enables real-time adjustments as new data is ingested or as user preferences change. In this setting, it is not the LLM that is modified. Instead, a dedicated, smaller LLM is trained to generate the best possible prompt adjustment for each prompt in the input. The smaller LLM leverages the system tokens that are available for each LLM on watsonx.ai and produces new, compatible virtual tokens to enhance the performances. The smaller LLM is trained by using a loss function that accounts for the resulting response from the immutable (in this",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.722160",
+    "chunk_number": 139,
+    "word_count": 150
+  }
+}

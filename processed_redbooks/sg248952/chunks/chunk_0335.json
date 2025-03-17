@@ -1,0 +1,18 @@
+{
+  "content": "z/Architecture mode. z/VM also uses 64-bit addressing and operates in z/Architecture mode. \u0002 z/VM mode In z/VM mode, certain types of processor units can be defined within one LPAR. This feature increases flexibility and simplifies systems management by allowing z/VM to run the following tasks in the same z/VM LPAR: \u2013 Manage guests to operate Linux on Z on IFLs \u2013 Operate 21CS VSEn and z/OS on CPs \u2013 Offload z/OS system software processor usage, such as Db2 workloads on zIIPs \u2013 Provide an economical Java execution environment under z/OS on zIIPs \u0002 IBM SSC In IBM SSC mode, storage addressing is 64-bit for an embedded product. The amount of usable main storage by the appliance code that is deployed in the SSC LPAR is documented by the appliance code supplier. 3.7.3 Reserved storage Reserved storage can be optionally defined to an LPAR, which allows a nondisruptive image memory upgrade for this partition. Reserved storage can be defined to central and expanded storage, and to any image",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.529049",
+    "chunk_number": 335,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "regardless of where the AI assets live which are being tracked. AI use case setup This notebook from the IBM GitHubshowcases how to create an AI use case. The sample notebook demonstrates a variety of functionality including: \u0002 Storing a model as an asset into watsonx.ai (this creates the AI factsheet) \u0002 Create a new AI use case \u0002 Associate the AI use case with a watsonx.ai project \u0002 Track/Untrack a model under an AI use case Development In \u201cInventory and AI use case setup\u201d on page 71, the linked notebook holds all relevant code for placing a model into the development stage of its lifecycle. Here it is again in condensed form. # create an AI use case ai_usecase = facts_client.assets.create_ai_usecase(catalog_id=ai_usecase_inventory_id, name=ai_usecase_name,description=ai_usecase_desc) # track the model in the use case watsonx_ai_model.track(usecase=ai_usecase,approach=decisiontree_approach, version_number=\"major\",version_comment=\"major update to previous version\") Note: The notebook",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.159643",
+    "chunk_number": 191,
+    "word_count": 140
+  }
+}

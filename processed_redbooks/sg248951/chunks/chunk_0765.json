@@ -1,0 +1,18 @@
+{
+  "content": "collect and write compliance data to new SMF 1154 records that are associated with its unique subtype. These new SMF 1154 records can be integrated into solutions, such as the IBM z16 IBM Z Security and Compliance Center. This support requires PTFs for z/OS 2.4 and z/OS 2.5. The PTFs are identified by a fix category that is designated specifically for Compliance data collection support named IBM.Function.Compliance.DataCollection. For more information about how to use this fix category to identify and install the specific PTFs that enable compliance data collection, see \u201cIBM Fix Category Values and Descriptions\u201d. 316 IBM z16 (3931) Technical Guide For more information about z/OS collection sources and enablement, see the following resources: \u0002 Software Announcement 222-005, IBM Z Security and Compliance Center. \u0002 Software Announcement 222-092, CICS Transaction Server for z/OS 6.1. \u0002 Software Announcement 222-003, Db2 13 for z/OS powered by AI innovations provides industry scalability,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.212519",
+    "chunk_number": 765,
+    "word_count": 150
+  }
+}

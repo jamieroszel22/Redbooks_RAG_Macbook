@@ -1,0 +1,18 @@
+{
+  "content": "a Parallel Sysplex as implemented within the z/Architecture are shown in Figure 3-22. The example in Figure 3-22 shows one of many possible Parallel Sysplex configurations. Figure 3-22 Sysplex hardware overview Figure 3-22 shows an IBM z16 model A01system that contains multiple z/OS sysplex partitions. It contains an internal CF, an IBM z15 model T02 system that contains a stand-alone CF, and an IBM z14 model M03 that contains multiple z/OS sysplex partitions. STP over coupling links provides time synchronization to all systems. Selecting the suitable CF link technology Coupling Express2 Long Reach (CE2 LR) or Integrate Coupling Adapter Short Reach (ICA SR and SR1.1) depends on the system configuration and how distant they are physically. For more information about link technologies, see \u201cCoupling links\u201d on page 187. Parallel Sysplex is an enabling technology that allows highly reliable, redundant, and robust IBM Z technology to achieve near-continuous availability. A Parallel Sysplex",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.518320",
+    "chunk_number": 330,
+    "word_count": 151
+  }
+}

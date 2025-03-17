@@ -1,0 +1,18 @@
+{
+  "content": "to support the workload. Also, it becomes harder to effectively manage resource allocation across too many hypervisor instances. A strong security configuration at the hypervisor layer allows for full protection of resources across the environment, reduced management overhead from a reduction in hypervisor instances, and improved resource allocation. Chapter 3. Security considerations 73 3.2.2 z/VM built-in security The z/VM Control Program (CP) provides a basic level of security. CP enforces the definitions that are specified in the system directory for resources, such as minidisks. However, the default security includes the following weaknesses: \u0002 The source for the directory is stored on a CMS minidisk and contains passwords (for users and minidisks) that are stored in clear text \u0002 The default location of the directory source file is somewhat well-known, which leads to the possibility of the passwords becoming known \u0002 Poor granularity of resource management control \u0002 No delegation",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.012950",
+    "chunk_number": 215,
+    "word_count": 149
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "(MES ordered) IBM z16 A01 supports concurrent conversion between all PU types, which includes SAPs, to provide flexibility and meet changing business requirements. LPARs also might have to free the PUs to be converted. The operating systems must include support to configure processors offline or online so that the PU conversion can be done nondisruptively. 8.3.2 Customer Initiated Upgrade facility The CIU facility is an IBM online system through which you can order, download, and install permanent and temporary upgrades for IBM Z servers. Access to and use of the CIU facility requires a contract between the client and IBM through for which the terms and conditions for use of the CIU facility are accepted. The CIU facility is controlled through the permanent upgrade authorization FC 9898. A prerequisite to FC 9898 is the online CoD buying feature code (FC 9900). Although FC 9898 can be installed on your IBM z16 servers at any time, often it is added when ordering an IBM z16. After you",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.361431",
+    "chunk_number": 814,
+    "word_count": 166
+  }
+}

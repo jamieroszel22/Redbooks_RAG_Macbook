@@ -1,0 +1,18 @@
+{
+  "content": "Performance Monitor. \u0002 Any Java application that uses the current IBM SDK. \u0002 Java IBM Semeru Runtime offloading enablement for DLC models exploiting Integrated Accelerator for AI \u0002 WebSphere Application Server V5R1 and later, and products that are based on it, such as WebSphere Portal, WebSphere Enterprise Service Bus (WebSphere ESB), and WebSphere Business Integration (WBI) for z/OS. \u0002 CICS/TS V2R3 and later. \u0002 Db2 UDB for z/OS Version 8 and later. \u0002 IMS Version 8 and later. \u0002 zIIP Assisted HiperSockets for large messages. \u0002 z/OSMF (z/OS Management Facility). \u0002 IBM z/OS Platform for Apache Spark. \u0002 IBM Watson\u00ae Machine Learning for z/OS. \u0002 z/OS System Recovery Boost. \u0002 IBM Python for z/OS Version 3.11 \u0002 Approved 3rd party vendor products. The use of a zIIP is transparent to application programs. The supported operating systems are listed in Table 7-3 on page 249. On IBM z16 A02 and IBM z16 AGZ servers, the zIIP processor is designed to run in SMT mode, with up to two threads per",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.780018",
+    "chunk_number": 647,
+    "word_count": 169
+  }
+}

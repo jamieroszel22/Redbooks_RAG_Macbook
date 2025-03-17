@@ -1,0 +1,18 @@
+{
+  "content": "Hardware Management Console and Support Element 429 The use of link-local addresses must be supported by your browser. 10.3.7 OSA Support Facility When OSA/SF was moved from z/OS to the HMC/SE environment, it was noted that it is no longer easy to obtain a global view of all OSA PCHIDs and the monitoring and diagnostic information that was available in the Query Host command. To address this issue, the following changes were made: \u0002 If a CPC is targeted, the initial window provides a global view of all OSA PCHIDs. \u0002 You can browse to various OSA Advanced Facilities subtasks from the initial window, which makes the process of getting to them less cumbersome. \u0002 Today\u2019s View Port Parameters and Display OAT Entries support exporting data of one OSA PCHID. Also, the data for all OSA PCHIDs can be exported to USB or FTP from the View Port Parameters menu. \u0002 The initial window was changed to display status information of all OSA PCHIDs (see Figure 10-21 on page 429). Figure 10-21 OSA",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.960905",
+    "chunk_number": 995,
+    "word_count": 173
+  }
+}

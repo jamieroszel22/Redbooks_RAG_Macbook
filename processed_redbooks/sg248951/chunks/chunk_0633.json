@@ -1,0 +1,18 @@
+{
+  "content": "current operating systems is listed in Table 7-13. A maximum of 16 TB of main storage can be defined for an LPAR on an IBM z16 server. Table 7-13 Maximum memory that is supported by the operating system IBM z16 Model A01 - Up to 85 LPARs The IBM z16 A01 can be configured with up to 85 LPARs (same as previous models). Because channel subsystems can be shared by up to 15 LPARs, it is necessary to configure six channel subsystems to reach the 85 LPAR limit. Dynamic PU add Planning an LPAR configuration includes defining reserved PUs that can be brought online when extra capacity is needed. Operating system support is required to use this capability without an IPL; that is, nondisruptively. This support is available in z/OS for some time. The dynamic PU add function enhances this support by allowing you to dynamically define and change the number and type of reserved PUs in an LPAR profile, which removes any planning requirements. The new resources are immediately made available to the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.737172",
+    "chunk_number": 633,
+    "word_count": 174
+  }
+}

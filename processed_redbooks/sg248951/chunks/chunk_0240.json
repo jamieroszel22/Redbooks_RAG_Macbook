@@ -1,0 +1,18 @@
+{
+  "content": "Draft Standard for Floating-Point Arithmetic - IEEE 754-2008, which is intended to supersede the ANSI/IEEE Standard 754-1985. \u0002 Allows COBOL programs that use zoned-decimal operations to take advantage of the z/Architecture DFP instructions. IBM z16 servers have two DFP accelerator units per core, which improve the decimal floating point execution bandwidth. The floating point instructions operate on newly designed vector registers (32 new 128-bit registers). IBM z16 servers include decimal floating point packed conversion facility support with the following benefits: \u0002 Reduces code path length because extra instructions to format conversion are no longer needed. \u0002 Packed data is operated in memory by all decimal instructions without general-purpose registers, which were required only to prepare for decimal floating point packed conversion instruction. \u0002 Converting from packed can now force the input packed value to positive instead of requiring a separate OI, OILL, or load positive",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.127631",
+    "chunk_number": 240,
+    "word_count": 145
+  }
+}

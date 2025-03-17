@@ -1,0 +1,18 @@
+{
+  "content": "Problem reporting and repair data \u0002 Microcode Change Level (MCL) delivery \u0002 Hardware inventory data, which is also known as vital product data (VPD) \u0002 Health and diagnostic data \u0002 On-demand enablement (CoD) 10.4.1 Security characteristics The following security characteristics are in effect: \u0002 RSF requests always are started from the HMC to IBM. An inbound connection is never started from the IBM Service Support System. Chapter 10. Hardware Management Console and Support Element 431 \u0002 All data that is transferred between the HMC and the IBM Service Support System is encrypted with high-grade SSL/Transport Layer Security (TLS) encryption. \u0002 When starting the SSL/TLS-encrypted connection, the HMC validates the trusted host with the digital signature that is issued for the IBM Service Support System. \u0002 Data that is sent to the IBM Service Support System consists of hardware problems and configuration data. For more information about the benefits of Broadband RSF and the SSL/TLS-secured",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.973255",
+    "chunk_number": 999,
+    "word_count": 154
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "If HMA feature is installed on the system, special upgrade procedure must be followed to ensure nondisruptive SE upgrade. 406 IBM z16 (3931) Technical Guide \u00a9 Copyright IBM Corp. 2022. All rights reserved. 407 Chapter 10. Hardware Management Console and Support Element The Hardware Management Console (HMC) supports the functions and tasks that are required to manage the IBM Z. When tasks are performed on the HMC, the commands are sent to the Primary Support Element (SE) of the targeted system, which then issues commands to their respective central processor complex (CPC). This chapter describes the newest elements for the HMC and SE. This chapter includes the following topics: \u0002 10.1, \u201cIntroduction\u201d on page 408 \u0002 10.2, \u201cHMC and SE changes and new features\u201d on page 409 \u0002 10.3, \u201cHMC and SE connectivity\u201d on page 423 \u0002 10.4, \u201cRemote Support Facility\u201d on page 430 \u0002 10.5, \u201cHMC and SE capabilities\u201d on page 431 10 Tip: The Help function is a good starting point to get more information about",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.852551",
+    "chunk_number": 960,
+    "word_count": 168
+  }
+}

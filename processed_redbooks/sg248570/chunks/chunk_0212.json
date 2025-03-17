@@ -1,0 +1,18 @@
+{
+  "content": "that organizes, classifies, and tags these data sets, making them easily discoverable. By automating much of the data preparation process, it helps retail organizations streamline workflows, enhance collaboration, and enable faster and more informed decision-making. 7.6.1 Use case: Unified data access across retail functions Retailers frequently require insights that span multiple functional areas. For example, an organization might need to combine sales figures with supply chain data to pinpoint inventory restocking issues. At the same time, marketing teams might want to gauge the effectiveness of recent promotions on customer purchases. Chapter 7. Establishing a data catalog 99 With IBM watsonx.data, data sets from various domains are integrated into a single, comprehensive catalog, which helps ensure access and understanding of data regardless of its source. Metadata enrichment, automated tagging, and lineage tracking all contribute to this function. IBM watsonx.data tackles a key",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.155806",
+    "chunk_number": 212,
+    "word_count": 141
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "responsible on overseeing data governance, importing assets and defining policies/rules to ensure privacy protection. The Data Steward will need to create a project first, establish a connection to watsonx.data, import data assets, and run metadata enrichment jobs to define business terms, ensuring a common understanding of data assets across the organization. Data Stewards will also need to run data profiling to categorize data assets and associate each column of data to different data classes. The data protection policies and rules can be defined on top of business terms and data classes to protect sensitive data, ensuring compliance with regulatory requirements and organizational policies. Figure 6-2 on page 92 illustrates the general process of this practice. 92 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data Figure 6-2 The general process to prepare for integration in IKC Once these preparations are complete, data protection policies and rules are",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.107935",
+    "chunk_number": 199,
+    "word_count": 149
+  }
+}

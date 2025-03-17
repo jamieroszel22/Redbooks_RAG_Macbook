@@ -1,0 +1,18 @@
+{
+  "content": "VMFCTL3038I Command VMFSETUP CSM DVSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM GCSSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM VMHCDSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 DASD 0201 LINKED R/W; R/O BY PERSMAPI VMFSET2204I Linking PERFSVM 201 as 201 with link mode MR VMFCTL3038I Command VMFSETUP CSM PERFTKSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM RACFSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM REXXSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM RSCSSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM VMSESSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM TCPIPSFS (NOCONS LOG CMG+$CSM RETAIN X completed with RC=0 VMFCTL3038I Command VMFSETUP CSM TSAFSFS (NOCONS LOG CMG+$CSM RETAIN X completed",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.691705",
+    "chunk_number": 627,
+    "word_count": 145
+  }
+}

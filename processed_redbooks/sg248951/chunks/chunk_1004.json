@@ -1,0 +1,18 @@
+{
+  "content": "available to a user when they are remotely connected to the HMC by a web browser. Partition capping values can be scheduled and are specified on the Change LPAR Controls scheduled operation support. Viewing more information about a Change LPAR Controls scheduled operation is available on the SE. One example of managing the LPAR settings is the absolute physical hardware LPAR capacity setting. Driver 15 (zEC12/zBC12) introduced the capability to define (in the image profile for shared processors) the absolute processor capacity that the image is allowed to use (independent of the image weight or other cappings). Chapter 10. Hardware Management Console and Support Element 433 To indicate that the LPAR can use the nondedicated processors absolute capping, select Absolute capping on the Image Profile Processor settings to specify an absolute number of processors at which to cap the LPAR\u2019s activity. The absolute capping value can be \u201cNone\u201d or a value for the number of processors (0.01 -",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.990847",
+    "chunk_number": 1004,
+    "word_count": 158
+  }
+}

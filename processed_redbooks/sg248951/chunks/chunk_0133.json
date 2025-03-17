@@ -1,0 +1,18 @@
+{
+  "content": "drive three I/O drawers. PCHID numbering is consecutive from top to bottom. 36 IBM z16 (3931) Technical Guide \u0002 The second, a three frame system, ordered with PDU power, radiator cooling, four CPC drawers, and greater than 128 I/O features to drive nine I/O drawers. PCHID numbering starts in the A-frame, resumes in the B-frame from top down, and continues to the Z-frame working from the bottom up. \u0002 The third, a two frame system, ordered with BPA, radiator cooling, one CPC drawer, two reserved CPC drawer slots for future CPC drawer add MES, and greater than 48 I/O features to drive four I/O drawers PCHID numbering starts in the Z-frame, from the bottom and working up. Consideration for PCHID identification: In previous PCIe I/O drawers (introduced with zEC12), the orientation of the I/O features were vertical. For IBM z16 Model A01, the orientation of the PCIe features is horizontal. The top of the card is now closest to the center of the drawer for the left and right side of the",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.671598",
+    "chunk_number": 133,
+    "word_count": 172
+  }
+}

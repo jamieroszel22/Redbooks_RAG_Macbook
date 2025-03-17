@@ -1,0 +1,18 @@
+{
+  "content": "10-day tests (the CBU test activation) and one 90-day activation over a five-year period. For more information, contact your IBM representative. You can run production workload on a CBU upgrade during a CBU test. At least an equivalent amount of production capacity must be shut down during the CBU test. If you signed CBU contracts, you also must sign an Amendment with IBM to allow you to run production workload on a CBU upgrade during your CBU tests. More 10-day tests can be purchased with the CBU record. \u0002 CPE is a concurrent and temporary activation of extra CPs, ICFs, zIIPs, and IFLs; or an increase of the model capacity identifier; or both. The CPE offering is used to replace temporary lost capacity within a client\u2019s enterprise for planned downtime events, such as data center changes. The CPE feature requires unused capacity to be available on installed CPC drawers of the backup system. The capacity must be available as unused PUs, as a possibility to increase the model capacity",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.406848",
+    "chunk_number": 826,
+    "word_count": 169
+  }
+}

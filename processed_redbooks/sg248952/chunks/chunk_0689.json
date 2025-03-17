@@ -1,0 +1,18 @@
+{
+  "content": "systems are listed in Table 7-5 on page 252. 7 Coupling Express LR features are NOT carried forward to IBM z16 A02 and IBM z16 AGZ. Coupling Express2 LR is available Chapter 7. Operating system support 281 Asynchronous cross-invalidate for CF cache structures Asynchronous cross-invalidate (XI) for CF cache structures enables improved efficiency in CF data sharing by adopting a more transactional behavior for cross-invalidate (XI) processing, which is used to maintain coherency and consistency of data managers\u2019 local buffer pools across the sysplex. Instead of performing XI signals synchronously on every cache update request that causes them, data managers can \u201copt in\u201d for the CF to perform these XIs asynchronously (and then sync them up with the CF at or before transaction completion). Data integrity is maintained if all XI signals complete by the time transaction locks are released. The feature enables faster completion of cache update CF requests, especially with cross-site distance",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.934668",
+    "chunk_number": 689,
+    "word_count": 154
+  }
+}

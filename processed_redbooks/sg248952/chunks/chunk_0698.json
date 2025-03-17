@@ -1,0 +1,18 @@
+{
+  "content": "series. Otherwise, the extended multitrack support is transparent to the control unit. zHPF is enhanced to allow all large write operations (greater than 64 KB) at distances up to 100 km (62.13 miles) to be run in a single round trip to the control unit. This process does not elongate the I/O service time for these write operations at extended distances. This 284 IBM z16 A02 and IBM z16 AGZ Technical Guide enhancement to zHPF removes a key inhibitor for clients adopting zHPF over extended distances, especially when the IBM HyperSwap capability of z/OS is used. From the z/OS perspective, the FICON architecture is called command mode and the zHPF architecture is called transport mode. During link initialization, the channel node and the control unit node indicate whether they support zHPF. The mode that is used for an I/O operation depends on the control unit that supports zHPF and its settings in the z/OS operating system. For z/OS use, a parameter is available in the IECIOSxx member",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.968609",
+    "chunk_number": 698,
+    "word_count": 167
+  }
+}

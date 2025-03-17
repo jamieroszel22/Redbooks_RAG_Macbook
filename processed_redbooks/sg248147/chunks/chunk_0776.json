@@ -1,0 +1,18 @@
+{
+  "content": "special device that allows CKD DASD and CKD minidisks to run more than one I/O operation at a time. For disks that are based on FCP, this function is not useful because FCP disks use SCSI command queuing instead. HyperPAV characteristics HyperPAV in z/VM for Linux virtual machine can be used in several ways: \u0002 HyperPAV with dedicated DASD The Linux system is responsible for managing and serializing I/O requests across the subchannels. \u0002 HyperPAV with minidisks The Linux system is not aware of HyperPAV. The Linux subsystem sees the minidisk as a regular DASD and Linux can send only one I/O request at a time to the device. HyperPAV is beneficial only when several minidisks are defined on the same real device or when several virtual machines access the same minidisk at the same time. All of those I/O requests come to z/VM, which handles them and uses HyperPAV aliases, as needed. \u0002 HyperPAV minidisks without operating system exploitation A non-exploiting operating system in a virtual",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.238300",
+    "chunk_number": 776,
+    "word_count": 167
+  }
+}

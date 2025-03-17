@@ -1,0 +1,18 @@
+{
+  "content": "Buy, click IBM Shopz. 2. The Shopz landing page opens, in which information on Shopz and the product catalog are available. Click Sign in/Register. 3. If you do not have an IBMid, which is used to sign in to IBM.com, click Create an IBMid. If you have an IBMid, sign in. 4. If you have not used Shopz, choose the suitable registration link to become an enrolled user. If you are registered, choose the sign-in link that applies for you. 5. Click Create new software orders for service or products: a. Select z/VM - Products and choose VM SDO version 7 in the drop-down menu to the right. \u2013 Click Continue. 6. You can choose to accept the Order Name as-is, or override it with a new name if wanted. We changed our order name to \u201cProducts - z/VM Version 720 - 2020-09-21\u201d (see Example 5-1). Click Continue. Example 5-1 Specify order basics Review and specify the basic details of your order. Order name: Products - z/VM Version 720 - 2020-09-21 Customer S015xxxxxx - IBM CORP(US) Operating environment",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.189492",
+    "chunk_number": 262,
+    "word_count": 178
+  }
+}

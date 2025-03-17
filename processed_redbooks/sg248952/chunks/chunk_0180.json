@@ -1,0 +1,18 @@
+{
+  "content": "a Model Capacity Identifier (MCI). The MCI determines the number and speed of characterized CPs. Characterization of a PU as an IFL, ICF, or zIIP is not reflected in the output of the STSI instruction because characterization has no effect on software charging. For more information about STSI output, see \u201cProcessor identification\u201d on page 359. The following distinct model capacity identifier ranges are recognized (one for full capacity and three for granular capacity): \u0002 For full-capacity engines, model capacity identifiers Z01 - Z06 are used. They express capacity settings for 1 - 6 characterized CPs. \u0002 Three model capacity identifier ranges offer a unique level of granular capacity at the low end. They are available as A to Z capacity setting for 1 - 6 CPs characterized, which offers 156 subcapacity settings. For more information, see \u201cGranular capacity\u201d. Granular capacity The z16 A02 and the IBM z16 AGZ configurations offer 156 capacity settings for 1 - 6 CPs. The subcapacity",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.880279",
+    "chunk_number": 180,
+    "word_count": 160
+  }
+}

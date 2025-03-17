@@ -1,0 +1,18 @@
+{
+  "content": "Safe Algorithms (Kyber & Dilithium 8,7) \u0002 EP11 mechanism for data reencryption and new ECC curve support \u0002 Fully homomorphic encryption \u0002 Usage counters that count classes of crypto operations (to meet audit requirements) 13 Quoted from z/OS V2.R5 publications. Chapter 7. Operating system support 313 When new Quantum Safe Algorithms are used and a KDS is shared in a sysplex, ensure that all ICSF PTFs are installed on all systems. For more information about ICSF versions and FMID cross-references, see this IBM Support web page. RMF Support for Crypto Express RMF enhances the Monitor I Crypto Activity data gatherer to recognize and use performance data for the new Crypto Express8S (CEX8), Crypto Express7S (CEX7), and CryptoExpress6S (CEX6) cards. RMF supports all valid card configurations on IBM z16 and provides CEX7 and CEX6 crypto activity data in the SMF type 70 subtype 2 records and RMF Postprocessor Crypto Activity Report. Reporting can be done at an LPAR/domain level to provide",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.185184",
+    "chunk_number": 757,
+    "word_count": 160
+  }
+}

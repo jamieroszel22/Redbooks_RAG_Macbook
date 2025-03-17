@@ -1,0 +1,18 @@
+{
+  "content": "11.Show the volume group usage again: # vgdisplay homevg --- Volume group --- VG Name homevg ... VG Size 13.75 GiB PE Size 4.00 MiB Total PE 3520 Alloc PE / Size 1760 / 6.88 GiB Free PE / Size 1760 / 6.88 GiB VG UUID YIQgoN-865f-3Vbf-tjH1-eXhO-Aa6W-PcxHri These free and used extents are the same; however, the data was moved. 12.Show the free and used extents on the source and target physical volumes with the pvdisplay command: # pvdisplay /dev/dasde1 /dev/dasdf1 --- Physical volume --- PV Name /dev/dasde1 VG Name homevg PV Size 6.88 GiB / not usable 2.41 MiB Allocatable yes PE Size 4.00 MiB Total PE 1760 Chapter 13. Disk storage administration 413 Free PE 1760 Allocated PE 0 PV UUID Jo2fa3-5cc0-y2Xs-e0DQ-wQXc-i3er-MPcckW --- Physical volume --- PV Name /dev/dasdf1 VG Name homevg PV Size 6.88 GiB / not usable 2.41 MiB Allocatable yes (but full) PE Size 4.00 MiB Total PE 1760 Free PE 0 Allocated PE 1760 PV UUID hme2qP-6ytn-Drg8-Wba4-rTU1-q1sV-pVZ03g 13.Remove the source physical volume:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.593062",
+    "chunk_number": 883,
+    "word_count": 168
+  }
+}

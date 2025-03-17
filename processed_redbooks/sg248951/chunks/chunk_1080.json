@@ -1,0 +1,18 @@
+{
+  "content": "sequence in which they are run interacts with the design of a microprocessor to affect a performance component. This factor is defined as instruction complexity. The following design alternatives affect this component: \u0002 Cycle time (GHz) \u0002 Instruction architecture \u0002 Pipeline \u0002 Superscalar \u0002 Out-of-order execution \u0002 Branch prediction \u0002 Translation Look-aside Buffer (TLB) \u0002 Transactional Execution (TX) \u0002 Single instruction multiple data instruction set (SIMD) \u0002 Simultaneous multi-threading (SMT)5 As workloads are moved between microprocessors with various designs, performance varies. However, when on a processor, this component tends to be similar across all models of that processor. 12.3.3 Memory hierarchy and memory nest The memory hierarchy of a processor generally refers to the caches, data buses, and memory arrays that stage the instructions and data that must be run on the microprocessor to complete a transaction or job. The following design choices affect this component: \u0002 Cache",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.250423",
+    "chunk_number": 1080,
+    "word_count": 148
+  }
+}

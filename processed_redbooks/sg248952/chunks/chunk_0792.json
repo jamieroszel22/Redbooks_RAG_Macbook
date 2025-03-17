@@ -1,0 +1,18 @@
+{
+  "content": "value activates the soft capping function of PR/SM, which limits the 4-hour rolling average partition utilization to the defined capacity value. Soft capping controls the maximum 4-hour rolling average usage (the last 4-hour average value at every 5-minute interval), but does not limit the maximum instantaneous partition use. You can also use an LPAR group capacity limit, which sets soft capping by PR/SM for a group of logical partitions that are running z/OS. Only the 4-hour rolling average utilization of the LPAR group is tracked, which allows utilization peaks above the group capacity value. \u0002 Sysplex licensing Sysplex licensing allows monthly software licenses to be aggregated across a qualified Parallel Sysplex\u00ae. To be eligible for Sysplex pricing aggregation the customer environment must meet hardware, software, operation and verification criteria to be considered \u201cactively coupled\u201d. For more information about Sysplex licensing check the licensing tab on the IBM Software Pricing",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.298764",
+    "chunk_number": 792,
+    "word_count": 149
+  }
+}

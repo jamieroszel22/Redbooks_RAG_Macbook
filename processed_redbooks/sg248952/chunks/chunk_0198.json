@@ -1,0 +1,18 @@
+{
+  "content": "will cause significant damage to the system\u2019s power components. Tip: The exact power consumption for your system varies. The object of the tool is to estimate the power requirements to aid you in planning for your system installation. Actual power consumption after installation can be confirmed by using the HMC Monitors Dashboard task. 68 IBM z16 A02 and IBM z16 AGZ Technical Guide 2.9.3 Cooling The PU DCMs are air-cooled. For IBM z16 A02 and IBM z16 AGZ, the CPC drawer components and the PCIe+ I/O drawers are air cooled by redundant fans. Airflow of the system is directed from front (cool air) to the back of the system (hot air). 2.10 Summary All aspects of the IBM z16 A02 and IBM z16 AGZ structure are listed in Table 2-16. Table 2-16 System structure summary Description Max5 Max16 Max32 Max68 Maximum number of characterized PUs 5 16 32 68 Number of CPC Drawers 1 1 1 2 Number of CP chips / DCMs 4 / 2 4 / 2 8 / 4 16 / 8 Number of CPs 0 - 5 0 - 6 0 - 6 0 - 6 Number of IFLs 0 - 5 0 - 16",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.964408",
+    "chunk_number": 198,
+    "word_count": 199
+  }
+}

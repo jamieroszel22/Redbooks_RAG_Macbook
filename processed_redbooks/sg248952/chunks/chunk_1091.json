@@ -1,0 +1,18 @@
+{
+  "content": "LPARs configuration LCP:RCP ratio reaches its limit, zPCR warns your configuration. Figure 12-6 on page 467 shows a sample zPCR error message window when the practical LCP:RCP ratio is exceeded. Chapter 12. Performance 467 Figure 12-6 zPCR message window 468 IBM z16 A02 and IBM z16 AGZ Technical Guide \u00a9 Copyright IBM Corp. 2023. All rights reserved. 469 Appendix A. Channel options This appendix describes all channel attributes, the required cable types, the maximum unrepeated distance, and the bit rate for IBM z16 A02 and IBM z16 AGZ . The features that are hosted in the PCIe drawer for Cryptography are also listed. For all optical links, the connector type is LC Duplex (except for the zHyperLink) and the ICA SR connections, which are established with multifiber push-on (MPO) connectors. The MPO connector of the zHyperLink, and the ICA connection features two rows of 12 fibers and are interchangeable. The electrical Ethernet cable for the Open Systems Adapter (OSA) connectivity is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.281493",
+    "chunk_number": 1091,
+    "word_count": 161
+  }
+}

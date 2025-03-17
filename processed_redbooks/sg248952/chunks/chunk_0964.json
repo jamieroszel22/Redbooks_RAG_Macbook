@@ -1,0 +1,18 @@
+{
+  "content": "Support Element 397 \u0002 Task Display Alter The task Display or Alter on the HMC and SE is only possible for an ACSADMIN role. The roles for SYSPROG and SERVICE has no longer access to this task by default. \u0002 View only HMC tasks The following tasks can be assigned as View only for a specific role with Driver 51/Version 2.16.0: \u2013 Hardware Messages \u2013 Operating System Messages \u2013 Manage Coupling Facility Port Enablement \u2013 OSA Advanced Facilities \u2013 Cryptographic Configuration \u2013 Cryptographic Management \u2013 Change LPAR Controls \u2013 Change LPAR Group Controls \u2013 Configure Channel Path On/Off \u2013 Advanced Facilities \u2013 Configure On/Off \u2013 Manage System Time \u2013 VIew Activation Profiles Figure 10-3 shows how you can change the permission from Edit to View only for a task in User Management. Figure 10-3 Selection of View only for a task \u0002 New HMC Dashboard With Driver 51/Version 2.16.0 there is a new Dashboard in the Home tab. It is the first page that appears when you login to the HMC. It replaces the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.876331",
+    "chunk_number": 964,
+    "word_count": 174
+  }
+}

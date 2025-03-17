@@ -1,0 +1,18 @@
+{
+  "content": "\u0002 The Enabling Dynamic Partition Manager task is run on the SE and is performed by your IBM System Service Representative (SSR) at installation time. \u0002 If DPM is enabled, the IBM z16 A02 and IBM z16 AGZ cannot run z/OS, 21CS VSEn, and z/TPF images in an LPAR or as a second level guest of z/VM. \u00a9 Copyright IBM Corp. 2023. All rights reserved. 439 Chapter 11. Environmentals This chapter describes the environmental requirements for IBM z16 A02 and IBM z16 AGZ. It also lists the power and cooling requirements that are needed to plan for the installation of these servers. This chapter includes the following topics: \u0002 Introduction \u0002 IBM z16 A02 environmental considerations \u0002 IBM z16 AGZ environmental considerations \u0002 Energy Management 11 Important: The purpose of this chapter is to provide general information about the environmental characteristics for IBM z16 A02 and IBM z16 AGZ, available configuration options, and how the configuration options affect the environmental requirements of",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.150887",
+    "chunk_number": 1042,
+    "word_count": 162
+  }
+}

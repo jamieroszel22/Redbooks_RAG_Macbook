@@ -1,0 +1,18 @@
+{
+  "content": "C/C++ considerations\u201d on page 313. Out-of-order execution Out-of-order (OOO) execution yields significant performance benefits for compute-intensive applications by reordering instruction execution, which allows later (newer) instructions to be run ahead of a stalled instruction, and reordering storage accesses and parallel storage accesses. OOO maintains good performance growth for traditional applications. The supported operating systems are listed in Table 7-3 on page 249 and Table 7-4 on page 250. For more information, see \u201c3.4.3, \u201cOut-of-Order execution\u201d on page 84. z/OS DFSORT exploitation of IBM Integrated Accelerator for Z Sort The Integrated Accelerator for Z Sort, is an \u201con chip\u201d hardware feature available on IBM z15 and newer servers and which is driven by the SORT LISTS (SORTL) instruction. z/OS DFSORT takes advantage of Z Sort, providing users with significant performance boosts for their sort workloads. With z/OS DFSORT's Z Sort algorithm, clients can see batch sort job",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.846105",
+    "chunk_number": 664,
+    "word_count": 146
+  }
+}

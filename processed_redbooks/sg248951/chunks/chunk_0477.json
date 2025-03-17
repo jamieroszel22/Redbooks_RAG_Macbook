@@ -1,0 +1,18 @@
+{
+  "content": "between the servers. This configuration prevents the loss of one link from causing the loss of STP communication between the servers. If a server does not have a CF LPAR, timing-only links can be used to provide STP connectivity. IBM z16 Precision Time Protocol support Precision Time Protocol (PTP) is introduced as an alternative to NTP. Consider the following points: \u0002 PTP provides more accurate timestamps to connected devices \u0002 Initially used for Power Distribution Systems, Telecommunications, and Laboratories \u0002 Requires Customer Network Infrastructure to be PTP capable \u0002 IBM z16 provides PTP connectivity direct to the CPC 4.7 Cryptographic functions Cryptographic functions are provided by the CP Assist for Cryptographic Function (CPACF) and the PCI Express cryptographic adapters. IBM z16 servers support the Crypto Express8S, and as carry forward, Crypto Express7S and crypto Express6S features. 4.7.1 CPACF functions (FC 3863) FC 3863 is required to enable Cryptographic functions",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.086413",
+    "chunk_number": 477,
+    "word_count": 149
+  }
+}

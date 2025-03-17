@@ -1,0 +1,18 @@
+{
+  "content": "instruction. \u0002 Converting to packed can now force a positive zero result instead of requiring ZAP instruction. 94 IBM z16 (3931) Technical Guide Cobol and PL/I compilers were updated to support the new IBM z16 enhancements: \u0002 BCD to HFP conversions \u0002 Numeric editing operation \u0002 Zoned decimal operations Software support DFP is supported in the following programming languages and products: \u0002 Release 4 and later of the High Level Assembler \u0002 C/C++, which requires supported z/OS version \u0002 Enterprise PL/I Release 3.7 and Debug Tool Release 8.1 or later \u0002 Java Applications that use the BigDecimal Class Library \u0002 SQL support as of Db2 Version 9 and later 3.4.8 IEEE floating point Binary and hexadecimal floating-point instructions are implemented in IBM z16 servers. They incorporate IEEE standards into the system. The IBM z16 core implements two other execution subunits for 2x throughput on BFP (single/double precision) operations (see Figure 3-11 on page 83). The key point is that Java and",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.137800",
+    "chunk_number": 241,
+    "word_count": 161
+  }
+}

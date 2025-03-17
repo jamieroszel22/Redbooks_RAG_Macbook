@@ -1,0 +1,18 @@
+{
+  "content": "is created in the watsonx.governance console, a use case approval workflow is triggered by the watsonx.governance console, as shown in Figure 5-2. Figure 5-2 The default use case approval workflow executed in the watsonx.governance console The use case approval workflow and a review and approval process that collects key information about the use case and captures the approval or rejection of the use case from the identified stakeholders, guiding those users through all required actions along the way. While any workflow can be customized to the needs of any organization, the steps in the default use case approval workflow are: \u0002 Start: This step in the flow begins the moment a new use case is created. The creator is required to provide a name for the use case, and use case owner, a description of the use case, and a primary Business Entity. Optionally, the creator may also provide the purpose of the use case and its type. There are two default use case types: AI or Non-AI. \u0002 Use Case",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.040755",
+    "chunk_number": 159,
+    "word_count": 171
+  }
+}

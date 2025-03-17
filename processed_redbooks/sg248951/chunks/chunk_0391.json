@@ -1,0 +1,18 @@
+{
+  "content": "Express16SA SX 0437 N Y FICON Express16S+ LX 0427 N Y FICON Express16S+ SX 0428 N Y OSA-Express7S 1.2 25 GbE LR 0460 Y N/A OSA-Express7S 1.2 25 GbE SR 0459 Y N/A OSA-Express7S 1.2 10 GbE LR 0456 Y N/A OSA-Express7S 1.2 10 GbE SR 0457 Y N/A OSA-Express7S 1.2 GbE LX 0454 Y N/A OSA-Express7S 1.2 GbE SX 0455 Y N/A OSA-Express7S 1.2 1000BASE-T 0458 Y N/A OSA-Express7S 25 GbE SR1.1 0449 N Y OSA-Express7S 25 GbE SR 0429 N Y OSA-Express7S 10 GbE LR 0444 N Y OSA-Express7S 10 GbE SR 0445 N Y OSA-Express7S GbE LX 0442 N Y OSA-Express7S GbE SX 0443 N Y OSA-Express7S 1000BASE-T Ethernet 0446 N Y OSA-Express6S 10 GbE LR 0424 N Y OSA-Express6S 10 GbE SR 0425 N Y OSA-Express6S GbE LX 0422 N Y OSA-Express6S GbE SX 0423 N Y Chapter 4. Central processor complex I/O structure 159 4.5.2 Physical channel ID report A physical channel ID (PCHID) reflects the physical location of a channel-type interface. A PCHID number is based on the following factors: \u0002 PCIe+ I/O drawer location \u0002 Channel feature slot",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.766065",
+    "chunk_number": 391,
+    "word_count": 185
+  }
+}

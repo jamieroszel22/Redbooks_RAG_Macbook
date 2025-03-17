@@ -1,0 +1,18 @@
+{
+  "content": "processors is supported and sparing is supported across the drawers. \u0002 Application preservation This function is used when a PU fails and no spares are available. The state of the failing PU is passed to another active PU, where the operating system uses it to successfully resume the task (in most cases, without customer intervention). \u0002 Cooling change The IBM z16 air-cooled configuration includes a front-to-rear radiator cooling system. The radiator pumps, blowers, controls, and sensors are N+1 redundant. In normal operation, one active pump supports the system. A second pump is turned on and the original pump is turned off periodically, which improves reliability of the pumps. The replacement of pumps or blowers is concurrent with no effect on performance. \u0002 FICON Express 32S with Forward Error Correction (FEC) FICON Express32S features continue to provide a new standard for transmitting data over 32 Gbps links by using 64b/66b encoding. The new standard that is defined by T11.org",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.710309",
+    "chunk_number": 920,
+    "word_count": 158
+  }
+}

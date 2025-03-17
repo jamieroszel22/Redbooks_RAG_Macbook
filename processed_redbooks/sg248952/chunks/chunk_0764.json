@@ -1,0 +1,18 @@
+{
+  "content": "for IBM Z The IBM Crypto Analytics Tool (CAT) for IBM Z is an analytics solution that collects data on your z/OS cryptographic infrastructure, presents reports, and analyzes if any vulnerabilities exist. CAT collects cryptographic information from across the enterprise and provides reports to help users better manage the crypto infrastructure and ensure it follows best practices. The use of CAT can help you deal with managing complex cryptography resources across your organization. z/VM encrypted hypervisor paging (encrypted paging support) With the PTF for APAR VM65993, z/VM V6.4 provides support for encrypted paging in support of the IBM z16 A02 and IBM z16 AGZ pervasive encryption philosophy of encrypting all data in flight and at rest. Ciphering occurs as data moves between active memory and a paging volume that is owned by z/VM. Included in this support is the ability to dynamically control whether a running z/VM system is encrypting this data. This support protects guest paging",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.211704",
+    "chunk_number": 764,
+    "word_count": 157
+  }
+}

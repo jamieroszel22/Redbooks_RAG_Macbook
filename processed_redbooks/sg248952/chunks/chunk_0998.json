@@ -1,0 +1,18 @@
+{
+  "content": "uniqueness. An SE can have the following IP addresses: \u0002 Statically assigned IPv4 or statically assigned IPv6 \u0002 Auto-configured IPv6 as link-local or router-advertised IP addresses on the SE cannot be dynamically assigned through DHCP to ensure repeatable address assignments. DHCP privacy extensions are not used on the SE. The HMC uses IPv4 and IPv6 multicasting4 to automatically discover the SEs. The HMC Network Diagnostic Information task can be used to identify the IP addresses (IPv4 and IPv6) which are used by the HMC to communicate to the SEs (of a CPC). IPv6 addresses are easily identified. A fully qualified IPV6 address features 16 bytes. It is written as eight 16-bit hexadecimal blocks that are separated by colons, as shown in the following example: 2001:0db8:0000:0000:0202:b3ff:fe1e:8329 Because many IPv6 addresses are not fully qualified, shorthand notation can be used. In shorthand notation, the leading zeros can be omitted, and a series of consecutive zeros can be replaced",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.984881",
+    "chunk_number": 998,
+    "word_count": 156
+  }
+}

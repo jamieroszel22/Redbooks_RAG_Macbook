@@ -1,0 +1,18 @@
+{
+  "content": "access to the cryptographic devices, as shown in Figure 6-3 on page 210. 0234 TKE Tower Carry forward to IBM z16 A02 and IBM z16 AGZ TKE Tower FC 0086 can be carried forward to IBM z16 A02 and IBM z16 AGZ. It requires IBM 4770 PCIeCC (FC 0851) for compatibility with TKE LIC 10.0 (FC 0882) and for managing Crypto Express8S. (FC 0234 = FC 0086 + FC 0851 + FC 0882). 0882 TKE 10.0 Licensed Internal Code (LIC) Included with the TKE tower workstation FC 0058 and the TKE rack-mounted workstation FC 0057 for IBM z16 A02 and IBM z16 AGZ. Earlier versions of TKE features (feature codes: 0088, 0087, 0086, and 0085) can also be upgraded to TKE 10.0 LIC, adding FC 0851 (IBM 4770 PCIeCC) if the TKE is assigned to an manages Crypto Express8S 0891 TKE Smart Card Reader Access to information in the smart card is protected by a PIN. One feature code includes two smart card readers, two cables to connect to the TKE workstation, and 20 smart cards. 0900 TKE additional smart cards This card allows the TKE",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.219408",
+    "chunk_number": 516,
+    "word_count": 186
+  }
+}

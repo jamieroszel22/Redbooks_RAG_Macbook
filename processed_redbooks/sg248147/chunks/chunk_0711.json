@@ -1,0 +1,18 @@
+{
+  "content": "interact with the z/VM hypervisor (CP) or with a directory manager. A directory manager is required for this environment. Figure 10-3 SMAPI socket-based servers work together SAMPI includes a basic set of interfaces that can be used to perform the following tasks: \u0002 Create virtual images in various operating environments: \u2013 IBM z/VM \u2013 IBM z/OS \u2013 IBM z/VSE Note: This session is optional. Following this session only if you need Systems Management API (SMAPI). Note: SMAPI is a method for management software to make calls to z/VM for various operations. It is used by such products as IBM Wave and IBM Cloud Infrastructure Center, and is part of the stack of APIs that provides OpenStack operations on z/VM. Chapter 10. DirMaint, RACF-connector, and SMAPI 325 \u2013 z/TPF \u2013 CMS \u2013 Linux on IBM Z \u0002 Allocate, manage resources, and connectivity for virtual images \u0002 Manage DASD volumes and groups \u0002 Change a virtual image configuration \u0002 Activate and deactivate individual or multiple virtual images \u0002",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.002035",
+    "chunk_number": 711,
+    "word_count": 166
+  }
+}

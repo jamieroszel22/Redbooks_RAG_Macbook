@@ -1,0 +1,18 @@
+{
+  "content": "algorithms. The most prominent one-way algorithms are the Secure Hash Algorithms (SHA). Chapter 6. Cryptographic features 215 6.3 Cryptography on IBM z16 In principle, cryptographic algorithms can run on processor hardware. However, these workloads are compute-intensive, and the handling of secure keys also requires special hardware protection. Therefore, IBM Z offer several cryptographic hardware features, which are specialized to meet the requirements for cryptographic workload. The cryptographic hardware that is supported on IBM z16 is shown in Figure 6-2. These features are described in this chapter. Figure 6-2 Cryptographic hardware that is supported in IBM z16 Implemented in every processor unit (PU) or core in a central processor complex (CPC) is a cryptographic coprocessor that can be used2 for cryptographic algorithms that uses clear keys or protected keys. For more information, see 6.4, \u201cCP Assist for Cryptographic Functions\u201d on page 219. The Crypto Express8S adapter is an",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.269305",
+    "chunk_number": 525,
+    "word_count": 147
+  }
+}

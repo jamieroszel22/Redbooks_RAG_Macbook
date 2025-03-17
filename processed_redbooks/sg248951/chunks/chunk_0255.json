@@ -1,0 +1,18 @@
+{
+  "content": "pool only. The logical CPs are dispatched from the CP pool, logical zIIPs from the zIIP pool, logical IFLs from the IFL pool, and the logical ICFs from the ICF pool. PU weighting Because CPs, zIIPs, IFLs, and ICFs have their own pools from where they are dispatched, they can be given their own weights. For more information about PU pools and processing weights, see the Processor Resource/Systems Manager Planning Guide, SB10-7178. 100 IBM z16 (3931) Technical Guide 3.5.2 Central processors A central processor (CP) is a PU that uses the full z/Architecture instruction set. It can run z/Architecture-based operating systems (z/OS, z/VM, TPF, z/TPF, z/VSE, and Linux on IBM Z) and the Coupling Facility Control Code (CFCC). Up to 200 PUs can be characterized as CPs, depending on the configuration. The IBM z16 can be initialized in LPAR (PR/SM) mode or in Dynamic Partition Manger (DPM) mode. CPs are defined as dedicated or shared. Reserved CPs can be defined to an LPAR to allow for",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.180525",
+    "chunk_number": 255,
+    "word_count": 166
+  }
+}

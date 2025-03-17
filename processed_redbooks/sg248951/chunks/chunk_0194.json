@@ -1,0 +1,18 @@
+{
+  "content": "design is flexible and expandable. It offers unprecedented capacity and security features to meet consolidation needs. IBM z16 servers CPC continues the line of mainframe processors that are compatible with an earlier version. The IBM z16 brings the following processor design enhancements: \u0002 7 nm silicon lithography \u0002 Eight cores per PU chip design with 22.5 billion transistors per PU chip \u0002 Redesigned cache structure that is implemented in dense SRAM \u0002 Four PU Dual Chip Modules per CPC Drawer \u0002 Each PU chip features two PCIe Generation 4 ports (x16 @ 32 GBps) \u0002 Optimized pipeline \u0002 Improved SMT and SIMD \u0002 Improved branch prediction \u0002 Improved co-processor functions (CPACF) \u0002 IBM integrated accelerator for zEnterprise Data Compression (zEDC) (on-chip compression accelerator) \u0002 IBM integrated accelerator for Z Sort (on-core sort accelerator) \u0002 IBM integrated accelerator for AI (on-chip AI accelerator) \u0002 Transparent memory encryption. It uses 24-, 31-, and 64-bit addressing modes,",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.954915",
+    "chunk_number": 194,
+    "word_count": 154
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "boost for sysplex events, and fast catch-up of an accumulated backlog of critical workload after a planned or unplanned event. 4 Statement of Direction: In a future IBM Z hardware system family, the transactional execution and constrained transactional execution facility will no longer be supported. Users of the facility on current servers should always check the facility indications before use. Chapter 7. Operating system support 273 Added or increased IBM software costs are not incurred by using System Recovery Boost. With the IBM z16 system, more Recovery process boost scenarios are supported that allow the customer to define some boost granularity (see Table 7-14). For more information, see IBM Z System Recovery Boost, REDP-5563. Table 7-14 Operating system support for System Recovery Boost Automation The client\u2019s automation product can be used to automate and control the following System Recovery Boost activities: \u0002 To activate and deactivate the eBod temporary capacity record to",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.792416",
+    "chunk_number": 648,
+    "word_count": 152
+  }
+}

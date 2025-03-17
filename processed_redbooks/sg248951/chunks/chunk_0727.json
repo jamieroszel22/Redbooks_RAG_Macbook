@@ -1,0 +1,18 @@
+{
+  "content": "addresses, such as Dynamic Host Configuration Protocol (DHCP) servers and firewalls. Layer 2 support can help facilitate server consolidation. Complexity can be reduced, network configuration is simplified and intuitive, and LAN administrators can configure and maintain the mainframe environment the same way as they do a nonmainframe environment. The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. HiperSockets network traffic analyzer for Linux on IBM Z HiperSockets network traffic analyzer (HS NTA) provides support for tracing Layer2 and Layer3 HiperSockets network traffic in Linux on IBM Z. This support allows Linux on IBM Z to control the trace for the internal virtual LAN to capture the records into host memory and storage (file systems). Linux on IBM Z tools can be used to format, edit, and process the trace records for analysis by system programmers and network administrators. OSA-Express7S 1.2 25 GbE LR and SR features OSA-Express7S",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.078706",
+    "chunk_number": 727,
+    "word_count": 156
+  }
+}

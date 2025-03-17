@@ -1,0 +1,18 @@
+{
+  "content": "the installed CTCs on ITSOZVM2: ===> q ctc active CTCA 4120 ATTACHED TO SYSTEM -ISFC CTCA 5120 ATTACHED TO SYSTEM -ISFC The previous two commands show the four CTCs that were set up during z/VM installation. From these real device addresses, determine the channel paths that they are on by using the following commands: \u0002 Display the channel paths that are used by the CTCs on ITSOZVM1: ===> q path to 47e0 Device 47E0, Status ONLINE CHPIDs to Device 4120 (PIM) : 4C ===> q path to 57e0 Device 57E0, Status ONLINE CHPIDs to Device 57E0 (PIM) : 4D \u0002 Display the channel paths that are used by the CTCs on ITSOZVM2: ===> q path to 4120 Device 4120, Status ONLINE CHPIDs to Device 4120 (PIM) : 4C ===> q path to 5120 Device 5120, Status ONLINE CHPIDs to Device 5120 (PIM) : 4D The previous two commands show the channel-path identifiers (CHPIDs) that the CTCs are on. In this example, they are 4C and 4D. From these CHPIDs, determine the other available CTC devices by completing the following steps:",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.447066",
+    "chunk_number": 317,
+    "word_count": 180
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "maximum number of coupling CHPIDs on an IBM z16 A02 and IBM z16 AGZ is 384 in a combination of the following (not all combinations are possible; subject to I/O configuration options): \u2013 Up to 48 ICA SR1.1 and ICA SR ports (24 ICA SR features) \u2013 Up to 64 CE2 LR ports (32 CE2 LR features) \u0002 zEDC PCIe features are not supported. These have been replaced by the IBM Integrated Accelerator for zEDC (on PU chip). \u0002 The maximum combined number of RoCE features that can be installed is eight (16 ports); that is, any combination of 25GbE RoCE Express3, 25GbE RoCE Express2.1, 25GbE RoCE Express2, 10GbE RoCE Express3, 10GbE RoCE Express2.1, 10GbE RoCE Express2 features. \u0002 25GbE RoCE Express features should not be configured in the same SMC-R link group with 10GbE RoCE Express features. Chapter 4. I/O structure 145 Figure 4-1 Rear view of PCIe+ I/O drawer PCIe switch application-specific integrated circuits (ASICs) are used to fan out the host bus from the CPC drawer through the PCIe+ I/O drawer",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.655744",
+    "chunk_number": 369,
+    "word_count": 174
+  }
+}

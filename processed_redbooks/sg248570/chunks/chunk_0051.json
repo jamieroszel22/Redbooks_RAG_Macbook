@@ -1,0 +1,18 @@
+{
+  "content": "market at the time of writing. Amazon S3 Amazon Simple Storage Service (S3) is a service that is offered by Amazon Web Services (AWS) and provides object storage through a web service interface. Amazon S3 uses the same scalable storage infrastructure that Amazon.com uses to run its e-commerce network. Amazon S3 can store any type of object, which enables storage for internet applications, backups, disaster recovery, data archives, data lakes for analytics, and hybrid cloud storage. AWS started Amazon S3 in the United States on March 14, 2006, and then in Europe in November 2007. Azure Storage The Azure Storage platform is Microsoft's cloud storage solution for modern data storage scenarios. Azure Storage offers highly available, massively scalable, durable, and secure storage for various data objects in the cloud. Azure Storage data objects are accessible from anywhere in the world over HTTP or HTTPS through a REST API. Azure Storage also offers client libraries for developers",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.536909",
+    "chunk_number": 51,
+    "word_count": 156
+  }
+}

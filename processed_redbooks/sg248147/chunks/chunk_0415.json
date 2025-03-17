@@ -1,0 +1,18 @@
+{
+  "content": "SYSADMIN. The virtual machine that will access the RACFADU EXEC will need RACF AUDITOR access. It will need to link to the RACFVM SMF output disks 301 and 302. The utility RACFADU is on the RACFVM 305 disk. Complete the following steps: 1. Log on to MAINT. 2. Link the RACF 301, 302, and 305 disks: ===> link racfvm 301 301 ===> link racfvm 302 302 ===> link racfvm 305 305 ===> acc 305 b 3. Run the RACFADU EXEC by using the 301 disk as input and the 191 disk as output. ===> RACFADU 301 191 RACFADU OUTPUT RPIADU033I SMF unload completed successfully. View the RACFADU MESSAGES file for additional details. The output is now in the RACFADU OUTPUT A file. Note: To access the RACFVM 301 disk, you need RACF AUDITOR privileges. Note: The RACFADU will work only if the output disk (191) is accessed as filemode A. In this example, the output file is twice the size of your 301 used space. 180 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6.8 Implementing more network features The following",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.829659",
+    "chunk_number": 415,
+    "word_count": 180
+  }
+}

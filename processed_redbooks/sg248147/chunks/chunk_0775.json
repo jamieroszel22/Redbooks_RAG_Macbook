@@ -1,0 +1,18 @@
+{
+  "content": "user LNXADMIN on node 2 of the SSI, the volume must be added to the sub-configuration (subconfig) of that user. In our case, we add it with the virtual device number 201: ===> dirm for LNXADM-2 AMDisk 201 3390 AUTOV 3338 VV1222 MR Consider the following points about the command: \u0002 AMDISK is used as an abbreviation for \u201cadd minidisk\u201d. \u0002 The next parameter is the virtual address of the new minidisk. \u0002 3390 is the device type. \u0002 AUTOV tells DIRMAINT to base on a VOLUME. \u0002 3338 is the number of cylinders that are used on that volume. \u0002 V1222 is the volume label. \u0002 MR is the link mode for that volume. 358 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 Adding a full-pack minidisk from the POOL1 Linux volume pool Use this command: ===> DIRMAINT FOR LINUX3 AMDisk 0702 3390 AUTOG 10016 POOL1 MR DVHXMT1191I Your AMDISK request has been sent for processing to DIRMAINT This command adds a full-pack minidisk that uses an entire Mod 9 to LINUX3. 11.2.5 HyperPAV HyperPAV is not a disk device. It is a",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.236367",
+    "chunk_number": 775,
+    "word_count": 183
+  }
+}

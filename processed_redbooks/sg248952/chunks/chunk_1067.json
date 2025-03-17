@@ -1,0 +1,18 @@
+{
+  "content": "A02 and IBM IBM z16 AGZ processor chip runs at 4.6 GHz clock speed, which is sligthly faster than the IBM z15 T02 processor chip, which runs at 4.5 GHz. For N-way processors model, it increases 1.13x on average at equal N-way configuration. These numbers differ depending on the workload type and LPAR configuration. For Linux on IBM Z capacity, the IBM z16 A02 and IBM z16 AGZ and IBM z16 A02 and IBM IBM z16 AGZ Feature Max68 is designed to offer up to 25% more Linux capacity compared to an IBM z15 T02 Max65. 12.1.2 IBM z16 A02 and IBM z16 AGZ SMT capacity From IBM z13 to IBM z16 A02 and IBM z16 AGZ , customers can choose to run two threads on IFL and zIIP cores by using SMT mode. SMT increases throughput by 10 - 40% (average 25%), depending on workload. 1 Model Capacity Identifier Z06. \u201cZ\u201d is the full CP capacity engine. IBM z16 A02 and IBM z16 AGZ support up to six CP engines and up to 26 capacity levels for CPs. Note: PCI = Processor Capacity Index. Operating system support for the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.232945",
+    "chunk_number": 1067,
+    "word_count": 190
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "MONWRITE will not be able to write anymore. Chapter 12. Monitoring z/VM and Linux 391 Another possibility is to use a utility that archives old files and cleans up the space automatically. MONCLEAN is an example of this type of utility. You can download MONCLEAN from this web page. Complete the following steps for the MONCLEAN installation: 1. Use FTP binary to transfer MONCLEAN VMARC to MONWRITE\u2019s 191 disk. 2. Run MONWRITE VMARC through a pipe command: ===> pipe < monclean vmarc a | fblock 80 00 | > monclean vmarc A F 80 3. Unpack the MONCLEAN VMARC file with the VMARC command: ===> vmarc unpk monclean vmarc a MONCLEAN EXEC A1. Bytes in= 4080, bytes out= 7678 ( 188%). MONCLEAN README A1. Bytes in= 1040, bytes out= 2240 ( 215%). 4. Check the documentation in the MONCLEAN README file. 5. Modify PROFILE EXEC: ===> x profile exec /* ALL MONITOR COMMANDS ARE LOCATED IN AUTOLOG1'S PROFILE EXEC */ 'MONWRITE MONDCSS *MONITOR DISK CLOSE 60 EXEC MONCLEAN' 6. Start recording: ===> profile",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.467645",
+    "chunk_number": 844,
+    "word_count": 173
+  }
+}

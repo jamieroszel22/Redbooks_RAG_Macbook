@@ -1,0 +1,18 @@
+{
+  "content": "z/OS \u0002 Data Virtualization Manager for z/OS (DVM) \u0002 IzODA (Apache Spark workloads) \u0002 Watson Machine Learning for z/OS (WMLz) for Mleap and Spark workloads 108 IBM z16 (3931) Technical Guide \u0002 IBM Z Common Data Provider (CDP) \u0002 IBM Omegamon Portfolio components \u0002 IBM RMF (Monitor III work) \u0002 IBM Developer for z/OS Enterprise Edition components. For more information about zIIP and eligible workloads, see the IBM zIIP web page. zIIP installation One CP must be installed with or before any zIIP is installed. In IBM z16 A01, the zIIP-to-CP ratio is 2:19, which means that up to 132 zIIPs on feature Max200 can be characterized. Unassigned zIIPs New on IBM z16, an ICF that is purchased but not activated is registered as an unassigned ICF (FC 1974). When the system is later upgraded with another ICF, the system recognizes that an ICF was purchased and is present. The allowable number of zIIPs for each model is listed in Table 3-3. Table 3-3 zIIPs and Unassigned zIIPs per feature zIIPs are",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.262811",
+    "chunk_number": 275,
+    "word_count": 172
+  }
+}

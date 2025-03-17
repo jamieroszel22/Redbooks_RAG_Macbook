@@ -1,0 +1,18 @@
+{
+  "content": "IBM has invested into Open Neural Network Exchange (ONNX), which is a standard format for representing AI models that allows a data scientist to build and train a model in the framework of choice without worrying about the downstream inference implications. To enable deployment of ONNX models, IBM provides an ONNX model compiler that is optimized for IBM Z. IBM also optimized key Open Source frameworks, such as TensorFlow and TensorFlow Serving, for use on IBM Z platform. IBM open-sourced zDNN library provides common APIs for the functions that allow to convert tensor format to the accelerator required one. Customers can run zDNN under z/OS (in zCX) and Linux on IBM Z. A Deep Learning Compiler (DLC) for z/OS and for Linux on IBM Z provides the AI functions to the applications. 3.4.7 Decimal floating point accelerator The decimal floating point (DFP) accelerator function is on each of the microprocessors (cores) on the 8-core chip. Its implementation meets business application",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.160398",
+    "chunk_number": 249,
+    "word_count": 160
+  }
+}

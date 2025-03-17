@@ -1,0 +1,18 @@
+{
+  "content": "IBM z16 systems and is designed to help bring data close to processing power, increase the scalability of transaction processing, and lower I/O latency. zHyperLink Express is designed for up to 5x lower latency than High-Performance FICON for IBM Z (zHPF) by directly connecting the IBM Z central processor complex (CPC) to the I/O Bay of the DS8000 (DS8880 or later). This short distance (up to 150 m [492.1 feet]), direct connection is intended to speed Db2 for z/OS transaction processing and improve active log throughput. The improved performance of zHyperLink Express allows the Processing Unit (PU) to make a synchronous request for the data that is in the DS8000 cache. This process eliminates the undispatch of the running request, the queuing delays to resume the request, and the PU cache disruption. Support for zHyperLink Writes can accelerate Db2 log writes to help deliver superior service levels by processing high-volume Db2 transactions at speed. IBM zHyperLink Express requires",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.929626",
+    "chunk_number": 686,
+    "word_count": 158
+  }
+}

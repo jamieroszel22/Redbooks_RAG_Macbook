@@ -1,0 +1,18 @@
+{
+  "content": "a multiprocessor design where memory access time depends on the memory location relative to the processor. Chapter 12. Performance and capacity planning 493 \u0002 Indicates the vertical polarity for the physical processor types (H / M / L) 12.9.8 IBM zPCR Large Partition Support IBM zPCR version 9.6.48 implemented an important change to the LPAR Configuration Capacity Planning function. For the IBM z16, 3931 (Max200/700) a change was made to match the way RCPs per drawer are assigned when the total number RCPs in the configuration is up to 191. This change compensates for the way the RCP count per drawer actually occurs. This change was needed since it turns out that not all IBM z16 Max200\u2019s have 51 configurable PU drawers. Some Max200\u2019s have 48 PU drawers when there are 191 or less PU\u2019s in the configuration. IBM zPCR shows the distribution of PUs per drawer according to the Table 12-2, and there are very useful graphs called Estimated Distribution of RCPs Across Drawers that are",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.307074",
+    "chunk_number": 1107,
+    "word_count": 167
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "uses optical cable with MTP connector. Maximum supported cable length is 150 meters (492 feet). zHyperLink Express (FC 0431) zHyperLink is a new technology that provides up to 5x reduction in I/O latency times for Db2 read requests with the qualities of service IBM Z clients expect from I/O infrastructure for Db2 v12 with z/OS. The z/OS supported versions are the same ad for zHyperLink Express 1.1. 10 CKD data records are handled by using IBM Enhanced Count Key Data (ECKD\u2122) command set. 164 IBM z16 A02 and IBM z16 AGZ Technical Guide The zHyperLink Express feature (FC 0431) provides a low latency direct connection between IBM z16 A02 and IBM z16 AGZ and DS8000 I/O Port. On IBM z16 A02 and IBM z16 AGZ, zHyperLink Express card is a carry forward PCIe adapter, which installed in the PCIe+ I/O drawer. HCD definition support was added for new PCIe function type with PORT attributes. Requirements of zHyperLink The zHyperLink Express feature is available on IBM z16 A02 and IBM z16 AGZ, and",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.821499",
+    "chunk_number": 410,
+    "word_count": 172
+  }
+}

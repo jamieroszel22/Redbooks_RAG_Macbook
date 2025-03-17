@@ -1,0 +1,18 @@
+{
+  "content": "Fourth-generation SMT processing for zIIPs, IFLs and SAPs \u0002 Cache: \u2013 L2 Private cache (unified) increased to 32 MB \u2013 Virtual L3 cache up to 8x32 = 256 MB/ CP chip \u2013 Virtual L4 cached up to 8x32x8 = 20482 MB/ drawer \u0002 Software and hardware: \u2013 z/OS HiperDispatch Optimizations \u2013 PR/SM Algorithm Improvements (, including LPAR Resource Placement) \u2013 Quantum safe Encryption \u2013 New System Recovery Boost functionality 12.2 IBM z16 Large System Performance Reference ratio The Large System Performance Reference (LSPR) provides capacity ratios among various processor families that are based on various measured workloads. It is a common practice to 2 IBM z16 A02 and IBM z16 AGZ Max5 and Max16 Virtual L4 capacity is 1024MB. 458 IBM z16 A02 and IBM z16 AGZ Technical Guide assign a capacity scaling value to processors as a high-level approximation of their capacities. For z/OS V2R5 studies, the capacity scaling factor that is commonly associated with the reference processor is set to a 2094-701 with a",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.243403",
+    "chunk_number": 1070,
+    "word_count": 166
+  }
+}

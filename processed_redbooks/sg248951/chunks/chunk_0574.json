@@ -1,0 +1,18 @@
+{
+  "content": "SHA512]) \u0002 Digest (SHA1, SHS2 or SHA3 [SHA224, SHA256, SHA384, and SHA512]) \u0002 Wrap and unwrap keys \u0002 Random number generation \u0002 Get mechanism list and information \u0002 Attribute values \u0002 Key Agreement (Diffie-Hellman) When defined in EP11 mode, the TKE workstation is required to manage the Crypto Express features. Note: The function extension capability through UDX is not available to the EP11. Chapter 6. Cryptographic features 235 Enterprise PKCS #11 (EP11) with IBM z16 provides the following updates8: \u0002 Quantum Safe Algorithm enhancements provide: \u2013 Updated support for Dilithium signatures: \u2022 Round 2: Level 2 (6 5) and 3 (8 7) \u2022 Round 3: Level 2 (4 4), 3 (6 5) and 5 (8 7) \u2013 Add support for Kyber key encapsulation: Round 2: Level 3 (768) and 5 (1024) \u0002 Quantum Safe protected key support for EP11 Host Firmware and EP11 now use a hybrid scheme that combines ECDH and Kyber to accomplish a quantum safe transport key exchange for protected key import. \u0002 Quantum Safe host firmware management",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.484659",
+    "chunk_number": 574,
+    "word_count": 171
+  }
+}

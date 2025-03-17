@@ -1,0 +1,18 @@
+{
+  "content": "#+--------------------------------------------------------------------------+ function unlink_one # This will unlink a minidisk from the current z/VM user id. # Arg1: The target minidisk to unlink #+--------------------------------------------------------------------------+ { cp_cmd DETACH $1 return $? } #+--------------------------------------------------------------------------+ function copy_one # Try to use z/VM FLASHCOPY to copy one disk to another. If that fails, Appendix C. Additional material 505 # call dd_copy() to fall back to the Linux DD command # Arg 1: Source minidisk # Arg 2: Target minidisk #+--------------------------------------------------------------------------+ { source_mdisk=$1 target_mdisk=$2 if [ \"$CLONE_METHOD\" == \"AUTO\" -o \"$CLONE_METHOD\" == \"auto\" ] ; then cp_cmd FLASHCOPY $source_mdisk 0 END $target_mdisk 0 END rc=$? if [ $rc -ne 0 ]; then # FLASHCOPY failed [ -n \"$VERBOSE\" ] && echo \"FLASHCOPY $source_mdisk $target_mdisk failed with $rc - using Linux dd\"",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.108494",
+    "chunk_number": 1033,
+    "word_count": 125
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Each I/O drawer can support up to 16 I/O or special purpose features for storage, network, and clustering connectivity, as well as cryptography. The following features were introduced with the IBM z16 A02 and IBM z16 AGZ: \u0002 FICON Express32S \u0002 OSA-Express7S 1.2 \u0002 RoCE Express3 (Long Reach and Short Reach) \u0002 Coupling Express2 Long Reach \u0002 Crypto Express8S The IBM z16 A02 and IBM z16 AGZ are more flexible and have simplified on-demand capacity to satisfy peak processing demands and quicker recovery times with built-in resiliency capabilities. The Capacity on Demand (CoD) function can dynamically change available system capacity. This function can help respond to new business requirements with flexibility and precise granularity. The IBM Tailored Fit Pricing for IBM Z options are designed 3 The size of virtual L4 for the Max5 and Max16 is 1024MB. Feature namea a. IBM z16 AGZ supports the same features as IBM z16 A02. Number of CPC drawers Feature code Characterizable PUs SAPs Spare PUs",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.439214",
+    "chunk_number": 79,
+    "word_count": 163
+  }
+}

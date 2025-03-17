@@ -1,0 +1,18 @@
+{
+  "content": "involved and provides improved cache structure service times and coupling efficiency. It requires explicit data manager exploitation/participation, which is not transparent to the data manager. No SMF data changes were made for CF monitoring and reporting. The following requirements must be met: \u0002 CFCC Level 23 or higher \u0002 z/OS V2.R5 or V2.R4 \u0002 PTFs on every exploiting system in the sysplex: \u2013 Fixes for APAR OA54688 - Exploitation support z/OS V2.R3 \u0002 Db2 V12 with PTFs for exploitation z/VM Dynamic I/O support for ICA CHPIDs z/VM dynamic I/O configuration support allows you to add, delete, and modify the definitions of channel paths, control units, and I/O devices to the server and z/VM without shutting down the system. This function refers exclusively to the z/VM dynamic I/O support of InfiniBand8 and ICA coupling links. Support is available for the CIB and CS5 CHPID type in the z/VM dynamic commands, including the change channel path dynamic I/O command. Specifying and changing the",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.937431",
+    "chunk_number": 690,
+    "word_count": 161
+  }
+}

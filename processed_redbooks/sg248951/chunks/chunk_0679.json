@@ -1,0 +1,18 @@
+{
+  "content": "requires specific data manager support (Db2 V12 with PTFs). \u0002 Coupling Facility hang detection These enhancements provide a significant reduction in failure scope and client disruption (CF-level to structure-level), with no loss of FFDC collection capability. With this support, the CFCC dispatcher significantly reduces the CF hang detection interval to only 2 seconds, which allows more timely detection and recovery from such events. When a hang is detected, in most cases the CF confines the scope of the failure to \u201cstructure damage\u201d for the single CF structure the hung command was processing against, captures diagnostics with a nondisruptive CF dump, and continues operating without stopping or rebooting the CF image. \u0002 Coupling Facility granular latching This enhancement eliminates the performance degradation that is caused by structure-wide latching. With this support, most CF list and lock structure ECR processing no longer uses structure-wide latching. It serializes its execution",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.904632",
+    "chunk_number": 679,
+    "word_count": 147
+  }
+}

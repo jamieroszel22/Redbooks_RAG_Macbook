@@ -1,0 +1,18 @@
+{
+  "content": "elastic, and able to scale on demand when needed so that organizations are charged only for what they use over the billable period. 1.2 Benefits of an open lakehouse for businesses Although data warehouses and data lakes each evolved to meet a set of specific technology and business needs and values, organizations often need both, so there is an increasing demand for convergence of both technologies. Vendors attempt to create the best of both data lakes and data warehouses by combining them into the newer technology of the lakehouse. This lakehouse architecture is designed to provide the flexibility and cost effectiveness of a data lake with the performance and structure of a data warehouse. The lakehouse enables organizations to store data from the increasing number of new sources in a low-cost way and use built-in data management and governance capabilities, which enable organizations to power both Business Intelligence (BI) and high-performance ML workloads efficiently and",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.515428",
+    "chunk_number": 46,
+    "word_count": 155
+  }
+}

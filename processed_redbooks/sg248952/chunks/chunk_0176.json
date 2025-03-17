@@ -1,0 +1,18 @@
+{
+  "content": "z16, the maximum for the zIIP FCs will be one less than the feature allowed maximum PUs. For instance, an IBM z16 A02 and IBM z16 AGZ Max68 can have up to 67 zIIPS. These rules are also valid for unassigned zIIPs and unassigned IFLs. The following components are present in the z16 configurations, but they are not part of the PUs that clients purchase and require no characterization: \u0002 SAP to be used by the channel subsystem. The number of predefined SAPs depends on the z16 feature and is fixed for the specified configuration. \u0002 Two IFP, which are used in the support of designated features and functions, such as RoCE (all features), Coupling Express LR, zHyperlink Express 1.1, Internal Shared Memory (ISM) SMC-D, and other management functions. \u0002 Two spare PUs, which can transparently assume any characterization during a permanent failure of another PU. The z16 uses features to define the number of PUs that are available for client use in each configuration. The features are listed in",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.867369",
+    "chunk_number": 176,
+    "word_count": 170
+  }
+}

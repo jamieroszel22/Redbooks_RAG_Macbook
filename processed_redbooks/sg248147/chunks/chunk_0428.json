@@ -1,0 +1,18 @@
+{
+  "content": "-------- Available 4 -------- Available 4. Use the QUERY RETRIEVE, QUERY VDISK, and SSICMD QUERY VDISK commands to see the changes that were made to the Features statement in the SYSTEM CONFIG file: ===> query retrieve 99 buffers available. Maximum of 255 buffers may be selected. ===> query vdisk userlim VDISK USER LIMIT IS 2097152 BLK ===> ssicmd query vdisk userlim RDBKZVMG: VDISK USER LIMIT IS 2097152 BLK RDBKZVMH: VDISK USER LIMIT IS 2097152 BLK ===> ssicmd query vdisk syslim RDBKZVMG: VDISK SYSTEM LIMIT IS INFINITE, 0000000 BLK IN USE RDBKZVMH: VDISK SYSTEM LIMIT IS INFINITE, 0000000 BLK IN USE 5. Try to start an FTP session to all of the SSI members. You will get a logon prompt. This test shows that the changes to the SYSTEM CONFIG file and to the FTP server are in effect. 186 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 6.11 Adding page volumes and perm (user) volumes Each z/VM 6.3 SSI member is installed with one paging volume and one spool volume, either 3390-3s or 3390-9s,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.884211",
+    "chunk_number": 428,
+    "word_count": 173
+  }
+}

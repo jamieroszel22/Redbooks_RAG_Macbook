@@ -1,0 +1,18 @@
+{
+  "content": "memory-to-memory transfers by using Shared Memory Communications over RDMA (SMC-R). With SMC-R, you can transfer huge amounts of data quickly and at low latency. SMC-R is transparent to the application and requires no code changes, which enables rapid time to value. 7 The performance results can vary depending on the workload. Use zBNA tool for the zHyperLink planning. Note: The zHyperLink channels complement FICON channels, but they do not replace FICON channels. FICON remains the main data driver and is mandatory for zHyperLink usage. 8 RoCE Express features can also be used as general-purpose Network Interface Cards (NICs) with Linux on IBM Z. 16 IBM z16 A02 and IBM z16 AGZ Technical Guide The RoCE Express3 features can also provide local area network (LAN) connectivity for Linux on IBM Z, and comply with IEEE standards. In addition, RoCE Express features assume several functions of the TCP/IP stack that normally are performed by the PU, which allows significant performance",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.524503",
+    "chunk_number": 99,
+    "word_count": 158
+  }
+}

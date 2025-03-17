@@ -1,0 +1,18 @@
+{
+  "content": "Groups. 390 IBM z16 A02 and IBM z16 AGZ Technical Guide The HMA RSF provides the important communication to a centralized IBM support network for hardware problem reporting and service. For more information, see 10.4, \u201cRemote Support Facility\u201d on page 419. \u0002 Microcode Change Level (MCL) Regular installation of MCLs is key for RAS, optimal performance, and new functions. Generally, plan to install MCLs quarterly at a minimum. Review hiper MCLs continuously. You must decide whether to wait for the next scheduled apply session, or schedule one earlier if your risk assessment of the new hiper MCLs warrants. For more information, see 10.5.5, \u201cHMC and SE Microcode\u201d on page 424. \u0002 SE IBM z16 A02 and IBM z16 AGZ are provided with two 1U trusted servers inside the \u201cA\u201d frame: One is always the primary SE and the other is the alternative SE6. The primary SE is the active SE. The alternative acts as the backup. Information is mirrored once per day. The SE servers include N+1 redundant power",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.839842",
+    "chunk_number": 952,
+    "word_count": 169
+  }
+}

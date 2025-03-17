@@ -1,0 +1,18 @@
+{
+  "content": "Table 2-16 System structure summary Description Max39 Max82 Max125 Max168 Max200 Maximum number of characterized PUs 39 82 125 168 200 Number of CPs 0 - 39 0 - 82 0 - 125 0 - 168 0 - 200 Number of IFLs 0 - 39 0 - 82 0 - 125 0 - 168 0 - 200 Number of unassigned IFLs 0 - 38 0 - 81 0 - 124 0 - 167 0 - 199 Number of ICFs 0 - 39 0 - 82 0 - 125 0 - 168 0 - 200 Number of unassigned ICFs 0 - 38 0 - 81 0 - 124 0 - 167 0 - 199 Number of zIIPs 0 - 25 0 - 54 0 - 82 0 - 110 0 - 132 Number of unassigned zIIPs 0 - 25 0 - 54 0 - 82 0 - 110 0 - 132 Standard SAPs 5 10 15 20 24 Other SAPs 0 - 8 0 - 8 0 - 8 0 - 8 0 - 8 Number of IFP 2 2 2 2 2 Standard spare PUs 2 2 2 2 2 Enabled Memorya sizes GB a. For BPA systems, only 5 TB of memory can be configured per CPC drawer. 512 - 9984 512 - 20224 512 - 30464 512 - 40704 512 - 40704 Flexible memorya sizes GB N/A 512 - 9984 512 - 20224 512 - 30464 512 - 30464 L1 cache per PU (I/D) 128/128 KB 128/128 KB 128/128 KB 128/128 KB 128/128 KB L2 private unified cache",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:10.930645",
+    "chunk_number": 188,
+    "word_count": 260
+  }
+}

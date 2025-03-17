@@ -1,0 +1,18 @@
+{
+  "content": "an accelerator. The tamper-resistant hardware security module, which is contained on the Crypto Express6S feature, conforms to the Federal Information Processing Standard (FIPS) 140-2 Level 4 Certification. It supports User Defined Extension (UDX) services to implement cryptographic functions and algorithms (when defined as an IBM CCA coprocessor). The following CCA compliance levels are available: \u0002 Non-compliant (default) \u0002 PCI-HSM 2016 \u0002 PCI-HSM 2016 (migration, key tokens while migrating to compliant) The following EP11 compliance levels are available (Crypto Express6S and Crypto Express5S): \u0002 FIPS 2009 (default) \u0002 FIPS 2011 \u0002 BSI 2009 \u0002 BSI 2011 Each Crypto Express6S feature occupies one I/O slot in the PCIe I/O drawer, and features no CHPID assigned. However, it includes one PCHID. 4.8 Integrated Firmware Processor The Integrated Firmware Processor (IFP) was introduced with the zEC12 and zBC12. The IFP is used to support firmaware partitions and for managing PCIe native",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.042257",
+    "chunk_number": 469,
+    "word_count": 147
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "a wide range of integration with existing IBM and third-party products. Figure 2-5 IBM watsonx.data high-level architecture IBM watsonx.data can be deployed across multiple environments, including but not limited to IBM Cloud, Amazon Web Services (AWS) infrastructure, and on premises. The storage layer is centered around object storage, which is highly available, highly scalable, and inexpensive. A governance and metadata layer integrates existing Netezza\u00ae and Db2 services to achieve metadata sharing using open-data formats such as Parquet, ORC, and Avro (a serialization format for record data and for streaming data pipelines) and leverages the Apache Iceberg table format. It uses multiple engines, such as Presto and Spark, which provide fast, reliable, efficient processing of big data at scale. With watsonx.data, you can access all your data across cloud and on-premises environments. The platform lets you connect to storage and analytics environments in minutes and access all your",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.610745",
+    "chunk_number": 71,
+    "word_count": 147
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "core, then the next highest PU chip high core. This process prevents all the SAPs from being assigned on one PU chip. \u0002 IFLs and ICFs: Assign IFLs and ICFs to cores on chips in the higher order CPC drawer working downward. \u0002 CPs and zIIPs: Assign CPs and zIIPs to cores on chips in lower CPC drawers working upward. These rules are intended to isolate processors that are used by different operating systems as much as possible on different CPC drawers and even on different PU chips. This configuration ensures that different operating systems do not use the same shared caches. For example, CPs and zIIPs are all used by z/OS, and can benefit by using the same shared caches. However, IFLs are used by z/VM and Linux, and ICFs are used by CFCC. This initial PU assignment, which is done at POR, can be dynamically rearranged by an LPAR by swapping an active core to a core in a different PU chip in a different CPC drawer to improve system performance. For more information, see \u201cLPAR dynamic PU",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.371181",
+    "chunk_number": 294,
+    "word_count": 180
+  }
+}

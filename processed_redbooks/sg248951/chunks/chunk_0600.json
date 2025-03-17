@@ -1,0 +1,18 @@
+{
+  "content": "introduced several new functions. This section describes the support of those functions by the current operating systems. Also included are some of the functions that were introduced in previous IBM Z servers and carried forward or enhanced in IBM z16 servers. Features and functions that are available on previous servers, but no longer supported by IBM z16 servers, are not documented here. For more information about supported functions that are based on operating systems, see 7.3, \u201cIBM z16 features and function support overview\u201d on page 252. Tables are built by function and feature classification to help you determine, by a quick scan, what is supported and the minimum operating system level that is required. 7.2.1 z/OS z/OS Version 2 Release 3 is the earliest in-service release that supports IBM z16 servers. Consider the following points: \u0002 Service support for z/OS Version 2 Release 2 ended in September of 2020; however, a fee-based extension for defect support (for up to three",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.585471",
+    "chunk_number": 600,
+    "word_count": 160
+  }
+}

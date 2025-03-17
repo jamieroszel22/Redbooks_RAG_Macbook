@@ -1,0 +1,18 @@
+{
+  "content": "295. 32 K subchannels To help facilitate growth and continue to enable server consolidation, the IBM z16 supports up to 32 K subchannels per FICON Express32S, FICON Express16SA, and FICON Express16S+ channels (CHPID). More devices can be defined per FICON channel, which includes primary, secondary, and alias devices. The maximum number of subchannels across all device types that are addressable within an LPAR remains at 63.75 K for subchannel set 0 and 64 K (64 X 1024)-1 for subchannel sets 1, 2, and 3. This support is available to the IBM z16, IBM z15, z14, IBM z13, and IBM z13s servers and applies to the FICON Express32S, FICON Express16SA, and FICON Express16S+ features (defined as CHPID type FC). The supported operating systems are listed in Table 7-6 on page 257 and Table 7-7 on page 258. Request node identification data The request node identification data (RNID) function for native FICON CHPID type FC allows isolation of cabling-detected errors. The supported operating systems",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.014528",
+    "chunk_number": 710,
+    "word_count": 162
+  }
+}

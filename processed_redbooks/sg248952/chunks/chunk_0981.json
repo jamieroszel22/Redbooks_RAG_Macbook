@@ -1,0 +1,18 @@
+{
+  "content": "not assigned to any partition (including standby components) \u2022 Broader selectable time ranges for metrics view for historical trending data \u2022 Display selected system and partition metrics in line chart and tabular views \u2022 Filters for different views \u2022 Export metric data \u2013 The task Monitors Dashboard is enhanced with the following new information and possibilities: \u2022 Total Partition Power Consumption (kW) \u2022 Total Infrastructure Power Consumption (kW) \u2022 Total Unassigned Power Consumption (kW) \u2022 Partition power consumption per Partition (kW) \u2013 HMC Web Services API has new parameters to get information for common Data Center Infrastructure Management (DCIM) tools. To get the new Metric field names for the values mentioned in the last bullet, please check the Hardware Management Console Web Services API Version 2.16.0, SC27-2642. For more information about this topic see 10.5.6, \u201cMonitoring\u201d on page 427 and use the HMC console help system or see Resource Link2",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.932754",
+    "chunk_number": 981,
+    "word_count": 150
+  }
+}

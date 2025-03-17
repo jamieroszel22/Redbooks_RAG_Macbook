@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.governance \u00a9 Copyright IBM Corp. 2025. 53 Chapter 5. Assessing a new use case A use case in watsonx.governance is the starting point to solve a business problem using an Artificial Intelligence (AI) asset, such as a model or prompt template as part of the solution. The process of assessing a new use case for an organization involves following a business process facilitated by a workflow engine. This process identifies risks, assesses applicable regulations and policies, and decides whether to approve or reject the use case from development through production to decommissioning. This chapter covers the following topics: \u0002 \u201cBusiness process workflow\u201d on page 54 \u0002 \u201cApproval workflow\u201d on page 55 \u0002 \u201cRisk identification assessment\u201d on page 56 \u0002 \u201cApplicability assessment\u201d on page 58 5 54 Ensuring Trustworthy AI with IBM watsonx.governance 5.1 Business process workflow The typical business process to assess a new use case, shown in Figure 5-1, combines automated workflows in",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.026972",
+    "chunk_number": 155,
+    "word_count": 154
+  }
+}

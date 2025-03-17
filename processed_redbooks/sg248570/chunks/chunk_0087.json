@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.data (for example, Parquet, Delta Lake). Chapter 2. Introduction to IBM watsonx.data 25 2.5.2 IBM DataStage in watsonx.data IBM DataStage is essential for ETL operations, focusing on transforming and loading data into watsonx.data for downstream consumption. The following are the key considerations: \u0002 Data integration: DataStage ensures smooth data ingestion from on-premises, cloud, and third-party systems into watsonx.data. \u0002 Data governance and quality: Provides tools for data cleansing, transformation, and validation before ingestion, critical for maintaining data quality in the lakehouse. \u0002 Workload automation: Automates ETL jobs to handle large volumes of structured and semi-structured data efficiently. \u0002 Orchestration and scheduling: Manages complex workflows and schedules data processing tasks within watsonx.data. \u0002 Data lineage: Ensures full traceability of data transformations, aligning with governance policies in watsonx.data. 2.5.3 StreamSets in watsonx.data",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.680689",
+    "chunk_number": 87,
+    "word_count": 130
+  }
+}

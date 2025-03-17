@@ -1,0 +1,18 @@
+{
+  "content": "33 Enhanced Console Assisted Recovery Enhanced Console Assisted Recovery (ECAR) speeds up the process of BTS takeover by performing the following steps: 1. When the Preferred Time Server (PTS/CTS) detects a checkstop condition, the CEC informs its SE and HMC. 2. The PTS SE recognizes the checkstop pending condition, and calls the PTS SE STP code. 3. The PTS SE sends an ECAR request thorough HMC to the Backup Time Server (BTS) SE. 4. The BTS SE communicates with the BTS to start the takeover. ECAR support is faster than the original CAR support because the console path changes from a 2-way path to a 1-way path. Also, almost no lag time is incurred between the system checkstop and the start of CAR processing. Because the request is generated from the PTS before system logging, it avoids the potential of recovery being held up. For more information about planning and understanding STP server roles, see the following publications: \u0002 IBM Z Server Time Protocol Guide, SG24-8480 10.5.9 NTP",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.114778",
+    "chunk_number": 1028,
+    "word_count": 168
+  }
+}

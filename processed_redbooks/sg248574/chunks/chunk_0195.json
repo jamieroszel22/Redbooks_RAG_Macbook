@@ -1,0 +1,18 @@
+{
+  "content": "meets the specifications and accuracy levels. On successful fine-tuning, the newly optimized model can be exported in the GGUF format, which is a versatile and widely supported format for deploying quantized FMs. Alternatively, the model can be directly deployed onto the watsonx.ai run time environment. This deployment establishes a seamless large language model operations (LLMOps) pipeline within watsonx.ai for InstructLab, which enables automated monitoring, maintenance, and iterative improvement of the model. By integrating these processes within the watsonx.ai ecosystem, you help ensure continuous delivery and operational efficiency of AI solutions that align with best practices in modern ML workflows. The fine-tuning process that is shown in Figure 5-14 on page 83 shows the intricate and methodical approach that is adopted by InstructLab within the watsonx.ai framework. This process is characterized by a 2-phase, fine-tuning methodology that is augmented with a replay buffer,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.970004",
+    "chunk_number": 195,
+    "word_count": 142
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "client in an attempt to help prevent forced disconnections, such as the one shown in Example 15-19. Example 15-19 A forced disconnect of an SSH session due to timeout \u2022 ATS Intranet GZ-ATS-ENDZLAB endicott1415 | Thu Nov 05 22:39 UTC \u2022 pwnovak histref=85 pwd=/srv/ftp/ibm/zvm/720/ \u2022\u2022\u2022\u2022\u2022\u2022> ls -al total 19 drwxrwx--- 9 ftpadmin ftpadmin 4096 2020-09-18 17:28 . drwxrwx--- 27 ftpadmin ftpadmin 4096 2020-09-18 17:22 .. drwxrwx--- 3 ftpadmin ftpadmin 4096 2020-09-18 17:30 eckd dr-xr-x--- 1 ftpadmin ftpadmin 528 2020-08-11 13:27 isodoc dr-xr-x--- 1 ftpadmin ftpadmin 112 2020-08-11 09:18 isoeckd-1 dr-xr-x--- 1 ftpadmin ftpadmin 112 2020-08-11 09:41 isoeckd-2 dr-xr-x--- 1 ftpadmin ftpadmin 112 2020-08-11 09:56 isoscsi-1 dr-xr-x--- 1 ftpadmin ftpadmin 112 2020-08-11 10:22 isoscsi-2 drwxrwx--- 3 ftpadmin ftpadmin 4096 2020-09-18 17:33 scsi \u2022 ATS Intranet GZ-ATS-ENDZLAB endicott1415 | Thu Nov 05 22:40 UTC \u2022 pwnovak histref=86 pwd=/srv/ftp/ibm/zvm/720/ \u2022\u2022\u2022\u2022\u2022\u2022> client_loop: send disconnect: Broken",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.865889",
+    "chunk_number": 965,
+    "word_count": 141
+  }
+}

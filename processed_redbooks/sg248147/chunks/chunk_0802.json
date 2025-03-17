@@ -1,0 +1,18 @@
+{
+  "content": "12.4, \u201cMonitoring Linux performance for troubleshooting\u201d on page 394 12 372 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 12.1 Using basic z/VM commands z/VM features many commands to monitor the state of the system. CP INDICATE is the most commonly used, but other commands can also monitor the state of the system. For more information, see this web page. 12.1.1 Using the INDICATE command z/VM features several basic commands, such as INDICATE. Many INDICATE parameters can be included as command-line options. Use the HELP INDICATE command for a basic understanding and then press F11 for help about each parameter. INDICATE LOAD If no parameter is specified, INDICATE LOAD is the default option. Two versions are available, depending on whether the issuing virtual machine has privilege class G or class E. Class G users can use the INDICATE command to display recent contention for system resources, environment characteristics, and measurements of resources that are used by their virtual",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.322465",
+    "chunk_number": 802,
+    "word_count": 157
+  }
+}

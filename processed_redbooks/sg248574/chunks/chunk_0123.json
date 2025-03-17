@@ -1,0 +1,18 @@
+{
+  "content": "LLM model from watsonx.ai\u2019s Studio; the only difference is where to find the code within the UI to do so. To accomplish this task, complete the following steps: 1. Go to Prompt Lab, and then build your prompt in either the Chat, Structured, or Freeform tab. 2. In the upper right, click the View code icon (Figure 4-46). Figure 4-46 View code icon The Prompt Lab automatically creates everything that you need to copy and paste your prompt into the application of your choosing (in either cURL, Node.js, or Python), as shown in Figure 4-47 on page 53. Chapter 4. Building and using artificial intelligence models 53 Figure 4-47 watsonx.ai Prompt Lab code window 4.9.3 IBM watsonx Assistant Operationalizing AI and ML models by using IBM technology helps ensure seamless deployment and management across enterprise environments while delivering measurable business outcomes. IBM watsonx.ai provides a robust platform for building, fine-tuning, and deploying AI models to enable data scientists to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.644064",
+    "chunk_number": 123,
+    "word_count": 159
+  }
+}

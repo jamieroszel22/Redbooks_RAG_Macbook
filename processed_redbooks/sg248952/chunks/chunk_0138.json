@@ -1,0 +1,18 @@
+{
+  "content": "Parts Per Million Chapter 2. Central processor complex hardware components 35 Figure 2-10 Recommended ETS cabling 2.2.3 System control The various system elements are managed through the Baseboard Management Controllers (BMCs). The BMC is the replacement for the Flexible Support Processors (FSPs) used in previous systems. With IBM z16 A02 and IBM z16 AGZ the CPC drawer BMC card is combined with the Oscillator card as a single Field Replaceable Unit (FRU). Two combined BMC/OSC cards are used per CPC drawer. Also, the PCIe+ I/O drawer has a new BMC. Each BMC card has one Ethernet port that connects to the internal ethernet LANs through the internal network switches (SW1, SW2, and SW3, SW4, if configured). The BMCs communicate with the SEs and provide a subsystem interface (SSI) for controlling components. An overview of the system control design is shown in Figure 2-11 on page 36. Tip: STP is available as FC 1021. It is implemented in the Licensed Internal Code (LIC), and allows",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.703709",
+    "chunk_number": 138,
+    "word_count": 164
+  }
+}

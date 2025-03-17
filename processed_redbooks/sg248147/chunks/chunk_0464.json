@@ -1,0 +1,18 @@
+{
+  "content": "User directory example 6.13.1 z/VM User Directory PROFILEs A PROFILE entry in the z/VM User Directory is an object that defines defaults to be set and used. One PROFILE can be used by many USER, IDENTITY, or SUBCONFIG entries. A PROFILE is easily used: add one line that is an INCLUDE PROFNAME statement as the second line of any USER, IDENTITY, SUBCONFIG, or PROTODIR entry that uses that PROFILE. Consider the following points about User Directory PROFILEs: \u0002 Each USER, IDENTITY, SUBCONFIG, or PROTODIR entry can use only one PROFILE. If you attempt to send a modified directory entry to DirMaint with two PROFILE statements in it, you will receive an error. \u0002 In each USER, IDENTITY, SUBCONFIG, or PROTODIR entry, any statements that are listed on lines underneath the INCLUDE PROFNAME statement will override values from the PROFILE. For example, you are creating NEWUSER and including the TCPCMSU PROFILE that is supplied by IBM. You include a statement for NEWUSER to IPL CMS with auto",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.016392",
+    "chunk_number": 464,
+    "word_count": 166
+  }
+}

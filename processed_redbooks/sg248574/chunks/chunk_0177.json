@@ -1,0 +1,18 @@
+{
+  "content": "words for these pairs. By adhering to these guidelines, contributors can maintain consistency and utility within the skill taxonomy framework. To make the qna.yaml files faster for humans to read, it is best practice to specify version first, which is followed by task_description, then created_by, and finally seed_examples. In seed_examples, it is a best practice to specify context first (if applicable), followed by question and answer. Example 5-1 shows an example of a qna.yaml file. Example 5-1 A qna.yaml file version: 2 task_description: <string> created_by: <string> seed_examples: - question: <string> answer: | <multi-line string> - context: | <multi-line string> question: <string> answer: | <multi-line string> ... Create an attribution.txt file that includes the sources of your information, which can be self-authored sources. 76 Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai Knowledge contributions differ from skills by focusing on answering factual,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.898286",
+    "chunk_number": 177,
+    "word_count": 145
+  }
+}

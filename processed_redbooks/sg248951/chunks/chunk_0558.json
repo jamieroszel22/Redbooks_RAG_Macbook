@@ -1,0 +1,18 @@
+{
+  "content": "within the Crypto Express features when defined as a coprocessor. UDX is supported under a special contract through an IBM or approved third-party service offering. The Crypto Cards website directs your request to an IBM representative for your geographic location. A special contract is negotiated between IBM and you for the development of the UDX code by IBM according to your specifications and an agreed-upon level of the UDX. A UDX toolkit for IBM Z is tied to specific versions of the CCA code and the related host code. UDX is available for the Crypto Express8S, Crypto Express7S, and Crypto Express6S (Secure IBM CCA coprocessor mode only) features. An UDX migration is no more disruptive than a normal Microcode Change Level (MCL) or ICSF release migration. 5 List is not exhaustive; new functions are added continuously Chapter 6. Cryptographic features 229 In IBM z16, up to four UDX files can be imported. These files can be imported from a USB media stick or an FTP server. The UDX",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.413151",
+    "chunk_number": 558,
+    "word_count": 168
+  }
+}

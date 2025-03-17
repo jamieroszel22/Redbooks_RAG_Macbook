@@ -1,0 +1,18 @@
+{
+  "content": "drawer. The strategy of redundant clock and switchover stays the same as with the IBM z15 generation. One primary and one backup is available. If the primary OSC fails, the backup detects the failure, takes over transparently, and continues to provide the clock signal to the CPC. \u0002 Processor unit (PU) sparing IBM z16 A02 and IBM z16 AGZ and IBM z16 A02 and IBM z16 AGZ have two spare PUs per system to maintain performance levels if an active PU, Internal Coupling Facility (ICF), Integrated Facility for Linux (IFL), IBM Z Integrated Information Processor (zIIP), integrated firmware processor (IFP), or system assist processor (SAP) fails. Transparent sparing for failed processors is supported and sparing is supported across the drawers. \u0002 Application preservation 374 IBM z16 A02 and IBM z16 AGZ Technical Guide This function is used when a PU fails and no spares are available. The state of the failing PU is passed to another active PU, where the operating system uses it to successfully",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.696537",
+    "chunk_number": 913,
+    "word_count": 166
+  }
+}

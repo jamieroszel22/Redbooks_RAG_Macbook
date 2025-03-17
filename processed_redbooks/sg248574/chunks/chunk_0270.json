@@ -1,0 +1,18 @@
+{
+  "content": "automation application that takes in loan applications and responds to the loan applicant with near-real-time approval or rejection notices based on thresholds that are set by the bank. Figure 7-2 shows the watsonx Orchestrate workflow that was used in this use case. Figure 7-2 watsonx Orchestrate workflow example Customers connected to the bank through IBM watsonx Assistant, which leveraged an IBM LLM to initiate a natural language dialog with the client and collect various loan application documents, which included custom forms that are specific to this bank. These documents were passed from watsonx Assistant to watsonx Orchestrate, which called on several of its prebuilt skills, and custom skills that were developed in the Skills Studio feature to access additional services outside of the bank (such as credit reports). After running through a decision tree based on the inputs, the client received an approval or rejection notification. In either case, the notice was sent back to the",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.257507",
+    "chunk_number": 270,
+    "word_count": 156
+  }
+}

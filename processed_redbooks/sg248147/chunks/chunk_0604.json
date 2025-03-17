@@ -1,0 +1,18 @@
+{
+  "content": "specific group of z/VM systems (locally or remotely) from one central system. This chapter describes the z/VM CSM function. We also describe how to plan for, set up, and use z/VM CSM to manage service across several z/VM systems. z/VM CSM allows maintenance packages to be built, distributed, and applied to up to 55 z/VM systems from a single service management system. Not only does this simplify the task of service distribution, but it also makes it much easier to ensure that systems are kept consistent in service. For more information about z/VM CSM, see Part 2 of z/VM 7.2 Service Guide, GC24-6325. This chapter includes the following topics: \u0002 9.1, \u201cz/VM CSM structure\u201d on page 276 \u0002 9.2, \u201cSetting up z/VM CSM\u201d on page 277 \u0002 9.3, \u201cWorking with z/VM CSM\u201d on page 283 9 Note: z/VM CSM cannot be used with z/VM SSI. In an SSI cluster, service across the cluster is managed by VMSES/E in the cluster. It is not possible to integrate z/VM CSM with z/VM SSI to deliver service from a system in a",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.581373",
+    "chunk_number": 604,
+    "word_count": 179
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "argument. By using only one argument, you are testing the change to the file system table file, /etc/fstab. Use the df -h command to verify that it is mounted: # mount /home # df -h Filesystem Size Used Avail Use% Mounted on /dev/dasdc1 1008M 184M 774M 20% / tmpfs 246M 0 246M 0% /dev/shm /dev/mapper/system_vg-opt_lv 504M 17M 462M 4% /opt /dev/mapper/system_vg-tmp_lv 504M 17M 462M 4% /tmp /dev/mapper/system_vg-usr_lv 2.0G 1.3G 617M 68% /usr /dev/mapper/system_vg-var_lv 504M 92M 388M 20% /var /dev/mapper/homevg-homelv 6.8G 144M 6.3G 3% /home 5. Test a reboot to verify that the new logical volume is successfully mounted over /home/: # reboot Broadcast message from root@virtcook3.itso.ibm.com (/dev/pts/0) at 15:51 ... The system is going down for reboot NOW! When the system comes back, you will see the new logical volume that is mounted over /home/. 13.3 Extending a logical volume This section describes the process of adding a minidisk to an existing LVM. This process is useful when your",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.571910",
+    "chunk_number": 875,
+    "word_count": 159
+  }
+}

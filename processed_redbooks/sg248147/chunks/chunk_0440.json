@@ -1,0 +1,18 @@
+{
+  "content": "device to see the status: ===> query 1565 DASD 1565 NW1565 6. Attach the device to MAINT by using the ATTACH command. This example uses the last parameter of *, which means the current virtual machine: ===> attach 1565 to * DASD 1565 ATTACHED TO MAINT 1565 WITH DEVCTL HYPERPAV BASE 7. Use the CPFORMAT command with the AS PAGE parameter: ===> cpformat 1565 AS PAGE Format the following DASD: TargetID Tdev OwnerID Odev Dtype Vol-ID Rdev StartLoc Size MAINT 1565 MAINT 1565 3390 NW1565 1565 0 10017 WARNING - this will destroy data! Are you sure you want to format the DASD as PAGE space (y/n)? y ... DASD status after: TargetID Tdev OwnerID Odev Dtype Vol-ID Rdev StartLoc Size MAINT 1565 MAINT 1565 3390 VP1565 1565 0 10017 This formatting job might run for several minutes, depending on many factors. 8. Repeat the three previous steps on all other SSI members. In the example environment that was used for this book, two more page volumes were added on the second z/VM system in the cluster,",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.923878",
+    "chunk_number": 440,
+    "word_count": 177
+  }
+}

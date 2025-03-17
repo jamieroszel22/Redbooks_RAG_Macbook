@@ -1,0 +1,18 @@
+{
+  "content": "IBM z16 AGZ PU chip Coprocessor units (on-core) A data compression coprocessor and a cryptography coprocessor unit is available on each core in the IBM Telum chip. The compression engine uses static dictionary compression and expansion that is based on CMPSC instruction. The compression dictionary uses the level 1 (L1) cache (instruction cache). The cryptography coprocessor is used for CPACF, which offers a set of symmetric cryptographic functions for encrypting and decrypting of clear key operations. The compression and cryptography coprocessors feature the following characteristics: \u0002 Each core has an independent compression and cryptographic engine. \u0002 The coprocessor was redesigned to support SMT operation and for throughput increase. \u0002 It is available to any processor type (regardless of the processor characterization). \u0002 The owning processor is busy when its coprocessor is busy. The location of the coprocessor on the IBM z16 A02 and IBM z16 AGZ chip is shown in Figure 3-13 on",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.121064",
+    "chunk_number": 239,
+    "word_count": 153
+  }
+}

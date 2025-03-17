@@ -1,0 +1,18 @@
+{
+  "content": "when you try to analyze data of poor quality, the tools and analytical engines that you use to analyze the content in the data lakes might not be as performant as the tools that you use for data warehouses. Many data lakes became more like data swamps with stale data that is difficult to maintain and untrustworthy. The need to scale compute and storage presents two different sets of needs across data lakes and data warehouses. Data lakes and data warehouses each provide their own set of capabilities. When combined, scaling and governance can become key challenges because data lakes and warehouses are designed for different purposes. The market has evolved toward cloud-based data warehouses, which offer separation of computing and storage. Technologies such as Red Hat OpenShift, Red Hat Ceph Storage, Amazon S3, and other warehouse engines help solve the problem, making storage and computing inexpensive, readily available, and simpler to manage and scale. Compute and storage must be",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.511619",
+    "chunk_number": 45,
+    "word_count": 160
+  }
+}

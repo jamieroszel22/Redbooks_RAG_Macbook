@@ -1,0 +1,18 @@
+{
+  "content": "parameters In watsonx.ai Tuning Studio, you can use multitask prompt tuning by leveraging various prompt tuning parameters. The process of optimizing hyperparameters for prompt tuning, such as batch size, the number of epochs, the learning rate, and accumulation steps, plays a critical role in achieving task-specific adaptation and helping ensure effective usage of LLMs. Each of these parameters impacts the training process in unique ways by influencing the generalization ability, stability, computational efficiency, and performance of the fine-tuned prompts. \u0002 Batch size refers to the number of training samples that are processed simultaneously during each forward and backward pass through the model. It is a fundamental factor in determining the balance between computational efficiency and the quality of gradient updates. Larger batch sizes tend to stabilize gradient updates by averaging over more samples, which enable faster convergence. However, they often require significant",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.733168",
+    "chunk_number": 141,
+    "word_count": 142
+  }
+}

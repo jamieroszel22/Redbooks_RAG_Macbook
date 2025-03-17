@@ -1,0 +1,18 @@
+{
+  "content": "base CPC functions for z/VSE, z/TPF, and Linux on IBM Z are listed in Table 7-4. Table 7-4 Supported base CPC functions for z/VSE, z/TPF, and Linux on IBM Z IBM Integrated Accelerator for zEDC (on-chip compression) Y Y Y Yj Yj Yj CPU MF Extended Counters Y Y Y Y Y Y CF level 25 Enhancements Yk Yk Yk - - - HiperDispatch Optimization Y Y Y Yh Yh Yh System Recovery Boost Enhancements (IBM z16) Yk Yk N/A N/A N/A N/A IBM Integrated Accelerator for Z SORT Y Y Yk Yh Yh Yh ICSF Enhancements Y Y Y - - - Guest support for Breaking Event Address Register (BEAR) Enhancement Facility Y Y Y Y Y Y Guest support for Reset DAT protection Facility Y Y Y Y Y Y zDNN library enablement for IBM Z Integrated Accelerator for AI Y Yl N - - - a. PTFs might be required for toleration support or use of IBM z16 features and functions. b. Planned GA for z/VM V7.3 is 3rd Q 2022. c. 80-way without multithreading; 40-way with multithreading enabled. d. With Service. e. Statement of Direction: In a future IBM Z",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.627512",
+    "chunk_number": 611,
+    "word_count": 194
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "are required for each row are listed in Table 2-4. Table 2-4 HMC data 2.13.3 z/VM installation planning panels You must document the information for your environment before you use an installation planning panel (INSTPLAN). INSTPLAN panels 1 and 2 As described in section 5.5.1, \u201cCopying the in-memory z/VM system to DASD\u201d on page 115, the INSTPLAN command is run from the Integrated 3270 Console. \\ Name Value User ID My IBMid Password MyPassword (obtained from my password manager / vault) Order number U06074293000 Order name Products - z/VM Version 720 - 2020-09-21 Date/Time 2020-09-21 13:15 EDT Name Value HMC location or URL https://end3hmc6.atslab.endicott.ibm.com HMC user ID pwnovak HMC password Because out HMC is set up to use LDAP by using an RACF-LDAP connector, this password is the same password that is used to log in to z/VM FTP source system atsendftp.atslab.endicott.ibm.com z/VM installation directory /srv/zvm/720 64 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 The required",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.952093",
+    "chunk_number": 200,
+    "word_count": 156
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "identification file that links your z/VM systems and PERFSVM to a special resource name (replace ZVM63A with your system identifier): ===> x fconrmt systems ====> a RDBKZVMF PERFSVM z/VM7.2 N FCXC1R01 If you are configuring central monitoring in an SSI cluster, also specify all other members. Ensure that each member uses a unique resource name. The first member might be FCXC1R01, the second member might be FCXC1R02, and so on: RDBKZVMG PERFSVM z/VM7.2 N FCXC1R01 ITSOZVMH PERFSVM z/VM7.2 N FCXC1R02 RDBKZVMI PERFSVM z/VM7.2 N FCXC1R03 RDBKZVMJ PERFSVM z/VM7.2 N FCXC1R04 The system identification files on all members must be the same. 7. Set up a resource override for the default resource name (enter the resource name that you used in FCONRMT AUTHORIZ): ===> x ucomdir names ====> a 6 :nick.FCXRES00 :luname.*IDENT :tpn.FCXC1R01 :security.SAME :nick.FCXSYSTM :luname.*IDENT :tpn.FCXC1S01 :security.SAME If you are configuring central monitoring in an SSI cluster, specify resource override on",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.421037",
+    "chunk_number": 834,
+    "word_count": 151
+  }
+}

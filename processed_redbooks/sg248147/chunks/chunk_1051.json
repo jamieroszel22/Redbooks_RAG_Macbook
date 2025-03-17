@@ -1,0 +1,18 @@
+{
+  "content": "newIPaddr=`echo $1 | sed -e 's:\\.:\\\\\\.:g'` } Appendix C. Additional material 515 #+--------------------------------------------------------------------------+ function prepareVaddr() # Prepare an address by folding to lower case and prepending leading zeros # to make it 4 digits # Arg 1: The vaddr to be modified # Return: # The new value is written to the global variable newVaddr #+--------------------------------------------------------------------------+ { newVaddr=`echo $1 | tr '[A-Z]' '[a-z]'` # fold to lower case let leadingZeros=4-${#1} # determine number of zeros to add let i=0 while [ $i -lt $leadingZeros ]; do newVaddr=\"0$newVaddr\" i=$[$i+1] done } #+--------------------------------------------------------------------------+ function copyDisk() # Use FLASHCOPY to copy a disk, if it fails, fall back to dasdfmt then dd # Arg 1: Source vaddr # Arg 2: Target vaddr #+--------------------------------------------------------------------------+ { source=$1 target=$2 echo \"\" echo",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:14.158586",
+    "chunk_number": 1051,
+    "word_count": 126
+  }
+}

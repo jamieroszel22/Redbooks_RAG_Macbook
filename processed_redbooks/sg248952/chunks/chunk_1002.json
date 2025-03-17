@@ -1,0 +1,18 @@
+{
+  "content": "authentication server. This authentication is supported on HMC only, not on the SE. The following support was added with IBM z16 Driver 51/Version 2.16.0: \u0002 Enhanced Multi-Factor Authentication (MFA) functions \u2013 Certificates \u2022 Personal Identity Verification (PIV) \u2022 Common Access Card (CAC) \u2022 Certificates on USB keys \u2013 Generic Remote Authentication Dia-in User Service (RADIUS) allows for support of all various RADIUS factor types. Involves customer provided RADIUS server. Also, Driver 51/Version 2.16.0 provides support for IBM Z Multi-Factor authentication for RedHat Enterprise Linux Server or SUSE Linux Enterprise Server running on z/VM or native in an LPAR. 10.4 Remote Support Facility The HMC Remote Support Facility (RSF) provides important communication to a centralized IBM support network for hardware problem reporting and service. The following types of communication are provided: \u0002 Problem reporting and repair data \u0002 Microcode Change Level (MCL) delivery \u0002 Hardware inventory",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.004962",
+    "chunk_number": 1002,
+    "word_count": 145
+  }
+}

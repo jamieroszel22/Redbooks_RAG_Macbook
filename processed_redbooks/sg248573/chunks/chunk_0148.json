@@ -1,0 +1,18 @@
+{
+  "content": "Transparency and user control: Provide users with clear information about how their data is used by the model and offer options for controlling data access and sharing. 4.3.4 Explainability AI systems are increasingly used to inform high stakes decisions. Explainability and interpretability of these systems and the models within the system are becoming essential. There are many ways to explain these models and systems, the appropriate choice depends on the usage context and type of explanation that is needed by the consumer of the explanation. 4.3.5 Robustness An AI system is considered robust if it can continue to perform well and reliably even when faced with difficult or unexpected situations. These situations can include anything from slight changes in the data it receives to deliberate attempts to trick or manipulate the system. A robust AI system is designed to handle these challenges effectively, minimizing mistakes and providing consistent and trustworthy results. 4.3.6",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.002080",
+    "chunk_number": 148,
+    "word_count": 152
+  }
+}

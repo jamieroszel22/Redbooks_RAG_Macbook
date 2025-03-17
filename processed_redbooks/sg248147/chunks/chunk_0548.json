@@ -1,0 +1,18 @@
+{
+  "content": "R/W 0 DIR LNX:LNXMAINT. S R/O 698 190 MNT190 Y/S R/O 1123 19E MNT19E Ready; USER LNXMAINT LBYONLY 32M 128M BG INCLUDE IBMDFLT IPL CMS PARM FILEPOOL LNX AUTOCR LOGONBY AUTOLOG1 BG EDIALVES PARZIALE MSOUZA VIC PWNOVAK MACHINE ESA Chapter 6. Configuring z/VM 243 6. Create a PROFILE EXEC for this server machine by using the information in Figure 6-24: ===> xedit profile exec a Figure 6-24 LNXMAINT PROFILE EXEC contents 7. Enroll LNXADMIN, which holds all of the contents that are used to punch the Linux kernel and start the FILESERV GENERATE. We allocate 30,000 blocks initially, which can be increased later as your environment expands: ===> enroll user lnxadmin lnx ( blocks 30000 8. Start the new profile: ===> profile The virtual machine that is the Linux administrative system is now defined. Remain logged in as LNXMAINT and proceed to perform the initial enrollments. 6.16.5 Enrolling the Linux virtual machines as USERS While you are still logged in as LNXMAINT, complete the following",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.336896",
+    "chunk_number": 548,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "environment CF. This function is activated by default when a CF processor is shared. The CPs can run z/OS operating system images and CF images. For software charging reasons, generally use only ICF processors to run CF images. For more information about CF configurations, see the following resources: \u0002 Coupling Facility Configuration Options, GF22-5042 \u0002 This IBM Support web page 140 IBM z16 (3931) Technical Guide 3.10 Virtual Flash Memory Flash Express is not supported on IBM z16. This feature was replaced by IBM Z Virtual Flash Memory (VFM), from IBM z14. The Virtual Flash Memory feature code is 0644 on IBM z16 A01. 3.10.1 IBM Z Virtual Flash Memory overview VFM replaced the PCIe Flash Express feature with support that is based on main memory. The \u201cstorage class memory\u201d that is provided by Flash Express adapters is replaced with memory that is allocated from main memory (VFM). VFM helps improve availability and handling of paging workload spikes when running z/OS. With this",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.625483",
+    "chunk_number": 357,
+    "word_count": 163
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "FICON Express channels \u2013 IBM zHyperLink Express - two ports per feature (carry forward) \u0002 Local area network (LAN) connectivity: \u2013 The Open Systems Adapter (OSA)-Express7S 1.2 GbE, OSA-Express7S 1.2 1000BASE-T, OSA-Express6S GbE, and the OSA-Express6S 1000BASE-T features include two ports each. Note: Throughout this chapter, the terms adapter and card refer to a PCIe I/O feature that is installed in a PCIe+ I/O drawer. Chapter 4. I/O structure 141 \u2013 The OSA-Express7S 1.2 25 GbE, and OSA-Express7S 1.2 10 GbE features have one port each. \u0002 Native PCIe features (plugged into the PCIe+ I/O drawer): \u2013 25GbE and 10GbE Remote Direct Memory Access (RDMA) over Converged Ethernet (RoCE) Express3 (two ports per feature) \u2013 25GbE and 10GbE Remote Direct Memory Access (RDMA) over Converged Ethernet (RoCE) Express2.1 (two ports per feature, carry forward) \u2013 25GbE and 10GbE RoCE Express2 (two ports per feature, carry forward) \u2013 Coupling Express2 Long Reach (CE2 LR) - two ports per feature \u2013 Crypto",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:11.621499",
+    "chunk_number": 360,
+    "word_count": 160
+  }
+}

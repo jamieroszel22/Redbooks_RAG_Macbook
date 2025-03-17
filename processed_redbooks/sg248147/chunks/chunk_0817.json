@@ -1,0 +1,18 @@
+{
+  "content": "user access to a system DASD volume. Query Description 378 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 cp set srm command The cp set srm command sets some of the current z/VM system tuning parameters. These parameters define the size of the time slice, which is the access to the resources for different user classes as seen by the scheduler. Each of these parameters has a default setting that is suitable for most environments. The following System Resource Manager (srm) parameters are included in this display: \u0002 iabias: Interactive bias, used to favor short transactions. \u0002 ldubuf: Controls z/VM\u2019s tolerance for guests that induce paging. \u0002 storbuf: Can be used to encourage z/VM to overcommit main memory. \u0002 dispatching minor timeslice: Controls the length of time that a single user holds onto a processor. \u0002 maxwss: Sets the maximum working set that any normal user is allocated. It is specified as a percentage of the system\u2019s pageable real storage. \u0002 limithard: Sets the enforcement of",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.364025",
+    "chunk_number": 817,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "record is installed on the machines at each site. The machine at Site A has the base capacity configured at the same level as the high water mark of the Site B machine and has flex capacity activated to its HWM. The flex capacity is then added to the machine at Site B, bringing it up to the Site A HWM and workload is transferred. Once all workload has been transferred (within 24 hours) the capacity of the Site A machine is reduced to the base level. Workload can continue to run at Site B for up to a year. Figure 8-13 Flexible Capacity Normal Operation Capacity transfer is shown in Figure 8-14. Flexible Capacity Record is ACTIVE in both sites for up to 24 hours. Figure 8-14 Flexible Capacity record at Site B is activated and workload transferred After the site swap (capacity active in both sites for up to 24 hours), workload can stay in Site B for up to one year. (see Figure 8-15 on page 357). Chapter 8. System upgrades 357 Figure 8-15 Swap and stay at Site B for up to 1 year For more",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.608875",
+    "chunk_number": 884,
+    "word_count": 190
+  }
+}

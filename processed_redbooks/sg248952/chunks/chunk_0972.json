@@ -1,0 +1,18 @@
+{
+  "content": "the changes are visual and should help you to have an even more clear guidance. \u0002 System Availability Data changes Transmit System Availability Data (TSAD) contains important data for the client and IBM. For example this task sends data to IBM Resource Link to have MCL and configuration information available. Also Capacity on Demand (CoD) information is exchanged. IBM proactively monitors RAS (Reliability, Availability, Serviceability) information via TSAD, for other potential actions or system improvements. Users sometimes wanted to modify the execution time of this TSAD and accidentally deleted this TSAD Scheduled Operation. With IBM Z generations prior than IBM z16 A02 and IBM z16 AGZ, Transmit System Availability Data (TSAD) was scheduled in the Customize Scheduled Operation task for the HMC and the SE/CPC. With IBM z16 A02 and IBM z16 AGZ this TSAD functionality moved to the Customize Console Services task as you can see in Figure 10-7. Figure 10-7 New option in Customize Console",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.901688",
+    "chunk_number": 972,
+    "word_count": 157
+  }
+}

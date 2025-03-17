@@ -1,0 +1,18 @@
+{
+  "content": "for System Recovery Boost 3 Statement of Direction: In a future IBM Z hardware system family, the transactional execution and constrained transactional execution facility will no longer be supported. Users of the facility on current servers should always check the facility indications before use. Boost typea z/OS V2R5 z/OS V2R4 z/OS V2R3 z/VM V7R3 z/VM V7R2 z/TPF V1R1 VSEn V6R3 Linux on IBM Z Subcapacity Boost for IPL, Shutdownb Y Y Yc Y Yd Yc Yc N zIIP booste for IPL, shutdown and dump events Y Y Yc N N N N N 268 IBM z16 A02 and IBM z16 AGZ Technical Guide Automation The client\u2019s automation product can be used to automate and control the following System Recovery Boost activities: \u0002 To activate and deactivate the eBod temporary capacity record to provide more physical zIIPs for an IPL or Shutdown Boost. \u0002 To dynamically modify LPAR weights, as might be needed to modify the sharing of physical zIIP capacity during a Boost period. \u0002 To drive the invocation of the PROC that indicates",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.796992",
+    "chunk_number": 651,
+    "word_count": 174
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "Spark engine for data engineering . . . . . . . . . . . . . . . . . . . . . . . . 67 5.2.1 Creating and customizing internal Spark engine inside watsonx.data . . . . . . . . . 67 5.2.2 Explore the tabs in the Spark engine . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74 5.2.3 Submitting the application to Native Spark engine . . . . . . . . . . . . . . . . . . . . . . . . 76 5.3 Execute important queries using the power of traditional RDBMS with shared open lakehouse formats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81 5.3.1 ACID guarantees transactional reliability . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 81 5.3.2 Advanced query optimization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82 5.3.3 Standard SQL support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82 5.3.4 Embracing lakehouse architecture",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.382887",
+    "chunk_number": 11,
+    "word_count": 329
+  }
+}

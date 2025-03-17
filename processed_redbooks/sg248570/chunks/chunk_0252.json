@@ -1,0 +1,18 @@
+{
+  "content": "mitigate information loss at chunk boundaries, you can employ a sliding window technique. This involves creating overlapping segments by moving a fixed-size window across the text. In certain scenarios, like legal documents or scientific articles, where context across sentences is crucial, the sliding window technique can be employed. In other use cases such as well-structured documents like books or formal reports, you can leverage NLP sentence splitters or paragraph identifiers to chunk them based on semantics. IBM Natural Language Understanding services are very helpful for semantic chunking by providing text processing tools like sentence segmentation, paragraph splitting and entity recognition. For more information, see Natural Language Processing. 9.2.3 Step 3: Embedding generation Embedding in RAG refers to the process of converting text (like a sentence, paragraph or document chunk) into a high-dimensional numerical vector that captures the semantic meaning of the text. These",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.318802",
+    "chunk_number": 252,
+    "word_count": 143
+  }
+}

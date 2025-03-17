@@ -1,0 +1,18 @@
+{
+  "content": "know the previous or following stage. Data flows to the next stage when the current stage processed it. This process gives the pipeline a robust behavior. Consider the following points: \u0002 The pipeline starts only if every parameter on every stage is valid and all programs can be allocated on memory. \u0002 A syntax error in any stage or an error on any program on the pipeline stops the entire pipeline. \u0002 Data is read again from input only when the previous record is processed and its output is sent to the next stage. The HELP PIPE command contains more information about the available stages, with samples about the usage of them. 4.5.2 VM Utilities VM Utilities is a repository of tools for z/VM administration. It includes several programs to implement functions that are not available on z/VM. They are intended for system administrators, system programmers, and support personal. The utilities are available for download for no charge at this web page. Even if those utilities are hosted by",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:11.166779",
+    "chunk_number": 256,
+    "word_count": 169
+  }
+}

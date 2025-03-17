@@ -1,0 +1,18 @@
+{
+  "content": "maintain security as the organization evolves. Chapter 4. Protecting data 49 4.1.4 Overview of user and group capabilities in IBM watsonx.data IBM watsonx.data offers extensive user and group management capabilities to enable administrators to control access based on roles, groups, and permissions that are tailored to different stages in the data pipeline. Here are some of the key features: \u0002 Role-based access control (RBAC): Enables administrators to assign roles based on job functions to help ensure that users can access only the data and tools that they need. \u0002 Granular permissions: Offers fine-grained control over specific actions, such as data ingestion, transformation, querying, and model deployment. \u0002 Attribute-based access control (ABAC): Enables flexible, context-based access policies that can dynamically adjust permissions. \u0002 Group management: Supports dynamic and hierarchical groups to simplify the management of users with similar permissions and streamline access control",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.837583",
+    "chunk_number": 128,
+    "word_count": 142
+  }
+}

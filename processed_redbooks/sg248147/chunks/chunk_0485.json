@@ -1,0 +1,18 @@
+{
+  "content": "CRONSVM at * has completed; with RC = 0. 3. This virtual machine has special requirements, which you set by editing the directory entry: ===> dirmaint for cronsvm get lock DVHREQ2288I Your GET request for CRONSVM at * has been accepted. DVHGET3304I Directory entry CRONSVM is now locked. RDR FILE 1301 SENT FROM DIRMAINT PUN WAS 5037 RECS 0010 ... ... ==> receive 1301 File CRONSVM DIRECT A0 created from CRONSVM DIRECT A0 ... 4. Change the directory entry so that it looks like Example 6-22: ===> xedit cronsvm direct a Example 6-22 Change the directory entry USER CRONSVM LBYONLY 32M 32M ABCDEFG INCLUDE TCPCMSU ACCOUNT 3 OPERATOR LOGONBY AUTOLOG1 BG FMIRANDA KWERNER PARZIALE PWNOVAK SPIEDIE IPL 190 MACH XA LINK OPERATOR 0191 0192 RR LINK MAINT 0193 0193 RR LINK TCPMAINT 592 592 RR MDISK 0191 .... //DO NOT ALTER THIS LINE IN YOUR FILE *DVHOPT ....... //DO NOT ALTER THIS LINE IN YOUR FILE ===> dirmaint for cronsvm replace PUN FILE ... SENT TO DIRMAINT RDR AS ... DVHXMT1191I Your REPLACE",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.093521",
+    "chunk_number": 485,
+    "word_count": 173
+  }
+}

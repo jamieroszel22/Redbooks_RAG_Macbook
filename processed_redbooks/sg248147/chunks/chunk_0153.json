@@ -1,0 +1,18 @@
+{
+  "content": "3390-54 or larger volumes available that also include associated HyperPAV aliases, we recommend starting out with these for PAGE and SPOOL use. Specific larger IBM Z or LinuxONE system customer environments are choosing to use volumes that are larger than 3390-27s to avoid reaching the 64 K limit of real device addresses (four-character hexadecimal). EDEVICEs SCSI Disks are emulated as 9336 Model 20 FBA DASD. FBA Emulation allows any operating system or application that supports a 9336 to use SCSI disks without change. The following Emulated 9336 disk sizes are supported: \u0002 1 TB for CP with the exception that PAGE, SPOL, and DRCT allocations must remain below the 64 GB (minus a 4 K page) mark on a CP-formatted volume because internal addressing of these slots is limited to 224 4-K pages. \u0002 381 GB for CMS/GCS including software functions that depend on CMS functions, such as DIRMAINT MOVE, COPY, ERASE and DFSMS MOVE, COPY, and CHECK. z/VM officially supports the following IBM hardware",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.754268",
+    "chunk_number": 153,
+    "word_count": 165
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "server share the CFCC level. IBM z16 servers (CFCC level 25) can coexist in a sysplex with CFCC levels 24, 23, and 22; nevertheless, the latest Coupling Facility Control Code and MCLs levels are always recommended for best performance and availability: \u0002 On IBM z15 (M/T 8561 and 8562): CFCC 24 - Service level 00.22, Bundle S48 released in August 2021. \u0002 On IBM z14 (M/T 3906): CFCC 23 - Service Level 00.20, Bundle S64 released in August 2021. For a CF LPAR with dedicated processors, the CFCC is implemented by using the active wait technique. This technique means that the CFCC is always running (processing or searching for service) and never enters a wait state. Therefore, the CF Control Code uses all the processor capacity that is available for the CF LPAR. If the LPAR that is running the CFCC includes only dedicated processors (CPs or ICFs), the use of all processor capacity (cycles) is not an issue. However, this configuration can be an issue if the LPAR that is running the CFCC",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.610696",
+    "chunk_number": 353,
+    "word_count": 174
+  }
+}

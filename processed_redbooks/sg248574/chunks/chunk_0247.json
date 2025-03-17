@@ -1,0 +1,18 @@
+{
+  "content": "workflow reduces time-to-market and helps ensure that agents can be quickly integrated into enterprise operations. To further enhance the functions of agents, watsonx.ai offers an extensive Tool Library of enterprise-ready tools that are designed to augment the capabilities of agents. The tools are divided into the following categories: \u0002 Web Search \u0002 Document Search (RAG) \u0002 Code Execution \u0002 Data Connectors \u0002 Custom Tool Builder For example, the Web Search tool empowers agents to perform real-time internet searches, which provide them with up-to-date information to enhance their decision-making and responses. The ability to access fast and relevant search results helps ensure that agents remain informed and capable of handling dynamic queries. Chapter 6. Artificial intelligence agents 103 Another critical component of the Tool Library is the Document Search function, which uses RAG. This tool enables agents to efficiently index and retrieve documents from an organization\u2019s knowledge",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:11.175551",
+    "chunk_number": 247,
+    "word_count": 146
+  }
+}

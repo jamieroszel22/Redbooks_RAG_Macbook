@@ -1,0 +1,18 @@
+{
+  "content": "components: \u0002 Other guest virtual machines on the virtual switch \u0002 External network hosts through the virtual switch OSA UPLINK port The supported operating systems are listed in Table 7-8 on page 259 and Table 7-9 on page 261. HiperSockets Multiple Write Facility The HiperSockets Multiple Write Facility allows the streaming of bulk data over a HiperSockets link between two LPARs. Multiple output buffers are supported on a single Signal Adapter (SIGA) write instruction. The key advantage of this enhancement is that it allows the receiving LPAR to process a much larger amount of data per I/O interrupt. This process is transparent to the operating system in the receiving partition. HiperSockets Multiple Write Facility with fewer I/O interrupts is designed to reduce processor use of the sending and receiving partitions. Chapter 7. Operating system support 301 Support for this function is required by the sending operating system. For more information, see \u201cHiperSockets\u201d on page 185. The",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.074130",
+    "chunk_number": 725,
+    "word_count": 156
+  }
+}

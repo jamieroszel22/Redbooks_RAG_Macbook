@@ -1,0 +1,18 @@
+{
+  "content": "the order process Shipping - POD Concept \u0002 Systems are shipped in palletized set of PODs for protection during transport and ease of content removal / install into a rack at the client\u2019s data center. \u0002 Two POD sizes are used (6U and 9U high) with a maximum of three interconnected per pallet. \u0002 Each POD group is fully enclosed in a wooden and palletized crate with removable side panels. \u0002 The system configuration will determine the number of Pods 6 If HMA feature is installed on the system, special upgrade procedure must be followed to ensure non-disruptive SE upgrade. Chapter 9. Reliability, availability, and serviceability 391 \u2013 Clients will have to plan to store the system, in its Pod(s) on the pallet(s), until IBM SSR installs the machine \u2013 Clients must provide service clearances for installation Figure 9-12 displays an example of the wooden shipping container that the pods will ship in. The contents can be any one of the following pods to build the system in the rack. Figure 9-12",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.845969",
+    "chunk_number": 954,
+    "word_count": 172
+  }
+}

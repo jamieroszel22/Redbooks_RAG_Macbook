@@ -1,0 +1,18 @@
+{
+  "content": "z/VM V7R3 80c c. 80-way without multithreading and 40-way with multithreading enabled. z/VM V7R2 80d d. 80-way without multithreading and 40-way with multithreading enabled. z/VM V7R1 80e e. An 80-way without multithreading and 40-way with multithreading enabled. Requires PTF for APAR VM66265. z/VSE V6.2 and later z/VSE Turbo Dispatcher can use up to 4 CPs, and tolerates up to 10-way LPARs z/TPF V1R1 86 CPs CFCC Level 25 16 CPs or ICFs (CPs and ICFs cannot be mixed) Linux on IBM Z \u0002 SUSE Linux Enterprise Server 12 and later: 256 CPs or IFLs. \u0002 Red Hat RHEL 7 and later: 256 CPs or IFLs. \u0002 Ubuntu 20.04.1 LTS and later: 256 CPs or IFLs. KVM Hypervisor The KVM hypervisor is offered with the following Linux distributions -- 256CPs or IFLs--: \u0002 SLES 12 SP5 and later \u0002 RHEL 7.9 and later \u0002 Ubuntu 20.04.1 LTS and later Secure Service Container 80 GDPS Virtual Appliance 80 Chapter 7. Operating system support 267 Maximum main storage size The maximum amount of main storage that is supported by",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.734294",
+    "chunk_number": 632,
+    "word_count": 176
+  }
+}

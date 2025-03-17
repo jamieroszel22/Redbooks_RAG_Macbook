@@ -1,0 +1,18 @@
+{
+  "content": "task on the SE was discontinued with IBM z15. Therefore, an HMC with Driver 51/Version 2.16.0 is required to access the Manage System Time task for IBM z16 A01, IBM z15 T01, and IBM z15 T02 CPCs. Note: Provide some backup power method to hold power for 60 seconds on the PTS to allow failover to successfully complete. Chapter 10. Hardware Management Console and Support Element 443 With the Server Time Protocol (STP) functions, the role of the HMC is extended to provide the user interface for managing the Coordinated Timing Network (CTN). Consider the following points: \u0002 IBM Z CPCs rely on STP for time synchronization, and continue to provide support of a pulse per second (PPS) port. Consider the following points: \u2013 STP can be configured to use Precision Time Protocol (PTP, IEEE 1588) as external time source. Current implementation requires that the support element is connected to a PTP-capable network infrastructure and can access a PTP server. \u2013 An STP that uses Network Time Protocol",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:14.086480",
+    "chunk_number": 1023,
+    "word_count": 168
+  }
+}

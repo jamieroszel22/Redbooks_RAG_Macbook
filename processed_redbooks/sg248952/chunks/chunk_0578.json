@@ -1,0 +1,18 @@
+{
+  "content": "attributes on IBM z16 A02 and IBM z16 AGZ for the two cryptographic hardware features are listed in Table 6-4, where \u201cX\u201d indicates that the function or attribute is supported. Table 6-4 Cryptographic functions on IBM z16 A02 and IBM z16 AGZ TKE workstation TKE Release LIC 8.0a a. The TKE workstation can be upgraded to TKE LIC V10.0 by adding a 4770 cryptographic adapter. 8.1a 9.0a 9.1a 9.2a 10.0 HW Feature Code 0847 0847 or 0097 0085 or 0086 0085 or 0086 0087 or 0088 0057 or 0058 LICC 0877 0878 0879 0880 0881 0882 Smart Card Read- er 0891 0891 0895 0895 0895 0891 Smart Card 0892 0892 0892 0892 0892 0900 Manage Host Crypto Module CEX8C (CCA) No No No No No Yes CEX8P (EP11) No No No No No Yes CEX7C (CCA) No No No No Yes Yes CEX7P (EP11) No No No No Yes Yes CEX6C (CCA) No No Yes Yes Yes Yes CEX6P (EP11) No No Yes Yes Yes Yes Attention: The TKE is unaware of the CPC type where the host crypto module is installed. That is, the TKE does not consider whether a Crypto Express is running on",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.489256",
+    "chunk_number": 578,
+    "word_count": 196
+  }
+}

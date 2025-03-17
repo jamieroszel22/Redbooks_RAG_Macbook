@@ -1,0 +1,18 @@
+{
+  "content": "addressability of a channel subsystem. For more information about multiple subchannel sets, see 5.1.2, \u201cMultiple subchannel sets\u201d on page 200. Note: The phrase channel subsystem has same meaning as logical channel subsystem in this section, unless otherwise stated. 200 IBM z16 (3931) Technical Guide Channel paths A channel path provides a connection between the channel subsystem and control units that allows the channel subsystem to communicate with I/O devices. Depending on the type of connections, a channel path might be a physical connection to a control unit with I/O devices, such as FICON, or an internal logical control unit, such as HiperSockets. Each channel path in a channel subsystem features a unique 2-digit hexadecimal identifier that is known as a channel-path identifier (CHPID), which ranges 00 - FF. Therefore, a total of 256 CHPIDs are supported by a CSS, and a maximum of 1536 CHPIDs are available on an IBM z16 with six logical channel subsystems. By assigning a CHPID to",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.147897",
+    "chunk_number": 494,
+    "word_count": 161
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "modules. \u2013 A unified governance framework for consistent and efficient website development. 7.3.5 Pilot solution The following steps highlight the implementation of the pilot solution: 1. Objective: Demonstrate how watsonx solutions can enhance website development by addressing documentation challenges, improving module reusability, and supporting governance. 2. Steps implemented: The following steps show how the client addressed the challenges: a. Understanding requirements: Conducted workshops with pharma company stakeholders to identify pain points and gather insights into their Drupal-based ecosystem. b. Developing solutions: The client used the following products to develop the solution: \u2022 IBM watsonx.ai: Used for generating and maintaining AI-driven technical documentation. \u2022 IBM watsonx.governance: Implemented to centralize and streamline governance for Drupal modules. c. Knowledge base creation: Built a searchable repository with detailed descriptions and usage guidelines for",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.238534",
+    "chunk_number": 213,
+    "word_count": 129
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "operating systems must include support to configure processors offline or online so that the PU conversion can be done nondisruptively. CPC drawer feature upgrades: Consider the following points: \u0002 Upgrades from CPC feature Max5 to Max16 is concurrent. \u0002 Upgrades from CPC feature Max5 and Max16 to Max32 and Max68 is disruptive. \u0002 Upgrades from IBM z16 A02 and IBM z16 AGZ Max32 to Max68 is concurrent. \u0002 IBM z16 AGZ Max32 to Max68 is concurrent if plan ahead feature (2332) CPC1 Reserve was ordered with the initial system configuration. Important: The LICCC-based PU conversions require that at least one PU (CP, ICF, or IFL), remains unchanged. Otherwise, the conversion is disruptive. The PU conversion generates a LICCC that can be installed concurrently in two steps: 1. Remove the assigned PU from the configuration. 2. Activate the newly available PU as the new PU type. 328 IBM z16 A02 and IBM z16 AGZ Technical Guide 8.2.2 Customer Initiated Upgrade facility The CIU facility is an IBM",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.373008",
+    "chunk_number": 817,
+    "word_count": 166
+  }
+}

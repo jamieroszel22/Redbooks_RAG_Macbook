@@ -1,0 +1,18 @@
+{
+  "content": "link OM4 MTP 150 m (492 ft.) 8 Gbps OM3 MTP 100 m (328 ft.) 8 Gbps ICA SR1.1 0176 Coupling link OM4 MTP 150 m (492 ft.) 8 Gbps OM3 MTP 100 m (328 ft.) 8 Gbps 158 IBM z16 (3931) Technical Guide 4.5 I/O features I/O features (adapters) include ports6 to connect the IBM z16 to external devices, networks, or other servers. I/O features are plugged into the PCIe+ I/O drawer, based on the configuration rules for the server. Different types of I/O cards are available: one for each channel or link type. I/O cards can be installed or replaced concurrently. 4.5.1 I/O feature card ordering information The I/O features that are supported by IBM z16 servers and the ordering information for them are listed in Table 4-4. Table 4-4 I/O features and ordering information 6 Certain I/O features do not have external ports, such as Crypto Express. Channel feature Feature code New build Carry-forward FICON Express32S LX 0461 Y N/A FICON Express32S SX 0462 Y N/A FICON Express16SA LX 0436 N Y FICON",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.760719",
+    "chunk_number": 390,
+    "word_count": 176
+  }
+}

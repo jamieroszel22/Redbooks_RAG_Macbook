@@ -1,0 +1,18 @@
+{
+  "content": "network switches, and associated cables) which is installed in a client supplied 19-inch rack. Power to the system is supplied using client supplied PDUs. The IBM z16 AGZ is installed by the IBM System Service Representative (SSR) in the client supplied 19-inch\u201d rack. Additional planning considerations are needed for IIBM z16 AGZ (components\u2019 location, cabling and power feeds). A sample configuration for an IBM z16 AGZ featuring one CPC drawer and one PCIe+ I/O drawer is shown in Figure 1-2. Figure 1-2 IBM z16 AGZ installed in standard 19\u201d rack 1.3.3 CPC drawers The IBM z16 AGZ can be configured with one or two CPC drawers that contain the following elements: \u0002 Max5 and Max16 (single CPC drawer): \u2013 Two Dual Chip Modules (DCMs) containing 22 active processor unit cores (air-cooled). The processor unit cores run at 4.6 GHz each \u0002 Max32 and Max68 (single- and dual- CPC drawer): \u2013 Four Dual Chip Modules (DCMs) with 40 active cores per CPC drawer, air cooled \u0002 Memory: Note: It is clients\u2019",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:10.482343",
+    "chunk_number": 90,
+    "word_count": 170
+  }
+}

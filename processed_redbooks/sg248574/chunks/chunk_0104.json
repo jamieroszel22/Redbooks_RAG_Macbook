@@ -1,0 +1,18 @@
+{
+  "content": "APIs, and on-premises file systems. The ingestion process is optimized for scalability and can handle large datasets while ensuring data integrity and compatibility with downstream AI workflows. Integration with watsonx.data and watsonx.governance tools enables a secure, governed data pipeline, which enhances traceability and compliance. Manually uploading data to watsonx.ai Studio You can upload files through the watsonx.ai Studio interface by dragging the files there, as shown in Figure 4-23. Figure 4-23 watsonx Studio data upload window 4.5.5 Connecting to data repositories and cloud services watsonx.ai provides robust connectivity options to integrate with various data repositories and cloud services, which help ensure smooth data access for AI model development. Users can connect to cloud storage solutions such as IBM Cloud Object Storage, AWS S3, Azure Blob Storage, and Google Cloud Storage, and traditional databases like PostgreSQL, MySQL, and MongoDB. Figure 4-24 on page 37",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Unleashing the Power of AI with IBM watsonx.ai",
+    "author": "IBM",
+    "date": "D:20250129132437Z",
+    "abstract": null,
+    "keywords": [
+      "SPSS Turbonomic z/OS Linux Microsoft Java Red Hat OpenShift Fedora RStudio Cloudant Cognos DataStage Db2 IBM API Connect IBM Cloud IBM Instana IBM Spectrum IBM Watson Informix InfoSphere Instana Netezza Orchestrate"
+    ],
+    "file_name": "sg248574.pdf",
+    "file_size": 8762666,
+    "page_count": 138,
+    "processed_date": "2025-03-17T13:37:10.535079",
+    "chunk_number": 104,
+    "word_count": 143
+  }
+}

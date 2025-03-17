@@ -1,0 +1,18 @@
+{
+  "content": "between two TCP/IP connection participants, one of which is a server or client application on the local z/VM host. Dynamic SSL/Transport Layer Security (TLS) connections are supported by the following z/VM TCP/IP application servers and clients, which are updated to accommodate this support: \u0002 TCP/IP server \u0002 SSL server \u0002 FTP server \u0002 FTP client \u0002 Telnet server (Internal to the TCP/IP server) \u0002 Telnet client \u0002 Simple Mail Transfer Protocol (SMTP) server Server certificates and certificate authority (CA) certificates are stored in a certificate (key) database, which is in the z/VM Byte File System (BFS) and managed independently of the SSL server. Management is performed by using the GSKKYMAN utility program, which is built around the IBM Global Security Kit (GSKit). The SSL server also provides an SSLADMIN command interface for dynamic server operation that allows certificate database administration and server administration tasks. The setup in this book covers the use of TLS while",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.161129",
+    "chunk_number": 503,
+    "word_count": 155
+  }
+}

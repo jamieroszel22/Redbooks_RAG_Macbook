@@ -1,0 +1,18 @@
+{
+  "content": "VMSES/E files are available VMFCPB4027I Initiating package build for product ID 7VMSES20 (Package 1 of 3) VMFCPB4026I Identifying LOCALMOD content for envelope inclusion VMFCPB4026I Identifying DELTA content for envelope inclusion VMFCPB4024I Creating file: CSMSES01 ENVELOPE C VMFCPB4003I File CSMSES01 ENVELOPE C created Chapter 9. z/VM Centralized Service Management 295 VMFCPB4024I Creating file: CSMSES02 ENVELOPE C VMFCPB4003I File CSMSES02 ENVELOPE C created VMFCPB4024I Creating file: CSMSES03 ENVELOPE C VMFCPB4003I File CSMSES03 ENVELOPE C created VMFCPB4026I Identifying TOOLS content for envelope inclusion VMFCPB4026I Identifying SYSTEM content for envelope inclusion VMFCPB4026I Identifying TASK content for envelope inclusion VMFCPB4026I Identifying NCHELP content for envelope inclusion VMFCPB4025I Confirming required 7VMSES20 files are available VMFCPB4024I Creating file: 7VMSES20 SERVLINK C VMFCPB2936I VMFPLCD command processing is in progress, which might require several",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.789378",
+    "chunk_number": 652,
+    "word_count": 125
+  }
+}

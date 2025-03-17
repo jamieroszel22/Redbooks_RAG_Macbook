@@ -1,0 +1,18 @@
+{
+  "content": "running in HiperDispatch Management Mode cannot be reverted to run in non-HiperDispatch Management Mode. HiperDispatch on IBM z16 A02 and IBM z16 AGZ systems uses chip and CPC drawer configuration to improve the access cache performance. It optimizes the system PU allocation with Chip/cluster/drawer cache structure on IBM Z servers. The base support for IBM z16 A02 and IBM z16 AGZ is provided by PTFs that are identified by: \u0002 IBM.device.server.IBM z16 A02 and IBM z16 AGZ -3931.requiredservice \u0002 IBM.device.server.IBM z16 A02 and IBM z16 AGZ A02-3932.requiredservice IOCP required level for IBM z16 A02 and IBM z16 AGZ: \u0002 z/OS V2.R4 and older releases use the same IOCP FMID HIO1104 \u0002 z/OS V2.R5 uses IOCP FMID HIO1105 For more information, see the following publications: \u0002 Stand-Alone Input/Output Configuration Program User's Guide, SB10-7180 \u0002 Input/Output Configuration Program User\u2019s Guide for ICP IOCP, SB10-7177. Dynamic Partition Manager V5.1: Dynamic Partition Manager V5.1 is",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:12.766058",
+    "chunk_number": 642,
+    "word_count": 151
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "wp=rw `-+- policy='service-time 0' prio=1 status=active |- 0:0:0:1075265552 sda 8:0 active ready running |- 0:0:1:1075265552 sdb 8:16 active ready running |- 1:0:0:1075265552 sdc 8:32 active ready running `- 1:0:1:1075265552 sdd 8:48 active ready running 4. Make the FCP configuration persistent: # lszfcp -D | awk '{ print $1 }' | sed -e 's/\\// /g' >> /etc/zfcp.conf Chapter 13. Disk storage administration 403 5. Create a partition on the multipath device by using the parted command: # parted -s /dev/mapper/mpatha mklabel msdos mkpart primary 0% 100% If you use SUSE Enterprise Linux 15, follow these steps: 1. Enable the FCP adapters\u2019 zfcp_host_configure command: # zfcp_host_configure 0.0.fc00 1 # zfcp_host_configure 0.0.fd00 1 2. Verify that the auto LUN scan feature detected all of the paths to the LUNs: # lsluns Scanning for LUNs on adapter 0.0.fc00 at port 0x500507630500c74c: 0x4010401700000000 at port 0x50050763050bc74c: 0x4010401700000000 Scanning for LUNs on adapter 0.0.fd00 at",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.541352",
+    "chunk_number": 866,
+    "word_count": 149
+  }
+}

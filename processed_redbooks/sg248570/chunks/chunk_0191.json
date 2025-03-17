@@ -1,0 +1,18 @@
+{
+  "content": "compliance, and usability. In this chapter we discuss the following: \u0002 \u201cGoverning your data: The role of catalog, metadata, and policies\u201d on page 88 \u0002 \u201cBest practices for implementing an effective data governance framework\u201d on page 88 \u0002 \u201cIntegration with IBM Knowledge Catalog (IKC)\u201d on page 90 6 88 Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data 6.1 Governing your data: The role of catalog, metadata, and policies The concepts of catalog, metadata, and policies are integral to data governance and management within the watsonx platform. \u0002 Catalog: In watsonx, the catalog acts as a centralized hub for managing and organizing data assets. It provides a unified view of all available data, regardless of its source or location. This allows users to easily discover, understand, and access the data they need for their AI and analytics projects. The catalog not only lists data assets but also provides tools for collaboration and knowledge sharing, enabling teams to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.079445",
+    "chunk_number": 191,
+    "word_count": 159
+  }
+}

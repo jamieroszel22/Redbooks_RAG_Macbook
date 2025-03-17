@@ -1,0 +1,18 @@
+{
+  "content": "z13s and older systems are not supported in same Parallel Sysplex or STP CTN with IBM z16. \u0002 InfiniBand coupling links (if available on IBM z14 M0x) are not supported in a Parallel Sysplex or CTN with an IBM z16 member. Channel feature Feature code New build Carry-forward 160 IBM z16 (3931) Technical Guide A CHPID does not directly correspond to a hardware channel port. Instead, it is assigned to a PCHID in the hardware configuration definition (HCD) or IOCP. A PCHID REPORT is created for each new build server and for upgrades on servers. The report lists all I/O features that are installed, the physical slot location, and the assigned PCHID. A portion of a sample PCHID REPORT is shown in Example 4-2. Example 4-2 PCHID REPORT CHPIDSTART 31463036 PCHID REPORT Nov 10,2021 Machine: 3931-A01 SN1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Source Drwr Slot F/C PCHID/Ports or AID Comment A10/LG06 A10B LG06 0176 AID=05 A15/LG06 A15B LG06 0176 AID=11",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:11.771409",
+    "chunk_number": 393,
+    "word_count": 194
+  }
+}

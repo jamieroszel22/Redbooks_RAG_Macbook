@@ -1,0 +1,18 @@
+{
+  "content": "listed in Table 7-6 on page 257 and Table 7-7 on page 258. For more information about channel subsystem, see Chapter 5, \u201cCentral processor complex channel subsystem\u201d on page 197. Subchannel sets IBM z16 A01 supports four subchannel sets (SS0, SS1, SS2, and SS3). Subchannel sets SS1, SS2, and SS3 can be used for disk alias devices of primary and secondary devices, and as Metro Mirror secondary devices. This set helps facilitate storage growth and complements other functions, such as extended address volume (EAV) and Hyper Parallel Access Volumes (HyperPAV). See Table 7-6 on page 257 and Table 7-7 on page 258 for list of supported operating systems. IPL from an alternative subchannel set IBM z16 supports IPL from subchannel set 1 (SS1), subchannel set 2 (SS2), or subchannel set 3 (SS3), in addition to subchannel set 0. See Table 7-6 on page 257 and Table 7-7 on page 258 for list of supported operating systems. For more information, see \u201cIPL from an alternative subchannel set\u201d on page",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:13.012094",
+    "chunk_number": 709,
+    "word_count": 168
+  }
+}

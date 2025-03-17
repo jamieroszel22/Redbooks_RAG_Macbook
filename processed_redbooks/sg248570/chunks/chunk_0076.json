@@ -1,0 +1,18 @@
+{
+  "content": "enforcement. This is achieved through metadata integration and plug-ins to the engines. There are three levels of user access controls in watsonx.data: \u0002 User Authentication (Level 1 access control): IBM watsonx.data works with a variety of Identity Provider Services, such as Identity Access Management (IAM) and Lightweight Directory Access Protocol (LDAP). Users who access the service through UIs, APIs, SQL editors, and command lines will be authenticated using their user ID and password, API keys, or authentication tokens. \u0002 User Access to resources (Level 2 access control): Roles can be assigned for watsonx.data users to access lakehouse resources. Roles at this level include Viewer, Editor, and Administrator. Resources include Instances, Engines, Catalogs. Storage, and Databases. \u0002 User Access to data (Level 3 access control): IBM watsonx.data enables data administrators to define data access policies for deeper levels of governance. Access policies can be defined on schemas,",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.628384",
+    "chunk_number": 76,
+    "word_count": 146
+  }
+}

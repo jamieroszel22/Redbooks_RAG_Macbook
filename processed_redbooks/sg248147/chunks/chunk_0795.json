@@ -1,0 +1,18 @@
+{
+  "content": "different values are in the user definition. The value for STORAGE defines how much main memory the virtual machine gets at log-on time. The value for MAXSTORAGE defines how much memory can be used by issuing define storage. Consider the following examples: \u0002 Retrieve information about the current memory setting of LNXADMIN: ===> dirm for LNXADMIN STORAGE ? \u0002 Set the default storage size for LNXADMIN to 800 MB: ===> dirm for LNXADMIN STORAGE 800M \u0002 Set the maximum storage size for LNXADMIN to 2 GB: ===> dirm for LNXADMIN MAXSTORAGE 2G 11.4.8 Modifying a user Complete the following steps to manually change a profile: 1. Get the entry from the directory: ===> dirm for LNXPDFLT get DVHXMT1191I Your GET request has been sent for processing to DIRMAINT at DVHXMT1191I ITSOZVM1 via DIRMSAT2. Ready; T=0.01/0.01 10:39:28 DVHREQ2288I Your GET request for LNXPDFLT at * has DVHREQ2288I been accepted. DVHGET3304I Directory entry LNXPDFLT is now locked. DVHREQ2289I Your GET request for LNXPDFLT at",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.298812",
+    "chunk_number": 795,
+    "word_count": 162
+  }
+}

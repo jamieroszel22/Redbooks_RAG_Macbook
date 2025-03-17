@@ -1,0 +1,18 @@
+{
+  "content": "information about the workload, provisioning status, and the rationale for provisioning guidelines. User interfaces are provided through the z/OS console and the CPMC application. The provisioning policy defines the circumstances under which more capacity can be provisioned (when, which, and how). The criteria features the following elements: \u0002 A time condition is when provisioning is allowed: \u2013 Start time indicates when provisioning can begin. \u2013 Deadline indicates that provisioning of more capacity is no longer allowed. \u2013 End time indicates that deactivation of capacity must begin. \u0002 A workload condition is which work qualifies for provisioning. It can have the following parameters: \u2013 The z/OS systems that can run eligible work. \u2013 The importance filter indicates eligible service class periods, which are identified by WLM importance. \u2013 Performance Index (PI) criteria: \u2022 Activation threshold: PI of service class periods must exceed the activation threshold for a specified duration",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.554244",
+    "chunk_number": 865,
+    "word_count": 148
+  }
+}

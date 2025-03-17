@@ -1,0 +1,18 @@
+{
+  "content": "A0A z/VM 7.2 SSI member 2 rdbkzvmi.cpolab.ibm.com 9.76.61.245 LPAR A0C z/VM 7.2 SSI member 3 vmlnx2-1.ats.ibm.com 9.60.101.90 LNXADMIN RHEL FTP Server vmlnx2-2.ats.ibm.com 9.60.101.91 LNXADMIN SLES FTP Server vmlnx2-3.ats.ibm.com 9.60.101.92 LNXADMIN Ubuntu FTP Server vmlnx2-4.ats.ibm.com 9.60.101.93 vmlnx2-5.ats.ibm.com 9.60.101.94 LINUX1 RHEL vmlnx2-6.ats.ibm.com 9.60.101.95 LINUX2 RHEL vmlnx2-7.ats.ibm.com 9.60.101.96 LINUX3 SLES vmlnx2-8.ats.ibm.com 9.60.101.97 LINUX4 SLES vmlnx2-9.ats.ibm.com 9.60.101.98 LINUX5 Ubuntu vmlnx2-10.ats.ibm.com 9.60.101.99 LINUX6 Ubuntu vmlnx2-11.ats.ibm.com 9.60.101.100 vmlnx2-12.ats.ibm.com 9.60.101.101 vmlnx2-13.ats.ibm.com 9.60.101.102 vmlnx2-14.ats.ibm.com 9.60.101.103 vmlnx2-15.ats.ibm.com 9.60.101.104 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. 71 Chapter 3. Security considerations Modern computing systems must be operated in ways that provide protection from various security risks. z/VM provides several controls and facilities that can be used to",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:10.996063",
+    "chunk_number": 211,
+    "word_count": 107
+  }
+}

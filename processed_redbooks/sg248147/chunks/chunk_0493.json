@@ -1,0 +1,18 @@
+{
+  "content": "1280, bytes out= 3920 ( 306%). SFPURGER OPTIONS W1. Bytes in= 560, bytes out= 1440 ( 257%). SLINK EXEC W1. Bytes in= 640, bytes out= 1062 ( 165%). SVMREST EXEC W1. Bytes in= 800, bytes out= 1257 ( 157%). VMLOGS CONTENTS W1. Bytes in= 3040, bytes out= 8960 ( 294%). VMLOGS DIRECT W1. Bytes in= 400, bytes out= 480 ( 120%). VMLOGS PARMS W5. Bytes in= 560, bytes out= 960 ( 171%). 8. Erase the unnecessary directory entry from W, then release and detach W: ===> erase vmlogs direct W ===> release W (detach Chapter 6. Configuring z/VM 217 9. Issue the following command to start VMLOGS with the XAUTOLOG command and the SYNC option that returns control to MAINT/MAINT720, and sets MAINT/MAINT720 to be the secondary user. This way, VMLOGS does not have to be logged on to, but you can see its console output: ===> xautolog vmlogs sync # set secuser vmlogs * AUTO LOGON *** VMLOGS USERS = 15 Ready; HCPCFX6768I SECUSER of VMLOGS initiated. Ready; Watch for errors and check to ensure that everything",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:12.123107",
+    "chunk_number": 493,
+    "word_count": 178
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "K or 4 K units of data. Figure 7-2 shows a single CCW that controls the transfer of data that spans noncontiguous 4 K frames in main storage. When the IDAW flag is set, the data address in the CCW points to a list of words (IDAWs). Each IDAW contains an address that designates a data area within real storage. Figure 7-2 IDAW usage The number of required IDAWs for a CCW is determined by the following factors: \u0002 IDAW format as specified in the operation request block (ORB) \u0002 Count field of the CCW \u0002 Data address in the initial IDAW 10 Exceptions are made to this statement, and many details are omitted in this description. In this section, we assume that you can merge this brief description with an understanding of I/O operations in a virtual memory environment. Chapter 7. Operating system support 291 For example, three IDAWS are required when the following events occur: \u0002 The ORB specifies format-2 IDAWs with 4 KB blocks. \u0002 The CCW count field specifies 8 KB. \u0002 The first IDAW designates",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.972269",
+    "chunk_number": 697,
+    "word_count": 180
+  }
+}

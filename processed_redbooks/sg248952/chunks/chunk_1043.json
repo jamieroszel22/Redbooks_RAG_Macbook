@@ -1,0 +1,18 @@
+{
+  "content": "these machines. For detailed information regarding the specifications and requirements, always refer to the Installation Manual for Physical Planning (IMPP) for the specific configurations (available at the IBM Resource Link website (login required)): \u0002 3932 Single Frame Installation Manual for Physical Planning (A02/LA2), GC28-7040 \u0002 IBM z16 and LinuxONE Rockhopper 4 Rack Mount Bundle Installation Manual for Physical Planning (IMPP), GC28-7035 440 IBM z16 A02 and IBM z16 AGZ Technical Guide 11.1 Introduction The IBM z16 A02 and IBM z16 AGZ is the first generation of IBM Z to deliver two different air-cooled configurations, which can be installed based on clients\u2019 requirements; The configurations are: \u0002 The IBM z16 A02: single frame, factory assembled in an IBM 19-inch rack \u0002 The IBM z16 AGZ: a component bundle which enables the core compute, I/O and networking components to be installed into a client provided standard 19-inch rack and powered by client supplied power distribution",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.156704",
+    "chunk_number": 1043,
+    "word_count": 153
+  }
+}

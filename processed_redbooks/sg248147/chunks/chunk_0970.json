@@ -1,0 +1,18 @@
+{
+  "content": "same WebSphere binaries from the WebSphere installation directory, so service can be applied to WebSphere and apply to all the profiles. So, with WebSphere V8.5.5.xthe WebSphere binaries are separate from the user data files in the same way as V6, V7 and V8. We can use this separation to allow profiles to share the WebSphere binaries not only on the same server, but across many servers.The methods and procedures for sharing the WebSphere binaries in V8.5.5.xdiffer little from V8. See the following section on what is different for those administrators that are already familiar with the sharing concepts in V8 of this paper. Although this document covers a specific version of WebSphere Application Server, the methodologies that are described are substantially similar for newer versions of WebSphere Application Server. 458 Virtualization Cookbook: Vol 1: IBM z/VM 7.2 \u00a9 Copyright IBM Corp. 2015, 2016, 2021. All rights reserved. 459 Part 4 Appendixes This part consists of the following",
+  "metadata": {
+    "title": "Virtualization Cookbook for IBM Z Volume 1: IBM z/VM 7.2",
+    "author": "IBM",
+    "date": "D:20241111075020Z",
+    "abstract": null,
+    "keywords": [
+      "S/390 Satellite System z Tivoli VTAM WebSphere XIV z Systems z/Architecture z/OS z/VM z/VSE z13 z15 zEnterprise Linux ITIL Windows Microsoft Java Red Hat OpenShift Fedora Ansible UNIX VMware AIX DB2 DS8000 eServer FICON FlashCopy"
+    ],
+    "file_name": "sg248147.pdf",
+    "file_size": 6234969,
+    "page_count": 546,
+    "processed_date": "2025-03-17T13:37:13.876931",
+    "chunk_number": 970,
+    "word_count": 157
+  }
+}

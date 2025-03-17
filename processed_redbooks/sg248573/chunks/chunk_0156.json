@@ -1,0 +1,18 @@
+{
+  "content": "watsonx.governance with manual checks and balances to ultimately approve or reject a use case and record the transparent process and findings along the way. This process can always be customized to fit an organization's specific needs. Figure 5-1 Typical use case assessment process workflow leveraging watsonx.governance The typical process flows as follows: \u0002 Propose the use case: The process starts with a member of the business proposing a use case within the watsonx.governance console. The creator could be any member of the business who originates the problem to be solved. Typically, this would be a member of a business line, but could also be technical depending on the problem to be solved. \u0002 Questionnaire Assessments: Once the use case is created, watsonx.governance creates assessment questionnaires to be completed by the business line and necessary technical teams. The answers to these questions allow watsonx.governance to auto-populate the use case with applicable risks from the",
+  "metadata": {
+    "title": "Ensuring Trustworthy AI with IBM watsonx.governance",
+    "author": "IBM",
+    "date": "D:20250127103457Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks IBM Cloud IBM Research IBM Watson OpenPages SPSS Microsoft Red Hat OpenShift RStudio"
+    ],
+    "file_name": "sg248573.pdf",
+    "file_size": 2989189,
+    "page_count": 104,
+    "processed_date": "2025-03-17T13:37:13.030021",
+    "chunk_number": 156,
+    "word_count": 153
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "content": "analytics and reporting pipelines are grounded in a stable and reliable foundation, reducing the risk of erroneous insights and regulatory non-compliance. 5.3.2 Advanced query optimization Optimizing queries is as much an art as it is a science in the database world. Traditional RDBMS platforms have refined their optimization engines over decades, employing a deep understanding of data distribution, indexing structures, join algorithms, and CPU and memory utilization patterns. These optimizations allow complex analytical workloads-like intricate joins between large tables, multi-level aggregations, and subqueries to execute within practical time frames. RDBMS query optimizers rely on comprehensive metadata and statistics about the underlying data. They analyze the sizes of tables, distribution of values, existing indexes, and cost models to determine the most efficient execution plan. Whether scanning a massive fact table, leveraging a sorted index, or pushing filters down closer to",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:12.024754",
+    "chunk_number": 177,
+    "word_count": 139
+  }
+}

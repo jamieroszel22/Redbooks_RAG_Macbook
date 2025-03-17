@@ -1,0 +1,18 @@
+{
+  "content": "tools fit into the pipeline: 2.5.1 Apache Spark in watsonx.data Apache Spark serves as the primary engine for distributed data processing within watsonx.data. Its integration is key to executing high-performance, large-scale data transformations and analytics. The following are the key considerations: \u0002 Unified analytics: Spark, within watsonx.data, processes data directly in the lakehouse, supporting SQL queries, ML, and graph analytics. \u0002 Delta lake integration: Enables ACID transactions, schema enforcement, and time travel, ensuring reliable and consistent data for analytics. \u0002 Batch and streaming workloads: Spark supports both batch processing (for example, historical data analysis) and streaming (real-time data ingestion) using Structured Streaming. \u0002 Optimization: Use the watsonx.data built-in query accelerators and Spark\u2019s Catalyst optimizer for efficient query execution and resource usage. \u0002 Interoperability: Spark seamlessly integrates with various data formats supported by",
+  "metadata": {
+    "title": "Simplify Your AI Journey: Hybrid, Open Data Lakehouse with IBM watsonx.data",
+    "author": "IBM",
+    "date": "D:20250129212048Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Redbooks DataStage DB2 Db2 IBM Cloud IBM Cloud Pak IBM Research Netezza Resilient Think ITIL Microsoft Java Red Hat OpenShift Ceph"
+    ],
+    "file_name": "sg248570.pdf",
+    "file_size": 11910281,
+    "page_count": 182,
+    "processed_date": "2025-03-17T13:37:11.676551",
+    "chunk_number": 86,
+    "word_count": 132
+  }
+}

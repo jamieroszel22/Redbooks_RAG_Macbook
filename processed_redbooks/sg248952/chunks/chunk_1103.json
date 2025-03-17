@@ -1,0 +1,18 @@
+{
+  "content": "topics: \u0002 \u201cClient value of IBM Z compression\u201d on page 478 \u0002 \u201cIBM z16 A02 and IBM z16 AGZ IBM Integrated Accelerator for zEDC\u201d on page 478 \u0002 \u201cIBM z16 A02 and IBM z16 AGZ migration considerations\u201d on page 480 \u0002 \u201cSoftware support\u201d on page 480 \u0002 \u201cCompression acceleration and Linux on IBM Z\u201d on page 481 C 478 IBM z16 A02 and IBM z16 AGZ Technical Guide Client value of IBM Z compression The amount of data that is captured, transferred, and stored continues to grow. Software-based compression algorithms can be costly in terms of processor resources, storage costs, and network bandwidth. An optional PCIe feature that was available for IBM z14, zEDC Express, addressed customer requirements by providing hardware-based acceleration for data compression and decompression. zEDC provided data compression with lower CPU consumption than compression technology that was available on the IBM Z server. Clients deployed zEDC compression to deliver the following types of compression: \u0002 Storage \u0002 Data",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:14.309186",
+    "chunk_number": 1103,
+    "word_count": 161
+  }
+}

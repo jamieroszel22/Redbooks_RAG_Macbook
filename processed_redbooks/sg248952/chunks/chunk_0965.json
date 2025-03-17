@@ -1,0 +1,18 @@
+{
+  "content": "Welcome panel used in previous HMC Drivers/Versions. Initially there are 4 widgets available: \u2013 Systems health: Summarizes status of systems managed by the HMC \u2013 Hardware messages: Manage hardware messages for all managed systems \u2013 Frequently used tasks: Display your most frequently launched tasks \u2013 What\u2018s new: Display information about the latest console feature An example of the new Dashboard can be seen in Figure 10-4 on page 398. 398 IBM z16 A02 and IBM z16 AGZ Technical Guide Figure 10-4 The new Dashboard on the HMC Further under Helpful links you will find links to Resource Link, videos, and so on. And under About this HMC you can find information like the actual installed Bundle level. If the HMC is part of an HMA, About this HMC shows if this HMC has currently the Primary or Alternate SE running. Also the name of the peer HMC, where the 2nd SE is running, is displayed as you can see in Figure 10-5. Figure 10-5 Example of About this HMC \u0002 N-mode Power STP Imminent disruption",
+  "metadata": {
+    "title": "IBM z16 A02 and IBM z16 AGZ Technical Guide",
+    "author": "IBM",
+    "date": "D:20241220092600Z",
+    "abstract": null,
+    "keywords": [
+      "IBM Cloud IBM Watson IBM z Systems IBM z14 IBM z14 ZR1 IBM z15 T01 BM z15 T02 IBM z16 A01 IBM z16 A02 IBM z16 AGZ"
+    ],
+    "file_name": "sg248952.pdf",
+    "file_size": 22216749,
+    "page_count": 522,
+    "processed_date": "2025-03-17T13:37:13.879304",
+    "chunk_number": 965,
+    "word_count": 175
+  }
+}

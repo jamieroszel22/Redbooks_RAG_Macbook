@@ -1,0 +1,18 @@
+{
+  "content": "number and a new device type in an alternative subchannel set to be used for IPL, an I/O definition file (IODF), and stand-alone memory dump volumes, when needed. Chapter 5. Central processor complex channel subsystem 203 The display ios,config command The z/OS display ios,config(all) command that is shown in Figure 5-2 includes information about the MSSs. Figure 5-2 Output for display ios,config(all) command with MSS D IOS,CONFIG(ALL) IOS506I 11.14.46 I/O CONFIG DATA 606 ACTIVE IODF DATA SET = SYS9.IODF81 CONFIGURATION ID = ITSO EDT ID = 01 TOKEN: PROCESSOR DATE TIME DESCRIPTION SOURCE: PAVO 22-03-04 09:12:20 SYS9 IODF81 ACTIVE CSS: 3 SUBCHANNEL SETS CONFIGURED: 0, 1, 2, 3 CHANNEL MEASUREMENT BLOCK FACILITY IS ACTIVE SUBCHANNEL SET FOR PPRC PRIMARY: INITIAL = 0 ACTIVE = 0 HYPERSWAP FAILOVER HAS OCCURRED: NO LOCAL SYSTEM NAME (LSYSTEM): PAVO HARDWARE SYSTEM AREA AVAILABLE FOR CONFIGURATION CHANGES PHYSICAL CONTROL UNITS 8061 CSS 0 - LOGICAL CONTROL UNITS 4027 SS 0 SUBCHANNELS 59510 SS",
+  "metadata": {
+    "title": "IBM z16 (3931) Technical Guide",
+    "author": "IBM",
+    "date": "D:20241025140729Z",
+    "abstract": null,
+    "keywords": [
+      "Resource Link Sterling System z System z10 System z9 VTAM WebSphere z Systems z/Architecture z/OS z/VM z/VSE z13 z13s z15 z16 z9 zEnterprise Linux Evolution Windows Microsoft Java Red Hat UNIX VMware AIX CICS Connect:Direct"
+    ],
+    "file_name": "sg248951.pdf",
+    "file_size": 23877593,
+    "page_count": 564,
+    "processed_date": "2025-03-17T13:37:12.174778",
+    "chunk_number": 502,
+    "word_count": 158
+  }
+}
